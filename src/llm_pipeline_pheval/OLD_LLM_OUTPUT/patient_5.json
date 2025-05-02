@@ -1,0 +1,10 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Wilson's disease",
+      "disease_id": "OMIM:305849",
+      "score": 1.0,
+      "explanation": "Wilson's disease is associated with copper metabolism disorders and can cause neurological atrophy, which aligns with the patient's symptoms."
+    }
+  ]
+}

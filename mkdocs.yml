@@ -1,0 +1,40 @@
+site_name: LLM_PIPELINE_PHEVAL
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Night Mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Day Mode
+
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - mkdocs-click
+
+plugins:
+  - search
+  - autorefs
+  - include_dir_to_nav
+  - mkdocstrings:
+      enable_inventory: true
+
+watch:
+  - src
+
+nav:
+  - "index.md"
+
+
+site_url: https://nags902.github.io/LLM_PIPELINE_PHEVAL/
+repo_url: https://github.com/nags902/LLM_PIPELINE_PHEVAL
+edit_uri: "edit/docs/docs/"

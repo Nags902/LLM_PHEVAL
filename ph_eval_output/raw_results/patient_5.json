@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria",
+      "disease_id": "OMIM:0001562734",
+      "score": 0.8,
+      "explanation": "Glutaric aciduria is a metabolic disorder that can cause hydrocephalus, subdural hemorrhage, and dystonia due to its effect on the brain and nervous system."
+    },
+    {
+      "disease_name": "Hydroencephalus",
+      "disease_id": "OMIM:0001562734",
+      "score": 0.8,
+      "explanation": "Hydroencephalus can lead to macrocephaly and subdural hemorrhage, which align with the patient's symptoms."
+    },
+    {
+      "disease_name": "Dystonia (Mitochondrial)",
+      "disease_id": "OMIM:0001562734",
+      "score": 0.8,
+      "explanation": "Mitochondrial dystonias can cause muscle twitches and rigidity, aligning with the patient's dystonia."
+    }
+  ]
+}

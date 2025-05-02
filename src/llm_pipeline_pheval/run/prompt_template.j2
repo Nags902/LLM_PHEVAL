@@ -1,0 +1,36 @@
+Patient Information:
+- Age: {{ patient.age }}
+- Gender: {{ patient.gender }}
+
+Phenotypic Features:
+{% if phenotypes %}
+{% for pheno in phenotypes -%}
+- {{ pheno.label }} ({{ pheno.id }})
+{% endfor %}
+{% else %}
+- None listed
+{% endif %}
+
+Task:
+Based on the above clinical data, please analyze the patient's condition and return a ranked list of the most likely causative diseases.
+For each disease, please provide the following fields:
+- 'disease_name': The name of the disease
+- 'disease_id': The disease identifier, in the form of a OMIM ID (e.g., OMIM:123456)
+- 'score': The reciprocal of its rank (1/rank)
+- 'explanation': A brief explanation for why the disease is ranked at that position
+
+The list should be sorted in descending order, with the most likely disease first.
+
+Return your answer strictly in this JSON format without any extra text:
+{% raw %}
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiseaseName",
+      "disease_id": "DiseaseID",
+      "score": 1.0,
+      "explanation": "Brief explanation."
+    }
+  ]
+}
+{% endraw %}

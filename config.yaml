@@ -1,0 +1,6 @@
+tool: LLM_PIPELINE_PHEVAL
+tool_version: 0.0.0
+variant_analysis: false
+gene_analysis: false
+disease_analysis: true
+tool_specific_configuration_options:

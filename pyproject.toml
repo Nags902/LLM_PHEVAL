@@ -1,0 +1,83 @@
+[tool.poetry]
+name = "LLM_PIPELINE_PHEVAL"
+version = "0.0.0"
+description = "LLM_PIPELINE_PHEVAL"
+authors = ["Nagasharan Seemakurti <Nagasharanseemakurti@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+click = "*"
+importlib-metadata = ">=8.2.0"
+pheval = "^0.5.0"
+ollama = "^0.4.8"
+pandas = "^2.2.3"
+polars = "^1.29.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = {version = ">=8.3.2"}
+tox = {version = ">=4.16.0"}
+pre-commit = {version = ">=3.3.3"}
+
+[tool.poetry.group.docs]
+optional = true
+
+[tool.poetry.group.docs.dependencies]
+mkdocs = "^1.4.2"
+mkdocs-material = "^8.5.11"
+mkdocstrings = "^0.24.0"
+mkdocstrings-python = "^1.8.0"
+pymdown-extensions = "^9.9"
+mkdocs-include-dir-to-nav = "^1.2.0"
+mkdocs-click = "^0.8.0"
+griffe = "0.38.1"
+
+[tool.poetry.scripts]
+LLM_PIPELINE_PHEVAL = "llm_pipeline_pheval.cli:main"
+
+[tool.poetry.plugins."pheval.plugins"]
+runnerphevalllm = "llm_pipeline_pheval.runner:RUNNER_PHEVAL_LLM"
+
+[tool.black]
+line-length = 120
+target-version = ["py38", "py39", "py310"]
+
+[tool.ruff]
+lint.extend-ignore = [
+    "D211",  # `no-blank-line-before-class`
+    "D212",  # `multi-line-summary-first-line`
+    "D203",  # `blank-line-before-docstring`
+    ]
+line-length = 120
+
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+lint.fixable = ["ALL"]
+
+# Select or ignore from https://beta.ruff.rs/docs/rules/
+lint.select = [
+    "B",  # bugbear
+    "D",  # pydocstyle
+    "E",  # pycodestyle errors
+    "F",  # Pyflakes
+    "I",  # isort
+    "S",  # flake8-bandit
+    "W",  # Warning
+]
+
+lint.unfixable = []
+target-version = "py310"
+
+[tool.ruff.lint.mccabe]
+# Unlike Flake8, default to a complexity level of 10.
+max-complexity = 10
+
+[tool.codespell]
+skip = "*.po,*.ts,.git,pyproject.toml"
+count = ""
+quiet-level = 3
+# ignore-words-list = ""
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

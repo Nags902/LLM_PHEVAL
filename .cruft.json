@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/monarch-initiative/pheval-runner-template",
+  "commit": "7f05e573dc05d5221d9496dc6637b25b5491af2d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "LLM_PIPELINE_PHEVAL",
+      "github_org_name": "nags902",
+      "__project_slug": "llm_pipeline_pheval",
+      "project_description": "Experimenting with an LLM based approach to phenotype-driven rare disease diagnosis for exomiser",
+      "min_python_version": "3.10",
+      "file_name": "MAIN",
+      "runner_name": "RUNNER_PHEVAL_LLM",
+      "greeting_recipient": "LLM based phenotype driven disease diagnosis by Nags",
+      "full_name": "Nagasharan Seemakurti",
+      "email": "Nagasharanseemakurti@gmail.com",
+      "__author": "Nagasharan Seemakurti <Nagasharanseemakurti@gmail.com>",
+      "license": "MIT",
+      "github_token_for_doc_deployment": "N/A",
+      "github_token_for_pypi_deployment": "N/A",
+      "_template": "https://github.com/monarch-initiative/pheval-runner-template",
+      "_commit": "7f05e573dc05d5221d9496dc6637b25b5491af2d"
+    }
+  },
+  "directory": null
+}
