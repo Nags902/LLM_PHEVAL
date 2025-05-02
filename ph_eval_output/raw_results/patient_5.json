@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric Aciduria",
-      "disease_id": "OMIM:0001562734",
-      "score": 0.8,
-      "explanation": "Glutaric aciduria is a metabolic disorder that can cause hydrocephalus, subdural hemorrhage, and dystonia due to its effect on the brain and nervous system."
+      "disease_name": "Albinism",
+      "disease_id": "OMIM:042156",
+      "score": 0.83,
+      "explanation": "Genetic disorder causing macrocephaly, cerebral atrophy, and subdural hemorrhage."
     },
     {
-      "disease_name": "Hydroencephalus",
-      "disease_id": "OMIM:0001562734",
+      "disease_name": "Mitochondrial Myopathy",
+      "disease_id": "OMIM:619047",
       "score": 0.8,
-      "explanation": "Hydroencephalus can lead to macrocephaly and subdural hemorrhage, which align with the patient's symptoms."
+      "explanation": "Causes dystonia and may link other symptoms to genetic factors."
     },
     {
-      "disease_name": "Dystonia (Mitochondrial)",
-      "disease_id": "OMIM:0001562734",
-      "score": 0.8,
-      "explanation": "Mitochondrial dystonias can cause muscle twitches and rigidity, aligning with the patient's dystonia."
+      "disease_name": "Hemolytic Anemia with Reticulocytosis",
+      "disease_id": "OMIM:042156",
+      "score": 0.7,
+      "explanation": "Could explain subdural hemorrhage alongside genetic factors."
+    },
+    {
+      "disease_name": "Lysosomal Storage Disorder",
+      "disease_id": "OMIM:031285",
+      "score": 0.6,
+      "explanation": "Affects metabolism and muscle weakness, possibly linked to other symptoms."
     }
   ]
 }
