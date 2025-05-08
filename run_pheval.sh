@@ -27,8 +27,8 @@ for i in {1..30}; do
   sleep 1
 done
 
-### 5) Pull the DeepSeek-R1:671b model (idempotent)
-echo "[INFO] Pulling DeepSeek-R1:671b…"
+### 5) Pull the DeepSeek-R1:14b model (idempotent)
+echo "[INFO] Pulling DeepSeek-R1:14b…"
 $OLLAMA_BIN pull DeepSeek-R1:14b
 
 ### 6) Activate your conda env
