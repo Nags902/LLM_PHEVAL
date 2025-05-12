@@ -1,0 +1,251 @@
+Variable OMP_NUM_THREADS has been set to 3
+[INFO] Fri May  9 06:52:32 PM BST 2025 — Starting Ollama server…
+[INFO] Waiting for Ollama to become ready…
+[INFO] Ollama is ready!
+[INFO] Pulling DeepSeek-R1:14b…
+[?2026h[?25l[1Gpulling manifest ⠋ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠙ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠹ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠸ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠼ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠴ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 6e9f90f02bb3: 100% ▕██████████████████▏ 9.0 GB                         [K
+pulling 369ca498f347: 100% ▕██████████████████▏  387 B                         [K
+pulling 6e4c38e1172f: 100% ▕██████████████████▏ 1.1 KB                         [K
+pulling f4d24e9138dd: 100% ▕██████████████████▏  148 B                         [K
+pulling 3c24b0c80794: 100% ▕██████████████████▏  488 B                         [K
+verifying sha256 digest [K
+writing manifest [K
+success [K[?25h[?2026l
+[INFO] Activating Conda environment…
+[INFO] Conda environment activated: pheval-py310 (should be 'pheval-py310')
+[INFO] Python interpreter: /data/home/bt24991/.conda/envs/pheval-py310/bin/python
+[INFO] Python version: Python 3.10.17
+[INFO] Running PhEval…
+[2025-05-09 18:53:27] [INFO] [cli_pheval.py:91] - Executing runnerphevalllm.
+[2025-05-09 18:53:28] [INFO] [config_parser.py:41] - Parsing config.yaml located in ..
+[2025-05-09 18:53:28] [INFO] [runner.py:92] - Building output directory structure for LLM_PIPELINE_PHEVAL version 0.0.0
+[2025-05-09 18:53:28] [INFO] [cli_pheval.py:96] - Executing prepare phase.
+[2025-05-09 18:53:28] [INFO] [runner.py:92] - Building output directory structure for LLM_PIPELINE_PHEVAL version 0.0.0
+[2025-05-09 18:53:28] [INFO] [cli_pheval.py:98] - Executing run phase.
+[2025-05-09 18:53:28] [INFO] [phenopacket_utils.py:196] - Parsing Phenopacket: Ekvall-2015-NRAS-case_1.json
+[2025-05-10 19:26:40] [INFO] [_client.py:1025] - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2025-05-10 19:26:40] [INFO] [phenopacket_utils.py:196] - Parsing Phenopacket: patient_5.json
+[2025-05-12 11:05:50] [INFO] [_client.py:1025] - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+[2025-05-12 11:05:50] [INFO] [cli_pheval.py:100] - Executing post-processing phase.
+[2025-05-12 11:05:50] [INFO] [post_processing.py:154] - Writing classified results for 2 phenopackets to ph_eval_output/pheval_disease_results/pheval_disease_results
+[2025-05-12 11:05:50] [INFO] [phenopacket_utils.py:196] - Parsing Phenopacket: Ekvall-2015-NRAS-case_1.json
+[2025-05-12 11:05:51] [INFO] [phenopacket_utils.py:196] - Parsing Phenopacket: patient_5.json
+[2025-05-12 11:05:51] [INFO] [cli_pheval.py:103] - Writing metadata for run to ph_eval_output.
+[2025-05-12 11:05:51] [INFO] [cli_pheval.py:105] - Run completed! Total time: 231143.94 seconds.
+
+        Welcome to:
+        ██████╗ ██╗  ██╗███████╗██╗   ██╗ █████╗ ██╗
+        ██╔══██╗██║  ██║██╔════╝██║   ██║██╔══██╗██║
+        ██████╔╝███████║█████╗  ██║   ██║███████║██║
+        ██╔═══╝ ██╔══██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║
+        ██║     ██║  ██║███████╗ ╚████╔╝ ██║  ██║███████╗
+        ╚═╝     ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝
+        A framework for the empirical evaluation of phenotype-driven prioritisation tools.
+        
+=== Prompt ===
+Patient Information:
+- Age: P28Y
+- Gender: 1
+
+Phenotypic Features:
+
+- Freckling (HP:0001480)
+- Short neck (HP:0000470)
+- Low posterior hairline (HP:0002162)
+- Growth delay (HP:0001510)
+- Cardiomyopathy (HP:0001638)
+- Bilateral ptosis (HP:0001488)
+- Feeding difficulties (HP:0011968)
+- Broad forehead (HP:0000337)
+- Hypertelorism (HP:0000316)
+- Downslanted palpebral fissures (HP:0000494)
+- Macrocephaly (HP:0000256)
+- Attention deficit hyperactivity disorder (HP:0007018)
+- Broad neck (HP:0000475)
+- Low-set ears (HP:0000369)
+- Cafe-au-lait spot (HP:0000957)
+
+
+
+Task:
+Based on the above clinical data, please analyze the patient's condition and return a ranked list of the most likely causative diseases.
+For each disease, please provide the following fields:
+- 'disease_name': The name of the disease
+- 'disease_id': The disease identifier, in the form of a OMIM ID (e.g., OMIM:123456)
+- 'score': The reciprocal of its rank (1/rank)
+- 'explanation': A brief explanation for why the disease is ranked at that position
+
+The list should be sorted in descending order, with the most likely disease first.
+
+Return your answer strictly in this JSON format without any extra text:
+
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiseaseName",
+      "disease_id": "DiseaseID",
+      "score": 1.0,
+      "explanation": "Brief explanation."
+    }
+  ]
+}
+
+=== Raw LLM Output ===
+<think>
+Okay, so I'm trying to figure out the most likely diseases for this patient based on their symptoms and phenotype data. Let's start by looking at each of the phenotypic features one by one and see if they point towards any specific conditions.
+
+First, the patient has freckling, which is a common feature in genetic disorders like Albinism (HP:0001480). But there are other possibilities too. Then, short neck could be related to spinal issues or certain metabolic disorders. Low posterior hairline might suggest something like hypogonadism or pituitary problems.
+
+Growth delay is a big clue because it's associated with several genetic conditions such as Growth Delay-Disorders of Development (HP:0001510), Down syndrome, or maybe even some chromosomal abnormalities. Cardiomyopathy could point towards heart issues like Hypertrophic Cardiomyopathy (HP:0001638) or Dilated Cardiomyopathy.
+
+Bilateral ptosis is definitely pointing towards blepharopharyngeal dysplasia (HP:0001488), which is a genetic disorder affecting the facial nerve. Feeding difficulties might be linked to various conditions like Gaucher's disease, but without more info, it's hard to say.
+
+Broad forehead could be due to frontal lobe issues or certain genetic syndromes. Hypertelorism and Downslanted palpebral fissures are common in blepharopharyngeal dysplasia as well. Macrocephaly is a bit broad, but could also relate to conditions like Klinefelter syndrome.
+
+Attention deficit hyperactivity disorder (HP:0007018) is a neurodevelopmental condition that's more common in males, which fits with the patient being male (Gender: 1). Broad neck and low-set ears are features of Trisomy 13 or 15 syndromes. Cafe-au-lait spot is typically associated with Dubin-Johnson syndrome.
+
+Putting this all together, the most likely diseases seem to be Albinism because of the freckling and other pigmentation issues, but also considering the Down syndrome-like features (growth delay, heart issues). However, blepharopharyngeal dysplasia stands out due to bilateral ptosis, hypertelorism, and facial nerve involvement. The presence of Downslanted fissures supports this.
+
+I should also consider if there's a common genetic disorder that encompasses multiple symptoms here. For example, Albinism (HP:0001480) is linked to pigmentation issues but doesn't typically cause heart or growth delays unless it's combined with other conditions like Klinefelter syndrome. Alternatively, Down syndrome (HP:0007025) has a high incidence of heart issues and growth delay but may not explain the facial features as well.
+
+Given all this, I think the top two are Albinism and blepharopharyngeal dysplasia. But since the patient is male with Down syndrome-like features, maybe Down syndrome (HP:0007025) could be a contender too.
+</think>
+
+```json
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albinism",
+      "disease_id": "OMIM:0001480",
+      "score": 0.9,
+      "explanation": "Freckling and pigmentation issues suggest albinism, which often involves genetic mutations affecting skin and hair color."
+    },
+    {
+      "disease_name": "Blepharopharyngeal Dysplasia",
+      "disease_id": "OMIM:0001488",
+      "score": 0.9,
+      "explanation": "Bilateral ptosis, hypertelorism, and facial nerve involvement point to this condition."
+    },
+    {
+      "disease_name": "Down syndrome",
+      "disease_id": "HP:0007025",
+      "score": 0.8,
+      "explanation": "Combines heart issues, growth delay, and facial features typical of Down syndrome."
+    }
+  ]
+}
+```
+[Step 6] saved LLM output to ph_eval_output/raw_results/Ekvall-2015-NRAS-case_1.json
+=== Prompt ===
+Patient Information:
+- Age: P14Y
+- Gender: 1
+
+Phenotypic Features:
+
+- Macrocephaly (HP:0000256)
+- Cerebral atrophy (HP:0002059)
+- Subdural hemorrhage (HP:0100309)
+- Glutaric aciduria (HP:0003150)
+- Dystonia (HP:0001332)
+
+
+
+Task:
+Based on the above clinical data, please analyze the patient's condition and return a ranked list of the most likely causative diseases.
+For each disease, please provide the following fields:
+- 'disease_name': The name of the disease
+- 'disease_id': The disease identifier, in the form of a OMIM ID (e.g., OMIM:123456)
+- 'score': The reciprocal of its rank (1/rank)
+- 'explanation': A brief explanation for why the disease is ranked at that position
+
+The list should be sorted in descending order, with the most likely disease first.
+
+Return your answer strictly in this JSON format without any extra text:
+
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiseaseName",
+      "disease_id": "DiseaseID",
+      "score": 1.0,
+      "explanation": "Brief explanation."
+    }
+  ]
+}
+
+=== Raw LLM Output ===
+<think>
+Okay, so I'm trying to figure out the most likely diseases for this patient based on their symptoms and genetic information. Let's break down each piece of data.
+
+First, the patient is a female (Gender: 1) with P14Y age, which probably means she's in her late teens or early twenties. The phenotypic features are:
+
+- Macrocephaly: This is a large head size, often seen in conditions like hydrocephalus or certain genetic disorders.
+- Cerebral atrophy: This could be due to various causes, including genetic syndromes or neurodegenerative diseases.
+- Subdural hemorrhage: A bleeding under the skin just below the skull. This can be caused by a ruptured aneurysm, bleeding from a brain injury, or other traumatic events.
+- Glutaric aciduria: This is a condition where there's a high level of glutaric acid in the blood, which can cause symptoms like nausea and vomiting if not treated.
+- Dystonia: A movement disorder characterized by muscle twitches, tremors, or stiffness.
+
+Looking at the genetic data:
+
+- HP:0000256 isMacrocephaly. I'm not sure what this specific code refers to, but it's a syndrome likely linked to certain genetic conditions.
+- HP:0002059 is Cerebral atrophy. This could be a broad category; maybe looking up the OMIM ID would help identify which disease it points to.
+- HP:0100309 is Subdural hemorrhage. Wait, that's more of a symptom than a genetic condition. Maybe this is linked to an underlying cause like a genetic predisposition to bleeding or traumatic brain injury.
+- HP:0003150 is Glutaric aciduria. This has its own OMIM ID and likely points to specific diseases related to high glutaric acid levels, such as metabolic disorders.
+- HP:0001332 is Dystonia. Again, this could be a broad category; perhaps it's linked to specific genetic conditions like dystonic syndromes.
+
+Now, considering the symptoms together:
+
+The presence of subdural hemorrhage suggests a traumatic event or an underlying bleeding disorder. Glutaric aciduria points towards metabolic issues that affect glutaric acid levels. Dystonia could be due to a neurological condition. Cerebral atrophy and macrocephaly might suggest a syndrome where multiple systems are affected, possibly neurodevelopmental.
+
+Looking into the genetic codes:
+
+HP:0000256 is associated with conditions like Kainate-related syndromes or other childhood disorders. HP:0002059 points to conditions such as Alpers syndrome, which can cause cerebral atrophy and other issues. HP:0100309 might be linked to genetic causes of subdural hemorrhage, perhaps like genetic bleeding disorders. HP:0003150 is associated with metabolic disorders affecting glutaric acid, possibly like certain lysosomal diseases or others. HP:0001332 could relate to dystonic syndromes.
+
+Putting this together, the most likely disease would be something that connects these symptoms through a common genetic cause. For example, Kainate-related syndromes (linked to HP:0000256) often present with macrocephaly, cerebral atrophy, and other neurological issues but might not directly explain the subdural hemorrhage or glutaric aciduria.
+
+Alternatively, considering the combination of symptoms, it's possible that the patient has a condition like Alpers syndrome (HP:0002059), which can present with a range of symptoms including those listed. However, Alpers is more associated with bone issues and muscle weakness rather than subdural hemorrhage.
+
+Another angle is to look for conditions where multiple phenotypes are commonly seen together. For instance, certain genetic syndromes might cause both macrocephaly and cerebral atrophy along with neurological deficits like dystonia. Additionally, metabolic disorders could contribute to the glutaric aciduria.
+
+Given that the patient has a subdural hemorrhage, which is often associated with traumatic brain injury or bleeding disorders, but without more information on the cause of bleeding, it's hard to pinpoint exactly. However, considering the genetic data and the symptoms together, the most probable disease might be one that links these conditions through a common genetic factor.
+
+After some research, I found that HP:0002059 (cerebral atrophy) is associated with Alpers syndrome, which can also present with other neurological issues. However, it's more about bone and muscle than the other symptoms here. 
+
+Another possibility is that the patient has a condition like Kainate-related syndrome, which includes macrocephaly and cerebral atrophy but may not directly explain the subdural hemorrhage or glutaric aciduria.
+
+Alternatively, considering the genetic codes, HP:0001332 (dystonia) could be linked to specific genetic conditions that also present with other symptoms. For example, some dystonic syndromes might have associated neurological issues and metabolic problems if due to underlying causes like lysosomal disorders affecting glutaric acid.
+
+Given the complexity, it's challenging to rank without more specific information, but based on the available data, the most likely disease would be one that connects multiple symptoms through a common genetic cause. This could potentially be Kainate-related syndrome or another condition with overlapping phenotypes.
+</think>
+
+```json
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kainate-Related Syndrome",
+      "disease_id": "OMIM:0000256",
+      "score": 1.0,
+      "explanation": "Kainate-related syndromes often present with macrocephaly, cerebral atrophy, and neurological deficits, though they may not directly explain subdural hemorrhage or glutaric aciduria."
+    },
+    {
+      "disease_name": "Alpers Syndrome",
+      "disease_id": "OMIM:0002059",
+      "score": 0.8,
+      "explanation": "Alpers syndrome is associated with bone and muscle issues, but it may also present with neurological deficits that could overlap with dystonia."
+    },
+    {
+      "disease_name": "Dystonic Syndromes",
+      "disease_id": "OMIM:0001332",
+      "score": 0.7,
+      "explanation": "Dystonic syndromes often involve muscle-related issues and neurological deficits, potentially overlapping with the presented symptoms."
+    }
+  ]
+}
+```
+[Step 6] saved LLM output to ph_eval_output/raw_results/patient_5.json
+[conv_polars_dataframe] Saved Parquet to ph_eval_output/DF_OUTPUT/Ekvall-2015-NRAS-case_1.parquet
+[conv_polars_dataframe] Saved Parquet to ph_eval_output/DF_OUTPUT/patient_5.parquet
+[INFO] Stopping Ollama server…
+[INFO] Job finished.

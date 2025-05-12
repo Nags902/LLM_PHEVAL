@@ -3,7 +3,7 @@
 #$ -j y                         # merge stdout + stderr
 #$ -l h_rt=240:00:00            # wall-clock time limit
 #$ -l h_vmem=12G                # memory per core
-#$ -pe smp 10                   # number of CPU cores
+#$ -pe smp 3                    # number of CPU cores
 
 ### 1) Load Miniforge so `conda` is available
 module load miniforge/24.7.1
@@ -41,6 +41,12 @@ conda activate pheval-py310 || {
   kill $OLLAMA_PID
   exit 1
 }
+# Print the current env
+echo "[INFO] Conda environment activated: $CONDA_DEFAULT_ENV (should be 'pheval-py310')"
+
+# Print which Python i'm using:
+echo "[INFO] Python interpreter: $(which python)"
+echo "[INFO] Python version: $(python --version)"
 
 ### 8) Run PhEval
 echo "[INFO] Running PhEval…"

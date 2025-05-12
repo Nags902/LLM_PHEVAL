@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Albinism",
-      "disease_id": "OMIM:042156",
-      "score": 0.83,
-      "explanation": "Genetic disorder causing macrocephaly, cerebral atrophy, and subdural hemorrhage."
+      "disease_name": "Kainate-Related Syndrome",
+      "disease_id": "OMIM:0000256",
+      "score": 1.0,
+      "explanation": "Kainate-related syndromes often present with macrocephaly, cerebral atrophy, and neurological deficits, though they may not directly explain subdural hemorrhage or glutaric aciduria."
     },
     {
-      "disease_name": "Mitochondrial Myopathy",
-      "disease_id": "OMIM:619047",
+      "disease_name": "Alpers Syndrome",
+      "disease_id": "OMIM:0002059",
       "score": 0.8,
-      "explanation": "Causes dystonia and may link other symptoms to genetic factors."
+      "explanation": "Alpers syndrome is associated with bone and muscle issues, but it may also present with neurological deficits that could overlap with dystonia."
     },
     {
-      "disease_name": "Hemolytic Anemia with Reticulocytosis",
-      "disease_id": "OMIM:042156",
+      "disease_name": "Dystonic Syndromes",
+      "disease_id": "OMIM:0001332",
       "score": 0.7,
-      "explanation": "Could explain subdural hemorrhage alongside genetic factors."
-    },
-    {
-      "disease_name": "Lysosomal Storage Disorder",
-      "disease_id": "OMIM:031285",
-      "score": 0.6,
-      "explanation": "Affects metabolism and muscle weakness, possibly linked to other symptoms."
+      "explanation": "Dystonic syndromes often involve muscle-related issues and neurological deficits, potentially overlapping with the presented symptoms."
     }
   ]
 }

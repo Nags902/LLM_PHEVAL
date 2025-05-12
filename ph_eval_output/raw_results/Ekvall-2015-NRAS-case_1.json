@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albinism",
+      "disease_id": "OMIM:0001480",
+      "score": 0.9,
+      "explanation": "Freckling and pigmentation issues suggest albinism, which often involves genetic mutations affecting skin and hair color."
+    },
+    {
+      "disease_name": "Blepharopharyngeal Dysplasia",
+      "disease_id": "OMIM:0001488",
+      "score": 0.9,
+      "explanation": "Bilateral ptosis, hypertelorism, and facial nerve involvement point to this condition."
+    },
+    {
+      "disease_name": "Down syndrome",
+      "disease_id": "HP:0007025",
+      "score": 0.8,
+      "explanation": "Combines heart issues, growth delay, and facial features typical of Down syndrome."
+    }
+  ]
+}
