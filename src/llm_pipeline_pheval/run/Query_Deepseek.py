@@ -6,7 +6,7 @@ from pathlib import Path
 import ollama
 from ollama import chat, ChatResponse
 from jinja2 import Environment, FileSystemLoader, TemplateError
-
+from openai import OpenAI
 from pheval.utils.phenopacket_utils import phenopacket_reader, PhenopacketUtil
 
 def Extract_Data_query_deepseek(
@@ -69,12 +69,23 @@ def Extract_Data_query_deepseek(
 
     # Step 4) Query Deepseek via Ollama
     try:
-        response: ChatResponse = chat(
-            model="DeepSeek-R1",
-            messages=[{"role": "user", "content": prompt}],
-            options={"temperature": 0.2}
+        # response: ChatResponse = chat(
+        #     model="DeepSeek-R1",
+        #     messages=[{"role": "user", "content": prompt}],
+        #     options={"temperature": 0.2}
+        # )
+        # raw = response["message"]["content"]
+        client = OpenAI(api_key="sk-1533b28d7caa4924bbf67ae429911bad", base_url="https://api.deepseek.com")
+
+        response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant"},
+            {"role": "user", "content": prompt},
+        ],
+        stream=False
         )
-        raw = response["message"]["content"]
+        raw = response.choices[0].message.content
         if not raw:
             raise ValueError("LLM returned empty response")
         print("=== Raw LLM Output ===")
@@ -112,4 +123,4 @@ if __name__ == "__main__":
     # test
     packet = Path(__file__).parent / "Phenopackets" / "patient_5.json"
     out = Path(__file__).parent.parent / "LLM_OUTPUT"
-    Extract_Data_query_deepseek(str(packet), patient_id="patient_5")
+    Extract_Data_query_deepseek(str(packet), patient_id="patient_5", output_dir=out)

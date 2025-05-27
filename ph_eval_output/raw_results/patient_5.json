@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Kainate-Related Syndrome",
-      "disease_id": "OMIM:0000256",
+      "disease_name": "Glutaric aciduria type 1",
+      "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "Kainate-related syndromes often present with macrocephaly, cerebral atrophy, and neurological deficits, though they may not directly explain subdural hemorrhage or glutaric aciduria."
+      "explanation": "The patient exhibits glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and dystonia, which are hallmark features of Glutaric aciduria type 1."
     },
     {
-      "disease_name": "Alpers Syndrome",
-      "disease_id": "OMIM:0002059",
-      "score": 0.8,
-      "explanation": "Alpers syndrome is associated with bone and muscle issues, but it may also present with neurological deficits that could overlap with dystonia."
+      "disease_name": "D-2-hydroxyglutaric aciduria",
+      "disease_id": "OMIM:600721",
+      "score": 0.5,
+      "explanation": "This condition can present with macrocephaly, cerebral atrophy, and dystonia, but glutaric aciduria is more specific to Glutaric aciduria type 1."
     },
     {
-      "disease_name": "Dystonic Syndromes",
-      "disease_id": "OMIM:0001332",
-      "score": 0.7,
-      "explanation": "Dystonic syndromes often involve muscle-related issues and neurological deficits, potentially overlapping with the presented symptoms."
+      "disease_name": "Canavan disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.333,
+      "explanation": "Canavan disease can cause macrocephaly and cerebral atrophy, but it typically does not present with glutaric aciduria or subdural hemorrhage."
+    },
+    {
+      "disease_name": "Alexander disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.25,
+      "explanation": "Alexander disease may present with macrocephaly and cerebral atrophy, but it is less likely to present with glutaric aciduria or subdural hemorrhage."
+    },
+    {
+      "disease_name": "Megalencephalic leukoencephalopathy with subcortical cysts",
+      "disease_id": "OMIM:604004",
+      "score": 0.2,
+      "explanation": "This condition can cause macrocephaly and cerebral atrophy, but it is not typically associated with glutaric aciduria or dystonia."
     }
   ]
 }
