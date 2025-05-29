@@ -67,8 +67,11 @@ def Extract_Data_query_deepseek(
         print(f"[ERROR] Step 3: failed to load or render template: {e}")
         sys.exit(1)
 
-    # Step 4) Query Deepseek via Ollama
+    # Step 4) Query Deepseek via API
     try:
+        # Query DeepSeek-R1 via Ollama
+        # Must have Ollama running with the model downloaded:
+        # ollama run DeepSeek-R1 --model deepseek-r1 
         # response: ChatResponse = chat(
         #     model="DeepSeek-R1",
         #     messages=[{"role": "user", "content": prompt}],
