@@ -3,8 +3,8 @@ import json
 import re
 from pathlib import Path
 
-import ollama
-from ollama import chat, ChatResponse
+# import ollama
+# from ollama import chat, ChatResponse
 from jinja2 import Environment, FileSystemLoader, TemplateError
 from openai import OpenAI
 from pheval.utils.phenopacket_utils import phenopacket_reader, PhenopacketUtil
@@ -35,7 +35,7 @@ def Extract_Data_query_deepseek(
 
     # Step 2) Extract demographics & observed HPOs
     try:
-        # snake_case in the proto
+        
         age    = pp.subject.time_at_last_encounter.age.iso8601duration
         gender = pp.subject.sex
         patient_info = {"age": age, "gender": gender}
