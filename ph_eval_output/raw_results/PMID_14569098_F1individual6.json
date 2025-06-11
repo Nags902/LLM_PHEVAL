@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Chronic Kidney Disease",
+      "disease_id": "OMIM:603273",
+      "score": 1.0,
+      "explanation": "Stage 5 chronic kidney disease is the most prominent feature, indicating severe renal dysfunction."
+    },
+    {
+      "disease_name": "Familial Juvenile Hyperuricemic Nephropathy",
+      "disease_id": "OMIM:162000",
+      "score": 0.5,
+      "explanation": "This condition combines chronic kidney disease with hyperuricemia and gout, fitting the patient's phenotype."
+    },
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.333,
+      "explanation": "Although typically presenting earlier in life, this syndrome can cause hyperuricemia and gout, but less likely given the patient's age."
+    }
+  ]
+}

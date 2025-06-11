@@ -11,6 +11,15 @@ Phenotypic Features:
 - None listed
 {% endif %}
 
+{% if similar_cases %}
+Similar Reference Cases (for guidance):
+{% for case in similar_cases -%}
+- Case {{ loop.index }}: Presented with {{ case.phenotype_summary }} → Diagnosed as {{ case.disease_label }} ({{ case.disease_id }})
+{% endfor %}
+{% else %}
+No similar reference cases were found in the database.
+{% endif %}
+
 Task:
 Based on the above clinical data, please analyze the patient's condition and return a ranked list of the most likely causative diseases.
 For each disease, please provide the following fields:
@@ -20,7 +29,8 @@ For each disease, please provide the following fields:
 - 'explanation': A brief explanation for why the disease is ranked at that position
 
 The list should be sorted in descending order, with the most likely disease first.
-
+MUST RETURN A LIST OF POTENTIAL DISEASE, MORE THAN ONE  disease, even if the confidence is low.
+- The diseases should be ranked based on their relevance to the provided phenotypic features and similar cases.
 Return your answer strictly in this JSON format without any extra text:
 {% raw %}
 {

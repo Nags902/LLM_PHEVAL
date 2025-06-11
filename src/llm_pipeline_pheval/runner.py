@@ -10,6 +10,7 @@ from pheval.post_processing.post_processing import generate_disease_result, Sort
 
 from llm_pipeline_pheval.run.Query_Deepseek import Extract_Data_query_deepseek
 from llm_pipeline_pheval.post_process.Creat_Polars_DF import conv_polars_dataframe
+from pathlib import Path
 
 @dataclass
 class RUNNER_PHEVAL_LLM(PhEvalRunner):
@@ -45,7 +46,7 @@ class RUNNER_PHEVAL_LLM(PhEvalRunner):
                 sys.exit(1)
 
     def post_process(self):
-        # write your DF_OUTPUT
+        # my pheval DF_OUTPUT
         df_dir = self.output_dir / "DF_OUTPUT"
         df_dir.mkdir(parents=True, exist_ok=True)
 
@@ -58,6 +59,8 @@ class RUNNER_PHEVAL_LLM(PhEvalRunner):
                     parquet_filename=pid,
                     parquet_dir=df_dir
                 )
+                print (f"[INFO] post_process(): converted {raw_json.name} to {parquet_path}")
+                
             except Exception as e:
                 print(f"[ERROR] post_process(): conversion failed for {raw_json.name}: {e}")
                 sys.exit(1)

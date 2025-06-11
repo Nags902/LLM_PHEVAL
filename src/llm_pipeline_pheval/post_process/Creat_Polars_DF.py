@@ -9,9 +9,9 @@ def conv_polars_dataframe(
     parquet_dir: Union[str, Path]
 ) -> Tuple[pl.DataFrame, Path]:
     """
-    1) Reads the LLM JSON output from `patient_results_path`
+    1) Reads the LLM JSON output from patient_results_path
     2) Converts it to a Polars DataFrame (casting, sorting, renaming)
-    3) Writes the DataFrame as a Parquet file into `parquet_dir`
+    3) Writes the DataFrame as a Parquet file into parquet_dir
 
     Args:
       patient_results_path: path (str or Path) to the JSON file with "ranked_diseases".

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Holt-Oram syndrome is characterized by congenital heart defects (particularly atrial septal defects) and upper limb abnormalities (such as absent thumb and phocomelia), which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome typically involves absent radii and thrombocytopenia, but can also include other limb anomalies. However, the absence of thrombocytopenia in the patient's features makes this less likely than Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Roberts syndrome",
+      "disease_id": "OMIM:268300",
+      "score": 0.333,
+      "explanation": "Roberts syndrome involves phocomelia and other limb defects, but it is usually accompanied by more severe growth deficiencies and craniofacial anomalies, which are not mentioned in the patient's features."
+    }
+  ]
+}
