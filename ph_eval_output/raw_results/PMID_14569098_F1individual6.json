@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Chronic Kidney Disease",
-      "disease_id": "OMIM:603273",
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "Stage 5 chronic kidney disease is the most prominent feature, indicating severe renal dysfunction."
+      "explanation": "The patient's presentation with Stage 5 chronic kidney disease and gout is highly consistent with the similar reference cases, all of which were diagnosed with this condition."
     },
     {
-      "disease_name": "Familial Juvenile Hyperuricemic Nephropathy",
+      "disease_name": "Familial juvenile hyperuricemic nephropathy type 1",
       "disease_id": "OMIM:162000",
       "score": 0.5,
-      "explanation": "This condition combines chronic kidney disease with hyperuricemia and gout, fitting the patient's phenotype."
+      "explanation": "This condition is also associated with chronic kidney disease and gout, though it typically presents at a younger age."
     },
     {
-      "disease_name": "Lesch-Nyhan Syndrome",
-      "disease_id": "OMIM:300322",
+      "disease_name": "Medullary cystic kidney disease type 1",
+      "disease_id": "OMIM:174000",
       "score": 0.333,
-      "explanation": "Although typically presenting earlier in life, this syndrome can cause hyperuricemia and gout, but less likely given the patient's age."
+      "explanation": "This disease can present with chronic kidney disease and hyperuricemia, though gout is less commonly reported."
+    },
+    {
+      "disease_name": "Uromodulin-associated kidney disease",
+      "disease_id": "OMIM:191900",
+      "score": 0.25,
+      "explanation": "This condition is known to cause chronic kidney disease and hyperuricemia, but gout is not always a prominent feature."
     }
   ]
 }

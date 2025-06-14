@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease is highly relevant given the patient's presentation of chronic kidney disease, gout, renal cysts, and renal interstitial fibrosis, which matches the phenotypic features of similar reference cases."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613860",
+      "score": 0.5,
+      "explanation": "This disease is also relevant as it presents with similar features including chronic kidney disease, gout, renal cysts, and renal interstitial fibrosis, though it is less commonly referenced in the similar cases provided."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease",
+      "disease_id": "OMIM:173900",
+      "score": 0.333,
+      "explanation": "This disease is considered due to the presence of renal cysts and chronic kidney disease, though it typically presents with more extensive cystic involvement and may not fully explain the interstitial fibrosis or gout."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy",
+      "disease_id": "OMIM:162000",
+      "score": 0.25,
+      "explanation": "This disease is relevant due to the presence of gout and chronic kidney disease, though renal cysts and interstitial fibrosis are less commonly associated features."
+    }
+  ]
+}

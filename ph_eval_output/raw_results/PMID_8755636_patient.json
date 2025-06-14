@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "The patient presents with Arachnodactyly, Intellectual disability, Disproportionate tall stature, and Hyperhomocystinemia, which are hallmark features of Homocystinuria. The similar reference case also supports this diagnosis."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Arachnodactyly and disproportionate tall stature are common in Marfan syndrome, but the presence of Hyperhomocystinemia and Intellectual disability makes this less likely than Homocystinuria."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615032",
+      "score": 0.333,
+      "explanation": "The patient has Intellectual disability and tall stature, which are seen in this disorder, but other key features like macrocephaly and autism are not mentioned, making this less likely."
+    },
+    {
+      "disease_name": "Familial partial lipodystrophy type 9",
+      "disease_id": "OMIM:615518",
+      "score": 0.25,
+      "explanation": "The similar reference case had some overlapping features like Intellectual disability, but the patient lacks many of the metabolic and physical features typical of this disorder."
+    }
+  ]
+}

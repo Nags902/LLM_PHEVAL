@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of gait ataxia, delayed ability to walk, and global developmental delay closely match the features of Spinocerebellar ataxia 29, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:620939",
+      "score": 0.5,
+      "explanation": "The patient's intellectual disability, borderline, and delayed speech and language development are consistent with this disorder, though other features like gait ataxia are not typically associated."
+    },
+    {
+      "disease_name": "Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome",
+      "disease_id": "OMIM:224050",
+      "score": 0.333,
+      "explanation": "This syndrome includes cerebellar ataxia and intellectual disability, which are present in the patient, but the specific dysequilibrium component is not clearly described in the patient's features."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome can present with delayed development and speech impairment, but the gait ataxia and other cerebellar features are less typical."
+    }
+  ]
+}
