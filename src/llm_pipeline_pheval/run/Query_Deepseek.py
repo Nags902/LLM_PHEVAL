@@ -118,7 +118,7 @@ def Extract_Data_query_deepseek(
         #     options={"temperature": 0.2}
         # )
         # raw = response["message"]["content"]
-        client = OpenAI(api_key="sk-1533b28d7caa4924bbf67ae429911bad", base_url="https://api.deepseek.com")
+        client = OpenAI(api_key="input api key", base_url="https://api.deepseek.com")
 
         response = client.chat.completions.create(
             model="deepseek-chat",
