@@ -1,12 +1,12 @@
 import json
-import polars as pl
 from pathlib import Path
-from typing import Union, Tuple
+from typing import Tuple, Union
+
+import polars as pl
+
 
 def conv_polars_dataframe(
-    patient_results_path: Union[str, Path],
-    parquet_filename: str,
-    parquet_dir: Union[str, Path]
+    patient_results_path: Union[str, Path], parquet_filename: str, parquet_dir: Union[str, Path]
 ) -> Tuple[pl.DataFrame, Path]:
     """
     1) Reads the LLM JSON output from patient_results_path
@@ -20,6 +20,7 @@ def conv_polars_dataframe(
 
     Returns:
       Tuple[dataframe, out_path]
+
     """
     # 1. Resolve input path
     patient_results = Path(patient_results_path)
@@ -48,11 +49,7 @@ def conv_polars_dataframe(
 
     # 6. Drop explanation and rename to match PhEval schema
     df = df.drop("explanation")
-    df = df.rename({
-        "disease_name": "disease_name",
-        "disease_id":   "disease_identifier",
-        "score":        "score"
-    })
+    df = df.rename({"disease_name": "disease_name", "disease_id": "disease_identifier", "score": "score"})
 
     # 7. Ensure our output dir exists
     out_dir = Path(parquet_dir)

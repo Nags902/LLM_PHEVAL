@@ -1,22 +1,26 @@
-import sys
 import json
 import re
+import sys
 from pathlib import Path
+
+import faiss
+import numpy as np
 
 # import ollama
 # from ollama import chat, ChatResponse
 from jinja2 import Environment, FileSystemLoader, TemplateError
 from openai import OpenAI
-from pheval.utils.phenopacket_utils import phenopacket_reader, PhenopacketUtil
-
-import faiss
-import numpy as np
+from pheval.utils.phenopacket_utils import PhenopacketUtil, phenopacket_reader
 from sentence_transformers import SentenceTransformer
+
+# this scripts contains the main function to query DeepSeek-R1 
+# the prompt is rendered using Jinja2 containg info from queried ohenopacket and top-K similar cases from faiss index
+
 
 def Extract_Data_query_deepseek(
     phenopacket_path: str,
     patient_id: str,
-    output_dir: Path,         # where to save the JSON output
+    output_dir: Path,  # where to save the JSON output
 ) -> dict:
     """
     1) Load phenopacket
@@ -31,23 +35,20 @@ def Extract_Data_query_deepseek(
 
     # Step 1) Load phenopacket
     try:
-        pp   = phenopacket_reader(Path(phenopacket_path))
+        pp = phenopacket_reader(Path(phenopacket_path))
         util = PhenopacketUtil(pp)
     except Exception as e:
         print(f"[ERROR] Step 1: failed to read phenopacket '{phenopacket_path}': {e}")
         sys.exit(1)
 
-    # Step 2) Extract demographics & observed HPOs and RAG retrieval for Top-K results 
+    # Step 2) Extract demographics & observed HPOs and RAG retrieval for Top-K results
     try:
-        
-        age    = pp.subject.time_at_last_encounter.age.iso8601duration
+
+        age = pp.subject.time_at_last_encounter.age.iso8601duration
         gender = pp.subject.sex
         patient_info = {"age": age, "gender": gender}
 
-        phenotypes = [
-            {"id": feat.type.id, "label": feat.type.label}
-            for feat in util.observed_phenotypic_features()
-        ]
+        phenotypes = [{"id": feat.type.id, "label": feat.type.label} for feat in util.observed_phenotypic_features()]
     except AttributeError as e:
         print(f"[ERROR] Step 2: missing field in phenopacket.subject: {e}")
         sys.exit(1)
@@ -57,15 +58,13 @@ def Extract_Data_query_deepseek(
 
     similar_cases = []
     try:
-        rag_index_dir = BASE.parent / 'prepare' 
+        rag_index_dir = BASE.parent / "prepare"
         model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
         index_path = rag_index_dir / "index.faiss"
 
-    
         if not index_path.exists():
             print(f"[ERROR] Step 2: RAG index not found at {index_path}")
             sys.exit(1)
-
 
         index = faiss.read_index(str(index_path))
 
@@ -74,10 +73,8 @@ def Extract_Data_query_deepseek(
             print(f"[ERROR] Step 2: RAG metadata not found at {metadata_path}")
             sys.exit(1)
 
-
         with open(metadata_path) as f:
             metadata = json.load(f)
-
 
         # Encode the phenotypes for RAG retrieval
         phenotype_labels = [pheno["label"] for pheno in phenotypes]
@@ -85,31 +82,25 @@ def Extract_Data_query_deepseek(
         query_embedding = model.encode(query_text).astype(np.float32)
         distances, indices = index.search(np.expand_dims(query_embedding, 0), k=3)
 
-
         # Prepare similar_cases for Jinja
         for idx in indices[0]:
             meta = metadata[idx]
-            similar_cases.append({
-                "phenotype_summary": meta["summary"].split("Presented with ")[-1].split(". ")[0],
-                "disease_label": meta.get("diagnosis_label") or meta.get("diagnosis"),  # handle either style
-                "disease_id": meta.get("diagnosis_id"),
-            })
+            similar_cases.append(
+                {
+                    "phenotype_summary": meta["summary"].split("Presented with ")[-1].split(". ")[0],
+                    "disease_label": meta.get("diagnosis_label") or meta.get("diagnosis"),  # handle either style
+                    "disease_id": meta.get("diagnosis_id"),
+                }
+            )
 
     except Exception as e:
         print(f"Step 2: RAG retrieval failed: {str(e)}")
 
-    
-
     # Step 3) Render Jinja prompt
     try:
-        env = Environment(
-            loader=FileSystemLoader(BASE),
-            autoescape=False,
-            trim_blocks=False,
-            lstrip_blocks=False
-        )
+        env = Environment(loader=FileSystemLoader(BASE), autoescape=False, trim_blocks=False, lstrip_blocks=False)
         template = env.get_template("prompt_template.j2")
-        prompt   = template.render(patient=patient_info, phenotypes=phenotypes, similar_cases=similar_cases)
+        prompt = template.render(patient=patient_info, phenotypes=phenotypes, similar_cases=similar_cases)
         print("=== Prompt ===")
         print(prompt)
     except (TemplateError, OSError) as e:
@@ -120,7 +111,7 @@ def Extract_Data_query_deepseek(
     try:
         # Query DeepSeek-R1 via Ollama
         # Must have Ollama running with the model downloaded:
-        # ollama run DeepSeek-R1 --model deepseek-r1 
+        # ollama run DeepSeek-R1 --model deepseek-r1
         # response: ChatResponse = chat(
         #     model="DeepSeek-R1",
         #     messages=[{"role": "user", "content": prompt}],
@@ -130,12 +121,12 @@ def Extract_Data_query_deepseek(
         client = OpenAI(api_key="sk-1533b28d7caa4924bbf67ae429911bad", base_url="https://api.deepseek.com")
 
         response = client.chat.completions.create(
-        model="deepseek-chat",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant"},
-            {"role": "user", "content": prompt},
-        ],
-        stream=False
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant"},
+                {"role": "user", "content": prompt},
+            ],
+            stream=False,
         )
         raw = response.choices[0].message.content
         if not raw:
@@ -146,9 +137,9 @@ def Extract_Data_query_deepseek(
         print(f"[ERROR] Step 4: failed to query LLM or got empty output: {e}")
         sys.exit(1)
 
-    # Step 5) Extract JSON block of LLM response 
+    # Step 5) Extract JSON block of LLM response
     try:
-        m = re.search(r'```json\s*(\{.*?\})\s*```', raw, flags=re.DOTALL)
+        m = re.search(r"```json\s*(\{.*?\})\s*```", raw, flags=re.DOTALL)
         if not m:
             raise ValueError("No ```json …``` block found")
         json_block = m.group(1).strip()
@@ -168,7 +159,6 @@ def Extract_Data_query_deepseek(
         sys.exit(1)
 
     return data
-
 
 
 if __name__ == "__main__":

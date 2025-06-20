@@ -1,7 +1,7 @@
 {
   "id": "PMID_39013458_individual_VUSM110017_B_daugther",
   "subject": {
-    "id": "individual VUSM110017 B (daugther)",
+    "id": "individual VUSM110017 B (daughter)",
     "timeAtLastEncounter": {
       "age": {
         "iso8601duration": "P14Y"
@@ -362,7 +362,7 @@
   ],
   "interpretations": [
     {
-      "id": "individual VUSM110017 B (daugther)",
+      "id": "individual VUSM110017 B (daughter)",
       "progressStatus": "SOLVED",
       "diagnosis": {
         "disease": {
@@ -371,7 +371,7 @@
         },
         "genomicInterpretations": [
           {
-            "subjectOrBiosampleId": "individual VUSM110017 B (daugther)",
+            "subjectOrBiosampleId": "individual VUSM110017 B (daughter)",
             "interpretationStatus": "CAUSATIVE",
             "variantInterpretation": {
               "variationDescriptor": {

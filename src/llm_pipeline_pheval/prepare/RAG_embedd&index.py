@@ -1,15 +1,15 @@
-from sentence_transformers import SentenceTransformer
-import pathlib 
-import json 
+import json
+import pathlib
+
 import faiss
-import numpy as np
-from pathlib import Path
+from sentence_transformers import SentenceTransformer
 
-
+# This script prepares a FAISS index for phenopackets by extracting summaries and embeddings.
+# It uses the SentenceTransformer model to encode summaries and stores them in a FAISS index.
+# It also stores metadata about each phenopacket in a JSON file.
 
 # Load the SentenceTransformer model
 model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
-
 
 
 # Set directory
@@ -44,16 +44,16 @@ a = 0
 
 # Process each phenopacket JSON
 for file in phenopacket_dir.iterdir():
-    if file.name.endswith('.json'):
-        
+    if file.name.endswith(".json"):
+
         a += 1
-        with open(file, 'r') as f:
+        with open(file, "r") as f:
             data = json.load(f)
 
         # Extract patient data
-        #age_iso = data["subject"]["timeAtLastEncounter"]["age"]["iso8601duration"]
-        #age_years = age_iso.replace("P", "").replace("Y", " years")
-        #sex = data["subject"]["sex"].capitalize()
+        # age_iso = data["subject"]["timeAtLastEncounter"]["age"]["iso8601duration"]
+        # age_years = age_iso.replace("P", "").replace("Y", " years")
+        # sex = data["subject"]["sex"].capitalize()
         phenotypes = [feature["type"]["label"] for feature in data["phenotypicFeatures"]]
         diagnosis = data["interpretations"][0]["diagnosis"]["disease"]
         diagnosis_label = diagnosis["label"]
@@ -66,24 +66,25 @@ for file in phenopacket_dir.iterdir():
             phenotype_text = phenotypes[0]
 
         summary = (
-            #f"{age_years}-old {sex.lower()} with {phenotype_text}. "
+            # f"{age_years}-old {sex.lower()} with {phenotype_text}. "
             f"Presented with {phenotype_text}."
             f" The diagnosed condition is {diagnosis_label} ({diagnosis_id})."
         )
 
         # Store metadata
-        metadata.append({
-        "filename": file.name,
-        "phenopacket_id": data.get("id", None),
-        "summary": summary,
-        "diagnosis": diagnosis_label
-    })
-        #print(summary)
+        metadata.append(
+            {
+                "filename": file.name,
+                "phenopacket_id": data.get("id", None),
+                "summary": summary,
+                "diagnosis": diagnosis_label,
+            }
+        )
+        # print(summary)
 
         # Encode and insert into FAISS index
         embedding = model.encode(summary).astype("float32")
         index.add(embedding.reshape(1, -1))
-
 
 
 # Save index and metadata
@@ -93,6 +94,6 @@ with open(metadata_path, "w") as f:
 
 faiss.write_index(index, str(dir / "index.faiss"))
 
-print (f"{a} phenopackets processed and added to the FAISS index.")
-print(f"FAISS index saved successfully and metadata stored as index_metadata.json.")
+print(f"{a} phenopackets processed and added to the FAISS index.")
+print("FAISS index saved successfully and metadata stored as index_metadata.json.")
 # print ("Metadata:", metadata)
