@@ -2,6 +2,10 @@ import json
 import shutil
 from pathlib import Path
 
+# this code checks if all phenopackets in ALL_PHENOPACKETS_8K have the required fields
+# and moves the faulty ones to a new directory called faultyphenopackets_packets
+
+
 dir = Path(__file__).parent.resolve()
 
 json_files = dir / "ALL_PHENOPACKETS_8K"

@@ -139,10 +139,10 @@ def Extract_Data_query_deepseek(
 
     # Step 5) Extract JSON block of LLM response
     try:
-        m = re.search(r"```json\s*(\{.*?\})\s*```", raw, flags=re.DOTALL)
-        if not m:
+        LLM_output = re.search(r"```json\s*(\{.*?\})\s*```", raw, flags=re.DOTALL)
+        if not LLM_output:
             raise ValueError("No ```json …``` block found")
-        json_block = m.group(1).strip()
+        json_block = LLM_output.group(1).strip()
         data = json.loads(json_block)
     except Exception as e:
         print(f"[ERROR] Step 5: failed to extract/parse JSON block: {e}")
