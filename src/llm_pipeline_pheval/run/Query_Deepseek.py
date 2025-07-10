@@ -13,8 +13,8 @@ from openai import OpenAI
 from pheval.utils.phenopacket_utils import PhenopacketUtil, phenopacket_reader
 from sentence_transformers import SentenceTransformer
 
-# this scripts contains the main function to query DeepSeek-R1 
-# the prompt is rendered using Jinja2 containg info from queried ohenopacket and top-K similar cases from faiss index
+# this scripts contains the main function to query DeepSeek-R1
+# the prompt is rendered using Jinja2 containing info from queried ohenopacket and top-K similar cases from faiss index
 
 
 def Extract_Data_query_deepseek(
@@ -80,6 +80,7 @@ def Extract_Data_query_deepseek(
         phenotype_labels = [pheno["label"] for pheno in phenotypes]
         query_text = "Presented with " + ", ".join(phenotype_labels)
         query_embedding = model.encode(query_text).astype(np.float32)
+        query_embedding /= np.linalg.norm(query_embedding)  # Normalize the embedding
         distances, indices = index.search(np.expand_dims(query_embedding, 0), k=3)
 
         # Prepare similar_cases for Jinja
@@ -118,7 +119,7 @@ def Extract_Data_query_deepseek(
         #     options={"temperature": 0.2}
         # )
         # raw = response["message"]["content"]
-        client = OpenAI(api_key="input api key", base_url="https://api.deepseek.com")
+        client = OpenAI(api_key="add_API_key", base_url="https://api.deepseek.com")
 
         response = client.chat.completions.create(
             model="deepseek-chat",

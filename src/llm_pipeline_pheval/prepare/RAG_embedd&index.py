@@ -1,16 +1,8 @@
 import json
 import pathlib
-
-import faiss
-from sentence_transformers import SentenceTransformer
-
-# This script prepares a FAISS index for phenopackets by extracting summaries and embeddings.
-# It uses the SentenceTransformer model to encode summaries and stores them in a FAISS index.
-# It also stores metadata about each phenopacket in a JSON file.
-
-import json
-import pathlib
+import numpy as np
 from pathlib import Path
+
 import faiss
 from sentence_transformers import SentenceTransformer
 
@@ -18,15 +10,18 @@ from sentence_transformers import SentenceTransformer
 # It uses the SentenceTransformer model to encode summaries and stores them in a FAISS index.
 # It also stores metadata about each phenopacket in a JSON file.
 
-def populate_faiss_index(phenopackets_directory: str):
-    """    Prepares a FAISS index with phenopackets by extracting key data such as phenotypes and diagnosis and embedding.
+
+def populate_faiss_index(phenopackets_directory: str) -> None:
+    """
+    Prepares a FAISS index with phenopackets by extracting key data such as phenotypes and diagnosis and embedding.
     Stores the index in 'index.faiss' and metadata in 'index_metadata.json'.
+
     Args:
         phenopackets_directory (str): Path to the directory containing phenopacket JSON files.
+
     """
     # Load the SentenceTransformer model
     model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
-
 
     # Set directory
     BASE = pathlib.Path(__file__).parent.resolve()
@@ -40,7 +35,8 @@ def populate_faiss_index(phenopackets_directory: str):
     else:
         print("Creating new FAISS index...")
         # Create a new FAISS index
-        index = faiss.IndexFlatL2(model.get_sentence_embedding_dimension())
+        index = faiss.IndexFlatIP(model.get_sentence_embedding_dimension())
+        print("New FAISS index created. Index is called 'index.faiss'.")
 
 
     # storing metadata
@@ -48,13 +44,16 @@ def populate_faiss_index(phenopackets_directory: str):
 
     # Check if metadata file exists
     if metadata_path.exists():
+        print("Loading existing metadata...")
         with open(metadata_path) as f:
             metadata = json.load(f)
     else:
+        print("Creating new metadata file...")
         metadata = []
 
+
     # phenopacket directory
-    phenopacket_dir = Path(phenopackets_directory)
+    phenopacket_dir = BASE / 'ALL_PHENOPACKETS_8K'
 
     num_phenopackets = 0
 
@@ -64,6 +63,7 @@ def populate_faiss_index(phenopackets_directory: str):
 
             num_phenopackets += 1
             with open(file, "r") as f:
+                print(f"Processing {file.name}...")
                 data = json.load(f)
 
             # Extract patient data
@@ -96,12 +96,11 @@ def populate_faiss_index(phenopackets_directory: str):
                     "diagnosis": diagnosis_label,
                 }
             )
-            
 
             # Encode and insert into FAISS index
             embedding = model.encode(summary).astype("float32")
+            embedding /= np.linalg.norm(embedding) 
             index.add(embedding.reshape(1, -1))
-
 
     # Save index and metadata
 
@@ -112,7 +111,12 @@ def populate_faiss_index(phenopackets_directory: str):
 
     print(f"{num_phenopackets} phenopackets processed and added to the FAISS index.")
     print("FAISS index saved successfully and metadata stored as index_metadata.json.")
-    # print ("Metadata:", metadata)
+    
+if __name__ == "__main__":
+    phenopackets_directory = "ALL_PHENOPACKETS_8K"  # Adjust this path as needed
+    populate_faiss_index(phenopackets_directory)
+
+
 
 # # Load the SentenceTransformer model
 # model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
@@ -186,7 +190,7 @@ def populate_faiss_index(phenopackets_directory: str):
 #                 "diagnosis": diagnosis_label,
 #             }
 #         )
-        
+
 
 #         # Encode and insert into FAISS index
 #         embedding = model.encode(summary).astype("float32")
