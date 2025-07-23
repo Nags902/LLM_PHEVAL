@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel Syndrome, Type 1",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Meckel Syndrome, Type 1 is characterized by microcephaly, postaxial polydactyly, and neural tube defects such as Chiari type II malformation and lumbosacral meningocele, which are present in the patient."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome can present with polydactyly and Chiari malformation, though it is less commonly associated with microcephaly and meningocele."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome includes polydactyly and microcephaly among its features, but neural tube defects are less common."
+    },
+    {
+      "disease_name": "Hydrolethalus Syndrome 1",
+      "disease_id": "OMIM:236680",
+      "score": 0.25,
+      "explanation": "Hydrolethalus Syndrome features include polydactyly and neural tube defects, but it is typically associated with hydrocephalus rather than microcephaly."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria, Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features, including elevated urine 3-hydroxyglutaric level, glutaric aciduria, dystonia, enlarged sylvian cistern, macrocephaly, subdural hemorrhage, acute encephalopathy, inability to walk, seizure, irritability, and absent speech, closely match the symptoms of Glutaric Aciduria, Type I, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Glutaric Aciduria, Type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "While the patient's symptoms are highly indicative of Glutaric Aciduria, Type I, Type II also presents with some overlapping features such as elevated urine 3-hydroxyglutaric level and glutaric aciduria, though it typically includes additional metabolic disturbances not mentioned here."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.333,
+      "explanation": "MELAS can present with seizures, acute encephalopathy, and dystonia, but lacks the specific biochemical markers like elevated urine 3-hydroxyglutaric level and glutaric aciduria seen in this patient."
+    },
+    {
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.25,
+      "explanation": "Canavan Disease shares features like macrocephaly, seizures, and absent speech, but typically does not include elevated urine 3-hydroxyglutaric level or glutaric aciduria."
+    }
+  ]
+}

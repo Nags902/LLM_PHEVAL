@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibroma is a hallmark feature of Neurofibromatosis type 1, and all similar reference cases with this feature were diagnosed as such."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While plexiform neurofibromas are more commonly associated with Neurofibromatosis type 1, they can also occur in Neurofibromatosis type 2, albeit less frequently."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.333,
+      "explanation": "Legius syndrome can present with some features overlapping with Neurofibromatosis type 1, including skin manifestations, but plexiform neurofibromas are rare in this condition."
+    },
+    {
+      "disease_name": "Schwannomatosis",
+      "disease_id": "OMIM:162091",
+      "score": 0.25,
+      "explanation": "Schwannomatosis involves multiple schwannomas, but plexiform neurofibromas are not typical, making this a less likely diagnosis."
+    }
+  ]
+}

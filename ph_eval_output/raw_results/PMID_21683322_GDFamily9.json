@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, which were all diagnosed as Geleophysic dysplasia 2. Key overlapping features include long philtrum, smooth philtrum, thin upper lip vermilion, hypertelorism, full cheeks, short palm, short foot, short nose, mitral stenosis, tricuspid stenosis, respiratory insufficiency, limitation of joint mobility, and severe short stature."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 1",
+      "disease_id": "OMIM:231050",
+      "score": 0.5,
+      "explanation": "Geleophysic dysplasia 1 shares many features with Geleophysic dysplasia 2, including short stature, facial dysmorphism, and cardiac valve abnormalities. However, the reference cases specifically point to Geleophysic dysplasia 2, making this a less likely but still possible diagnosis."
+    },
+    {
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.333,
+      "explanation": "Acromicric dysplasia presents with severe short stature, facial dysmorphism, and joint limitations, similar to the patient's features. However, it lacks the specific cardiac abnormalities seen in this patient, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Weill-Marchesani syndrome",
+      "disease_id": "OMIM:608328",
+      "score": 0.25,
+      "explanation": "Weill-Marchesani syndrome includes short stature and joint limitations but typically involves lens abnormalities and brachydactyly, which are not mentioned in the patient's features. The absence of these key signs reduces its likelihood."
+    },
+    {
+      "disease_name": "Myhre syndrome",
+      "disease_id": "OMIM:139210",
+      "score": 0.2,
+      "explanation": "Myhre syndrome involves short stature, joint limitations, and facial dysmorphism, but it also includes intellectual disability and skeletal abnormalities not noted in the patient. The lack of these features makes it a less probable diagnosis."
+    }
+  ]
+}

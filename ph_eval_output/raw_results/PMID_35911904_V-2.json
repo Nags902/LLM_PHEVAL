@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 1.0,
+      "explanation": "The patient's features, including intellectual disability, delayed speech and language development, aggressive behavior, and bilateral tonic-clonic seizure with focal onset, closely match the symptoms seen in Developmental and epileptic encephalopathy 9, as evidenced by similar reference cases."
+    },
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:609304",
+      "score": 0.5,
+      "explanation": "The patient's seizures and developmental delays are consistent with this condition, though the absence of some features like microcephaly or hypertrophic cardiomyopathy makes it less likely than Developmental and epileptic encephalopathy 9."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with intellectual disability, delayed speech, and seizures, but the aggressive behavior and specific seizure type in this patient are less typical, making it a lower-ranked possibility."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome can include intellectual disability and seizures, but it is more commonly seen in females and typically involves regression of skills, which is not mentioned here, thus ranking it lower."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "Dravet syndrome is characterized by early-onset seizures and developmental delays, but the aggressive behavior and focal onset seizures are less typical, making it a less likely diagnosis."
+    }
+  ]
+}

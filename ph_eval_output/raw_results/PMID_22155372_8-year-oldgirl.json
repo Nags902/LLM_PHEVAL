@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT syndrome 3",
+      "disease_id": "OMIM:609622",
+      "score": 1.0,
+      "explanation": "The patient's presentation with paroxysmal atrial fibrillation and shortened QT interval closely matches the phenotypic features of the reference cases, all of which were diagnosed with Short QT syndrome 3."
+    },
+    {
+      "disease_name": "Short QT syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 0.5,
+      "explanation": "Short QT syndrome 1 also presents with shortened QT interval and atrial fibrillation, though the reference cases specifically point to type 3 as more likely."
+    },
+    {
+      "disease_name": "Short QT syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.333,
+      "explanation": "Short QT syndrome 2 is another subtype that can present with similar features, but the reference cases and specific phenotype align more closely with type 3."
+    },
+    {
+      "disease_name": "Catecholaminergic polymorphic ventricular tachycardia",
+      "disease_id": "OMIM:604772",
+      "score": 0.25,
+      "explanation": "This condition can sometimes present with arrhythmias, though the shortened QT interval is more characteristic of Short QT syndromes."
+    },
+    {
+      "disease_name": "Brugada syndrome",
+      "disease_id": "OMIM:601144",
+      "score": 0.2,
+      "explanation": "Brugada syndrome can present with atrial fibrillation, but the shortened QT interval is not a typical feature, making it less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 1.0,
+      "explanation": "The patient's features such as global developmental delay, microcephaly, compulsive behaviors, and anxiety are commonly seen in Phelan-McDermid syndrome, which is caused by deletions or mutations in the SHANK3 gene."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by developmental delay, microcephaly, and behavioral issues including compulsive behaviors, which match the patient's phenotype. It is caused by deletions or mutations in the RAI1 gene."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome presents with developmental delay, microcephaly, and behavioral features such as anxiety and compulsive behaviors. It is caused by mutations or deletions in the UBE3A gene."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome, particularly in males, can present with microcephaly, developmental delay, and compulsive behaviors. It is caused by mutations in the MECP2 gene."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.2,
+      "explanation": "Cohen syndrome can present with microcephaly, developmental delay, and behavioral issues. It is caused by mutations in the VPS13B gene."
+    }
+  ]
+}

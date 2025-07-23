@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "The patient's features, including severe intellectual disability, hypsarrhythmia, multifocal epileptiform discharges, and various seizure types, closely match the phenotypes described in the reference cases diagnosed with Developmental and epileptic encephalopathy 4."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "The presence of continuous spike and waves during slow sleep and focal tonic seizure aligns with the features seen in Developmental and epileptic encephalopathy 11, though other features are less consistent."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "The patient's severe epilepsy and developmental delay are consistent with this condition, though specific features like hypsarrhythmia are less commonly associated."
+    },
+    {
+      "disease_name": "STXBP1-related developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "STXBP1 mutations can cause a range of epileptic encephalopathies with features similar to the patient's, including hypotonia and various seizure types, though the exact phenotype may vary."
+    }
+  ]
+}

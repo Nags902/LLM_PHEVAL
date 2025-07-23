@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoinflammatory disease, multisystem, with immune dysregulation, X-linked",
+      "disease_id": "OMIM:301081",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of chronic diarrhea and autoimmune hemolytic anemia closely match the phenotypic features seen in the similar reference cases, all of which were diagnosed with this X-linked autoinflammatory disease. The presence of autoimmune hemolytic anemia and chronic diarrhea is highly indicative of this condition."
+    },
+    {
+      "disease_name": "Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",
+      "disease_id": "OMIM:304790",
+      "score": 0.5,
+      "explanation": "This condition is known to involve chronic diarrhea and autoimmune phenomena, including hemolytic anemia. While the patient does not exhibit all the classic features (e.g., polyendocrinopathy), the overlap with autoimmune hemolytic anemia and chronic diarrhea makes this a plausible diagnosis."
+    },
+    {
+      "disease_name": "Common variable immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.333,
+      "explanation": "Common variable immunodeficiency can present with chronic diarrhea and autoimmune complications such as hemolytic anemia. However, the absence of recurrent infections or hypogammaglobulinemia in the patient's current presentation makes this less likely than the X-linked conditions."
+    },
+    {
+      "disease_name": "Autoimmune lymphoproliferative syndrome",
+      "disease_id": "OMIM:601859",
+      "score": 0.25,
+      "explanation": "This syndrome can present with autoimmune hemolytic anemia and chronic diarrhea, but it is typically associated with lymphoproliferation and other autoimmune cytopenias, which are not mentioned in the patient's current presentation."
+    }
+  ]
+}

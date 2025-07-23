@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniofrontonasal dysplasia",
+      "disease_id": "OMIM:304110",
+      "score": 1.0,
+      "explanation": "The patient's features (hypertelorism and orofacial cleft) are strongly associated with Craniofrontonasal dysplasia, as seen in the similar reference cases provided."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Hypertelorism and orofacial cleft are key features of Opitz G/BBB syndrome, though sleep abnormality is less commonly associated."
+    },
+    {
+      "disease_name": "Van der Woude syndrome",
+      "disease_id": "OMIM:119300",
+      "score": 0.333,
+      "explanation": "Orofacial cleft is a hallmark of Van der Woude syndrome, but hypertelorism and sleep abnormality are not typical features."
+    },
+    {
+      "disease_name": "Pfeiffer syndrome",
+      "disease_id": "OMIM:101600",
+      "score": 0.25,
+      "explanation": "Hypertelorism can be seen in Pfeiffer syndrome, but orofacial cleft and sleep abnormality are less common."
+    },
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "Hypertelorism is a feature of Aarskog-Scott syndrome, but orofacial cleft and sleep abnormality are not typically associated."
+    }
+  ]
+}

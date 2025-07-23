@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616211",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, which were all diagnosed with Developmental and epileptic encephalopathy 28. Key overlapping features include thin corpus callosum, cerebral atrophy, epileptic spasm, epileptic encephalopathy, hypokinesia, global developmental delay, and EEG abnormality."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "Pontocerebellar hypoplasia type 2 shares some features with the patient's condition, such as cerebral atrophy, global developmental delay, and hypokinesia. However, it typically includes more pronounced cerebellar and pontine hypoplasia, which are not mentioned in the patient's features."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett syndrome can present with global developmental delay, EEG abnormalities, and hypokinesia. However, it is more commonly seen in females and usually includes regression of acquired skills and hand stereotypies, which are not mentioned here."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome can present with global developmental delay, EEG abnormalities, and hypokinesia. However, it typically includes features like happy demeanor, ataxia, and severe speech impairment, which are not noted in this patient."
+    }
+  ]
+}

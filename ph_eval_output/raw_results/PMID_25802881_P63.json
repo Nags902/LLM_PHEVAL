@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "The patient's features (Obesity, Short metacarpal, Intellectual disability) closely match the reference cases diagnosed as Pseudohypoparathyroidism Ia."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.5,
+      "explanation": "Prader-Willi syndrome is associated with obesity and intellectual disability, but lacks the specific feature of short metacarpal."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "Bardet-Biedl syndrome includes obesity and intellectual disability, but short metacarpal is not a typical feature."
+    },
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.25,
+      "explanation": "Albright hereditary osteodystrophy is another subtype of Pseudohypoparathyroidism and shares similar features, but the reference cases point more towards Pseudohypoparathyroidism Ia."
+    }
+  ]
+}

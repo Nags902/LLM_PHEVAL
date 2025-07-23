@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holoprosencephaly 1",
+      "disease_id": "OMIM:236100",
+      "score": 1.0,
+      "explanation": "The patient presents with lobar holoprosencephaly, hypotelorism, and microcephaly, which are hallmark features of holoprosencephaly. Additional features like seizures and high palate are also commonly associated with this condition."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by microcephaly, hypotonia, high palate, and feeding difficulties, which match the patient's features. The presence of holoprosencephaly is less common but has been reported in some cases."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "The patient's features such as microcephaly, high palate, protruding ears, and prominent fingertip pads are consistent with Rubinstein-Taybi syndrome. However, holoprosencephaly is not typically associated with this condition."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan syndrome can present with hypotelorism, high palate, and hypotonia. However, the presence of holoprosencephaly is atypical, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:615502",
+      "score": 0.2,
+      "explanation": "Similar to the reference case, this disorder can present with microcephaly, hypotonia, and feeding difficulties. However, the patient's holoprosencephaly is not a typical feature of this disorder."
+    }
+  ]
+}

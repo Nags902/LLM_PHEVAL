@@ -4,19 +4,25 @@
       "disease_name": "Holt-Oram syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "The patient presents with Atrial septal defect, Absent thumb, and Upper limb phocomelia, which are classic features of Holt-Oram syndrome. The similar reference cases also strongly suggest this diagnosis."
+      "explanation": "The patient's features of atrial septal defect, absent thumb, and upper limb phocomelia closely match the phenotypic spectrum of Holt-Oram syndrome, as seen in the similar reference cases provided."
     },
     {
-      "disease_name": "Thrombocytopenia-Absent Radius syndrome",
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) syndrome",
       "disease_id": "OMIM:274000",
       "score": 0.5,
-      "explanation": "While the patient has Absent thumb and Upper limb phocomelia, the absence of thrombocytopenia and the presence of Atrial septal defect make this less likely than Holt-Oram syndrome."
+      "explanation": "TAR syndrome can present with absent thumbs and upper limb anomalies, though it typically includes thrombocytopenia, which is not mentioned here. The absence of thrombocytopenia lowers its likelihood."
     },
     {
       "disease_name": "VACTERL association",
       "disease_id": "OMIM:192350",
       "score": 0.333,
-      "explanation": "The patient has limb anomalies and a cardiac defect, but VACTERL typically involves vertebral, anal, cardiac, tracheoesophageal, renal, and limb anomalies. The absence of multiple features makes this less likely."
+      "explanation": "VACTERL association can include limb anomalies and cardiac defects, but it typically involves multiple other features (vertebral, anal, tracheoesophageal, renal) not mentioned here, making it less likely."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with thumb and radial anomalies, but it usually includes other features like bone marrow failure and increased cancer risk, which are not mentioned here."
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with motor and language delay, ocular defects, and brain abnormalities",
+      "disease_id": "OMIM:619090",
+      "score": 1.0,
+      "explanation": "The patient's features closely match this disorder, including cerebellar hypoplasia, delayed speech and language development, motor delay, strabismus, and intellectual disability."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder plus optic atrophy",
+      "disease_id": "OMIM:619090",
+      "score": 0.5,
+      "explanation": "The patient shares several features with this disorder, such as microcephaly, intellectual disability, delayed speech and language development, and cerebellar hypoplasia, though optic atrophy is not noted in the patient."
+    },
+    {
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:619090",
+      "score": 0.333,
+      "explanation": "The patient exhibits some overlapping features like intellectual disability, delayed speech and language development, strabismus, and microcephaly, but lacks seizures which are common in this disorder."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "The patient's cerebellar hypoplasia, intellectual disability, and delayed motor development are consistent with Joubert syndrome, but other hallmark features like the molar tooth sign are not mentioned."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia",
+      "disease_id": "OMIM:607596",
+      "score": 0.2,
+      "explanation": "The patient's cerebellar hypoplasia, microcephaly, and developmental delays align with this disorder, though specific subtypes would need further investigation."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.166,
+      "explanation": "The patient's intellectual disability, delayed speech, and motor delays are seen in Angelman syndrome, but the absence of a happy demeanor and frequent laughter makes this less likely."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.142,
+      "explanation": "The patient's microcephaly, intellectual disability, and delayed speech could suggest Rett syndrome, but the lack of regression and hand stereotypies reduces the likelihood."
+    }
+  ]
+}

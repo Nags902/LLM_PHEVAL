@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
+      "disease_id": "OMIM:620493",
+      "score": 1.0,
+      "explanation": "The patient's features closely match the reference cases, particularly the presence of dilated third ventricle, cerebral hemorrhage, hydrocephalus, lateral ventricle dilatation, and cerebral calcification, which are hallmark signs of this disorder."
+    },
+    {
+      "disease_name": "Pseudo-TORCH syndrome",
+      "disease_id": "OMIM:251290",
+      "score": 0.5,
+      "explanation": "This syndrome includes cerebral calcification and intracranial hemorrhage, similar to the patient's features, though other typical features like microcephaly or seizures are not mentioned."
+    },
+    {
+      "disease_name": "Aicardi-Goutieres syndrome",
+      "disease_id": "OMIM:225750",
+      "score": 0.333,
+      "explanation": "Known for cerebral calcification and neurological deficits, but the patient lacks some typical features like leukodystrophy or chilblains."
+    },
+    {
+      "disease_name": "Congenital hydrocephalus",
+      "disease_id": "OMIM:236600",
+      "score": 0.25,
+      "explanation": "Hydrocephalus and ventricle dilatation are present, but this diagnosis does not account for the cerebral hemorrhage or calcification."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "The patient's features such as global developmental delay, autistic behavior, delayed speech and language development, and highly arched eyebrow closely match the phenotypic features of the reference cases diagnosed with this disorder."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart",
+      "disease_id": "OMIM:616975",
+      "score": 0.5,
+      "explanation": "The patient exhibits several overlapping features such as autistic behavior, delayed speech and language development, and global developmental delay, which are consistent with this disorder, though some key features like brain, eye, or heart anomalies are not noted."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome can present with developmental delay, hearing impairment, and prominent metopic ridge, though other typical features like cardiac anomalies are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "This syndrome includes global developmental delay, delayed speech and language development, and hearing impairment, but the patient lacks some hallmark features such as hypoplastic nails and fifth digit anomalies."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "The patient's features like global developmental delay, delayed speech, and autistic behavior can be seen in this syndrome, but typical features such as microcephaly and syndactyly are not noted."
+    }
+  ]
+}

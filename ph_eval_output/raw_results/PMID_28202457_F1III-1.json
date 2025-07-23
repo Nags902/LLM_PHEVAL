@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including myelodysplasia, pancytopenia, cerebellar atrophy, nystagmus, dysmetria, ankle clonus, recurrent infections, neutropenia, increased mean corpuscular volume, and thrombocytopenia."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita",
+      "disease_id": "OMIM:305000",
+      "score": 0.5,
+      "explanation": "Dyskeratosis congenita can present with pancytopenia, recurrent infections, and cerebellar atrophy, though it typically also includes mucocutaneous features which are not mentioned here."
+    },
+    {
+      "disease_name": "Pearson syndrome",
+      "disease_id": "OMIM:557000",
+      "score": 0.333,
+      "explanation": "Pearson syndrome can cause pancytopenia, recurrent infections, and increased mean corpuscular volume, but cerebellar atrophy and neurological symptoms are less common."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with pancytopenia and recurrent infections, but cerebellar atrophy and neurological symptoms are atypical."
+    }
+  ]
+}

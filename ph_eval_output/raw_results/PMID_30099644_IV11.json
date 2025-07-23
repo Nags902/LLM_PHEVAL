@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of reduced visual acuity, retinal pigment epithelial mottling, and abnormal electroretinogram closely match the presentation of Case 1, which was diagnosed as Leber congenital amaurosis 6."
+    },
+    {
+      "disease_name": "Retinitis pigmentosa 11",
+      "disease_id": "OMIM:600138",
+      "score": 0.5,
+      "explanation": "The patient shares features such as reduced visual acuity and abnormal electroretinogram with Case 2, which was diagnosed as Retinitis pigmentosa 11, though the patient lacks some of the more specific features like nyctalopia and bone spicule pigmentation."
+    },
+    {
+      "disease_name": "Macular dystrophy with or without cone dysfunction",
+      "disease_id": "OMIM:616170",
+      "score": 0.333,
+      "explanation": "The patient's reduced visual acuity and retinal pigment epithelial mottling are seen in Case 3, diagnosed as Macular dystrophy, but the patient lacks other specific features like macular atrophy and central scotoma."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.25,
+      "explanation": "Stargardt disease often presents with reduced visual acuity and retinal pigment epithelial changes, though an abnormal electroretinogram is less commonly highlighted in its presentation."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 1",
+      "disease_id": "OMIM:600624",
+      "score": 0.2,
+      "explanation": "Cone-rod dystrophy can present with reduced visual acuity and abnormal electroretinogram, but typically also includes photophobia and color vision defects, which are not mentioned here."
+    }
+  ]
+}

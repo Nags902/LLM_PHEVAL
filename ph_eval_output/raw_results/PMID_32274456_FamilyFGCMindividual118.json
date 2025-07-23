@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "The patient's presentation of chronic kidney disease and proteinuria closely matches the similar reference cases, all of which were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Alport syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.5,
+      "explanation": "Alport syndrome is a genetic condition that can present with chronic kidney disease and proteinuria, though hematuria is more typical. It is less likely given the reference cases but still possible."
+    },
+    {
+      "disease_name": "Focal segmental glomerulosclerosis",
+      "disease_id": "OMIM:603278",
+      "score": 0.333,
+      "explanation": "This condition often presents with proteinuria and can lead to chronic kidney disease, but it is less commonly autosomal dominant and not highlighted in the reference cases."
+    },
+    {
+      "disease_name": "Polycystic kidney disease, autosomal dominant",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "While this disease typically presents with cystic kidney disease, it can also lead to chronic kidney disease and proteinuria, though it is less likely given the reference cases."
+    }
+  ]
+}

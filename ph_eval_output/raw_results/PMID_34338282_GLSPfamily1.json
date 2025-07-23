@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "The patient presents with Ataxia and Aniridia, which are hallmark features of Gillespie syndrome. All similar reference cases with these features were diagnosed as Gillespie syndrome."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "WAGR syndrome can present with Aniridia, but Ataxia is less commonly associated. However, it is a consideration due to the presence of Aniridia."
+    },
+    {
+      "disease_name": "Marinesco-Sj\u00f6gren syndrome",
+      "disease_id": "OMIM:248800",
+      "score": 0.333,
+      "explanation": "Marinesco-Sj\u00f6gren syndrome includes Ataxia as a key feature, but Aniridia is not typically associated. It is included due to the presence of Ataxia."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia with axonal neuropathy",
+      "disease_id": "OMIM:607250",
+      "score": 0.25,
+      "explanation": "This condition includes Ataxia as a primary feature, but Aniridia is not a known association. It is considered due to the Ataxia presentation."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Thrombocytopenia 8 with dysmorphic features and developmental delay",
+      "disease_id": "OMIM:619150",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Thrombocytopenia 8. Key matching features include thrombocytopenia, platelet anisocytosis, increased mean platelet volume, mild global developmental delay, and facial dysmorphisms such as broad/horizontal eyebrows, deeply set eyes, synophrys, telecanthus, upslanted palpebral fissures, thin upper lip vermilion, bulbous nose, wide mouth, and mandibular prognathia."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome shares some overlapping features with the patient's presentation, such as deeply set eyes, synophrys, telecanthus, upslanted palpebral fissures, thin upper lip vermilion, bulbous nose, wide mouth, and mandibular prognathia. However, thrombocytopenia and platelet abnormalities are less commonly associated with Noonan syndrome, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Cornelia de Lange syndrome can present with some similar facial features (synophrys, thin upper lip vermilion, deeply set eyes, telecanthus) and developmental delay. However, thrombocytopenia and platelet abnormalities are not typical, and other hallmark features of CdLS (e.g., limb anomalies, growth retardation) are absent in this patient."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.25,
+      "explanation": "Wiedemann-Steiner syndrome shares some facial features (synophrys, thick eyebrows, deeply set eyes) and developmental delay, but thrombocytopenia and platelet abnormalities are not characteristic. The patient lacks other key features such as hypertrichosis or short stature."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "The patient's features, including anemia, increased mean corpuscular volume, elevated red cell adenosine deaminase activity, and small thenar eminence, closely match those seen in Diamond-Blackfan anemia 1, as evidenced by the similar reference cases."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 2",
+      "disease_id": "OMIM:606129",
+      "score": 0.5,
+      "explanation": "This subtype of Diamond-Blackfan anemia shares many features with Diamond-Blackfan anemia 1, including anemia and elevated red cell adenosine deaminase activity, though it is less commonly reported with the specific combination of features seen in this patient."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 3",
+      "disease_id": "OMIM:610629",
+      "score": 0.333,
+      "explanation": "Another subtype of Diamond-Blackfan anemia, which may present similarly but is less frequently associated with the full spectrum of features observed in this patient."
+    },
+    {
+      "disease_name": "Hereditary spherocytosis",
+      "disease_id": "OMIM:182900",
+      "score": 0.25,
+      "explanation": "This condition can present with anemia and increased mean corpuscular volume, but lacks the elevated red cell adenosine deaminase activity and other specific features seen in this patient."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.2,
+      "explanation": "Fanconi anemia can present with anemia and small thenar eminence, but typically includes other features such as bone marrow failure and congenital anomalies, which are not noted in this patient."
+    }
+  ]
+}

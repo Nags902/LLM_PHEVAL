@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism type Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "The patient's features (short stature, short metacarpal, intellectual disability) closely match the phenotypic features of Pseudohypoparathyroidism type Ia, as seen in the similar reference case 1."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "The patient's features also align with Pseudopseudohypoparathyroidism, as seen in similar reference cases 2 and 3, though the absence of subcutaneous ossification makes it less likely than Pseudohypoparathyroidism type Ia."
+    },
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.333,
+      "explanation": "Albright hereditary osteodystrophy is a related condition that includes short stature, short metacarpals, and intellectual disability, but typically also includes other features like round facies and obesity, which are not mentioned here."
+    },
+    {
+      "disease_name": "Acrodysostosis",
+      "disease_id": "OMIM:101800",
+      "score": 0.25,
+      "explanation": "Acrodysostosis can present with short stature and short metacarpals, but intellectual disability is less common and other features like nasal hypoplasia are typically present."
+    }
+  ]
+}

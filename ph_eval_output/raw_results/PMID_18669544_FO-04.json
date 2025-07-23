@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "The patient's features (Myopia, Reduced visual acuity, Nyctalopia, Intellectual disability, Obesity) closely match the phenotypic profile of Bardet-Biedl syndrome, as seen in the similar reference cases provided."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.5,
+      "explanation": "Alstr\u00f6m syndrome shares several features with the patient's presentation, including Myopia, Reduced visual acuity, Nyctalopia, and Obesity, though it typically includes hearing loss and diabetes, which are not mentioned here."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.333,
+      "explanation": "Cohen syndrome can present with Myopia, Reduced visual acuity, Intellectual disability, and Obesity, but it also typically includes microcephaly and neutropenia, which are not noted in this patient."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Prader-Willi syndrome is characterized by Obesity and Intellectual disability, but it lacks the ocular symptoms (Myopia, Reduced visual acuity, Nyctalopia) seen in this patient."
+    }
+  ]
+}

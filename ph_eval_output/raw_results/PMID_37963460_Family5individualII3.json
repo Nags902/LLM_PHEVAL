@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia, feeding difficulties, facial dysmorphism, and brain abnormalities",
+      "disease_id": "OMIM:620494",
+      "score": 1.0,
+      "explanation": "The patient's features closely match the reference cases, including hypotonia, feeding difficulties, facial dysmorphism, and brain abnormalities such as hypoplasia of the corpus callosum."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "The patient exhibits several features of Smith-Lemli-Opitz syndrome, including hypotonia, short stature, motor delay, and facial dysmorphism such as hypertelorism and high palate."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "The patient's features such as short stature, hypertelorism, and motor delay are consistent with Cornelia de Lange syndrome, though some typical features like limb anomalies are not noted."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "The patient's global developmental delay, hypotonia, and autistic behavior are suggestive of Phelan-McDermid syndrome, though the absence of seizures and more specific dysmorphic features lowers the rank."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "The patient's short stature, hypertelorism, and low-set ears are seen in Noonan syndrome, but the absence of cardiac defects and typical facial features reduces the likelihood."
+    }
+  ]
+}

@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric aciduria type 1",
+      "disease_name": "Glutaricaciduria, type I",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "The patient exhibits glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and dystonia, which are hallmark features of Glutaric aciduria type 1."
+      "explanation": "The patient's features, including macrocephaly, cerebral atrophy, subdural hemorrhage, glutaric aciduria, and dystonia, closely match the phenotypic profile of Glutaricaciduria type I, as seen in all three reference cases."
     },
     {
-      "disease_name": "D-2-hydroxyglutaric aciduria",
-      "disease_id": "OMIM:600721",
+      "disease_name": "Glutaricaciduria, type II",
+      "disease_id": "OMIM:231680",
       "score": 0.5,
-      "explanation": "This condition can present with macrocephaly, cerebral atrophy, and dystonia, but glutaric aciduria is more specific to Glutaric aciduria type 1."
+      "explanation": "While the patient's features overlap with Glutaricaciduria type II, the absence of features like hypoglycemia and metabolic acidosis makes it less likely compared to type I."
     },
     {
-      "disease_name": "Canavan disease",
-      "disease_id": "OMIM:271900",
-      "score": 0.333,
-      "explanation": "Canavan disease can cause macrocephaly and cerebral atrophy, but it typically does not present with glutaric aciduria or subdural hemorrhage."
-    },
-    {
-      "disease_name": "Alexander disease",
+      "disease_name": "Alexander Disease",
       "disease_id": "OMIM:203450",
-      "score": 0.25,
-      "explanation": "Alexander disease may present with macrocephaly and cerebral atrophy, but it is less likely to present with glutaric aciduria or subdural hemorrhage."
+      "score": 0.333,
+      "explanation": "Alexander Disease can present with macrocephaly and cerebral atrophy, but the presence of glutaric aciduria and subdural hemorrhage is more indicative of a metabolic disorder like Glutaricaciduria."
     },
     {
-      "disease_name": "Megalencephalic leukoencephalopathy with subcortical cysts",
-      "disease_id": "OMIM:604004",
-      "score": 0.2,
-      "explanation": "This condition can cause macrocephaly and cerebral atrophy, but it is not typically associated with glutaric aciduria or dystonia."
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.25,
+      "explanation": "Canavan Disease shares features like macrocephaly and cerebral atrophy, but the presence of glutaric aciduria and dystonia is more consistent with Glutaricaciduria."
     }
   ]
 }

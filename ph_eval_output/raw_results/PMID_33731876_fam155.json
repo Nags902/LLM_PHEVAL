@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases diagnosed with Developmental and epileptic encephalopathy 11, including cerebral atrophy, EEG with burst suppression, epileptic encephalopathy, focal tonic seizure, infantile spasms, severe intellectual disability, and multifocal epileptiform discharges."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "Some overlapping features with the patient's condition, such as EEG with burst suppression, infantile spasms, focal tonic seizure, severe intellectual disability, and cerebral atrophy, were observed in a reference case diagnosed with Developmental and epileptic encephalopathy 4."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "While not directly referenced, the patient's severe epileptic encephalopathy and infantile spasms are common in Developmental and epileptic encephalopathy 1, though other features like cerebral atrophy are less commonly reported."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "The patient's features such as epileptic encephalopathy and severe intellectual disability are consistent with Developmental and epileptic encephalopathy 2, but other specific features like cerebral atrophy are less commonly associated."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.2,
+      "explanation": "The patient's severe intellectual disability and epileptic encephalopathy are seen in Developmental and epileptic encephalopathy 9, but other features like cerebral atrophy and burst suppression on EEG are less typical."
+    }
+  ]
+}

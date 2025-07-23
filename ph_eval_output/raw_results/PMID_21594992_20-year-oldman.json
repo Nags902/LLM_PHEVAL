@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan lipodystrophy syndrome",
+      "disease_id": "OMIM:616914",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including high palate, high myopia, ectopia lentis, generalized lipodystrophy, arachnodactyly, hyperextensibility of the finger joints, progeroid facial appearance, and premature birth."
+    },
+    {
+      "disease_name": "Neonatal progeroid syndrome",
+      "disease_id": "OMIM:264090",
+      "score": 0.5,
+      "explanation": "The patient exhibits progeroid facial appearance, generalized lipodystrophy, and failure to thrive, which are characteristic of this syndrome, though some features like ectopia lentis are less common."
+    },
+    {
+      "disease_name": "Wiedemann-Rautenstrauch syndrome",
+      "disease_id": "OMIM:264090",
+      "score": 0.333,
+      "explanation": "This syndrome shares features such as progeroid facial appearance, generalized lipodystrophy, and intrauterine growth retardation, but lacks some of the connective tissue findings seen in the patient."
+    },
+    {
+      "disease_name": "Hutchinson-Gilford progeria syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 0.25,
+      "explanation": "The progeroid facial appearance and lipodystrophy are present, but the connective tissue abnormalities and ectopia lentis are not typical of this syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.2,
+      "explanation": "This syndrome includes some connective tissue features like arachnodactyly and pectus excavatum, but lacks the lipodystrophy and progeroid appearance seen in the patient."
+    }
+  ]
+}

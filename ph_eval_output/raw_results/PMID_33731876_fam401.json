@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "The patient's features of Continuous spike and waves during slow sleep, Epileptic encephalopathy, and Focal tonic seizure closely match the diagnostic criteria for Developmental and epileptic encephalopathy 11, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "The presence of Infantile spasms, Global developmental delay, and Hypsarrhythmia aligns with the features of Developmental and epileptic encephalopathy 4, which was diagnosed in similar cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "Although not directly mentioned in the reference cases, the patient's symptoms are consistent with Developmental and epileptic encephalopathy 1, which often presents with infantile spasms and global developmental delay."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "The patient's features of epileptic encephalopathy and global developmental delay could also be indicative of Developmental and epileptic encephalopathy 9, though other features are less specific."
+    }
+  ]
+}

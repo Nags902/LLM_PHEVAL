@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Early-onset ataxia with oculomotor apraxia and hypoalbuminemia",
+      "disease_id": "OMIM:208920",
+      "score": 1.0,
+      "explanation": "The patient presents with ataxia and strabismus, which are key features of this disease. The similar reference cases also point towards this diagnosis, although the patient lacks some features like hypoalbuminemia."
+    },
+    {
+      "disease_name": "Dystonia 37, early-onset, with striatal lesions",
+      "disease_id": "OMIM:620437",
+      "score": 0.5,
+      "explanation": "The patient exhibits dystonia and hypotonia, which are consistent with this disease. However, the absence of striatal lesions and other severe symptoms like dysphagia or intellectual disability lowers its rank."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 1",
+      "disease_id": "OMIM:606002",
+      "score": 0.333,
+      "explanation": "Ataxia and hypotonia are common in this disease, but the lack of other cerebellar signs or family history reduces its likelihood."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.25,
+      "explanation": "Ataxia and strabismus are seen in this disease, but the absence of telangiectasias and immunodeficiency makes it less likely."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.2,
+      "explanation": "Hypotonia and ataxia can occur in this disease, but the lack of nystagmus and developmental delay decreases its probability."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type II",
+      "disease_id": "OMIM:607906",
+      "score": 1.0,
+      "explanation": "The patient's features such as fetal pericardial effusion, seizure, cerebellar atrophy, cerebral atrophy, failure to thrive, and hypoalbuminemia closely match those seen in similar cases diagnosed with Congenital disorder of glycosylation, type II. The presence of a type I transferrin isoform profile further supports this diagnosis."
+    },
+    {
+      "disease_name": "Coenzyme Q10 deficiency, primary, 7",
+      "disease_id": "OMIM:616276",
+      "score": 0.5,
+      "explanation": "While the patient does not exhibit all the features of Coenzyme Q10 deficiency, the presence of cerebellar atrophy, seizure, and failure to thrive are consistent with this condition. However, the lack of specific biochemical markers like decreased coenzyme Q10 levels makes this less likely than congenital disorders of glycosylation."
+    },
+    {
+      "disease_name": "Zellweger syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.33,
+      "explanation": "Zellweger syndrome is a peroxisomal disorder that can present with hypotonia, seizures, cerebellar atrophy, and polycystic kidney dysplasia. However, the absence of typical facial dysmorphism and severe neurological symptoms at birth makes this less likely."
+    },
+    {
+      "disease_name": "Niemann-Pick disease, type C",
+      "disease_id": "OMIM:257220",
+      "score": 0.25,
+      "explanation": "Niemann-Pick disease type C can present with seizures, cerebellar atrophy, and failure to thrive. However, the lack of hepatosplenomegaly and vertical supranuclear gaze palsy reduces the likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Leigh syndrome can present with seizures, cerebellar atrophy, and hypotonia. However, the absence of lactic acidosis and typical neuroimaging findings makes this diagnosis less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "The patient presents with Stage 5 chronic kidney disease, which is consistent with the similar reference cases that were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:603387",
+      "score": 0.5,
+      "explanation": "Another subtype of autosomal dominant tubulointerstitial kidney disease that could present similarly to the patient's condition."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal recessive",
+      "disease_id": "OMIM:613092",
+      "score": 0.333,
+      "explanation": "An autosomal recessive form of tubulointerstitial kidney disease that may also lead to chronic kidney disease, though less likely given the similar cases."
+    },
+    {
+      "disease_name": "Polycystic kidney disease, autosomal dominant",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "A common cause of chronic kidney disease, though the similar cases point more towards tubulointerstitial kidney disease."
+    },
+    {
+      "disease_name": "Alport syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.2,
+      "explanation": "A genetic disorder that can lead to chronic kidney disease, but typically presents with hearing loss and eye abnormalities, which are not mentioned here."
+    }
+  ]
+}

@@ -4,25 +4,25 @@
       "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
       "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "The patient's presentation with Stage 5 chronic kidney disease and gout is highly consistent with the similar reference cases, all of which were diagnosed with this condition."
+      "explanation": "The patient's presentation with Stage 5 chronic kidney disease and gout closely matches the phenotypic features of the similar reference cases, all of which were diagnosed with this condition."
     },
     {
       "disease_name": "Familial juvenile hyperuricemic nephropathy type 1",
       "disease_id": "OMIM:162000",
       "score": 0.5,
-      "explanation": "This condition is also associated with chronic kidney disease and gout, though it typically presents at a younger age."
+      "explanation": "This condition is also known to present with chronic kidney disease and gout, and is a subtype of autosomal dominant tubulointerstitial kidney disease."
     },
     {
       "disease_name": "Medullary cystic kidney disease type 1",
       "disease_id": "OMIM:174000",
       "score": 0.333,
-      "explanation": "This disease can present with chronic kidney disease and hyperuricemia, though gout is less commonly reported."
+      "explanation": "This disease can present with chronic kidney disease and hyperuricemia leading to gout, though it is less directly matched to the reference cases provided."
     },
     {
       "disease_name": "Uromodulin-associated kidney disease",
       "disease_id": "OMIM:191900",
       "score": 0.25,
-      "explanation": "This condition is known to cause chronic kidney disease and hyperuricemia, but gout is not always a prominent feature."
+      "explanation": "This is another form of autosomal dominant tubulointerstitial kidney disease that can present with chronic kidney disease and gout, though it is less commonly reported."
     }
   ]
 }

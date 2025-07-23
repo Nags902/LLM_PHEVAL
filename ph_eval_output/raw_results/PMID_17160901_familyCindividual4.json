@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Freckling is a common feature of Neurofibromatosis type 1, and all similar reference cases presented with freckling and were diagnosed with this condition."
+    },
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "LEOPARD syndrome can present with freckling, though it is less common than in Neurofibromatosis type 1. Other features of LEOPARD syndrome are not noted in this patient."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.333,
+      "explanation": "McCune-Albright syndrome can present with caf\u00e9-au-lait spots, which may resemble freckling, but other features such as polyostotic fibrous dysplasia are not noted in this patient."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "Noonan syndrome with multiple lentigines can present with freckling, but other characteristic features such as cardiac abnormalities and short stature are not noted in this patient."
+    }
+  ]
+}

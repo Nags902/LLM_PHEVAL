@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "The patient's features (cleft palate, intellectual disability, and global developmental delay) closely match the phenotypic features of Glass syndrome, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.5,
+      "explanation": "22q11.2 deletion syndrome can present with cleft palate and intellectual disability, though global developmental delay is less consistently reported compared to Glass syndrome."
+    },
+    {
+      "disease_name": "Van der Woude syndrome",
+      "disease_id": "OMIM:119300",
+      "score": 0.333,
+      "explanation": "Van der Woude syndrome commonly includes cleft palate but typically lacks the intellectual disability and global developmental delay seen in this patient."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome can present with cleft palate and developmental delay, but it usually includes additional features (e.g., coloboma, choanal atresia) not noted in this patient."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz syndrome can include intellectual disability and developmental delay, but cleft palate is less common and other features (e.g., microcephaly, syndactyly) are typically present."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is a common genetic disorder that matches many of the patient's features, including hearing impairment, wide nasal bridge, long palpebral fissure, hypotonia, global developmental delay, aortic valve stenosis, and recurrent infections. The phenotypic overlap is significant, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Kabuki Syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome shares several features with the patient, such as hearing impairment, long palpebral fissure, hypotonia, global developmental delay, and finger clinodactyly. The presence of macrotia and prominent fingertip pads also aligns with this syndrome."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.33,
+      "explanation": "CHARGE Syndrome is another potential diagnosis due to the patient's hearing impairment, wide nasal bridge, hypotonia, global developmental delay, and recurrent infections. However, the absence of coloboma and choanal atresia makes it less likely."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams Syndrome could explain the patient's aortic valve stenosis, hearing impairment, and global developmental delay. However, the absence of supravalvular aortic stenosis and characteristic facial features reduces its likelihood."
+    },
+    {
+      "disease_name": "White-Sutton Syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 0.2,
+      "explanation": "White-Sutton Syndrome was considered due to the similar reference case and the patient's global developmental delay, hypotonia, and hearing impairment. However, the lack of microcephaly and other specific features makes it less likely."
+    },
+    {
+      "disease_name": "Acrofacial Dysostosis, Cincinnati Type",
+      "disease_id": "OMIM:616462",
+      "score": 0.166,
+      "explanation": "This rare syndrome was considered based on the similar reference case, which included hearing impairment, global developmental delay, and hypotonia. However, the absence of microcephaly and other specific features reduces its likelihood."
+    }
+  ]
+}

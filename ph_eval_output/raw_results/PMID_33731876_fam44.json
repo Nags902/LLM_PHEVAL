@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 5",
+      "disease_id": "OMIM:613477",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of Case 1, including infantile spasms, focal tonic seizures, bilateral tonic-clonic seizures, intellectual disability, and cerebellar atrophy. The presence of CNS hypomyelination and brain atrophy further supports this diagnosis."
+    },
+    {
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:615905",
+      "score": 0.5,
+      "explanation": "The patient's symptoms overlap with Cases 2 and 3, including infantile spasms, intellectual disability, multifocal epileptiform discharges, and cerebellar atrophy. However, the absence of some features like microcephaly and hypotonia makes this less likely than Developmental and epileptic encephalopathy 5."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett syndrome can present with seizures, intellectual disability, and spasticity. However, the presence of precocious puberty and hypsarrhythmia is less typical, making this diagnosis less likely."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome can present with seizures, intellectual disability, and ataxia. However, the absence of characteristic features like happy demeanor and frequent laughter makes this diagnosis less likely."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "Tuberous sclerosis complex can present with seizures and intellectual disability. However, the absence of skin manifestations and tubers on imaging makes this diagnosis less likely."
+    }
+  ]
+}

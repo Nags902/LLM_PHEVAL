@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 1",
+      "disease_id": "OMIM:614742",
+      "score": 1.0,
+      "explanation": "The patient's presentation of short telomere length, hepatic failure, pulmonary fibrosis, and thrombocytopenia closely matches the telomere-related syndromes, particularly those associated with pulmonary fibrosis and bone marrow failure."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant, 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.5,
+      "explanation": "Dyskeratosis congenita is a telomere biology disorder that can present with pulmonary fibrosis, hepatic failure, and bone marrow failure, though classic features like skin pigmentation and nail dystrophy are not mentioned here."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal recessive, 1",
+      "disease_id": "OMIM:224230",
+      "score": 0.333,
+      "explanation": "Similar to the autosomal dominant form, this recessive form can also present with telomere-related organ failure including liver and lungs, but the inheritance pattern differs."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 2",
+      "disease_id": "OMIM:614743",
+      "score": 0.25,
+      "explanation": "Another subtype of telomere-related pulmonary fibrosis and bone marrow failure syndrome, which is highly relevant given the patient's phenotype."
+    },
+    {
+      "disease_name": "Hoyeraal-Hreidarsson syndrome",
+      "disease_id": "OMIM:300240",
+      "score": 0.2,
+      "explanation": "A severe form of dyskeratosis congenita that can present with intrauterine growth retardation, microcephaly, and cerebellar hypoplasia, but also includes bone marrow failure and pulmonary complications."
+    }
+  ]
+}

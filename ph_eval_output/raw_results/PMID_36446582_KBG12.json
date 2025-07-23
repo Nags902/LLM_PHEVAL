@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those in the reference cases diagnosed with KBG syndrome, including intellectual disability, global developmental delay, macrodontia, thick eyebrow, intrauterine growth retardation, motor delay, delayed speech and language development, sleep abnormality, low anterior hairline, synophrys, and short stature."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome shares several features with the patient's phenotype, such as intellectual disability, global developmental delay, short stature, thick eyebrow, and abnormality of the hand. However, it lacks some of the specific features seen in KBG syndrome."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Smith-Magenis syndrome presents with intellectual disability, global developmental delay, sleep abnormality, and short stature, but it does not typically include macrodontia or thick eyebrow, which are prominent in the patient's phenotype."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615032",
+      "score": 0.25,
+      "explanation": "This disorder includes intellectual disability, global developmental delay, and sleep abnormality, but lacks other key features such as macrodontia and thick eyebrow, making it less likely than KBG syndrome."
+    }
+  ]
+}

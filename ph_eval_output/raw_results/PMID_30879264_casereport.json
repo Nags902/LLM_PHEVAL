@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with White-Sutton syndrome. Key overlapping features include short philtrum, wide mouth, cleft palate, pointed chin, exaggerated cupid's bow, thin upper lip vermilion, hypertelorism, epicanthus, ptosis, highly arched eyebrow, myopia, strabismus, short stature, depressed nasal bridge, broad nasal tip, pear-shaped nose, midface retrusion, appendicular and axial hypotonia, hypoplasia of the brainstem, Dandy-Walker malformation, global developmental delay, delayed fine motor development, delayed speech and language development, seizure, autistic behavior, low frustration tolerance, feeding difficulties, sensorineural hearing impairment, inguinal hernia, recurrent otitis media, and recurrent respiratory infections."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "This syndrome shares several features with the patient's presentation, including cleft palate, hypertelorism, ptosis, myopia, short stature, depressed nasal bridge, broad nasal tip, midface retrusion, hypotonia, global developmental delay, delayed speech and language development, seizure, autistic behavior, feeding difficulties, and recurrent respiratory infections. However, it lacks some of the specific facial features seen in the patient and the reference cases."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome can present with some overlapping features such as hypertelorism, ptosis, myopia, short stature, depressed nasal bridge, broad nasal tip, midface retrusion, hypotonia, global developmental delay, delayed speech and language development, seizure, and recurrent otitis media. However, it does not typically include cleft palate, Dandy-Walker malformation, or the specific facial features seen in the patient."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome shares some features with the patient's presentation, including cleft palate, hypertelorism, ptosis, myopia, short stature, depressed nasal bridge, broad nasal tip, midface retrusion, hypotonia, global developmental delay, delayed speech and language development, seizure, feeding difficulties, sensorineural hearing impairment, and recurrent otitis media. However, it typically includes coloboma and choanal atresia, which are not mentioned in the patient's features."
+    },
+    {
+      "disease_name": "Kabuki syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Kabuki syndrome can present with some overlapping features such as short philtrum, wide mouth, cleft palate, hypertelorism, epicanthus, ptosis, myopia, short stature, depressed nasal bridge, broad nasal tip, midface retrusion, hypotonia, global developmental delay, delayed speech and language development, seizure, feeding difficulties, sensorineural hearing impairment, and recurrent otitis media. However, it typically includes distinct facial features and skeletal abnormalities not mentioned in the patient's features."
+    }
+  ]
+}

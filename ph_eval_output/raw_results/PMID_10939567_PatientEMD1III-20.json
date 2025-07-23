@@ -4,25 +4,25 @@
       "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
       "disease_id": "OMIM:181350",
       "score": 1.0,
-      "explanation": "The patient's symptoms, including difficulty running, waddling gait, loss of ambulation, Achilles tendon contracture, elbow contracture, spinal rigidity, elevated creatine kinase, ventricular arrhythmia, abnormal left ventricular function, scapuloperoneal amyotrophy, proximal muscle weakness in upper limbs, and stiff neck, closely match the phenotypic features of Emery-Dreifuss muscular dystrophy 2. The similar reference cases also support this diagnosis."
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, including difficulty running, waddling gait, loss of ambulation, Achilles tendon contracture, elbow contracture, spinal rigidity, elevated creatine kinase, ventricular arrhythmia, abnormal left ventricular function, scapuloperoneal amyotrophy, proximal muscle weakness in upper limbs, and stiff neck."
     },
     {
-      "disease_name": "Limb-girdle muscular dystrophy",
-      "disease_id": "OMIM:603511",
+      "disease_name": "Limb-girdle muscular dystrophy, type 1B",
+      "disease_id": "OMIM:159001",
       "score": 0.5,
-      "explanation": "Limb-girdle muscular dystrophy can present with proximal muscle weakness, elevated creatine kinase, and loss of ambulation, but the presence of contractures and cardiac involvement makes it less likely than Emery-Dreifuss muscular dystrophy."
+      "explanation": "This disease shares some features with the patient's condition, such as proximal muscle weakness, elevated creatine kinase, and cardiac involvement, but lacks the specific contractures and scapuloperoneal amyotrophy seen in the patient."
     },
     {
-      "disease_name": "Becker muscular dystrophy",
-      "disease_id": "OMIM:300376",
+      "disease_name": "Myofibrillar myopathy",
+      "disease_id": "OMIM:601419",
       "score": 0.333,
-      "explanation": "Becker muscular dystrophy can present with elevated creatine kinase, proximal muscle weakness, and cardiac involvement, but the presence of contractures and scapuloperoneal amyotrophy is more indicative of Emery-Dreifuss muscular dystrophy."
+      "explanation": "Myofibrillar myopathy can present with muscle weakness, elevated creatine kinase, and cardiac involvement, but the contractures and scapuloperoneal amyotrophy are less typical."
     },
     {
-      "disease_name": "Myotonic dystrophy type 1",
-      "disease_id": "OMIM:160900",
+      "disease_name": "Facioscapulohumeral muscular dystrophy",
+      "disease_id": "OMIM:158900",
       "score": 0.25,
-      "explanation": "Myotonic dystrophy type 1 can present with muscle weakness, cardiac arrhythmias, and elevated creatine kinase, but the presence of contractures and scapuloperoneal amyotrophy is less typical for this condition."
+      "explanation": "This disease can present with scapular weakness and proximal muscle weakness, but the contractures, spinal rigidity, and cardiac involvement are not typical features."
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including hepatic steatosis, hepatomegaly, peripheral axonal neuropathy, and multiple mitochondrial DNA deletions, which are hallmark signs of this syndrome."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, axonal type 2A2",
+      "disease_id": "OMIM:609260",
+      "score": 0.5,
+      "explanation": "The patient exhibits distal muscle weakness, amyotrophy, and peripheral axonal neuropathy, which are common in this form of Charcot-Marie-Tooth disease, though hepatic involvement is less typical."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type I",
+      "disease_id": "OMIM:162400",
+      "score": 0.333,
+      "explanation": "The patient's impaired distal tactile and vibratory sensation, along with peripheral neuropathy, are consistent with this condition, but the hepatic and mitochondrial findings are not typical."
+    },
+    {
+      "disease_name": "POLG-related disorders",
+      "disease_id": "OMIM:174763",
+      "score": 0.25,
+      "explanation": "These disorders can present with mitochondrial DNA deletions, neuropathy, and hepatic involvement, but the specific phenotype may vary widely."
+    },
+    {
+      "disease_name": "Leukoencephalopathy with vanishing white matter",
+      "disease_id": "OMIM:603896",
+      "score": 0.2,
+      "explanation": "The hyperintensity of cerebral white matter on MRI is a feature, but the peripheral neuropathy and hepatic involvement are not typical for this condition."
+    }
+  ]
+}

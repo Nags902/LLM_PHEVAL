@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria, Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features, including elevated urine 3-hydroxyglutaric level, glutaric aciduria, cerebral atrophy, macrocephaly, subdural hemorrhage, developmental regression, and elevated circulating glutarylcarnitine concentration, closely match the symptoms of Glutaric Aciduria, Type I. The similar reference cases also strongly support this diagnosis."
+    },
+    {
+      "disease_name": "Glutaric Aciduria, Type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "While the patient's symptoms are more consistent with Type I, Type II also presents with some overlapping features such as glutaric aciduria and elevated glutarylcarnitine. However, the absence of features like hypoglycemia and metabolic acidosis makes this less likely."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency (MADD)",
+      "disease_id": "OMIM:231680",
+      "score": 0.333,
+      "explanation": "MADD can present with elevated glutarylcarnitine and glutaric aciduria, but the absence of other typical features like muscle weakness and metabolic decompensation makes this diagnosis less likely."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:614437",
+      "score": 1.0,
+      "explanation": "The patient's features such as cutis laxa, thin skin, bruising susceptibility, joint hypermobility, hypotonia, inguinal hernia, congenital diaphragmatic hernia, bladder diverticulum, and failure to thrive closely match the phenotypic features of the similar reference cases diagnosed with this condition."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
+      "score": 0.5,
+      "explanation": "Some overlapping features include hypotonia, inguinal hernia, congenital diaphragmatic hernia, and failure to thrive. However, the patient lacks several key features such as intellectual disability and microcephaly, which are common in Coffin-Siris syndrome."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.333,
+      "explanation": "The patient exhibits joint hypermobility, thin skin, bruising susceptibility, and cutis laxa, which are seen in Ehlers-Danlos syndrome. However, the absence of significant skin hyperextensibility and scarring makes this less likely than cutis laxa."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Features like long face, high anterior hairline, and joint hypermobility can be seen in Loeys-Dietz syndrome, but the absence of aortic aneurysms or arterial tortuosity reduces the likelihood."
+    }
+  ]
+}

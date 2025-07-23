@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Combined oxidative phosphorylation deficiency 59",
+      "disease_id": "OMIM:620646",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, including apnea, vomiting, retinal degeneration, congestive heart failure, severely reduced left ventricular ejection fraction, cholelithiasis, decreased activity of mitochondrial complexes I and IV, decreased activity of the pyruvate dehydrogenase complex, feeding difficulties, global developmental delay, developmental regression, failure to thrive, CNS demyelination, and cerebral edema. These features are highly indicative of Combined oxidative phosphorylation deficiency 59."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 0.5,
+      "explanation": "The patient exhibits some overlapping features with Mitochondrial DNA depletion syndrome 6, such as vomiting, feeding difficulties, global developmental delay, failure to thrive, and CNS demyelination. However, the absence of features like hepatic failure, cholestasis, and hypoparathyroidism makes this less likely than Combined oxidative phosphorylation deficiency 59."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.333,
+      "explanation": "Leigh syndrome is a mitochondrial disorder that can present with developmental regression, feeding difficulties, vomiting, and CNS demyelination. However, the presence of cholelithiasis and severely reduced left ventricular ejection fraction is less typical for Leigh syndrome, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase complex deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "The patient's decreased activity of the pyruvate dehydrogenase complex and features like developmental delay and regression are consistent with this disorder. However, the additional features such as cholelithiasis and severely reduced left ventricular ejection fraction are not commonly associated with this condition, reducing its likelihood."
+    }
+  ]
+}

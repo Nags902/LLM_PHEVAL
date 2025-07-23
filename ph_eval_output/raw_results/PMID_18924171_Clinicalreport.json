@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 1",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "The patient's features such as abnormal brainstem morphology, hypotonia, respiratory failure, and seizures are highly consistent with pontocerebellar hypoplasia type 1, which often presents with severe hypotonia, respiratory insufficiency, and early lethality."
+    },
+    {
+      "disease_name": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes",
+      "disease_id": "OMIM:540000",
+      "score": 0.5,
+      "explanation": "The presence of seizures, muscle weakness, and hypertrophic cardiomyopathy suggests a mitochondrial disorder, though the absence of lactic acidosis and stroke-like episodes makes this less likely."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hyperkinetic movements, seizures, and structural brain abnormalities",
+      "disease_id": "OMIM:618498",
+      "score": 0.333,
+      "explanation": "The patient's seizures, abnormal corpus callosum, and brainstem abnormalities align with this disorder, though the absence of hyperkinetic movements reduces the likelihood."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 5",
+      "disease_id": "OMIM:613477",
+      "score": 0.25,
+      "explanation": "The seizures and brainstem abnormalities are consistent with this condition, but the absence of hypsarrhythmia and other specific features lowers its rank."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "The patient's respiratory failure, bradycardia, and hypertrophic cardiomyopathy could suggest Leigh syndrome, though the absence of metabolic acidosis and other typical features makes this less likely."
+    }
+  ]
+}

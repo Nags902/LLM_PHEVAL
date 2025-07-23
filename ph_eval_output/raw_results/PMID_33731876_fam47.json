@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "The patient's features, including autism, CNS hypomyelination, EEG abnormalities, hypsarrhythmia, infantile spasms, severe intellectual disability, and hypotonia, closely match the phenotypes seen in similar reference cases diagnosed with Developmental and epileptic encephalopathy 11."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "The patient's presentation overlaps with features seen in Developmental and epileptic encephalopathy 4, such as infantile spasms, hypsarrhythmia, severe intellectual disability, and hypotonia, though some features like CNS hypomyelination are more strongly associated with Developmental and epileptic encephalopathy 11."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "While the patient's symptoms align with some features of Developmental and epileptic encephalopathy 1, such as infantile spasms and severe intellectual disability, the presence of CNS hypomyelination and autism is more indicative of other developmental and epileptic encephalopathies."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome can present with autism, severe intellectual disability, and hypotonia, but the presence of infantile spasms and CNS hypomyelination makes this diagnosis less likely compared to the developmental and epileptic encephalopathies."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman syndrome shares features such as severe intellectual disability and hypotonia, but the presence of infantile spasms and CNS hypomyelination is less typical, making other diagnoses more likely."
+    }
+  ]
+}

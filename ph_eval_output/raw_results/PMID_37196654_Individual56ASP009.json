@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with language delay and variable cognitive abnormalities",
+      "disease_id": "OMIM:618908",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases, particularly the combination of delayed speech and language development, autistic behavior, ADHD, and seizures."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "This syndrome includes delayed speech and language development, autistic behavior, and seizures, which are present in the patient. However, other features like hypotonia and dysmorphic facial features are not noted in the patient."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with delayed speech, seizures, and autistic behavior, but the patient lacks other key features such as ataxia and a happy demeanor."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome is associated with seizures, autistic behavior, and delayed speech, but it is more common in females and the patient lacks regression and hand-wringing movements."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Fragile X syndrome includes delayed speech, ADHD, and autistic behavior, but the patient does not have macroorchidism or a typical facial appearance, which are common in this condition."
+    }
+  ]
+}

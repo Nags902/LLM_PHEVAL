@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:300894",
+      "score": 1.0,
+      "explanation": "The patient's features (Intellectual disability, Delayed speech and language development) closely match the phenotypic features of Case 1, which was diagnosed with this disorder."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300895",
+      "score": 0.5,
+      "explanation": "The patient shares some features with Case 2 (Intellectual disability, Delayed speech and language development, Attention deficit hyperactivity disorder), though not all features are present."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 82",
+      "disease_id": "OMIM:618087",
+      "score": 0.333,
+      "explanation": "The patient has some overlapping features with Case 3 (Intellectual disability, Delayed speech and language development, Attention deficit hyperactivity disorder), but lacks several other key features such as Autism and Seizure."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:609304",
+      "score": 1.0,
+      "explanation": "The patient's presentation of early-onset seizures (including bilateral tonic-clonic, focal impaired awareness, and focal tonic seizures), global developmental delay, intellectual disability, autistic behavior, and EEG abnormalities closely matches the phenotype described in similar reference cases diagnosed with this condition."
+    },
+    {
+      "disease_name": "Periventricular nodular heterotopia 1",
+      "disease_id": "OMIM:300049",
+      "score": 0.5,
+      "explanation": "The presence of gray matter heterotopia, seizures, and developmental delay is consistent with this X-linked disorder, though the patient lacks some typical features like cardiovascular anomalies."
+    },
+    {
+      "disease_name": "PCDH19-related epilepsy and mental retardation",
+      "disease_id": "OMIM:300088",
+      "score": 0.33,
+      "explanation": "The seizure types (including focal onset), developmental delay, and autistic features overlap with this X-linked disorder, though the patient is male and PCDH19 typically affects females."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "Early-onset seizures, developmental delay, and autistic features are seen in this condition, but the patient lacks some hallmark features like hand stereotypies and severe hypotonia."
+    },
+    {
+      "disease_name": "STXBP1-related encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.2,
+      "explanation": "The seizure types and developmental delay match this condition, but the patient lacks the more severe neonatal presentation often seen with STXBP1 mutations."
+    }
+  ]
+}

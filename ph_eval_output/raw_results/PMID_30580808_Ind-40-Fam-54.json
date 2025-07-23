@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including intellectual disability, global developmental delay, autistic behavior, and dysmorphic facial features such as thick eyebrows, long eyelashes, and downslanted palpebral fissures."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "The patient exhibits several features of Coffin-Siris syndrome, including intellectual disability, developmental delay, autistic behavior, thick eyebrows, long eyelashes, and brachydactyly. However, some typical features like sparse scalp hair are absent."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "The patient has some features consistent with Noonan syndrome, such as downslanted palpebral fissures, wide nose, and joint hypermobility. However, other key features like congenital heart defects are not mentioned."
+    },
+    {
+      "disease_name": "Kabuki syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "The patient's long eyelashes, thick eyebrows, and intellectual disability are seen in Kabuki syndrome, but other hallmark features like fetal fingertip pads and skeletal anomalies are not present."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "The patient's wide mouth, short philtrum, and joint hypermobility are seen in Williams syndrome, but the typical cardiovascular and endocrine features are not mentioned."
+    }
+  ]
+}

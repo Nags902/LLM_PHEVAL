@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's features such as intellectual disability, global developmental delay, thick eyebrow, long philtrum, motor delay, delayed speech and language development, feeding difficulties, microcephaly, low anterior hairline, synophrys, anteverted nares, and bulbous nose closely match the phenotypic features of KBG syndrome as seen in the similar reference case."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 0.5,
+      "explanation": "The patient's features overlap with those seen in the similar reference cases diagnosed with this disorder, including global developmental delay, intellectual disability, microcephaly, and facial dysmorphisms such as bulbous nose and anteverted nares. However, the match is not as strong as with KBG syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "The patient's features such as intellectual disability, global developmental delay, thick eyebrow, long philtrum, and feeding difficulties are consistent with Coffin-Siris syndrome. However, other key features of Coffin-Siris syndrome, such as hypoplastic nails and fifth digit anomalies, are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "The patient's features such as intellectual disability, global developmental delay, thick eyebrow, long philtrum, and microcephaly are seen in Cornelia de Lange syndrome. However, the absence of more specific features like limb anomalies and hirsutism reduces the likelihood."
+    }
+  ]
+}

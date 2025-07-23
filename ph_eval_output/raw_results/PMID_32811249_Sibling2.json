@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 5",
+      "disease_id": "OMIM:615983",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of Bardet-Biedl syndrome 5, including postaxial polydactyly, clinodactyly, brachydactyly, reduced visual acuity, nyctalopia, and mild intellectual disability."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Similar to Bardet-Biedl syndrome 5, this subtype also presents with postaxial polydactyly, visual impairment, and intellectual disability, though the specific genetic cause differs."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.333,
+      "explanation": "Another subtype of Bardet-Biedl syndrome with overlapping features such as polydactyly and retinal dystrophy, though less commonly associated with the specific combination seen here."
+    },
+    {
+      "disease_name": "McKusick-Kaufman syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.25,
+      "explanation": "This syndrome includes postaxial polydactyly and may have some overlapping features, but typically lacks the visual and intellectual disability components seen in this patient."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "This condition can present with polydactyly and intellectual disability, but the visual symptoms are less common and the overall phenotype is less consistent."
+    }
+  ]
+}

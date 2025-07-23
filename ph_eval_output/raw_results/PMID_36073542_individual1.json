@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 114",
+      "disease_id": "OMIM:620537",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Developmental and epileptic encephalopathy 114. Key overlapping features include focal impaired awareness seizure, hypotonia, cerebral palsy, autistic behavior, developmental regression, cerebral atrophy, ventriculomegaly, thin corpus callosum, global developmental delay, motor delay, delayed speech and language development, intellectual disability, self-injurious behavior, exotropia, abnormal hair whorl, synophrys, deeply set eye, uplifted earlobe, posterior helix pit, tapered finger, chronic constipation, sleep apnea, and hydrocephalus."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome shares some features with the patient's condition, such as developmental regression, autistic behavior, intellectual disability, and motor delay. However, it lacks some of the neurological and structural abnormalities seen in the patient, such as hydrocephalus and thin corpus callosum."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with developmental delay, intellectual disability, motor delay, and seizures. However, the patient's additional features like cerebral atrophy, ventriculomegaly, and thin corpus callosum are not typical of Angelman syndrome."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Pitt-Hopkins syndrome includes features such as intellectual disability, developmental delay, and autistic behavior. However, it does not typically include seizures or the structural brain abnormalities seen in this patient."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.2,
+      "explanation": "MECP2 duplication syndrome can present with intellectual disability, developmental regression, and seizures. However, the patient's additional features like hydrocephalus and thin corpus callosum are less commonly associated with this condition."
+    }
+  ]
+}

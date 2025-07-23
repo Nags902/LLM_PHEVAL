@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Ataxia-pancytopenia syndrome. Key features include pancytopenia, cerebellar ataxia (unsteady gait, nystagmus, dysarthria, dysmetria), and neurological signs (ankle clonus, Babinski sign)."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita",
+      "disease_id": "OMIM:305000",
+      "score": 0.5,
+      "explanation": "Dyskeratosis congenita can present with bone marrow failure (pancytopenia, anemia, thrombocytopenia) and neurological symptoms, though the cerebellar ataxia is less common. The presence of bone marrow hypocellularity and cytopenias makes this a possible but less likely diagnosis."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.333,
+      "explanation": "Fanconi anemia is characterized by bone marrow failure (pancytopenia, anemia, thrombocytopenia) and may have neurological involvement, but cerebellar ataxia is not a typical feature. The absence of congenital anomalies or a family history makes this less likely."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia with axonal neuropathy",
+      "disease_id": "OMIM:607250",
+      "score": 0.25,
+      "explanation": "This condition presents with cerebellar ataxia and neurological signs but typically lacks hematological abnormalities. The presence of pancytopenia and bone marrow hypocellularity makes this a less likely diagnosis."
+    }
+  ]
+}

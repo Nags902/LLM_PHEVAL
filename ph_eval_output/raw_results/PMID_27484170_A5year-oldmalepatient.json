@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "The patient's features such as pulmonic stenosis, short stature, hypertelorism, multiple lentigines, and few cafe-au-lait spots closely match the phenotypic profile of LEOPARD syndrome 1, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "This syndrome overlaps with LEOPARD syndrome and shares features like pulmonic stenosis, short stature, hypertelorism, and multiple lentigines, though the patient lacks some typical Noonan syndrome features such as webbed neck or ptosis."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.333,
+      "explanation": "The presence of cafe-au-lait spots and pulmonic stenosis could suggest Neurofibromatosis type 1, but the patient lacks other hallmark features like neurofibromas or freckling in the axillary region."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.25,
+      "explanation": "This condition shares some features like pulmonic stenosis and hypertelorism, but the patient does not exhibit other typical signs such as ectodermal abnormalities or severe intellectual disability."
+    }
+  ]
+}

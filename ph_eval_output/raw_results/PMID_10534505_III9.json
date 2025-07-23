@@ -4,25 +4,25 @@
       "disease_name": "Amyloidosis, hereditary systemic 5",
       "disease_id": "OMIM:617860",
       "score": 1.0,
-      "explanation": "The patient's symptoms of renal insufficiency, hepatic amyloidosis, and renal amyloidosis closely match the phenotypic features of hereditary systemic amyloidosis 5, as seen in similar reference cases."
+      "explanation": "The patient's features (renal insufficiency, hepatic amyloidosis, renal amyloidosis, and anemia) closely match the presentation of hereditary systemic amyloidosis 5, as seen in similar reference cases."
     },
     {
       "disease_name": "Amyloidosis, hereditary systemic 3",
       "disease_id": "OMIM:617920",
       "score": 0.5,
-      "explanation": "The patient presents with hepatic and renal amyloidosis, which are also features of hereditary systemic amyloidosis 3, though the absence of cardiac amyloidosis makes this less likely than hereditary systemic amyloidosis 5."
+      "explanation": "The patient's hepatic and renal amyloidosis are consistent with hereditary systemic amyloidosis 3, though anemia is less commonly highlighted in this subtype compared to other features."
     },
     {
-      "disease_name": "Amyloidosis, familial visceral",
+      "disease_name": "Amyloidosis, hereditary systemic 1",
       "disease_id": "OMIM:105200",
       "score": 0.333,
-      "explanation": "Familial visceral amyloidosis can present with renal and hepatic involvement, but the lack of specific mention of other visceral involvement makes this less likely."
+      "explanation": "Hereditary systemic amyloidosis 1 can present with renal and hepatic involvement, though the specific combination of features in this patient is more commonly associated with subtypes 3 and 5."
     },
     {
-      "disease_name": "Amyloidosis, Finnish type",
-      "disease_id": "OMIM:105120",
+      "disease_name": "Amyloidosis, hereditary systemic 2",
+      "disease_id": "OMIM:105210",
       "score": 0.25,
-      "explanation": "Finnish type amyloidosis often involves renal and hepatic amyloidosis, but it typically presents with corneal lattice dystrophy, which is not mentioned here."
+      "explanation": "This subtype can involve renal and hepatic amyloidosis, but the patient's presentation is more aligned with other hereditary systemic amyloidosis subtypes based on similar cases."
     }
   ]
 }

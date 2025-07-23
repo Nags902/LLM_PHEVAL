@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Macular dystrophy with or without cone dysfunction",
+      "disease_id": "OMIM:608051",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of reduced visual acuity and macular dystrophy closely match the similar reference cases, all of which were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "Stargardt disease is a common form of inherited macular dystrophy that presents with reduced visual acuity and macular dystrophy, though the similar cases did not point to this diagnosis."
+    },
+    {
+      "disease_name": "Best vitelliform macular dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.333,
+      "explanation": "This condition also involves macular dystrophy and reduced visual acuity, but typically presents with a distinctive vitelliform lesion, which was not mentioned in the patient's features or similar cases."
+    },
+    {
+      "disease_name": "Pattern dystrophy of the retinal pigment epithelium",
+      "disease_id": "OMIM:172810",
+      "score": 0.25,
+      "explanation": "This disease can present with macular dystrophy and reduced visual acuity, but it usually has a distinctive pattern of pigment deposition, which was not noted in the patient or similar cases."
+    }
+  ]
+}

@@ -110,16 +110,7 @@ def Extract_Data_query_deepseek(
 
     # Step 4) Query Deepseek via API
     try:
-        # Query DeepSeek-R1 via Ollama
-        # Must have Ollama running with the model downloaded:
-        # ollama run DeepSeek-R1 --model deepseek-r1
-        # response: ChatResponse = chat(
-        #     model="DeepSeek-R1",
-        #     messages=[{"role": "user", "content": prompt}],
-        #     options={"temperature": 0.2}
-        # )
-        # raw = response["message"]["content"]
-        client = OpenAI(api_key="add_API_key", base_url="https://api.deepseek.com")
+        client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
 
         response = client.chat.completions.create(
             model="deepseek-chat",

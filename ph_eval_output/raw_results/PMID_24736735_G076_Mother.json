@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by polysyndactyly (both preaxial and postaxial) and syndactyly, which matches the patient's features. It is a plausible diagnosis given the phenotypic overlap."
+    },
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.5,
+      "explanation": "This condition can present with polydactyly and syndactyly, among other features. The absence of other key features like hypothalamic hamartoma in the patient's data makes it less likely but still possible."
+    },
+    {
+      "disease_name": "Acrocallosal syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.33,
+      "explanation": "This syndrome includes polydactyly and syndactyly, but typically also involves corpus callosum agenesis and intellectual disability, which are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome can include polydactyly and syndactyly, but it is usually associated with multiple congenital anomalies and intellectual disability, which are not noted in the patient's features."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.2,
+      "explanation": "This condition can present with polydactyly and syndactyly, but it is typically associated with retinal dystrophy, obesity, and renal anomalies, which are not mentioned in the patient's data."
+    }
+  ]
+}

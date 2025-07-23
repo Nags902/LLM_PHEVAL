@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616211",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, all of which were diagnosed with Developmental and epileptic encephalopathy 28. Key features include epileptic encephalopathy, cerebral atrophy, abnormal electroretinogram, and sudden unexpected death in epilepsy."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Pitt-Hopkins syndrome shares some features with the patient's condition, such as global developmental delay, hyperreflexia, and reduced eye contact. However, it lacks some of the more specific features like abnormal electroretinogram and sudden unexpected death in epilepsy."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett syndrome can present with global developmental delay, EEG abnormalities, and reduced eye contact, but it is less likely given the presence of cerebral atrophy and abnormal electroretinogram, which are not typical of Rett syndrome."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome may present with epilepsy, developmental delay, and EEG abnormalities, but it typically does not include features like cerebral atrophy or abnormal electroretinogram."
+    }
+  ]
+}

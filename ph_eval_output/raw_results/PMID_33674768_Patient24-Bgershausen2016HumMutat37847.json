@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "The patient's features such as feeding difficulties, neonatal hypoglycemia, intellectual disability, prominent fingertip pads, intrauterine growth retardation, horseshoe kidney, clinodactyly, narrow palate, and abnormal facial shape are highly consistent with Kabuki syndrome. The similar reference cases also show overlapping features with this syndrome."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome shares some features with the patient's presentation, including feeding difficulties, intellectual disability, clinodactyly, and abnormal facial shape. However, the presence of horseshoe kidney and prominent fingertip pads is more indicative of Kabuki syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Cornelia de Lange syndrome can present with feeding difficulties, intellectual disability, intrauterine growth retardation, and abnormal facial shape. However, the patient's features like horseshoe kidney and prominent fingertip pads are less commonly associated with this syndrome."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome may include feeding difficulties, intellectual disability, and abnormal facial shape, but the patient's features such as prominent fingertip pads and horseshoe kidney are not typical for this syndrome."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz syndrome can present with feeding difficulties, intellectual disability, and intrauterine growth retardation, but the patient's other features like prominent fingertip pads and horseshoe kidney are not commonly seen in this syndrome."
+    }
+  ]
+}

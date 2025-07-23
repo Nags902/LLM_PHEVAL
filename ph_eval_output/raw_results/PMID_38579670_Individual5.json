@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM:619340",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases, including bilateral tonic-clonic seizures, epileptic encephalopathy, global developmental delay, hypotonia, and CNS hypomyelination."
+    },
+    {
+      "disease_name": "Hypomyelination with atrophy of the basal ganglia and cerebellum",
+      "disease_id": "OMIM:612438",
+      "score": 0.5,
+      "explanation": "The presence of CNS hypomyelination and profound developmental delay aligns with this disease, though seizures are less commonly reported."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.333,
+      "explanation": "This disease is characterized by CNS hypomyelination and developmental delay, but seizures and epileptic encephalopathy are less typical."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "While Rett syndrome can present with developmental delay and seizures, the presence of CNS hypomyelination is less common and more typical of other disorders."
+    }
+  ]
+}

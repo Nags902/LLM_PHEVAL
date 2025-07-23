@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 8",
+      "disease_id": "OMIM:618362",
+      "score": 1.0,
+      "explanation": "The patient's features such as seizure, intellectual disability, mild global developmental delay, hypoplasia of the corpus callosum, orofacial cleft, thick eyebrow, wide nose, thick nasal alae, broad philtrum, thin upper lip vermilion, low-set ears, posteriorly rotated ears, and clinodactyly closely match the phenotypic features of Coffin-Siris syndrome 8 as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:618443",
+      "score": 0.5,
+      "explanation": "The patient's features such as seizure, intellectual disability, mild global developmental delay, hypoplasia of the corpus callosum, and thick eyebrow are consistent with this disorder, though other features like orofacial cleft and clinodactyly are less commonly associated."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "The patient's features such as intellectual disability, orofacial cleft, thin upper lip vermilion, and clinodactyly are seen in Smith-Lemli-Opitz syndrome, but other features like seizure and hypoplasia of the corpus callosum are less typical."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "The patient's features such as thick eyebrow, wide nose, thin upper lip vermilion, low-set ears, and intellectual disability are seen in Cornelia de Lange syndrome, but other features like orofacial cleft and hypoplasia of the corpus callosum are less common."
+    }
+  ]
+}

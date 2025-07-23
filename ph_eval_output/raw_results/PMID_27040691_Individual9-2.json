@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616900",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases, including coarse facial features, 11 pairs of ribs, long philtrum, tented upper lip vermilion, epicanthus, hirsutism, absent speech, motor delay, global developmental delay, and hypotonia."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome shares some features with the patient's presentation, such as coarse facial features, hirsutism, global developmental delay, and hypotonia, but lacks some of the specific features seen in the reference cases."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "This syndrome can present with coarse facial features, developmental delay, hypotonia, and other overlapping features, but the absence of specific findings like microcephaly or syndactyly makes it less likely."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan syndrome can present with epicanthus, coarse facial features, and developmental delay, but the absence of cardiac defects or short stature reduces its likelihood."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type II (Hunter syndrome)",
+      "disease_id": "OMIM:309900",
+      "score": 0.2,
+      "explanation": "Hunter syndrome can cause coarse facial features, developmental delay, and hypotonia, but the absence of organomegaly or skeletal dysplasia makes it less likely."
+    }
+  ]
+}

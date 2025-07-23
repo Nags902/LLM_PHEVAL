@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "The patient's features of Stage 2 chronic kidney disease, hyperuricemia, and proteinuria closely match the phenotypes seen in similar reference cases diagnosed with this disease. The presence of hyperuricemia and proteinuria is particularly indicative."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613818",
+      "score": 0.5,
+      "explanation": "While the patient does not exhibit all the features seen in the reference case (e.g., thickened glomerular basement membrane, renal cysts), the presence of Stage 2 chronic kidney disease and hyperuricemia suggests this as a possible diagnosis."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy type 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.333,
+      "explanation": "This disease is known to cause hyperuricemia and chronic kidney disease, aligning with the patient's symptoms. However, the lack of specific features like renal cysts or hyposthenuria makes it less likely than the tubulointerstitial kidney diseases."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease due to UMOD mutations",
+      "disease_id": "OMIM:603860",
+      "score": 0.25,
+      "explanation": "This disease can present with hyperuricemia and chronic kidney disease, but the patient's lack of reported UMOD mutations or family history reduces its likelihood compared to other options."
+    }
+  ]
+}

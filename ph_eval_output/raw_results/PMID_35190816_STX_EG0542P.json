@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "The patient's presentation, including infantile spasms, focal and generalized seizures, hypsarrhythmia, and global developmental delay, closely matches the phenotypic features of Developmental and epileptic encephalopathy 4, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "This condition also presents with infantile spasms, seizures, and developmental delay, though the specific EEG findings and seizure types may vary slightly from the patient's presentation."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.333,
+      "explanation": "Tuberous sclerosis can present with infantile spasms, seizures, and developmental delay, but additional features like cortical tubers or skin manifestations are not noted in this patient."
+    },
+    {
+      "disease_name": "STXBP1-related encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "STXBP1 mutations can cause early-onset epileptic encephalopathy with features similar to the patient's, including infantile spasms and developmental delay, though the EEG findings may differ."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "This disorder is characterized by early-onset seizures, developmental delay, and hypotonia, but typically includes more prominent features like hand-wringing movements, which are not mentioned here."
+    }
+  ]
+}

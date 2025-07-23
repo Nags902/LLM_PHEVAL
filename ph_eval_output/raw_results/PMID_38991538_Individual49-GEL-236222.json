@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "The patient's features such as global developmental delay, intellectual disability, microcephaly, delayed speech and language development, and gastroesophageal reflux closely match the phenotypic spectrum of this disorder, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:615502",
+      "score": 0.5,
+      "explanation": "This disorder is characterized by intellectual disability, global developmental delay, microcephaly, and delayed speech and language development, which are present in the patient. The similar reference case also supports this diagnosis."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome can present with short stature, delayed development, and distinctive facial features such as a high forehead and tented philtrum, which are seen in the patient. However, the absence of cardiac anomalies and other typical features lowers its rank."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome includes microcephaly, intellectual disability, delayed development, and distinctive facial features. The patient's features partially overlap, but the absence of more specific signs like syndactyly or cleft palate reduces its likelihood."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett syndrome can present with developmental delay, seizures, and microcephaly, but it is more common in females and typically involves regression of skills, which is not mentioned in the patient's history."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "The patient presents with Self-healing squamous epithelioma, which is the hallmark feature of this condition. The similar reference cases also point to this diagnosis."
+    },
+    {
+      "disease_name": "Ferguson-Smith disease",
+      "disease_id": "OMIM:132800",
+      "score": 0.5,
+      "explanation": "Ferguson-Smith disease is another name for Multiple self-healing squamous epithelioma, and it is considered the same condition. It is ranked second as it is essentially the same as the first diagnosis."
+    },
+    {
+      "disease_name": "Familial primary self-healing squamous epithelioma of skin",
+      "disease_id": "OMIM:132800",
+      "score": 0.333,
+      "explanation": "This is another term used to describe the same condition as the first two entries. It is ranked third for the same reasons."
+    }
+  ]
+}

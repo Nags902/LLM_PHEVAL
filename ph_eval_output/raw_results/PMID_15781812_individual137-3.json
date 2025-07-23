@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Myoclonic epilepsy of Lafora 2",
+      "disease_id": "OMIM:254780",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of the reference cases, which were all diagnosed as Myoclonic epilepsy of Lafora 2. The presence of dementia, typical absence seizures, bilateral tonic-clonic seizures, myoclonic seizures, gait disturbance, progressive neurologic deterioration, and myoclonus are highly indicative of this condition."
+    },
+    {
+      "disease_name": "Unverricht-Lundborg disease",
+      "disease_id": "OMIM:254800",
+      "score": 0.5,
+      "explanation": "This disease also presents with myoclonus, seizures, and progressive neurologic deterioration, though it typically lacks the dementia seen in Lafora disease. The similarity in seizure types makes it a possible but less likely diagnosis."
+    },
+    {
+      "disease_name": "Neuronal ceroid lipofuscinosis 2",
+      "disease_id": "OMIM:204500",
+      "score": 0.333,
+      "explanation": "This condition can present with dementia, seizures, and progressive neurologic deterioration, but the absence of visual symptoms and the specific types of seizures make it a less likely match compared to Lafora disease."
+    },
+    {
+      "disease_name": "Juvenile myoclonic epilepsy",
+      "disease_id": "OMIM:254770",
+      "score": 0.25,
+      "explanation": "While this condition includes myoclonic and tonic-clonic seizures, it typically does not involve dementia or progressive neurologic deterioration, making it a less likely diagnosis for this patient."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniometaphyseal dysplasia",
+      "disease_id": "OMIM:123000",
+      "score": 1.0,
+      "explanation": "The patient's features such as elevated circulating alkaline phosphatase concentration, hyperostosis, cortical thickening of long bone diaphyses, and proptosis closely match the symptoms seen in Craniometaphyseal dysplasia. The similar reference cases also support this diagnosis."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal dominant 2",
+      "disease_id": "OMIM:166600",
+      "score": 0.5,
+      "explanation": "The patient's cortical thickening of long bones, narrowing of medullary canal, and hyperostosis are consistent with osteopetrosis. However, the absence of fractures or anemia makes this less likely than Craniometaphyseal dysplasia."
+    },
+    {
+      "disease_name": "Paget disease of bone 2, early-onset",
+      "disease_id": "OMIM:602080",
+      "score": 0.333,
+      "explanation": "Elevated alkaline phosphatase and bone pain are common in Paget disease, but the other features like proptosis and ptosis are not typical, making this less likely."
+    },
+    {
+      "disease_name": "Hyperostosis corticalis generalisata",
+      "disease_id": "OMIM:239100",
+      "score": 0.25,
+      "explanation": "The patient's hyperostosis and cortical thickening could suggest this condition, but the lack of jaw involvement and other specific features reduces its likelihood."
+    }
+  ]
+}

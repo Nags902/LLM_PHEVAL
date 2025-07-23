@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency 103, susceptibility to fungal infection",
+      "disease_id": "OMIM:613108",
+      "score": 1.0,
+      "explanation": "The patient presents with Chronic oral candidiasis, which is a key feature in all the similar reference cases diagnosed with Immunodeficiency 103. Although the patient lacks some of the additional features seen in the reference cases, the presence of Chronic oral candidiasis strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Autoimmune polyendocrinopathy syndrome type 1",
+      "disease_id": "OMIM:240300",
+      "score": 0.5,
+      "explanation": "Chronic oral candidiasis is a common feature of Autoimmune polyendocrinopathy syndrome type 1, which is caused by mutations in the AIRE gene. However, the patient does not exhibit other typical features such as hypoparathyroidism or adrenal insufficiency, making this less likely than Immunodeficiency 103."
+    },
+    {
+      "disease_name": "Chronic mucocutaneous candidiasis",
+      "disease_id": "OMIM:114580",
+      "score": 0.333,
+      "explanation": "Chronic mucocutaneous candidiasis is characterized by persistent or recurrent candidal infections of the skin, nails, and mucous membranes, including the mouth. The patient's presentation aligns with this, but the condition is often part of broader syndromes like Immunodeficiency 103 or Autoimmune polyendocrinopathy syndrome type 1."
+    },
+    {
+      "disease_name": "Hyper-IgE syndrome",
+      "disease_id": "OMIM:147060",
+      "score": 0.25,
+      "explanation": "Hyper-IgE syndrome can present with chronic candidiasis, but it is typically associated with other features like recurrent staphylococcal infections and elevated IgE levels, which are not mentioned in the patient's case."
+    }
+  ]
+}

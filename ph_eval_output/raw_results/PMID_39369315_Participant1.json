@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:None",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases diagnosed with ReNU syndrome, including global developmental delay, intellectual disability, progressive microcephaly, hypoplasia of the corpus callosum, and thickened nuchal skin fold."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:None",
+      "score": 0.5,
+      "explanation": "Some overlapping features such as global developmental delay, intellectual disability, autistic behavior, and dysmorphic facial features are present, but the match is not as comprehensive as with ReNU syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Features like epicanthus, high forehead, depressed nasal bridge, and ventricular septal defect are seen in Noonan Syndrome, but many key features are missing or not typical."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Some facial features and developmental delay are consistent, but the patient lacks cardiovascular anomalies typical of Williams Syndrome."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Absent speech, motor delay, and autistic behavior are seen in Angelman Syndrome, but other key features like happy demeanor and ataxia are absent."
+    }
+  ]
+}

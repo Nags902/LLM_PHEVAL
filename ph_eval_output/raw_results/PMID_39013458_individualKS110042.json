@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos syndrome is characterized by tall stature, intellectual disability, global developmental delay, and hypotonia, which are all present in the patient. Additionally, recurrent infections and chronic constipation can be seen in some cases."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Fragile X syndrome often presents with intellectual disability, global developmental delay, and hypotonia. Tall stature and hypermetropia can also be observed, although recurrent infections and chronic constipation are less common."
+    },
+    {
+      "disease_name": "Marshall-Smith syndrome",
+      "disease_id": "OMIM:602535",
+      "score": 0.333,
+      "explanation": "Marshall-Smith syndrome is associated with tall stature, intellectual disability, and hypotonia. However, other features like recurrent infections and chronic constipation are not typically seen."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.25,
+      "explanation": "Weaver syndrome includes tall stature, intellectual disability, and hypotonia. The patient's other features like recurrent infections and chronic constipation are less commonly associated with this syndrome."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.2,
+      "explanation": "Beckwith-Wiedemann syndrome can present with tall stature and intellectual disability, but hypotonia and the other features seen in the patient are less common."
+    }
+  ]
+}

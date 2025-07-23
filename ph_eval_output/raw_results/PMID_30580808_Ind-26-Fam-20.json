@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including intellectual disability, autistic behavior, global developmental delay, hypotonia, seizures, and dysmorphic facial features such as thin upper lip vermilion, low-set ears, and everted lower lip vermilion."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Smith-Magenis syndrome shares some features with the patient's phenotype, including intellectual disability, hypotonia, seizures, and behavioral abnormalities. However, the dysmorphic features in the patient are not entirely typical for Smith-Magenis syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Coffin-Siris syndrome can present with intellectual disability, hypotonia, sparse scalp hair, and dysmorphic facial features. However, the patient lacks some key features such as hypoplastic nails and hypertrichosis is not a common feature of this syndrome."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome can present with seizures, intellectual disability, and hypotonia. However, the patient's dysmorphic features and autistic behavior are less typical for Angelman syndrome."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.2,
+      "explanation": "Phelan-McDermid syndrome can present with intellectual disability, hypotonia, seizures, and autistic behavior. However, the patient's dysmorphic features are not entirely consistent with this syndrome."
+    }
+  ]
+}

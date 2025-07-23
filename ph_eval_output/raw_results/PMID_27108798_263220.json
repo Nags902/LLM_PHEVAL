@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 20",
+      "disease_id": "OMIM:616354",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of the reference cases, including cerebellar atrophy, ataxia, hypotonia, intellectual disability, and scoliosis. The autosomal recessive 20 subtype is particularly relevant given the phenotypic overlap."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert syndrome is characterized by cerebellar hypoplasia, hypotonia, ataxia, and intellectual disability, which are present in the patient. The visual impairment and hypoplasia of the iris and fovea also align with Joubert syndrome features."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia",
+      "disease_id": "OMIM:607596",
+      "score": 0.333,
+      "explanation": "Pontocerebellar hypoplasia presents with cerebellar hypoplasia, hypotonia, intellectual disability, and delayed motor milestones, which are consistent with the patient's symptoms. However, the visual abnormalities are less commonly associated."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome can present with hypotonia, delayed motor development, and intellectual disability, but the cerebellar atrophy and visual impairments are less typical, making it a less likely match."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman syndrome includes intellectual disability, ataxia, and hypotonia, but the cerebellar atrophy and visual impairments are not hallmark features, reducing its likelihood."
+    }
+  ]
+}

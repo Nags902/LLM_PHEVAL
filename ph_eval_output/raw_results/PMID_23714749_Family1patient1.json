@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "The patient's features such as global developmental delay, increased circulating lactate concentration, hypoglycemia, abnormality of the coagulation cascade, and hypotonia closely match the symptoms seen in Case 1, which was diagnosed with this condition. The presence of lactic acidosis and hepatic involvement (coagulation abnormality) strongly suggests a mitochondrial disorder."
+    },
+    {
+      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
+      "disease_id": "OMIM:614111",
+      "score": 0.5,
+      "explanation": "The patient's symptoms overlap with Cases 2 and 3, which were diagnosed with this condition. Features like global developmental delay, increased circulating lactate concentration, and hypotonia are common. However, the absence of specific neurological findings (e.g., seizures, cerebral atrophy) in the patient makes this less likely than the mitochondrial DNA depletion syndrome."
+    },
+    {
+      "disease_name": "Glycogen storage disease type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.333,
+      "explanation": "This condition can present with hypoglycemia, lactic acidosis, and hypotonia. However, the absence of hepatomegaly and other specific features of glycogen storage diseases makes this less likely."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "This disorder can cause lactic acidosis, developmental delay, and hypotonia. However, the lack of specific neurological symptoms (e.g., ataxia, seizures) reduces its likelihood compared to the top-ranked conditions."
+    }
+  ]
+}

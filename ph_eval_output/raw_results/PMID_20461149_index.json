@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Branchiooculofacial syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 1.0,
+      "explanation": "The patient's features such as nasolacrimal duct obstruction, iris coloboma, retinal coloboma, microphthalmia, conductive hearing impairment, and median pseudocleft lip closely match the phenotypic features seen in Branchiooculofacial syndrome, as evidenced by the similar reference cases provided."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is another potential candidate due to overlapping features like coloboma, microphthalmia, and conductive hearing impairment, although the absence of other hallmark features such as choanal atresia and ear anomalies makes it less likely than Branchiooculofacial syndrome."
+    },
+    {
+      "disease_name": "Goldenhar syndrome",
+      "disease_id": "OMIM:164210",
+      "score": 0.333,
+      "explanation": "Goldenhar syndrome can present with microphthalmia, coloboma, and conductive hearing impairment, but the lack of epibulbar dermoids or vertebral anomalies in this patient reduces its likelihood."
+    },
+    {
+      "disease_name": "Cat-eye syndrome",
+      "disease_id": "OMIM:115470",
+      "score": 0.25,
+      "explanation": "Cat-eye syndrome may include iris coloboma and microphthalmia, but the absence of anal atresia or cardiac defects makes it a less probable diagnosis."
+    }
+  ]
+}

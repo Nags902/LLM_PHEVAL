@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniometadiaphyseal osteosclerosis with hip dysplasia",
+      "disease_id": "None",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Craniometadiaphyseal osteosclerosis with hip dysplasia. Key overlapping features include global developmental delay, hypertelorism, depressed nasal bridge, hip dysplasia, thickened calvaria, sandwich appearance of vertebral bodies, thickened cortex of long bones, flared metaphysis, coarse metaphyseal trabecularization, relative macrocephaly, and increased bone mineral density."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal dominant 2",
+      "disease_id": "OMIM:166600",
+      "score": 0.5,
+      "explanation": "This disease is characterized by increased bone mineral density and thickened cortex of long bones, which are present in the patient. However, it lacks some of the other key features seen in the patient, such as hypertelorism and hip dysplasia."
+    },
+    {
+      "disease_name": "Pyknodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.333,
+      "explanation": "Pyknodysostosis presents with increased bone mineral density, thickened calvaria, and depressed nasal bridge, which are seen in the patient. However, it does not typically include features like hypertelorism or hip dysplasia."
+    },
+    {
+      "disease_name": "Lenz-Majewski hyperostotic dwarfism",
+      "disease_id": "OMIM:151050",
+      "score": 0.25,
+      "explanation": "This condition includes hypertelorism, depressed nasal bridge, and increased bone mineral density, but it is less likely due to the absence of key features like hip dysplasia and sandwich appearance of vertebral bodies."
+    }
+  ]
+}

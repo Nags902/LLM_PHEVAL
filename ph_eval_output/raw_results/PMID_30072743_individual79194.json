@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "The patient's features, including nystagmus, reduced visual acuity, peripheral retinal atrophy, and bull's eye maculopathy, closely match the presentation of Case 2, which was diagnosed with Leber congenital amaurosis 6."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:608194",
+      "score": 0.5,
+      "explanation": "The patient's symptoms overlap with those in Cases 1 and 3, which were diagnosed with Cone-rod dystrophy 13. However, the absence of certain features like nyctalopia and abnormal electroretinogram makes this less likely than Leber congenital amaurosis 6."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.333,
+      "explanation": "Stargardt disease is known to cause bull's eye maculopathy and reduced visual acuity, but the presence of nystagmus and peripheral retinal atrophy is less typical, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Retinitis pigmentosa",
+      "disease_id": "OMIM:268000",
+      "score": 0.25,
+      "explanation": "Retinitis pigmentosa can present with reduced visual acuity and peripheral retinal atrophy, but bull's eye maculopathy is less common, and the absence of nyctalopia and bone spicule pigmentation reduces its likelihood."
+    }
+  ]
+}

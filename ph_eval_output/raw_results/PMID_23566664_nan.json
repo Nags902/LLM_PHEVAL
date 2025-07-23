@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's features such as thick eyebrow, short stature, and micrognathia align with KBG syndrome. The similar reference case (Case 2) also presented with these features and was diagnosed with KBG syndrome."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "The patient's micrognathia, short stature, and osteolytic defects of the phalanges of the hand are consistent with Coffin-Lowry syndrome. Although not all features match, the presence of these key symptoms suggests this as a potential diagnosis."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "The patient's flat face, large earlobe, and short stature are seen in Williams syndrome. However, other typical features of Williams syndrome are absent, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "The patient's thick eyebrow, short stature, and micrognathia can be seen in Noonan syndrome. However, the absence of other common features like congenital heart defects reduces the likelihood."
+    },
+    {
+      "disease_name": "Turner syndrome",
+      "disease_id": "OMIM:300000",
+      "score": 0.2,
+      "explanation": "Short stature and osteoporosis of vertebrae are features of Turner syndrome, but the absence of other key features like webbed neck makes this diagnosis less likely."
+    }
+  ]
+}

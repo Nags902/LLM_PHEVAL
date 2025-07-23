@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff skin syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, all of which were diagnosed with Stiff skin syndrome. Key features such as stiff skin, knee and elbow contractures, myopia, camptodactyly, and limited shoulder flexion are highly indicative of this condition."
+    },
+    {
+      "disease_name": "Congenital contractual arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 0.5,
+      "explanation": "This condition shares some features with the patient's presentation, such as contractures and camptodactyly, but lacks the stiff skin and other specific features seen in Stiff skin syndrome."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.333,
+      "explanation": "Ehlers-Danlos syndrome can present with joint contractures and skin abnormalities, but the stiff skin and other specific features are more aligned with Stiff skin syndrome."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.25,
+      "explanation": "Marfan syndrome can present with myopia and joint contractures, but the stiff skin and other features are not typical of this condition."
+    }
+  ]
+}

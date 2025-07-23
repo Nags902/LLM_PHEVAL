@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephaly, short stature, and polymicrogyria with seizures",
+      "disease_id": "OMIM:615486",
+      "score": 1.0,
+      "explanation": "The patient's features closely match the reference cases, including microcephaly, polymicrogyria, thin corpus callosum, absent speech, intellectual disability, and short stature."
+    },
+    {
+      "disease_name": "TUBB2B-related polymicrogyria",
+      "disease_id": "OMIM:614852",
+      "score": 0.5,
+      "explanation": "Polymicrogyria and thin corpus callosum are prominent features, and TUBB2B mutations are known to cause similar phenotypes, though seizures are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Absent speech and intellectual disability are key features, but microcephaly and polymicrogyria are less commonly associated with Rett syndrome."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 1B",
+      "disease_id": "OMIM:614678",
+      "score": 0.25,
+      "explanation": "Microcephaly, intellectual disability, and absent speech are seen in this condition, but polymicrogyria is not a typical feature."
+    }
+  ]
+}

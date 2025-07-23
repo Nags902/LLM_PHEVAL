@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's features (Intellectual disability, Autistic behavior, Macrodontia, Abnormality of the hand) closely match the phenotypic profile of KBG syndrome, as seen in the similar reference cases provided."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Fragile X syndrome is a common cause of intellectual disability and autistic behavior, though macrodontia and hand abnormalities are less typical features."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos syndrome can present with intellectual disability and autistic behavior, but macrodontia and hand abnormalities are less commonly reported."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris syndrome includes intellectual disability and hand abnormalities, but autistic behavior and macrodontia are less frequently observed."
+    }
+  ]
+}

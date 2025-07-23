@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 15",
+      "disease_id": "OMIM:606658",
+      "score": 1.0,
+      "explanation": "The patient's symptoms, including gait imbalance, spastic ataxia, dysarthria, and cerebellar vermis atrophy, closely match those of Spinocerebellar ataxia 15, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia",
+      "disease_id": "OMIM:616418",
+      "score": 0.5,
+      "explanation": "The patient's spastic ataxia, upper and lower limb spasticity, and muscle weakness are consistent with this condition, though cerebellar vermis atrophy is less commonly emphasized in this disease."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 13",
+      "disease_id": "OMIM:605259",
+      "score": 0.333,
+      "explanation": "This subtype of SCA can present with similar cerebellar ataxia and dysarthria, though spasticity is less commonly reported."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 28",
+      "disease_id": "OMIM:610246",
+      "score": 0.25,
+      "explanation": "This subtype can present with cerebellar ataxia and dysarthria, though spasticity is not a hallmark feature."
+    },
+    {
+      "disease_name": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay",
+      "disease_id": "OMIM:270550",
+      "score": 0.2,
+      "explanation": "This condition includes spastic ataxia and dysarthria, but typically presents earlier in life and includes peripheral neuropathy, which is not mentioned here."
+    }
+  ]
+}

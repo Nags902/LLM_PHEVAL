@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Arthrogryposis, distal, type 2A (Freeman-Sheldon syndrome)",
+      "disease_id": "OMIM:193700",
+      "score": 1.0,
+      "explanation": "The patient shares several features with Case 1, including Talipes equinovarus, Camptodactyly, and Cleft ala nasi, which are hallmark signs of Freeman-Sheldon syndrome."
+    },
+    {
+      "disease_name": "Al Kaissi syndrome",
+      "disease_id": "OMIM:617694",
+      "score": 0.5,
+      "explanation": "The patient exhibits some overlapping features with Case 2, such as Depressed nasal bridge and Long philtrum, but lacks many of the other significant features like intellectual disability and growth retardation."
+    },
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 0.333,
+      "explanation": "The patient has some features in common with Case 3, such as Short neck and Depressed nasal bridge, but lacks the extensive neurological and developmental symptoms typical of White-Sutton syndrome."
+    }
+  ]
+}

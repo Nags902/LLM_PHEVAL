@@ -4,25 +4,31 @@
       "disease_name": "Mitochondrial complex IV deficiency, nuclear type 2",
       "disease_id": "OMIM:619060",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely match those of similar cases diagnosed with Mitochondrial complex IV deficiency, nuclear type 2, including myopathic abnormalities, congestive heart failure, respiratory failure, and metabolic acidosis."
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, which were diagnosed with Mitochondrial complex IV deficiency, nuclear type 2. The presence of myopathic abnormalities, congestive heart failure, respiratory failure, metabolic acidosis, and hypertrophic cardiomyopathy strongly suggest this diagnosis."
     },
     {
       "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 28",
       "disease_id": "OMIM:618135",
       "score": 0.5,
-      "explanation": "While the patient shares some features like myopathic abnormalities and respiratory failure with this condition, the absence of specific features like limb-girdle weakness and joint contractures makes this less likely."
+      "explanation": "Although the patient does not exhibit all the features of this disease, the presence of EMG myopathic abnormalities, respiratory failure requiring assisted ventilation, and hypotonia suggest a possible overlap with this form of muscular dystrophy."
     },
     {
       "disease_name": "Leigh syndrome",
       "disease_id": "OMIM:256000",
       "score": 0.333,
-      "explanation": "Leigh syndrome can present with similar features such as metabolic acidosis, respiratory failure, and hypertrophic cardiomyopathy, but the absence of neurodevelopmental regression and brain imaging findings makes it less likely."
+      "explanation": "Leigh syndrome is a mitochondrial disorder that can present with metabolic acidosis, respiratory failure, and hypertrophic cardiomyopathy, which are seen in this patient. However, the absence of specific neurological findings like lesions on MRI makes this less likely."
     },
     {
-      "disease_name": "Spinal muscular atrophy with respiratory distress type 1",
-      "disease_id": "OMIM:604320",
+      "disease_name": "Pompe disease",
+      "disease_id": "OMIM:232300",
       "score": 0.25,
-      "explanation": "This condition shares features like respiratory distress and hypotonia, but the presence of hypertrophic cardiomyopathy and metabolic acidosis is more indicative of a mitochondrial disorder."
+      "explanation": "Pompe disease can present with hypertrophic cardiomyopathy, hypotonia, and respiratory failure, but the absence of glycogen accumulation findings and the presence of peripheral neuropathy make this less likely."
+    },
+    {
+      "disease_name": "Barth syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.2,
+      "explanation": "Barth syndrome is associated with cardiomyopathy and hypotonia, but the absence of neutropenia and the presence of metabolic acidosis and peripheral neuropathy make this less likely."
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases diagnosed with Glass syndrome, including feeding difficulties in infancy, abnormality of the dentition, intellectual disability, global developmental delay, growth delay, delayed ability to walk, and reduced bone mineral density."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "Coffin-Lowry syndrome shares several features with the patient's presentation, such as intellectual disability, global developmental delay, growth delay, and reduced bone mineral density, though it typically includes additional distinctive facial and skeletal features not mentioned here."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "Williams syndrome can present with intellectual disability, developmental delay, and growth delay, but it is also characterized by cardiovascular and distinctive facial features which are not noted in the patient's profile."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Prader-Willi syndrome includes feeding difficulties in infancy, intellectual disability, and growth delay, but typically progresses to hyperphagia and obesity, which are not mentioned in the patient's features."
+    }
+  ]
+}

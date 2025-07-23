@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's features such as intellectual disability, global developmental delay, macrodontia, long philtrum, abnormality of the hand, delayed speech and language development, hypertelorism, bulbous nose, and feeding difficulties closely match the phenotypic profile of KBG syndrome, as seen in the similar reference case 3."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 0.5,
+      "explanation": "The patient shares several features with the similar reference cases 1 and 2, including intellectual disability, global developmental delay, delayed speech and language development, hypertelorism, and bulbous nose. However, the absence of some more specific features like microcephaly or recurrent infections makes this less likely than KBG syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Coffin-Siris syndrome can present with intellectual disability, global developmental delay, delayed speech and language development, and hypertelorism. However, the absence of features like sparse scalp hair or hypoplastic nails makes this less likely."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan syndrome can present with intellectual disability, hypertelorism, and feeding difficulties. However, the absence of cardiac anomalies or short stature makes this less likely."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Williams syndrome can present with intellectual disability, global developmental delay, and delayed speech and language development. However, the absence of cardiovascular anomalies or elfin facies makes this less likely."
+    }
+  ]
+}

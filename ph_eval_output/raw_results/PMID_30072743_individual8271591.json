@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:608194",
+      "score": 1.0,
+      "explanation": "The patient's features (nystagmus, reduced visual acuity, macular atrophy) closely match those in similar cases diagnosed with Cone-rod dystrophy 13, including the presence of macular atrophy and nystagmus."
+    },
+    {
+      "disease_name": "Macular dystrophy with or without cone dysfunction",
+      "disease_id": "OMIM:616170",
+      "score": 0.5,
+      "explanation": "The patient's macular atrophy and reduced visual acuity are consistent with this diagnosis, though nystagmus is less commonly highlighted in this condition compared to Cone-rod dystrophy."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.333,
+      "explanation": "Stargardt disease often presents with macular atrophy and reduced visual acuity, though nystagmus is less typical and may suggest a more severe or advanced case."
+    },
+    {
+      "disease_name": "Retinitis pigmentosa",
+      "disease_id": "OMIM:268000",
+      "score": 0.25,
+      "explanation": "While retinitis pigmentosa can present with nystagmus and reduced visual acuity, macular atrophy is typically a later finding, making this less likely than the top-ranked diagnoses."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microphthalmia/coloboma 11",
+      "disease_id": "OMIM:620641",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Microphthalmia/coloboma 11. The presence of multiple colobomas (iris, optic disc, chorioretinal), microphthalmia, nystagmus, and strabismus strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome often presents with colobomas, microphthalmia, and strabismus, which are seen in this patient. However, the absence of other CHARGE features such as choanal atresia or ear anomalies makes this less likely than Microphthalmia/coloboma 11."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated 2",
+      "disease_id": "OMIM:610093",
+      "score": 0.333,
+      "explanation": "Isolated microphthalmia can present with some of the features seen in this patient, such as microphthalmia and colobomas, but the combination of features is more strongly suggestive of Microphthalmia/coloboma 11 or CHARGE syndrome."
+    },
+    {
+      "disease_name": "Microphthalmia with linear skin defects syndrome",
+      "disease_id": "OMIM:309801",
+      "score": 0.25,
+      "explanation": "This syndrome includes microphthalmia and colobomas, but typically also involves skin defects, which are not mentioned in the patient's features. This makes it a less likely diagnosis."
+    }
+  ]
+}

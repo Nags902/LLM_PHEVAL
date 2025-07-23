@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy",
+      "disease_id": "OMIM:615249",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of Case 1, including global developmental delay, profound intellectual disability, nonprogressive encephalopathy, EEG abnormality, spasticity, hypoplasia of the pons, absent speech, axial hypotonia, dystonia, and ventricular septal defect."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:620455",
+      "score": 0.5,
+      "explanation": "The patient shares several features with Cases 2 and 3, such as intellectual disability, hypoplasia of the pons, absent speech, axial hypotonia, and spasticity, though some features like neurodegeneration and visual impairment are absent."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2",
+      "disease_id": "OMIM:277470",
+      "score": 0.333,
+      "explanation": "The patient's hypoplasia of the pons, global developmental delay, spasticity, and dystonia are consistent with this condition, though other features like microcephaly are not mentioned."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "The patient's profound intellectual disability, absent speech, and EEG abnormality are suggestive of Rett syndrome, though the gender (female) fits, other hallmark features like regression are not noted."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "The patient's intellectual disability, absent speech, and EEG abnormality are consistent with Angelman syndrome, but other features like happy demeanor and ataxia are not present."
+    }
+  ]
+}

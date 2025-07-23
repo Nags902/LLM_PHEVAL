@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, autosomal recessive 124",
+      "disease_id": "OMIM:618365",
+      "score": 1.0,
+      "explanation": "The patient presents with sensorineural hearing impairment, which matches the primary feature of this disease as seen in similar reference cases 1 and 2."
+    },
+    {
+      "disease_name": "Deafness, autosomal recessive 15",
+      "disease_id": "OMIM:601869",
+      "score": 0.5,
+      "explanation": "Although the patient does not exhibit abnormal vestibular function or visual impairment, this disease is considered due to the presence of sensorineural hearing impairment, as seen in similar reference case 3."
+    },
+    {
+      "disease_name": "Deafness, autosomal dominant 1",
+      "disease_id": "OMIM:124900",
+      "score": 0.333,
+      "explanation": "This disease is considered due to the presence of sensorineural hearing impairment, though the inheritance pattern is different from the similar reference cases provided."
+    },
+    {
+      "disease_name": "Usher syndrome, type 1",
+      "disease_id": "OMIM:276900",
+      "score": 0.25,
+      "explanation": "This disease is considered due to the presence of sensorineural hearing impairment, though the patient does not exhibit visual impairment or vestibular dysfunction, which are typical features of this syndrome."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, all of which were diagnosed with this condition. The combination of decreased serum testosterone, increased ACTH, decreased cortisol, increased prolactin, and increased estradiol is highly indicative of this disorder."
+    },
+    {
+      "disease_name": "Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",
+      "disease_id": "OMIM:613743",
+      "score": 0.5,
+      "explanation": "This condition can present with similar hormonal imbalances, including decreased testosterone and cortisol, and increased ACTH. The presence of increased estradiol and prolactin may also be consistent with this disorder, though it is less commonly reported."
+    },
+    {
+      "disease_name": "Pituitary adenoma, prolactin-secreting",
+      "disease_id": "OMIM:600634",
+      "score": 0.333,
+      "explanation": "Increased prolactin levels are a hallmark of this condition, and it can also lead to secondary hormonal imbalances such as decreased testosterone and increased estradiol. However, the decreased cortisol and increased ACTH are less typical and may suggest a different primary etiology."
+    },
+    {
+      "disease_name": "Adrenal hypoplasia, congenital",
+      "disease_id": "OMIM:300200",
+      "score": 0.25,
+      "explanation": "This condition can cause adrenal insufficiency leading to decreased cortisol and increased ACTH. The hormonal imbalances may also affect testosterone and estradiol levels, though the increased prolactin is less commonly associated."
+    }
+  ]
+}

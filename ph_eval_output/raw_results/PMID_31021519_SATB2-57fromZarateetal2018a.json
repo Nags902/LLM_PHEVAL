@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases diagnosed with Glass syndrome, including abnormality of the dentition, delayed speech and language development, global developmental delay, and delayed ability to walk. Although the patient lacks some features like cleft palate and seizures, the overlap is significant."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "Coffin-Lowry syndrome shares features such as global developmental delay, delayed speech and language development, and delayed ability to walk. However, it typically includes more severe intellectual disability and distinct facial features, which are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett syndrome can present with global developmental delay and delayed speech and language development, but it is more common in females and usually includes regression of skills, which is not noted here."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams syndrome includes delayed speech and language development and global developmental delay, but it is also characterized by cardiovascular issues and a distinctive facial appearance, which are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman syndrome presents with global developmental delay and delayed speech, but it typically includes seizures, ataxia, and a happy demeanor, which are not noted in the patient's features."
+    }
+  ]
+}

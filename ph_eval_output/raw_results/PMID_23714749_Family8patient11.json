@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "The patient's features, including jaundice, feeding difficulties, hypotonia, abnormality of the coagulation cascade, and depletion of mitochondrial DNA in liver, closely match the symptoms observed in the reference cases diagnosed with Mitochondrial DNA depletion syndrome 6. The presence of liver-specific mitochondrial DNA depletion is particularly indicative of this condition."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by progressive neurodegeneration, liver dysfunction, and mitochondrial DNA depletion. While the patient does not yet show signs of neurodegeneration, the liver involvement and mitochondrial DNA depletion are consistent with early-stage Alpers-Huttenlocher syndrome."
+    },
+    {
+      "disease_name": "DGUOK-related mitochondrial DNA depletion syndrome",
+      "disease_id": "OMIM:251880",
+      "score": 0.333,
+      "explanation": "This condition presents with hepatic and neurologic symptoms due to mitochondrial DNA depletion. The patient's liver involvement and hypotonia could be early signs, though the absence of prominent neurologic symptoms at this stage lowers its rank."
+    },
+    {
+      "disease_name": "MPV17-related mitochondrial DNA depletion syndrome",
+      "disease_id": "OMIM:256810",
+      "score": 0.25,
+      "explanation": "Similar to DGUOK-related depletion, MPV17-related depletion often presents with liver failure and neurologic symptoms. The patient's current presentation is less specific but still within the spectrum of this disorder."
+    }
+  ]
+}

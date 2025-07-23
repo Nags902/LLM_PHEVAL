@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MHC class I deficiency 2",
+      "disease_id": "OMIM:616891",
+      "score": 1.0,
+      "explanation": "The patient's features (chronic sinusitis, chronic bronchitis, chronic rhinitis, nasal polyposis) closely match those of similar reference cases diagnosed with MHC class I deficiency 2."
+    },
+    {
+      "disease_name": "Autoinflammatory disease, multisystem, with immune dysregulation, X-linked",
+      "disease_id": "OMIM:301081",
+      "score": 0.5,
+      "explanation": "Although the patient lacks many of the systemic features seen in similar cases, the presence of chronic respiratory symptoms suggests a possible immune dysregulation disorder."
+    },
+    {
+      "disease_name": "Cystic fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.333,
+      "explanation": "Cystic fibrosis can present with chronic sinusitis, nasal polyposis, and bronchitis, though the patient lacks other typical features like pancreatic insufficiency."
+    },
+    {
+      "disease_name": "Primary ciliary dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 0.25,
+      "explanation": "Primary ciliary dyskinesia often presents with chronic respiratory symptoms, but the patient lacks features like situs inversus or recurrent ear infections."
+    }
+  ]
+}

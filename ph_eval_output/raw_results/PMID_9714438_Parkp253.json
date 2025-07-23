@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Contractural arachnodactyly, congenital (Beals-Hecht syndrome)",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, all of which were diagnosed with congenital contractural arachnodactyly. Key features such as crumpled ear, arachnodactyly, camptodactyly of fingers and toes, elbow contracture, scoliosis, aortic root aneurysm, and mitral valve prolapse are highly indicative of this condition."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan syndrome shares some overlapping features with the patient's presentation, such as arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse. However, the presence of crumpled ear and contractures is more characteristic of congenital contractural arachnodactyly."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "Loeys-Dietz syndrome can present with aortic root aneurysm and skeletal features like scoliosis and arachnodactyly, but the absence of more specific features such as hypertelorism or bifid uvula makes it less likely compared to congenital contractural arachnodactyly."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.25,
+      "explanation": "This syndrome includes craniosynostosis, marfanoid habitus, and skeletal abnormalities, but the patient lacks key features such as craniosynostosis or intellectual disability, making it a less likely diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:619146",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, which were diagnosed with this condition. Key features include tall stature, accelerated skeletal maturation, ectropion of lower eyelids, arachnodactyly, joint hypermobility, pectus excavatum, bladder diverticulum, and volvulus."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "The patient exhibits several features commonly seen in Marfan syndrome such as tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, and high myopia. However, the presence of ectropion of lower eyelids and bladder diverticulum are less typical of Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "This syndrome shares features like tall stature, arachnodactyly, joint hypermobility, pectus excavatum, and scoliosis with the patient's phenotype. However, the absence of arterial aneurysms or other vascular findings makes this less likely."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classical type",
+      "disease_id": "OMIM:130000",
+      "score": 0.25,
+      "explanation": "The patient's joint hypermobility, inguinal hernia, and skin features (though not explicitly mentioned) could suggest Ehlers-Danlos syndrome. However, the absence of significant skin hyperextensibility and scarring makes this less likely."
+    },
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 0.2,
+      "explanation": "This condition can present with tall stature, arachnodactyly, and scoliosis, but the absence of intellectual disability, thromboembolic events, or lens dislocation reduces its likelihood."
+    }
+  ]
+}

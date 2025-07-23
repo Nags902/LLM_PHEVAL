@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616900",
+      "score": 1.0,
+      "explanation": "The patient shares several key features with similar reference cases, including hypotonia, global developmental delay, and deeply set eye, which are hallmark symptoms of this disease."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 0.5,
+      "explanation": "The patient's features such as hypotonia, global developmental delay, and brachycephaly overlap with this disorder, though not all characteristic symptoms are present."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Short stature and deeply set eye are seen in Noonan Syndrome, but other typical features like congenital heart defects are not mentioned in the patient's data."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Hypotonia and global developmental delay are common in Prader-Willi Syndrome, but the patient lacks other key features such as hyperphagia and obesity."
+    },
+    {
+      "disease_name": "3-M Syndrome",
+      "disease_id": "OMIM:273750",
+      "score": 0.2,
+      "explanation": "Short stature and brachycephaly are present, but other distinctive features like facial dysmorphism and skeletal abnormalities are not noted in the patient."
+    }
+  ]
+}

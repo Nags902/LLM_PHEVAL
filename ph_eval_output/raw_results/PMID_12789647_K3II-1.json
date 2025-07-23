@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "The patient's features, including secundum atrial septal defect, muscular ventricular septal defect, perimembranous ventricular septal defect, complete atrioventricular canal defect, absent thumb, absent radius, and ulnar deviation of thumb, closely match the phenotypic spectrum of Holt-Oram syndrome, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome is characterized by absent radii and thumbs, which are present in the patient. However, the cardiac defects in the patient are more severe and varied than typically seen in TAR syndrome, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.33,
+      "explanation": "VACTERL association includes vertebral defects, anal atresia, cardiac defects, tracheo-esophageal fistula, renal anomalies, and limb abnormalities. The patient's limb and cardiac defects could fit, but the absence of other features makes this less likely."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with radial ray defects and cardiac anomalies, but it typically includes hematologic abnormalities and other systemic features not mentioned in the patient's phenotype."
+    }
+  ]
+}

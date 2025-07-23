@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "The patient presents with hyperuricemia, which is a key feature in the similar reference cases diagnosed with this disease. The absence of other symptoms may suggest an early or less severe presentation."
+    },
+    {
+      "disease_name": "Lesch-Nyhan syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.5,
+      "explanation": "Hyperuricemia is a hallmark of Lesch-Nyhan syndrome, although other neurological and behavioral symptoms are typically present. The absence of these symptoms in the patient may lower the likelihood but still warrants consideration."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy",
+      "disease_id": "OMIM:162000",
+      "score": 0.333,
+      "explanation": "This condition is characterized by hyperuricemia and renal dysfunction. The patient's presentation aligns with early stages of this disease, though more symptoms may develop over time."
+    },
+    {
+      "disease_name": "Glycogen storage disease type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.25,
+      "explanation": "Hyperuricemia can occur in glycogen storage disease type Ia due to increased uric acid production. However, other metabolic disturbances and hepatomegaly are usually present, which are not noted here."
+    },
+    {
+      "disease_name": "Phosphoribosylpyrophosphate synthetase superactivity",
+      "disease_id": "OMIM:300661",
+      "score": 0.2,
+      "explanation": "This X-linked disorder can cause hyperuricemia due to overproduction of uric acid. The patient's gender (male) fits the inheritance pattern, but other symptoms like neurological issues or gout are typically present."
+    }
+  ]
+}

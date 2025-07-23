@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Polydactyly, postaxial, types A1 and B",
+      "disease_id": "OMIM:174200",
+      "score": 1.0,
+      "explanation": "The patient presents with postaxial hand and foot polydactyly, which are hallmark features of this condition. The similar reference cases also align closely with this diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "This syndrome can present with polydactyly and intellectual disability, though other features like facial dysmorphism and growth delay are not noted in this patient."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "This condition includes polydactyly and intellectual disability, but typically also involves retinal dystrophy and obesity, which are not mentioned here."
+    },
+    {
+      "disease_name": "Meckel syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 0.25,
+      "explanation": "Meckel syndrome can present with polydactyly and intellectual disability, but it usually includes more severe features like encephalocele and cystic kidneys, which are absent here."
+    }
+  ]
+}

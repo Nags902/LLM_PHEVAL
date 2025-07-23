@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 2",
+      "disease_id": "OMIM:151660",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases, all of which were diagnosed with familial partial lipodystrophy type 2. Key features include lipodystrophy, type II diabetes mellitus, pancreatitis, hypertriglyceridemia, hypercholesterolemia, and hepatic steatosis."
+    },
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 1",
+      "disease_id": "OMIM:608600",
+      "score": 0.5,
+      "explanation": "This type also presents with lipodystrophy and metabolic abnormalities, but the reference cases and the patient's phenotype are more consistent with type 2."
+    },
+    {
+      "disease_name": "Lipodystrophy, congenital generalized",
+      "disease_id": "OMIM:608594",
+      "score": 0.333,
+      "explanation": "Congenital generalized lipodystrophy presents with more severe and widespread loss of adipose tissue, but the patient's phenotype is more consistent with partial lipodystrophy."
+    },
+    {
+      "disease_name": "Lipodystrophy, acquired partial",
+      "disease_id": "OMIM:608709",
+      "score": 0.25,
+      "explanation": "Acquired partial lipodystrophy can present similarly, but the patient's age and features suggest a familial form rather than an acquired one."
+    },
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 3",
+      "disease_id": "OMIM:604367",
+      "score": 0.2,
+      "explanation": "Type 3 familial partial lipodystrophy is another subtype, but the patient's features align more closely with type 2 based on the reference cases."
+    }
+  ]
+}

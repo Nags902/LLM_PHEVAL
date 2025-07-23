@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "The patient presents with an atypical teratoid/rhabdoid tumor, which is strongly associated with Rhabdoid tumor predisposition syndrome 1, as evidenced by the similar reference cases."
+    },
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 2",
+      "disease_id": "OMIM:613325",
+      "score": 0.5,
+      "explanation": "While less common than syndrome 1, this subtype also predisposes to atypical teratoid/rhabdoid tumors and should be considered."
+    },
+    {
+      "disease_name": "SMARCA4-deficient sarcoma",
+      "disease_id": "OMIM:603254",
+      "score": 0.333,
+      "explanation": "This condition involves mutations in SMARCA4, which can lead to rhabdoid tumors, though it is less directly associated with the specific tumor type in this case."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 4",
+      "disease_id": "OMIM:614609",
+      "score": 0.25,
+      "explanation": "This syndrome involves SMARCA4 mutations and has been loosely associated with rhabdoid tumors, though it is a less likely cause compared to the predisposition syndromes."
+    }
+  ]
+}

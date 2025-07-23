@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases diagnosed with Coffin-Siris syndrome 3, including short stature, thick eyebrows, long eyelashes, intellectual disability, sparse scalp hair, microcephaly, feeding difficulties, depressed nasal bridge, long philtrum, thin upper lip vermilion, thick lower lip vermilion, global developmental delay, abnormal corpus callosum morphology, and umbilical hernia."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "This subtype of Coffin-Siris syndrome shares many features with the patient's phenotype, including intellectual disability, microcephaly, and abnormal corpus callosum morphology, though the reference cases specifically point towards subtype 3."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 2",
+      "disease_id": "OMIM:614607",
+      "score": 0.333,
+      "explanation": "Another subtype of Coffin-Siris syndrome that presents with overlapping features such as short stature, intellectual disability, and sparse scalp hair, though the match is not as strong as for subtype 3."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "This syndrome can present with some overlapping features like thick eyebrows, long eyelashes, intellectual disability, and microcephaly, but lacks other key features seen in the patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Shares some phenotypic features such as thick eyebrows, long eyelashes, intellectual disability, and microcephaly, but the patient's features align more closely with Coffin-Siris syndrome."
+    }
+  ]
+}

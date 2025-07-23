@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
+      "score": 1.0,
+      "explanation": "The patient's features such as long philtrum, smooth philtrum, thin upper lip vermilion, hypertelorism, full cheeks, short palm, short foot, short nose, limitation of joint mobility, and moderately short stature closely match the phenotypic features of Geleophysic dysplasia 2, as seen in the similar reference case."
+    },
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 0.5,
+      "explanation": "Although the patient does not exhibit all the features of White-Sutton syndrome, some overlapping features such as hypertelorism, thin upper lip vermilion, and short stature suggest a possible, albeit less likely, diagnosis."
+    },
+    {
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.333,
+      "explanation": "Acromicric dysplasia shares some features with the patient's presentation, including short stature, short hands and feet, and limitation of joint mobility, though other key features are missing."
+    },
+    {
+      "disease_name": "Weill-Marchesani syndrome",
+      "disease_id": "OMIM:277600",
+      "score": 0.25,
+      "explanation": "Weill-Marchesani syndrome can present with short stature and joint limitations, but the patient lacks other hallmark features such as eye abnormalities."
+    }
+  ]
+}

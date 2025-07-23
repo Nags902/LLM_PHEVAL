@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:605309",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, which were all diagnosed with this disorder. Key features include macrocephaly, autism, sleep onset insomnia, ADHD, mild intellectual disability, motor delay, seizure, ventriculomegaly, prominent supraorbital ridges, and tall stature."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.5,
+      "explanation": "This syndrome is associated with macrocephaly, autism, and intellectual disability. However, the patient lacks some typical features such as hamartomas or cancer predisposition, which makes it less likely than the first diagnosis."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos syndrome is characterized by macrocephaly, tall stature, and intellectual disability. The patient's features overlap, but the presence of autism and seizures is less typical, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X syndrome can present with autism, intellectual disability, and seizures. However, macrocephaly and tall stature are not typical features, reducing its likelihood."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.2,
+      "explanation": "Weaver syndrome includes macrocephaly, tall stature, and intellectual disability. The absence of advanced bone age and other specific features makes it a less likely diagnosis."
+    }
+  ]
+}

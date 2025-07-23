@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Seizures, benign familial infantile, 3",
+      "disease_id": "OMIM:607745",
+      "score": 1.0,
+      "explanation": "The patient's presentation of febrile seizures within the typical age range aligns with this condition, as seen in Case 1."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "The patient's febrile seizures could be an early sign of this condition, similar to Cases 2 and 3, though additional features like neurodevelopmental abnormalities or other seizure types are not reported here."
+    },
+    {
+      "disease_name": "Genetic epilepsy with febrile seizures plus, type 2",
+      "disease_id": "OMIM:604403",
+      "score": 0.333,
+      "explanation": "This condition often begins with febrile seizures and can progress to other seizure types, though the patient's current presentation is limited to febrile seizures."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Febrile seizures are a common initial symptom, but the absence of other seizure types or developmental delays makes this less likely."
+    }
+  ]
+}

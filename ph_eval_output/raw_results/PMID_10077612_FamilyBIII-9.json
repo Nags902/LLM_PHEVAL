@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "The patient's features (Atrial septal defect, Hypoplasia of the radius, Abnormal carpal morphology, Cardiac conduction abnormality) are highly consistent with Holt-Oram syndrome, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome also involves radial hypoplasia and can have cardiac defects, but typically includes thrombocytopenia, which is not mentioned here."
+    },
+    {
+      "disease_name": "Townes-Brocks syndrome",
+      "disease_id": "OMIM:107480",
+      "score": 0.333,
+      "explanation": "This syndrome can include radial anomalies and cardiac defects, but usually also involves renal and ear anomalies, which are not noted in the patient."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with radial defects and cardiac anomalies, but typically includes bone marrow failure and other systemic features not mentioned here."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.2,
+      "explanation": "VACTERL can include cardiac and radial defects, but usually involves vertebral, anal, tracheoesophageal, and renal anomalies, which are not noted in this patient."
+    }
+  ]
+}

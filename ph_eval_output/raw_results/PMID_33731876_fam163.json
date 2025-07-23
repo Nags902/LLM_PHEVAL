@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 1.0,
+      "explanation": "The patient's features (autism, bilateral tonic-clonic seizures, and moderate intellectual disability) closely match the phenotypic profile of the similar reference cases, all of which were diagnosed with Developmental and epileptic encephalopathy 9."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "This syndrome is associated with autism, intellectual disability, and seizures, which are present in the patient. However, the reference cases did not point to this diagnosis, making it less likely than Developmental and epileptic encephalopathy 9."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with intellectual disability, seizures, and autistic features, but the patient lacks other characteristic features such as ataxia or frequent laughter, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome is associated with autism and seizures, but it typically presents in females with a regression of skills, which is not mentioned in the patient's information, reducing its likelihood."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "This condition can include seizures and intellectual disability, but the absence of skin manifestations or tubers on imaging makes it a less probable diagnosis for this patient."
+    }
+  ]
+}

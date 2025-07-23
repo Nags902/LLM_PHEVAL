@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "The patient's features, including infantile spasms, focal tonic and myoclonic seizures, EEG abnormalities, encephalopathy, hypotonia, and global developmental delay, closely match the phenotypic profile of Developmental and epileptic encephalopathy 4, as seen in the similar reference cases."
+    },
+    {
+      "disease_name": "STXBP1-related developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 mutations are known to cause early-onset epileptic encephalopathies with features similar to the patient's presentation, including infantile spasms, hypotonia, and developmental delay, though EEG findings may vary."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.333,
+      "explanation": "CDKL5 mutations often present with early-onset seizures, including infantile spasms, hypotonia, and developmental delay, but the EEG findings in this patient are less typical for CDKL5 deficiency disorder."
+    },
+    {
+      "disease_name": "ARX-related developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:308350",
+      "score": 0.25,
+      "explanation": "ARX mutations can lead to infantile spasms and severe developmental delay, but the EEG findings and seizure types in this patient are less specific to ARX-related disorders."
+    },
+    {
+      "disease_name": "KCNQ2-related developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.2,
+      "explanation": "KCNQ2 mutations typically present with neonatal-onset seizures and developmental delay, but the patient's seizure types and EEG findings are less characteristic of KCNQ2-related disorders."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type IIB",
+      "disease_id": "OMIM:613115",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the reference cases, including frequent falls, hyperactive deep tendon reflexes, spasticity, peripheral axonal neuropathy, and acral ulceration."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type IIA",
+      "disease_id": "OMIM:201300",
+      "score": 0.5,
+      "explanation": "Shares many features with type IIB, including peripheral neuropathy and acral ulceration, but typically presents with less spasticity and more pronounced sensory impairment."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type I",
+      "disease_id": "OMIM:162400",
+      "score": 0.333,
+      "explanation": "This type also presents with peripheral neuropathy and acral ulceration but usually has an adult onset and less prominent motor symptoms like spasticity."
+    },
+    {
+      "disease_name": "Spastic paraplegia type 20",
+      "disease_id": "OMIM:275900",
+      "score": 0.25,
+      "explanation": "Includes spasticity and hyperactive reflexes but typically lacks the peripheral neuropathy and acral ulceration seen in the patient."
+    }
+  ]
+}

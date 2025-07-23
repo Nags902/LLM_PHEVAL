@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "The patient's presentation of infantile spasms, focal motor seizures, hypsarrhythmia, and severe global developmental delay closely matches the features seen in similar reference cases diagnosed with Developmental and epileptic encephalopathy 4."
+    },
+    {
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:619946",
+      "score": 0.5,
+      "explanation": "The patient's global developmental delay, absent speech, and inability to walk are consistent with this condition, though the absence of some features like microcephaly and cerebellar atrophy makes it less likely than Developmental and epileptic encephalopathy 4."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "The triad of infantile spasms, hypsarrhythmia, and developmental delay is classic for West syndrome, but the presence of focal motor seizures and focal epileptiform discharges suggests a broader epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.25,
+      "explanation": "While the patient has some features like seizures and developmental delay, the absence of multiple seizure types (e.g., tonic, atonic) and typical EEG patterns makes this less likely."
+    }
+  ]
+}

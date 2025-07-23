@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those in the similar reference cases, all of which were diagnosed with this condition. The combination of decreased serum testosterone, increased ACTH, and increased prolactin is highly suggestive of this disorder."
+    },
+    {
+      "disease_name": "Adrenal insufficiency, congenital, with 46,XY sex reversal, partial or complete",
+      "disease_id": "OMIM:613743",
+      "score": 0.5,
+      "explanation": "This condition can present with similar hormonal imbalances, including decreased testosterone and increased ACTH, though prolactin elevation is less commonly reported."
+    },
+    {
+      "disease_name": "Prolactinoma",
+      "disease_id": "OMIM:600634",
+      "score": 0.33,
+      "explanation": "Increased prolactin is a hallmark of prolactinoma, and it can secondarily decrease testosterone levels. However, increased ACTH is not typically associated with this condition."
+    },
+    {
+      "disease_name": "Addison disease",
+      "disease_id": "OMIM:300200",
+      "score": 0.25,
+      "explanation": "Addison disease can cause increased ACTH due to adrenal insufficiency, but it does not typically cause increased prolactin or decreased testosterone directly."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "The patient presents with focal-onset seizure, which is consistent with the reference cases diagnosed with Developmental and epileptic encephalopathy 11."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "The patient's focal-onset seizure is also seen in reference cases diagnosed with Developmental and epileptic encephalopathy 4, though EEG data is not provided for this patient."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "Focal-onset seizures can be a feature of various developmental and epileptic encephalopathies, including DEE1, though it is less directly supported by the reference cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "Another subtype of developmental and epileptic encephalopathy that can present with focal seizures, though less directly indicated by the reference cases."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinitis pigmentosa with or without skeletal anomalies",
+      "disease_id": "OMIM:250410",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features, including rod-cone dystrophy, brachydactyly, and intellectual disability, closely match those of the similar reference cases, all of which were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "This syndrome often includes rod-cone dystrophy, brachydactyly, and intellectual disability, which are present in the patient. However, the patient lacks some typical features like obesity and polydactyly."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.333,
+      "explanation": "This condition includes rod-cone dystrophy and short stature, but the patient lacks other key features such as hearing loss and diabetes mellitus."
+    },
+    {
+      "disease_name": "Cockayne syndrome",
+      "disease_id": "OMIM:216400",
+      "score": 0.25,
+      "explanation": "The patient shares some features like short stature, intellectual disability, and delayed development, but lacks photosensitivity and premature aging, which are hallmark signs of this syndrome."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "This syndrome includes micrognathia, intellectual disability, and delayed development, but the patient does not exhibit other typical features such as syndactyly or cleft palate."
+    }
+  ]
+}

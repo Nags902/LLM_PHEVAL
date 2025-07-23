@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
+      "disease_id": "OMIM:617802",
+      "score": 1.0,
+      "explanation": "The patient's features closely match those of the similar reference cases, including dilated third ventricle, cerebral hemorrhage, hydrocephalus, thin corpus callosum, lateral ventricle dilatation, and abnormal CNS myelination."
+    },
+    {
+      "disease_name": "Aicardi-Goutieres syndrome",
+      "disease_id": "OMIM:225750",
+      "score": 0.5,
+      "explanation": "This syndrome is known to present with basal ganglia calcification, cerebral hemorrhage, hydrocephalus, and abnormal CNS myelination, which are key features in the patient's phenotype."
+    },
+    {
+      "disease_name": "Porencephaly",
+      "disease_id": "OMIM:175780",
+      "score": 0.333,
+      "explanation": "The presence of a porencephalic cyst, cerebral hemorrhage, and hydrocephalus aligns with the features of porencephaly, though other features like basal ganglia calcification are less typical."
+    },
+    {
+      "disease_name": "Megalencephaly-capillary malformation-polymicrogyria syndrome",
+      "disease_id": "OMIM:602501",
+      "score": 0.25,
+      "explanation": "This condition can present with hydrocephalus, cerebral hemorrhage, and abnormal CNS myelination, though other features like basal ganglia calcification are less common."
+    }
+  ]
+}

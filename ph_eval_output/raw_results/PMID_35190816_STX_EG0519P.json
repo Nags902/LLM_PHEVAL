@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of Case 1, including truncal ataxia, dysmetria, hypotonia, broad-based gait, intellectual disability, and global developmental delay. The presence of cerebellar signs and developmental delay strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "The patient's symptoms overlap with Cases 2 and 3, including truncal ataxia, global developmental delay, absent speech, and intellectual disability. However, the absence of seizures or epileptic features in the patient's history makes this less likely than Spinocerebellar ataxia 29."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.333,
+      "explanation": "Joubert syndrome is characterized by hypotonia, ataxia, developmental delay, and intellectual disability. The patient's symptoms are consistent with this condition, but the absence of the molar tooth sign on imaging (not reported here) makes this less certain."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome can present with ataxia, tremors, intellectual disability, and absent speech. However, the lack of a happy demeanor or frequent laughter, which are typical of Angelman syndrome, reduces the likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett syndrome can present with developmental delay, hypotonia, and loss of speech. However, the patient's gender (male) and the absence of regression or hand-wringing movements make this diagnosis less likely."
+    }
+  ]
+}

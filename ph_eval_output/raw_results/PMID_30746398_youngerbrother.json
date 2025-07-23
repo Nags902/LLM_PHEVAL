@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Parkinson disease 15, autosomal recessive",
+      "disease_id": "OMIM:260300",
+      "score": 1.0,
+      "explanation": "The patient's presentation of Parkinsonism, Bradykinesia, Hyperreflexia, Babinski sign, and Rigidity closely matches the phenotypic features seen in similar reference cases diagnosed with Parkinson disease 15, autosomal recessive."
+    },
+    {
+      "disease_name": "Spastic paraplegia 78, autosomal recessive",
+      "disease_id": "OMIM:617225",
+      "score": 0.5,
+      "explanation": "The patient exhibits some overlapping features such as Parkinsonism, Bradykinesia, Hyperreflexia, Babinski sign, and Cerebellar atrophy, which are also seen in Spastic paraplegia 78, though not all features are present."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia with rigidity and peripheral neuropathy",
+      "disease_id": "OMIM:183050",
+      "score": 0.333,
+      "explanation": "The patient's Cerebellar atrophy, Rigidity, and Hyperreflexia suggest a possible spinocerebellar ataxia, though other features like Parkinsonism are less commonly associated."
+    },
+    {
+      "disease_name": "Multiple system atrophy, parkinsonian type",
+      "disease_id": "OMIM:146500",
+      "score": 0.25,
+      "explanation": "The patient's Parkinsonism, Bradykinesia, and Rigidity could align with multiple system atrophy, but the presence of Cerebellar atrophy and Hyperreflexia is less typical."
+    }
+  ]
+}

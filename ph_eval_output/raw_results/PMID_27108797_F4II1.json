@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Spinocerebellar ataxia 29. Key overlapping features include ataxia, hypotonia, delayed motor milestones, nystagmus, cerebellar atrophy, and aniridia."
+    },
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 0.5,
+      "explanation": "Gillespie syndrome is characterized by aniridia, ataxia, and intellectual disability. The patient's aniridia and ataxia are consistent with this condition, but the absence of reported intellectual disability and the presence of cerebellar atrophy make it less likely than Spinocerebellar ataxia 29."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.333,
+      "explanation": "WAGR syndrome includes aniridia and can present with developmental delays. However, the patient's cerebellar atrophy and ataxia are not typical features of WAGR, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Marinesco-Sj\u00f6gren syndrome",
+      "disease_id": "OMIM:248800",
+      "score": 0.25,
+      "explanation": "This syndrome presents with ataxia, hypotonia, and cerebellar atrophy, but the aniridia and hypoplasia of the iris in the patient are not typical features, reducing its likelihood."
+    }
+  ]
+}

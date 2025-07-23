@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 1.0,
+      "explanation": "Dravet Syndrome is a severe form of epilepsy characterized by status epilepticus, myoclonus, and developmental delays, which align closely with the patient's symptoms."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome presents with developmental delay, hypotonia, and seizures, including myoclonus, which are consistent with the patient's features."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.333,
+      "explanation": "Lennox-Gastaut Syndrome is a severe epilepsy syndrome with multiple seizure types, including myoclonus and status epilepticus, and developmental delays, matching the patient's symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett Syndrome can present with developmental regression, hypotonia, and seizures, though it is more common in females and may not fully explain all symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.2,
+      "explanation": "MELAS can cause seizures, developmental delay, and hypotonia, though it often includes stroke-like episodes and lactic acidosis, which are not mentioned here."
+    }
+  ]
+}

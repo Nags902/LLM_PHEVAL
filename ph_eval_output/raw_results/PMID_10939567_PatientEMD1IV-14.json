@@ -4,31 +4,31 @@
       "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
       "disease_id": "OMIM:181350",
       "score": 1.0,
-      "explanation": "The patient's features, including Achilles tendon contracture, gait disturbance, spinal rigidity, arrhythmia, scapuloperoneal amyotrophy, proximal muscle weakness in upper limbs, and stiff neck, closely match the phenotypic features of Emery-Dreifuss muscular dystrophy 2 as seen in the reference cases."
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, including Achilles tendon contracture, gait disturbance, spinal rigidity, arrhythmia, scapuloperoneal amyotrophy, proximal muscle weakness in upper limbs, and stiff neck, all of which are hallmark symptoms of Emery-Dreifuss muscular dystrophy 2."
     },
     {
       "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
       "disease_id": "OMIM:310300",
       "score": 0.5,
-      "explanation": "This X-linked form of Emery-Dreifuss muscular dystrophy shares many features with the autosomal dominant form, including contractures, muscle weakness, and cardiac involvement, but the patient's gender (female) makes this less likely."
+      "explanation": "This X-linked form of Emery-Dreifuss muscular dystrophy shares many features with the autosomal dominant form, including contractures, muscle weakness, and cardiac arrhythmias, but the patient's gender (female) makes this less likely than the autosomal dominant form."
     },
     {
-      "disease_name": "Limb-girdle muscular dystrophy",
-      "disease_id": "OMIM:Multiple subtypes",
+      "disease_name": "Limb-girdle muscular dystrophy type 1B",
+      "disease_id": "OMIM:159001",
       "score": 0.333,
-      "explanation": "Limb-girdle muscular dystrophy can present with proximal muscle weakness and gait disturbance, but the presence of early contractures and arrhythmia makes this less likely compared to Emery-Dreifuss muscular dystrophy."
+      "explanation": "This type of muscular dystrophy can present with proximal muscle weakness and arrhythmias, but the presence of contractures and scapuloperoneal amyotrophy is more characteristic of Emery-Dreifuss muscular dystrophy."
     },
     {
       "disease_name": "Myotonic dystrophy type 1",
       "disease_id": "OMIM:160900",
       "score": 0.25,
-      "explanation": "Myotonic dystrophy can present with muscle weakness and arrhythmia, but the absence of myotonia and the presence of early contractures makes this less likely."
+      "explanation": "Myotonic dystrophy can present with muscle weakness and arrhythmias, but it typically includes myotonia and other systemic features not mentioned in this patient's phenotype."
     },
     {
       "disease_name": "Facioscapulohumeral muscular dystrophy",
       "disease_id": "OMIM:158900",
       "score": 0.2,
-      "explanation": "Facioscapulohumeral muscular dystrophy can present with scapular muscle weakness, but the presence of early contractures and cardiac involvement is atypical for this condition."
+      "explanation": "This condition often involves scapular muscle weakness and can have distal involvement, but the presence of contractures and cardiac arrhythmias is unusual and points more toward Emery-Dreifuss muscular dystrophy."
     }
   ]
 }

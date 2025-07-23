@@ -4,25 +4,31 @@
       "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
       "disease_id": "OMIM:117360",
       "score": 1.0,
-      "explanation": "The patient's symptoms of gait ataxia, delayed ability to walk, and global developmental delay closely match the features of Spinocerebellar ataxia 29, as seen in similar reference cases."
+      "explanation": "The patient's features such as gait ataxia, delayed ability to walk, and global developmental delay closely match the symptoms seen in similar cases diagnosed with Spinocerebellar ataxia 29. The presence of intellectual disability and delayed speech further supports this diagnosis."
     },
     {
       "disease_name": "Intellectual developmental disorder, X-linked 114",
       "disease_id": "OMIM:620939",
       "score": 0.5,
-      "explanation": "The patient's intellectual disability, borderline, and delayed speech and language development are consistent with this disorder, though other features like gait ataxia are not typically associated."
-    },
-    {
-      "disease_name": "Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome",
-      "disease_id": "OMIM:224050",
-      "score": 0.333,
-      "explanation": "This syndrome includes cerebellar ataxia and intellectual disability, which are present in the patient, but the specific dysequilibrium component is not clearly described in the patient's features."
+      "explanation": "The patient's intellectual disability, borderline, and delayed speech and language development are consistent with features seen in similar cases diagnosed with this X-linked disorder. However, the absence of other features like macrocephaly or prominent forehead makes this less likely than Spinocerebellar ataxia 29."
     },
     {
       "disease_name": "Angelman syndrome",
       "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with global developmental delay, delayed speech, and gait ataxia. However, the absence of more specific features like frequent laughter or seizures makes this less likely."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
       "score": 0.25,
-      "explanation": "Angelman syndrome can present with delayed development and speech impairment, but the gait ataxia and other cerebellar features are less typical."
+      "explanation": "Rett syndrome can present with developmental delay and gait abnormalities, but it is more commonly seen in females and typically includes regression of skills, which is not mentioned here."
+    },
+    {
+      "disease_name": "Autosomal recessive spinocerebellar ataxia 8",
+      "disease_id": "OMIM:610743",
+      "score": 0.2,
+      "explanation": "This form of ataxia can present with gait ataxia and developmental delay, but it is less commonly reported compared to Spinocerebellar ataxia 29 in similar cases."
     }
   ]
 }

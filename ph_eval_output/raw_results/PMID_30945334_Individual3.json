@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:618443",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with this disorder. Key features include global developmental delay, intellectual disability, thin corpus callosum, cerebral atrophy, seizures, and spastic diplegia."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome shares several features with the patient's presentation, such as global developmental delay, intellectual disability, seizures, and delayed speech and language development. However, the absence of regression and hand stereotypies makes it less likely."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome can present with global developmental delay, intellectual disability, seizures, and delayed speech. However, the absence of a happy demeanor and ataxia reduces its likelihood."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Prader-Willi syndrome shares obesity and short stature with the patient's features, but the absence of hypotonia in infancy and hyperphagia makes it less likely."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.2,
+      "explanation": "This syndrome can present with intellectual disability, seizures, and delayed speech, but the absence of recurrent infections and hypotonia reduces its likelihood."
+    }
+  ]
+}

@@ -4,25 +4,25 @@
       "disease_name": "Aarskog-Scott syndrome",
       "disease_id": "OMIM:305400",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features, including hypertelorism, ptosis, brachydactyly, camptodactyly, joint hypermobility, syndactyly, short stature, intellectual disability, and shawl scrotum, closely match those of Aarskog-Scott syndrome, as seen in the similar reference cases."
+      "explanation": "The patient's phenotypic features closely match those of the similar reference cases, all of which were diagnosed with Aarskog-Scott syndrome. Key matching features include hypertelorism, ptosis, brachydactyly, camptodactyly, joint hypermobility, syndactyly, short stature, intellectual disability, and shawl scrotum."
     },
     {
       "disease_name": "Noonan syndrome",
       "disease_id": "OMIM:163950",
       "score": 0.5,
-      "explanation": "Noonan syndrome shares some features with the patient's presentation, such as hypertelorism, ptosis, short stature, and intellectual disability, but lacks the specific hand anomalies and shawl scrotum seen in Aarskog-Scott syndrome."
+      "explanation": "Noonan syndrome shares some features with the patient's presentation, such as hypertelorism, ptosis, short stature, and intellectual disability. However, it lacks some of the specific features like shawl scrotum and syndactyly, which are more characteristic of Aarskog-Scott syndrome."
     },
     {
-      "disease_name": "Rubinstein-Taybi syndrome",
-      "disease_id": "OMIM:180849",
+      "disease_name": "Robinow syndrome",
+      "disease_id": "OMIM:180700",
       "score": 0.333,
-      "explanation": "Rubinstein-Taybi syndrome can present with hypertelorism, ptosis, brachydactyly, syndactyly, and intellectual disability, but typically includes broad thumbs and halluces, which are not mentioned in the patient's features."
+      "explanation": "Robinow syndrome can present with hypertelorism, short stature, and brachydactyly, but it typically includes other distinct features like mesomelic limb shortening and facial dysmorphism, which are not mentioned in the patient's features."
     },
     {
       "disease_name": "Coffin-Lowry syndrome",
       "disease_id": "OMIM:303600",
       "score": 0.25,
-      "explanation": "Coffin-Lowry syndrome may include hypertelorism, ptosis, brachydactyly, short stature, and intellectual disability, but it is also characterized by distinctive facial features and skeletal abnormalities not described in the patient."
+      "explanation": "Coffin-Lowry syndrome includes intellectual disability and short stature, but the other features like hypertelorism, ptosis, and brachydactyly are less commonly associated, making it a less likely match."
     }
   ]
 }

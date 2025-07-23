@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia",
+      "disease_id": "OMIM:208920",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those of the reference cases, all of which were diagnosed with this condition. The presence of ataxia, hyporeflexia, supranuclear gaze palsy, dysarthria, athetosis, and hypoalbuminemia strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "This condition shares several features with the patient's symptoms, including ataxia, hyporeflexia, and oculomotor apraxia. However, the absence of telangiectasias and immunodeficiency in the patient's presentation makes this less likely."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.333,
+      "explanation": "Friedreich ataxia commonly presents with ataxia, hyporeflexia, and dysarthria. However, the presence of supranuclear gaze palsy and athetosis is less typical, and hypoalbuminemia is not a common feature."
+    },
+    {
+      "disease_name": "Niemann-Pick disease, type C",
+      "disease_id": "OMIM:257220",
+      "score": 0.25,
+      "explanation": "This condition can present with ataxia, supranuclear gaze palsy, and dysarthria. However, the presence of hypoalbuminemia and athetosis is less common, making this diagnosis less likely."
+    }
+  ]
+}
