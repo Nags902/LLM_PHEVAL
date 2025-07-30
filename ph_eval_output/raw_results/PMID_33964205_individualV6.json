@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, autosomal recessive 125",
+      "disease_id": "OMIM:600121",
+      "score": 1.0,
+      "explanation": "This disease is characterized by sensorineural hearing impairment and delayed speech and language development, aligning closely with the observed phenotypic features."
+    },
+    {
+      "disease_name": "Usher Syndrome Type 1",
+      "disease_id": "OMIM:276900",
+      "score": 0.5,
+      "explanation": "Usher Syndrome Type 1 is associated with congenital sensorineural hearing loss and progressive vision loss, which may correlate with delayed speech and language development."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.333,
+      "explanation": "This syndrome includes hearing loss and developmental delays among its features, potentially explaining the sensorineural hearing impairment and delayed speech."
+    },
+    {
+      "disease_name": "Pendred Syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.25,
+      "explanation": "Pendred Syndrome results in sensorineural hearing loss and can be associated with developmental delays, which may match the speech and language delay."
+    }
+  ]
+}
