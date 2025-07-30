@@ -44,7 +44,7 @@ poetry install || {
 }
 
 ### 6) export openai api key
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY=""
 
 ### 7) Run PhEval
 echo "[INFO] Running PhEval..."
