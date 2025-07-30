@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "The patient's presentation of mitral regurgitation, scoliosis, downslanted palpebral fissures, tall stature, exotropia, and dural ectasia aligns closely with the characteristic features of Loeys-Dietz syndrome, as demonstrated in the similar reference cases."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Although the classic signs of Marfan syndrome such as arachnodactyly are not as prominently exhibited here, tall stature, mitral regurgitation, and scoliosis are relevant features. The overlap with vascular issues associated with Marfan also contributes to this ranking."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Hypermobility Type",
+      "disease_id": "OMIM:130020",
+      "score": 0.33,
+      "explanation": "Presence of scoliosis and hypermobility features can suggest Ehlers-Danlos syndrome, though other supporting features like skin elasticity and joint dislocations are not explicitly noted in the patient."
+    }
+  ]
+}

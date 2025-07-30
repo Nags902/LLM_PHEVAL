@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Characterized by CNS malformations including cystic kidneys, hydrocephalus, and abnormalities in brain structure such as the presence of a dilated third ventricle and thin corpus callosum, aligning well with the patient's features."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Includes features such as developmental delays, hydrocephalus, and abnormalities in corpus callosum. The patient's hydrocephalus and thin corpus callosum correspond to the typical presentation."
+    },
+    {
+      "disease_name": "X-linked Hydrocephalus with Abnormal Myelination",
+      "disease_id": "OMIM:302100",
+      "score": 0.33,
+      "explanation": "Associated with hydrocephalus, myelination abnormalities and dilated ventricles; the presence of moderate to severe neurological impairment fits with the patient's symptoms."
+    },
+    {
+      "disease_name": "Polymicrogyria",
+      "disease_id": "OMIM:602079",
+      "score": 0.25,
+      "explanation": "Although not directly listed in symptoms, it shares features like malformation of cerebral structures, with overlaps in features like gliosis and thin corpus callosum."
+    }
+  ]
+}

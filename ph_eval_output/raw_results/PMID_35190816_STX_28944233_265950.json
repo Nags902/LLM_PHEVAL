@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, early-onset",
+      "disease_id": "OMIM:607588",
+      "score": 1.0,
+      "explanation": "The patient exhibits a combination of various seizure types including infantile spasms, bilateral tonic-clonic seizures, and focal-onset seizures, which are characteristic features of early-onset epilepsy. Additionally, the presence of global developmental delay and intellectual disability correlates with common outcomes in similar epilepsy cases."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235200",
+      "score": 0.5,
+      "explanation": "The combination of intellectual disability, global developmental delay, and seizures, along with specific physical features such as microcephaly and strabismus, aligns with Mowat-Wilson syndrome. This syndrome also includes a range of neurological manifestations similar to those seen in the clinical presentation."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.33,
+      "explanation": "CDKL5 deficiency presents with developmental delay, intellectual disability, and various seizure types, including infantile spasms and focal seizures. The patient's characteristics suggest a possible CDKL5 mutation, which is associated with epileptic conditions and developmental challenges."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome is characterized by intellectual disability, absent speech, and movement or balance disorders. The presence of developmental delays along with seizures fits within the diagnosis, especially given the motor stereotypy observed in the patient."
+    }
+  ]
+}

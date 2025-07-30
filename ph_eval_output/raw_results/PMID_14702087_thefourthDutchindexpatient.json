@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prolonged Electroretinal Response Suppression 1",
+      "disease_id": "OMIM:615548",
+      "score": 1.0,
+      "explanation": "This disease is directly associated with the specific combination of symptoms presented, as seen in the reference cases."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy",
+      "disease_id": "OMIM:120970",
+      "score": 0.5,
+      "explanation": "This condition presents with symptoms of reduced visual acuity and photophobia, resembling the symptoms of the patient, although it may not fully explain bradyopsia."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa",
+      "disease_id": "OMIM:180100",
+      "score": 0.33,
+      "explanation": "This disease often has associated visual acuity issues and photophobia; however, bradyopsia is not a classic feature, hence ranked lower."
+    }
+  ]
+}

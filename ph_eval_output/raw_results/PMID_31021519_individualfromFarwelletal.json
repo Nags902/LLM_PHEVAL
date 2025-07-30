@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass Syndrome",
+      "disease_id": "OMIM:614243",
+      "score": 1.0,
+      "explanation": "This condition directly corresponds to all observed phenotypic features (cleft palate, intellectual disability, global developmental delay) based on similar reference cases, suggesting a strong likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "Apert Syndrome",
+      "disease_id": "OMIM:101200",
+      "score": 0.5,
+      "explanation": "This syndrome can present with cleft palate and intellectual disability and may include developmental delays, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Van der Woude Syndrome",
+      "disease_id": "OMIM:119300",
+      "score": 0.333,
+      "explanation": "This syndrome is associated with cleft palate and developmental delays, but it does not commonly feature intellectual disability, making it a less likely candidate."
+    },
+    {
+      "disease_name": "Patau Syndrome (Trisomy 13)",
+      "disease_id": "OMIM:610150",
+      "score": 0.25,
+      "explanation": "Though this condition can present with cleft lip and palate, intellectual disability, and other developmental issues, it is a broader syndrome with additional features not outlined in this case."
+    }
+  ]
+}

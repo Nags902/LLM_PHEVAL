@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi Anemia, complementation group C",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "The patient's clinical features match closely with those seen in reference cases of Fanconi anemia, particularly the presence of chromosomal breakage, absent thumb, short stature, and cytopenias."
+    },
+    {
+      "disease_name": "Aplastic Anemia",
+      "disease_id": "OMIM:604939",
+      "score": 0.5,
+      "explanation": "While not as specific as Fanconi anemia, the pancytopenia and neutropenia could indicate aplastic anemia as a secondary condition, especially given the hematological findings."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.33,
+      "explanation": "This syndrome features pancreatic insufficiency, short stature, and hematological abnormalities, aligning with some of the hematological features observed, albeit it lacks the specific malformations."
+    }
+  ]
+}

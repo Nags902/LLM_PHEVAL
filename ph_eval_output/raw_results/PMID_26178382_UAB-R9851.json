@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The presence of freckling, multiple cafe-au-lait spots, and pulmonary stenosis aligns well with the clinical features of Neurofibromatosis type 1, which commonly presents with these symptoms."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome can present with pulmonary stenosis and skin manifestations, including freckling and cafe-au-lait spots, making it a possible differential diagnosis."
+    },
+    {
+      "disease_name": "Cardio-facio-cutaneous Syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.33,
+      "explanation": "This syndrome can feature skin lesions and heart defects like pulmonary stenosis, although less commonly than in the the first two disorders."
+    }
+  ]
+}

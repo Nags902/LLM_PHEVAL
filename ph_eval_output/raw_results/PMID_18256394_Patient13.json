@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hutchinson-Gilford Progeria Syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 1.0,
+      "explanation": "The patient presents with multiple overlapping features with cases diagnosed with Hutchinson-Gilford progeria, including proptosis, hypermetropia, lipodystrophy, short stature, and prolonged QT interval."
+    },
+    {
+      "disease_name": "Silver-Russell Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.5,
+      "explanation": "Although it primarily features growth deficiencies, the presence of short stature, high palate, and failure to thrive are consistent with Russell-Silver, making it a consideration."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.33,
+      "explanation": "Cohen syndrome is characterized by similar phenotypic features such as failure to thrive, micrognathia, short stature, and proptosis; however, it does not account for all features."
+    },
+    {
+      "disease_name": "Lipoatrophic Diabetes",
+      "disease_id": "OMIM:613850",
+      "score": 0.25,
+      "explanation": "This condition is characterized by lipodystrophy and metabolic abnormalities which can correlate with several of the patient's findings, although it may not fully explain all present features."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Alstr\u00f6m syndrome presents with features such as short stature, delayed tooth eruption, and other systemic issues, providing a less likely yet possible explanation based on overlapping symptoms."
+    }
+  ]
+}

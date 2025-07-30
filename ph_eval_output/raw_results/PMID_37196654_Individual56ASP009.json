@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental Disorder with Language Delay and Variable Cognitive Abnormalities",
+      "disease_id": "OMIM:300000",
+      "score": 1.0,
+      "explanation": "This condition closely matches the patient's presentation of delayed speech and language development, autistic behavior, attention deficit hyperactivity disorder, and seizures, similar to the reference cases."
+    },
+    {
+      "disease_name": "Autism Spectrum Disorder (ASD)",
+      "disease_id": "OMIM:208850",
+      "score": 0.5,
+      "explanation": "The patient exhibits behaviors consistent with ASD, including delayed speech, autistic behavior, and attention issues, although it is less comprehensive compared to the first disease."
+    },
+    {
+      "disease_name": "Strabismus-related Neurodevelopmental Disorders",
+      "disease_id": "OMIM:162000",
+      "score": 0.33,
+      "explanation": "Strabismus can occur in several neurodevelopmental disorders; while this is less specific, it is relevant given the patient's strabismus along with other neurodevelopmental symptoms."
+    },
+    {
+      "disease_name": "Epileptic Seizure Disorders",
+      "disease_id": "OMIM:606903",
+      "score": 0.25,
+      "explanation": "Seizures are a significant feature and while not all cases present with the same symptoms, the comorbidity of seizures with autism and language delay suggests possible underlying epileptic conditions."
+    },
+    {
+      "disease_name": "Contextual Depression in Neurodevelopmental Disorders",
+      "disease_id": "OMIM:601001",
+      "score": 0.2,
+      "explanation": "Depression can arise secondary to neurodevelopmental disorders, and while it is not a primary symptom, its presence indicates a possible link to broader neurodevelopmental issues."
+    }
+  ]
+}

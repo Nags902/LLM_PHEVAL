@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:615792",
+      "score": 1.0,
+      "explanation": "The patient's unsteady gait and nystagmus closely match the phenotypic features observed in similar cases diagnosed with Ataxia-pancytopenia syndrome."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia",
+      "disease_id": "OMIM:601168",
+      "score": 0.5,
+      "explanation": "While the patient exhibits unsteady gait and nystagmus, the specific combination of features may also suggest a form of Spinocerebellar Ataxia which is associated with similar neurological symptoms."
+    },
+    {
+      "disease_name": "Freidreich's ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.33,
+      "explanation": "This condition features ataxia and may present with nystagmus, although the additional hematological features from the reference cases are not described in this patient, making it a less likely but potential diagnosis."
+    }
+  ]
+}

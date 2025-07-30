@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Branchiooculofacial Syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 1.0,
+      "explanation": "The patient exhibits multiple features consistent with Branchiooculofacial Syndrome, including iris and retinal colobomas, nasolacrimal duct obstruction, microphthalmia, conductive hearing impairment, and facial anomalies like median pseudocleft lip."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "This syndrome includes features like colobomas, hearing loss, and craniofacial anomalies, which align with the presented symptoms, but the presence of aplasia cutis congenita raises some concerns regarding direct correlation."
+    },
+    {
+      "disease_name": "Patau Syndrome (Trisomy 13)",
+      "disease_id": "OMIM:26100",
+      "score": 0.3333333333,
+      "explanation": "This condition can present with microphthalmia and cleft lip/palate, but the broader range of phenotypic features does not fully match; however, it remains a consideration due to overlapping ocular and craniofacial defects."
+    }
+  ]
+}

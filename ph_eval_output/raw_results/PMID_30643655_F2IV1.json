@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type IIB",
+      "disease_id": "OMIM:610613",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those observed in cases diagnosed with this hereditary neuropathy, particularly the combination of frequent falls, hyperactive deep tendon reflexes, peripheral axonal neuropathy, and acral ulceration."
+    },
+    {
+      "disease_name": "CMT4J (Charcot-Marie-Tooth disease type 4J)",
+      "disease_id": "OMIM:601189",
+      "score": 0.5,
+      "explanation": "CMT4J presents with symptoms of neuropathy and spasticity, aligning with the patient's frequent falls and spasticity, although not all features match perfectly."
+    },
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 0.333,
+      "explanation": "This condition could cause frequent falls and muscle weakness; however, it doesn't fully account for hyperactive deep tendon reflexes and acral ulceration."
+    }
+  ]
+}

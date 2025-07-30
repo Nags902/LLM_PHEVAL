@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental Disorder with Coarse Facies",
+      "disease_id": "OMIM:600169",
+      "score": 1.0,
+      "explanation": "The patient presents with several phenotypic features such as delayed speech and language development, strabismus, and facial characteristics consistent with neurodevelopmental disorders seen in Case 1."
+    },
+    {
+      "disease_name": "ReNU Syndrome",
+      "disease_id": "OMIM:610693",
+      "score": 0.5,
+      "explanation": "The combination of developmental delays, anxiety, and eye issues in this patient is similar to the diverse manifestations seen in ReNU syndrome, as indicated in Case 2."
+    },
+    {
+      "disease_name": "Developmental Delay, Dysmorphic Facies, and Brain Anomalies",
+      "disease_id": "OMIM:300975",
+      "score": 0.333,
+      "explanation": "The notable physical characteristics and developmental delays in this case are reminiscent of the features associated with the brain anomalies described in Case 3."
+    }
+  ]
+}

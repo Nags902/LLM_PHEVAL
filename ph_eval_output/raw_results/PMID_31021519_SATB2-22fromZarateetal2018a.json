@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:615124",
+      "score": 1.0,
+      "explanation": "The patient presents with feeding difficulties in infancy, abnormality of dentition, intellectual disability, global developmental delay, growth delay, delayed ability to walk, and reduced bone mineral density, which matches the symptoms seen in the reference cases diagnosed with Glass syndrome."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:611868",
+      "score": 0.5,
+      "explanation": "This syndrome can present with feeding difficulties, developmental delays, and dental abnormalities, which can overlap with the patient's features, though not all symptoms match perfectly."
+    },
+    {
+      "disease_name": "Kabuki syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Kabuki syndrome is associated with developmental delays, intellectual disability, and dental anomalies, potentially explaining several of the patient's phenotypic features, though the feeding difficulties are less commonly reported."
+    },
+    {
+      "disease_name": "Hypophosphatasia",
+      "disease_id": "OMIM:146300",
+      "score": 0.25,
+      "explanation": "This condition can lead to growth delays and reduced bone mineral density, which may explain some of the phenotypic features, though it does not account for the full range of developmental characteristics observed."
+    }
+  ]
+}

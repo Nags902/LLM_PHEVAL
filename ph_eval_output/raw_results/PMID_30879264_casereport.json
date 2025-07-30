@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:615078",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match the presentation of White-Sutton syndrome, particularly the combination of facial dysmorphisms, developmental delays, seizures, and hearing impairments seen in previous cases."
+    },
+    {
+      "disease_name": "Kabuki syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Some overlapping features such as short philtrum, wide mouth, and hypertelorism are present, although additional characteristic features like skin changes and skeletal anomalies are less prominent."
+    },
+    {
+      "disease_name": "Pfeiffer syndrome",
+      "disease_id": "OMIM:101600",
+      "score": 0.33,
+      "explanation": "Shares features such as facial dysmorphism and developmental delay, but the cleft palate and hypotonia make features more suggestive of the previously mentioned conditions."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Includes characteristics like facial anomalies, developmental delays, and congenital malformations, but the specific manifestations in this case are more aligned with White-Sutton syndrome."
+    }
+  ]
+}

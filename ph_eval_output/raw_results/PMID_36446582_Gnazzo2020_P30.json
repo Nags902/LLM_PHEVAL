@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The clinical features of the patient closely match those typical of KBG syndrome, including intellectual disability, global developmental delay, macrodontia, thick eyebrows, short stature, delayed speech, and hypertelorism."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, unspecified",
+      "disease_id": "OMIM:615155",
+      "score": 0.5,
+      "explanation": "This condition is a broad category that encompasses various intellectual disabilities and developmental delays, which could explain the patient's developmental delays and intellectual disability, although it does not pinpoint the specific phenotypic features seen."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaricaciduria, type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "The patient's elevated urine 3-hydroxyglutaric level, glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and developmental regression closely align with the symptoms and findings seen in the similar reference cases diagnosed with Glutaric aciduria, type I."
+    },
+    {
+      "disease_name": "Organic acidemia due to glutaric aciduria",
+      "disease_id": "OMIM:203709",
+      "score": 0.5,
+      "explanation": "While not as specific as Glutaricaciduria type I, the presentation of glutaric aciduria and elevated 3-hydroxyglutaric acid levels suggest a related organic acidemia that could share some symptoms, warranting its inclusion."
+    },
+    {
+      "disease_name": "Cerebral atrophy with developmental regression",
+      "disease_id": "OMIM:617799",
+      "score": 0.33,
+      "explanation": "Though not directly linked to elevated glutaric levels, the combination of cerebral atrophy and significant developmental regression observed in the patient could indicate a wider spectrum of encephalopathies, thus it remains a differential diagnosis."
+    }
+  ]
+}

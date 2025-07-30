@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 5",
+      "disease_id": "OMIM:615982",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of Bardet-Biedl syndrome, particularly postaxial polydactyly, clinodactyly, brachydactyly, reduced visual acuity, nyctalopia, and mild intellectual disability."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:601013",
+      "score": 0.5,
+      "explanation": "General Bardet-Biedl syndrome encompasses similar features. While Bardet-Biedl syndrome 5 is more specific, this broader category still aligns with the patient's symptoms."
+    },
+    {
+      "disease_name": "Polydactyly, postaxial, types A1 and B",
+      "disease_id": "OMIM:601330",
+      "score": 0.33,
+      "explanation": "Although the case specifics differ, the occurrence of postaxial polydactyly in the patient is relevant to this classification, which may include developmental delays and other skeletal anomalies."
+    }
+  ]
+}

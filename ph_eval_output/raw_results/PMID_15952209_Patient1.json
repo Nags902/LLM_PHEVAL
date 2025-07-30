@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow Syndrome",
+      "disease_id": "OMIM:180700",
+      "score": 1.0,
+      "explanation": "The patient exhibits several key phenotypic features consistent with Robinow Syndrome, such as small nails, brachydactyly, mesomelia, hypospadias (micropenis), frontal bossing, and joint hypermobility. Similar cases featured these characteristics as well."
+    },
+    {
+      "disease_name": "Al Kaissi Syndrome",
+      "disease_id": "OMIM:612370",
+      "score": 0.5,
+      "explanation": "This syndrome presents with short stature, growth retardation, and various skeletal abnormalities, some of which overlap with the patient's features. While the linkage is not as strong as with Robinow syndrome, there are relevant overlapping traits."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.33,
+      "explanation": "Some of the patient\u2019s features, such as short stature, facial dysmorphism, and abnormalities of digits, can be found in Smith-Lemli-Opitz Syndrome, although not as prominent as in the other syndromes listed."
+    },
+    {
+      "disease_name": "Brachydactyly Type A2",
+      "disease_id": "OMIM:113000",
+      "score": 0.25,
+      "explanation": "The presence of brachydactyly and other hand/foot abnormalities may suggest Brachydactyly Type A2, but it does not fully account for the complex phenotype observed in the patient."
+    },
+    {
+      "disease_name": "Cleidocranial Dysostosis",
+      "disease_id": "OMIM:119600",
+      "score": 0.2,
+      "explanation": "Though primarily known for skeletal deformities, the presence of brachydactyly and short stature may relate to this disorder; however, it lacks specific traits observable in the patient."
+    }
+  ]
+}

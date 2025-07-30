@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy 2",
+      "disease_id": "OMIM:158300",
+      "score": 1.0,
+      "explanation": "This condition matches all presented phenotypic features directly and is confirmed by multiple similar reference cases."
+    },
+    {
+      "disease_name": "Myasthenia Gravis",
+      "disease_id": "OMIM:254230",
+      "score": 0.5,
+      "explanation": "This autoimmune condition can cause dysphagia and ptosis, but lacks strong evidence for respiratory insufficiency as a primary feature in children."
+    },
+    {
+      "disease_name": "Centrale Core Disease",
+      "disease_id": "OMIM:117000",
+      "score": 0.33,
+      "explanation": "This neuromuscular disorder can present with ophthalmoplegia and weakness; however, it is less common for this age group and phenotypic presentation."
+    }
+  ]
+}

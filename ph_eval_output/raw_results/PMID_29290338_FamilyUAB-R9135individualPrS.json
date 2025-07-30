@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1 (NF1)",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The presence of plexiform neurofibromas is highly indicative of Neurofibromatosis type 1, supported by reference cases with similar phenotypic features."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 2 (NF2)",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While NF2 is primarily associated with bilateral vestibular schwannomas, it can also involve nerve sheath tumors, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Schwannomatosis",
+      "disease_id": "OMIM:162091",
+      "score": 0.33,
+      "explanation": "Schwannomatosis involves multiple schwannomas, which can include neurofibromas; though less likely, it is still associated with similar tumor formation."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex (TSC)",
+      "disease_id": "OMIM:605282",
+      "score": 0.25,
+      "explanation": "TSC can present with various tumors, including subcutaneous nodules and various other neurocutaneous manifestations, making it a lower probability but relevant possibility."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual Disability with Dysmorphic Features",
+      "disease_id": "OMIM:615303",
+      "score": 1.0,
+      "explanation": "The patient's combination of features such as intellectual disability, global developmental delay, and distinct facial dysmorphisms align closely with cases diagnosed under this category."
+    },
+    {
+      "disease_name": "Miller-Dieker Syndrome",
+      "disease_id": "OMIM:257200",
+      "score": 0.5,
+      "explanation": "Miller-Dieker syndrome is characterized by lissencephaly and several neurodevelopmental challenges similar to those presented in the patient."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.33,
+      "explanation": "Williams syndrome presents with characteristic facial features and developmental delays, relevant to the patient's hypertelorism and bulbous nose."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:611867",
+      "score": 0.25,
+      "explanation": "Common features include developmental delays, intellectual disabilities, and varying facial dysmorphisms, which may correlate with the patient's symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett syndrome is marked by developmental regression, especially affecting speech and motor skills, which may be relevant here, though typically more recognized in females."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This disease is characterized by subcutaneous ossification, intellectual disability, and elevated circulating parathyroid hormone levels, matching all of the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Ib",
+      "disease_id": "OMIM:603233",
+      "score": 0.5,
+      "explanation": "While this subtype may involve some overlapping features like intellectual disability, it generally presents with less clear-cut ossification and parathyroid hormone abnormalities compared to Ia."
+    },
+    {
+      "disease_name": "Aho syndrome",
+      "disease_id": "OMIM:100200",
+      "score": 0.333,
+      "explanation": "Associated with features of subcutaneous ossification and intellectual disability; however, it may not be as strongly linked to the elevated parathyroid hormone levels."
+    }
+  ]
+}

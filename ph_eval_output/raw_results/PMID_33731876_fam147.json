@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:614303",
+      "score": 1.0,
+      "explanation": "This disease is associated with focal-onset seizures and is highlighted in multiple similar reference cases indicating a strong correlation."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:615156",
+      "score": 0.5,
+      "explanation": "This condition has also been noted in reference cases with focal-onset seizures, suggesting potential relevance."
+    },
+    {
+      "disease_name": "Focal cortical dysplasia",
+      "disease_id": "OMIM:607122",
+      "score": 0.33,
+      "explanation": "Focal cortical dysplasia commonly results in focal-onset seizures, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex",
+      "disease_id": "OMIM:605284",
+      "score": 0.25,
+      "explanation": "Tuberous sclerosis can lead to focal seizures as a result of cortical tubers affecting brain function."
+    }
+  ]
+}

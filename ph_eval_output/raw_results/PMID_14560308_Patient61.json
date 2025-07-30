@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 1.0,
+      "explanation": "The patient exhibits numerous phenotypic features consistent with Aarskog-Scott syndrome, including hypertelorism, ptosis, brachydactyly, camptodactyly, syndactyly, and intellectual disability, which aligns with the previously diagnosed cases."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.5,
+      "explanation": "KBG syndrome could be considered due to overlapping features such as intellectual disability, short stature, and skeletal anomalies like brachydactyly and camptodactyly, although not all features match perfectly."
+    },
+    {
+      "disease_name": "Chudley-McCullough syndrome",
+      "disease_id": "OMIM:300230",
+      "score": 0.33,
+      "explanation": "This syndrome involves intellectual disability, brachydactyly, and other skeletal anomalies, making it a possible although less likely alternative, as the patient's case fits better with Aarskog-Scott syndrome."
+    }
+  ]
+}

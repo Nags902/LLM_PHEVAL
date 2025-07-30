@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:300286",
+      "score": 1.0,
+      "explanation": "This disease encompasses severe intellectual disability and various types of seizures including infantile spasms and focal tonic seizures, matching the patient's severe neurodevelopmental features and EEG findings."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:611135",
+      "score": 0.5,
+      "explanation": "Characterized by similar phenotypic features such as seizures, severe intellectual disability, and cerebral atrophy, making it a suitable consideration based on the provided clinical data."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "This condition is characterized by infantile spasms, cognitive impairment, and distinctive EEG patterns; fits well with the patient's symptoms of infantile spasms and severe neurodevelopmental delay."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:607693",
+      "score": 0.25,
+      "explanation": "Includes multiple seizure types and cognitive impairment; relevant due to the variety of seizures presented by the patient and the intellectual disability."
+    }
+  ]
+}

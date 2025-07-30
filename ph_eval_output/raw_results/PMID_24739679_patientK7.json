@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Apert Syndrome",
+      "disease_id": "OMIM:101200",
+      "score": 1.0,
+      "explanation": "The presence of hearing impairment, wide nasal bridge, long palpebral fissure, macrotia, and aortic valve stenosis are phenotypic features that align well with Apert syndrome, which is associated with craniosynostosis and associated anomalies."
+    },
+    {
+      "disease_name": "Craniosynostosis Syndrome",
+      "disease_id": "OMIM:609502",
+      "score": 0.5,
+      "explanation": "This syndrome encompasses a variety of conditions with overlapping features such as hearing impairment, facial dysmorphism, and cardiovascular anomalies, aligning with the patient\u2019s presentation."
+    },
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.33,
+      "explanation": "The recurrent infections and aortic valve stenosis, combined with hypotonia and developmental delay, suggest possible DiGeorge syndrome, which is noted for immunodeficiency and cardiac anomalies."
+    },
+    {
+      "disease_name": "Kabuki Syndrome",
+      "disease_id": "OMIM:601199",
+      "score": 0.25,
+      "explanation": "Features such as wide nasal bridge, long palpebral fissures, and global developmental delay align with Kabuki syndrome, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan syndrome presents with a variety of congenital heart defects, facial dysmorphism, and developmental delay, making it a relevant diagnosis considering the patient's features."
+    }
+  ]
+}

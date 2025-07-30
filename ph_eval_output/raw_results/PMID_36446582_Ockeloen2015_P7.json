@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG Syndrome is characterized by short stature, macrodontia, and skeletal anomalies, aligning closely with the patient's phenotype."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.5,
+      "explanation": "Aarskog-Scott Syndrome features include short stature and hand abnormalities, making it relevant to the patient's symptoms despite the absence of macrodontia."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.33,
+      "explanation": "Smith-Magenis Syndrome is associated with short stature and developmental delays, which may explain some of the patient's traits, though it doesn't directly include macrodontia."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:313700",
+      "score": 0.25,
+      "explanation": "Turner Syndrome includes short stature and can sometimes exhibit skeletal maturation delays, though hand abnormalities are variable and macrodontia is not a typical feature."
+    }
+  ]
+}

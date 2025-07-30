@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 20",
+      "disease_id": "OMIM:614219",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of similar cases, including ataxia, hypotonia, intellectual disability, and cerebellar atrophy, which are characteristic of Spinocerebellar ataxia, autosomal recessive 20."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:601775",
+      "score": 0.5,
+      "explanation": "This syndrome can manifest with ataxia, developmental delays, and vision impairment. The presence of visual impairment and hypotonia may align with aspects of Bardet-Biedl syndrome."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235200",
+      "score": 0.33,
+      "explanation": "This syndrome is associated with intellectual disability, hypotonia, and may also involve developmental delays and ocular abnormalities, similar to the patient's features."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass Syndrome",
+      "disease_id": "OMIM:219080",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by abnormality of the dentition, delayed speech and language development, global developmental delay, and delayed ability to walk, which strongly aligns with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Cleft Lip/Palate with Associated Developmental Delay",
+      "disease_id": "OMIM:119300",
+      "score": 0.5,
+      "explanation": "Patients with cleft lip/palate often present with developmental delays and speech issues, which aligns partially with the patient's features, although the patient did not present with a cleft palate."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "While primarily associated with developmental delays and dental anomalies, this syndrome's other features do not completely match the patient's condition but still show some overlap."
+    }
+  ]
+}

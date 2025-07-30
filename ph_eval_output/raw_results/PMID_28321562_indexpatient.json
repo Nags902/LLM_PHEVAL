@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spastic Paraplegia 15",
+      "disease_id": "OMIM:610190",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of spasticity, ataxia, and dysarthria closely align with those seen in Spastic Paraplegia 15, particularly the combination of upper and lower limb involvement along with gait imbalance."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia 15",
+      "disease_id": "OMIM:606116",
+      "score": 0.5,
+      "explanation": "Clinical features such as gait imbalance, dysmetria, dysarthria, and cerebellar vermis atrophy are consistent with Spinocerebellar Ataxia. This condition has a strong correlation with the cerebellar features presented."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia",
+      "disease_id": "OMIM:182600",
+      "score": 0.333,
+      "explanation": "Lower and upper limb spasticity, together with muscle weakness, suggest hereditary spastic paraplegia could be a potential diagnosis, particularly if other identified patterns of inheritance or associated features are present."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This disease matches all the provided phenotypic features, including decreased testosterone, increased ACTH, decreased cortisol, increased prolactin, and increased estradiol, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 11-hydroxylase deficiency",
+      "disease_id": "OMIM:613090",
+      "score": 0.5,
+      "explanation": "Although it presents with some hormonal imbalances similar to the case, it is less common and doesn't typically show estradiol elevation."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.33,
+      "explanation": "This condition can lead to similar adrenal hormone profiles but with a different hormonal effect, particularly with higher levels of adrenal steroids other than cortisol."
+    }
+  ]
+}

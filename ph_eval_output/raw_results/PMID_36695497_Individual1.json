@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microphthalmia/Coloboma Syndrome",
+      "disease_id": "OMIM:601711",
+      "score": 1.0,
+      "explanation": "The patient presents with a combination of symptoms that are classically associated with Microphthalmia/Coloboma Syndrome, matching the phenotypic features seen in the reference cases."
+    },
+    {
+      "disease_name": "Chorioretinal Coloboma",
+      "disease_id": "OMIM:120202",
+      "score": 0.5,
+      "explanation": "This condition encompasses many of the same features, particularly those related to ocular malformations like colobomas, which are prominent in the patient's presentation."
+    },
+    {
+      "disease_name": "Anophthalmia and Microphthalmia",
+      "disease_id": "OMIM:206100",
+      "score": 0.33,
+      "explanation": "While primarily associated with more severe ocular defects, the presence of microphthalmia and related phenotypes suggests a consideration of this broader category."
+    }
+  ]
+}

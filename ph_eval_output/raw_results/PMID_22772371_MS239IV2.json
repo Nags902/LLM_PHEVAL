@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome 4",
+      "disease_id": "OMIM:613795",
+      "score": 1.0,
+      "explanation": "The patient presents with many features that align closely with Loeys-Dietz syndrome, such as high palate, abnormal sternum morphology, spondylolisthesis, arachnodactyly, aortic root aneurysm, arterial tortuosity, and dural ectasia, matching the reference cases."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "While Marfan syndrome features, such as arachnodactyly, aortic root aneurysm, and striae distensae are also present in this patient, some additional key features more consistent with Loeys-Dietz are prevalent."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.33,
+      "explanation": "Some features such as arterial tortuosity and aortic root aneurysm coincide with this type of Ehlers-Danlos syndrome. However, the patient lacks many classic indicators of this syndrome compared to others."
+    }
+  ]
+}

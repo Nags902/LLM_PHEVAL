@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Arthrogryposis, distal, type 2A (Freeman-Sheldon)",
+      "disease_id": "OMIM:193100",
+      "score": 1.0,
+      "explanation": "The patient presents with a range of similar phenotypic features including depressed nasal bridge, cleft ala nasi, talipes equinovarus, and camptodactyly which strongly align with features seen in this condition."
+    },
+    {
+      "disease_name": "Al Kaissi syndrome",
+      "disease_id": "OMIM:613711",
+      "score": 0.5,
+      "explanation": "Similar features are seen in the patient, especially with facial dysmorphism and skeletal abnormalities, as noted in the given case references."
+    },
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:615201",
+      "score": 0.333,
+      "explanation": "While the overlaps are substantial, particularly in facial characteristics, the presence of developmental delays and additional features may position it as a less primary option compared to the top two diseases."
+    }
+  ]
+}

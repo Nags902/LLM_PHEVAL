@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This condition is characterized by obesity, short metacarpal bones, and intellectual disability, aligning perfectly with the patient's features and similar reference cases."
+    },
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103581",
+      "score": 0.5,
+      "explanation": "This condition shares phenotypic features such as obesity and short metacarpals, although it typically presents with more systemic endocrine abnormalities which may not be indicated here."
+    },
+    {
+      "disease_name": "Some forms of Congenital Disorders of Glycosylation",
+      "disease_id": "OMIM:212065",
+      "score": 0.33,
+      "explanation": "These disorders can present with obesity and developmental delays/intellectual disabilities; however, the association with short metacarpals may not be as strong as with Pseudohypoparathyroidism."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "This syndrome is known for obesity and intellectual disability but does not typically emphasize short metacarpals as a defining feature."
+    }
+  ]
+}

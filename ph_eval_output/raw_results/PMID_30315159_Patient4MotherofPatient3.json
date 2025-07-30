@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Thrombocytopenia 8",
+      "disease_id": "OMIM:614039",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely align with those of Thrombocytopenia 8, including dysmorphic features like broad eyebrows, synophrys, and developmental delays, which are consistently observed in the reference cases diagnosed with this condition."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Phenotypic features such as deep-set eyes, broad and thin upper lip vermilion, and developmental delay are consistent with Noonan syndrome; however, the presence of thrombocytopenia and the specific combination of features aligns more closely with Thrombocytopenia 8."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.333,
+      "explanation": "Several facial dysmorphisms and thrombocytopenia are noted in Cohen Syndrome, which shares some overlapping features with the patient's phenotype, but the full set of symptoms is not entirely consistent."
+    },
+    {
+      "disease_name": "Wiskott-Aldrich Syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.25,
+      "explanation": "Although this condition includes thrombocytopenia and may show some overlapping phenotypic features, it typically presents with an immunological defect not mentioned in the patient\u2019s case."
+    },
+    {
+      "disease_name": "Dubowitz Syndrome",
+      "disease_id": "OMIM:224150",
+      "score": 0.2,
+      "explanation": "Dubowitz Syndrome presents with some features seen in the patient; however, it doesn't directly correlate with thrombocytopenia and has a distinct set of characteristics."
+    }
+  ]
+}

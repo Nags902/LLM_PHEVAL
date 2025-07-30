@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616869",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of the reference cases diagnosed with this condition, especially with hypotonia, global developmental delay, and deeply set eyes."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618024",
+      "score": 0.5,
+      "explanation": "This condition exhibits a broad phenotypic spectrum including developmental delays and abnormal facial features, similar to the reference cases."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.33,
+      "explanation": "KBG syndrome is characterized by developmental delays, hypotonia, and skeletal abnormalities, which align with some of the features presented by the patient."
+    }
+  ]
+}

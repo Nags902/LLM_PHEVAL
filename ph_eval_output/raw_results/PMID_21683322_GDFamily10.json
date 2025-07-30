@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic Dysplasia 2",
+      "disease_id": "OMIM:612905",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely align with Geleophysic Dysplasia 2, particularly the long and smooth philtrum, thin upper lip vermilion, hypertelorism, and skeletal abnormalities such as short palms and feet."
+    },
+    {
+      "disease_name": "White-Sutton Syndrome",
+      "disease_id": "OMIM:619876",
+      "score": 0.5,
+      "explanation": "While the patient does not exhibit all characteristics seen in the reference cases, the presence of similar facial features and potential developmental delays suggests a resemblance to White-Sutton syndrome, but with less certainty."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
+      "disease_id": "OMIM:300000",
+      "score": 1.0,
+      "explanation": "The clinical presentation includes multiple features like dilated third ventricle, cerebral hemorrhage, hydrocephalus, and lateral ventricle dilatation, which closely aligns with the conditions seen in similar reference cases diagnosed with neurodevelopmental disorders."
+    },
+    {
+      "disease_name": "Lissencephaly, type I",
+      "disease_id": "OMIM:607432",
+      "score": 0.5,
+      "explanation": "Lissencephaly often presents with cerebral anomalies, including hydrocephalus and cerebral hemorrhage. The features observed in the patient match its presentation in some aspects."
+    },
+    {
+      "disease_name": "Pachygyria",
+      "disease_id": "OMIM:607433",
+      "score": 0.33,
+      "explanation": "Similar to lissencephaly, pachygyria is associated with structural brain anomalies, including hydrocephalus and cerebral calcifications, seen in the patient."
+    },
+    {
+      "disease_name": "Cerebral cysts or encephaloceles",
+      "disease_id": "OMIM:613857",
+      "score": 0.25,
+      "explanation": "Cerebral cysts can lead to increased intracranial pressure and display some of the same imaging findings (e.g., hydrocephalus, ventricle dilatation) coupled with hemorrhagic complications."
+    }
+  ]
+}

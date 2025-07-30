@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The presence of multiple cafe-au-lait spots, freckling, pectus excavatum, kyphosis, scoliosis, and astrocytoma aligns closely with classic manifestations of Neurofibromatosis type 1, as seen in the reference cases."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "While primarily associated with cafe-au-lait spots and freckling, Legius syndrome can present some overlapping features. However, the association with astrocytoma is less defined."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.33,
+      "explanation": "This syndrome can present with cafe-au-lait spots and skeletal abnormalities, though it is less consistent with the presence of astrocytoma."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epileptic Encephalopathy, Early Infantile, 4",
+      "disease_id": "OMIM:613219",
+      "score": 1.0,
+      "explanation": "The patient presents with myoclonus, status epilepticus, hypotonia, global developmental delay, and other neurological signs, strongly aligning with the characteristics of this type of epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "This syndrome is associated with early-onset seizures, including myoclonic seizures and developmental delays, fitting the patient's seizure presentation and developmental milestones."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "The patient's combination of seizures, including myoclonus and developmental delays, is consistent with the clinical presentation typical of West Syndrome."
+    },
+    {
+      "disease_name": "Severe Myoclonic Epilepsy in Infancy",
+      "disease_id": "OMIM:607681",
+      "score": 0.25,
+      "explanation": "The presence of persistent head lag, hypotonia, and myoclonic seizures in an infant could indicate this severe form of epilepsy which affects development."
+    }
+  ]
+}

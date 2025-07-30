@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Meckel-Gruber Syndrome is associated with postaxial polydactyly, microcephaly, and other neural tube defects, aligning closely with the phenotypic features observed in the patient."
+    },
+    {
+      "disease_name": "Patau Syndrome (Trisomy 13)",
+      "disease_id": "OMIM:772000",
+      "score": 0.5,
+      "explanation": "Patau Syndrome can present with polydactyly, microcephaly, and structural brain malformations such as Chiari malformation, making it a possible match for the patient's features."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:609inger177",
+      "score": 0.333,
+      "explanation": "Bardet-Biedl Syndrome exhibits postaxial polydactyly and can be associated with renal and neurological anomalies, justifying its relevance with the patient's symptoms."
+    },
+    {
+      "disease_name": "Spina Bifida Occulta",
+      "disease_id": "OMIM:607451",
+      "score": 0.25,
+      "explanation": "While not directly correlating with all phenotypes, spina bifida can lead to additional complications that align with lumbosacral meningocele and lower limb malformations, supporting its inclusion."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz Syndrome includes polydactyly and microcephaly; however, its presentation is more variable, which places it lower on the ranking."
+    }
+  ]
+}

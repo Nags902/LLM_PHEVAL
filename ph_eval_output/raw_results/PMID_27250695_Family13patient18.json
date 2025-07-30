@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:617441",
+      "score": 1.0,
+      "explanation": "This condition matches all presented phenotypic features (intellectual disability, short stature, microcephaly) and is supported by similar reference cases."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "This syndrome presents with developmental delays and short stature, and while not all features match precisely, it has notable overlaps."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.33,
+      "explanation": "This syndrome is characterized by short stature and developmental delays, with microcephaly being a less common feature."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "While this syndrome includes intellectual disability and can present with short stature, microcephaly is less typical."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 1.0,
+      "explanation": "The combination of seizures, abnormal corpus callosum morphology, hypotonia, and developmental delays closely aligns with the phenotypic features characteristic of Aicardi syndrome."
+    },
+    {
+      "disease_name": "Lissencephaly",
+      "disease_id": "OMIM:607432",
+      "score": 0.5,
+      "explanation": "The presence of seizures, abnormal brain morphology including corpus callosum abnormalities, and hypotonia suggests lissencephaly, which is characterized by developmental issues and structural brain abnormalities."
+    },
+    {
+      "disease_name": "Congenital myopathy",
+      "disease_id": "OMIM:254100",
+      "score": 0.333,
+      "explanation": "Muscle weakness, hypotonia, and respiratory failure raise suspicion for a congenital myopathy which can also present with seizures due to associated neurological issues."
+    },
+    {
+      "disease_name": "Neurodegeneration with brain iron accumulation (NBIA)",
+      "disease_id": "OMIM:607628",
+      "score": 0.25,
+      "explanation": "While not typical, the constellation of neurological findings, including seizures and abnormal brainstem morphology, may appear in some NBIA cases, warranting consideration."
+    },
+    {
+      "disease_name": "Mitochondrial myopathy",
+      "disease_id": "OMIM:501200",
+      "score": 0.2,
+      "explanation": "Presence of hypertrophic cardiomyopathy and muscle weakness with neurological symptoms could indicate a mitochondrial myopathy, which can also be associated with seizures."
+    }
+  ]
+}

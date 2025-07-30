@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type II",
+      "disease_id": "OMIM:608198",
+      "score": 1.0,
+      "explanation": "The patient's features of fetal pericardial effusion, seizures, cerebellar and cerebral atrophy, failure to thrive, and similar presentation in referenced cases align closely with this disorder."
+    },
+    {
+      "disease_name": "Coenzyme Q10 deficiency, primary, 7",
+      "disease_id": "OMIM:612251",
+      "score": 0.5,
+      "explanation": "While the patient's features share some aspects like seizures and cerebellar atrophy, the additional metabolic findings required for a definitive diagnosis are not present."
+    },
+    {
+      "disease_name": "Apert syndrome",
+      "disease_id": "OMIM:101200",
+      "score": 0.33,
+      "explanation": "This condition presents with facial dysmorphisms and potential cerebral and cerebellar involvement, but it is less likely compared to the first two due to the lack of craniosynostosis in the phenotype."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:615983",
+      "score": 0.25,
+      "explanation": "This syndrome could present with renal issues and developmental delays but lesser specificity to the highlighted features makes it a less likely match."
+    }
+  ]
+}

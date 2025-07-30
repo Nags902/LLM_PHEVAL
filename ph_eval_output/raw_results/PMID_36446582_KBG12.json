@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The combination of intellectual disability, global developmental delay, macrodontia, motor delay, and various facial dysmorphisms aligns closely with multiple cases diagnosed with KBG syndrome."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:618349",
+      "score": 0.5,
+      "explanation": "The patient's intellectual disability and developmental delays are consistent with this diagnosis, though this syndrome does not encompass some facial features observed."
+    },
+    {
+      "disease_name": "Franceschetti syndrome (also known as Aperts-like syndrome)",
+      "disease_id": "OMIM:605379",
+      "score": 0.33,
+      "explanation": "While primarily characterized by craniosynostosis, the facial features and developmental delays seen in this patient may suggest a variant of this syndrome, specifically with synophrys and short stature."
+    }
+  ]
+}

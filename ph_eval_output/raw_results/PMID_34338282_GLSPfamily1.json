@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206400",
+      "score": 1.0,
+      "explanation": "This condition is characterized by the combination of ataxia and aniridia, matching the phenotypic features presented by the patient."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194100",
+      "score": 0.5,
+      "explanation": "This syndrome includes aniridia as a primary feature and can sometimes be associated with neurological issues like ataxia, although ataxia is less common."
+    },
+    {
+      "disease_name": "PAX6-related disorders",
+      "disease_id": "OMIM:607108",
+      "score": 0.33,
+      "explanation": "Aniridia is primarily caused by mutations in the PAX6 gene; while ataxia is not a hallmark feature, it may present in some cases."
+    }
+  ]
+}

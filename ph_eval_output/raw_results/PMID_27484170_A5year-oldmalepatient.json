@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "LEOPARD syndrome is characterized by short stature, hypertelorism, multiple lentigines, and may include pulmonic stenosis, aligning well with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome presents with short stature and possible cardiac defects like pulmonic stenosis; additionally, hypertelorism can be observed, making it a noteworthy consideration."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.333,
+      "explanation": "While primarily associated with cafe-au-lait spots and neurofibromas, the presence of few cafe-au-lait spots and pulmonic stenosis in some cases might relate to this condition, although it is less typical."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:600839",
+      "score": 1.0,
+      "explanation": "The patient's hyperuricemia aligns closely with the classic presentation seen in cases of tubulointerstitial kidney disease, particularly given the reference cases that featured similar symptoms."
+    },
+    {
+      "disease_name": "Gout",
+      "disease_id": "OMIM:138900",
+      "score": 0.5,
+      "explanation": "Hyperuricemia is a direct precursor to gout, and given the patient's age and gender, it is plausible that this could be a primary condition or a result of kidney dysfunction."
+    },
+    {
+      "disease_name": "Xanthinuria",
+      "disease_id": "OMIM:278300",
+      "score": 0.333,
+      "explanation": "This condition features hyperuricemia secondary to disrupted purine metabolism, which could fit the current presentation, although it is less common."
+    }
+  ]
+}

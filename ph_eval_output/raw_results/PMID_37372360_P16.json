@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:300686",
+      "score": 1.0,
+      "explanation": "This condition matches closely with the phenotypic features of tall stature, macrocephaly, and obesity, along with developmental concerns that are prevalent in the similar cases."
+    },
+    {
+      "disease_name": "Rabin-Pappas syndrome",
+      "disease_id": "OMIM:220550",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by tall stature and macrocephaly, also overlaps with obesity and developmental delays, aligning with the provided phenotypic features."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.33,
+      "explanation": "Sotos syndrome includes tall stature and macrocephaly among its features, providing a reasonable connection to the patient's presentation, although with less detailed overlap with other specified symptoms."
+    },
+    {
+      "disease_name": "Menschik syndrome",
+      "disease_id": "OMIM:610901",
+      "score": 0.25,
+      "explanation": "Menschik syndrome includes macrocephaly and may present with obesity, although it includes additional features not currently indicated in the patient, making it less likely but still relevant."
+    }
+  ]
+}

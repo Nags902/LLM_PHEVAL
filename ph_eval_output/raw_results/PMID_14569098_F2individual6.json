@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:614245",
+      "score": 1.0,
+      "explanation": "This disease matches all the phenotypic features observed in the patient, similar to reference Case 1."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:603960",
+      "score": 0.5,
+      "explanation": "This disease also correlates with the patient's symptoms, as seen in Cases 2 and 3, although it is not the primary match."
+    }
+  ]
+}

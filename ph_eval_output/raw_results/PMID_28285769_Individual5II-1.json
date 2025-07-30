@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinitis pigmentosa with or without skeletal anomalies",
+      "disease_id": "OMIM:263200",
+      "score": 1.0,
+      "explanation": "The patient's clinical features closely match those of the reference cases, particularly the combination of rod-cone dystrophy with skeletal anomalies and other developmental delays."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:615982",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by rod-cone dystrophy, obesity, polydactyly, and renal anomalies. The phenotypic features present in this patient overlap with many of those seen in Bardet-Biedl syndrome."
+    },
+    {
+      "disease_name": "Muckles syndrome (Muckle-Wells syndrome)",
+      "disease_id": "OMIM:607417",
+      "score": 0.333,
+      "explanation": "While primarily a autoinflammatory disorder linked with hearing loss and urticaria, some presentations may include developmental delays and dysmorphic features which partially overlap with this patient's profile."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome is associated with abnormalities in the development of multiple systems, presenting with intellectual disability and distinct facial features, aligning with some of the patient's listed phenotypes."
+    }
+  ]
+}

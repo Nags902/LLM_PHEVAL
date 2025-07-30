@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 5",
+      "disease_id": "OMIM:105120",
+      "score": 1.0,
+      "explanation": "This condition matches all phenotypic features presented, including renal and hepatic amyloidosis, renal insufficiency, and anemia, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 3",
+      "disease_id": "OMIM:105130",
+      "score": 0.5,
+      "explanation": "While this condition also presents with renal and hepatic amyloidosis, the additional symptoms may not fully align with the patient's phenotype, but it remains a consideration due to similar features."
+    },
+    {
+      "disease_name": "Amyloidosis, primary AL",
+      "disease_id": "OMIM:105120",
+      "score": 0.33,
+      "explanation": "Primary AL amyloidosis can also present with renal and hepatic involvement along with anemia, though the hereditary component is absent in this case."
+    }
+  ]
+}

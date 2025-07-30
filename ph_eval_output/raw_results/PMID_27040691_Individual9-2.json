@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:615204",
+      "score": 1.0,
+      "explanation": "The patient exhibits key features such as global developmental delay, hypotonia, absent speech, and coarse facial features, which closely match the reference cases diagnosed with this condition."
+    },
+    {
+      "disease_name": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH), with psychomotor retardation and characteristic facies",
+      "disease_id": "OMIM:615205",
+      "score": 0.5,
+      "explanation": "While not all features match perfectly, notable signs like long philtrum, tented upper lip, and developmental delays suggest a potential relation to syndromes with overlapping symptoms."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type IIIB (Sanfilippo syndrome type B)",
+      "disease_id": "OMIM:252850",
+      "score": 0.33,
+      "explanation": "This condition presents with developmental delays, coarse facial features, and skeletal dysplasia, which are consistent with some of the patient's phenotypic features, although with less certainty than the first two."
+    }
+  ]
+}

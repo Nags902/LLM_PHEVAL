@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:609 Apert",
+      "score": 1.0,
+      "explanation": "Strong match with multiple overlapping symptoms including postaxial polydactyly, nyctalopia, reduced visual acuity, and obesity as evidenced in the reference cases."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 2",
+      "disease_id": "OMIM:613186",
+      "score": 0.5,
+      "explanation": "Similar symptomatology to Bardet-Biedl Syndrome 1 and noted for postaxial polydactyly and eye-related features."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 3",
+      "disease_id": "OMIM:615985",
+      "score": 0.333,
+      "explanation": "Related to the Bardet-Biedl spectrum, presenting similar signs though less characterized in the literature."
+    }
+  ]
+}

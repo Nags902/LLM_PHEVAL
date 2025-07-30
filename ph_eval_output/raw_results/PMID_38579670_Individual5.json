@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 112",
+      "disease_id": "OMIM:300894",
+      "score": 1.0,
+      "explanation": "The patient exhibits core features such as bilateral tonic-clonic seizures, profound global developmental delay, and hypotonia, which aligns closely with the symptoms observed in cases diagnosed with Developmental and Epileptic Encephalopathy 112."
+    },
+    {
+      "disease_name": "KCNQ2-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.5,
+      "explanation": "This disorder often presents with similar seizure types and developmental delay. The presence of hypotonia and CNS hypomyelination further supports consideration of this diagnosis."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.33,
+      "explanation": "CDKL5-related disorders can exhibit epileptic encephalopathy, developmental delays, and seizures, aligning partially with the phenotypic features presented by the patient."
+    },
+    {
+      "disease_name": "Severe Myoclonic Epilepsy of Infancy (Dravet Syndrome)",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet Syndrome is characterized by developmental impairment and seizures, although the patient's specific seizure type presentation does not fully match the typical profile."
+    }
+  ]
+}

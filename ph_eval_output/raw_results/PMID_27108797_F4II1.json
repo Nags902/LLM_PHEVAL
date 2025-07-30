@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia 29, Congenital Nonprogressive",
+      "disease_id": "OMIM:615215",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of the reference cases diagnosed with Spinocerebellar Ataxia 29, which includes ataxia, hypotonia, delayed motor milestones, and aniridia."
+    },
+    {
+      "disease_name": "Cerebellar Dysgenesis (Cerebellar Hypoplasia) and Aniridia",
+      "disease_id": "OMIM:615216",
+      "score": 0.5,
+      "explanation": "The presence of developmental delays, cerebellar atrophy, and eye abnormalities like aniridia suggest a condition involving cerebellar dysgenesis, aligning with other documented cases."
+    },
+    {
+      "disease_name": "Oculodigital Syndrome",
+      "disease_id": "OMIM:258120",
+      "score": 0.333,
+      "explanation": "This condition can involve nystagmus and hypotonia, and may feature developmental delays, though the exact symptom overlap is less certain compared to Spinocerebellar Ataxia 29."
+    }
+  ]
+}

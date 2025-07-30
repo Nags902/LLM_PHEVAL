@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autism, and microcephaly",
+      "disease_id": "OMIM:615293",
+      "score": 1.0,
+      "explanation": "The patient presents with a combination of intellectual disability, autistic behavior, global developmental delay, and microcephaly which closely aligns with cases diagnosed with this disorder."
+    },
+    {
+      "disease_name": "Chromosome 5q13.2 deletion syndrome",
+      "disease_id": "OMIM:614259",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by developmental delays, intellectual disability, and facial dysmorphism such as triangular face, which may correlate with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Syndrome of autism with microcephaly",
+      "disease_id": "OMIM:613843",
+      "score": 0.33,
+      "explanation": "This syndrome includes intellectual disability, autistic behaviors, and microcephaly, closely mirroring the features presented by the patient."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "The presence of developmental delays, autistic behavior, and microcephaly can be observed in this condition, making it a candidate despite being less prevalent."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "PWS may encompass developmental delays and short stature, with some presenting with autistic behaviors, making it a relevant consideration based on similar cases."
+    }
+  ]
+}

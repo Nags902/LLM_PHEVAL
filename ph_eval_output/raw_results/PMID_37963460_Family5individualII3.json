@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental Disorder with Hypotonia, Feeding Difficulties, Facial Dysmorphism, and Brain Abnormalities",
+      "disease_id": "OMIM:300866",
+      "score": 1.0,
+      "explanation": "The patient's features closely align with those of similar reference cases, including hypotonia, short stature, hypoplasia of the corpus callosum, and various developmental delays, suggesting a neurodevelopmental disorder."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:309050",
+      "score": 0.5,
+      "explanation": "This syndrome commonly presents with short stature, speech delays, and developmental delays which align with the patient's symptoms, particularly the phenotype of short stature and developmental issues."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122475",
+      "score": 0.33,
+      "explanation": "This syndrome is characterized by growth delays, facial dysmorphism, and developmental delays which resonate with the patient's profile of hypotonia and low-set ears."
+    }
+  ]
+}

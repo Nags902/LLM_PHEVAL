@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual disability syndrome with dysmorphic features",
+      "disease_id": "OMIM:300000",
+      "score": 1.0,
+      "explanation": "The patient's symptoms align closely with the presentations in the reference cases, particularly features such as global developmental delay, motor and speech delays, and dysmorphic features including facial shape and structure."
+    },
+    {
+      "disease_name": "Autism Spectrum Disorder with associated dysmorphic features",
+      "disease_id": "OMIM:601121",
+      "score": 0.5,
+      "explanation": "The presence of autistic behavior in conjunction with developmental delays and dysmorphic traits supports a diagnosis within the spectrum of autism spectrum disorders, reflecting similarities to Case 3."
+    },
+    {
+      "disease_name": "Pfeiffer syndrome",
+      "disease_id": "OMIM:101600",
+      "score": 0.333,
+      "explanation": "This syndrome is characterized by craniosynostosis and dysmorphic features. Some of the patient's features, such as the prominent metopic ridge and facial characteristics, suggest a possible alignment."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "The combination of developmental delays, dysmorphic facial features, and behavioral issues may align with features of Cornelia de Lange syndrome, as seen in similar cases."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "The patient's global developmental delay and behavioral irregularities could also suggest Fragile X syndrome, especially since it often includes speech delays and is commonly associated with varying degrees of intellectual disability."
+    }
+  ]
+}

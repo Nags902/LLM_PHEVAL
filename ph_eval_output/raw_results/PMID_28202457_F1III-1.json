@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:223100",
+      "score": 1.0,
+      "explanation": "The patient presents with phenotypic features closely resembling those in the reference cases for Ataxia-pancytopenia syndrome, including myelodysplasia, pancytopenia, recurrent infections, cerebellar atrophy, nystagmus, and dysmetria."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Characterized by aplastic anemia and various congenital malformations, Fanconi Anemia can present with myelodysplasia and pancytopenia, which align with the patient\u2019s symptoms, but it may also include additional findings not observed here."
+    },
+    {
+      "disease_name": "Shwachman-Diamond syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.33,
+      "explanation": "This condition involves bone marrow dysfunction leading to cytopenias, and can include myelodysplasia and recurrent infections, making it relevant to the presented clinical picture."
+    },
+    {
+      "disease_name": "Severe Combined Immunodeficiency (Omenn Syndrome)",
+      "disease_id": "OMIM:603549",
+      "score": 0.25,
+      "explanation": "The reduced immunoglobulin levels, recurrent infections, and cytopenias may suggest a form of immunodeficiency, and although more immunological features would strengthen the diagnosis, it is worth considering."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614301",
+      "score": 1.0,
+      "explanation": "This disease matches all the major phenotypic features presented by the patient and is strongly represented in the similar reference cases."
+    },
+    {
+      "disease_name": "Costello syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.5,
+      "explanation": "Costello syndrome shares several features such as short stature and cardiac abnormalities, though not all features match perfectly."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.33,
+      "explanation": "Noonan syndrome can present with some similar facial features and cardiac anomalies but may not align as closely with respiratory or joint issues."
+    }
+  ]
+}

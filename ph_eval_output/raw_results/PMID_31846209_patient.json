@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual disability with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618012",
+      "score": 1.0,
+      "explanation": "This disease matches a significant number of the patient's phenotypic features including microcephaly, hypotonia, seizures, feeding difficulties, and specific facial dysmorphisms as seen in the reference cases."
+    },
+    {
+      "disease_name": "Holoprosencephaly, syndromic",
+      "disease_id": "OMIM:236100",
+      "score": 0.5,
+      "explanation": "The presence of lobar holoprosencephaly and associated facial features such as hypotelorism and a high palate indicate a syndromic form of holoprosencephaly, which is supported by the similar cases."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:192430",
+      "score": 0.333,
+      "explanation": "Phenotypic features such as feeding difficulties, high palate, and hypotonia correspond with the typical manifestations of 22q11.2 deletion syndrome, characterized by multiple birth defects and neurodevelopmental disorders."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235200",
+      "score": 0.25,
+      "explanation": "The distinctive combination of features including midline facial defects, hypotonia, and cognitive impairment align with Mowat-Wilson syndrome, which may also contribute to the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Syndromic microcephaly",
+      "disease_id": "OMIM:611593",
+      "score": 0.2,
+      "explanation": "Given the presence of microcephaly alongside several other phenotypic features, syndromic microcephaly represents a broad category that could encompass the observed symptoms."
+    }
+  ]
+}

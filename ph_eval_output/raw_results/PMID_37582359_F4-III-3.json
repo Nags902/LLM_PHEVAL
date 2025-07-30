@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniometadiaphyseal Osteosclerosis with Hip Dysplasia",
+      "disease_id": "OMIM:607411",
+      "score": 1.0,
+      "explanation": "This disease matches multiple phenotypic features in the patient, including global developmental delay, facial dysmorphisms, hip dysplasia, characteristic skeletal anomalies, and increased bone mineral density, which closely aligns with the similar reference cases."
+    },
+    {
+      "disease_name": "Osteopetrosis, Autosomal Recessive",
+      "disease_id": "OMIM:259700",
+      "score": 0.5,
+      "explanation": "This condition shares features such as increased bone mineral density and coarse metaphyseal trabecularization, although it may not fully account for all the patient's symptoms."
+    },
+    {
+      "disease_name": "Metaphyseal Dysplasia with Hypertelorism",
+      "disease_id": "OMIM:608489",
+      "score": 0.333,
+      "explanation": "This disease may account for several skeletal abnormalities and facial features noted in the patient, but it is less characterized by developmental delay compared to the top-ranking disease."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:600899",
+      "score": 1.0,
+      "explanation": "This condition is characterized by stage 5 chronic kidney disease and gout, matching the patient's phenotype and supported by multiple similar reference cases."
+    },
+    {
+      "disease_name": "Gout",
+      "disease_id": "OMIM:138200",
+      "score": 0.5,
+      "explanation": "Gout is a common metabolic disorder that can lead to kidney damage and is present in the patient's symptoms; however, it is not a primary cause of kidney disease."
+    },
+    {
+      "disease_name": "Chronic kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:178500",
+      "score": 0.33,
+      "explanation": "While chronic kidney disease can have various genetic factors, this form is less specifically associated with gout as the primary symptom compared to the first-ranked disease."
+    }
+  ]
+}

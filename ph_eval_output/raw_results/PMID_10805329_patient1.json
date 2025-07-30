@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 2",
+      "disease_id": "OMIM:600349",
+      "score": 1.0,
+      "explanation": "The patient presents with multiple symptoms consistent with mitochondrial complex IV deficiency, as evidenced by their significant myopathic abnormalities, heart failure, respiratory issues, and hypotonia, mirroring the two similar reference cases."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 28",
+      "disease_id": "OMIM:616437",
+      "score": 0.5,
+      "explanation": "While the specific presentation differs slightly, the patient exhibits hypotonia, hyporeflexia, and respiratory failure, which are also features seen in muscular dystrophies. Reference case three hints at a muscular dystrophy but with a broader symptom set."
+    },
+    {
+      "disease_name": "Glycogen storage disease type II (Pompe disease)",
+      "disease_id": "OMIM:232300",
+      "score": 0.3333333333333333,
+      "explanation": "Pompe disease should be considered due to its association with cardiomyopathy, hypotonia, and respiratory issues. The overlapping features with the patient's condition could point towards this as a potential diagnosis."
+    },
+    {
+      "disease_name": "Congenital muscular dystrophy, merosin-deficient",
+      "disease_id": "OMIM:606370",
+      "score": 0.25,
+      "explanation": "This condition features hypotonia and muscle weakness from birth, which aligns with the patient's symptoms, though there is less direct correlation with heart and respiratory failures compared to other diseases."
+    }
+  ]
+}

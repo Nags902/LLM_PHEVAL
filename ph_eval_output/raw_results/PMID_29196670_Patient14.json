@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:605284",
+      "score": 1.0,
+      "explanation": "The patient presents with cortical tubers, angiofibromas, and renal angiomyolipomas, all hallmark features of Tuberous sclerosis complex, particularly TSC1, which is consistent with the reference cases provided."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "While the phenotype closely resembles TSC1, TSC2 should still be considered due to the overlapping features, even though reference cases primarily highlighted TSC1."
+    },
+    {
+      "disease_name": "Nevoid basal cell carcinoma syndrome",
+      "disease_id": "OMIM:109400",
+      "score": 0.33,
+      "explanation": "This condition is not as strongly correlated but can include some overlapping features, particularly in terms of skin lesions and potential for tumors, requiring consideration."
+    }
+  ]
+}

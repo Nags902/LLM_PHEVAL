@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:300449",
+      "score": 1.0,
+      "explanation": "The patient presents with similar features of truncal ataxia, absent speech, global developmental delay, and hypotonia, which align closely with the reference case diagnosed with this condition."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:616801",
+      "score": 0.5,
+      "explanation": "While the patient lacks certain features such as cerebellar atrophy, the presence of ataxia, dysmetria, and developmental delays overlaps significantly with those observed in reference cases leading to this diagnosis."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia, Mental Retardation, and Phenotype Heterogeneity",
+      "disease_id": "OMIM:614014",
+      "score": 0.33,
+      "explanation": "The patient's combination of ataxia symptoms, intellectual disability, and developmental delays suggests a broader spectrum of cerebellar disorders, akin to those seen in this disorder."
+    }
+  ]
+}

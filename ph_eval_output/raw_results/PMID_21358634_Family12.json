@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
+      "disease_id": "OMIM:612777",
+      "score": 1.0,
+      "explanation": "This disease is characterized by the presence of self-healing squamous epitheliomas as noted in the similar reference cases."
+    },
+    {
+      "disease_name": "Harrison syndrome",
+      "disease_id": "OMIM:605988",
+      "score": 0.5,
+      "explanation": "This syndrome also features self-healing lesions and arterial abnormalities, although it is less commonly associated with squamous epithelioma specifically."
+    },
+    {
+      "disease_name": "Nevoid basal cell carcinoma syndrome",
+      "disease_id": "OMIM:109400",
+      "score": 0.33,
+      "explanation": "This condition includes the presence of skin abnormalities, including multiple tumors, though it may not specifically feature self-healing epitheliomas."
+    }
+  ]
+}

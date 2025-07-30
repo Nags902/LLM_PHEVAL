@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual Developmental Disorder with Dysmorphic Facies",
+      "disease_id": "OMIM:616097",
+      "score": 1.0,
+      "explanation": "Patient displays strong phenotypic features such as autism, intellectual disability, and prominent fingertip pads which correlate with various known cases of Intellectual Developmental Disorder."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.5,
+      "explanation": "KBG syndrome is characterized by intellectual disability and developmental delays, with phenotypic features like hypoplastic nasal bridge and thick eyebrows present in this patient."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.33,
+      "explanation": "This syndrome involves developmental delays, prominent fingertip pads, and intellectual disability, aligning with the patient's features."
+    },
+    {
+      "disease_name": "X-linked Intellectual Disability Syndromes",
+      "disease_id": "OMIM:300050",
+      "score": 0.25,
+      "explanation": "This encompasses various conditions linked to intellectual disability. The patient's autism and intellectual challenges suggest a genetic component consistent with several X-linked disorders."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "This syndrome presents with a spectrum of developmental delays and physical dysmorphisms similar to the patient\u2019s features, such as the hypoplastic nasal bridge."
+    }
+  ]
+}

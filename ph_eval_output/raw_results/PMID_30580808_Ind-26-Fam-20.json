@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607678",
+      "score": 1.0,
+      "explanation": "The patient presents with seizures, intellectual disability, hypotonia, and EEG abnormalities similar to phenotypic features associated with Dravet syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122047",
+      "score": 0.5,
+      "explanation": "This syndrome is associated with intellectual disability, growth delays, hypotonia, and distinctive facial features including low-set ears and microtia."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333333333,
+      "explanation": "The combination of intellectual disability, distinctive facial features (thin upper lip vermilion, everted lower lip), and hypotonia aligns with the presentation of Smith-Lemli-Opitz syndrome."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Although common features include intellectual disability and autistic behavior, additional specific physical features align with Fragile X syndrome presentations."
+    }
+  ]
+}

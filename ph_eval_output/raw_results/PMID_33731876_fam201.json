@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:300400",
+      "score": 1.0,
+      "explanation": "This disease closely matches the patient's phenotypic features such as EEG burst suppression, various types of seizures, global developmental delay, and severe intellectual disability, aligning with the reference cases."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:300055",
+      "score": 0.5,
+      "explanation": "While it shares several features with the patient's presentation, it is less comprehensive than Developmental and Epileptic Encephalopathy 11 but still a relevant diagnosis given the EEG and seizure types."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "The presence of infantile spasms and hypsarrhythmia aligns with West Syndrome, which is included in the spectrum of epileptic encephalopathies, warranting this diagnosis consideration."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:607128",
+      "score": 0.25,
+      "explanation": "This syndrome presents with multiple seizure types and developmental delays, making it a potential consideration based on the combination of seizures exhibited by the patient."
+    }
+  ]
+}

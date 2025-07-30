@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:613348",
+      "score": 1.0,
+      "explanation": "The presence of continuous spike and waves during slow sleep, focal tonic seizures, and intellectual disability aligns closely with the features observed in similar cases diagnosed with this condition."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:613636",
+      "score": 0.5,
+      "explanation": "This type of encephalopathy is characterized by severe intellectual disability, various seizure types including myoclonic and generalized seizures, and features like hypotonia and hypsarrhythmia, which match the patient's symptoms."
+    },
+    {
+      "disease_name": "Epileptic Encephalopathy",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Considers a broader category of conditions that can manifest with similar severe epilepsy and developmental disruptions, although it may not pinpoint a specific subtype."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual Disability with Dysmorphic Facies (including features consistent with Syndromic Autism)",
+      "disease_id": "OMIM:615296",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match several similar cases diagnosed with intellectual disability and dysmorphic facies, including autistic behavior, developmental delays, and specific facial features."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange syndrome presents with dysmorphic features like thick eyebrows, long eyelashes, and neurodevelopmental delays, aligning with the patient's profile."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182085",
+      "score": 0.333,
+      "explanation": "This syndrome is characterized by developmental delay, intellectual disability, and distinct facial features that may correlate with the patient's presentations."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "It includes features such as developmental disabilities and autistic traits, along with facial dysmorphisms that bear some resemblance to the patient's characteristics."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "The presence of underdeveloped facial features and developmental issues fits within the clinical picture of Noonan syndrome, which may account for some of the observed traits."
+    }
+  ]
+}

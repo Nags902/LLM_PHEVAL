@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615408",
+      "score": 1.0,
+      "explanation": "This disease is relevant due to the significant overlap in phenotypic features including autism and potential related developmental delays or macrocephaly, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:614203",
+      "score": 0.5,
+      "explanation": "Although the patient does not presently show signs of seizures, the reference case demonstrates autism alongside intellectual disability which aligns with this condition."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with autism",
+      "disease_id": "OMIM:618421",
+      "score": 0.333,
+      "explanation": "The presence of autism as the primary symptom points towards a broader neurodevelopmental disorder that encompasses various subtypes associated with autistic traits."
+    }
+  ]
+}

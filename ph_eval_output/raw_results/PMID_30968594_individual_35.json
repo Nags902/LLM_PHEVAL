@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This condition directly correlates with the phenotypic features of clitoral hypertrophy and hyperpigmentation, as demonstrated in multiple similar cases."
+    },
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 11-hydroxylase deficiency",
+      "disease_id": "OMIM:601123",
+      "score": 0.5,
+      "explanation": "While less common, this disorder can also present with similar symptoms due to excess androgen production."
+    },
+    {
+      "disease_name": "Cushing syndrome, adrenal",
+      "disease_id": "OMIM:218000",
+      "score": 0.33,
+      "explanation": "This condition can induce hyperpigmentation and may present with clitoral hypertrophy, though it typically has other distinguishing features."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.25,
+      "explanation": "This condition can lead to hormonal imbalances that might result in similar symptoms, though it is less directly related."
+    }
+  ]
+}

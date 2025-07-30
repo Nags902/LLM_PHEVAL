@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome presents with tall stature, hypotonia, and developmental delay, which aligns closely with the patient's features."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome is characterized by tall stature and developmental delays, providing a good match with the patient's tall stature and global developmental delay."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.33,
+      "explanation": "Williams Syndrome includes hypotonia, developmental delays, and hypermetropia, which are present in the patient's symptoms."
+    },
+    {
+      "disease_name": "Koolen-de Vries Syndrome",
+      "disease_id": "OMIM:610443",
+      "score": 0.25,
+      "explanation": "This syndrome features developmental delays, hypotonia, and recurrent infections, aligning with multiple aspects of the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.2,
+      "explanation": "Coffin-Lowry Syndrome includes features such as intellectual disability and hypotonia, which are relevant to the patient's condition."
+    }
+  ]
+}

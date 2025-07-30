@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 114",
+      "disease_id": "OMIM:617171",
+      "score": 1.0,
+      "explanation": "The patient exhibits significant overlap with the phenotypic features seen in multiple reference cases diagnosed with this disorder, including seizures, hypotonia, global developmental delay, and cerebral atrophy."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "The combination of developmental delay, autism-like behavior, hypotonia, and seizures aligns with the features of Phelan-McDermid Syndrome, which may also present with similar craniofacial features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.3333,
+      "explanation": "This syndrome can manifest with developmental delays, intellectual disability, and physical anomalies, which may correlate with the patient's observed features and behaviors."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Combined oxidative phosphorylation deficiency 59",
+      "disease_id": "OMIM:614283",
+      "score": 1.0,
+      "explanation": "This disease is characterized by the combination of symptoms present in the patient, such as apnea, vomiting, retinal degeneration, heart failure, developmental delays, and reduced mitochondrial complex activity, mirroring the similar cases."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:614202",
+      "score": 0.5,
+      "explanation": "Although this disease primarily features hepatocerebral symptoms, the presence of developmental delay and feeding difficulties aligns with the patient's symptoms, suggesting a mitochondrial etiology."
+    },
+    {
+      "disease_name": "Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia (MLASA)",
+      "disease_id": "OMIM:608080",
+      "score": 0.333,
+      "explanation": "The mitochondrial involvement and lactic acidosis risk connect this disease with some of the patient's symptoms, particularly global developmental delay and feeding difficulties."
+    }
+  ]
+}

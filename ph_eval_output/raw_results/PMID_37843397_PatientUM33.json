@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 2",
+      "disease_id": "OMIM:608594",
+      "score": 1.0,
+      "explanation": "The presence of Type II diabetes mellitus, pancreatitis, and various forms of lipodystrophy closely matches with the reference cases, which were diagnosed with this specific condition."
+    },
+    {
+      "disease_name": "Lipodystrophy, familial generalized",
+      "disease_id": "OMIM:608392",
+      "score": 0.5,
+      "explanation": "While less common than familial partial lipodystrophy, the phenotypic features including hepatic steatosis, diabetes, and abnormal triglyceride/cholesterol levels could also correspond to generalized forms of lipodystrophy."
+    },
+    {
+      "disease_name": "Type 2 Diabetes Mellitus due to Lipodystrophy",
+      "disease_id": "OMIM:125853",
+      "score": 0.33,
+      "explanation": "Type 2 diabetes can be secondary to lipodystrophy, and given the concurrent metabolic abnormalities, this diagnosis cannot be ruled out."
+    },
+    {
+      "disease_name": "Congenital Lipodystrophy",
+      "disease_id": "OMIM:604373",
+      "score": 0.25,
+      "explanation": "Despite patient age, certain congenital forms of lipodystrophy may still present with similar symptoms, but typically would arise earlier in life."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dandy-Walker Malformation",
+      "disease_id": "OMIM:221800",
+      "score": 1.0,
+      "explanation": "This condition often presents with microcephaly, developmental delay, and feeding difficulties, aligning well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "This genetic disorder is characterized by microcephaly, developmental delays, and distinctive physical features, correlating closely with the patient's observed phenotypes."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.33,
+      "explanation": "This syndrome displays microcephaly, intellectual disability, and feeding issues, similar to the patient; its features align with the child's phenotype."
+    },
+    {
+      "disease_name": "Kallmann Syndrome",
+      "disease_id": "OMIM:308700",
+      "score": 0.25,
+      "explanation": "Though primarily related to developmental issues and potential anosmia, this syndrome can also present with feeding difficulties and developmental delays, which match the patient's symptoms."
+    },
+    {
+      "disease_name": "14q32 Deletion Syndrome",
+      "disease_id": "OMIM:611490",
+      "score": 0.2,
+      "explanation": "Presents with features like developmental delay, microcephaly, and other associated abnormalities, making it relevant to the phenotypes observed."
+    }
+  ]
+}

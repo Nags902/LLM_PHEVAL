@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:615368",
+      "score": 1.0,
+      "explanation": "This syndrome matches the patient's astigmatism, delayed speech, and gross motor development, and similar cases have indicated related phenotypic features."
+    },
+    {
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:618176",
+      "score": 0.5,
+      "explanation": "Although this is a broader category, the motor and speech delays align with the patient's symptoms, despite the lack of seizures in this case."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.33,
+      "explanation": "Aicardi syndrome presents with similar neurological and developmental symptoms, including ventriculomegaly, but it may not completely align with all phenotypes."
+    }
+  ]
+}

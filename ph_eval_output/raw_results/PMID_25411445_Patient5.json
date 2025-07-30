@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 28",
+      "disease_id": "OMIM:618132",
+      "score": 1.0,
+      "explanation": "The phenotypic features presented closely match those observed in previous cases diagnosed with Developmental and Epileptic Encephalopathy 28, indicating a strong likelihood."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Features such as increased nuchal translucency, seizures, and cerebral abnormalities align with Aicardi syndrome, although not all clinical data perfectly match."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:605284",
+      "score": 0.3333333333333333,
+      "explanation": "The presence of seizures, global developmental delay, and signs of cerebral atrophy could suggest Tuberous Sclerosis Complex, albeit less likely than Developmental and Epileptic Encephalopathy 28."
+    },
+    {
+      "disease_name": "KCNQ2-related Epileptic Encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "The combination of epilepsy and developmental delay may suggest a KCNQ2-related disorder, though specifics such as nuchal translucency are not directly linked."
+    },
+    {
+      "disease_name": "Pachygyria",
+      "disease_id": "OMIM:601148",
+      "score": 0.2,
+      "explanation": "Cerebral atrophy and developmental delay are common features of Pachygyria, but it is a less specific fit compared to the primary candidates listed."
+    }
+  ]
+}

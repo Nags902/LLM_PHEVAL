@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental Disorder with Variable Brain Abnormalities",
+      "disease_id": "OMIM:616127",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of the cases analyzed, including cognitive delays and brain structure anomalies."
+    },
+    {
+      "disease_name": "Pachygyria",
+      "disease_id": "OMIM:607421",
+      "score": 0.5,
+      "explanation": "Some symptoms such as cerebral atrophy and seizure activity align with this condition which involves abnormal folds in the cerebral cortex."
+    },
+    {
+      "disease_name": "Microcephaly with Lissencephaly",
+      "disease_id": "OMIM:617610",
+      "score": 0.33,
+      "explanation": "Though not all symptoms perfectly align, the global developmental delay and cerebral abnormalities may suggest a related disorder."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.25,
+      "explanation": "This syndrome includes features such as intellectual disability and delayed milestones, relevant to the patient's developmental profile."
+    },
+    {
+      "disease_name": "Syndrome X",
+      "disease_id": "OMIM:608029",
+      "score": 0.2,
+      "explanation": "The combination of spastic diplegia, short stature, and other developmental delays can be associated with Syndrome X."
+    }
+  ]
+}

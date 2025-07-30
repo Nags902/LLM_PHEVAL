@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient presents with freckling as a notable phenotypic feature, which is associated with Neurofibromatosis type 1, given the similarities to the reference cases that all indicate this condition."
+    },
+    {
+      "disease_name": "McCune-Albright Syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.5,
+      "explanation": "This syndrome can present with skin pigmentation abnormalities, including freckling and cafe-au-lait spots, though it is less common than Neurofibromatosis type 1."
+    },
+    {
+      "disease_name": "Carney Complex",
+      "disease_id": "OMIM:608355",
+      "score": 0.333,
+      "explanation": "Carney Complex may also feature skin pigmentation and freckling, though it is associated with additional features such as myxomas and endocrine abnormalities, making it less likely than Neurofibromatosis."
+    }
+  ]
+}

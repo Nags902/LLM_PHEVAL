@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniometaphyseal dysplasia",
+      "disease_id": "OMIM:123000",
+      "score": 1.0,
+      "explanation": "The patient's symptoms include elevated alkaline phosphatase, cortical thickening of long bones, proptosis, ptosis, and prominent forehead which align closely with the features seen in cases of Craniometaphyseal dysplasia."
+    },
+    {
+      "disease_name": "Hyperostosis frontalis interna",
+      "disease_id": "OMIM:611640",
+      "score": 0.5,
+      "explanation": "The hyperostosis and proptosis are suggestive of Hyperostosis frontal is interna, although the combination of features like hypocalcemia and bone pain is less typical."
+    },
+    {
+      "disease_name": "Paget disease of bone",
+      "disease_id": "OMIM:602080",
+      "score": 0.333,
+      "explanation": "Paget disease may present with bone pain and cortical thickening, similar to some features in the patient, but lacks the overall combination of findings."
+    }
+  ]
+}

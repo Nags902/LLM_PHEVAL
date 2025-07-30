@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:601410",
+      "score": 1.0,
+      "explanation": "Bardet-Biedl Syndrome presents with polydactyly, intellectual disability, and often includes recurrent infections as a consequence of renal involvement."
+    },
+    {
+      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by postaxial polydactyly and intellectual disability, which align with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.33,
+      "explanation": "Although primarily linked with developmental delays and intellectual disabilities, it can also be associated with polydactyly, which fits with the patient's symptoms."
+    },
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 0.25,
+      "explanation": "This condition is associated with neurological deficits and polydactyly and may include recurrent infections due to renal complications."
+    }
+  ]
+}

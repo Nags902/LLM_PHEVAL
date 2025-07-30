@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:603247",
+      "score": 1.0,
+      "explanation": "The patient presents with Stage 5 chronic kidney disease, which is commonly associated with tubulointerstitial kidney diseases. Reference cases have all been diagnosed with this specific condition, indicating a strong likelihood."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease - nephronophthisis type 2",
+      "disease_id": "OMIM:606129",
+      "score": 0.5,
+      "explanation": "While primarily characterized by kidney issues, this condition can lead to chronic kidney disease stages, similar to the presented case. Its autosomal dominant inheritance pattern aligns with the reference cases."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "This rare genetic disorder includes various phenotypic features such as kidney disease; however, it typically presents with additional anomalies that may not be evident at this stage of diagnosis."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease",
+      "disease_id": "OMIM:174000",
+      "score": 0.25,
+      "explanation": "This condition results in chronic kidney disease due to cyst formation but is less directly correlated with the phenotypic feature of merely Stage 5 CKD compared to the primary condition."
+    },
+    {
+      "disease_name": "Hereditary nephritis",
+      "disease_id": "OMIM:304100",
+      "score": 0.2,
+      "explanation": "Hereditary nephritis presents with progressive kidney failure but has additional features that may help refine diagnosis; still relevant due to genetic links."
+    }
+  ]
+}

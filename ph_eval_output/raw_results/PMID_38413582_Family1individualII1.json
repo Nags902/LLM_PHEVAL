@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:615271",
+      "score": 1.0,
+      "explanation": "The patient presents with multiple phenotypic features highly consistent with limb-girdle muscular dystrophy, as evidenced by proximal and distal muscle weakness, elevated creatine kinase, Gowers sign, and limb joint contracture, matching closely with similar reference cases."
+    },
+    {
+      "disease_name": "Muscular dystrophy, Duchenne",
+      "disease_id": "OMIM:310200",
+      "score": 0.5,
+      "explanation": "While the features presented align closely to limb-girdle muscular dystrophy, some findings such as calf muscle pseudohypertrophy and Gowers sign are also indicative of Duchenne muscular dystrophy, although not all classical features are present."
+    },
+    {
+      "disease_name": "Spinal muscular atrophy",
+      "disease_id": "OMIM:253300",
+      "score": 0.33,
+      "explanation": "The combination of weakness, motor delay, and gait abnormalities suggests a possible form of spinal muscular atrophy, but the presence of elevated creatine kinase and contractures leans toward muscular dystrophy being more likely."
+    },
+    {
+      "disease_name": "Myopathy due to myotubular myopathy",
+      "disease_id": "OMIM:310200",
+      "score": 0.25,
+      "explanation": "Characteristic findings like proximal weakness and motor delay could align with myotubular myopathy, yet the elevated creatine kinase and pseudo-hypertrophy are more fitting for muscular dystrophies."
+    }
+  ]
+}

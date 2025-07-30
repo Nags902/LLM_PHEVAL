@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:613100",
+      "score": 1.0,
+      "explanation": "This condition is characterized by nystagmus, reduced visual acuity, and macular atrophy, all of which are present in this patient. The reference cases provide strong similarities with phenotypic features."
+    },
+    {
+      "disease_name": "Macular dystrophy",
+      "disease_id": "OMIM:608637",
+      "score": 0.5,
+      "explanation": "This disease encompasses reduced visual acuity and macular atrophy. The reference cases show similar features, especially with respect to macular condition and visual acuity, making it a plausible diagnosis."
+    }
+  ]
+}

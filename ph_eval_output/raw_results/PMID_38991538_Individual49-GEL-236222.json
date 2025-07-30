@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual Developmental Disorder, Autosomal Dominant 21",
+      "disease_id": "OMIM:615403",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features align closely with the symptoms observed in similar cases, particularly global developmental delay, gastroesophageal reflux, and microcephaly."
+    },
+    {
+      "disease_name": "Intellectual Developmental Disorder with Dysmorphic Facies and Behavioral Abnormalities",
+      "disease_id": "OMIM:615349",
+      "score": 0.5,
+      "explanation": "Several key features of the patient match with this disorder, including seizures, short stature, and various facial dysmorphisms such as a high forehead and tented philtrum."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:601151",
+      "score": 0.33,
+      "explanation": "Although less common, the presence of developmental delay, obesity (potential future risk), and facial features could suggest this syndrome, especially given overlaps with developmental disorders."
+    }
+  ]
+}

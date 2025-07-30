@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy",
+      "disease_id": "OMIM:615234",
+      "score": 1.0,
+      "explanation": "This disease closely aligns with the patient's presentation, sharing multiple phenotypic features such as global developmental delay, intellectual disability, nonprogressive encephalopathy, spasticity, and EEG abnormalities."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:615234",
+      "score": 0.5,
+      "explanation": "This diagnosis matches several of the patient's features including global developmental delay, profound intellectual disability, and absent speech, although it does not fully capture the entire clinical picture."
+    },
+    {
+      "disease_name": "KCNQ2-related disorders",
+      "disease_id": "OMIM:602732",
+      "score": 0.33,
+      "explanation": "This condition can encompass symptoms such as developmental delay, hypotonia, and intellectual disability, which are present in this patient, despite lacking a direct match to all observed features."
+    }
+  ]
+}

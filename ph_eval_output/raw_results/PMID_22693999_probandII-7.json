@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 6",
+      "disease_id": "OMIM:105120",
+      "score": 1.0,
+      "explanation": "The patient exhibits amyloidosis of peripheral nerves and chronic diarrhea, which aligns closely with the symptoms presented in similar reference cases, all leading to a diagnosis of hereditary systemic amyloidosis."
+    },
+    {
+      "disease_name": "Amyloidosis, localized, with peripheral neuropathy",
+      "disease_id": "OMIM:605146",
+      "score": 0.5,
+      "explanation": "While less common, localized amyloidosis can cause peripheral neuropathy and may also contribute to gastrointestinal issues, though it's less definitive than hereditary systemic amyloidosis."
+    },
+    {
+      "disease_name": "Familial Mediterranean fever",
+      "disease_id": "OMIM:249100",
+      "score": 0.33,
+      "explanation": "Familial Mediterranean fever can be associated with amyloidosis and may lead to chronic diarrhea, albeit the primary presentation is uncharacteristic for this patient\u2019s primary symptoms."
+    }
+  ]
+}

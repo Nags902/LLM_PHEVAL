@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Contractural arachnodactyly, congenital",
+      "disease_id": "OMIM:121500",
+      "score": 1.0,
+      "explanation": "The patient presents with multiple phenotypic features including crumpled ears, arachnodactyly, camptodactyly, and cardiovascular anomalies (aortic root aneurysm and mitral valve prolapse), which align closely with the features observed in cases diagnosed with Contractural arachnodactyly."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "The presence of arachnodactyly, scoliosis, and cardiovascular issues makes Marfan Syndrome a consideration, although crumpled ear is less characteristic."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Hypermobile Type",
+      "disease_id": "OMIM:130020",
+      "score": 0.33,
+      "explanation": "This syndrome can involve joint contractures and other features, however, the specific combination of features leading to cardiovascular involvement is less typical."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome includes aortic aneurysms and skeletal features, but the presence of camptodactyly and crumpled ears is less commonly associated."
+    }
+  ]
+}

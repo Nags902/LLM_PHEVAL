@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:611128",
+      "score": 1.0,
+      "explanation": "This disease presents with symptoms closely matching the patient, including chronic kidney disease, hyperuricemia, and proteinuria, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:601340",
+      "score": 0.5,
+      "explanation": "This disease shares similar features with the patient, including chronic kidney disease and hyperuricemia. It's ranked second due to fewer references compared to the first."
+    }
+  ]
+}

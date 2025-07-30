@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:613002",
+      "score": 1.0,
+      "explanation": "The patient's presentation of seizures, global developmental delay, hypoplasia of the corpus callosum, and progressive microcephaly aligns closely with the features seen in this condition."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, congenital muscular dystrophy with hypoplasia of the corpus callosum",
+      "disease_id": "OMIM:607847",
+      "score": 0.5,
+      "explanation": "This condition involves developmental delay, developmental brain anomalies, and microcephaly, which are similar features presented by the patient."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
+      "disease_id": "OMIM:615456",
+      "score": 0.333,
+      "explanation": "The global developmental delay, hypoplasia of the corpus callosum, and microcephaly are similar to this disorder, emphasizing the neurodevelopmental aspect."
+    }
+  ]
+}

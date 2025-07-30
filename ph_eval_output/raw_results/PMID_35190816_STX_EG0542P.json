@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:615156",
+      "score": 1.0,
+      "explanation": "The patient's presentation closely matches the features observed in previously diagnosed cases of Developmental and Epileptic Encephalopathy 4, which includes infantile spasms, focal impaired awareness, generalized seizures, hypotonia, and hypsarrhythmia."
+    },
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:604989",
+      "score": 0.5,
+      "explanation": "Ohtahara syndrome is characterized by the presence of infantile spasms, hypsarrhythmia, and significant developmental delay, which aligns with the patient's phenotypic features and EEG findings."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "The occurrence of infantile spasms and hypsarrhythmia in the patient is indicative of West Syndrome, a condition closely related to developmental and epileptic encephalopathies."
+    }
+  ]
+}

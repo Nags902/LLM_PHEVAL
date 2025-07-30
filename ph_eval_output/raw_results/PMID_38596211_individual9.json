@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient presents with axillary freckling, inguinal freckling, and a few caf\u00e9-au-lait spots, which aligns well with the diagnostic criteria for Neurofibromatosis type 1 as seen in the reference cases."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While Neurofibromatosis type 2 is less commonly associated with freckling compared to type 1, it is still a consideration due to the genetic overlaps between the two subtypes."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.33,
+      "explanation": "This syndrome can present with caf\u00e9-au-lait spots and may explain some pigmentation features, though it typically presents with more systemic manifestations."
+    }
+  ]
+}

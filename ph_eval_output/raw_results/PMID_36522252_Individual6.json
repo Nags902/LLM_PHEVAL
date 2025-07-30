@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:617203",
+      "score": 1.0,
+      "explanation": "The case similarities strongly align with the patient's phenotypic features such as motor delay, global developmental delay, profound intellectual disability, hyporeflexia, and additional craniofacial anomalies."
+    },
+    {
+      "disease_name": "Congenital Muscular Dystrophy with Brain Involvement",
+      "disease_id": "OMIM:613334",
+      "score": 0.5,
+      "explanation": "The significant hypotonia, global developmental delay, seizures, and additional craniofacial features suggest a muscular dystrophy variant with neurological involvement."
+    },
+    {
+      "disease_name": "Cerebro-oculo-facio-skeletal syndrome",
+      "disease_id": "OMIM:300099",
+      "score": 0.333333333,
+      "explanation": "The presence of hirsutism, high palate, and developmental delays with other neurological symptoms could suggest a syndrome related to craniofacial and neurological features."
+    }
+  ]
+}

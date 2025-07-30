@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:600140",
+      "score": 1.0,
+      "explanation": "This disease matches the majority of the patient's phenotypic features including jaundice, hypotonia, feeding difficulties, depletion of mitochondrial DNA in the liver, and abnormalities of the coagulation cascade, as evidenced by similar reference cases."
+    },
+    {
+      "disease_name": "Mitochondrial myopathy with lactic acidosis and mtDNA depletion",
+      "disease_id": "OMIM:603026",
+      "score": 0.5,
+      "explanation": "Although not all symptoms are present, there are overlaps with the depletion of mitochondrial DNA and feeding difficulties, making this condition a potential consideration."
+    },
+    {
+      "disease_name": "Alpers syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.333,
+      "explanation": "This syndrome can present with neurological issues, hypotonia, and liver dysfunction, aligning with some of the patient's symptoms, but is less specific than mitochondrial DNA depletion syndrome."
+    }
+  ]
+}

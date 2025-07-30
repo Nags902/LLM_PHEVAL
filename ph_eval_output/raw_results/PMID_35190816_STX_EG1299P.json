@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:613170",
+      "score": 1.0,
+      "explanation": "This disease is characterized by similar phenotypic features including EEG slowing, truncal ataxia, developmental delay, and hypotonia, closely matching the patient's symptoms."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:618132",
+      "score": 0.5,
+      "explanation": "Involves global developmental delay and speech delays, which align with the patient's delayed speech and global developmental challenges."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:601830",
+      "score": 0.33,
+      "explanation": "This condition includes strabismus, developmental delays, and hypotonia; thus, it may present in ways similar to the patient, though less directly than the first two."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615454",
+      "score": 1.0,
+      "explanation": "The patient presents with several key features such as macrocephaly, autism, and intellectual disability, all of which align with cases that have been diagnosed under this category."
+    },
+    {
+      "disease_name": "Seckel syndrome",
+      "disease_id": "OMIM:263500",
+      "score": 0.5,
+      "explanation": "Seckel syndrome is characterized by microcephaly but can present with other neurological features such as seizures and developmental delays, which aligns with some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Meier-Gorlin syndrome",
+      "disease_id": "OMIM:613362",
+      "score": 0.333,
+      "explanation": "While primarily associated with growth deficiencies, it may overlap with features like tall stature and other developmental anomalies seen in the patient's profile, although less relevant."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "This syndrome includes tall stature and intellectual disability among other features, though the primary symptoms of autism and macrocephaly are less prevalent in this condition."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leukoencephalopathy, porphyria-related",
+      "disease_id": "OMIM:260690",
+      "score": 1.0,
+      "explanation": "This condition shares multiple phenotypic features with the patient, including loss of ambulation, cognitive impairment, optic atrophy, and increased CSF lactate, aligning closely with all presented cases."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:616090",
+      "score": 0.5,
+      "explanation": "Though less directly correlated, the presence of nystagmus, ataxia, and delayed ability to walk in the patient aligns with the features of this condition seen in a similar case."
+    },
+    {
+      "disease_name": "Leukoencephalopathy",
+      "disease_id": "OMIM:125950",
+      "score": 0.33,
+      "explanation": "Additional types of leukoencephalopathy should be considered, as the patient's presentation fits several overlapping features indicative of leukodystrophic syndromes."
+    }
+  ]
+}

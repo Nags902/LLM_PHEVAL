@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 9",
+      "disease_id": "OMIM:614907",
+      "score": 1.0,
+      "explanation": "The patient exhibits multiple phenotypic features such as bilateral tonic-clonic seizures, intellectual disability, and delayed speech, closely matching the reference cases of patients diagnosed with this condition."
+    },
+    {
+      "disease_name": "Epilepsy, Early-Onset, 3",
+      "disease_id": "OMIM:614906",
+      "score": 0.5,
+      "explanation": "The presentation of bilateral tonic-clonic seizures and the developmental delays suggests a strong possibility of this early-onset epilepsy, which shares similarities with the patient's features."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "The combination of seizures and developmental delays may be indicative of Dravet Syndrome, which is characterized by severe developmental problems and various seizure types."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Although not perfectly matching, the intellectual disability and delayed speech can suggest Angelman Syndrome due to its association with seizures and other cognitive impairments."
+    }
+  ]
+}

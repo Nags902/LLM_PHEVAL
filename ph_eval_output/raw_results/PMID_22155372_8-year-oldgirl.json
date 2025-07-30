@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT Syndrome 3",
+      "disease_id": "OMIM:612335",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of paroxysmal atrial fibrillation and shortened QT interval are strongly aligned with the clinical presentation of Short QT syndrome 3, which is supported by multiple similar reference cases."
+    },
+    {
+      "disease_name": "Short QT Syndrome 1",
+      "disease_id": "OMIM:609621",
+      "score": 0.5,
+      "explanation": "While the patient presents with features indicative of Short QT syndrome, the specific characteristics and absence of other defining features lead to a lower likelihood compared to Short QT syndrome 3."
+    },
+    {
+      "disease_name": "Short QT Syndrome 2",
+      "disease_id": "OMIM:611978",
+      "score": 0.33,
+      "explanation": "Similar to Short QT syndrome 1, this subtype could be considered, although the pattern of symptoms and known cases are not as strong as that of Short QT syndrome 3."
+    }
+  ]
+}

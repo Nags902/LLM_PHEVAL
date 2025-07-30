@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 9",
+      "disease_id": "OMIM:614557",
+      "score": 1.0,
+      "explanation": "This disease fits the presentation of bilateral tonic-clonic seizures, moderate intellectual disability, and autism as seen in the reference cases provided."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:605284",
+      "score": 0.5,
+      "explanation": "This condition often presents with seizures, autism, and intellectual disability, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "This syndrome is characterized by intellectual disability and seizures and can also include autistic features."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607451",
+      "score": 0.25,
+      "explanation": "Dravet syndrome is marked by early-onset seizures, often tonic-clonic, and can include developmental delays and autistic traits."
+    }
+  ]
+}

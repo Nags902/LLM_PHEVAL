@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:617626",
+      "score": 1.0,
+      "explanation": "The patient presents with a constellation of symptoms like proximal and distal muscle weakness, calf muscle pseudohypertrophy, elevated creatine kinase levels, Gowers sign, and respiratory insufficiency, all of which are highly consistent with cases of limb-girdle muscular dystrophy. This aligns closely with the reference cases that exhibit similar features."
+    },
+    {
+      "disease_name": "Muscular dystrophy, Duchenne",
+      "disease_id": "OMIM:310200",
+      "score": 0.5,
+      "explanation": "The presentation of proximal muscle weakness, elevated creatine kinase, and Gowers sign suggests a possible diagnosis of Duchenne muscular dystrophy. This condition typically manifests with more severe symptoms and earlier onset, but the overlapping symptoms warrant its consideration."
+    },
+    {
+      "disease_name": "Myotonic dystrophy type 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.33,
+      "explanation": "While less likely, myotonic dystrophy type 1 can also cause muscle weakness and respiratory issues. The presence of motor delays and proximal weakness makes it a possibility, although less directly correlating with the specific symptoms presented."
+    },
+    {
+      "disease_name": "Congenital myopathy",
+      "disease_id": "OMIM:160900",
+      "score": 0.25,
+      "explanation": "Congenital myopathies may also present similarly with muscle weakness and developmental delays, but the distinct features in this case lean more towards muscular dystrophies."
+    }
+  ]
+}

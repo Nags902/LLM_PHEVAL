@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, autosomal recessive 124",
+      "disease_id": "OMIM:601158",
+      "score": 1.0,
+      "explanation": "This condition is directly associated with sensorineural hearing impairment, matching the patient's primary symptom."
+    },
+    {
+      "disease_name": "Deafness, autosomal recessive 15",
+      "disease_id": "OMIM:610135",
+      "score": 0.5,
+      "explanation": "Although the patient only presents with sensorineural hearing impairment, this condition is relevant due to the presence of similar cases exhibiting this phenotype."
+    }
+  ]
+}

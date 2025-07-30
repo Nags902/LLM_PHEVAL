@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:300139",
+      "score": 1.0,
+      "explanation": "This disease is characterized by intellectual disability and delayed speech and language development, which closely align with the patient's symptoms."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300140",
+      "score": 0.5,
+      "explanation": "This condition shares several phenotypic features with the patient, such as delayed speech and language development and intellectual disability."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 82",
+      "disease_id": "OMIM:617370",
+      "score": 0.33,
+      "explanation": "While this disorder includes similar features like intellectual disability and delay, it also shows additional complications not observed in the patient, resulting in a lower likelihood ranking."
+    }
+  ]
+}

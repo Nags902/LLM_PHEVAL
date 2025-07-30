@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:613206",
+      "score": 1.0,
+      "explanation": "The patient presents with infantile spasms, focal motor seizures, global developmental delay, inability to walk, absent speech, and hypsarrhythmia, all of which closely resemble the clinical presentation seen in this disorder."
+    },
+    {
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:300318",
+      "score": 0.5,
+      "explanation": "The presence of global developmental delay and seizures aligns with this condition, as seen in reference cases, although the exact etiology may vary widely."
+    }
+  ]
+}

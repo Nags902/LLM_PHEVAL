@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2",
+      "disease_id": "OMIM:300423",
+      "score": 1.0,
+      "explanation": "The patient's clinical features closely match those seen in cases of Emery-Dreifuss muscular dystrophy 2, including contractures, muscle weakness, elevated CK levels, and cardiac complications."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "Similar to Emery-Dreifuss muscular dystrophy 2, this disease variant shares significant phenotypic overlap such as muscle weakness, contractures, and cardiac issues, though specific genetic mutations may differ."
+    },
+    {
+      "disease_name": "Myofibrillar myopathy",
+      "disease_id": "OMIM:601469",
+      "score": 0.333,
+      "explanation": "Myofibrillar myopathy may present with similar proximal weakness, muscle rigidity, and elevated CK levels; however, the presence of arrhythmia may not be as common."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy",
+      "disease_id": "OMIM:159000",
+      "score": 0.25,
+      "explanation": "Limb-girdle muscular dystrophies can cause weakness and contractures, but the prominence of cardiac issues and the specific combination of features seen in this patient points more towards Emery-Dreifuss."
+    },
+    {
+      "disease_name": "Spinal muscular atrophy",
+      "disease_id": "OMIM:253300",
+      "score": 0.2,
+      "explanation": "While this condition can cause muscle weakness and related symptoms, it does not typically present with elevated CK or the specific cardiac issues seen in this case."
+    }
+  ]
+}

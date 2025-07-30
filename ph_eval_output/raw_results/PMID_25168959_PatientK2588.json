@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:601215",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features match closely with the symptoms observed in multiple reference cases of Coffin-Siris syndrome, especially with short stature, intellectual disability, microcephaly, and abnormal corpus callosum morphology."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:609413",
+      "score": 0.5,
+      "explanation": "This condition features some overlapping symptoms such as intellectual disability, obesity, and polycystic kidneys, which could partly explain the macrocephaly and developmental delays, though some features are not entirely consistent."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "The features of intellectual disability, microcephaly, and feeding difficulties are relevant; however, the specific pointing features of Coffin-Siris syndrome are more pronounced."
+    }
+  ]
+}

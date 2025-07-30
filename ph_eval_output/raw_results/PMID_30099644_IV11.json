@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613256",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of reduced visual acuity, abnormal electroretinogram, and retinal pigment epithelial mottling closely match those of the similar case diagnosed with Leber congenital amaurosis."
+    },
+    {
+      "disease_name": "Retinitis pigmentosa 11",
+      "disease_id": "OMIM:614154",
+      "score": 0.5,
+      "explanation": "While the patient lacks explicit symptoms like nyctalopia and bone spicule pigmentation, the similarity in reduced visual acuity and abnormal electroretinogram suggests a possible underlying retinal dystrophy."
+    },
+    {
+      "disease_name": "Macular dystrophy with or without cone dysfunction",
+      "disease_id": "OMIM:248200",
+      "score": 0.333,
+      "explanation": "The presence of retinal pigment epithelial mottling and reduced visual acuity aligns with this macular dystrophy, although additional specific symptoms would further clarify the diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia, early-onset, with oculomotor apraxia",
+      "disease_id": "OMIM:275290",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those of early-onset ataxia with oculomotor apraxia as seen in reference cases."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Ataxia-telangiectasia presents with ataxia and hyporeflexia, although gaze palsy is less common."
+    },
+    {
+      "disease_name": "Friedreich's ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.33,
+      "explanation": "Friedreich's ataxia includes ataxia and sensorimotor features but may lack the specific gaze palsy."
+    },
+    {
+      "disease_name": "Wilson disease",
+      "disease_id": "OMIM:277900",
+      "score": 0.25,
+      "explanation": "Wilson disease can cause neurological symptoms like ataxia and dysarthria; hypoalbuminemia may be a secondary effect."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:614200",
+      "score": 1.0,
+      "explanation": "The patient presents with continuous spike and waves during slow sleep, epileptic encephalopathy, and focal tonic seizures, which matches the phenotypic features closely seen in DEE11."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:614201",
+      "score": 0.5,
+      "explanation": "The presence of infantile spasms, global developmental delay, and hypsarrhythmia in the patient aligns well with the characteristics of DEE4, despite minimal overlapping features."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "The diagnosis includes infantile spasms and hypsarrhythmia, which are defining features of West Syndrome, even though it does not fully account for all symptoms."
+    }
+  ]
+}

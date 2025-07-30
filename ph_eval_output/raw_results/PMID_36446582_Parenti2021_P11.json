@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient presents with several key features seen in KBG syndrome, including intellectual disability, global developmental delay, thick eyebrows, long philtrum, synophrys, and feeding difficulties."
+    },
+    {
+      "disease_name": "Intellectual Developmental Disorder with Dysmorphic Facies",
+      "disease_id": "OMIM:610176",
+      "score": 0.5,
+      "explanation": "The patient shows traits common in this disorder, such as intellectual disability, global developmental delay, and dysmorphic facial features, though it's less specific than KBG syndrome."
+    },
+    {
+      "disease_name": "Syndrome X",
+      "disease_id": "OMIM:300000",
+      "score": 0.333,
+      "explanation": "This condition includes various developmental delays and dysmorphic features that align with the patient's presentation, although specific criteria for diagnosis may vary."
+    }
+  ]
+}

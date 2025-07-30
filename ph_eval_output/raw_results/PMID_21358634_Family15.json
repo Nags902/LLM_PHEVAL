@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
+      "disease_id": "OMIM:178060",
+      "score": 1.0,
+      "explanation": "This disease is directly associated with self-healing squamous epithelioma, making it the most relevant diagnosis based on the presented phenotypic feature."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome can present with similar features, including hypertelorism and other developmental anomalies, although not specifically self-healing squamous epithelioma."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.33,
+      "explanation": "This syndrome is associated with arterial tortuosity and could potentially explain some vascular features, but lacks direct association with self-healing squamous epithelioma."
+    }
+  ]
+}

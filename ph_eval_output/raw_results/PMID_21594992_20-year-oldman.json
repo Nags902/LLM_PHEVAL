@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Lipodystrophy Syndrome",
+      "disease_id": "OMIM:613785",
+      "score": 1.0,
+      "explanation": "The patient's features closely resemble those of the cases diagnosed with Marfan Lipodystrophy Syndrome, including high palate, high myopia, ectopia lentis, feeding difficulties, retrognathia, and arachnodactyly."
+    },
+    {
+      "disease_name": "Congenital Lipodystrophy, Berardinelli-Seip Type",
+      "disease_id": "OMIM:605283",
+      "score": 0.5,
+      "explanation": "Generalized lipodystrophy is prominent in the patient, along with feeding difficulties and failure to thrive, which are characteristic of this condition."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Classic Type",
+      "disease_id": "OMIM:130000",
+      "score": 0.333,
+      "explanation": "The hyperextensibility, bruising susceptibility, and arachnodactyly found in the patient could suggest Ehlers-Danlos Syndrome, although not all phenotypic features perfectly align."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "The combination of retrognathia, feeding difficulties, and characteristic facial features gives some support to a diagnosis of Noonan Syndrome."
+    },
+    {
+      "disease_name": "Stickler Syndrome",
+      "disease_id": "OMIM:604841",
+      "score": 0.2,
+      "explanation": "High myopia, ectopia lentis, and prominent facial features are seen in Stickler Syndrome; thus, it is a consideration based on some shared features with the patient's profile."
+    }
+  ]
+}

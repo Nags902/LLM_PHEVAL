@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features match the classic criteria for Neurofibromatosis type 1, which includes plexiform neurofibromas, multiple cafe-au-lait spots, axillary and inguinal freckling, and Lisch nodules."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While Neurofibromatosis type 2 also involves tumors, it is less likely given the specific features of freckling and neurofibromas that are more characteristic of type 1."
+    },
+    {
+      "disease_name": "Schwannomatosis",
+      "disease_id": "OMIM:162091",
+      "score": 0.33,
+      "explanation": "Schwannomatosis could be considered but does not typically present with the same cutaneous features as Neurofibromatosis type 1, making it a less likely match."
+    }
+  ]
+}

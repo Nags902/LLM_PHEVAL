@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:219200",
+      "score": 1.0,
+      "explanation": "The patient's clinical features strongly align with the symptoms commonly associated with Cutis laxa, including joint hypermobility, hypotonia, cutis laxa, and hereditary hernias."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.5,
+      "explanation": "Phenotypic features such as joint hypermobility, thin skin, bruising susceptibility, and hernias are characteristic of Ehlers-Danlos syndrome, making it a plausible option."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:616243",
+      "score": 0.333,
+      "explanation": "Although this syndrome shows some overlapping symptoms with the patient (long philtrum, failure to thrive), the majority of symptoms do not align closely enough for a higher rank."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.25,
+      "explanation": "Marfan syndrome shares features like tall stature, joint hypermobility, and certain craniofacial appearances, but the lack of specific cardiovascular abnormalities reduces its relevancy."
+    }
+  ]
+}

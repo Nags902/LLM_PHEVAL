@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of hypoparathyroidism, aplasia/hypoplasia of the thymus, and T lymphocytopenia align closely with the features of DiGeorge Syndrome, which has been consistently highlighted in similar reference cases."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:611869",
+      "score": 0.5,
+      "explanation": "This disorder is commonly associated with the same phenotypic features found in DiGeorge Syndrome due to the 22q11.2 deletion, which often includes hypoparathyroidism and thymic abnormalities."
+    },
+    {
+      "disease_name": "Adenosine Deaminase Deficiency (ADA Deficiency)",
+      "disease_id": "OMIM:604416",
+      "score": 0.333,
+      "explanation": "Although less common, this condition can present with immunologic deficiencies including T lymphocytopenia. The thymic hypoplasia could potentially provide overlapping symptoms, warranting inclusion."
+    }
+  ]
+}

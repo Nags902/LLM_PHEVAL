@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:192000",
+      "score": 1.0,
+      "explanation": "This disease is characterized by chronic kidney disease and proteinuria, matching the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal recessive",
+      "disease_id": "OMIM:600965",
+      "score": 0.5,
+      "explanation": "Similar to the dominant form, this recessive variant can also present with chronic kidney disease and proteinuria, although it typically has an earlier onset."
+    },
+    {
+      "disease_name": "Cystinosis",
+      "disease_id": "OMIM:219800",
+      "score": 0.333,
+      "explanation": "This rare lysosomal storage disorder can lead to chronic kidney disease and proteinuria and shares some clinical features with the patient's presentation."
+    }
+  ]
+}

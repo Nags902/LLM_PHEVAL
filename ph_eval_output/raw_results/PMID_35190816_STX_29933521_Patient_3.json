@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:614158",
+      "score": 1.0,
+      "explanation": "This condition is directly related to the presentation of epileptic spasms, similar to Case 1."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:614209",
+      "score": 0.5,
+      "explanation": "This disease shares features with patients presenting both epileptic encephalopathy and spasms, as seen in Cases 2 and 3."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "West Syndrome is characterized by infantile spasms, which may be a specific presentation related to the phenotypic feature of epileptic spasms."
+    }
+  ]
+}

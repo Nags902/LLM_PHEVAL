@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 8",
+      "disease_id": "OMIM:614703",
+      "score": 1.0,
+      "explanation": "The patient's clinical features closely match those of Coffin-Siris syndrome 8, particularly the presence of orofacial clefts, intellectual disability, and hypoplasia of the corpus callosum."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:615188",
+      "score": 0.5,
+      "explanation": "This condition is relevant due to overlapping features such as seizures, intellectual disability, and other neurodevelopmental aspects seen in the reference cases."
+    }
+  ]
+}

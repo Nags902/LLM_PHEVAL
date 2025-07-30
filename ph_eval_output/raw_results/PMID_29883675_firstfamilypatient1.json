@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephaly, Polymicrogyria, and Thin Corpus Callosum Syndrome",
+      "disease_id": "OMIM:300057",
+      "score": 1.0,
+      "explanation": "The patient's presentation closely matches the phenotypic features seen in similar cases with microcephaly, polymicrogyria, and thin corpus callosum, indicating a likely genetic syndrome associated with these findings."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Given the combination of microcephaly, polymicrogyria, and absence of speech, Aicardi Syndrome is a consideration, particularly in females, and aligns with some phenotypic features though the patient is male."
+    },
+    {
+      "disease_name": "Fraser Syndrome",
+      "disease_id": "OMIM:219000",
+      "score": 0.33,
+      "explanation": "This syndrome presents with features such as microcephaly and intellectual disability alongside other malformations which may partially correlate with the patient's clinical profile."
+    },
+    {
+      "disease_name": "Holoprosencephaly",
+      "disease_id": "OMIM:236100",
+      "score": 0.25,
+      "explanation": "While not all features match, the cognitive and structural brain abnormalities could fit the spectrum of holoprosencephaly, which may include a profile with concurrent microcephaly and significant neurological findings."
+    }
+  ]
+}

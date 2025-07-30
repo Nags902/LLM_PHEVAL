@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:615156",
+      "score": 1.0,
+      "explanation": "This diagnosis is supported by the presence of dysarthria, intellectual disability (borderline), and impaired tandem gait, which are common phenotypic features seen in cases diagnosed with Spinocerebellar ataxia 29."
+    },
+    {
+      "disease_name": "Cerebral palsy",
+      "disease_id": "OMIM:168900",
+      "score": 0.5,
+      "explanation": "Cerebral palsy could explain the neurological features such as dysarthria and gait impairment, and it aligns with the patient's intellectual disability, although it is broader and less specific."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:608050",
+      "score": 0.3333333333333333,
+      "explanation": "Ataxia-telangiectasia is characterized by ataxia and can include dysarthria and intellectual disability; however, it is more associated with immunodeficiency and telangiectasia than the specific features presented."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyggve-Melchior-Clausen disease",
+      "disease_id": "OMIM:263510",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely align with those observed in Dyggve-Melchior-Clausen disease, particularly the skeletal abnormalities, coarse facial features, and intellectual disability, which were prominent in a similar reference case."
+    },
+    {
+      "disease_name": "Spondyloepiphyseal Dysplasia Congenita",
+      "disease_id": "OMIM:183900",
+      "score": 0.5,
+      "explanation": "This disease features similar skeletal abnormalities including platyspondyly and short limbs which are seen in the patient, although additional features may differ."
+    },
+    {
+      "disease_name": "Achondroplasia",
+      "disease_id": "OMIM:100800",
+      "score": 0.33,
+      "explanation": "While primarily characterized by rhizomelic shortening, it shares some similarities with hip and skeletal abnormalities, but lacks the full spectrum of intellectual disability and craniofacial features present in the patient."
+    },
+    {
+      "disease_name": "Kniest dysplasia",
+      "disease_id": "OMIM:156550",
+      "score": 0.25,
+      "explanation": "This disorder features skeletal dysplasia and some degree of intellectual disability, but presents with different facial characteristics and less severe symptoms overall."
+    }
+  ]
+}

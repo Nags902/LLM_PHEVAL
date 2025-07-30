@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria, Nonresponsive to B6",
+      "disease_id": "OMIM:277400",
+      "score": 1.0,
+      "explanation": "The combination of arachnodactyly, intellectual disability, disproportionate tall stature, and hyperhomocystinemia aligns closely with symptoms seen in Homocystinuria, particularly the more severe, non-responsive type."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Arachnodactyly and tall stature are characteristic features of Marfan Syndrome. However, the presence of intellectual disability and hyperhomocystinemia is less commonly associated."
+    },
+    {
+      "disease_name": "Cystathionine beta-synthase deficiency",
+      "disease_id": "OMIM:605100",
+      "score": 0.33,
+      "explanation": "This condition is directly related to hyperhomocystinemia and features intellectual disability, as well as some skeletal abnormalities, fitting with the patient's symptoms."
+    },
+    {
+      "disease_name": "Kearns-Sayre Syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.25,
+      "explanation": "Though primarily associated with mitochondrial defects and not directly related to hyperhomocystinemia, the neurological manifestations may overlap with intellectual disabilities seen in this patient."
+    }
+  ]
+}

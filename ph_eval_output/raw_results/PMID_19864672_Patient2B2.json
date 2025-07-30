@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency 103, susceptibility to fungal infection",
+      "disease_id": "OMIM:615134",
+      "score": 1.0,
+      "explanation": "The patient's chronic oral candidiasis aligns with previous cases of Immunodeficiency 103, where recurring fungal infections are common due to underlying immune dysfunction."
+    },
+    {
+      "disease_name": "Hyper-IgE Syndrome (Job's Syndrome)",
+      "disease_id": "OMIM:147060",
+      "score": 0.5,
+      "explanation": "This condition is associated with increased IgE levels and susceptibility to various infections, including fungal infections, which may explain the chronic oral candidiasis."
+    },
+    {
+      "disease_name": "Chronic Mucocutaneous Candidiasis",
+      "disease_id": "OMIM:260510",
+      "score": 0.33,
+      "explanation": "Given the presence of chronic oral candidiasis, this condition is a significant consideration, as it specifically involves recurrent candidiasis infections due to immune deficiencies."
+    }
+  ]
+}

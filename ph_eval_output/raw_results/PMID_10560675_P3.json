@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MHC class I deficiency 2",
+      "disease_id": "OMIM:612703",
+      "score": 1.0,
+      "explanation": "The patient presents with chronic sinusitis, bronchitis, rhinitis, and nasal polyposis, similar to the reference cases which also indicated MHC class I deficiency 2 characterized by similar respiratory symptoms."
+    },
+    {
+      "disease_name": "Chronic Granulomatous Disease",
+      "disease_id": "OMIM:306400",
+      "score": 0.5,
+      "explanation": "Given the chronic nature of the infections and respiratory issues, this disease could also be considered due to potential immune system dysfunction leading to chronic respiratory issues."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.33,
+      "explanation": "The chronic sinusitis and respiratory issues may suggest an underlying immunodeficiency, which is characteristic of Common Variable Immunodeficiency."
+    },
+    {
+      "disease_name": "Cystic Fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.25,
+      "explanation": "The presence of bronchitis and sinusitis may point towards cystic fibrosis, which is known for causing respiratory complications due to thick mucus production, although nasal polyposis is less common."
+    }
+  ]
+}

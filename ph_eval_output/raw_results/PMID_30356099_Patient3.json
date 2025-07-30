@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 28",
+      "disease_id": "OMIM:615041",
+      "score": 1.0,
+      "explanation": "The patient's presentation closely matches the phenotypic features observed in multiple reference cases diagnosed with Developmental and Epileptic Encephalopathy 28, characterized by thin corpus callosum, cerebral atrophy, and epileptic spasms."
+    },
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:605150",
+      "score": 0.5,
+      "explanation": "Ohtahara Syndrome is associated with infantile seizures and may include features like global developmental delay and EEG abnormalities, resembling some aspects of the patient's phenotype despite not presenting all classical signs."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "West Syndrome is characterized by infantile spasms and could fit some aspects of the patient's symptoms, including developmental delay and EEG abnormalities, although the details provided do not confirm a full match."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.25,
+      "explanation": "Aicardi Syndrome includes a thin corpus callosum and seizure activity and may be relevant given the phenotypic features, although not all relevant characteristics clearly align with the presented case."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:615618",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features closely match those observed in multiple reference cases of this syndrome, which includes impaired sensory and motor functions, hepatic conditions, and increased CSF protein concentration."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth Disease Type 2",
+      "disease_id": "OMIM:118210",
+      "score": 0.5,
+      "explanation": "This disease involves peripheral neuropathy with features such as distal lower limb muscle weakness and sensory loss, making it a differential diagnosis despite the additional hepatic symptoms present in this case."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy",
+      "disease_id": "OMIM:253300",
+      "score": 0.33,
+      "explanation": "The patient exhibits muscle atrophy and weakness which may indicate a possible spinal muscular atrophy condition, but the presence of hepatic involvement leans more towards mitochondrial disorders."
+    }
+  ]
+}

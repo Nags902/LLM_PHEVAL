@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613199",
+      "score": 1.0,
+      "explanation": "This disease is directly associated with nystagmus, very low visual acuity, and eye poking, matching all the phenotypic features of the patient."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis (other subtypes)",
+      "disease_id": "OMIM:204000",
+      "score": 0.5,
+      "explanation": "Other subtypes of Leber congenital amaurosis may present with similar visual impairments but may also include varied other symptoms. Since they are related, they are ranked next."
+    },
+    {
+      "disease_name": "Rod-cone dystrophy",
+      "disease_id": "OMIM:180120",
+      "score": 0.33,
+      "explanation": "This condition can cause visual impairment and may have overlapping features such as hypermetropia and nystagmus, although other specific symptoms like retinal changes would be expected."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl syndrome can manifest with visual impairment and nystagmus, but it additionally includes multi-systemic features, making it a less fitting diagnosis compared to the others."
+    }
+  ]
+}

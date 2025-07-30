@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Polydactyly, preaxial",
+      "disease_id": "OMIM:174500",
+      "score": 1.0,
+      "explanation": "The presence of both syndactyly and preaxial foot polydactyly aligns with the characteristics of preaxial polydactyly disorders."
+    },
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "This syndrome features polydactyly and syndactyly as key manifestations, making it relevant to the observed phenotypes."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.33,
+      "explanation": "This condition can include various limb malformations including polydactyly and syndactyly, although it's less typical than other syndromes."
+    }
+  ]
+}

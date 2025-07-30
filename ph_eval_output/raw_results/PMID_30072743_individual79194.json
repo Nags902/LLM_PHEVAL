@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber Congenital Amaurosis 6",
+      "disease_id": "OMIM:613825",
+      "score": 1.0,
+      "explanation": "The patient's symptoms closely match those in similar cases, including nystagmus, reduced visual acuity, peripheral retinal atrophy, and bull's eye maculopathy, all of which are characteristic of Leber congenital amaurosis."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 13",
+      "disease_id": "OMIM:613052",
+      "score": 0.5,
+      "explanation": "Although the patient presents similar features such as nystagmus and reduced visual acuity, the specific combination of peripheral retinal atrophy and bull's eye maculopathy leans more towards Leber congenital amaurosis."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa",
+      "disease_id": "OMIM:268000",
+      "score": 0.33,
+      "explanation": "Retinitis pigmentosa is characterized by peripheral retinal atrophy and can present with nystagmus; however, it is less likely due to the specific additional symptoms of bull's eye maculopathy."
+    }
+  ]
+}

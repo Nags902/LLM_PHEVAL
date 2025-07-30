@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniofrontonasal Dysplasia",
+      "disease_id": "OMIM:304110",
+      "score": 1.0,
+      "explanation": "This condition is characterized by hypertelorism, orofacial clefts, and other craniofacial malformations similar to the case presented."
+    },
+    {
+      "disease_name": "Apert Syndrome",
+      "disease_id": "OMIM:101200",
+      "score": 0.5,
+      "explanation": "Apert syndrome presents with orofacial clefts and craniofacial dysmorphism, which can include hypertelorism."
+    },
+    {
+      "disease_name": "Saethre-Chotzen Syndrome",
+      "disease_id": "OMIM:101400",
+      "score": 0.333,
+      "explanation": "This syndrome features hypertelorism and cleft lip, potentially linking to the patient's symptoms."
+    }
+  ]
+}

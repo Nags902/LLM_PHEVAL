@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteogenesis imperfecta, type IX",
+      "disease_id": "OMIM:166220",
+      "score": 1.0,
+      "explanation": "The patient's presentation closely matches the symptoms of Osteogenesis imperfecta, type IX, particularly with osteopenia, recurrent fractures, proptosis, and delayed gross motor development."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type XV",
+      "disease_id": "OMIM:610967",
+      "score": 0.5,
+      "explanation": "This subtype of Osteogenesis imperfecta also presents with osteopenia and recurrent fractures, alongside developmental delays and additional skeletal features similar to those of the patient."
+    },
+    {
+      "disease_name": "Spondyloepimetaphyseal dysplasia, Guo-Campeau type",
+      "disease_id": "OMIM:614092",
+      "score": 0.33,
+      "explanation": "Includes features such as osteopenia and delayed skeletal maturation, but less directly correlates with the patient's specific symptoms compared to the Osteogenesis imperfecta types."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by cardiac defects like atrial septal defect and upper limb malformations, including absent thumb and phocomelia, which align closely with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.5,
+      "explanation": "This association includes multiple congenital anomalies, including cardiac defects. The combination of an atrial septal defect and upper limb anomalies could suggest this diagnosis, though the absent thumb and specific limb malformations are less common."
+    },
+    {
+      "disease_name": "Thrombocytopenia Absent Radius (TAR) Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.33,
+      "explanation": "While mainly associated with upper limb deformities and thrombocytopenia, some variants can have cardiac defects. The presence of phocomelia and absent thumb hints at a possible connection, albeit less directly than Holt-Oram syndrome."
+    }
+  ]
+}

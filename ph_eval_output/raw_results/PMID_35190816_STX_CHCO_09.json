@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:613201",
+      "score": 1.0,
+      "explanation": "The patient's presentation closely aligns with symptoms seen in similar cases, including infantile spasms, generalized hypotonia, global developmental delay, and hypsarrhythmia. EEG findings also support this diagnosis."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Characterized by infantile spasms and hypsarrhythmia, this disease fits some of the major symptoms presented by the patient, although it does not encompass all findings such as focal seizures."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607058",
+      "score": 0.33,
+      "explanation": "This syndrome includes various seizure types, including infantile spasms, and can lead to developmental delays. The presence of focal seizures in the patient may suggest overlap with this condition."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient presents with freckling, which aligns closely with the clinical features seen in similar cases diagnosed with Neurofibromatosis type 1."
+    },
+    {
+      "disease_name": "McCune-Albright Syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.5,
+      "explanation": "This condition can also present with skin pigmentation abnormalities including freckling, although it is less common compared to Neurofibromatosis type 1."
+    },
+    {
+      "disease_name": "Carney Complex",
+      "disease_id": "OMIM:160980",
+      "score": 0.33,
+      "explanation": "Freckling can occur in Carney Complex, along with other skin manifestations, making it a possible but less likely diagnosis without further clinical features."
+    }
+  ]
+}

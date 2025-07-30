@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:615578",
+      "score": 1.0,
+      "explanation": "The patient presents with intellectual disability and hypertonia, which correspond to cases diagnosed with this disorder where similar phenotypic features were observed."
+    },
+    {
+      "disease_name": "Lissencephaly 1",
+      "disease_id": "OMIM:607432",
+      "score": 0.5,
+      "explanation": "Lissencephaly can present with intellectual disability and hypertonia, making it a relevant differential diagnosis in the absence of more specific findings."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.33,
+      "explanation": "Although more specific features like cardiovascular anomalies are typical, the combination of intellectual disability and hypertonia can occur, warranting consideration."
+    }
+  ]
+}
