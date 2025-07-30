@@ -1,11 +1,47 @@
-benchmark_name: llm_rag_deepseek_benchmark
+# benchmark_name: llm_rag_deepseek_benchmark
+# runs:
+#   - run_identifier: llm_rag_deepseek_v0
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK/
+#     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+#     gene_analysis: false
+#     variant_analysis: false
+#     disease_analysis: true
+#     threshold:
+#     score_order: descending
+# plot_customisation:
+#   gene_plots:
+#     plot_type: bar_cumulative
+#     rank_plot_title: 
+#     roc_curve_title: 
+#     precision_recall_title: 
+#   disease_plots:
+#     plot_type: bar_cumulative
+#     rank_plot_title: 
+#     roc_curve_title: 
+#     precision_recall_title: 
+#   variant_plots:
+#     plot_type: bar_cumulative
+#     rank_plot_title: 
+#     roc_curve_title: 
+#     precision_recall_title: 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+benchmark_name: llm_rag_DEEPSEEK_VS_GPT_benchmark
 runs:
-  - run_identifier: llm_rag_deepseek_v0
+  - run_identifier: llm_rag_DEEPSEEK_VS_GPT_benchmark_V1_deepseek
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK/
+    phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+    gene_analysis: False
+    variant_analysis: False
+    disease_analysis: True
+    threshold:
+    score_order: descending
+  - run_identifier: llm_rag_DEEPSEEK_VS_GPT_benchmark_V1_GPT
     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/pheval_disease_results/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
-    gene_analysis: false
-    variant_analysis: false
-    disease_analysis: true
+    gene_analysis: False
+    variant_analysis: False
+    disease_analysis: True
     threshold:
     score_order: descending
 plot_customisation:
@@ -16,7 +52,7 @@ plot_customisation:
     precision_recall_title: 
   disease_plots:
     plot_type: bar_cumulative
-    rank_plot_title: 
+    rank_plot_title:
     roc_curve_title: 
     precision_recall_title: 
   variant_plots:
