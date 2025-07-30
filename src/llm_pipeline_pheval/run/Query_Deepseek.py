@@ -5,6 +5,7 @@ from pathlib import Path
 
 import faiss
 import numpy as np
+import os
 
 # import ollama
 # from ollama import chat, ChatResponse
@@ -110,15 +111,27 @@ def Extract_Data_query_deepseek(
 
     # Step 4) Query Deepseek via API
     try:
-        client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
+        # client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
 
+        # response = client.chat.completions.create(
+        #     model="deepseek-chat",
+        #     messages=[
+        #         {"role": "system", "content": "You are a helpful assistant"},
+        #         {"role": "user", "content": prompt},
+        #     ],
+        #     stream=False,
+        # )
+        client = OpenAI(api_key=os.getenv("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"))
+  
+
+
+        # Test the API
         response = client.chat.completions.create(
-            model="deepseek-chat",
+            model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are a helpful assistant"},
-                {"role": "user", "content": prompt},
-            ],
-            stream=False,
+                {"role": "system", "content": "You are a helpful disease diagnostician."},
+                {"role": "user", "content": prompt}
+            ]
         )
         raw = response.choices[0].message.content
         if not raw:
