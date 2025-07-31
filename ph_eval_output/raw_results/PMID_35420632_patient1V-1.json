@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related 8",
-      "disease_id": "OMIM:614421",
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 8",
+      "disease_id": "OMIM:614743",
       "score": 1.0,
-      "explanation": "This disease is characterized by short telomere length, pulmonary fibrosis, interstitial pneumonia, clubbing, and hematological manifestations such as thrombocytopenia, all of which match the patient's phenotypic features closely."
+      "explanation": "This disease is characterized by most of the phenotypic features present in the patient, including short telomere length, usual interstitial pneumonia, pulmonary fibrosis, inspiratory crackles, clubbing, and thrombocytopenia, similar to reference cases provided."
     },
     {
-      "disease_name": "Dyskeratosis congenita",
+      "disease_name": "Dyskeratosis congenita, autosomal dominant, 1",
       "disease_id": "OMIM:127550",
       "score": 0.5,
-      "explanation": "Dyskeratosis congenita presents with short telomeres, pulmonary complications, and potential liver issues. The presence of hepatic failure and portal hypertension suggests possible involvement of the liver common in this condition."
+      "explanation": "Dyskeratosis congenita can lead to short telomeres and presents with pulmonary and liver issues similar to those of the patient, including hepatic failure and portal hypertension. It is known for variable expressivity and can sometimes mimic telomere-related syndromes."
     },
     {
-      "disease_name": "Telomere biology disorders",
-      "disease_id": "OMIM:601604",
+      "disease_name": "Cryptogenic cirrhosis",
+      "disease_id": "OMIM:261660",
       "score": 0.333,
-      "explanation": "These disorders encompass a range of conditions associated with telomere shortening. The symptoms displayed by the patient align with the respiratory and hematological issues seen in these disorders."
-    },
-    {
-      "disease_name": "Familial pulmonary fibrosis",
-      "disease_id": "OMIM:601882",
-      "score": 0.25,
-      "explanation": "Although familial pulmonary fibrosis largely involves largely pulmonary symptoms, portal hypertension and hepatic issues can be secondary manifestations, supporting inclusion in the differential diagnosis."
+      "explanation": "This condition is considered due to the hepatic features such as hepatic failure, nodular regenerative hyperplasia of liver, and portal hypertension. However, it does not explain the short telomere length or pulmonary manifestations."
     }
   ]
 }

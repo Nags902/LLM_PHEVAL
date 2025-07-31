@@ -4,19 +4,19 @@
       "disease_name": "Pseudohypoparathyroidism Ia",
       "disease_id": "OMIM:103580",
       "score": 1.0,
-      "explanation": "This disease is characterized by obesity, short metacarpals, and intellectual disability, aligning closely with the patient's phenotype and similar reference cases."
+      "explanation": "The phenotypic match with Pseudohypoparathyroidism Ia is nearly perfect given the presence of obesity, short metacarpal, and intellectual disability, which are part of the characteristic presentation of this condition. Similar reference cases also point towards this diagnosis."
     },
     {
-      "disease_name": "Prader-Willi Syndrome",
-      "disease_id": "OMIM:176270",
+      "disease_name": "Albright Hereditary Osteodystrophy without Multiple Hormone Resistance",
+      "disease_id": "OMIM:103581",
       "score": 0.5,
-      "explanation": "This syndrome presents with obesity and can include intellectual disability; however, short metacarpals are not typically emphasized as a primary feature."
+      "explanation": "Albright Hereditary Osteodystrophy (AHO) can present with obesity, short metacarpals, and intellectual disability, similar to Pseudohypoparathyroidism Ia, but without hormone resistance. Given the symptom overlap and less specificity without additional lab tests, it is a plausible alternative."
     },
     {
-      "disease_name": "Albright Hereditary Osteodystrophy",
-      "disease_id": "OMIM:103580",
-      "score": 0.33,
-      "explanation": "This condition shares many features with Pseudohypoparathyroidism but may have additional skeletal manifestations not observed in the patient."
+      "disease_name": "Pseudohypoparathyroidism Ib",
+      "disease_id": "OMIM:603233",
+      "score": 0.3333,
+      "explanation": "While Pseudohypoparathyroidism Ib typically involves hormone resistance phenomena prominently, the phenotypic features of obesity and intellectual disability can overlap, but it is less likely than subtype Ia due to the lack of mention of hormonal abnormalities in the current presentation."
     }
   ]
 }

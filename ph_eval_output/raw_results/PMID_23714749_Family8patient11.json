@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
-      "disease_id": "OMIM:600140",
+      "disease_id": "OMIM:256810",
       "score": 1.0,
-      "explanation": "This disease matches the majority of the patient's phenotypic features including jaundice, hypotonia, feeding difficulties, depletion of mitochondrial DNA in the liver, and abnormalities of the coagulation cascade, as evidenced by similar reference cases."
+      "explanation": "The phenotypic features of this patient closely match those observed in the similar reference cases, which all were diagnosed with Mitochondrial DNA depletion syndrome 6. Both the depletion of mitochondrial DNA in liver and the presence of symptoms such as jaundice, feeding difficulties, hypotonia, and abnormality of the coagulation cascade directly align with this condition."
     },
     {
-      "disease_name": "Mitochondrial myopathy with lactic acidosis and mtDNA depletion",
-      "disease_id": "OMIM:603026",
-      "score": 0.5,
-      "explanation": "Although not all symptoms are present, there are overlaps with the depletion of mitochondrial DNA and feeding difficulties, making this condition a potential consideration."
-    },
-    {
-      "disease_name": "Alpers syndrome",
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A (Alpers type)",
       "disease_id": "OMIM:203700",
-      "score": 0.333,
-      "explanation": "This syndrome can present with neurological issues, hypotonia, and liver dysfunction, aligning with some of the patient's symptoms, but is less specific than mitochondrial DNA depletion syndrome."
+      "score": 0.5,
+      "explanation": "Although there is a strong propensity towards Mitochondrial DNA depletion syndrome 6, the depletion of mitochondrial DNA within the liver and associated hepatic manifestations might also suggest this disorder. Alpers type can present with hepatic issues, feeding difficulties, and neurological symptoms like hypotonia."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 10",
+      "disease_id": "OMIM:615440",
+      "score": 0.3333,
+      "explanation": "With features of mitochondrial DNA depletion, especially impacting hepatic function, this condition could also be considered. It is characterized by hypoglycemia, hypotonia, and liver-related symptoms, aligning with some of the exhibited phenotypic features."
     }
   ]
 }

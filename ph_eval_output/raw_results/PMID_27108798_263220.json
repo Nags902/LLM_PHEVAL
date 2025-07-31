@@ -2,21 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Spinocerebellar ataxia, autosomal recessive 20",
-      "disease_id": "OMIM:614219",
+      "disease_id": "OMIM:616354",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those of similar cases, including ataxia, hypotonia, intellectual disability, and cerebellar atrophy, which are characteristic of Spinocerebellar ataxia, autosomal recessive 20."
+      "explanation": "The patient's symptoms, including ataxia, cerebellar atrophy, intellectual disability, delayed motor milestones, hypotonia, and scoliosis, closely match those of the reference cases diagnosed with Spinocerebellar ataxia, autosomal recessive 20."
     },
     {
-      "disease_name": "Bardet-Biedl syndrome",
-      "disease_id": "OMIM:601775",
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
       "score": 0.5,
-      "explanation": "This syndrome can manifest with ataxia, developmental delays, and vision impairment. The presence of visual impairment and hypotonia may align with aspects of Bardet-Biedl syndrome."
+      "explanation": "Joubert syndrome can present with similar phenotypes including ataxia, cerebellar hypoplasia, developmental delays, hypotonia, and visual impairment. The presence of cerebellar hypoplasia and the visual impairments align with this possibility."
     },
     {
-      "disease_name": "Mowat-Wilson syndrome",
-      "disease_id": "OMIM:235200",
-      "score": 0.33,
-      "explanation": "This syndrome is associated with intellectual disability, hypotonia, and may also involve developmental delays and ocular abnormalities, similar to the patient's features."
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 0.3333333333333333,
+      "explanation": "Gillespie syndrome presents with features such as cerebellar atrophy/hypoplasia, intellectual disability, and hypoplasia of the iris, which are consistent with the patient's clinical features."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.25,
+      "explanation": "This condition often includes symptoms like ataxia, hypotonia, cerebellar abnormalities, and eye anomalies such as foveal hypoplasia, which match the patient's symptoms."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 0.2,
+      "explanation": "This disorder can manifest with hypotonia, developmental delays, and cerebellar atrophy, while also linking to various other neurological and visual symptoms present in the patient."
     }
   ]
 }

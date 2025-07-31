@@ -2,33 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Noonan Syndrome 2",
-      "disease_id": "OMIM:163950",
+      "disease_id": "OMIM:605275",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely align with those observed in Noonan Syndrome 2 cases, including freckling, various facial features like hypertelorism and downslanted palpebral fissures, as well as cardiomyopathy and developmental delays. These features are highly prevalent in similar case studies."
-    },
-    {
-      "disease_name": "Noonan Syndrome 1",
-      "disease_id": "OMIM:163950",
-      "score": 0.5,
-      "explanation": "Noonan Syndrome 1 shares many clinical features with the patient's presentation. While there may be variations in symptoms and severity, the resemblance in the phenotypic profile makes this condition a strong contender."
-    },
-    {
-      "disease_name": "Cardiofaciocutaneous Syndrome",
-      "disease_id": "OMIM:115150",
-      "score": 0.33,
-      "explanation": "Cardiofaciocutaneous Syndrome is characterized by cardiomyopathy, facial dysmorphisms, and skin abnormalities. Some features such as low-set ears and broad forehead overlap with the patient's phenotype, though not as specifically aligned as those in Noonan Syndrome."
+      "explanation": "The patient's symptoms closely match those of Noonan Syndrome, particularly Noonan Syndrome 2, as seen in the reference cases, including downslanted palpebral fissures, hypertelorism, ptosis, low posterior hairline, cafe-au-lait spots, short neck, and cardiomyopathy."
     },
     {
       "disease_name": "Costello Syndrome",
       "disease_id": "OMIM:218040",
-      "score": 0.25,
-      "explanation": "Costello Syndrome can present with feeding difficulties and cardiac issues similar to the patient's symptoms. However, the specific dysmorphic features and freckling are more indicative of Noonan Syndrome, which places this disease lower on the list."
+      "score": 0.5,
+      "explanation": "Costello Syndrome shares many overlapping features such as broad forehead, hypertelorism, macrocephaly, feeding difficulties, and cardiomyopathy. Although not as closely matching as Noonan Syndrome 2, it is a consideration due to the combination of these features."
     },
     {
-      "disease_name": "KBG Syndrome",
-      "disease_id": "OMIM:148050",
-      "score": 0.2,
-      "explanation": "KBG Syndrome features include developmental delay and skeletal abnormalities. Although there are overlaps in some physical attributes, its complete presentation does not align as closely with the patient's features compared to the other syndromes listed."
+      "disease_name": "Cardiofaciocutaneous Syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.333,
+      "explanation": "The syndrome presents with overlapping symptoms such as hypertelorism, macrocephaly, feeding difficulty, short neck, and broad forehead. It shares phenotypic features with the other considered syndromes."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and epileptic encephalopathy 4",
-      "disease_id": "OMIM:613079",
-      "score": 1.0,
-      "explanation": "Supports the phenotypic features of delayed motor and speech development, microcephaly, and intellectual disability, aligning closely with Case 1."
-    },
-    {
-      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
-      "disease_id": "OMIM:619726",
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:612626",
       "score": 0.5,
-      "explanation": "Matches several features including microcephaly, delayed speech, and intellectual disability as seen in Case 3."
+      "explanation": "Shares phenotypic features such as microcephaly, intellectual disability, delayed speech and language development, and delayed gross motor development with Case 1."
     },
     {
-      "disease_name": "Intellectual developmental disorder, X-linked 114",
-      "disease_id": "OMIM:300746",
-      "score": 0.33,
-      "explanation": "Includes several neurodevelopmental features, though less aligned with the specific details of the patient's case compared to the above."
+      "disease_name": "Neurodevelopmental Disorder with Hypotonia and Speech Delay, with or without Seizures",
+      "disease_id": "OMIM:617752",
+      "score": 0.333,
+      "explanation": "Shares phenotypic features such as microcephaly, intellectual disability, and delayed speech and language development with Case 3."
+    },
+    {
+      "disease_name": "Intellectual Developmental Disorder, X-linked 114",
+      "disease_id": "OMIM:300818",
+      "score": 0.25,
+      "explanation": "Shares phenotypic features such as intellectual disability and delayed speech and language development with Case 2, although microcephaly is not reported in this condition."
     }
   ]
 }

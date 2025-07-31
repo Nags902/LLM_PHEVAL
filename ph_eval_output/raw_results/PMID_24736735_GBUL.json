@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Preaxial Polydactyly, Type A (Bardet-Biedl Syndrome)",
-      "disease_id": "OMIM:209900",
+      "disease_name": "Polydactyly, postaxial, types A1 and B",
+      "disease_id": "OMIM:174200",
       "score": 1.0,
-      "explanation": "The patient's combination of postaxial polydactyly, growth delay, nail dysplasia, anal atresia, and intellectual disability aligns with the features often seen in Bardet-Biedl Syndrome, which frequently includes polydactyly and developmental delay."
+      "explanation": "The phenotypic features closely match the reference cases diagnosed with this condition, including postaxial polydactyly, Y-shaped metacarpals, and anal atresia."
     },
     {
-      "disease_name": "Ossicones and Subcutaneous Tissue Hamartomas (Syndrome)",
-      "disease_id": "OMIM:805314",
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
       "score": 0.5,
-      "explanation": "The presence of hypothalamic hamartoma along with postaxial polydactyly and growth delay suggests a potential syndrome that correlates with this combination of features."
+      "explanation": "This condition is associated with polydactyly, syndactyly, developmental delay, and craniofacial abnormalities. Although not all features match perfectly, several key symptoms are present."
     },
     {
-      "disease_name": "Dandy-Walker Malformation",
-      "disease_id": "OMIM:221100",
+      "disease_name": "Laurence-Moon syndrome",
+      "disease_id": "OMIM:245800",
       "score": 0.333,
-      "explanation": "Dandy-Walker Malformation can be associated with polydactyly and hypothalamic anomalies; the case's intellectual disability and growth delay could be related signs."
+      "explanation": "The syndrome can present with a combination of polydactyly, intellectual disability, and growth delay. While not an exact fit, it shares overlapping features."
     },
     {
-      "disease_name": "Teratogenic Syndromes (e.g., Trisomy 13)",
-      "disease_id": "OMIM:613432",
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146510",
       "score": 0.25,
-      "explanation": "Some teratogenic syndromes include polydactyly and anal atresia, but the intellectual disability and growth delay here point to a more clearly defined genetic condition."
-    },
-    {
-      "disease_name": "Acrocallosal Syndrome",
-      "disease_id": "OMIM:200990",
-      "score": 0.2,
-      "explanation": "Characterized by macrocephaly, polydactyly, and developmental delay; while some features are observed, the overall constellation is not a perfect match."
+      "explanation": "The presence of hypothalamic hamartoma and polydactyly with intellectual disabilities aligns with this disorder, although other symptoms differ."
     }
   ]
 }

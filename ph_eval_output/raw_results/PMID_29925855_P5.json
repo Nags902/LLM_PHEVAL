@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Dystonia 37",
-      "disease_id": "OMIM:613157",
+      "disease_name": "Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia",
+      "disease_id": "OMIM:208920",
       "score": 1.0,
-      "explanation": "This disease accounts for early-onset dystonia associated with ataxia and hypotonia, similar to the presented phenotypic features."
+      "explanation": "The patient's phenotypes of ataxia and hypotonia align with similar reference cases diagnosed with this condition. Although not all features are present, the combination most closely matches the phenotypic pattern seen in the reference cases."
     },
     {
-      "disease_name": "Ataxia, early-onset, with oculomotor apraxia",
-      "disease_id": "OMIM:607046",
+      "disease_name": "Dystonia 37, early-onset, with striatal lesions",
+      "disease_id": "OMIM:612716",
       "score": 0.5,
-      "explanation": "The presence of ataxia and hypotonia aligns well with known cases of this disorder, making it a pertinent consideration."
+      "explanation": "The presence of dystonia in the patient, along with ataxia and hypotonia, is similar to symptoms seen in reference case 3. This similarity suggests a possibility, though the case lacks intellectual disability and other features typical for this condition."
     },
     {
-      "disease_name": "Fragile X-associated tremor/ataxia syndrome",
-      "disease_id": "OMIM:300623",
-      "score": 0.333,
-      "explanation": "Although more common in adult males, the presentation includes ataxia and may extend to children with atypical features."
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Ataxia-telangiectasia shares symptoms of ataxia and hypotonia, commonly onset in childhood. Though some typical signs like telangiectasia and immunodeficiency are missing, it remains a potential candidate based on the general symptom overlap."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "The combination of ataxia, hypotonia, dystonia, and strabismus is notable. Rett syndrome, while primarily affecting females, can rarely show overlapping symptoms. The gender of the patient makes this less likely, but it remains a possibility."
     }
   ]
 }

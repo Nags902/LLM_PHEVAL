@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "KBG Syndrome",
+      "disease_name": "KBG syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "The patient's phenotype closely matches KBG syndrome which includes features like thick eyebrows, short stature, and hand anomalies. The presence of osteoporosis and vertebral issues aligns with the skeletal manifestations seen in this syndrome."
+      "explanation": "This condition is characterized by short stature, thick eyebrows, micrognathia, and osteoporosis, similar to the provided phenotype. Osteolytic defects of the hand and vertebrae involvement further suggest KBG syndrome as the top candidate."
     },
     {
-      "disease_name": "Syndrome X (including conditions like Osteogenesis Imperfecta)",
-      "disease_id": "OMIM:166210",
+      "disease_name": "Hajdu-Cheney syndrome",
+      "disease_id": "OMIM:102500",
       "score": 0.5,
-      "explanation": "The combination of osteoporosis, micrognathia, and osteolytic defects of the phalanges is suggestive of osteogenesis imperfecta, even though this case does not fully match other typical features."
+      "explanation": "Hajdu-Cheney syndrome involves facial dysmorphisms such as micrognathia and large earlobes, along with osteolytic bone changes and osteoporosis, making it a plausible match."
     },
     {
-      "disease_name": "Apert Syndrome",
-      "disease_id": "OMIM:101200",
-      "score": 0.333,
-      "explanation": "This syndrome can present with craniosynostosis, flat facial features, and other hand deformities which are reminiscent of the patient's short stature and facial features, although not all features align perfectly."
-    },
-    {
-      "disease_name": "Crouzon Syndrome",
-      "disease_id": "OMIM:123500",
-      "score": 0.25,
-      "explanation": "While primarily characterized by craniofacial dysostosis, Crouzon syndrome could explain some facial features and hand issues observed in the patient, but does not fully account for the back pain or osteoporosis."
-    },
-    {
-      "disease_name": "Marfan Syndrome",
+      "disease_name": "Marfan syndrome",
       "disease_id": "OMIM:154700",
-      "score": 0.2,
-      "explanation": "Although typically associated with tall stature and arachnodactyly, Marfan syndrome can have variable expressiveness including musculoskeletal issues, which could connect to the patient's symptoms."
+      "score": 0.333,
+      "explanation": "Characterized by skeletal abnormalities, including osteoporosis and vertebral compression fractures; however, less compelling due to lack of cardinal features like arachnodactyly."
+    },
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.25,
+      "explanation": "This disorder features short stature, micrognathia, and osteolytic lesions, aligning moderately with the patient's features, though the facial phenotype is less typical."
     }
   ]
 }

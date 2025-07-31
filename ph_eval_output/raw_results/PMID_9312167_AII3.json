@@ -2,21 +2,15 @@
   "ranked_diseases": [
     {
       "disease_name": "Distal renal tubular acidosis 1",
-      "disease_id": "OMIM:263100",
+      "disease_id": "OMIM:267300",
       "score": 1.0,
-      "explanation": "The patient's features of nephrocalcinosis, nephrolithiasis, hypokalemia, alkaline urine, impaired renal concentrating ability, and distal renal tubular acidosis closely match previously documented cases."
+      "explanation": "This disease is a classic match for the phenotypic features listed, including distal renal tubular acidosis, nephrocalcinosis, nephrolithiasis, and hypokalemia. It matches precisely with the conditions of the reference cases."
     },
     {
-      "disease_name": "Distal renal tubular acidosis 2",
-      "disease_id": "OMIM:600740",
+      "disease_name": "Distal renal tubular acidosis with progressive sensorineural hearing loss",
+      "disease_id": "OMIM:601590",
       "score": 0.5,
-      "explanation": "Similar features of renal impairments may also relate to this subtype, though the presence of specific genetic mutations would be needed for confirmation."
-    },
-    {
-      "disease_name": "Primary hyperoxaluria type 1",
-      "disease_id": "OMIM:259900",
-      "score": 0.33,
-      "explanation": "The combination of nephrocalcinosis and nephrolithiasis raises suspicion for disorders causing hyperoxaluria, despite less classic presentation compared to the leading diagnosis."
+      "explanation": "This subtype also involves distal renal tubular acidosis and related renal symptoms. Although hearing loss isn't noted in this case, it could still be considered due to the renal symptoms."
     }
   ]
 }

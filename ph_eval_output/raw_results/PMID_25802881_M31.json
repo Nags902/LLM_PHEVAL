@@ -4,25 +4,25 @@
       "disease_name": "Pseudohypoparathyroidism Ia",
       "disease_id": "OMIM:103580",
       "score": 1.0,
-      "explanation": "This condition is characterized by obesity, short metacarpal bones, and intellectual disability, aligning perfectly with the patient's features and similar reference cases."
+      "explanation": "The phenotypic features of obesity, short metacarpal, and intellectual disability closely match those seen in reference cases diagnosed with Pseudohypoparathyroidism Ia, which is a known condition to present these symptoms."
     },
     {
-      "disease_name": "Albright hereditary osteodystrophy",
-      "disease_id": "OMIM:103581",
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
       "score": 0.5,
-      "explanation": "This condition shares phenotypic features such as obesity and short metacarpals, although it typically presents with more systemic endocrine abnormalities which may not be indicated here."
+      "explanation": "This condition often presents with similar features such as short metacarpals, obesity, and intellectual disability. It is sometimes classified under the broader Pseudohypoparathyroidism spectrum, which makes it relevant for consideration."
     },
     {
-      "disease_name": "Some forms of Congenital Disorders of Glycosylation",
-      "disease_id": "OMIM:212065",
-      "score": 0.33,
-      "explanation": "These disorders can present with obesity and developmental delays/intellectual disabilities; however, the association with short metacarpals may not be as strong as with Pseudohypoparathyroidism."
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "Bardet-Biedl Syndrome can feature obesity and intellectual disability. The absence of polydactyly makes it less likely but still a plausible consideration based on core symptoms."
     },
     {
-      "disease_name": "Prader-Willi Syndrome",
-      "disease_id": "OMIM:176270",
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
       "score": 0.25,
-      "explanation": "This syndrome is known for obesity and intellectual disability but does not typically emphasize short metacarpals as a defining feature."
+      "explanation": "Cohen Syndrome includes obesity and intellectual disability as key features. It is considered less likely due to additional expected features like microcephaly and retinal dystrophy not being present."
     }
   ]
 }

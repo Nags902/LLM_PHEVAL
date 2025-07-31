@@ -4,19 +4,13 @@
       "disease_name": "Neurofibromatosis, type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient presents with classic features of Neurofibromatosis type 1 including plexiform neurofibroma, freckling, and multiple cafe-au-lait spots which are characteristic of this condition."
+      "explanation": "The constellation of symptoms including plexiform neurofibroma, freckling, and multiple cafe-au-lait spots are classic features of Neurofibromatosis, type 1. The similar reference cases further support a diagnosis of this condition."
     },
     {
       "disease_name": "Neurofibromatosis, type 2",
       "disease_id": "OMIM:101000",
       "score": 0.5,
-      "explanation": "While Neurofibromatosis type 2 does involve tumors, it is less likely in this case as cafe-au-lait spots and freckling are more tightly associated with Neurofibromatosis type 1. However, it's included due to similarity in tumor predisposition."
-    },
-    {
-      "disease_name": "Legius syndrome",
-      "disease_id": "OMIM:611431",
-      "score": 0.33,
-      "explanation": "Legius syndrome can present with caf\u00e9-au-lait spots and axillary freckling, though plexiform neurofibromas are not typical. It is included due to overlapping phenotypic features."
+      "explanation": "While Neurofibromatosis, type 2 is less likely due to the absence of hallmark features like bilateral vestibular schwannomas, there may be phenotypic overlap. However, it typically presents with different clinical features, making it less likely."
     }
   ]
 }

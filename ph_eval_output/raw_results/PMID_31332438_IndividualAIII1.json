@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Neuronopathy, distal hereditary motor, autosomal dominant 11",
-      "disease_id": "OMIM:612114",
+      "disease_id": "OMIM:607088",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match the similar cases presented, including lower limb amyotrophy, motor axonal neuropathy, impaired vibratory sensation, and frequent falls. This disease is characterized by the combination of lower limb weakness and gait disturbances."
+      "explanation": "The patient's presentation closely matches the reference cases diagnosed with Neuronopathy, distal hereditary motor, autosomal dominant 11. Shared features include unsteady gait, lower limb amyotrophy, motor axonal neuropathy, impaired vibratory sensation, lower limb muscle weakness, and frequent falls."
     },
     {
-      "disease_name": "CMT2A (Charcot-Marie-Tooth disease, type 2A)",
-      "disease_id": "OMIM:118210",
+      "disease_name": "Charcot-Marie-Tooth disease, axonal, type 2A2",
+      "disease_id": "OMIM:609260",
       "score": 0.5,
-      "explanation": "CMT2A can present with motor axonal neuropathy, lower limb weakness, and unsteady gait, similar to the patient's features. While this condition typically involves more upper limb symptoms, it shares enough similarity to be considered."
+      "explanation": "The phenotypic overlap such as motor axonal neuropathy, lower limb amyotrophy, impaired vibratory sensation, and gait instability raises the possibility of Charcot-Marie-Tooth disease, particularly the axonal type 2A2, although it diverges in some secondary features."
     },
     {
-      "disease_name": "Spinal muscular atrophy type 1 (SMA1)",
-      "disease_id": "OMIM:253300",
-      "score": 0.33,
-      "explanation": "Although traditionally characterized by severe weakness and atrophy, this condition can manifest similar lower limb symptoms as seen in the patient. It's ranked lower due to the age and absence of classic presentation for this type in adulthood."
+      "disease_name": "Hereditary motor and sensory neuropathy, type VI",
+      "disease_id": "OMIM:601152",
+      "score": 0.3333333333333333,
+      "explanation": "This condition can present with motor neuropathy, muscle weakness, and balance issues, similar to the patient's features, although it typically includes optic atrophy, which is not mentioned here."
     }
   ]
 }

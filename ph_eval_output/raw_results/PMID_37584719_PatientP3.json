@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Autoinflammatory disease, multisystem, with immune dysregulation, X-linked",
-      "disease_id": "OMIM:300450",
+      "disease_id": "OMIM:300475",
       "score": 1.0,
-      "explanation": "The patient presents with chronic diarrhea and autoimmune hemolytic anemia, which are significant phenotypic features that align with previously documented cases of autoinflammatory diseases characterized by immune dysregulation."
+      "explanation": "The clinical presentation of chronic diarrhea and autoimmune hemolytic anemia aligns strongly with the symptoms seen in similar reference cases diagnosed with this condition."
     },
     {
-      "disease_name": "Systemic lupus erythematosus",
-      "disease_id": "OMIM:152700",
+      "disease_name": "Immunodeficiency, common variable, 1",
+      "disease_id": "OMIM:607594",
       "score": 0.5,
-      "explanation": "The presence of autoimmune hemolytic anemia and chronic diarrhea can be indicative of systemic lupus erythematosus, as noted in the similar reference cases."
+      "explanation": "Common variable immunodeficiency can present with chronic diarrhea and autoimmune hemolytic anemia due to immune dysregulation, although it is more commonly linked with recurrent infections."
     },
     {
-      "disease_name": "Crohn's disease",
-      "disease_id": "OMIM:266600",
-      "score": 0.3333333333,
-      "explanation": "Chronic diarrhea is a common symptom of Crohn's disease, which also has overlapping clinical features with the autoimmune conditions observed in the reference cases."
+      "disease_name": "Wiskott-Aldrich syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.333,
+      "explanation": "Wiskott-Aldrich syndrome might present with autoimmune hemolytic anemia and gastrointestinal symptoms, including diarrhea, due to its immunological components."
+    },
+    {
+      "disease_name": "Autoimmune lymphoproliferative syndrome, type 1A",
+      "disease_id": "OMIM:601859",
+      "score": 0.25,
+      "explanation": "This condition can include autoimmune manifestations like hemolytic anemia and features related to lymphoproliferation that might contribute to diarrhea or gastrointestinal symptoms."
     }
   ]
 }

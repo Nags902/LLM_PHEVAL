@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Holt-Oram Syndrome",
+      "disease_name": "Holt-Oram syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "This syndrome is characterized by cardiac defects like atrial septal defect and upper limb malformations, including absent thumb and phocomelia, which align closely with the patient's phenotypic features."
+      "explanation": "The patient's symptoms strongly align with those commonly found in Holt-Oram syndrome, particularly the atrial septal defect, absent thumb, and upper limb phocomelia, which are consistent with the similar reference cases provided."
     },
     {
-      "disease_name": "VACTERL Association",
-      "disease_id": "OMIM:192350",
-      "score": 0.5,
-      "explanation": "This association includes multiple congenital anomalies, including cardiac defects. The combination of an atrial septal defect and upper limb anomalies could suggest this diagnosis, though the absent thumb and specific limb malformations are less common."
-    },
-    {
-      "disease_name": "Thrombocytopenia Absent Radius (TAR) Syndrome",
+      "disease_name": "Thrombocytopenia-absent radius (TAR) syndrome",
       "disease_id": "OMIM:274000",
-      "score": 0.33,
-      "explanation": "While mainly associated with upper limb deformities and thrombocytopenia, some variants can have cardiac defects. The presence of phocomelia and absent thumb hints at a possible connection, albeit less directly than Holt-Oram syndrome."
+      "score": 0.5,
+      "explanation": "TAR syndrome is characterized by upper limb abnormalities including thumb abnormalities which can present as absent, but is less likely due to the lack of thrombocytopenia report in this data."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.3333,
+      "explanation": "Fanconi anemia includes congenital malformations such as thumb and radius abnormalities, but it is less distinctive for atrial septal defects compared to Holt-Oram syndrome."
     }
   ]
 }

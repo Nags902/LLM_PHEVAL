@@ -2,21 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder, X-linked 113",
-      "disease_id": "OMIM:300139",
+      "disease_id": "OMIM:300928",
       "score": 1.0,
-      "explanation": "This disease is characterized by intellectual disability and delayed speech and language development, which closely align with the patient's symptoms."
+      "explanation": "This disorder is associated with delayed speech and language development, intellectual disability, which is consistent with the patient's symptoms. Similar phenotypes were observed in Case 1."
     },
     {
       "disease_name": "Intellectual developmental disorder, X-linked 114",
-      "disease_id": "OMIM:300140",
+      "disease_id": "OMIM:301012",
       "score": 0.5,
-      "explanation": "This condition shares several phenotypic features with the patient, such as delayed speech and language development and intellectual disability."
+      "explanation": "This disorder includes features like intellectual disability and delayed speech, as seen in the patient. Case 2 had a variety of overlapping symptoms."
     },
     {
       "disease_name": "Intellectual developmental disorder, autosomal recessive 82",
-      "disease_id": "OMIM:617370",
-      "score": 0.33,
-      "explanation": "While this disorder includes similar features like intellectual disability and delay, it also shows additional complications not observed in the patient, resulting in a lower likelihood ranking."
+      "disease_id": "OMIM:617407",
+      "score": 0.333,
+      "explanation": "The patient exhibits some overlap with the symptoms like ADHD, intellectual disability, and delayed speech. Related to Case 3."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 85",
+      "disease_id": "OMIM:617666",
+      "score": 0.25,
+      "explanation": "This condition presents with intellectual disability and speech delay. Though not directly seen in reference cases, its features align with the patient's profile."
+    },
+    {
+      "disease_name": "Syndromic X-linked intellectual disability type Turner",
+      "disease_id": "OMIM:300849",
+      "score": 0.2,
+      "explanation": "Characterized by intellectual disability and speech delay. The presentation partially matches the patient's symptoms."
     }
   ]
 }

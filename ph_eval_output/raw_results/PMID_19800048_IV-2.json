@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:601410",
-      "score": 1.0,
-      "explanation": "Bardet-Biedl Syndrome presents with polydactyly, intellectual disability, and often includes recurrent infections as a consequence of renal involvement."
-    },
-    {
-      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_name": "Ellis-van Creveld syndrome",
       "disease_id": "OMIM:225500",
+      "score": 1.0,
+      "explanation": "Ellis-van Creveld syndrome presents with postaxial polydactyly of hands and feet, short limbs, and congenital heart defects, and can include intellectual disability and recurrent infections."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
       "score": 0.5,
-      "explanation": "This syndrome is characterized by postaxial polydactyly and intellectual disability, which align with the patient's phenotypic features."
+      "explanation": "Joubert syndrome is associated with polydactyly, intellectual disability, and recurrent respiratory infections among other symptoms; matches some phenotypic features present."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_name": "Carpenter syndrome",
+      "disease_id": "OMIM:201000",
+      "score": 0.3333,
+      "explanation": "Carpenter syndrome involves polydactyly and developmental delay/intellectual disability, but postaxial polydactyly is more common, aligning somewhat with the patient's features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
       "disease_id": "OMIM:270400",
-      "score": 0.33,
-      "explanation": "Although primarily linked with developmental delays and intellectual disabilities, it can also be associated with polydactyly, which fits with the patient's symptoms."
-    },
-    {
-      "disease_name": "Meckel-Gruber Syndrome",
-      "disease_id": "OMIM:249000",
       "score": 0.25,
-      "explanation": "This condition is associated with neurological deficits and polydactyly and may include recurrent infections due to renal complications."
+      "explanation": "This syndrome has a variable phenotype including intellectual disability and can occasionally present with polydactyly and susceptibility to infections."
     }
   ]
 }

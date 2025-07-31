@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:613201",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:614386",
       "score": 1.0,
-      "explanation": "The patient's presentation closely aligns with symptoms seen in similar cases, including infantile spasms, generalized hypotonia, global developmental delay, and hypsarrhythmia. EEG findings also support this diagnosis."
+      "explanation": "This condition matches closely with the provided phenotypic features and is also supported by similar reference cases. All similar cases were diagnosed with this disease, indicating a strong association with symptoms like infantile spasms, hypsarrhythmia, and global developmental delay."
     },
     {
       "disease_name": "West Syndrome",
       "disease_id": "OMIM:308350",
       "score": 0.5,
-      "explanation": "Characterized by infantile spasms and hypsarrhythmia, this disease fits some of the major symptoms presented by the patient, although it does not encompass all findings such as focal seizures."
+      "explanation": "West Syndrome is characterized by the triad of infantile spasms, hypsarrhythmia on EEG, and developmental regression. These features overlap significantly with the patient's presentation."
     },
     {
       "disease_name": "Dravet Syndrome",
-      "disease_id": "OMIM:607058",
-      "score": 0.33,
-      "explanation": "This syndrome includes various seizure types, including infantile spasms, and can lead to developmental delays. The presence of focal seizures in the patient may suggest overlap with this condition."
+      "disease_id": "OMIM:607208",
+      "score": 0.3333333333333333,
+      "explanation": "Dravet Syndrome can present with developmental delay, infantile spasms, and generalized hypotonia. The presence of multiple seizure types also fits the symptom profile of Dravet Syndrome, though this match is less strong compared to other conditions."
     }
   ]
 }

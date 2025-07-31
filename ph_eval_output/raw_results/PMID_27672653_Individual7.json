@@ -4,19 +4,19 @@
       "disease_name": "Glutaricaciduria, type I",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "The patient's elevated urine 3-hydroxyglutaric level, glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and developmental regression closely align with the symptoms and findings seen in the similar reference cases diagnosed with Glutaric aciduria, type I."
+      "explanation": "The patient's features, including elevated urine 3-hydroxyglutaric acid, glutaric aciduria, macrocephaly, developmental regression, subdural hemorrhage, elevated glutarylcarnitine, and cerebral atrophy, closely match the phenotypic presentations in reference cases diagnosed with Glutaricaciduria type I."
     },
     {
-      "disease_name": "Organic acidemia due to glutaric aciduria",
-      "disease_id": "OMIM:203709",
+      "disease_name": "L-2-hydroxyglutaric aciduria",
+      "disease_id": "OMIM:236792",
       "score": 0.5,
-      "explanation": "While not as specific as Glutaricaciduria type I, the presentation of glutaric aciduria and elevated 3-hydroxyglutaric acid levels suggest a related organic acidemia that could share some symptoms, warranting its inclusion."
+      "explanation": "Some overlap in symptoms such as developmental regression and macrocephaly; however, the absence of more common L-2-hydroxyglutaric aciduria features like cerebellar ataxia suggests this is less likely than Glutaricaciduria type I."
     },
     {
-      "disease_name": "Cerebral atrophy with developmental regression",
-      "disease_id": "OMIM:617799",
-      "score": 0.33,
-      "explanation": "Though not directly linked to elevated glutaric levels, the combination of cerebral atrophy and significant developmental regression observed in the patient could indicate a wider spectrum of encephalopathies, thus it remains a differential diagnosis."
+      "disease_name": "Canavan disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.3333,
+      "explanation": "Shares phenotypic features such as cerebral atrophy and macrocephaly with the patient's presentation, but lacks key biomarkers and metabolic profiles such as elevated 3-hydroxyglutaric acid typical of Glutaricaciduria type I."
     }
   ]
 }

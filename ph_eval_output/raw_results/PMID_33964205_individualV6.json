@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Deafness, autosomal recessive 125",
-      "disease_id": "OMIM:600061",
+      "disease_name": "Deafness, Autosomal Recessive 125",
+      "disease_id": "OMIM:617199",
       "score": 1.0,
-      "explanation": "The patient presents with sensorineural hearing impairment and delayed speech and language development, which are core features of this condition seen in similar cases."
+      "explanation": "The patient displays core features such as sensorineural hearing impairment and delayed speech/language development, which are indicative of this condition. This is supported by all reference cases matching these key features and being diagnosed with this condition."
     },
     {
-      "disease_name": "Wolfram Syndrome",
-      "disease_id": "OMIM:222300",
+      "disease_name": "Waardenburg Syndrome, Type 1",
+      "disease_id": "OMIM:193500",
       "score": 0.5,
-      "explanation": "This syndrome includes sensorineural hearing loss and developmental delays, which align with the patient's symptoms, though it is less directly matching than Deafness, autosomal recessive 125."
+      "explanation": "While less likely, Waardenburg Syndrome can present with sensorineural hearing impairment and has a broader spectrum that might include developmental issues, aligning partially with the patient's presentation. However, more specific phenotypes like pigmentation anomalies are typically expected."
     },
     {
-      "disease_name": "Usher Syndrome, Type 1",
-      "disease_id": "OMIM:276900",
-      "score": 0.3333333333,
-      "explanation": "Usher syndrome is characterized by hearing loss and progressive vision loss, but the hearing impairment and developmental delays are consistent with the patient's features."
+      "disease_name": "Usher Syndrome, Type 1D",
+      "disease_id": "OMIM:601067",
+      "score": 0.3333,
+      "explanation": "Usher Syndrome can present with sensorineural hearing impairment and sometimes developmental delays. However, it often includes vision problems that are not reported in this case."
     }
   ]
 }

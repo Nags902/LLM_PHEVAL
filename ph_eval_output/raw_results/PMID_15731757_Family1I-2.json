@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Loeys-Dietz syndrome 2",
-      "disease_id": "OMIM:613795",
+      "disease_id": "OMIM:610168",
       "score": 1.0,
-      "explanation": "The patient presents with patent ductus arteriosus, aortic root aneurysm, and genu valgum, which are hallmark features shared in cases diagnosed with Loeys-Dietz syndrome 2."
+      "explanation": "The patient exhibits patent ductus arteriosus, aortic root aneurysm, and genu valgum, which are features consistent with Loeys-Dietz syndrome. Similar reference cases with overlapping features were diagnosed with Loeys-Dietz syndrome 2."
     },
     {
       "disease_name": "Loeys-Dietz syndrome 1",
-      "disease_id": "OMIM:610168",
+      "disease_id": "OMIM:609192",
       "score": 0.5,
-      "explanation": "Similar to Loeys-Dietz syndrome 2, this condition also includes patent ductus arteriosus and aortic root aneurysm, but exhibits additional features not listed in this patient."
+      "explanation": "Similar to Loeys-Dietz syndrome 2, Loeys-Dietz syndrome 1 shares many phenotypic features such as aortic root aneurysm and patent ductus arteriosus. Although less common than LDS 2, it remains a possible diagnosis."
     },
     {
       "disease_name": "Marfan syndrome",
       "disease_id": "OMIM:154700",
-      "score": 0.3333,
-      "explanation": "This syndrome is characterized by cardiovascular abnormalities similar to those observed in the patient, particularly aortic root issues and possible skeletal manifestations like genu valgum."
-    },
-    {
-      "disease_name": "Ehlers-Danlos syndrome, cardiovascular type",
-      "disease_id": "OMIM:130050",
-      "score": 0.25,
-      "explanation": "This condition involves vascular issues and could explain aortic root aneurysm alongside joint problems that may relate to the patient's genu valgum."
+      "score": 0.3333333333333333,
+      "explanation": "Marfan syndrome presents with cardiovascular anomalies like aortic root aneurysm and skeletal features such as genu valgum, similar to those observed in this patient and the reference cases."
     }
   ]
 }

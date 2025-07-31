@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 11",
-      "disease_id": "OMIM:300286",
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
       "score": 1.0,
-      "explanation": "This disease encompasses severe intellectual disability and various types of seizures including infantile spasms and focal tonic seizures, matching the patient's severe neurodevelopmental features and EEG findings."
+      "explanation": "There is a strong overlap of phenotypic features such as cerebral atrophy, EEG with burst suppression, epileptic encephalopathy, focal tonic seizures, generalized myoclonic seizures, infantile spasms, severe intellectual disability, and multifocal epileptiform discharges, which align with similar reference cases diagnosed with this condition."
     },
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:611135",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
       "score": 0.5,
-      "explanation": "Characterized by similar phenotypic features such as seizures, severe intellectual disability, and cerebral atrophy, making it a suitable consideration based on the provided clinical data."
+      "explanation": "While Developmental and epileptic encephalopathy 4 also includes features such as epileptic encephalopathy and severe intellectual disability, this condition is somewhat less common for burst suppression patterns. However, it remains a plausible consideration given the complex seizure types."
     },
     {
       "disease_name": "West Syndrome",
       "disease_id": "OMIM:308350",
-      "score": 0.33,
-      "explanation": "This condition is characterized by infantile spasms, cognitive impairment, and distinctive EEG patterns; fits well with the patient's symptoms of infantile spasms and severe neurodevelopmental delay."
-    },
-    {
-      "disease_name": "Lennox-Gastaut Syndrome",
-      "disease_id": "OMIM:607693",
-      "score": 0.25,
-      "explanation": "Includes multiple seizure types and cognitive impairment; relevant due to the variety of seizures presented by the patient and the intellectual disability."
+      "score": 0.333,
+      "explanation": "Characterized by infantile spasms and intellectual disability, which are present in the patient. The presence of multifocal epileptiform discharges also supports consideration, though the full spectrum of features is broader."
     }
   ]
 }

@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Leber Congenital Amaurosis 6",
-      "disease_id": "OMIM:613825",
+      "disease_id": "OMIM:608133",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those in similar cases, including nystagmus, reduced visual acuity, peripheral retinal atrophy, and bull's eye maculopathy, all of which are characteristic of Leber congenital amaurosis."
+      "explanation": "The patient shares several phenotypic features with Case 2, which was diagnosed as Leber congenital amaurosis 6. The presence of peripheral retinal atrophy and bull's eye maculopathy increase the likelihood of this condition. Both cases exhibit similarities such as nystagmus and reduced visual acuity."
     },
     {
       "disease_name": "Cone-Rod Dystrophy 13",
-      "disease_id": "OMIM:613052",
+      "disease_id": "OMIM:610498",
       "score": 0.5,
-      "explanation": "Although the patient presents similar features such as nystagmus and reduced visual acuity, the specific combination of peripheral retinal atrophy and bull's eye maculopathy leans more towards Leber congenital amaurosis."
+      "explanation": "Similarities exist with Case 1 and Case 3, both diagnosed with Cone-rod dystrophy 13. Key overlapping symptoms include nystagmus and reduced visual acuity. However, some symptoms like bone spicule pigmentation are not observed in the current patient, making it a second option."
     },
     {
-      "disease_name": "Retinitis Pigmentosa",
-      "disease_id": "OMIM:268000",
-      "score": 0.33,
-      "explanation": "Retinitis pigmentosa is characterized by peripheral retinal atrophy and can present with nystagmus; however, it is less likely due to the specific additional symptoms of bull's eye maculopathy."
+      "disease_name": "Retinitis Pigmentosa 19",
+      "disease_id": "OMIM:601718",
+      "score": 0.333,
+      "explanation": "Retinitis pigmentosa can present with nystagmus and reduced visual acuity, along with retinal atrophy similar to the patient's presentation. However, the lack of characteristic bone spicule pigmentation reduces its ranking."
     }
   ]
 }

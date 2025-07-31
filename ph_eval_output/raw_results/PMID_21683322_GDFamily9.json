@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Geleophysic dysplasia 2",
-      "disease_id": "OMIM:614301",
+      "disease_id": "OMIM:614185",
       "score": 1.0,
-      "explanation": "This disease matches all the major phenotypic features presented by the patient and is strongly represented in the similar reference cases."
+      "explanation": "The patient's features including long and smooth philtrum, thin upper lip vermilion, hypertelorism, short stature, mitral and tricuspid stenosis, and respiratory insufficiency are strongly correlated with Geleophysic dysplasia 2, as seen in similar reference cases."
     },
     {
-      "disease_name": "Costello syndrome",
-      "disease_id": "OMIM:218040",
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
       "score": 0.5,
-      "explanation": "Costello syndrome shares several features such as short stature and cardiac abnormalities, though not all features match perfectly."
+      "explanation": "Acromicric dysplasia shares many of the phenotypic features with Geleophysic dysplasia, such as short stature, full cheeks, and joint issues, making it another potential diagnosis, though it lacks some cardiac features."
     },
     {
-      "disease_name": "Noonan syndrome",
-      "disease_id": "OMIM:163950",
-      "score": 0.33,
-      "explanation": "Noonan syndrome can present with some similar facial features and cardiac anomalies but may not align as closely with respiratory or joint issues."
+      "disease_name": "Weill-Marchesani syndrome",
+      "disease_id": "OMIM:277600",
+      "score": 0.3333333333333333,
+      "explanation": "Characterized by short stature, joint limitations, and cardiac defects, Weill-Marchesani syndrome is a possible but less likely diagnosis due to the absence of ocular features typical of this syndrome."
+    },
+    {
+      "disease_name": "Baraitser-Winter syndrome 1",
+      "disease_id": "OMIM:243310",
+      "score": 0.25,
+      "explanation": "This condition is considered due to phenotypes like hypertelorism, smooth philtrum, and respiratory issues, albeit some characteristic craniofacial and neurological features are not matched."
     }
   ]
 }

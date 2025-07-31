@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Kleefstra Syndrome 1",
+      "disease_name": "Kleefstra syndrome 1",
       "disease_id": "OMIM:610253",
       "score": 1.0,
-      "explanation": "This syndrome is characterized by developmental delay, intellectual disability, and physical features like talipes equinovarus and chronic constipation, closely matching the patient's phenotypic profile."
+      "explanation": "Features such as intellectual disability, global developmental delay, tube feeding, and microcephaly are characteristic of Kleefstra syndrome 1 as seen in the reference case."
     },
     {
-      "disease_name": "Intellectual Developmental Disorder",
-      "disease_id": "OMIM:612839",
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
       "score": 0.5,
-      "explanation": "The patient exhibits significant global developmental delay and intellectual disability, common in various forms of intellectual developmental disorders."
+      "explanation": "This condition presents with features like intellectual disability, developmental regression, tube feeding, and microcephaly, aligning with the clinical features observed in the patient."
     },
     {
-      "disease_name": "Phelan-McDermid Syndrome",
-      "disease_id": "OMIM:606232",
-      "score": 0.33,
-      "explanation": "This syndrome shares features such as developmental delay, intellectual disability, and behavioral issues like anxiety and depression which are present in the patient."
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.3333,
+      "explanation": "The presence of intellectual disability, developmental delay, and microcephaly are consistent with Coffin-Lowry syndrome."
     },
     {
-      "disease_name": "Smith-Magenis Syndrome",
-      "disease_id": "OMIM:182290",
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
       "score": 0.25,
-      "explanation": "The presentation of developmental delays, feeding issues, and behavioral problems aligns with Smith-Magenis Syndrome."
-    },
-    {
-      "disease_name": "Mowat-Wilson Syndrome",
-      "disease_id": "OMIM:235200",
-      "score": 0.2,
-      "explanation": "This syndrome includes developmental and intellectual disabilities along with features such as microcephaly, which fits the patient's profile."
+      "explanation": "Although there is an absence of some classic features, the combination of intellectual disability, developmental regression, and tube feeding could suggest Angelman syndrome."
     }
   ]
 }

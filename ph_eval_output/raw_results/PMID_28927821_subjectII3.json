@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Immunodeficiency, common variable, 13",
-      "disease_id": "OMIM:615158",
+      "disease_id": "OMIM:615577",
       "score": 1.0,
-      "explanation": "The patient's symptoms like B lymphocytopenia, decreased circulating IgA and IgM concentrations, recurrent sinusitis, and poor antibody response to vaccines strongly align with the phenotypic features observed in similar cases diagnosed with common variable immunodeficiency."
+      "explanation": "The phenotypic features in the patient (e.g., B lymphocytopenia, decreased class-switched memory B cells, decreased IgA and IgM, recurrent sinusitis, and decreased response to polysaccharide vaccine) closely match reference cases 1, 2, and 3, all diagnosed with Immunodeficiency, common variable, 13."
     },
     {
-      "disease_name": "Immunodeficiency, common variable, 1",
-      "disease_id": "OMIM:604260",
+      "disease_name": "X-linked agammaglobulinemia",
+      "disease_id": "OMIM:300300",
       "score": 0.5,
-      "explanation": "While similar to common variable immunodeficiency type 13, this variant also presents with overlapping immunologic features and recurrent infections, although specific phenotypes may vary slightly."
+      "explanation": "Considered due to B lymphocytopenia and decreased Ig levels, though features like recurrent bacterial infections are less specific in this patient compared to common variable immunodeficiency."
     },
     {
-      "disease_name": "Hyper-IgM Syndrome",
-      "disease_id": "OMIM:304150",
-      "score": 0.333,
-      "explanation": "Given the decreased specific antibody responses and immunoglobulin deficiencies, Hyper-IgM Syndrome remains a possibility, especially considering its association with defects in antibody class-switching."
+      "disease_name": "Selective IgA deficiency",
+      "disease_id": "OMIM:137100",
+      "score": 0.3333333333333333,
+      "explanation": "Characterized by decreased IgA concentration, which is present in the patient, but other immunoglobulin abnormalities are also observed, making selective IgA deficiency less likely than combined immunodeficiencies."
     },
     {
-      "disease_name": "Adenosine Deaminase Deficiency",
-      "disease_id": "OMIM:600000",
+      "disease_name": "Hyper-IgM syndrome",
+      "disease_id": "OMIM:308230",
       "score": 0.25,
-      "explanation": "This rare condition leads to severe immunodeficiency and can show similar laboratory findings, although it typically has broader clinical manifestations and should be considered due to recurrent infections."
+      "explanation": "Includes decreased IgA and IgG with normal or elevated IgM, not an exact match for this patient's profile but considering due to decreased IgM and specific antibody deficiency."
     }
   ]
 }

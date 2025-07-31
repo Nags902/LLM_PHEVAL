@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Neuropathy, hereditary sensory and autonomic, type IIB",
-      "disease_id": "OMIM:610613",
+      "disease_id": "OMIM:613115",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those observed in cases diagnosed with this hereditary neuropathy, particularly the combination of frequent falls, hyperactive deep tendon reflexes, peripheral axonal neuropathy, and acral ulceration."
+      "explanation": "The patient exhibits frequent falls, hyperactive deep tendon reflexes, spasticity, peripheral axonal neuropathy, and acral ulceration, which match the phenotypic features presented in cases that were diagnosed with this condition. The similarity in features and previous case diagnoses make it highly likely."
     },
     {
-      "disease_name": "CMT4J (Charcot-Marie-Tooth disease type 4J)",
-      "disease_id": "OMIM:601189",
+      "disease_name": "Hereditary spastic paraplegia type 4",
+      "disease_id": "OMIM:182601",
       "score": 0.5,
-      "explanation": "CMT4J presents with symptoms of neuropathy and spasticity, aligning with the patient's frequent falls and spasticity, although not all features match perfectly."
+      "explanation": "The condition is characterized by spasticity, frequent falls, and hyperactive deep tendon reflexes, which are present in the patient. Although acral ulceration is not a common feature, the motor symptoms align with hereditary spastic paraplegia."
     },
     {
-      "disease_name": "Duchenne Muscular Dystrophy",
-      "disease_id": "OMIM:310200",
-      "score": 0.333,
-      "explanation": "This condition could cause frequent falls and muscle weakness; however, it doesn't fully account for hyperactive deep tendon reflexes and acral ulceration."
+      "disease_name": "Charcot-Marie-Tooth disease, type 2A1",
+      "disease_id": "OMIM:118210",
+      "score": 0.3333333333333333,
+      "explanation": "Peripheral axonal neuropathy, hyperactive deep tendon reflexes, and frequent falls are consistent with this condition. While it is more commonly associated with muscle weakness, the neurological aspects occur in this patient."
     }
   ]
 }

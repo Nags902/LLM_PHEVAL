@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Febrile Seizures, Benign Familial Infantile 3",
-      "disease_id": "OMIM:607020",
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
       "score": 1.0,
-      "explanation": "This condition presents with febrile seizures during early childhood, making it a strong candidate given the patient's history of febrile seizure and age."
+      "explanation": "This condition is known to be associated with febrile seizures and has been frequently observed in similar reference cases."
     },
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 11",
-      "disease_id": "OMIM:614202",
+      "disease_name": "Seizures, benign familial infantile, 3",
+      "disease_id": "OMIM:607745",
       "score": 0.5,
-      "explanation": "This disease is associated with seizures including febrile seizures, and the patient's age aligns with the typical onset of symptoms."
+      "explanation": "Although mostly observed with additional neurodevelopmental abnormalities, this condition is still relevant due to the presentation of febrile seizures in the history."
     },
     {
-      "disease_name": "Seizures, Benign Familial Neonatal",
-      "disease_id": "OMIM:600062",
-      "score": 0.33,
-      "explanation": "This condition involves seizures in the neonatal period but can be relevant due to familial aspects of seizure disorders and phenomenological similarities."
+      "disease_name": "Febrile seizures, familial, 1",
+      "disease_id": "OMIM:121210",
+      "score": 0.3333333333,
+      "explanation": "This condition is strongly associated with febrile seizures fitting the age criteria given and is a primary consideration when only febrile seizures are reported."
+    },
+    {
+      "disease_name": "Febrile seizures, familial, 2",
+      "disease_id": "OMIM:602195",
+      "score": 0.25,
+      "explanation": "Similar to familial type 1, this disease is recognized for febrile seizures and is relevant based solely on the reported phenotypic feature."
     }
   ]
 }

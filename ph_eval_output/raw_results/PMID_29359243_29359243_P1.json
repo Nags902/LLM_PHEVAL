@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes (MELAS)",
-      "disease_id": "OMIM:540000",
+      "disease_name": "Multiple mitochondrial dysfunctions syndrome 7",
+      "disease_id": "OMIM:616157",
       "score": 1.0,
-      "explanation": "The patient's increased CSF lactate, respiratory failure, motor regression, brisk reflexes, hypotonia, and MRI findings closely resemble the metabolic disturbances seen in MELAS, which is characterized by mitochondrial dysfunction and symptoms including lactic acidosis and neurological deficits."
+      "explanation": "The combination of increased CSF lactate, respiratory failure, severe muscular hypotonia, abnormal cerebral MRI findings, motor regression, and feeding difficulties aligns closely with the characteristics of Multiple mitochondrial dysfunctions syndrome 7. This disease involves mitochondrial impairments that manifest in severe neurological symptoms observed in this patient."
     },
     {
       "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
-      "disease_id": "OMIM:614461",
+      "disease_id": "OMIM:614465",
       "score": 0.5,
-      "explanation": "The combination of increased CSF lactate, respiratory difficulties, and developmental delays in this infant suggests a severe neonatal encephalopathy, similar to the presented reference case, which shares features including motor regression and hypotonia."
+      "explanation": "Features such as increased CSF lactate, motor regression, abnormal cerebral cortex morphology, respiratory failure, feeding difficulties, and severe hypotonia are consistent with Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities, pointing towards a significant metabolic issue affecting the brain."
     },
     {
-      "disease_name": "Multiple mitochondrial dysfunctions syndrome 7",
-      "disease_id": "OMIM:615155",
-      "score": 0.33,
-      "explanation": "This condition is characterized by mitochondrial dysfunction leading to neurological symptoms, which align with the patient's abnormalities in MRI morphology, respiratory failure, and metabolic anomalies."
-    },
-    {
-      "disease_name": "Non-ketotic Hyperglycinemia",
-      "disease_id": "OMIM:605899",
-      "score": 0.25,
-      "explanation": "The increase in CSF lactate and the presence of severe hypotonia and nystagmus could indicate metabolic issues similar to those observed in non-ketotic hyperglycinemia, which often presents with similar neurological deficits and abnormal MRI findings."
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.333,
+      "explanation": "The pattern of increased CSF lactate, abnormal MRI findings, motor regression, and severe hypotonia also suggests Leigh syndrome, a progressive neurodegenerative disorder caused by defects in mitochondrial energy production, although there are some discrepancies in specific phenotypic manifestations."
     }
   ]
 }

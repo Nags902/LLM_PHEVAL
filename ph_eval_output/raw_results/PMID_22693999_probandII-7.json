@@ -4,19 +4,19 @@
       "disease_name": "Amyloidosis, hereditary systemic 6",
       "disease_id": "OMIM:105120",
       "score": 1.0,
-      "explanation": "The patient exhibits amyloidosis of peripheral nerves and chronic diarrhea, which aligns closely with the symptoms presented in similar reference cases, all leading to a diagnosis of hereditary systemic amyloidosis."
+      "explanation": "The phenotypic features including amyloidosis of peripheral nerves and chronic gastrointestinal symptoms (diarrhea and constipation) strongly match the cases similar to hereditary systemic amyloidosis, a known condition associated with similar manifestations."
     },
     {
-      "disease_name": "Amyloidosis, localized, with peripheral neuropathy",
-      "disease_id": "OMIM:605146",
+      "disease_name": "Familial amyloid polyneuropathy, transthyretin-related (TTR-FAP)",
+      "disease_id": "OMIM:176300",
       "score": 0.5,
-      "explanation": "While less common, localized amyloidosis can cause peripheral neuropathy and may also contribute to gastrointestinal issues, though it's less definitive than hereditary systemic amyloidosis."
+      "explanation": "TTR-FAP is associated with peripheral neuropathy and can also manifest with gastrointestinal issues such as diarrhea and constipation. It is a hereditary systemic amyloidosis like hereditary systemic amyloidosis 6."
     },
     {
-      "disease_name": "Familial Mediterranean fever",
-      "disease_id": "OMIM:249100",
-      "score": 0.33,
-      "explanation": "Familial Mediterranean fever can be associated with amyloidosis and may lead to chronic diarrhea, albeit the primary presentation is uncharacteristic for this patient\u2019s primary symptoms."
+      "disease_name": "Primary systemic amyloidosis (AL amyloidosis)",
+      "disease_id": "OMIM:105200",
+      "score": 0.3333,
+      "explanation": "Although primary systemic amyloidosis is usually acquired rather than hereditary, it can involve peripheral nerves and gastrointestinal symptoms, suggesting it should be considered."
     }
   ]
 }

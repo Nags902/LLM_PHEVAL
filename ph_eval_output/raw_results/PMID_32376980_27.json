@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Noonan Syndrome",
+      "disease_name": "Noonan Syndrome 1",
       "disease_id": "OMIM:163950",
       "score": 1.0,
-      "explanation": "Noonan Syndrome is characterized by congenital heart defects including patent ductus arteriosus and coarctation of the aorta, facial dysmorphism such as microretrognathia and hypertelorism, as well as developmental delays, which aligns well with the patient's features."
+      "explanation": "Many phenotypic features such as short neck, hypertelorism, coarctation of aorta, and developmental delay are consistent with Noonan Syndrome, specifically type 1 due to PTPN11 mutations."
     },
     {
-      "disease_name": " Turner Syndrome",
-      "disease_id": "OMIM:313300",
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:300135",
       "score": 0.5,
-      "explanation": "Turner Syndrome can present with short stature, short neck, and cardiovascular anomalies like coarctation of the aorta. Features such as delayed maturation and cryptorchidism in males also align with symptomatology."
-    },
-    {
-      "disease_name": "Williams Syndrome",
-      "disease_id": "OMIM:194050",
-      "score": 0.33,
-      "explanation": "Williams Syndrome often features cardiovascular problems including aortic stenosis, facial features like hypertelorism, and developmental delays. The presence of short neck and other craniofacial features can also be indicative."
+      "explanation": "Turner Syndrome can present with features such as short neck, heart defects, and delayed development, fitting part of the patient's presentation. However, the presence of cryptorchidism makes this less likely unless mosaicism is considered."
     },
     {
       "disease_name": "KBG Syndrome",
       "disease_id": "OMIM:148050",
-      "score": 0.25,
-      "explanation": "Although KBG Syndrome is overlapping with the patient\u2019s symptoms, particularly the developmental delays and craniofacial features, it usually includes macrodontia and other characteristics less prominent in this case."
+      "score": 0.333,
+      "explanation": "KBG Syndrome shares several features with the patient, including global developmental delay, delayed skeletal maturation, and prominent forehead, as seen in Case 3."
     },
     {
-      "disease_name": "Congenital Heart Disease, familial",
-      "disease_id": "OMIM:601132",
+      "disease_name": "Silver-Russell Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.25,
+      "explanation": "This syndrome can present with short stature, speech delay, and distinct craniofacial features like a prominent forehead and microretrognathia, aligning partially with the phenotypic profile."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
       "score": 0.2,
-      "explanation": "A broad category including various heart defects seen in the patient; while more general, it encompasses patent ductus arteriosus and coarctation, relevant to the patient's presentation."
+      "explanation": "CHARGE syndrome includes heart defects, delayed development, and craniofacial anomalies, which are part of the observed features, though less perfectly than Noonan Syndrome types."
     }
   ]
 }

@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Developmental and epileptic encephalopathy 4",
-      "disease_id": "OMIM:300449",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "The patient presents with similar features of truncal ataxia, absent speech, global developmental delay, and hypotonia, which align closely with the reference case diagnosed with this condition."
+      "explanation": "The presence of torticollis, hypotonia, global developmental delay, absent speech, and intellectual disability aligns with similar reference cases diagnosed with this condition."
     },
     {
       "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
-      "disease_id": "OMIM:616801",
+      "disease_id": "OMIM:117360",
       "score": 0.5,
-      "explanation": "While the patient lacks certain features such as cerebellar atrophy, the presence of ataxia, dysmetria, and developmental delays overlaps significantly with those observed in reference cases leading to this diagnosis."
+      "explanation": "Features like truncal ataxia, dysmetria, broad-based gait, and intellectual disability are common in spinocerebellar ataxias, and this diagnosis was observed in a reference case with overlapping features."
     },
     {
-      "disease_name": "Cerebellar Ataxia, Mental Retardation, and Phenotype Heterogeneity",
-      "disease_id": "OMIM:614014",
-      "score": 0.33,
-      "explanation": "The patient's combination of ataxia symptoms, intellectual disability, and developmental delays suggests a broader spectrum of cerebellar disorders, akin to those seen in this disorder."
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.3333333333333333,
+      "explanation": "The constellation of ataxia (truncal and limb), hypotonia, and tremor suggests this genetic condition, although the absence of telangiectasia makes this less likely than other diagnoses."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Key features such as absent speech, intellectual disability, and developmental delay match Rett syndrome, even though other distinctive signs are not mentioned."
     }
   ]
 }

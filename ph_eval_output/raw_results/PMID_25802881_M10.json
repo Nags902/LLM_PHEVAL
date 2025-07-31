@@ -4,19 +4,19 @@
       "disease_name": "Pseudohypoparathyroidism Ia",
       "disease_id": "OMIM:103580",
       "score": 1.0,
-      "explanation": "This condition presents with short stature, short metacarpals, and intellectual disability, matching the patient's phenotypic features closely."
+      "explanation": "This condition is strongly indicated by the presence of short stature, short metacarpal, intellectual disability, and similar phenotypic presentation found in Case 1."
     },
     {
       "disease_name": "Pseudopseudohypoparathyroidism",
-      "disease_id": "OMIM:612462",
+      "disease_id": "OMIM:612463",
       "score": 0.5,
-      "explanation": "This disease also manifests with short metacarpals and intellectual disability, although it may not directly involve short stature as a prevalent feature."
+      "explanation": "The condition is characterized by features like short metacarpal, short stature, and intellectual disability, which are aligned with the patient\u2019s symptoms and similar to the presentations in Cases 2 and 3."
     },
     {
-      "disease_name": "Achondroplasia",
-      "disease_id": "OMIM:100800",
-      "score": 0.33,
-      "explanation": "Achondroplasia is characterized by short stature and skeletal anomalies, which may include short metacarpals, but intellectual disability is generally not a prominent feature."
+      "disease_name": "Albright Hereditary Osteodystrophy (AHO)",
+      "disease_id": "OMIM:103580",
+      "score": 0.3333,
+      "explanation": "AHO is associated with phenotypes such as short stature, short metacarpal, and intellectual disability, matching the patient's symptoms. It is the underlying condition in Pseudohypoparathyroidism and Pseudopseudohypoparathyroidism."
     }
   ]
 }

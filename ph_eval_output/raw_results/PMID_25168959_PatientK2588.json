@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Coffin-Siris Syndrome",
-      "disease_id": "OMIM:601215",
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features match closely with the symptoms observed in multiple reference cases of Coffin-Siris syndrome, especially with short stature, intellectual disability, microcephaly, and abnormal corpus callosum morphology."
+      "explanation": "Many overlapping features with reference cases including short stature, thick eyebrows, long eyelashes, intellectual disability, sparse scalp hair, microcephaly, feeding difficulties, global developmental delay, and abnormal corpus callosum morphology."
     },
     {
-      "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:609413",
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.5,
-      "explanation": "This condition features some overlapping symptoms such as intellectual disability, obesity, and polycystic kidneys, which could partly explain the macrocephaly and developmental delays, though some features are not entirely consistent."
+      "explanation": "Shares features such as short stature, thick eyebrows, long eyelashes, intellectual disability, microcephaly, depressed nasal bridge, long philtrum, thin upper lip vermilion, and feeding difficulties."
     },
     {
-      "disease_name": "Angelman Syndrome",
-      "disease_id": "OMIM:105830",
-      "score": 0.33,
-      "explanation": "The features of intellectual disability, microcephaly, and feeding difficulties are relevant; however, the specific pointing features of Coffin-Siris syndrome are more pronounced."
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.333,
+      "explanation": "Includes features like intellectual disability, short stature, feeding difficulties, thick eyebrows, and sparse scalp hair. The presence of similar craniofacial dysmorphisms supports this possibility."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This condition includes features such as microcephaly, intellectual disability, feeding difficulties, and facial anomalies like a depressed nasal bridge and thin upper lip vermilion."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Relevant features include short stature, intellectual disability, feeding difficulties, and distinctive facial features such as thick eyebrows and a long philtrum."
     }
   ]
 }

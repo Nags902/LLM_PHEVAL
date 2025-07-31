@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "MHC class I deficiency 2",
-      "disease_id": "OMIM:612703",
+      "disease_id": "OMIM:209840",
       "score": 1.0,
-      "explanation": "The patient presents with chronic sinusitis, bronchitis, rhinitis, and nasal polyposis, similar to the reference cases which also indicated MHC class I deficiency 2 characterized by similar respiratory symptoms."
+      "explanation": "The patient's phenotypic features overlap significantly with those of similar reference cases diagnosed with MHC class I deficiency 2, including chronic sinusitis, chronic bronchitis, chronic rhinitis, and nasal polyposis."
     },
     {
       "disease_name": "Chronic Granulomatous Disease",
       "disease_id": "OMIM:306400",
       "score": 0.5,
-      "explanation": "Given the chronic nature of the infections and respiratory issues, this disease could also be considered due to potential immune system dysfunction leading to chronic respiratory issues."
+      "explanation": "This disease can present with chronic infections and rhinitis, albeit with different additional features. However, the similarity in the chronicity of pulmonary symptoms aligns with the patient's presentation."
     },
     {
-      "disease_name": "Common Variable Immunodeficiency",
-      "disease_id": "OMIM:607594",
-      "score": 0.33,
-      "explanation": "The chronic sinusitis and respiratory issues may suggest an underlying immunodeficiency, which is characteristic of Common Variable Immunodeficiency."
-    },
-    {
-      "disease_name": "Cystic Fibrosis",
-      "disease_id": "OMIM:219700",
-      "score": 0.25,
-      "explanation": "The presence of bronchitis and sinusitis may point towards cystic fibrosis, which is known for causing respiratory complications due to thick mucus production, although nasal polyposis is less common."
+      "disease_name": "Wiskott-Aldrich Syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.3333,
+      "explanation": "Although primarily characterized by immunodeficiency, eczema, and thrombocytopenia, the recurring sinonasal symptoms and immune system involvement in the patient's presentation warrant consideration."
     }
   ]
 }

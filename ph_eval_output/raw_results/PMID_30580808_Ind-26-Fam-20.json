@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Dravet Syndrome",
-      "disease_id": "OMIM:607678",
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 1.0,
-      "explanation": "The patient presents with seizures, intellectual disability, hypotonia, and EEG abnormalities similar to phenotypic features associated with Dravet syndrome."
+      "explanation": "Kabuki syndrome 1 is characterized by distinct facial features, including thin upper lip vermilion, low-set ears, and intellectual disability, which align well with the patient's symptoms. Additional features like sparse scalp hair, hypotonia, seizures, and developmental delays are also common in this syndrome."
     },
     {
-      "disease_name": "Cornelia de Lange Syndrome",
-      "disease_id": "OMIM:122047",
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
       "score": 0.5,
-      "explanation": "This syndrome is associated with intellectual disability, growth delays, hypotonia, and distinctive facial features including low-set ears and microtia."
+      "explanation": "Similar to Kabuki syndrome 1, Kabuki syndrome 2 can present with many overlapping features including developmental delays, seizures, hypotonia, and distinctive facial dysmorphisms. It is often considered as part of the same clinical spectrum."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz Syndrome",
-      "disease_id": "OMIM:270400",
-      "score": 0.333333333,
-      "explanation": "The combination of intellectual disability, distinctive facial features (thin upper lip vermilion, everted lower lip), and hypotonia aligns with the presentation of Smith-Lemli-Opitz syndrome."
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.333,
+      "explanation": "Floating-Harbor syndrome is characterized by low-set ears, everted lower lip vermilion, speech delay, and hypotonia. While not a perfect fit, the presence of similar dysmorphic features supports consideration of this diagnosis."
     },
     {
-      "disease_name": "Fragile X Syndrome",
-      "disease_id": "OMIM:300624",
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.25,
-      "explanation": "Although common features include intellectual disability and autistic behavior, additional specific physical features align with Fragile X syndrome presentations."
+      "explanation": "Cornelia de Lange syndrome can present with thin upper lip vermilion, intellectual disability, developmental delays, and characteristic facial features. Although less commonly associated with some symptoms such as seizures, it is still relevant given the distinct facial phenotype."
     }
   ]
 }

@@ -2,27 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "White-Sutton syndrome",
-      "disease_id": "OMIM:615078",
+      "disease_id": "OMIM:616364",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely match the presentation of White-Sutton syndrome, particularly the combination of facial dysmorphisms, developmental delays, seizures, and hearing impairments seen in previous cases."
+      "explanation": "The patient's phenotypic features such as short philtrum, wide mouth, cleft palate, pointed chin, exaggerated cupid's bow, developmental delay, hypotonia, autistic behaviors, and Dandy-Walker malformation closely match those documented in White-Sutton syndrome. Additionally, recurrent otitis media and respiratory infections align with other similar reference cases diagnosed with this syndrome."
     },
     {
-      "disease_name": "Kabuki syndrome",
-      "disease_id": "OMIM:147920",
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
       "score": 0.5,
-      "explanation": "Some overlapping features such as short philtrum, wide mouth, and hypertelorism are present, although additional characteristic features like skin changes and skeletal anomalies are less prominent."
-    },
-    {
-      "disease_name": "Pfeiffer syndrome",
-      "disease_id": "OMIM:101600",
-      "score": 0.33,
-      "explanation": "Shares features such as facial dysmorphism and developmental delay, but the cleft palate and hypotonia make features more suggestive of the previously mentioned conditions."
+      "explanation": "The presence of features like cleft palate, hypertelorism, ptosis, strabismus, midface retrusion, developmental delay, and sensorineural hearing impairment suggests a possible relation to CHARGE syndrome, which also presents with facial anomalies and developmental issues, although it lacks some specific features like exaggerated cupid's bow."
     },
     {
       "disease_name": "Smith-Lemli-Opitz syndrome",
       "disease_id": "OMIM:270400",
+      "score": 0.33,
+      "explanation": "Smith-Lemli-Opitz syndrome is considered due to overlapping features such as short philtrum, cleft palate, developmental delays, and hypotonia. However, other distinct features like the exaggerated cupid's bow and specific facial morphology are not typical for this condition."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.25,
-      "explanation": "Includes characteristics like facial anomalies, developmental delays, and congenital malformations, but the specific manifestations in this case are more aligned with White-Sutton syndrome."
+      "explanation": "Features such as cleft palate, developmental delay, hypotonia, and facial traits like wide mouth and ptosis suggest possible Kabuki syndrome, although the unique combination of exaggerated cupid's bow and some neurological features are atypical for this disorder."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Pitt-Hopkins syndrome is included due to developmental delay, autistic features, hypotonia, and wide mouth. However, the specific craniofacial features and Dandy-Walker malformation are less germane to this syndrome."
     }
   ]
 }

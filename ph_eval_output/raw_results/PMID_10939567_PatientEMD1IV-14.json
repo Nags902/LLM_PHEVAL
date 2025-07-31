@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2",
-      "disease_id": "OMIM:605376",
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant",
+      "disease_id": "OMIM:181350",
       "score": 1.0,
-      "explanation": "The patient presents a cluster of symptoms including Achilles tendon contracture, gait disturbance, spinal rigidity, arrhythmia, scapuloperoneal amyotrophy, and proximal muscle weakness in upper limbs that align closely with cases of Emery-Dreifuss muscular dystrophy, which is known for these specific phenotypic features."
+      "explanation": "The patient's phenotypic features, such as Achilles tendon contracture, spinal rigidity, scapuloperoneal amyotrophy, and arrhythmia, strongly overlap with cases of Emery-Dreifuss Muscular Dystrophy 2. Reference cases with similar presentations have been diagnosed with this condition."
     },
     {
-      "disease_name": "Duchenne Muscular Dystrophy",
-      "disease_id": "OMIM:310200",
+      "disease_name": "Bethlem Myopathy, Autosomal Dominant",
+      "disease_id": "OMIM:158810",
       "score": 0.5,
-      "explanation": "Duchenne muscular dystrophy may involve similar muscular weaknesses and contractures, although the presence of arrhythmia and specific amyotrophy patterns makes Emery-Dreifuss more likely. However, some symptoms such as proximal weakness and gait disturbance are also noted in this condition."
+      "explanation": "Features like Achilles tendon contracture, gait disturbance, and proximal muscle weakness are also seen in Bethlem Myopathy, although some characteristics such as scapuloperoneal amyotrophy are less typical."
     },
     {
-      "disease_name": "Congenital Muscular Dystrophy",
-      "disease_id": "OMIM:601679",
-      "score": 0.33,
-      "explanation": "Congenital muscular dystrophies feature muscle weakness and contractures, but the additional presence of arrhythmia and scapuloperoneal amyotrophy leans towards Emery-Dreifuss muscular dystrophy. Nevertheless, it remains a differential diagnosis due to overlap in muscle disease symptoms."
+      "disease_name": "Collagen VI-related Myopathy, Bethlem Type",
+      "disease_id": "OMIM:158810",
+      "score": 0.3333,
+      "explanation": "This condition shares features like contractures, proximal muscle weakness, and gait disturbance with the patient, but lacks a strong association with arrhythmia, making it a less likely fit compared to the top-ranked disease."
+    },
+    {
+      "disease_name": "Ullrich Congenital Muscular Dystrophy",
+      "disease_id": "OMIM:254090",
+      "score": 0.25,
+      "explanation": "This disorder also involves muscle weakness, contractures, and spinal rigidity. However, it typically presents with earlier onset and additional dermatological features not observed in the patient."
     }
   ]
 }

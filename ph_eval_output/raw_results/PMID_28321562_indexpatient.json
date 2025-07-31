@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Spastic Paraplegia 15",
-      "disease_id": "OMIM:610190",
-      "score": 1.0,
-      "explanation": "The patient's symptoms of spasticity, ataxia, and dysarthria closely align with those seen in Spastic Paraplegia 15, particularly the combination of upper and lower limb involvement along with gait imbalance."
-    },
-    {
       "disease_name": "Spinocerebellar Ataxia 15",
-      "disease_id": "OMIM:606116",
-      "score": 0.5,
-      "explanation": "Clinical features such as gait imbalance, dysmetria, dysarthria, and cerebellar vermis atrophy are consistent with Spinocerebellar Ataxia. This condition has a strong correlation with the cerebellar features presented."
+      "disease_id": "OMIM:606658",
+      "score": 1.0,
+      "explanation": "This disease is strongly suggested by the presence of cerebellar vermis atrophy, spastic ataxia, dysarthria, and gait imbalance, which align with Case 2 and Case 3."
     },
     {
-      "disease_name": "Hereditary Spastic Paraplegia",
-      "disease_id": "OMIM:182600",
-      "score": 0.333,
-      "explanation": "Lower and upper limb spasticity, together with muscle weakness, suggest hereditary spastic paraplegia could be a potential diagnosis, particularly if other identified patterns of inheritance or associated features are present."
+      "disease_name": "Spastic Paraplegia 7, Autosomal Recessive",
+      "disease_id": "OMIM:607259",
+      "score": 0.5,
+      "explanation": "Considering the overlap with spastic features, including upper and lower limb spasticity and lower limb muscle weakness, similar to Case 1 which is a spastic paraplegia case."
+    },
+    {
+      "disease_name": "Spastic Paraplegia 47, Autosomal Recessive",
+      "disease_id": "OMIM:613077",
+      "score": 0.3333,
+      "explanation": "Characterized by spasticity, ataxia, and cerebellar features, aligning with the phenotypic presentation of spastic ataxia, dysarthria, and cerebellar vermis atrophy."
+    },
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.25,
+      "explanation": "While not identical, features such as gait instability, dysarthria, and ataxia overlap with Friedreich Ataxia, albeit with less specificity due to the lack of certain typical features like scoliosis or heart involvement."
     }
   ]
 }

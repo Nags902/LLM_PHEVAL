@@ -4,19 +4,31 @@
       "disease_name": "KBG syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "The combination of intellectual disability, global developmental delay, macrodontia, motor delay, and various facial dysmorphisms aligns closely with multiple cases diagnosed with KBG syndrome."
+      "explanation": "The patient's features, such as intellectual disability, macrodontia, short stature, thick eyebrows, low anterior hairline, and synophrys, strongly overlap with hallmark features of KBG syndrome, which matches the provided similar cases."
     },
     {
-      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
-      "disease_id": "OMIM:618349",
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.5,
-      "explanation": "The patient's intellectual disability and developmental delays are consistent with this diagnosis, though this syndrome does not encompass some facial features observed."
+      "explanation": "The features including synophrys, thick eyebrows, intellectual disability, short stature, and global developmental delay are suggestive of Cornelia de Lange syndrome, which is characterized by these phenotypes."
     },
     {
-      "disease_name": "Franceschetti syndrome (also known as Aperts-like syndrome)",
-      "disease_id": "OMIM:605379",
-      "score": 0.33,
-      "explanation": "While primarily characterized by craniosynostosis, the facial features and developmental delays seen in this patient may suggest a variant of this syndrome, specifically with synophrys and short stature."
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.333,
+      "explanation": "The presence of delayed speech and language development, short stature, intellectual disability, and facial dysmorphisms such as low anterior hairline and thick eyebrows align with Floating-Harbor syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "The combination of intellectual disability, short stature, synophrys, and developmental delays can be associated with Coffin-Siris syndrome, though the match is less strong compared to the top candidates."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Kabuki syndrome could present with intellectual disability, short stature, and distinctive facial features, though it is a less likely match without the more specific features like long palpebral fissures."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Spinocerebellar Ataxia 29, Congenital Nonprogressive",
-      "disease_id": "OMIM:615215",
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those of the reference cases diagnosed with Spinocerebellar Ataxia 29, which includes ataxia, hypotonia, delayed motor milestones, and aniridia."
+      "explanation": "The patient's clinical presentation, including aniridia, ataxia, hypotonia, nystagmus, delayed motor milestones, and cerebellar atrophy, closely matches the phenotypic features of spinocerebellar ataxia 29, as shown in the similar reference cases."
     },
     {
-      "disease_name": "Cerebellar Dysgenesis (Cerebellar Hypoplasia) and Aniridia",
-      "disease_id": "OMIM:615216",
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
       "score": 0.5,
-      "explanation": "The presence of developmental delays, cerebellar atrophy, and eye abnormalities like aniridia suggest a condition involving cerebellar dysgenesis, aligning with other documented cases."
+      "explanation": "WAGR syndrome can present with aniridia, intellectual disability, and variable other features, but lacks the specific combination of cerebellar atrophy and other neurological symptoms that correlate more closely with SCA29."
     },
     {
-      "disease_name": "Oculodigital Syndrome",
-      "disease_id": "OMIM:258120",
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
       "score": 0.333,
-      "explanation": "This condition can involve nystagmus and hypotonia, and may feature developmental delays, though the exact symptom overlap is less certain compared to Spinocerebellar Ataxia 29."
+      "explanation": "Gillespie syndrome is characterized by aniridia and is associated with neurological abnormalities, but it is rarer than SCA29 and not as congruent with the specific phenotypic details, such as generalized hypotonia and cerebellar atrophy, seen in the patient."
     }
   ]
 }

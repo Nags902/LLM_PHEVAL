@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Polydactyly, preaxial",
-      "disease_id": "OMIM:174500",
-      "score": 1.0,
-      "explanation": "The presence of both syndactyly and preaxial foot polydactyly aligns with the characteristics of preaxial polydactyly disorders."
-    },
-    {
-      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
       "disease_id": "OMIM:175700",
-      "score": 0.5,
-      "explanation": "This syndrome features polydactyly and syndactyly as key manifestations, making it relevant to the observed phenotypes."
+      "score": 1.0,
+      "explanation": "Greig Cephalopolysyndactyly Syndrome is characterized by preaxial polydactyly, syndactyly, and it can sometimes manifest in both hands and feet, similar to the patient's phenotypic features."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz syndrome",
-      "disease_id": "OMIM:270400",
-      "score": 0.33,
-      "explanation": "This condition can include various limb malformations including polydactyly and syndactyly, although it's less typical than other syndromes."
+      "disease_name": "Laurence-Moon-Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Laurence-Moon-Bardet-Biedl Syndrome often involves polydactyly and syndactyly, though it is more commonly associated with additional features like obesity and retinal dystrophy. It remains plausible given overlapping phenotypes."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.3333,
+      "explanation": "Pallister-Hall Syndrome can feature polydactyly and syndactyly. Although typically associated with hypothalamic hamartomas, the less specific features of polydactyly and syndactyly warrant consideration."
+    },
+    {
+      "disease_name": "Acrocallosal Syndrome, Schinzel Type",
+      "disease_id": "OMIM:200990",
+      "score": 0.25,
+      "explanation": "Acrocallosal Syndrome includes preaxial polydactyly and syndactyly, along with agenesis of the corpus callosum and other abnormalities. The presence of similar limb anomalies provides a basis for inclusion in this list."
     }
   ]
 }

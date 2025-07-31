@@ -4,13 +4,19 @@
       "disease_name": "KBG syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "The clinical features of the patient closely match those typical of KBG syndrome, including intellectual disability, global developmental delay, macrodontia, thick eyebrows, short stature, delayed speech, and hypertelorism."
+      "explanation": "The phenotypic profile closely matches cases diagnosed with KBG syndrome, including intellectual disability, global developmental delay, macrodontia, thick eyebrows, short stature, and hypertelorism. Two similar reference cases were also diagnosed with this syndrome."
     },
     {
-      "disease_name": "Intellectual developmental disorder, unspecified",
-      "disease_id": "OMIM:615155",
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
       "score": 0.5,
-      "explanation": "This condition is a broad category that encompasses various intellectual disabilities and developmental delays, which could explain the patient's developmental delays and intellectual disability, although it does not pinpoint the specific phenotypic features seen."
+      "explanation": "Shares features like intellectual disability and hypertelorism, although there are discrepancies like macrodontia and short stature, which are less typical for Sotos syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Includes symptoms like intellectual disability, developmental delay, thick eyebrows, and hypertelorism, although macrodontia is not typically associated with this syndrome."
     }
   ]
 }

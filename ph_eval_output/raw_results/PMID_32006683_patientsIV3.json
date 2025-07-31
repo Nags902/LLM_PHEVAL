@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Cutis laxa, autosomal recessive, type ID",
-      "disease_id": "OMIM:225200",
+      "disease_id": "OMIM:614437",
       "score": 1.0,
-      "explanation": "This disease aligns closely with the patient's combination of phenotypic features, including tall stature, ectropion, arachnodactyly, and gastrointestinal issues, as noted in similar cases."
+      "explanation": "The patient's phenotypic features, including joint hypermobility, tall stature, pectus excavatum, scoliosis, and bladder diverticulum, align with cases diagnosed as Cutis laxa, autosomal recessive, type ID. Similar reference cases with numerous overlaps were also diagnosed with this condition."
     },
     {
-      "disease_name": "Marfan Syndrome",
+      "disease_name": "Marfan syndrome",
       "disease_id": "OMIM:154700",
       "score": 0.5,
-      "explanation": "Marfan Syndrome is characterized by tall stature, arachnodactyly, joint hypermobility, scoliosis, and cardiac anomalies, correlating with many of the patient's features."
+      "explanation": "Features such as tall stature, arachnodactyly, joint hypermobility, scoliosis, and pectus excavatum are characteristic of Marfan syndrome. Although not a perfect match, the phenotypic overlap suggests considering this possibility."
     },
     {
-      "disease_name": "Ehlers-Danlos Syndrome, hypermobile type",
-      "disease_id": "OMIM:130020",
-      "score": 0.33,
-      "explanation": "This condition includes phenotypes of joint hypermobility, tall stature, and pectus excavatum, which are prevalent in the patient."
-    },
-    {
-      "disease_name": "Congenital diaphragmatic hernia",
-      "disease_id": "OMIM:142350",
-      "score": 0.25,
-      "explanation": "The presence of congenital diaphragmatic hernia, although isolated, is a significant issue in the patient's clinical profile and has possible associations with other syndromic conditions."
+      "disease_name": "Loeys-Dietz syndrome, type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.3333333333333333,
+      "explanation": "Similarities with Loeys-Dietz syndrome include tall stature, joint hypermobility, ptosis, and arachnodactyly. The presence of telecanthus and downslanted palpebral fissures also suggest it as a potential candidate."
     }
   ]
 }

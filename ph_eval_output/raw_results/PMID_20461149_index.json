@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Branchiooculofacial Syndrome",
+      "disease_name": "Branchiooculofacial syndrome",
       "disease_id": "OMIM:113620",
       "score": 1.0,
-      "explanation": "The patient exhibits multiple features consistent with Branchiooculofacial Syndrome, including iris and retinal colobomas, nasolacrimal duct obstruction, microphthalmia, conductive hearing impairment, and facial anomalies like median pseudocleft lip."
+      "explanation": "The patient exhibits many of the key features associated with Branchiooculofacial syndrome, including iris coloboma, retinal coloboma, microphthalmia, conductive hearing impairment, nasolacrimal duct obstruction, aplasia cutis congenita, and median pseudocleft lip. This aligns well with the phenotypes observed in the reference cases all diagnosed with this syndrome."
     },
     {
-      "disease_name": "CHARGE Syndrome",
+      "disease_name": "CHARGE syndrome",
       "disease_id": "OMIM:214800",
       "score": 0.5,
-      "explanation": "This syndrome includes features like colobomas, hearing loss, and craniofacial anomalies, which align with the presented symptoms, but the presence of aplasia cutis congenita raises some concerns regarding direct correlation."
+      "explanation": "CHARGE syndrome also often includes colobomas, hearing impairment, and facial anomalies, similar to the patient's features. However, the lack of other common CHARGE features such as heart defects or choanal atresia makes this less likely than Branchiooculofacial syndrome."
     },
     {
-      "disease_name": "Patau Syndrome (Trisomy 13)",
-      "disease_id": "OMIM:26100",
-      "score": 0.3333333333,
-      "explanation": "This condition can present with microphthalmia and cleft lip/palate, but the broader range of phenotypic features does not fully match; however, it remains a consideration due to overlapping ocular and craniofacial defects."
+      "disease_name": "Oculocutaneous Albinism Type 1",
+      "disease_id": "OMIM:203100",
+      "score": 0.3333,
+      "explanation": "The presence of vision issues and the skin abnormality (aplasia cutis congenita) might suggest a form of oculocutaneous albinism, though typical pigmentation issues are not noted, making it less fitting."
     }
   ]
 }

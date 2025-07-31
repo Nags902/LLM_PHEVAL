@@ -1,34 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Marfan Lipodystrophy Syndrome",
-      "disease_id": "OMIM:613785",
+      "disease_name": "Marfan lipodystrophy syndrome",
+      "disease_id": "OMIM:616914",
       "score": 1.0,
-      "explanation": "The patient's features closely resemble those of the cases diagnosed with Marfan Lipodystrophy Syndrome, including high palate, high myopia, ectopia lentis, feeding difficulties, retrognathia, and arachnodactyly."
+      "explanation": "The patient's phenotypic features largely overlap with previously diagnosed cases of Marfan lipodystrophy syndrome, including high palate, high myopia, ectopia lentis, generalized lipodystrophy, arachnodactyly, hyperextensibility of finger joints, pectus excavatum, relative macrocephaly, and progeroid facial appearance. This condition is known to exhibit a combination of skeletal abnormalities, ocular symptoms, and lipodystrophy, which matches the presented phenotype closely."
     },
     {
-      "disease_name": "Congenital Lipodystrophy, Berardinelli-Seip Type",
-      "disease_id": "OMIM:605283",
+      "disease_name": "Congenital generalized lipodystrophy type 1",
+      "disease_id": "OMIM:608594",
       "score": 0.5,
-      "explanation": "Generalized lipodystrophy is prominent in the patient, along with feeding difficulties and failure to thrive, which are characteristic of this condition."
+      "explanation": "Although not a perfect match, the presence of generalized lipodystrophy, reduced subcutaneous adipose tissue, and progeroid facial appearance makes congenital generalized lipodystrophy type 1 a possible diagnosis. Features like ectopia lentis and high myopia are less typical for this condition but lipodystrophy is a key feature."
     },
     {
-      "disease_name": "Ehlers-Danlos Syndrome, Classic Type",
-      "disease_id": "OMIM:130000",
-      "score": 0.333,
-      "explanation": "The hyperextensibility, bruising susceptibility, and arachnodactyly found in the patient could suggest Ehlers-Danlos Syndrome, although not all phenotypic features perfectly align."
-    },
-    {
-      "disease_name": "Noonan Syndrome",
-      "disease_id": "OMIM:163950",
-      "score": 0.25,
-      "explanation": "The combination of retrognathia, feeding difficulties, and characteristic facial features gives some support to a diagnosis of Noonan Syndrome."
-    },
-    {
-      "disease_name": "Stickler Syndrome",
-      "disease_id": "OMIM:604841",
-      "score": 0.2,
-      "explanation": "High myopia, ectopia lentis, and prominent facial features are seen in Stickler Syndrome; thus, it is a consideration based on some shared features with the patient's profile."
+      "disease_name": "Weill-Marchesani syndrome",
+      "disease_id": "OMIM:608328",
+      "score": 0.3333333333333333,
+      "explanation": "The presence of high myopia, ectopia lentis, and skeletal abnormalities such as arachnodactyly could suggest Weill-Marchesani syndrome. However, the distinct lipodystrophy features in the patient make this diagnosis less likely compared to other options."
     }
   ]
 }

@@ -2,27 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Retinitis pigmentosa with or without skeletal anomalies",
-      "disease_id": "OMIM:263200",
+      "disease_id": "OMIM:610555",
       "score": 1.0,
-      "explanation": "The patient's clinical features closely match those of the reference cases, particularly the combination of rod-cone dystrophy with skeletal anomalies and other developmental delays."
+      "explanation": "The patient's features match closely with previously defined reference cases that were diagnosed with Retinitis pigmentosa with or without skeletal anomalies, including rod-cone dystrophy, brachydactyly, facial dysmorphisms, intellectual disability, and Chiari malformation."
     },
     {
-      "disease_name": "Bardet-Biedl syndrome",
-      "disease_id": "OMIM:615982",
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
       "score": 0.5,
-      "explanation": "This syndrome is characterized by rod-cone dystrophy, obesity, polydactyly, and renal anomalies. The phenotypic features present in this patient overlap with many of those seen in Bardet-Biedl syndrome."
+      "explanation": "Some features such as short stature, intellectual disability, and craniofacial characteristics are consistent with Noonan Syndrome 1; however, the presence of rod-cone dystrophy is less typical."
     },
     {
-      "disease_name": "Muckles syndrome (Muckle-Wells syndrome)",
-      "disease_id": "OMIM:607417",
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
       "score": 0.333,
-      "explanation": "While primarily a autoinflammatory disorder linked with hearing loss and urticaria, some presentations may include developmental delays and dysmorphic features which partially overlap with this patient's profile."
+      "explanation": "This syndrome presents with several overlapping features such as intellectual disability, distinctive facial features, and short stature, but does not typically include rod-cone dystrophy."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz syndrome",
-      "disease_id": "OMIM:270400",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 0.25,
-      "explanation": "This syndrome is associated with abnormalities in the development of multiple systems, presenting with intellectual disability and distinct facial features, aligning with some of the patient's listed phenotypes."
+      "explanation": "Features such as intellectual disability, facial dysmorphism, and behavioral problems are seen in Smith-Magenis Syndrome, but the ocular findings are not typical."
+    },
+    {
+      "disease_name": "Lujan-Fryns Syndrome",
+      "disease_id": "OMIM:309520",
+      "score": 0.2,
+      "explanation": "Some phenotypic aspects like intellectual disability, micrognathia, and brachydactyly fit with Lujan-Fryns Syndrome, although rod-cone dystrophy is not characteristic."
     }
   ]
 }

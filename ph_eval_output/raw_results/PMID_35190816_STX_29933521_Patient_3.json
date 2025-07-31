@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and epileptic encephalopathy 4",
-      "disease_id": "OMIM:614158",
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:613721",
       "score": 1.0,
-      "explanation": "This condition is directly related to the presentation of epileptic spasms, similar to Case 1."
+      "explanation": "The reference cases, particularly Case 2 and Case 3, with similar symptoms were diagnosed with Developmental and Epileptic Encephalopathy 11."
     },
     {
-      "disease_name": "Developmental and epileptic encephalopathy 11",
-      "disease_id": "OMIM:614209",
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:614949",
       "score": 0.5,
-      "explanation": "This disease shares features with patients presenting both epileptic encephalopathy and spasms, as seen in Cases 2 and 3."
+      "explanation": "Case 1 presented with only epileptic spasms, like the current case, and was diagnosed as Developmental and Epileptic Encephalopathy 4, making it a relevant possibility."
     },
     {
-      "disease_name": "West Syndrome",
+      "disease_name": "Developmental and Epileptic Encephalopathy 1",
       "disease_id": "OMIM:308350",
-      "score": 0.33,
-      "explanation": "West Syndrome is characterized by infantile spasms, which may be a specific presentation related to the phenotypic feature of epileptic spasms."
+      "score": 0.3333,
+      "explanation": "Given the presence of epileptic spasms and the broad spectrum of developmental and epileptic encephalopathies, other subtypes such as Type 1 should also be considered."
     }
   ]
 }

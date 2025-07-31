@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Epilepsy, early-onset",
-      "disease_id": "OMIM:308350",
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:616645",
       "score": 1.0,
-      "explanation": "The patient's presentation of bilateral tonic-clonic seizures, focal seizures, and global developmental delay closely aligns with similar cases diagnosed with early-onset epilepsy."
+      "explanation": "The patient's symptoms closely match those of previous reference cases, including epilepsy with developmental delay and autistic behaviors, as well as multiple types of seizures."
     },
     {
-      "disease_name": "Neurodevelopmental disorder with characteristic movement disorder",
-      "disease_id": "OMIM:615648",
+      "disease_name": "Lissencephaly 1",
+      "disease_id": "OMIM:607432",
       "score": 0.5,
-      "explanation": "Features such as ataxia, motor stereotypies, and intellectual disability are consistent with neurodevelopmental disorders evidenced in similar cases."
+      "explanation": "The presence of gray matter heterotopia, intellectual disability, and global developmental delay could indicate a neuronal migration disorder like Lissencephaly, which often presents with epilepsy."
     },
     {
-      "disease_name": "Gray matter heterotopia",
-      "disease_id": "OMIM:300066",
-      "score": 0.333,
-      "explanation": "The presence of gray matter heterotopia in the patient aligns with similar traits in patients experiencing seizures and developmental delays."
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.3333333333333333,
+      "explanation": "Features such as epilepsy, intellectual disability, and autistic behavior may suggest Tuberous Sclerosis, which is known for similar presentations alongside cortical tubers and subependymal nodules."
     },
     {
-      "disease_name": "Autism Spectrum Disorder",
-      "disease_id": "OMIM:209850",
+      "disease_name": "Early-Onset Epileptic Encephalopathy 2",
+      "disease_id": "OMIM:300672",
       "score": 0.25,
-      "explanation": "The patient's autistic behavior and developmental delays suggest the possibility of autism spectrum disorder, as seen in reference cases."
-    },
-    {
-      "disease_name": "Hypoplasia of corpus callosum",
-      "disease_id": "OMIM:219200",
-      "score": 0.2,
-      "explanation": "The presence of seizures, global developmental delay, and atypical EEG findings could indicate structural brain anomalies like hypoplasia of the corpus callosum."
+      "explanation": "Consistent seizures with developmental delays and intellectual disability point to an epileptic encephalopathy, fitting the described criteria."
     }
   ]
 }

@@ -1,34 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 28",
-      "disease_id": "OMIM:618132",
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616981",
       "score": 1.0,
-      "explanation": "The phenotypic features presented closely match those observed in previous cases diagnosed with Developmental and Epileptic Encephalopathy 28, indicating a strong likelihood."
+      "explanation": "The provided symptoms closely match the phenotypic features of Developmental and epileptic encephalopathy 28, including increased nuchal translucency, cerebral atrophy, epileptic spasms, and multiple other neurological features. Additionally, reference cases with similar features were diagnosed with this condition."
     },
     {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304050",
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
       "score": 0.5,
-      "explanation": "Features such as increased nuchal translucency, seizures, and cerebral abnormalities align with Aicardi syndrome, although not all clinical data perfectly match."
+      "explanation": "The presence of epileptic spasms, global developmental delay, and EEG abnormalities suggests West Syndrome, a severe form of epilepsy in infants often presenting with similar features. Although the fit is less perfect than Developmental and epileptic encephalopathy 28, it remains a plausible differential diagnosis."
     },
     {
-      "disease_name": "Tuberous Sclerosis Complex",
-      "disease_id": "OMIM:605284",
-      "score": 0.3333333333333333,
-      "explanation": "The presence of seizures, global developmental delay, and signs of cerebral atrophy could suggest Tuberous Sclerosis Complex, albeit less likely than Developmental and Epileptic Encephalopathy 28."
-    },
-    {
-      "disease_name": "KCNQ2-related Epileptic Encephalopathy",
-      "disease_id": "OMIM:613720",
-      "score": 0.25,
-      "explanation": "The combination of epilepsy and developmental delay may suggest a KCNQ2-related disorder, though specifics such as nuchal translucency are not directly linked."
-    },
-    {
-      "disease_name": "Pachygyria",
-      "disease_id": "OMIM:601148",
-      "score": 0.2,
-      "explanation": "Cerebral atrophy and developmental delay are common features of Pachygyria, but it is a less specific fit compared to the primary candidates listed."
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.3333,
+      "explanation": "Noonan Syndrome 1 can present with increased nuchal translucency and developmental delay. While the neurological symptoms are less specific to this condition, it remains a candidate due to its genetic variability and overlapping features."
     }
   ]
 }

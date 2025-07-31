@@ -1,22 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Holt-Oram Syndrome",
+      "disease_name": "Holt-Oram syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "The patient's presentation of multiple cardiac defects (atrial and ventricular septal defects) alongside upper limb anomalies (absent thumb and absent radius) matches closely with reference cases diagnosed with Holt-Oram syndrome."
+      "explanation": "The patient's phenotypic features, such as cardiac defects (atrial septal defects, ventricular septal defects) and limb anomalies (absent thumb, absent radius), align closely with Holt-Oram syndrome, as seen in the similar reference cases diagnosed with this condition."
     },
     {
-      "disease_name": "Campomelic Dysplasia",
-      "disease_id": "OMIM:114290",
+      "disease_name": "TAR syndrome (Thrombocytopenia-Absent Radius syndrome)",
+      "disease_id": "OMIM:274000",
       "score": 0.5,
-      "explanation": "This condition involves skeletal deformities and can present with upper limb defects. The presence of congenital heart defects may also be associated, making it a relevant but less likely diagnosis compared to Holt-Oram syndrome."
-    },
-    {
-      "disease_name": "Robert's Syndrome",
-      "disease_id": "OMIM:268300",
-      "score": 0.33,
-      "explanation": "Associated with limb malformations and cardiac defects, but it generally includes more severe malformations than those presented here, thus it ranks below Holt-Oram syndrome."
+      "explanation": "TAR syndrome is characterized by the absence of the radius and thumb abnormalities, matching some of the patient's limb phenotypes. Although more frequently associated with thrombocytopenia, the presence of limb defects merits its consideration."
     }
   ]
 }

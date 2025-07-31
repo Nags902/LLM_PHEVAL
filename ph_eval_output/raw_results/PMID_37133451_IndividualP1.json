@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Combined oxidative phosphorylation deficiency 59",
-      "disease_id": "OMIM:614283",
+      "disease_id": "OMIM:618330",
       "score": 1.0,
-      "explanation": "This disease is characterized by the combination of symptoms present in the patient, such as apnea, vomiting, retinal degeneration, heart failure, developmental delays, and reduced mitochondrial complex activity, mirroring the similar cases."
+      "explanation": "This condition closely matches the phenotypic features in the patient profile, including reduced activities of mitochondrial complexes I and IV, feeding difficulties, global developmental delay, failure to thrive, cardiac issues, CNS demyelination, and developmental regression. It is also the diagnosis in the similar reference cases provided."
+    },
+    {
+      "disease_name": "Leigh syndrome, French Canadian type",
+      "disease_id": "OMIM:220111",
+      "score": 0.5,
+      "explanation": "Leigh syndrome often involves decreased activities of mitochondrial respiratory chain complexes, developmental delay, feeding difficulties, and gastrointestinal symptoms like vomiting, which are present in the patient. Although less represented, the case similarity suggests a possible mitochondrial dysfunction leading to similar symptoms."
     },
     {
       "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
-      "disease_id": "OMIM:614202",
-      "score": 0.5,
-      "explanation": "Although this disease primarily features hepatocerebral symptoms, the presence of developmental delay and feeding difficulties aligns with the patient's symptoms, suggesting a mitochondrial etiology."
+      "disease_id": "OMIM:256810",
+      "score": 0.333,
+      "explanation": "This syndrome is associated with mitochondrial dysfunction and presents with features such as global developmental delay and feeding difficulties. It matches some of the symptoms provided and is also seen in one of the reference case diagnoses."
     },
     {
-      "disease_name": "Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia (MLASA)",
-      "disease_id": "OMIM:608080",
-      "score": 0.333,
-      "explanation": "The mitochondrial involvement and lactic acidosis risk connect this disease with some of the patient's symptoms, particularly global developmental delay and feeding difficulties."
+      "disease_name": "Pyruvate dehydrogenase deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "Given the decreased activity of the pyruvate dehydrogenase complex, this condition could explain some of the metabolic disturbances in the patient, such as developmental delay and neurological symptoms, though it may not account for all the present features."
     }
   ]
 }

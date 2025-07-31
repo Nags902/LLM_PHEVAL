@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_name": "Meckel Syndrome, Type 1",
       "disease_id": "OMIM:249000",
       "score": 1.0,
-      "explanation": "Meckel-Gruber Syndrome is associated with postaxial polydactyly, microcephaly, and other neural tube defects, aligning closely with the phenotypic features observed in the patient."
+      "explanation": "Meckel syndrome is characterized by the presence of microcephaly, polydactyly, Chiari malformation, and meningocele, which align closely with the patient's features."
     },
     {
-      "disease_name": "Patau Syndrome (Trisomy 13)",
-      "disease_id": "OMIM:772000",
+      "disease_name": "Joubert Syndrome Related Disorders",
+      "disease_id": "OMIM:213300",
       "score": 0.5,
-      "explanation": "Patau Syndrome can present with polydactyly, microcephaly, and structural brain malformations such as Chiari malformation, making it a possible match for the patient's features."
+      "explanation": "Joubert syndrome can present with features such as microcephaly, polydactyly, and malformations in the brain, similar to the Chiari malformation observed in this patient."
     },
     {
       "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:609inger177",
+      "disease_id": "OMIM:209900",
       "score": 0.333,
-      "explanation": "Bardet-Biedl Syndrome exhibits postaxial polydactyly and can be associated with renal and neurological anomalies, justifying its relevance with the patient's symptoms."
-    },
-    {
-      "disease_name": "Spina Bifida Occulta",
-      "disease_id": "OMIM:607451",
-      "score": 0.25,
-      "explanation": "While not directly correlating with all phenotypes, spina bifida can lead to additional complications that align with lumbosacral meningocele and lower limb malformations, supporting its inclusion."
+      "explanation": "Bardet-Biedl syndrome often includes postaxial polydactyly and neurological features. Although not a perfect match, it shares several significant phenotypic overlaps with the patient's presentation."
     },
     {
       "disease_name": "Smith-Lemli-Opitz Syndrome",
       "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome presents with microcephaly and structural brain abnormalities. Though polydactyly is less common, the condition shares some of the neurological aspects with the patient."
+    },
+    {
+      "disease_name": "Orofaciodigital Syndrome I",
+      "disease_id": "OMIM:311200",
       "score": 0.2,
-      "explanation": "Smith-Lemli-Opitz Syndrome includes polydactyly and microcephaly; however, its presentation is more variable, which places it lower on the ranking."
+      "explanation": "Microcephaly and polydactyly are features of orofaciodigital syndromes. The specific neurological and skeletal features observed may align, but it's a less likely candidate given the data."
     }
   ]
 }

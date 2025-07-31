@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Common Variable Immunodeficiency",
-      "disease_id": "OMIM:607594",
+      "disease_name": "Immunodeficiency, common variable, 13",
+      "disease_id": "OMIM:615577",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely match the criteria for Common Variable Immunodeficiency, including decreased CD4:CD8 ratio, B lymphocytopenia, and reduced immunoglobulin levels. This condition is supported by similar reference cases with a diagnosis of Common Variable Immunodeficiency."
+      "explanation": "The patient exhibits several key features consistent with common variable immunodeficiency (CVID), such as decreased CD4:CD8 ratio, decreased class-switched memory B cells, B lymphocytopenia, and decreased levels of IgA and IgM. The similar reference cases, which were all diagnosed with CVID13, reinforce this likelihood."
     },
     {
-      "disease_name": "Hyper-IgM Syndrome",
-      "disease_id": "OMIM:304400",
+      "disease_name": "X-Linked Agammaglobulinemia",
+      "disease_id": "OMIM:300755",
       "score": 0.5,
-      "explanation": "The combination of B lymphocytopenia, thrombocytopenia, and reduced IgA and IgM can also indicate Hyper-IgM Syndrome, particularly if class-switching defects are considered, although the clinical presentation may vary."
+      "explanation": "This condition involves B lymphocytopenia and low levels of immunoglobulins (IgA, IgM), resonating with the patient's immune phenotype. However, the decreased CD4:CD8 ratio is less typical, making it a less likely match compared to CVID13."
     },
     {
-      "disease_name": "Severe Combined Immunodeficiency",
-      "disease_id": "OMIM:601457",
+      "disease_name": "Hyper IgM Syndrome",
+      "disease_id": "OMIM:308230",
       "score": 0.333,
-      "explanation": "While the patient's presentation is suggestive of immunodeficiency, the absence of additional severe infections typically associated with Severe Combined Immunodeficiency places it as a less likely but still possible diagnosis."
+      "explanation": "Characterized by a failure of immunoglobulin class-switching, leading to decreased switched memory B cells and potentially involving decreased IgA and IgM. Thrombocytopenia might also be associated due to autoimmune processes, which aligns with the patient's presentation."
     }
   ]
 }

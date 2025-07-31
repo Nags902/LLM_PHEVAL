@@ -2,21 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Bardet-Biedl syndrome 5",
-      "disease_id": "OMIM:615982",
+      "disease_id": "OMIM:603650",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those of Bardet-Biedl syndrome, particularly postaxial polydactyly, clinodactyly, brachydactyly, reduced visual acuity, nyctalopia, and mild intellectual disability."
+      "explanation": "The combination of postaxial polydactyly, reduced visual acuity, nyctalopia, and mild intellectual disability matches Bardet-Biedl syndrome phenotypes, which is similar to reference Case 1."
     },
     {
-      "disease_name": "Bardet-Biedl syndrome",
-      "disease_id": "OMIM:601013",
+      "disease_name": "Ellis-van Creveld syndrome",
+      "disease_id": "OMIM:225500",
       "score": 0.5,
-      "explanation": "General Bardet-Biedl syndrome encompasses similar features. While Bardet-Biedl syndrome 5 is more specific, this broader category still aligns with the patient's symptoms."
+      "explanation": "Ellis-van Creveld syndrome presents with postaxial polydactyly, short stature, and occasionally visual impairment. Some features overlap, such as polydactyly and possible intellectual disability."
     },
     {
-      "disease_name": "Polydactyly, postaxial, types A1 and B",
-      "disease_id": "OMIM:601330",
-      "score": 0.33,
-      "explanation": "Although the case specifics differ, the occurrence of postaxial polydactyly in the patient is relevant to this classification, which may include developmental delays and other skeletal anomalies."
+      "disease_name": "Laurence-Moon syndrome",
+      "disease_id": "OMIM:245800",
+      "score": 0.3333,
+      "explanation": "Laurence-Moon syndrome involves features like intellectual disability and progressive visual impairment, including night blindness, similar to the patient's nyctalopia."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.25,
+      "explanation": "Alstr\u00f6m syndrome includes vision problems, such as reduced visual acuity and photophobia, and can present with polydactyly. There is partial overlap with the phenotypic features presented."
+    },
+    {
+      "disease_name": "McKusick-Kaufman syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.2,
+      "explanation": "This condition includes polydactyly and other limb anomalies which are present in the patient, although it is more commonly associated with other reproductive and organ-related anomalies."
     }
   ]
 }

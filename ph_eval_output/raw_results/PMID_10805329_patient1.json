@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Mitochondrial complex IV deficiency, nuclear type 2",
-      "disease_id": "OMIM:600349",
+      "disease_id": "OMIM:220110",
       "score": 1.0,
-      "explanation": "The patient presents with multiple symptoms consistent with mitochondrial complex IV deficiency, as evidenced by their significant myopathic abnormalities, heart failure, respiratory issues, and hypotonia, mirroring the two similar reference cases."
+      "explanation": "The phenotypic features of this patient match closely with the similar reference cases (1 and 2), which were diagnosed with this condition. Key features such as EMG: myopathic abnormalities, hypertrophic cardiomyopathy, and metabolic acidosis point towards a mitochondrial condition."
     },
     {
-      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 28",
-      "disease_id": "OMIM:616437",
+      "disease_name": "Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS) syndrome",
+      "disease_id": "OMIM:540000",
       "score": 0.5,
-      "explanation": "While the specific presentation differs slightly, the patient exhibits hypotonia, hyporeflexia, and respiratory failure, which are also features seen in muscular dystrophies. Reference case three hints at a muscular dystrophy but with a broader symptom set."
+      "explanation": "While not a perfect match, MELAS shares overlapping features with mitochondrial disorders such as metabolic acidosis, myopathy, and central nervous system manifestations, which can include hypotonia and abnormal facial features."
     },
     {
-      "disease_name": "Glycogen storage disease type II (Pompe disease)",
-      "disease_id": "OMIM:232300",
+      "disease_name": "Mitochondrial DNA depletion syndrome 1 (Hepatocerebral type)",
+      "disease_id": "OMIM:603041",
       "score": 0.3333333333333333,
-      "explanation": "Pompe disease should be considered due to its association with cardiomyopathy, hypotonia, and respiratory issues. The overlapping features with the patient's condition could point towards this as a potential diagnosis."
-    },
-    {
-      "disease_name": "Congenital muscular dystrophy, merosin-deficient",
-      "disease_id": "OMIM:606370",
-      "score": 0.25,
-      "explanation": "This condition features hypotonia and muscle weakness from birth, which aligns with the patient's symptoms, though there is less direct correlation with heart and respiratory failures compared to other diseases."
+      "explanation": "This syndrome is a mitochondrial disorder similar to the reference cases and often presents with cardiomyopathy, myopathy, and metabolic abnormalities, although hyporeflexia and peripheral neuropathy are less common."
     }
   ]
 }

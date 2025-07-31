@@ -4,19 +4,19 @@
       "disease_name": "Pseudohypoparathyroidism Ia",
       "disease_id": "OMIM:103580",
       "score": 1.0,
-      "explanation": "This disease is characterized by subcutaneous ossification, intellectual disability, and elevated circulating parathyroid hormone levels, matching all of the patient's phenotypic features."
+      "explanation": "The patient presents with subcutaneous ossification, intellectual disability, and elevated circulating parathyroid hormone levels, matching the phenotypic features of Pseudohypoparathyroidism Ia. Reference cases show identical symptomatology leading to a diagnosis of Pseudohypoparathyroidism Ia."
     },
     {
       "disease_name": "Pseudohypoparathyroidism Ib",
       "disease_id": "OMIM:603233",
       "score": 0.5,
-      "explanation": "While this subtype may involve some overlapping features like intellectual disability, it generally presents with less clear-cut ossification and parathyroid hormone abnormalities compared to Ia."
+      "explanation": "Although the patient shares some clinical features with Pseudohypoparathyroidism Ib, such as elevated circulating parathyroid hormone levels, subcutaneous ossification, and intellectual disability, the classical presentation of this subtype mainly involves renal resistance to parathyroid hormone and lacks some specific features of type Ia."
     },
     {
-      "disease_name": "Aho syndrome",
-      "disease_id": "OMIM:100200",
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
       "score": 0.333,
-      "explanation": "Associated with features of subcutaneous ossification and intellectual disability; however, it may not be as strongly linked to the elevated parathyroid hormone levels."
+      "explanation": "Albright Hereditary Osteodystrophy, which overlaps clinically with Pseudohypoparathyroidism, presents with subcutaneous ossifications and intellectual disability. Without additional features like hormone resistance typically present in Pseudohypoparathyroidism, it's considered a differential yet less probable."
     }
   ]
 }

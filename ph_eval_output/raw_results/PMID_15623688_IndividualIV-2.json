@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
-      "disease_id": "OMIM:615019",
+      "disease_id": "OMIM:117360",
       "score": 1.0,
-      "explanation": "This disease is closely aligned with the patient's symptoms of gait ataxia, delayed ability to walk, global developmental delay, and borderline intellectual disability. It was also a diagnosis in similar cases."
+      "explanation": "The patient's symptoms, such as gait ataxia, delayed ability to walk, intellectual disability, global developmental delay, and delayed speech, match closely with those seen in cases diagnosed with Spinocerebellar ataxia 29."
     },
     {
       "disease_name": "Intellectual developmental disorder, X-linked 114",
-      "disease_id": "OMIM:300974",
+      "disease_id": "OMIM:300968",
       "score": 0.5,
-      "explanation": "While this condition primarily affects intellectual development, it shares similarities in global developmental delay and speech language delays noted in the patient and reference cases."
-    },
-    {
-      "disease_name": "Developmental coordination disorder",
-      "disease_id": "OMIM:613458",
-      "score": 0.33,
-      "explanation": "This disorder could account for the gait ataxia and motor delays observed, although it may not fully explain the cognitive and speech delays."
+      "explanation": "The presence of intellectual disability, global developmental delay, and delayed speech and language development in the patient aligns with features observed in X-linked intellectual developmental disorder cases."
     },
     {
       "disease_name": "Ataxia-telangiectasia",
       "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Features such as gait ataxia, and developmental delays are characteristic of Ataxia-telangiectasia, though not all typical symptoms such as telangiectasias or immunodeficiency are noted."
+    },
+    {
+      "disease_name": "Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1",
+      "disease_id": "OMIM:224050",
       "score": 0.25,
-      "explanation": "This condition includes ataxia and may involve developmental delays. While it's a less common presentation at this age, it should be considered due to overlapping features."
+      "explanation": "The combination of ataxia, intellectual disability, and developmental delays suggest this syndrome, which is characterized by such neurological and developmental features."
     }
   ]
 }

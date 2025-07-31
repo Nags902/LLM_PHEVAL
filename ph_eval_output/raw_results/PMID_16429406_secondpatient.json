@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Fanconi Anemia, complementation group C",
+      "disease_name": "Fanconi Anemia, Complementation Group A",
       "disease_id": "OMIM:227650",
       "score": 1.0,
-      "explanation": "The patient's clinical features match closely with those seen in reference cases of Fanconi anemia, particularly the presence of chromosomal breakage, absent thumb, short stature, and cytopenias."
+      "explanation": "The patient exhibits classic symptoms of Fanconi Anemia, including chromosomal breakage induced by crosslinking agents, pancytopenia, absent thumb, absent radius, and cafe-au-lait spots. These features align closely with those observed in other Fanconi Anemia cases."
     },
     {
-      "disease_name": "Aplastic Anemia",
-      "disease_id": "OMIM:604939",
+      "disease_name": "Fanconi Anemia, Complementation Group C",
+      "disease_id": "OMIM:227645",
       "score": 0.5,
-      "explanation": "While not as specific as Fanconi anemia, the pancytopenia and neutropenia could indicate aplastic anemia as a secondary condition, especially given the hematological findings."
+      "explanation": "Comparable to reference cases diagnosed with Fanconi Anemia, Complementation Group C. Common phenotypic features observed in both the patient and similar cases include chromosomal breakage, absent thumb, absent radius, short stature, and cafe-au-lait spots."
     },
     {
-      "disease_name": "Shwachman-Diamond Syndrome",
-      "disease_id": "OMIM:260400",
-      "score": 0.33,
-      "explanation": "This syndrome features pancreatic insufficiency, short stature, and hematological abnormalities, aligning with some of the hematological features observed, albeit it lacks the specific malformations."
+      "disease_name": "Thrombocytopenia-Absent Radius Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.333,
+      "explanation": "The presence of thrombocytopenia, absent radius, and associated skeletal anomalies could suggest Thrombocytopenia-Absent Radius Syndrome, although chromosomal breakage is not typical, making this less likely."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.25,
+      "explanation": "Features such as anemia and short stature are suggestive; however, the chromosomal breakage and skeletal anomalies align less commonly with Diamond-Blackfan Anemia."
     }
   ]
 }

@@ -1,22 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
-      "disease_id": "OMIM:178060",
+      "disease_name": "Multiple Self-Healing Squamous Epithelioma",
+      "disease_id": "OMIM:132800",
       "score": 1.0,
-      "explanation": "This disease is directly associated with self-healing squamous epithelioma, making it the most relevant diagnosis based on the presented phenotypic feature."
+      "explanation": "The patient presents with self-healing squamous epithelioma, a hallmark feature leading to the diagnosis of Multiple Self-Healing Squamous Epithelioma, also known as Ferguson-Smith syndrome. The reference cases diagnosis supports this condition."
     },
     {
-      "disease_name": "Noonan Syndrome",
-      "disease_id": "OMIM:163950",
+      "disease_name": "Basal Cell Nevus Syndrome",
+      "disease_id": "OMIM:109400",
       "score": 0.5,
-      "explanation": "Noonan Syndrome can present with similar features, including hypertelorism and other developmental anomalies, although not specifically self-healing squamous epithelioma."
-    },
-    {
-      "disease_name": "Ehlers-Danlos Syndrome, vascular type",
-      "disease_id": "OMIM:130050",
-      "score": 0.33,
-      "explanation": "This syndrome is associated with arterial tortuosity and could potentially explain some vascular features, but lacks direct association with self-healing squamous epithelioma."
+      "explanation": "Although less common with only self-healing squamous epitheliomas present, Basal Cell Nevus Syndrome can include various skin lesions among its presentations. Some rare cases may have overlapping features."
     }
   ]
 }

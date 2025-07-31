@@ -4,19 +4,19 @@
       "disease_name": "KBG syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "The presence of intellectual disability, global developmental delay, macrodontia, long philtrum, abnormality of the hand, delayed speech and language development, hypertelorism, bulbous nose, and feeding difficulties closely matches the features outlined in KBG syndrome."
+      "explanation": "The patient's phenotypic features such as intellectual disability, global developmental delay, macrodontia, long philtrum, abnormality of the hand, delayed speech and language development, hypertelorism, and bulbous nose closely match Case 3, which was diagnosed with KBG syndrome."
     },
     {
       "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
-      "disease_id": "OMIM:300844",
+      "disease_id": "OMIM:618500",
       "score": 0.5,
-      "explanation": "This disorder is characterized by a combination of developmental delays, intellectual disabilities, and dysmorphic features similar to those present in the patient."
+      "explanation": "This condition encompasses a wide range of features seen in Cases 1 and 2, with overlapping characteristics such as intellectual disability, developmental delay, and dysmorphic features, including bulbous nose and hypertelorism."
     },
     {
-      "disease_name": "Syndrome X - 1",
-      "disease_id": "OMIM:618127",
-      "score": 0.333,
-      "explanation": "Although not a primary match, the overlapping phenotypic features of developmental delays and craniofacial dysmorphisms might indicate relevance."
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333333333333333,
+      "explanation": "Some features like intellectual disability, feeding difficulties, hypertelorism, long philtrum, and bulbous nose can be seen in Cornelia de Lange Syndrome, though not all features match the classic presentation."
     }
   ]
 }

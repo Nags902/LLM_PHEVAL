@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual development disorder with autism and macrocephaly",
-      "disease_id": "OMIM:615049",
-      "score": 1.0,
-      "explanation": "The patient presents with intellectual disability, global developmental delay, and hypotonia, which are prominent features in cases associated with this disorder. Additionally, self-mutilation behaviors and chronic constipation observed in the patient are also noted in reference cases."
-    },
-    {
-      "disease_name": "Coffin-Siris syndrome",
-      "disease_id": "OMIM:135900",
-      "score": 0.5,
-      "explanation": "This syndrome includes a variety of phenotypes including intellectual disability, hypotonia, and self-injurious behaviors, aligning with the patient\u2019s features, despite some differences in presentation."
-    },
-    {
-      "disease_name": "Prader-Willi syndrome",
+      "disease_name": "Prader-Willi Syndrome",
       "disease_id": "OMIM:176270",
-      "score": 0.3333333333333333,
-      "explanation": "Includes significant features of obesity, hypotonia, and developmental delay, which are consistent with the patient's condition. Self-mutilation behaviors can also occur in this syndrome."
+      "score": 1.0,
+      "explanation": "Prader-Willi Syndrome (PWS) is characterized by intellectual disability, global developmental delay, hypotonia, obesity, and hyperphagia, aligning with this patient's features."
     },
     {
-      "disease_name": "Smith-Magenis syndrome",
-      "disease_id": "OMIM:182212",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Smith-Magenis Syndrome shows features like self-injury, intellectual disability, developmental delay, and hypotonia, some of which overlap with this patient."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.333,
+      "explanation": "Coffin-Lowry Syndrome is characterized by intellectual disability, hypotonia, and distinctive facial features; however, it lacks some obesity-related symptoms seen here."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 0.25,
-      "explanation": "This syndrome encompasses intellectual disability, obesity, and behavioral problems, including self-injury, matching several of the patient's clinical features."
+      "explanation": "Mowat-Wilson Syndrome includes features like intellectual disability, global developmental delay, and constipation but is less associated with obesity or self-mutilation."
     }
   ]
 }

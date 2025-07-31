@@ -1,28 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Meckel-Gruber Syndrome",
-      "disease_id": "OMIM:249000",
+      "disease_name": "Neurodevelopmental Disorder with Intracranial Hemorrhage, Seizures, and Spasticity",
+      "disease_id": "OMIM:617573",
       "score": 1.0,
-      "explanation": "Characterized by CNS malformations including cystic kidneys, hydrocephalus, and abnormalities in brain structure such as the presence of a dilated third ventricle and thin corpus callosum, aligning well with the patient's features."
+      "explanation": "The phenotypic features closely match those found in the reference cases, such as hydrocephalus, thin corpus callosum, and intracranial hemorrhages, making this the most likely disease."
     },
     {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304050",
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome 1",
+      "disease_id": "OMIM:225750",
       "score": 0.5,
-      "explanation": "Includes features such as developmental delays, hydrocephalus, and abnormalities in corpus callosum. The patient's hydrocephalus and thin corpus callosum correspond to the typical presentation."
+      "explanation": "This syndrome is associated with basal ganglia calcification, abnormal CNS myelination, and hydrocephalus. It's commonly characterized by intracranial calcifications, although systemic inflammatory responses might not be well aligned with the presented phenotypes."
     },
     {
-      "disease_name": "X-linked Hydrocephalus with Abnormal Myelination",
-      "disease_id": "OMIM:302100",
-      "score": 0.33,
-      "explanation": "Associated with hydrocephalus, myelination abnormalities and dilated ventricles; the presence of moderate to severe neurological impairment fits with the patient's symptoms."
+      "disease_name": "Cockayne Syndrome B",
+      "disease_id": "OMIM:133540",
+      "score": 0.333,
+      "explanation": "Cockayne Syndrome often involves CNS abnormalities such as hydrocephalus and microcephaly. The features match only partially with this patient, thus a lower rank."
     },
     {
-      "disease_name": "Polymicrogyria",
-      "disease_id": "OMIM:602079",
+      "disease_name": "Porencephaly 1",
+      "disease_id": "OMIM:175780",
       "score": 0.25,
-      "explanation": "Although not directly listed in symptoms, it shares features like malformation of cerebral structures, with overlaps in features like gliosis and thin corpus callosum."
+      "explanation": "Porencephalic cysts and lateral ventricle dilation are directly indicative of Porencephaly. However, this condition usually has more specific features compared to the current presentation."
+    },
+    {
+      "disease_name": "Van der Knaap Syndrome",
+      "disease_id": "OMIM:260600",
+      "score": 0.2,
+      "explanation": "Van der Knaap syndrome involves dilated ventricles and abnormal myelination. It is a leukoencephalopathy which somewhat matches the presented CNS abnormalities."
     }
   ]
 }

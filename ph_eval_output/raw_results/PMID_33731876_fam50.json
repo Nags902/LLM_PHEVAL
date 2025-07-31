@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 11",
-      "disease_id": "OMIM:613348",
-      "score": 1.0,
-      "explanation": "The presence of continuous spike and waves during slow sleep, focal tonic seizures, and intellectual disability aligns closely with the features observed in similar cases diagnosed with this condition."
-    },
-    {
       "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:613636",
-      "score": 0.5,
-      "explanation": "This type of encephalopathy is characterized by severe intellectual disability, various seizure types including myoclonic and generalized seizures, and features like hypotonia and hypsarrhythmia, which match the patient's symptoms."
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "The presence of severe intellectual disability, hypsarrhythmia, hypotonia, continuous spike and waves during slow sleep, generalized tonic seizure, and multifocal epileptiform discharges aligns closely with this condition. Similar cases presented with overlapping symptoms were also diagnosed with this disease."
     },
     {
-      "disease_name": "Epileptic Encephalopathy",
+      "disease_name": "Developmental and Epileptic Encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "The combination of continuous spike and waves during slow sleep and focal tonic seizure suggests consideration of this condition. Reference Case 3 shows this specific diagnosis with overlapping symptoms."
+    },
+    {
+      "disease_name": "West Syndrome",
       "disease_id": "OMIM:308350",
-      "score": 0.33,
-      "explanation": "Considers a broader category of conditions that can manifest with similar severe epilepsy and developmental disruptions, although it may not pinpoint a specific subtype."
+      "score": 0.3333333333333333,
+      "explanation": "Hypsarrhythmia, generalized myoclonic seizures, and severe intellectual disability are key features of West Syndrome. While not explicitly linked to cases provided, it should be considered given the overlap of symptoms."
     }
   ]
 }

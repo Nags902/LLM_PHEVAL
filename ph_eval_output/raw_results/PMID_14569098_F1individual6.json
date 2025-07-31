@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:600899",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "This condition is characterized by stage 5 chronic kidney disease and gout, matching the patient's phenotype and supported by multiple similar reference cases."
+      "explanation": "The patient presents with Stage 5 chronic kidney disease and gout, matching phenotypes seen in all similar reference cases where this diagnosis was confirmed."
     },
     {
-      "disease_name": "Gout",
-      "disease_id": "OMIM:138200",
+      "disease_name": "Medullary cystic kidney disease type 2",
+      "disease_id": "OMIM:603860",
       "score": 0.5,
-      "explanation": "Gout is a common metabolic disorder that can lead to kidney damage and is present in the patient's symptoms; however, it is not a primary cause of kidney disease."
+      "explanation": "While less likely than Tubulointerstitial kidney disease, medullary cystic kidney disease can also present with chronic kidney disease and may have overlapping phenotypes like hyperuricemia leading to gout."
     },
     {
-      "disease_name": "Chronic kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:178500",
-      "score": 0.33,
-      "explanation": "While chronic kidney disease can have various genetic factors, this form is less specifically associated with gout as the primary symptom compared to the first-ranked disease."
+      "disease_name": "Familial juvenile hyperuricemic nephropathy 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.333,
+      "explanation": "Considered due to the presence of gout and kidney disease; however, the typical onset is earlier in life compared to this patient."
     }
   ]
 }

@@ -2,21 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Developmental and epileptic encephalopathy 4",
-      "disease_id": "OMIM:613002",
+      "disease_id": "OMIM:614894",
       "score": 1.0,
-      "explanation": "The patient's presentation of seizures, global developmental delay, hypoplasia of the corpus callosum, and progressive microcephaly aligns closely with the features seen in this condition."
-    },
-    {
-      "disease_name": "Congenital disorder of glycosylation, congenital muscular dystrophy with hypoplasia of the corpus callosum",
-      "disease_id": "OMIM:607847",
-      "score": 0.5,
-      "explanation": "This condition involves developmental delay, developmental brain anomalies, and microcephaly, which are similar features presented by the patient."
+      "explanation": "This condition is characterized by seizures, hypoplasia of the corpus callosum, and global developmental delay, matching many of the patient's symptoms."
     },
     {
       "disease_name": "Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
-      "disease_id": "OMIM:615456",
+      "disease_id": "OMIM:618392",
+      "score": 0.5,
+      "explanation": "Matches progressive microcephaly, global developmental delay, seizures, and brain structural anomaly like corpus callosum hypoplasia."
+    },
+    {
+      "disease_name": "Developmental delay, dysmorphic facies, and brain anomalies",
+      "disease_id": "OMIM:617143",
       "score": 0.333,
-      "explanation": "The global developmental delay, hypoplasia of the corpus callosum, and microcephaly are similar to this disorder, emphasizing the neurodevelopmental aspect."
+      "explanation": "This condition includes global developmental delay and hypoplasia of the corpus callosum, similar to the patient's features."
+    },
+    {
+      "disease_name": "ZTTK syndrome",
+      "disease_id": "OMIM:617140",
+      "score": 0.25,
+      "explanation": "Presesntation includes developmental delay, seizures, brain abnormalities including corpus callosum defects. Matches multiple symptoms seen."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:164874",
+      "score": 0.2,
+      "explanation": "Characterized by microcephaly, global developmental delay, and seizures. Also known for absence or hypoplasia of the corpus callosum."
     }
   ]
 }

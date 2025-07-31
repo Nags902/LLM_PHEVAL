@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
-      "disease_id": "OMIM:615204",
+      "disease_id": "OMIM:614820",
       "score": 1.0,
-      "explanation": "The patient exhibits key features such as global developmental delay, hypotonia, absent speech, and coarse facial features, which closely match the reference cases diagnosed with this condition."
+      "explanation": "The patient's symptoms, including coarse facial features, 11 pairs of ribs, long philtrum, tented upper lip vermilion, epicanthus, hirsutism, absent speech, motor delay, global developmental delay, and hypotonia, closely match those observed in similar reference cases diagnosed with this condition."
     },
     {
-      "disease_name": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH), with psychomotor retardation and characteristic facies",
-      "disease_id": "OMIM:615205",
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
       "score": 0.5,
-      "explanation": "While not all features match perfectly, notable signs like long philtrum, tented upper lip, and developmental delays suggest a potential relation to syndromes with overlapping symptoms."
+      "explanation": "Features such as coarse facial features, developmental delay, hypotonia, and long philtrum are consistent with Coffin-Lowry Syndrome. However, the absence of characteristic digital changes and the presence of 11 pairs of ribs make this less likely, but still a consideration."
     },
     {
-      "disease_name": "Mucopolysaccharidosis type IIIB (Sanfilippo syndrome type B)",
-      "disease_id": "OMIM:252850",
-      "score": 0.33,
-      "explanation": "This condition presents with developmental delays, coarse facial features, and skeletal dysplasia, which are consistent with some of the patient's phenotypic features, although with less certainty than the first two."
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Cornelia de Lange Syndrome is characterized by facial features like epicanthus, developmental delay, and hirsutism. However, the presence of 11 pairs of ribs is unusual for this condition, making it a less likely match."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki syndrome shares features such as developmental delay, hypotonia, and dysmorphic facial features. The lack of other typical Kabuki features and some unusual features like 11 pairs of ribs make this a lower-ranked possibility."
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual disability syndrome with dysmorphic features",
-      "disease_id": "OMIM:300000",
+      "disease_name": "Christianson Syndrome",
+      "disease_id": "OMIM:300243",
       "score": 1.0,
-      "explanation": "The patient's symptoms align closely with the presentations in the reference cases, particularly features such as global developmental delay, motor and speech delays, and dysmorphic features including facial shape and structure."
+      "explanation": "Christianson Syndrome is characterized by developmental delay, speech impairment, and autistic behavior. The presence of prominent facial features such as a wide mouth and broad philtrum supports this diagnosis."
     },
     {
-      "disease_name": "Autism Spectrum Disorder with associated dysmorphic features",
-      "disease_id": "OMIM:601121",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
       "score": 0.5,
-      "explanation": "The presence of autistic behavior in conjunction with developmental delays and dysmorphic traits supports a diagnosis within the spectrum of autism spectrum disorders, reflecting similarities to Case 3."
+      "explanation": "Pitt-Hopkins Syndrome often presents with global developmental delay, speech impediments, autistic behavior, and distinctive facial features like a broad philtrum and prominent metopic ridge."
     },
     {
-      "disease_name": "Pfeiffer syndrome",
-      "disease_id": "OMIM:101600",
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
       "score": 0.333,
-      "explanation": "This syndrome is characterized by craniosynostosis and dysmorphic features. Some of the patient's features, such as the prominent metopic ridge and facial characteristics, suggest a possible alignment."
+      "explanation": "Coffin-Siris Syndrome is associated with developmental delay, intellectual disability, and distinctive facial features, including a broad philtrum and highly arched eyebrows."
     },
     {
-      "disease_name": "Cornelia de Lange Syndrome",
-      "disease_id": "OMIM:122470",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.25,
-      "explanation": "The combination of developmental delays, dysmorphic facial features, and behavioral issues may align with features of Cornelia de Lange syndrome, as seen in similar cases."
+      "explanation": "Kabuki Syndrome 1 involves developmental delay, hearing impairment, and unique facial features such as highly arched eyebrows and a broad philtrum."
     },
     {
-      "disease_name": "Fragile X syndrome",
-      "disease_id": "OMIM:300624",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 0.2,
-      "explanation": "The patient's global developmental delay and behavioral irregularities could also suggest Fragile X syndrome, especially since it often includes speech delays and is commonly associated with varying degrees of intellectual disability."
+      "explanation": "Mowat-Wilson Syndrome is characterized by developmental delay, speech difficulty, and facial dysmorphism, including a broad philtrum and exaggerated cupid's bow."
     }
   ]
 }

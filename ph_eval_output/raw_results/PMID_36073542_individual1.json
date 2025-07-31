@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 114",
-      "disease_id": "OMIM:617171",
+      "disease_name": "Developmental and epileptic encephalopathy 114",
+      "disease_id": "OMIM:617771",
       "score": 1.0,
-      "explanation": "The patient exhibits significant overlap with the phenotypic features seen in multiple reference cases diagnosed with this disorder, including seizures, hypotonia, global developmental delay, and cerebral atrophy."
+      "explanation": "This condition closely matches the patient's phenotypic features, including focal impaired awareness seizures, hypotonia, developmental regression, cerebral atrophy, ventriculomegaly, thin corpus callosum, intellectual disability, and behavioral features like autistic behavior and self-injurious behavior. Similar reference cases were diagnosed with this condition, indicating a strong correlation."
     },
     {
-      "disease_name": "Phelan-McDermid Syndrome",
-      "disease_id": "OMIM:606232",
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
       "score": 0.5,
-      "explanation": "The combination of developmental delay, autism-like behavior, hypotonia, and seizures aligns with the features of Phelan-McDermid Syndrome, which may also present with similar craniofacial features."
+      "explanation": "Rett syndrome is characterized by developmental regression, intellectual disability, autistic behavior, loss of purposeful hand skills, stereotypic hand movements, seizures, and motor abnormalities, overlapping with several of the patient's symptoms such as developmental regression, hypotonia, seizures, and autistic behavior. However, gender specificity (usually affecting females) and other unique features are missing here."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz Syndrome",
-      "disease_id": "OMIM:270400",
-      "score": 0.3333,
-      "explanation": "This syndrome can manifest with developmental delays, intellectual disability, and physical anomalies, which may correlate with the patient's observed features and behaviors."
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "This syndrome is associated with intellectual disability, speech impairment, ataxia, paroxysmal laughter, seizures, and distinct behaviors, sharing features like intellectual disability, developmental delay, and seizures with the patient. However, some key facial dysmorphisms and behavioral aspects typical of Angelman syndrome are not entirely consistent."
     }
   ]
 }

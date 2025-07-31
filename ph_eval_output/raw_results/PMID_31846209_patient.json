@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual disability with dysmorphic facies and behavioral abnormalities",
-      "disease_id": "OMIM:618012",
+      "disease_name": "Holoprosencephaly 4",
+      "disease_id": "OMIM:142945",
       "score": 1.0,
-      "explanation": "This disease matches a significant number of the patient's phenotypic features including microcephaly, hypotonia, seizures, feeding difficulties, and specific facial dysmorphisms as seen in the reference cases."
+      "explanation": "The presence of lobar holoprosencephaly, microcephaly, hypotelorism, and seizures are key features aligning with Holoprosencephaly 4."
     },
     {
-      "disease_name": "Holoprosencephaly, syndromic",
-      "disease_id": "OMIM:236100",
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
       "score": 0.5,
-      "explanation": "The presence of lobar holoprosencephaly and associated facial features such as hypotelorism and a high palate indicate a syndromic form of holoprosencephaly, which is supported by the similar cases."
+      "explanation": "Smith-Lemli-Opitz Syndrome can present with microcephaly, high palate, hypotonia, hypotelorism, and seizures, matching several patient features."
     },
     {
-      "disease_name": "22q11.2 deletion syndrome",
-      "disease_id": "OMIM:192430",
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
       "score": 0.333,
-      "explanation": "Phenotypic features such as feeding difficulties, high palate, and hypotonia correspond with the typical manifestations of 22q11.2 deletion syndrome, characterized by multiple birth defects and neurodevelopmental disorders."
+      "explanation": "Characterized by features such as lobar holoprosencephaly, seizures, and microcephaly; overlaps with patient symptoms."
     },
     {
-      "disease_name": "Mowat-Wilson syndrome",
-      "disease_id": "OMIM:235200",
+      "disease_name": "Van der Woude Syndrome",
+      "disease_id": "OMIM:119300",
       "score": 0.25,
-      "explanation": "The distinctive combination of features including midline facial defects, hypotonia, and cognitive impairment align with Mowat-Wilson syndrome, which may also contribute to the patient's clinical presentation."
-    },
-    {
-      "disease_name": "Syndromic microcephaly",
-      "disease_id": "OMIM:611593",
-      "score": 0.2,
-      "explanation": "Given the presence of microcephaly alongside several other phenotypic features, syndromic microcephaly represents a broad category that could encompass the observed symptoms."
+      "explanation": "Presence of features such as high arched palate, hypotonia, and feeding difficulties suggest potential relation, though with lower confidence."
     }
   ]
 }

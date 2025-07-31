@@ -2,21 +2,15 @@
   "ranked_diseases": [
     {
       "disease_name": "Rhabdoid tumor predisposition syndrome 1",
-      "disease_id": "OMIM:605024",
+      "disease_id": "OMIM:609322",
       "score": 1.0,
-      "explanation": "The patient presented with an atypical teratoid/rhabdoid tumor, which is a hallmark for Rhabdoid tumor predisposition syndrome 1, as indicated in multiple similar reference cases."
+      "explanation": "The patient's phenotype and age match the typical presentation of Rhabdoid tumor predisposition syndrome 1, supported by multiple similar reference cases."
     },
     {
       "disease_name": "Rhabdoid tumor predisposition syndrome 2",
-      "disease_id": "OMIM:614325",
+      "disease_id": "OMIM:613325",
       "score": 0.5,
-      "explanation": "Although less common, there is a genetic predisposition related to atypical teratoid/rhabdoid tumor that could suggest this syndrome, particularly if familial patterns are considered."
-    },
-    {
-      "disease_name": "Neuroblastoma",
-      "disease_id": "OMIM:256700",
-      "score": 0.33,
-      "explanation": "While the primary diagnosis is an atypical teratoid/rhabdoid tumor, neuroblastoma can present similarly and is a consideration in young children with tumors."
+      "explanation": "Although less common, Rhabdoid tumor predisposition syndrome 2 should be considered due to the phenotypic overlap with syndrome 1 and its association with atypical teratoid/rhabdoid tumors."
     }
   ]
 }

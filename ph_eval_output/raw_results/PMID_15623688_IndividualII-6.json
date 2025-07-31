@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
-      "disease_id": "OMIM:615156",
+      "disease_id": "OMIM:117360",
       "score": 1.0,
-      "explanation": "This diagnosis is supported by the presence of dysarthria, intellectual disability (borderline), and impaired tandem gait, which are common phenotypic features seen in cases diagnosed with Spinocerebellar ataxia 29."
+      "explanation": "The patient exhibits symptoms such as dysarthria, intellectual disability, and impaired tandem gait, which are consistent with Spinocerebellar ataxia 29, as seen in similar reference cases."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.5,
+      "explanation": "Friedreich ataxia can present with dysarthria and impaired gait. Although intellectual disability is not as commonly associated, the presentation overlaps somewhat with the patient's symptoms."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:208920",
+      "score": 0.333,
+      "explanation": "This condition includes ataxia which can encompass impaired tandem gait and dysarthria. Although oculomotor apraxia is not observed, the other features partially align."
     },
     {
       "disease_name": "Cerebral palsy",
-      "disease_id": "OMIM:168900",
-      "score": 0.5,
-      "explanation": "Cerebral palsy could explain the neurological features such as dysarthria and gait impairment, and it aligns with the patient's intellectual disability, although it is broader and less specific."
-    },
-    {
-      "disease_name": "Ataxia-telangiectasia",
-      "disease_id": "OMIM:608050",
-      "score": 0.3333333333333333,
-      "explanation": "Ataxia-telangiectasia is characterized by ataxia and can include dysarthria and intellectual disability; however, it is more associated with immunodeficiency and telangiectasia than the specific features presented."
+      "disease_id": "OMIM:603513",
+      "score": 0.25,
+      "explanation": "Cerebral palsy can manifest with dysarthria and impaired gait. Even though it does not fully explain the intellectual disability level, it shares some characteristics with observed phenotypes."
     }
   ]
 }

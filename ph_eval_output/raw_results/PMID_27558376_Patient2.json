@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Leukoencephalopathy, porphyria-related",
-      "disease_id": "OMIM:260690",
+      "disease_name": "Leukoencephalopathy with or without cerebellar ataxia and/or motor neuropathy",
+      "disease_id": "OMIM:616517",
       "score": 1.0,
-      "explanation": "This condition shares multiple phenotypic features with the patient, including loss of ambulation, cognitive impairment, optic atrophy, and increased CSF lactate, aligning closely with all presented cases."
+      "explanation": "The patient's phenotype matches well with reference cases exhibiting leukoencephalopathy, characterized by spastic paraparesis, sensorimotor neuropathy, cerebellar atrophy, and increased CSF lactate. The overlap in features including optic atrophy and cognitive impairment strongly correlates with this condition."
     },
     {
-      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
-      "disease_id": "OMIM:616090",
+      "disease_name": "Adult-onset autosomal dominant cerebellar ataxia (ADCA)",
+      "disease_id": "OMIM:109150",
       "score": 0.5,
-      "explanation": "Though less directly correlated, the presence of nystagmus, ataxia, and delayed ability to walk in the patient aligns with the features of this condition seen in a similar case."
+      "explanation": "The combination of features such as ataxia, apraxia, cerebellar atrophy, and progressive visual loss suggest ADCA as a potential diagnosis. Although the disease is more heterogeneous, it can present with similar phenotypic features in some subtypes."
     },
     {
-      "disease_name": "Leukoencephalopathy",
-      "disease_id": "OMIM:125950",
-      "score": 0.33,
-      "explanation": "Additional types of leukoencephalopathy should be considered, as the patient's presentation fits several overlapping features indicative of leukodystrophic syndromes."
+      "disease_name": "Mitochondrial complex I deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.333,
+      "explanation": "Given the presence of increased CSF lactate, cognitive impairment, and sensorimotor neuropathy alongside optic atrophy, a mitochondrial disorder such as complex I deficiency should be considered."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2A",
+      "disease_id": "OMIM:118210",
+      "score": 0.25,
+      "explanation": "CMT2A can present with sensorimotor neuropathy, optic atrophy, and spastic paraparesis. The phenotype partially overlaps, but the lack of hallmark features like pes cavus may reduce likelihood."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 29",
+      "disease_id": "OMIM:165447",
+      "score": 0.2,
+      "explanation": "Despite being less likely, the presence of ataxia, nystagmus, and cerebellar atrophy with similar features from reference cases suggests SCA29 as a possible, though lower-ranked, conclusion."
     }
   ]
 }

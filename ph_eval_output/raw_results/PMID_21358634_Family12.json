@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
-      "disease_id": "OMIM:612777",
+      "disease_name": "Multiple Self-Healing Squamous Epithelioma (Ferguson-Smith Type)",
+      "disease_id": "OMIM:132800",
       "score": 1.0,
-      "explanation": "This disease is characterized by the presence of self-healing squamous epitheliomas as noted in the similar reference cases."
+      "explanation": "The patient's presentation of self-healing squamous epithelioma is characteristic of the condition known as Multiple Self-Healing Squamous Epithelioma. Similar reference cases with matching phenotypes (though those include more features) were diagnosed with this condition."
     },
     {
-      "disease_name": "Harrison syndrome",
-      "disease_id": "OMIM:605988",
-      "score": 0.5,
-      "explanation": "This syndrome also features self-healing lesions and arterial abnormalities, although it is less commonly associated with squamous epithelioma specifically."
-    },
-    {
-      "disease_name": "Nevoid basal cell carcinoma syndrome",
+      "disease_name": "Basal Cell Nevus Syndrome",
       "disease_id": "OMIM:109400",
-      "score": 0.33,
-      "explanation": "This condition includes the presence of skin abnormalities, including multiple tumors, though it may not specifically feature self-healing epitheliomas."
+      "score": 0.5,
+      "explanation": "Basal Cell Nevus Syndrome can manifest with self-healing squamous epithelioma as part of its spectrum. While other characteristic features of this syndrome are absent, it's a possible match based on the single feature presented."
+    },
+    {
+      "disease_name": "Keratoacanthoma",
+      "disease_id": "OMIM:148000",
+      "score": 0.333,
+      "explanation": "Keratoacanthoma is a skin lesion that can exhibit spontaneous regression, a feature similar to self-healing squamous epithelioma. Though often not genetic, it is included for the 'self-healing' aspect."
     }
   ]
 }

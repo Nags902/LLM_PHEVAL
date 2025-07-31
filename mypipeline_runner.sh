@@ -1,9 +1,9 @@
 #!/bin/bash
 #$ -cwd                           # Run from current working directory
 #$ -j y                           # Merge stdout and stderr
-#$ -l h_rt=24:00:00               # Wall-clock time limit
+#$ -l h_rt=240:00:00              # Wall-clock time limit
 #$ -l h_vmem=12G                  # Memory per core
-#$ -pe smp 3                      # Number of CPU cores
+#$ -pe smp 2                      # Number of CPU cores
 #$ -m bea                         # Email on begin, end, and abort
 
 ### 1) Load Miniforge
@@ -44,7 +44,7 @@ poetry install || {
 }
 
 ### 6) export openai api key
-export OPENAI_API_KEY=""
+export OPENAI_API_KEY="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"
 
 ### 7) Run PhEval
 echo "[INFO] Running PhEval..."

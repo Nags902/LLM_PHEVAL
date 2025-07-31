@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Bardet-Biedl Syndrome 1",
-      "disease_id": "OMIM:609 Apert",
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
       "score": 1.0,
-      "explanation": "Strong match with multiple overlapping symptoms including postaxial polydactyly, nyctalopia, reduced visual acuity, and obesity as evidenced in the reference cases."
+      "explanation": "The patient's symptoms, particularly postaxial polydactyly, reduced visual acuity, nyctalopia, and obesity, align closely with those observed in several reference cases diagnosed with Bardet-Biedl syndrome."
     },
     {
-      "disease_name": "Bardet-Biedl Syndrome 2",
-      "disease_id": "OMIM:613186",
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
       "score": 0.5,
-      "explanation": "Similar symptomatology to Bardet-Biedl Syndrome 1 and noted for postaxial polydactyly and eye-related features."
+      "explanation": "Alstr\u00f6m syndrome shares many features with Bardet-Biedl syndrome, including obesity, reduced visual acuity, and potentially polydactyly, making it a possible but less likely diagnosis given the absence of cardiomyopathy and hearing loss."
     },
     {
-      "disease_name": "Bardet-Biedl Syndrome 3",
-      "disease_id": "OMIM:615985",
+      "disease_name": "Laurence-Moon syndrome",
+      "disease_id": "OMIM:245800",
       "score": 0.333,
-      "explanation": "Related to the Bardet-Biedl spectrum, presenting similar signs though less characterized in the literature."
+      "explanation": "Laurence-Moon syndrome is similar to Bardet-Biedl syndrome but is rarer and usually includes spastic paraplegia, which is not present here, thus being a less likely match."
     }
   ]
 }

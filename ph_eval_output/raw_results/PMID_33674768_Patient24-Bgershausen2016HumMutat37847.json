@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Tarnowsky Syndrome",
-      "disease_id": "OMIM:615904",
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
       "score": 1.0,
-      "explanation": "The combination of feeding difficulties, neonatal hypoglycemia, intellectual disability, prominent fingertip pads, intrauterine growth retardation, horseshoe kidney, and clinodactyly aligns well with the phenotypic features of Tarnowsky Syndrome."
+      "explanation": "Cornelia de Lange Syndrome is associated with intellectual disability, growth retardation, and characteristic facial features. The phenotypes of feeding difficulties, intellectual disability, and intrauterine growth retardation align with this condition."
     },
     {
-      "disease_name": "Dubowitz Syndrome",
-      "disease_id": "OMIM:222748",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.5,
-      "explanation": "The presence of intellectual disability, developmental delay, and distinct facial features alongside growth anomalies fits within Dubowitz Syndrome's known manifestations."
-    },
-    {
-      "disease_name": "Williams Syndrome",
-      "disease_id": "OMIM:194050",
-      "score": 0.33,
-      "explanation": "While not all features are characteristic, the presence of feeding difficulties, developmental delays, and facial dysmorphisms can sometimes correspond with Williams Syndrome."
+      "explanation": "Kabuki Syndrome 1 presents with intellectual disability, growth deficiencies, and distinct facial features, as well as other overlapping features like horseshoe kidney and clinodactyly."
     },
     {
       "disease_name": "Prader-Willi Syndrome",
       "disease_id": "OMIM:176270",
-      "score": 0.25,
-      "explanation": "This syndrome often presents with feeding difficulties in infancy and can include developmental delays and intellectual disabilities, though not all phenotypic features match."
+      "score": 0.333,
+      "explanation": "Prader-Willi Syndrome can present with feeding difficulties, intellectual disability, neonatal hypotonia/hypoglycemia, and growth retardation, aligning with several of the patient's phenotypic features."
     },
     {
-      "disease_name": "Patau Syndrome (Trisomy 13)",
-      "disease_id": "OMIM:610000",
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz Syndrome can manifest as feeding difficulties, intellectual disability, growth retardation, and distinct facial shape abnormalities."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
       "score": 0.2,
-      "explanation": "While this syndrome encompasses a wide range of serious anomalies and disabilities, the presence of intrauterine growth retardation and abnormal facial shape can suggest Patau Syndrome as a differential diagnosis."
+      "explanation": "Sotos Syndrome features intellectual disability, feeding difficulties, and characteristic facial features. Although not as closely matched, it's worth considering given the overlap of certain symptoms."
     }
   ]
 }

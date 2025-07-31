@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual Developmental Disorder with Dysmorphic Facies",
-      "disease_id": "OMIM:616097",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 1.0,
-      "explanation": "Patient displays strong phenotypic features such as autism, intellectual disability, and prominent fingertip pads which correlate with various known cases of Intellectual Developmental Disorder."
+      "explanation": "Smith-Magenis Syndrome is associated with intellectual disability, autism, delayed motor development, and distinct craniofacial features such as hypoplastic nasal bridge and prominent fingertip pads, closely matching the patient's phenotype."
     },
     {
-      "disease_name": "KBG Syndrome",
-      "disease_id": "OMIM:148050",
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
       "score": 0.5,
-      "explanation": "KBG syndrome is characterized by intellectual disability and developmental delays, with phenotypic features like hypoplastic nasal bridge and thick eyebrows present in this patient."
+      "explanation": "Sotos Syndrome 1 is characterized by developmental delay, intellectual disability, autism, and midface retrusion, aligning well with several features in the patient's profile."
     },
     {
-      "disease_name": "Coffin-Lowry Syndrome",
-      "disease_id": "OMIM:303600",
-      "score": 0.33,
-      "explanation": "This syndrome involves developmental delays, prominent fingertip pads, and intellectual disability, aligning with the patient's features."
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome 1 often presents with intellectual disabilities, motor delays, and facial dysmorphism such as a thick eyebrow and midface retrusion, which are prominent in the patient."
     },
     {
-      "disease_name": "X-linked Intellectual Disability Syndromes",
-      "disease_id": "OMIM:300050",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.25,
-      "explanation": "This encompasses various conditions linked to intellectual disability. The patient's autism and intellectual challenges suggest a genetic component consistent with several X-linked disorders."
-    },
-    {
-      "disease_name": "Smith-Lemli-Opitz Syndrome",
-      "disease_id": "OMIM:270400",
-      "score": 0.2,
-      "explanation": "This syndrome presents with a spectrum of developmental delays and physical dysmorphisms similar to the patient\u2019s features, such as the hypoplastic nasal bridge."
+      "explanation": "Kabuki Syndrome 1 includes features like intellectual disability, autism, thick eyebrows, and delayed development, showing similarity with the patient's phenotype."
     }
   ]
 }

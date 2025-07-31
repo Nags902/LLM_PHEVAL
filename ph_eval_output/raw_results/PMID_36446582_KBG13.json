@@ -2,33 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
-      "disease_id": "OMIM:615188",
+      "disease_id": "OMIM:617373",
       "score": 1.0,
-      "explanation": "This disease is highly relevant due to the combination of intellectual disability, global developmental delay, feeding difficulties, and facial features such as thick eyebrows and a long philtrum, which match closely with the reference cases."
+      "explanation": "Similar phenotypic features including intellectual disability, ADHD, microcephaly, triangular face, thick eyebrows, and long philtrum were observed in reference cases diagnosed with this disorder."
     },
     {
-      "disease_name": "Syndrome X, autosomal dominant",
-      "disease_id": "OMIM:609059",
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.5,
-      "explanation": "Includes features such as microcephaly, facial dysmorphism, and developmental delays, aligning with the patient's symptoms and the reference cases, particularly in facial structure."
+      "explanation": "This syndrome features short stature, intellectual disability, thick eyebrows, and distinctive facial features such as a long philtrum, which match several key phenotypic characteristics of the patient."
     },
     {
-      "disease_name": "Prader-Willi syndrome",
-      "disease_id": "OMIM:176270",
-      "score": 0.33,
-      "explanation": "This syndrome features intellectual disability, global developmental delay, and other neuropsychiatric manifestations which align with the patient's profile, particularly feeding difficulties and growth issues."
-    },
-    {
-      "disease_name": "Coffin-Lowry syndrome",
-      "disease_id": "OMIM:303600",
-      "score": 0.25,
-      "explanation": "This genetic condition presents with intellectual disability and characteristic facial features, including a triangular face and thick eyebrows, which are noted in the patient."
-    },
-    {
-      "disease_name": "Smith-Magenis syndrome",
+      "disease_name": "Smith-Magenis Syndrome",
       "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Presence of intellectual disability, attention deficit hyperactivity disorder, distinctive facial features like a triangular face and thick eyebrows, and behavioral problems are typical in this syndrome."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Characteristic facial features, intellectual disability, and short stature are consistent with Williams-Beuren Syndrome, although some features like macrodontia and microcephaly are less typical."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
       "score": 0.2,
-      "explanation": "This syndrome presents with intellectual disability, attention issues, and specific dysmorphic features, which match some of the phenotypic traits identified in the patient."
+      "explanation": "This syndrome often involves intellectual disability, short stature, and distinct facial features such as a long philtrum, which overlap with the observed phenotypes in the patient."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "DiGeorge Syndrome",
+      "disease_name": "DiGeorge syndrome",
       "disease_id": "OMIM:188400",
       "score": 1.0,
-      "explanation": "The patient's symptoms of hypoparathyroidism, aplasia/hypoplasia of the thymus, and T lymphocytopenia align closely with the features of DiGeorge Syndrome, which has been consistently highlighted in similar reference cases."
+      "explanation": "The presence of hypoparathyroidism, aplasia/hypoplasia of the thymus, and T lymphocytopenia strongly suggests DiGeorge syndrome, which is characterized by these features as well as other findings in similar reference cases."
     },
     {
-      "disease_name": "22q11.2 Deletion Syndrome",
-      "disease_id": "OMIM:611869",
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
       "score": 0.5,
-      "explanation": "This disorder is commonly associated with the same phenotypic features found in DiGeorge Syndrome due to the 22q11.2 deletion, which often includes hypoparathyroidism and thymic abnormalities."
+      "explanation": "CHARGE syndrome can present with hypoparathyroidism and immune deficiencies similar to those found in DiGeorge syndrome. However, it is less consistent with the clinical presentation as other features commonly found in CHARGE syndrome are not listed."
     },
     {
-      "disease_name": "Adenosine Deaminase Deficiency (ADA Deficiency)",
-      "disease_id": "OMIM:604416",
-      "score": 0.333,
-      "explanation": "Although less common, this condition can present with immunologic deficiencies including T lymphocytopenia. The thymic hypoplasia could potentially provide overlapping symptoms, warranting inclusion."
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:611867",
+      "score": 0.3333,
+      "explanation": "22q11.2 deletion syndrome, which encompasses DiGeorge syndrome, matches the clinical findings of hypoparathyroidism, thymic hypoplasia, and T lymphocytopenia. It is ranked lower due to the likelihood being encompassed by DiGeorge syndrome itself."
     }
   ]
 }

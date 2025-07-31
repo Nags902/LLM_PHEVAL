@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Arthrogryposis, distal, type 2A (Freeman-Sheldon)",
-      "disease_id": "OMIM:193100",
+      "disease_name": "Freeman-Sheldon Syndrome",
+      "disease_id": "OMIM:193700",
       "score": 1.0,
-      "explanation": "The patient presents with a range of similar phenotypic features including depressed nasal bridge, cleft ala nasi, talipes equinovarus, and camptodactyly which strongly align with features seen in this condition."
+      "explanation": "Freeman-Sheldon Syndrome shares phenotypic features such as depressed nasal bridge, cleft ala nasi, camptodactyly, and talipes equinovarus, similar to those of Case 1."
     },
     {
-      "disease_name": "Al Kaissi syndrome",
-      "disease_id": "OMIM:613711",
+      "disease_name": "Al Kaissi Syndrome",
+      "disease_id": "OMIM:617872",
       "score": 0.5,
-      "explanation": "Similar features are seen in the patient, especially with facial dysmorphism and skeletal abnormalities, as noted in the given case references."
+      "explanation": "Al Kaissi Syndrome is noteworthy due to features like a depressed nasal bridge and long philtrum, with potential overlap in midface characteristics."
     },
     {
-      "disease_name": "White-Sutton syndrome",
-      "disease_id": "OMIM:615201",
-      "score": 0.333,
-      "explanation": "While the overlaps are substantial, particularly in facial characteristics, the presence of developmental delays and additional features may position it as a less primary option compared to the top two diseases."
+      "disease_name": "White-Sutton Syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 0.33,
+      "explanation": "White-Sutton Syndrome is considered due to features like a short neck and nasal bridge depression, though the fit is less exact compared to Freeman-Sheldon Syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan Syndrome 1 is considered due to manifestations like short neck and facial dysmorphism, although the fit is not as strong with specific nasal and limb features."
     }
   ]
 }

@@ -4,19 +4,19 @@
       "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
       "disease_id": "OMIM:201910",
       "score": 1.0,
-      "explanation": "The patient's decreased testosterone, increased ACTH, and increased prolactin levels correspond closely with the classic symptomatology of congenital adrenal hyperplasia due to 21-hydroxylase deficiency, which is supported by similar reference cases."
+      "explanation": "The patient's phenotypic features closely match reference cases that were diagnosed with congenital adrenal hyperplasia due to 21-hydroxylase deficiency. The key features such as decreased serum testosterone, increased ACTH, and increased prolactin align well with this condition."
     },
     {
-      "disease_name": "Adrenal insufficiency, primary (Addison disease)",
-      "disease_id": "OMIM:125100",
+      "disease_name": "Hypopituitarism",
+      "disease_id": "OMIM:262600",
       "score": 0.5,
-      "explanation": "This condition can present with low testosterone and high ACTH due to adrenal gland underperformance, though it typically does not cause increased prolactin levels, making it less likely but still a consideration."
+      "explanation": "Hypopituitarism could lead to hormonal imbalances including altered testosterone, ACTH, and prolactin levels, but the lack of alterations in other cortisol-related phenotypic features makes it less likely than congenital adrenal hyperplasia."
     },
     {
-      "disease_name": "Hyperprolactinemia, idiopathic",
-      "disease_id": "OMIM:601578",
-      "score": 0.33,
-      "explanation": "The increased prolactin levels could suggest hyperprolactinemia; however, it does not fully explain the low testosterone and elevated ACTH, ranking it lower in likelihood."
+      "disease_name": "Prolactinoma",
+      "disease_id": "OMIM:102200",
+      "score": 0.333,
+      "explanation": "Prolactinoma primarily causes increased prolactin levels and can lead to secondary hypogonadism with decreased testosterone. However, it is less likely given the increased ACTH is more indicative of adrenal involvement."
     }
   ]
 }

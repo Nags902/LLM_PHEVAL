@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-hydroxylase deficiency",
       "disease_id": "OMIM:201910",
       "score": 1.0,
-      "explanation": "This disease matches all the provided phenotypic features, including decreased testosterone, increased ACTH, decreased cortisol, increased prolactin, and increased estradiol, as seen in similar reference cases."
+      "explanation": "The phenotypic features and previous similar cases strongly suggest Congenital Adrenal Hyperplasia, particularly due to 21-hydroxylase deficiency, as all listed features align precisely with this condition, including hormonal imbalances such as increased ACTH, decreased cortisol, and altered sex steroid levels."
     },
     {
-      "disease_name": "Adrenal hyperplasia, congenital, due to 11-hydroxylase deficiency",
-      "disease_id": "OMIM:613090",
+      "disease_name": "Congenital Adrenal Hyperplasia due to 11\u03b2-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
       "score": 0.5,
-      "explanation": "Although it presents with some hormonal imbalances similar to the case, it is less common and doesn't typically show estradiol elevation."
+      "explanation": "Another type of Congenital Adrenal Hyperplasia caused by 11\u03b2-hydroxylase deficiency may present with similar hormonal imbalances. While 21-hydroxylase deficiency is more common, 11\u03b2-hydroxylase deficiency should be considered given the overlap in several hormonal features, although the phenotype matches less closely than the first disease."
     },
     {
-      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
-      "disease_id": "OMIM:202110",
-      "score": 0.33,
-      "explanation": "This condition can lead to similar adrenal hormone profiles but with a different hormonal effect, particularly with higher levels of adrenal steroids other than cortisol."
+      "disease_name": "Pituitary Adenoma",
+      "disease_id": "OMIM:102200",
+      "score": 0.333,
+      "explanation": "Pituitary adenomas can cause increased prolactin and ACTH levels, along with other hormone disturbances. While not the most common presentation, the overlap in characteristics necessitates consideration."
+    },
+    {
+      "disease_name": "Adrenocortical Carcinoma",
+      "disease_id": "OMIM:202300",
+      "score": 0.25,
+      "explanation": "Adrenocortical carcinoma can cause diverse hormone secretion patterns including those that mimic adrenal hyperplasia. Although usually more severe, the hormonal irregularities suggest it as a potential differential diagnosis, albeit with a lower likelihood."
     }
   ]
 }

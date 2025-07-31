@@ -4,31 +4,19 @@
       "disease_name": "Hutchinson-Gilford Progeria Syndrome",
       "disease_id": "OMIM:176670",
       "score": 1.0,
-      "explanation": "The patient presents with multiple overlapping features with cases diagnosed with Hutchinson-Gilford progeria, including proptosis, hypermetropia, lipodystrophy, short stature, and prolonged QT interval."
+      "explanation": "The patient exhibits a majority of features (proptosis, hypermetropia, lipodystrophy, alopecia, short stature, reduced subcutaneous adipose tissue, failure to thrive, prolonged QT interval, mottled pigmentation) commonly associated with Hutchinson-Gilford progeria. The reference cases also show strong alignment with this diagnosis."
     },
     {
-      "disease_name": "Silver-Russell Syndrome",
-      "disease_id": "OMIM:180860",
+      "disease_name": "Mandibuloacral Dysplasia with Type A Lipodystrophy",
+      "disease_id": "OMIM:248370",
       "score": 0.5,
-      "explanation": "Although it primarily features growth deficiencies, the presence of short stature, high palate, and failure to thrive are consistent with Russell-Silver, making it a consideration."
+      "explanation": "Many phenotypic features such as lipodystrophy, alopecia, micrognathia, high palate, and reduced bone mineral density are shared with this condition, which could explain the symptoms seen in the patient."
     },
     {
-      "disease_name": "Cohen Syndrome",
-      "disease_id": "OMIM:216550",
-      "score": 0.33,
-      "explanation": "Cohen syndrome is characterized by similar phenotypic features such as failure to thrive, micrognathia, short stature, and proptosis; however, it does not account for all features."
-    },
-    {
-      "disease_name": "Lipoatrophic Diabetes",
-      "disease_id": "OMIM:613850",
-      "score": 0.25,
-      "explanation": "This condition is characterized by lipodystrophy and metabolic abnormalities which can correlate with several of the patient's findings, although it may not fully explain all present features."
-    },
-    {
-      "disease_name": "Alstr\u00f6m Syndrome",
-      "disease_id": "OMIM:203800",
-      "score": 0.2,
-      "explanation": "Alstr\u00f6m syndrome presents with features such as short stature, delayed tooth eruption, and other systemic issues, providing a less likely yet possible explanation based on overlapping symptoms."
+      "disease_name": "Melnick-Needles Syndrome",
+      "disease_id": "OMIM:309350",
+      "score": 0.3333333333333333,
+      "explanation": "The presence of features such as proptosis, micrognathia, a high palate, and short stature suggests some overlap with Melnick-Needles syndrome."
     }
   ]
 }

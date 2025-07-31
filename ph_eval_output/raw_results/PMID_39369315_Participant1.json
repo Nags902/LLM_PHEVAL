@@ -1,34 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "ReNU syndrome",
-      "disease_id": "OMIM:615383",
+      "disease_name": "ReNU Syndrome",
+      "disease_id": "OMIM:619181",
       "score": 1.0,
-      "explanation": "The patient exhibits a variety of phenotypic features that align closely with the detailed presentations in the reference cases associated with ReNU syndrome, including global developmental delay, intellectual disability, ocular issues (strabismus, nystagmus, astigmatism), and structural brain abnormalities."
+      "explanation": "ReNU syndrome is closely associated with the phenotypic features observed, including global developmental delay, intellectual disability, nystagmus, microcephaly, gastrointestinal issues, facial dysmorphisms, and hypoplasia of the corpus callosum, which is reflective of the provided case presentations."
     },
     {
-      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
-      "disease_id": "OMIM:617334",
-      "score": 0.5,
-      "explanation": "The patient displays multiple features such as intellectual disability, developmental delays, dysmorphic facial features, and autistic behaviors which are common in this condition, although not as strongly aligning as the first ranking."
-    },
-    {
-      "disease_name": "Down syndrome",
-      "disease_id": "OMIM:190685",
-      "score": 0.33,
-      "explanation": "Presence of microcephaly, hypotonia, strabismus, and certain facial features overlaps with Down syndrome; however, the overall developmental profile and age of presentation suggest a less likely diagnosis."
-    },
-    {
-      "disease_name": "Smith-Magenis syndrome",
-      "disease_id": "OMIM:182290",
-      "score": 0.25,
-      "explanation": "This syndrome includes developmental delays, autistic behavior, and specific facial features, though some overlapping symptoms lead to lower confidence compared to the leading candidate."
-    },
-    {
-      "disease_name": "Cornelia de Lange syndrome",
+      "disease_name": "Cornelia de Lange Syndrome",
       "disease_id": "OMIM:122470",
-      "score": 0.2,
-      "explanation": "Though the patient has some facial dysmorphism and developmental issues, other more characteristic features of Cornelia de Lange syndrome are not as evident, leading to a lower rank."
+      "score": 0.5,
+      "explanation": "Cornelia de Lange Syndrome might be considered due to features such as intellectual disability, nystagmus, developmental delay, microcephaly, and distinct facial dysmorphisms including tented philtrum and synophrys, although some features are more specific to ReNU syndrome."
     }
   ]
 }

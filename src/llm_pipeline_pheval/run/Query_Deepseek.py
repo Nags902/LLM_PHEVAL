@@ -121,11 +121,11 @@ def Extract_Data_query_deepseek(
         #     ],
         #     stream=False,
         # )
-        client = OpenAI(api_key=os.getenv(""))
+        client = OpenAI(api_key=os.getenv("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"))
   
 
 
-        # Opne ai API
+        # Open ai API
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[

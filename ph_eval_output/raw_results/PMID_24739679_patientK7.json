@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Apert Syndrome",
-      "disease_id": "OMIM:101200",
-      "score": 1.0,
-      "explanation": "The presence of hearing impairment, wide nasal bridge, long palpebral fissure, macrotia, and aortic valve stenosis are phenotypic features that align well with Apert syndrome, which is associated with craniosynostosis and associated anomalies."
-    },
-    {
-      "disease_name": "Craniosynostosis Syndrome",
-      "disease_id": "OMIM:609502",
-      "score": 0.5,
-      "explanation": "This syndrome encompasses a variety of conditions with overlapping features such as hearing impairment, facial dysmorphism, and cardiovascular anomalies, aligning with the patient\u2019s presentation."
-    },
-    {
-      "disease_name": "DiGeorge Syndrome",
-      "disease_id": "OMIM:188400",
-      "score": 0.33,
-      "explanation": "The recurrent infections and aortic valve stenosis, combined with hypotonia and developmental delay, suggest possible DiGeorge syndrome, which is noted for immunodeficiency and cardiac anomalies."
-    },
-    {
       "disease_name": "Kabuki Syndrome",
-      "disease_id": "OMIM:601199",
-      "score": 0.25,
-      "explanation": "Features such as wide nasal bridge, long palpebral fissures, and global developmental delay align with Kabuki syndrome, making it a relevant consideration."
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Kabuki Syndrome is characterized by distinctive facial features, which include long palpebral fissures and eversion of the lateral third of the lower eyelids, as well as developmental delay, hearing impairment, and frequent infections, aligning closely with the patient's features."
     },
     {
-      "disease_name": "Noonan Syndrome",
-      "disease_id": "OMIM:163950",
-      "score": 0.2,
-      "explanation": "Noonan syndrome presents with a variety of congenital heart defects, facial dysmorphism, and developmental delay, making it a relevant diagnosis considering the patient's features."
+      "disease_name": "Noonan Syndrome with Multiple Lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "This condition may involve features like wide nasal bridge, hearing impairment, developmental delay, and cardiac defects such as aortic valve stenosis that correlate well with the patient's phenotype."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.3333,
+      "explanation": "Williams Syndrome shares several features with the patient, including wide nasal bridge, cardiovascular anomalies like aortic valve stenosis, developmental delays, and a distinct facial appearance, though not all features match."
+    },
+    {
+      "disease_name": "Branchiootorenal Syndrome 1",
+      "disease_id": "OMIM:113650",
+      "score": 0.25,
+      "explanation": "This syndrome, which involves hearing impairment, facial dysmorphisms such as wide nasal bridge, and some developmental delay, might explain several, but not all, of the patient's features."
     }
   ]
 }

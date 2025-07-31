@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Myoclonic epilepsy of Lafora 2",
+      "disease_name": "Lafora Disease, Myoclonic Epilepsy of",
       "disease_id": "OMIM:254780",
       "score": 1.0,
-      "explanation": "The patient presents with a combination of seizures (typical absence, bilateral tonic-clonic, myoclonic), dementia, progressive neurologic deterioration, and gait disturbance, all of which align closely with the clinical features seen in Myoclonic epilepsy of Lafora 2, as indicated by the similar reference cases."
+      "explanation": "The patient's phenotypic features closely match all reference cases of Myoclonic epilepsy of Lafora, including dementia, various types of seizures, gait disturbance, and progressive neurological deterioration."
     },
     {
-      "disease_name": "Unverricht-Lundborg disease",
+      "disease_name": "Unverricht-Lundborg Disease",
       "disease_id": "OMIM:254800",
       "score": 0.5,
-      "explanation": "This condition is characterized by myoclonic seizures and ataxia. The patient\u2019s myoclonic seizures and gait disturbances could suggest this disorder, though there is less evidence of progressive neurologic decline compared to Myoclonic epilepsy of Lafora 2."
+      "explanation": "Though not as precise a match as Lafora Disease, symptoms such as myoclonus, myoclonic seizures, and gait disturbances are also seen in Unverricht-Lundborg disease, which is a form of progressive myoclonus epilepsy."
     },
     {
-      "disease_name": "Neuronal ceroid lipofuscinosis (Batten disease)",
-      "disease_id": "OMIM:204200",
-      "score": 0.33,
-      "explanation": "This condition presents with neurodegeneration, seizures, and dementia. The combination of symptoms could fit within this diagnosis, although it may not match as closely as Myoclonic epilepsy of Lafora 2."
+      "disease_name": "Progressive Myoclonus Epilepsy 1B",
+      "disease_id": "OMIM:612437",
+      "score": 0.333,
+      "explanation": "The combination of seizures (myoclonic, absence, tonic-clonic), myoclonus, and progressive neurological decline aligns with Progressive Myoclonus Epilepsy types. However, other common features like cerebellar ataxia are not listed, making it less likely than Lafora Disease."
     }
   ]
 }

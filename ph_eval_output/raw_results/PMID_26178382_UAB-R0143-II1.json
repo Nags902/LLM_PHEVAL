@@ -4,25 +4,13 @@
       "disease_name": "Neurofibromatosis, type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient's presentation of freckling and multiple cafe-au-lait spots aligns with the typical features of Neurofibromatosis type 1, similar to all reference cases which were diagnosed with this condition."
+      "explanation": "The patient's phenotypic features and the similar reference cases strongly suggest Neurofibromatosis type 1, characterized by freckling and multiple cafe-au-lait spots."
     },
     {
-      "disease_name": "Neurofibromatosis, type 2",
-      "disease_id": "OMIM:101000",
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
       "score": 0.5,
-      "explanation": "Although the presentation does not fully match, Neurofibromatosis type 2 can also cause skin manifestations, but is less commonly associated with freckling and cafe-au-lait spots compared to type 1."
-    },
-    {
-      "disease_name": "McCune-Albright Syndrome",
-      "disease_id": "OMIM:174800",
-      "score": 0.33,
-      "explanation": "This condition can present with cafe-au-lait spots, but the presence of freckling is less common. However, it remains a potential differential diagnosis."
-    },
-    {
-      "disease_name": "Tuberous Sclerosis",
-      "disease_id": "OMIM:191100",
-      "score": 0.25,
-      "explanation": "While primarily associated with different skin findings, rare cases can exhibit cafe-au-lait spots alongside freckling. This makes it a less likely, though possible candidate."
+      "explanation": "Legius syndrome also presents with multiple cafe-au-lait spots and freckling but lacks other classic signs of Neurofibromatosis Type 1 such as neurofibromas, making it a plausible diagnosis albeit less common."
     }
   ]
 }

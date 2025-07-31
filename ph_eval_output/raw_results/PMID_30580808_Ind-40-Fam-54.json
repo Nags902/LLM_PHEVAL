@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual Disability with Dysmorphic Facies (including features consistent with Syndromic Autism)",
-      "disease_id": "OMIM:615296",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely match several similar cases diagnosed with intellectual disability and dysmorphic facies, including autistic behavior, developmental delays, and specific facial features."
+      "explanation": "Kabuki Syndrome 1 is characterized by facial dysmorphisms including thick eyebrows, long eyelashes, wide nasal bridge, and a wide mouth, along with intellectual disability and joint hypermobility. These features closely match the patient's presentation."
     },
     {
-      "disease_name": "Cornelia de Lange Syndrome",
-      "disease_id": "OMIM:122470",
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
       "score": 0.5,
-      "explanation": "Cornelia de Lange syndrome presents with dysmorphic features like thick eyebrows, long eyelashes, and neurodevelopmental delays, aligning with the patient's profile."
+      "explanation": "Kabuki Syndrome 2 shares many phenotypic features with Kabuki Syndrome 1, including developmental delays, characteristic facial features, and joint hypermobility. The similarity in features supports its consideration."
     },
     {
-      "disease_name": "Smith-Magenis Syndrome",
-      "disease_id": "OMIM:182085",
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.333,
-      "explanation": "This syndrome is characterized by developmental delay, intellectual disability, and distinct facial features that may correlate with the patient's presentations."
+      "explanation": "This syndrome may present with distinctive facial features such as thick eyebrows and long eyelashes, as well as intellectual disability and autism spectrum behavior, which are consistent with the patient's symptoms."
     },
     {
-      "disease_name": "Phelan-McDermid Syndrome",
-      "disease_id": "OMIM:606232",
+      "disease_name": "Brachmann-de Lange Syndrome 5",
+      "disease_id": "OMIM:614701",
       "score": 0.25,
-      "explanation": "It includes features such as developmental disabilities and autistic traits, along with facial dysmorphisms that bear some resemblance to the patient's characteristics."
+      "explanation": "Shares features with Cornelia de Lange Syndrome 1, including similar dysmorphic facial features and developmental delays, adding merit for consideration."
     },
     {
-      "disease_name": "Noonan Syndrome",
-      "disease_id": "OMIM:163950",
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
       "score": 0.2,
-      "explanation": "The presence of underdeveloped facial features and developmental issues fits within the clinical picture of Noonan syndrome, which may account for some of the observed traits."
+      "explanation": "Characterized by facial dysmorphisms like a broad nose and thin upper lip vermilion, along with developmental delay and short stature, matching several of the patient's characteristics."
     }
   ]
 }

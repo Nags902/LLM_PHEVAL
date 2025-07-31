@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Stiff Skin Syndrome",
-      "disease_id": "OMIM:601263",
+      "disease_id": "OMIM:184900",
       "score": 1.0,
-      "explanation": "The patient's phenotype closely matches multiple reference cases, all of which were diagnosed with Stiff Skin Syndrome, characterized by stiff skin, joint contractures, and myopia."
+      "explanation": "The patient's presentation closely matches similar reference cases diagnosed with Stiff Skin Syndrome, including features like stiff skin, multiple joint contractures, and myopia."
     },
     {
-      "disease_name": "Ehlers-Danlos Syndrome, Classical Type",
-      "disease_id": "OMIM:130000",
+      "disease_name": "Myhre Syndrome",
+      "disease_id": "OMIM:139210",
       "score": 0.5,
-      "explanation": "While not a direct match, many features such as joint contractures and camptodactyly align with Ehlers-Danlos Syndrome, particularly the classical type, which could present with such phenotypes."
+      "explanation": "Myhre Syndrome has overlapping features such as joint contractures, skin stiffness, and limited shoulder flexion, but lacks some unique features present in reference cases for Stiff Skin Syndrome."
     },
     {
-      "disease_name": "Marfan Syndrome",
-      "disease_id": "OMIM:154700",
-      "score": 0.33,
-      "explanation": "Certain features like myopia and potential joint issues may correlate with Marfan Syndrome, but the stiff skin and contractures are more characteristic of Stiff Skin Syndrome."
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 0.3333,
+      "explanation": "This condition can present with joint contractures and marfanoid features like camptodactyly, but the absence of distinctive skeletal features makes it less likely."
     }
   ]
 }

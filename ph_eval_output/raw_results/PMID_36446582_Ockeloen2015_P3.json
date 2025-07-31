@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "KBG Syndrome",
+      "disease_name": "KBG syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "The patient's symptoms align closely with KBG syndrome, which is characterized by intellectual disability, autistic behavior, macrodontia, and hand abnormalities."
+      "explanation": "KBG syndrome is directly supported by the combination of phenotypic features such as intellectual disability, autistic behavior, macrodontia, and abnormalities of the hand. Similar reference cases also suggest KBG syndrome as the likely diagnosis."
     },
     {
-      "disease_name": "Mucopolysaccharidosis Type II (Hunter Syndrome)",
-      "disease_id": "OMIM:302400",
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
       "score": 0.5,
-      "explanation": "Although more associated with other features, variants can present with intellectual disability and hand abnormalities."
+      "explanation": "Phelan-McDermid syndrome can present with intellectual disability and autistic behavior. While macrodontia and abnormalities of the hand are less common, the core features align with some aspects of this condition."
     },
     {
-      "disease_name": "ADNP Syndrome",
-      "disease_id": "OMIM:615873",
-      "score": 0.33,
-      "explanation": "ADNP syndrome includes intellectual disability and autistic traits but is less tightly associated with macrodontia and hand abnormalities."
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.3333333333333333,
+      "explanation": "Smith-Magenis syndrome typically includes intellectual disability and may include autistic behavior and hand abnormalities, though macrodontia is not a common feature."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.25,
+      "explanation": "Floating-Harbor syndrome may include intellectual disability and hand abnormalities, with rare occurrences of autistic behavior and macrodontia."
     }
   ]
 }

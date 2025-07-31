@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Bardet-Biedl syndrome 1",
-      "disease_id": "OMIM:601013",
+      "disease_id": "OMIM:209900",
       "score": 1.0,
-      "explanation": "The patient shares multiple phenotypic features with reference cases diagnosed with Bardet-Biedl syndrome, including myopia, reduced visual acuity, nyctalopia, intellectual disability, and obesity."
+      "explanation": "The patient shares many phenotypic features with Bardet-Biedl syndrome, including myopia, reduced visual acuity, nyctalopia, intellectual disability, and obesity. Similar reference cases have been diagnosed with Bardet-Biedl syndrome, aligning with the observed symptoms."
     },
     {
       "disease_name": "Bardet-Biedl syndrome 2",
-      "disease_id": "OMIM:606151",
+      "disease_id": "OMIM:615451",
       "score": 0.5,
-      "explanation": "As Bardet-Biedl syndrome has several subtypes, this is a potential diagnosis since the patient exhibits similar key phenotypic features, albeit with less certainty due to lack of postaxial polydactyly."
+      "explanation": "Bardet-Biedl syndrome 2 is closely related to Bardet-Biedl syndrome 1 and can present with similar features such as myopia, reduced visual acuity, intellectual disability, and obesity, although additional features like polydactyly are typically required for a complete match."
     },
     {
-      "disease_name": "Usher syndrome type 1",
-      "disease_id": "OMIM:276900",
-      "score": 0.33,
-      "explanation": "Usher syndrome type 1 may present with myopia, reduced visual acuity, and nyctalopia alongside intellectual disability. However, the obesity aspect does not commonly align."
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.3333333333333333,
+      "explanation": "Cohen syndrome is associated with similar features, including intellectual disability, obesity, myopia, and reduced visual acuity, but typically also includes neutropenia and facial dysmorphism that are not explicitly observed in this case."
     },
     {
       "disease_name": "Alstr\u00f6m syndrome",
       "disease_id": "OMIM:203800",
       "score": 0.25,
-      "explanation": "Alstr\u00f6m syndrome can present with obesity, intellectual disability, and vision issues including myopia and nyctalopia, but it is less commonly associated with the presented symptoms collectively."
+      "explanation": "Alstr\u00f6m syndrome shares phenotypes like obesity, myopia, and reduced visual acuity but usually includes features like progressive hearing loss and endocrine dysfunctions, which have not been noted in this patient."
     }
   ]
 }

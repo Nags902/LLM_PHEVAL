@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Glass Syndrome",
-      "disease_id": "OMIM:219080",
+      "disease_id": "OMIM:612313",
       "score": 1.0,
-      "explanation": "This syndrome is characterized by abnormality of the dentition, delayed speech and language development, global developmental delay, and delayed ability to walk, which strongly aligns with the patient's phenotypic features."
+      "explanation": "This case shares several features with reference cases diagnosed with Glass syndrome, including abnormality of the dentition, developmental delays, and delayed speech and language development."
     },
     {
-      "disease_name": "Cleft Lip/Palate with Associated Developmental Delay",
-      "disease_id": "OMIM:119300",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.5,
-      "explanation": "Patients with cleft lip/palate often present with developmental delays and speech issues, which aligns partially with the patient's features, although the patient did not present with a cleft palate."
+      "explanation": "Kabuki syndrome also presents with delayed developmental milestones, speech delay, and dental anomalies. Although cleft palate is common in Kabuki syndrome, the overlap with the patient's features suggests its consideration."
     },
     {
-      "disease_name": "Coffin-Siris Syndrome",
-      "disease_id": "OMIM:135900",
-      "score": 0.33,
-      "explanation": "While primarily associated with developmental delays and dental anomalies, this syndrome's other features do not completely match the patient's condition but still show some overlap."
+      "disease_name": "Rubenstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "Rubenstein-Taybi Syndrome can present with dental abnormalities, developmental delays, and speech delay, which overlaps with the presented features."
     }
   ]
 }

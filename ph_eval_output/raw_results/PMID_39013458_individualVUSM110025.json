@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:601377",
-      "score": 1.0,
-      "explanation": "Bardet-Biedl Syndrome is characterized by obesity, cognitive impairment, short stature, and microcephaly, fitting well with the patient's symptoms of short stature, global developmental delay, and anxiety."
-    },
-    {
-      "disease_name": "Syndrome of Microcephaly with Developmental Delay and Dysmorphism",
-      "disease_id": "OMIM:614483",
-      "score": 0.5,
-      "explanation": "Includes a combination of microcephaly, developmental delay, and behavioral issues, which aligns with the patient's global developmental delay and microcephaly."
-    },
-    {
-      "disease_name": "Phelan-McDermid Syndrome",
-      "disease_id": "OMIM:606232",
-      "score": 0.33,
-      "explanation": "Features developmental delay, autism spectrum disorder, and physical anomalies; aligns with the patient's developmental delay, anxiety, and compulsive behaviors."
-    },
-    {
-      "disease_name": "18q- Syndrome",
-      "disease_id": "OMIM:607260",
-      "score": 0.25,
-      "explanation": "Presents with developmental delay, microcephaly, short stature, and varied features; relevant due to the combination of symptoms seen in the patient."
-    },
-    {
       "disease_name": "Smith-Magenis Syndrome",
       "disease_id": "OMIM:182290",
-      "score": 0.2,
-      "explanation": "Characterized by developmental delay, short stature, and behavioral issues; aligns with anxiety and compulsive behaviors present in the patient."
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is characterized by features such as short stature, developmental delay, compulsive behaviors, anxiety, and microcephaly, which align closely with the patient's symptoms."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome often presents with global developmental delay, speech impairment, behavioral anomalies similar to compulsive behavior, and anxiety, making it a possible condition despite less emphasis on short stature."
+    },
+    {
+      "disease_name": "ASPM-Related Primary Microcephaly",
+      "disease_id": "OMIM:605481",
+      "score": 0.333,
+      "explanation": "Primary Microcephaly is the primary feature, accompanied by developmental delays, with potential co-morbid conditions such as anxiety, aligning with part of the phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome manifests with features like short stature, developmental delay, compulsive behaviors, and anxiety. Although it's less common in this presentation, it's still a relevant consideration."
     }
   ]
 }

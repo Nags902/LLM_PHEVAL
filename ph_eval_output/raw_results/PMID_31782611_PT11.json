@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Cerebellar Hypoplasia, 6",
-      "disease_id": "OMIM:616392",
+      "disease_name": "Cerebellar Atrophy, with Mental Deficiency and Dyspraxia",
+      "disease_id": "OMIM:618056",
       "score": 1.0,
-      "explanation": "The presence of cerebellar hypoplasia, strabismus, microcephaly, and developmental delays closely aligns with the features associated with this subtype."
+      "explanation": "Features align with intellectual disability, delayed motor and speech development, cerebellar hypoplasia, and strabismus."
     },
     {
-      "disease_name": "Lissencephaly 1",
-      "disease_id": "OMIM:607432",
+      "disease_name": "Pontocerebellar Hypoplasia, Type 1A",
+      "disease_id": "OMIM:607596",
       "score": 0.5,
-      "explanation": "This condition features microcephaly, developmental delays, and intellectual disability, which are prominent in the patient, similar to reference cases."
+      "explanation": "Presence of cerebellar hypoplasia, microcephaly, and motor development delay are consistent with this condition."
     },
     {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304050",
-      "score": 0.33,
-      "explanation": "Characterized by agenesis of the corpus callosum, seizures, and developmental delays, Aicardi Syndrome could present with similar symptoms, including strabismus and microcephaly."
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.3333333333333333,
+      "explanation": "Relevant features include cerebellar hypoplasia, intellectual disability, and delayed gross motor development."
     },
     {
-      "disease_name": "MCDD (Mental Retardation, Multiple Congenital Anomalies, and Epilepsy)",
-      "disease_id": "OMIM:610847",
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
       "score": 0.25,
-      "explanation": "Includes intellectual disability, developmental disabilities, and can correlate with microcephaly and motor delay, making it a potential match for the patient\u2019s symptoms."
+      "explanation": "Characterized by microcephaly, intellectual disability, motor and language delays, and sensorineural hearing impairment."
     },
     {
-      "disease_name": "Rett Syndrome",
-      "disease_id": "OMIM:312750",
+      "disease_name": "Spinocerebellar Ataxia 21",
+      "disease_id": "OMIM:607454",
       "score": 0.2,
-      "explanation": "Though primarily affecting females, Rett Syndrome can cause severe developmental issues and includes similar motor and language delays, though more atypical for a male patient."
+      "explanation": "Includes cerebellar hypoplasia, intellectual disability, delayed motor and speech development, and strabismus."
     }
   ]
 }

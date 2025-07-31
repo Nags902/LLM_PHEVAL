@@ -4,19 +4,19 @@
       "disease_name": "Aarskog-Scott syndrome",
       "disease_id": "OMIM:305400",
       "score": 1.0,
-      "explanation": "The patient exhibits numerous phenotypic features consistent with Aarskog-Scott syndrome, including hypertelorism, ptosis, brachydactyly, camptodactyly, syndactyly, and intellectual disability, which aligns with the previously diagnosed cases."
+      "explanation": "Aarskog-Scott syndrome matches most of the phenotypic features observed in the patient, including hypertelorism, ptosis, brachydactyly, camptodactyly, joint hypermobility, syndactyly, short stature, intellectual disability, and shawl scrotum. Reference cases also confirm a high likelihood of this diagnosis."
     },
     {
-      "disease_name": "KBG syndrome",
-      "disease_id": "OMIM:148050",
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
       "score": 0.5,
-      "explanation": "KBG syndrome could be considered due to overlapping features such as intellectual disability, short stature, and skeletal anomalies like brachydactyly and camptodactyly, although not all features match perfectly."
+      "explanation": "Noonan syndrome shares several overlapping features such as hypertelorism, ptosis, short stature, and intellectual disability. However, it lacks some specific features like shawl scrotum, making it less likely compared to Aarskog-Scott syndrome."
     },
     {
-      "disease_name": "Chudley-McCullough syndrome",
-      "disease_id": "OMIM:300230",
-      "score": 0.33,
-      "explanation": "This syndrome involves intellectual disability, brachydactyly, and other skeletal anomalies, making it a possible although less likely alternative, as the patient's case fits better with Aarskog-Scott syndrome."
+      "disease_name": "Robinow syndrome",
+      "disease_id": "OMIM:268310",
+      "score": 0.333333,
+      "explanation": "Robinow syndrome is a possible condition with overlapping features such as hypertelorism, short stature, and limb abnormalities. However, the absence of key symptoms like shawl scrotum reduces its ranking."
     }
   ]
 }

@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "White-Sutton syndrome",
-      "disease_id": "OMIM:615368",
+      "disease_id": "OMIM:616364",
       "score": 1.0,
-      "explanation": "This syndrome matches the patient's astigmatism, delayed speech, and gross motor development, and similar cases have indicated related phenotypic features."
+      "explanation": "White-Sutton syndrome matches multiple phenotypic features present in the patient, such as astigmatism, delayed speech and language development, and delayed gross motor development. A similar case was diagnosed with this syndrome."
     },
     {
-      "disease_name": "Developmental delay with or without epilepsy",
-      "disease_id": "OMIM:618176",
+      "disease_name": "Zellweger Spectrum Disorders",
+      "disease_id": "OMIM:214100",
       "score": 0.5,
-      "explanation": "Although this is a broader category, the motor and speech delays align with the patient's symptoms, despite the lack of seizures in this case."
+      "explanation": "Zellweger Spectrum Disorders can involve developmental delays, speech and motor delay, and ventriculomegaly, which overlap with the patient's symptoms."
     },
     {
-      "disease_name": "Aicardi syndrome",
-      "disease_id": "OMIM:304050",
-      "score": 0.33,
-      "explanation": "Aicardi syndrome presents with similar neurological and developmental symptoms, including ventriculomegaly, but it may not completely align with all phenotypes."
+      "disease_name": "Megalencephaly-Capillary Malformation Syndrome",
+      "disease_id": "OMIM:602501",
+      "score": 0.3333333333333333,
+      "explanation": "Although less common, Megalencephaly-Capillary Malformation Syndrome can present with ventriculomegaly and developmental delays similar to the patient\u2019s features."
     }
   ]
 }

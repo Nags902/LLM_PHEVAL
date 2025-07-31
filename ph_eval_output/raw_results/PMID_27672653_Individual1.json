@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric aciduria, type I",
+      "disease_name": "Glutaric Aciduria Type I",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "This disease correlates closely with the provided clinical features, including elevated urine 3-hydroxyglutaric level, glutaric aciduria, inability to walk, dystonia, and macrocephaly, aligning with the symptoms presented in similar reference cases."
+      "explanation": "The phenotypic features such as elevated urine 3-hydroxyglutaric acid, glutaric aciduria, and macrocephaly align closely with Glutaric Aciduria Type I, supported by similarity to the three reference cases."
     },
     {
-      "disease_name": "Organic acidemia (General category related to elevated 3-hydroxyglutaric acid)",
-      "disease_id": "OMIM:248200",
+      "disease_name": "L-2-Hydroxyglutaric Aciduria",
+      "disease_id": "OMIM:236792",
       "score": 0.5,
-      "explanation": "While it may not be as specific as glutaric aciduria type I, the presence of elevated 3-hydroxyglutaric levels and associated symptoms suggest the likelihood of an organic acidemia, which can share similar manifestations."
+      "explanation": "While the primary features match Glutaric Aciduria Type I, instances of elevated hydroxyglutaric levels suggest a potential overlap with L-2-Hydroxyglutaric Aciduria, although the fit is less precise."
     },
     {
-      "disease_name": "Cerebral atrophy with subdural hemorrhage",
-      "disease_id": "OMIM:615439",
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
       "score": 0.333,
-      "explanation": "The observation of cerebral atrophy symptoms and subdural hemorrhage indicates potential cerebrovascular issues that could cause similar phenotypic outcomes, warranting consideration."
+      "explanation": "Symptoms such as macrocephaly, seizures, and developmental delays could indicate Canavan Disease; however, absence of other characteristic signs reduces its likelihood."
     }
   ]
 }

@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy",
-      "disease_id": "OMIM:615234",
+      "disease_id": "OMIM:615896",
       "score": 1.0,
-      "explanation": "This disease closely aligns with the patient's presentation, sharing multiple phenotypic features such as global developmental delay, intellectual disability, nonprogressive encephalopathy, spasticity, and EEG abnormalities."
+      "explanation": "This condition matches several phenotypic features such as global developmental delay, profound intellectual disability, nonprogressive encephalopathy, EEG abnormality, dystonia, spasticity, hypoplasia of the pons, absent speech, and axial hypotonia. The similarity to Case 1 strongly supports this diagnosis."
     },
     {
       "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
-      "disease_id": "OMIM:615234",
+      "disease_id": "OMIM:617019",
       "score": 0.5,
-      "explanation": "This diagnosis matches several of the patient's features including global developmental delay, profound intellectual disability, and absent speech, although it does not fully capture the entire clinical picture."
+      "explanation": "This condition includes features like intellectual disability, hypoplasia of the pons, absent speech, dystonia, and hypotonia, which are present in the patient. Similar reference cases (Case 2 and Case 3) provide a basis for this ranking."
     },
     {
-      "disease_name": "KCNQ2-related disorders",
-      "disease_id": "OMIM:602732",
-      "score": 0.33,
-      "explanation": "This condition can encompass symptoms such as developmental delay, hypotonia, and intellectual disability, which are present in this patient, despite lacking a direct match to all observed features."
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.3333333333333333,
+      "explanation": "The disease is associated with developmental delay, hypotonia, spasticity, and EEG abnormalities, aligning with some of the patient's symptoms. It also corresponds with cases that involve similar neurological findings."
+    },
+    {
+      "disease_name": "Cerebral palsy",
+      "disease_id": "OMIM:603513",
+      "score": 0.25,
+      "explanation": "Cerebral palsy can present with features like spasticity, developmental delay, and hypotonia. The reference to Case 1, which shares several features with the patient, points to this possibility."
     }
   ]
 }

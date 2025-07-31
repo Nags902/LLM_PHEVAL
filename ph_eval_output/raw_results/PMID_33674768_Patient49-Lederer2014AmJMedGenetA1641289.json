@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Kabuki syndrome 2",
+      "disease_name": "Kabuki Syndrome 2",
       "disease_id": "OMIM:300867",
       "score": 1.0,
-      "explanation": "This disease is characterized by clinodactyly and abnormal facial shape, matching the patient's phenotypic features."
+      "explanation": "The patient exhibits clinodactyly and abnormal facial shape, which are key features of Kabuki Syndrome 2. This matches with the symptoms of the reference Case 1."
     },
     {
-      "disease_name": "DiGeorge syndrome",
-      "disease_id": "OMIM:188400",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.5,
-      "explanation": "While this disease primarily showcases additional symptoms like velopharyngeal insufficiency and cardiovascular abnormalities, the commonality of abnormal facial shape provides a secondary connection."
+      "explanation": "Kabuki Syndrome 1 shares phenotypic similarities such as abnormal facial features and has been associated with limb anomalies like clinodactyly."
     },
     {
-      "disease_name": "Campomelic dysplasia",
-      "disease_id": "OMIM:114290",
-      "score": 0.33,
-      "explanation": "This condition displays abnormal facial features and has been associated with clinodactyly, thus it is considered although less directly associated than the top two."
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.3333333333333333,
+      "explanation": "Aarskog-Scott syndrome can present with clinodactyly and distinctive facial features, making it a potential match."
+    },
+    {
+      "disease_name": "Branchio-oculo-facial Syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 0.25,
+      "explanation": "This syndrome can involve abnormal facial shape and limb anomalies, increasing its relevance for the given symptoms."
     }
   ]
 }

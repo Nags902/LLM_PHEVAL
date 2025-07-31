@@ -4,25 +4,19 @@
       "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
       "disease_id": "OMIM:201910",
       "score": 1.0,
-      "explanation": "This condition directly correlates with the phenotypic features of clitoral hypertrophy and hyperpigmentation, as demonstrated in multiple similar cases."
+      "explanation": "The clinical features of clitoral hypertrophy and hyperpigmentation of the skin, combined with the similarity to all reference cases, strongly suggest congenital adrenal hyperplasia due to 21-hydroxylase deficiency."
     },
     {
-      "disease_name": "Adrenal hyperplasia, congenital, due to 11-hydroxylase deficiency",
-      "disease_id": "OMIM:601123",
+      "disease_name": "Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
       "score": 0.5,
-      "explanation": "While less common, this disorder can also present with similar symptoms due to excess androgen production."
+      "explanation": "Adrenal hyperplasia due to 11-beta-hydroxylase deficiency can also present with clitoral hypertrophy and hyperpigmentation, but is less common than the 21-hydroxylase deficiency."
     },
     {
-      "disease_name": "Cushing syndrome, adrenal",
-      "disease_id": "OMIM:218000",
-      "score": 0.33,
-      "explanation": "This condition can induce hyperpigmentation and may present with clitoral hypertrophy, though it typically has other distinguishing features."
-    },
-    {
-      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
-      "disease_id": "OMIM:202110",
-      "score": 0.25,
-      "explanation": "This condition can lead to hormonal imbalances that might result in similar symptoms, though it is less directly related."
+      "disease_name": "Lipoid congenital adrenal hyperplasia",
+      "disease_id": "OMIM:201710",
+      "score": 0.333,
+      "explanation": "Lipoid congenital adrenal hyperplasia presents with adrenal insufficiency and can contribute to clitoral hypertrophy and skin changes, but the lack of additional features such as adrenal crisis makes it less likely."
     }
   ]
 }

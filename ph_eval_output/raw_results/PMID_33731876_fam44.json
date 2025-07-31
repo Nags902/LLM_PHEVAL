@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 5",
-      "disease_id": "OMIM:615137",
+      "disease_name": "Developmental and epileptic encephalopathy 5",
+      "disease_id": "OMIM:613068",
       "score": 1.0,
-      "explanation": "The patient's presentation of infantile spasms, intellectual disability, various seizure types, including atypical absence seizures, and encephalopathy features align closely with the reference case diagnosed with this condition."
+      "explanation": "This disease features a combination of severe intellectual disability, infantile spasms, hypsarrhythmia, and various seizure types including atypical absence and generalized tonic seizures, as well as cerebellar atrophy, aligning closely with the patient's symptoms."
     },
     {
-      "disease_name": "Batten Disease",
-      "disease_id": "OMIM:204200",
+      "disease_name": "Developmental delay with or without epilepsy",
+      "disease_id": "OMIM:617573",
       "score": 0.5,
-      "explanation": "Includes symptoms such as seizures, intellectual disability, and neurologic regression which are similar to the patient's condition, though the emphasis on atrophy and hypomyelination make it a secondary consideration."
+      "explanation": "This diagnosis encompasses a range of symptoms including infantile spasms, intellectual disability, multiple seizure types, cerebellar atrophy, and spasticity, partially overlapping with the patient's presentation."
     },
     {
-      "disease_name": "Lissencephaly 1",
-      "disease_id": "OMIM:607432",
-      "score": 0.33,
-      "explanation": "Characterized by neurological deficits and seizures, it correlates with the patient's brain and cerebellar atrophy, as well as severe intellectual disabilities."
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.3333333333333333,
+      "explanation": "Features include severe epilepsy, intellectual disability, tonic-clonic seizures, and developmental delay, with some shared characteristics with the patient's profile, though CNS hypomyelination is less typical here."
     },
     {
-      "disease_name": "MCT8 Deficiency",
-      "disease_id": "OMIM:300481",
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:608663",
       "score": 0.25,
-      "explanation": "The combination of intellectual disability, short stature, and neurologic symptoms could indicate this disorder, which features seizures and may involve aspects of brain myelination."
-    },
-    {
-      "disease_name": "Angelman Syndrome",
-      "disease_id": "OMIM:105830",
-      "score": 0.2,
-      "explanation": "This condition encompasses seizures and severe developmental delay, along with ataxia, which could relate to the patient's atrophy and seizures, albeit with less direct correlation."
+      "explanation": "Characterized by various types of seizures, intellectual disability, and EEG abnormalities like multifocal epileptiform discharges, which are present in the patient's profile, but brain and cerebellar atrophy are less typical."
     }
   ]
 }

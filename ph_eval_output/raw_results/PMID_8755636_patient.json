@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Homocystinuria, Nonresponsive to B6",
-      "disease_id": "OMIM:277400",
+      "disease_name": "Homocystinuria, B6-responsive and nonresponsive types",
+      "disease_id": "OMIM:236200",
       "score": 1.0,
-      "explanation": "The combination of arachnodactyly, intellectual disability, disproportionate tall stature, and hyperhomocystinemia aligns closely with symptoms seen in Homocystinuria, particularly the more severe, non-responsive type."
+      "explanation": "The combination of arachnodactyly, intellectual disability, disproportionate tall stature, and hyperhomocystinemia strongly points towards Homocystinuria. The similarity with Case 1, which features the same diagnosis with overlapping symptoms of arachnodactyly, intellectual disability, and hyperhomocystinemia, supports this ranking."
     },
     {
       "disease_name": "Marfan Syndrome",
       "disease_id": "OMIM:154700",
       "score": 0.5,
-      "explanation": "Arachnodactyly and tall stature are characteristic features of Marfan Syndrome. However, the presence of intellectual disability and hyperhomocystinemia is less commonly associated."
+      "explanation": "Marfan Syndrome is characterized by features like arachnodactyly and tall stature. Although the hyperhomocystinemia is not typical, the phenotypic overlap justifies consideration."
     },
     {
-      "disease_name": "Cystathionine beta-synthase deficiency",
-      "disease_id": "OMIM:605100",
-      "score": 0.33,
-      "explanation": "This condition is directly related to hyperhomocystinemia and features intellectual disability, as well as some skeletal abnormalities, fitting with the patient's symptoms."
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.3333,
+      "explanation": "Sotos Syndrome can present with intellectual disability and tall stature. While arachnodactyly is not a classic feature, the other symptoms could suggest an atypical presentation."
     },
     {
-      "disease_name": "Kearns-Sayre Syndrome",
-      "disease_id": "OMIM:530000",
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
       "score": 0.25,
-      "explanation": "Though primarily associated with mitochondrial defects and not directly related to hyperhomocystinemia, the neurological manifestations may overlap with intellectual disabilities seen in this patient."
+      "explanation": "This condition can involve tall stature and, less commonly, features resembling arachnodactyly, making it a possible, albeit less likely, candidate."
     }
   ]
 }

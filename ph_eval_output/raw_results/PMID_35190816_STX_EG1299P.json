@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:613170",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "This disease is characterized by similar phenotypic features including EEG slowing, truncal ataxia, developmental delay, and hypotonia, closely matching the patient's symptoms."
+      "explanation": "This disease matches multiple phenotypic features such as EEG with occipital slowing, Truncal ataxia, Generalized hypotonia, and Global developmental delay. It also correlates with the reference cases provided, where similar phenotypes were observed in patients diagnosed with this condition."
     },
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 11",
-      "disease_id": "OMIM:618132",
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
       "score": 0.5,
-      "explanation": "Involves global developmental delay and speech delays, which align with the patient's delayed speech and global developmental challenges."
+      "explanation": "This condition is associated with Delayed speech and language development, Hypotonia, and Global developmental delay, which aligns with the patient's presentation. It is included as it shares overlapping phenotypic features with the case data provided."
     },
     {
-      "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:601830",
-      "score": 0.33,
-      "explanation": "This condition includes strabismus, developmental delays, and hypotonia; thus, it may present in ways similar to the patient, though less directly than the first two."
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333,
+      "explanation": "Angelman syndrome is characterized by Global developmental delay, Truncal ataxia, and Speech delay. The presence of Strabismus and generalized hypotonia can also be observed in some cases, making it a potential differential diagnosis."
     }
   ]
 }

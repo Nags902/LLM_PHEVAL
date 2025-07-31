@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:615156",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "The patient's presentation closely matches the features observed in previously diagnosed cases of Developmental and Epileptic Encephalopathy 4, which includes infantile spasms, focal impaired awareness, generalized seizures, hypotonia, and hypsarrhythmia."
+      "explanation": "The phenotypic features of this patient, including infantile spasms, focal impaired awareness seizures, tonic seizures, generalized slow activity on EEG, relative macrocephaly, and global developmental delay, closely match the characteristics of Developmental and epileptic encephalopathy 4, which was identified in similar reference cases 2 and 3."
     },
     {
-      "disease_name": "Ohtahara Syndrome",
-      "disease_id": "OMIM:604989",
-      "score": 0.5,
-      "explanation": "Ohtahara syndrome is characterized by the presence of infantile spasms, hypsarrhythmia, and significant developmental delay, which aligns with the patient's phenotypic features and EEG findings."
-    },
-    {
-      "disease_name": "West Syndrome",
+      "disease_name": "West syndrome",
       "disease_id": "OMIM:308350",
-      "score": 0.33,
-      "explanation": "The occurrence of infantile spasms and hypsarrhythmia in the patient is indicative of West Syndrome, a condition closely related to developmental and epileptic encephalopathies."
+      "score": 0.5,
+      "explanation": "West syndrome is a disorder characterized primarily by infantile spasms (also known as epileptic spasms), developmental delay, and specific EEG abnormality (hypsarrhythmia), observed in this patient. Although not identical, the patient's symptoms bear resemblance to those seen in cases diagnosed with different developmental epileptic encephalopathies."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "The combination of early-onset epileptic seizures, including multiple seizure types, EEG abnormalities, and developmental delays, are consistent with a category of diseases termed developmental and epileptic encephalopathies, of which DEE1 is a variant."
     }
   ]
 }

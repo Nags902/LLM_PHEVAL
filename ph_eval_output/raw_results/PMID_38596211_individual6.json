@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Neurofibromatosis Type 1",
+      "disease_name": "Neurofibromatosis, type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient presents with multiple key features associated with Neurofibromatosis Type 1, including plexiform neurofibroma, freckling, multiple cafe-au-lait spots, scoliosis, and glioma, all of which are directly aligned with the typical clinical profile for this genetic condition."
+      "explanation": "The phenotypic features of the patient strongly match Neurofibromatosis type 1, including plexiform neurofibroma, multiple cafe-au-lait spots, axillary and inguinal freckling, scoliosis, and the presence of a glioma. These are hallmark features of NF1, which was consistently diagnosed in all similar reference cases."
     },
     {
-      "disease_name": "Neurofibromatosis Type 1 with Optic Nerve Glioma",
-      "disease_id": "OMIM:162200",
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
       "score": 0.5,
-      "explanation": "The presence of glioma in addition to the classic features of Neurofibromatosis Type 1 further supports this diagnosis, indicating a specific manifestation of the disease."
+      "explanation": "Legius syndrome, while similar to NF1, also includes cafe-au-lait spots and freckling, but usually lacks neurofibromas and gliomas. Given the presence of plexiform neurofibroma and glioma, NF1 is more likely, but Legius syndrome could still be considered in differential diagnosis due to overlapping features."
     },
     {
-      "disease_name": "Neurofibromatosis Type 2",
-      "disease_id": "OMIM:101000",
+      "disease_name": "Neurofibromatosis-Noonan Syndrome",
+      "disease_id": "OMIM:601321",
       "score": 0.333,
-      "explanation": "While primarily associated with bilateral vestibular schwannomas, some overlapping features with other types of neurofibromatosis include freckling and neuromas; however, the classic presentation of the patient more closely aligns with Type 1."
+      "explanation": "This condition shares features with both Neurofibromatosis type 1 and Noonan syndrome. The overlap could explain some of the phenotypic features, but the classical presentation more aligns with NF1. However, considering genetic heterogeneity, a mixed phenotype should be considered."
     }
   ]
 }

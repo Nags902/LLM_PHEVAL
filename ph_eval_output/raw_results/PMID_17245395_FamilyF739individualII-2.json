@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:600839",
+      "disease_name": "Tubulointerstitial Kidney Disease, Autosomal Dominant, 1",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "The patient's hyperuricemia aligns closely with the classic presentation seen in cases of tubulointerstitial kidney disease, particularly given the reference cases that featured similar symptoms."
+      "explanation": "Hyperuricemia is a key feature of this condition and aligns with similar reference cases exhibiting kidney disease and gout. The cases show progression to chronic kidney disease, suggesting a renal basis for the hyperuricemia."
+    },
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.5,
+      "explanation": "Lesch-Nyhan Syndrome is characterized by hyperuricemia due to a deficiency of hypoxanthine-guanine phosphoribosyltransferase (HPRT). It is relevant for consideration in young male patients with hyperuricemia."
     },
     {
       "disease_name": "Gout",
       "disease_id": "OMIM:138900",
-      "score": 0.5,
-      "explanation": "Hyperuricemia is a direct precursor to gout, and given the patient's age and gender, it is plausible that this could be a primary condition or a result of kidney dysfunction."
-    },
-    {
-      "disease_name": "Xanthinuria",
-      "disease_id": "OMIM:278300",
       "score": 0.333,
-      "explanation": "This condition features hyperuricemia secondary to disrupted purine metabolism, which could fit the current presentation, although it is less common."
+      "explanation": "Gout is directly linked with hyperuricemia and can be considered due to its commonality. While less likely than a genetic disorder, it is a common cause of elevated uric acid levels."
     }
   ]
 }

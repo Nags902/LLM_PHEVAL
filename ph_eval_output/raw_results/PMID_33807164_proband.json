@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Cutis laxa, autosomal recessive, type ID",
-      "disease_id": "OMIM:219200",
+      "disease_id": "OMIM:612940",
       "score": 1.0,
-      "explanation": "The patient's clinical features strongly align with the symptoms commonly associated with Cutis laxa, including joint hypermobility, hypotonia, cutis laxa, and hereditary hernias."
+      "explanation": "The patient's features of cutis laxa, joint hypermobility, hypotonia, inguinal hernia, bladder diverticulum, and telecanthus align closely with cases diagnosed with Cutis laxa, autosomal recessive, type ID."
     },
     {
-      "disease_name": "Ehlers-Danlos syndrome, classic type",
-      "disease_id": "OMIM:130000",
+      "disease_name": "Larsen syndrome, autosomal dominant",
+      "disease_id": "OMIM:150250",
       "score": 0.5,
-      "explanation": "Phenotypic features such as joint hypermobility, thin skin, bruising susceptibility, and hernias are characteristic of Ehlers-Danlos syndrome, making it a plausible option."
+      "explanation": "Larsen syndrome can present with joint hypermobility, facial dysmorphism including long face and telecanthus, and hernias. However, the presence of cutis laxa and other specific features makes this less likely than the top choice."
     },
     {
       "disease_name": "Coffin-Siris syndrome 3",
-      "disease_id": "OMIM:616243",
-      "score": 0.333,
-      "explanation": "Although this syndrome shows some overlapping symptoms with the patient (long philtrum, failure to thrive), the majority of symptoms do not align closely enough for a higher rank."
+      "disease_id": "OMIM:614608",
+      "score": 0.3333333333,
+      "explanation": "Though Coffin-Siris syndrome is a less probable match, there is some overlap with features like long philtrum, congenital diaphragmatic hernia, and hypotonia."
     },
     {
-      "disease_name": "Marfan syndrome",
-      "disease_id": "OMIM:154700",
+      "disease_name": "Ehlers-Danlos syndrome, classical type",
+      "disease_id": "OMIM:130000",
       "score": 0.25,
-      "explanation": "Marfan syndrome shares features like tall stature, joint hypermobility, and certain craniofacial appearances, but the lack of specific cardiovascular abnormalities reduces its relevancy."
+      "explanation": "This syndrome could be considered due to joint hypermobility, thin skin, and bruising susceptibility; however, the specific pattern of dysmorphic features and hernias observed leans more towards Cutis laxa."
     }
   ]
 }

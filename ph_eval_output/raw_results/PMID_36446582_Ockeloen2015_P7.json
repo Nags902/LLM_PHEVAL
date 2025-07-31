@@ -4,25 +4,19 @@
       "disease_name": "KBG Syndrome",
       "disease_id": "OMIM:148050",
       "score": 1.0,
-      "explanation": "KBG Syndrome is characterized by short stature, macrodontia, and skeletal anomalies, aligning closely with the patient's phenotype."
+      "explanation": "KBG syndrome is associated with phenotypic features such as macrodontia, short stature, abnormalities of the hand, and delayed skeletal maturation; all features present in the patient. Similar reference cases diagnosed as KBG syndrome further support this as the most likely diagnosis."
     },
     {
-      "disease_name": "Aarskog-Scott Syndrome",
-      "disease_id": "OMIM:305400",
+      "disease_name": "Russell-Silver Syndrome 1",
+      "disease_id": "OMIM:180860",
       "score": 0.5,
-      "explanation": "Aarskog-Scott Syndrome features include short stature and hand abnormalities, making it relevant to the patient's symptoms despite the absence of macrodontia."
+      "explanation": "Russell-Silver syndrome can present with short stature and delayed skeletal maturation. Although macrodontia is not a typical feature, genetic heterogeneity implies some variability in presentation."
     },
     {
-      "disease_name": "Smith-Magenis Syndrome",
-      "disease_id": "OMIM:182290",
-      "score": 0.33,
-      "explanation": "Smith-Magenis Syndrome is associated with short stature and developmental delays, which may explain some of the patient's traits, though it doesn't directly include macrodontia."
-    },
-    {
-      "disease_name": "Turner Syndrome",
-      "disease_id": "OMIM:313700",
-      "score": 0.25,
-      "explanation": "Turner Syndrome includes short stature and can sometimes exhibit skeletal maturation delays, though hand abnormalities are variable and macrodontia is not a typical feature."
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.3333333333333333,
+      "explanation": "Robinow syndrome can include short stature and hand abnormalities, but the presence of macrodontia and delayed skeletal maturation is less typical."
     }
   ]
 }

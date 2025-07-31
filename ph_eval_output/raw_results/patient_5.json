@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric aciduria type I",
+      "disease_name": "Glutaricaciduria, type I",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "The patient's clinical features closely match those of Glutaric aciduria type I, including macrocephaly, cerebral atrophy, subdural hemorrhage, and glutaric aciduria as seen in similar reference cases."
+      "explanation": "The phenotypic features of the patient closely match those of the reference cases that were all diagnosed with Glutaricaciduria, type I, including macrocephaly, cerebral atrophy, subdural hemorrhage, glutaric aciduria, and dystonia."
     },
     {
-      "disease_name": "Glutaric aciduria type II",
-      "disease_id": "OMIM:222300",
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
       "score": 0.5,
-      "explanation": "Although less common, Glutaric aciduria type II shares some symptomatic overlap with Glutaric aciduria type I. The presence of dystonia and metabolic issues supports this possibility."
+      "explanation": "While uncommon, Canavan Disease can present with macrocephaly and cerebral atrophy. It is less likely than Glutaricaciduria, type I due to the lack of glutaric aciduria in its phenotype."
     },
     {
-      "disease_name": "Carnitine palmitoyltransferase II deficiency",
-      "disease_id": "OMIM:603148",
-      "score": 0.33,
-      "explanation": "This condition may relate to metabolic derangements causing symptoms such as dystonia and macrocephaly, although it's less directly aligned with the glutaric acid levels noted."
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.333,
+      "explanation": "Though not a perfect match, Alexander Disease is considered due to the presence of macrocephaly and cerebral atrophy, but the absence of glutaric aciduria in its presentation makes it less probable."
     }
   ]
 }

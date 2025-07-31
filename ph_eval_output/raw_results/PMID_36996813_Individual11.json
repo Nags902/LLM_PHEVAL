@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
-      "disease_id": "OMIM:300000",
+      "disease_id": "OMIM:617778",
       "score": 1.0,
-      "explanation": "The clinical presentation includes multiple features like dilated third ventricle, cerebral hemorrhage, hydrocephalus, and lateral ventricle dilatation, which closely aligns with the conditions seen in similar reference cases diagnosed with neurodevelopmental disorders."
+      "explanation": "The phenotypic features of dilated third ventricle, lateral ventricle dilatation, cerebral hemorrhage, hydrocephalus, and cerebral calcification closely match those observed in previously documented cases, suggesting a strong correlation with this disorder."
     },
     {
-      "disease_name": "Lissencephaly, type I",
-      "disease_id": "OMIM:607432",
+      "disease_name": "Kosaki overgrowth syndrome",
+      "disease_id": "OMIM:616592",
       "score": 0.5,
-      "explanation": "Lissencephaly often presents with cerebral anomalies, including hydrocephalus and cerebral hemorrhage. The features observed in the patient match its presentation in some aspects."
+      "explanation": "Kosaki overgrowth syndrome can present with hydrocephalus, ventriculomegaly (lateral ventricle dilation), and cerebral calcifications, making it a possibility although less common than the primary diagnosis. This is another potential match based on overlapping phenotypes."
     },
     {
-      "disease_name": "Pachygyria",
-      "disease_id": "OMIM:607433",
-      "score": 0.33,
-      "explanation": "Similar to lissencephaly, pachygyria is associated with structural brain anomalies, including hydrocephalus and cerebral calcifications, seen in the patient."
+      "disease_name": "Cerebroretinal microangiopathy with calcifications and cysts 1",
+      "disease_id": "OMIM:612199",
+      "score": 0.333,
+      "explanation": "The presence of cerebral calcifications and dilated ventricles aligns with this condition known for microangiopathy and calcifications, offering another potential diagnosis although lacking some phenotypic features present in other possibilities."
     },
     {
-      "disease_name": "Cerebral cysts or encephaloceles",
-      "disease_id": "OMIM:613857",
+      "disease_name": "Intracranial hemorrhage, NEC",
+      "disease_id": "OMIM:308600",
       "score": 0.25,
-      "explanation": "Cerebral cysts can lead to increased intracranial pressure and display some of the same imaging findings (e.g., hydrocephalus, ventricle dilatation) coupled with hemorrhagic complications."
+      "explanation": "The symptom of cerebral hemorrhage is central to this diagnosis. The additional features of hydrocephalus and ventricle dilation further suggest this as a possibility, although the broader phenotypic pattern better fits more specific disorders."
     }
   ]
 }

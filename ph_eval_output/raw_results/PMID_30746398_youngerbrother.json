@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Parkinson Disease 15",
-      "disease_id": "OMIM:613264",
+      "disease_name": "Parkinson Disease 15, Autosomal Recessive",
+      "disease_id": "OMIM:260600",
       "score": 1.0,
-      "explanation": "The patient's symptoms align closely with the features of Parkinson Disease 15, which includes Parkinsonism, Bradykinesia, Babinski sign, Hyperreflexia, and Rigidity."
+      "explanation": "The patient exhibits key symptoms of Parkinsonism, bradykinesia, rigidity, hyperreflexia, and Babinski sign, which are characteristic of Parkinson Disease 15. The reference cases with similar phenotypic presentation were also diagnosed with this condition."
     },
     {
-      "disease_name": "Spastic Paraplegia 78",
-      "disease_id": "OMIM:612196",
+      "disease_name": "Spastic Paraplegia 78, Autosomal Recessive",
+      "disease_id": "OMIM:617225",
       "score": 0.5,
-      "explanation": "Although not all features match, the presence of Babinski sign, Hyperreflexia, and Cerebellar atrophy in the patient shows enough overlap with the symptoms seen in Spastic Paraplegia 78."
+      "explanation": "This condition was diagnosed in a reference case with overlapping features such as Babinski sign, hyperreflexia, cerebellar atrophy, and bradykinesia. Although not all phonotypical features match, the presence of cerebellar atrophy and Babinski sign provides a reasonable link."
     },
     {
-      "disease_name": "Cerebellar Ataxia, Early Onset, with Parkinsonism",
-      "disease_id": "OMIM:613264",
-      "score": 0.3333333333333333,
-      "explanation": "The combination of Cerebellar atrophy and Parkinsonism could indicate a syndrome associated with cerebellar ataxia and early-onset Parkinsonism, albeit with less certainty compared to the first two diseases."
+      "disease_name": "Multiple System Atrophy, Parkinsonian Type",
+      "disease_id": "OMIM:146500",
+      "score": 0.333,
+      "explanation": "The combination of parkinsonism, cerebellar atrophy, and positive Romberg sign aligns with multiple system atrophy, which can present with parkinsonian symptoms and cerebellar dysfunction."
     }
   ]
 }

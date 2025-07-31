@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 9",
-      "disease_id": "OMIM:614907",
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "The patient exhibits multiple phenotypic features such as bilateral tonic-clonic seizures, intellectual disability, and delayed speech, closely matching the reference cases of patients diagnosed with this condition."
+      "explanation": "This disease matches the phenotype of bilateral tonic-clonic seizures, intellectual disability, delayed speech and language development, and aggressive behavior. It is also present in similar reference Case 1."
     },
     {
-      "disease_name": "Epilepsy, Early-Onset, 3",
-      "disease_id": "OMIM:614906",
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
       "score": 0.5,
-      "explanation": "The presentation of bilateral tonic-clonic seizures and the developmental delays suggests a strong possibility of this early-onset epilepsy, which shares similarities with the patient's features."
+      "explanation": "This condition matches closely with bilateral tonic-clonic seizures, delayed speech, intellectual disability, and aggressive behavior. It was diagnosed in similar reference Cases 2 and 3."
     },
     {
-      "disease_name": "Dravet Syndrome",
-      "disease_id": "OMIM:607208",
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:608158",
       "score": 0.333,
-      "explanation": "The combination of seizures and developmental delays may be indicative of Dravet Syndrome, which is characterized by severe developmental problems and various seizure types."
-    },
-    {
-      "disease_name": "Angelman Syndrome",
-      "disease_id": "OMIM:105830",
-      "score": 0.25,
-      "explanation": "Although not perfectly matching, the intellectual disability and delayed speech can suggest Angelman Syndrome due to its association with seizures and other cognitive impairments."
+      "explanation": "Lennox-Gastaut syndrome typically includes intellectual disability, seizures, and behavioral issues, which aligns with this patient's profile. While not directly cited in the reference cases, it is a relevant epileptic encephalopathy to consider."
     }
   ]
 }

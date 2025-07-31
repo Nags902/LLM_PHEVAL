@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304050",
+      "disease_name": "Pontocerebellar Hypoplasia Type 1A",
+      "disease_id": "OMIM:607596",
       "score": 1.0,
-      "explanation": "The combination of seizures, abnormal corpus callosum morphology, hypotonia, and developmental delays closely aligns with the phenotypic features characteristic of Aicardi syndrome."
+      "explanation": "Pontocerebellar Hypoplasia Type 1A features seizures, muscle weakness, hypotonia, abnormal brainstem and corpus callosum morphology, matching the patient's symptoms."
     },
     {
-      "disease_name": "Lissencephaly",
-      "disease_id": "OMIM:607432",
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
       "score": 0.5,
-      "explanation": "The presence of seizures, abnormal brain morphology including corpus callosum abnormalities, and hypotonia suggests lissencephaly, which is characterized by developmental issues and structural brain abnormalities."
+      "explanation": "Joubert Syndrome includes symptoms such as abnormal corpus callosum and brainstem morphology, hypotonia, breathing abnormalities, and developmental delays which align with the patient's presentation."
     },
     {
-      "disease_name": "Congenital myopathy",
-      "disease_id": "OMIM:254100",
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
       "score": 0.333,
-      "explanation": "Muscle weakness, hypotonia, and respiratory failure raise suspicion for a congenital myopathy which can also present with seizures due to associated neurological issues."
+      "explanation": "Pelizaeus-Merzbacher Disease involves hypotonia, ataxia, nystagmus, and abnormalities in CNS myelination, with possible overlap with patient's white matter and seizure characteristics."
     },
     {
-      "disease_name": "Neurodegeneration with brain iron accumulation (NBIA)",
-      "disease_id": "OMIM:607628",
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
       "score": 0.25,
-      "explanation": "While not typical, the constellation of neurological findings, including seizures and abnormal brainstem morphology, may appear in some NBIA cases, warranting consideration."
+      "explanation": "Leigh Syndrome can include seizure, muscle weakness, respiratory failure, hypotonia, and brain structure abnormalities, which have a parallel with the patient's symptoms."
     },
     {
-      "disease_name": "Mitochondrial myopathy",
-      "disease_id": "OMIM:501200",
+      "disease_name": "SMA with Respiratory Distress Type 1 (SMARD1)",
+      "disease_id": "OMIM:604320",
       "score": 0.2,
-      "explanation": "Presence of hypertrophic cardiomyopathy and muscle weakness with neurological symptoms could indicate a mitochondrial myopathy, which can also be associated with seizures."
+      "explanation": "SMARD1 is characterized by diaphragmatic paresis leading to respiratory failure, muscle weakness, and hypotonia, closely mirroring the respiratory and neurological findings in the patient."
     }
   ]
 }

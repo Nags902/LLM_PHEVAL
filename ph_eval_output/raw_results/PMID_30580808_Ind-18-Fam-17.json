@@ -1,16 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Coffin-Siris syndrome 8",
-      "disease_id": "OMIM:614703",
+      "disease_name": "Coffin-Siris Syndrome 8",
+      "disease_id": "OMIM:618027",
       "score": 1.0,
-      "explanation": "The patient's clinical features closely match those of Coffin-Siris syndrome 8, particularly the presence of orofacial clefts, intellectual disability, and hypoplasia of the corpus callosum."
+      "explanation": "The patient exhibits several features overlapping with Coffin-Siris syndrome 8, including intellectual disability, orofacial cleft, and hypoplasia of the corpus callosum, which are similar to those noted in Cases 2 and 3."
     },
     {
-      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
-      "disease_id": "OMIM:615188",
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.5,
-      "explanation": "This condition is relevant due to overlapping features such as seizures, intellectual disability, and other neurodevelopmental aspects seen in the reference cases."
+      "explanation": "Cornelia de Lange Syndrome 1 can present with facial dysmorphisms such as thick eyebrows, wide nose, and low-set ears, as well as intellectual disability, all of which are seen in the patient."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.3333,
+      "explanation": "Shares phenotypic overlap with wide nose, intellectual disability, and seizures, making it a potential match despite slightly less commonality in other features."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Considered due to combination of intellectual disability, seizures, and distinctive facial features like broad philtrum, though less overlap with other features."
     }
   ]
 }

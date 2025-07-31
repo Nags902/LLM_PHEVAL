@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Bardet-Biedl Syndrome",
-      "disease_id": "OMIM:601430",
+      "disease_name": "Ritscher-Schinzel syndrome 2",
+      "disease_id": "OMIM:614714",
       "score": 1.0,
-      "explanation": "The patient presents with visual impairment, intellectual disability, and developmental delays, which are consistent with Bardet-Biedl Syndrome. The myopia and potential hydrocephalus align with features reported in literature on this syndrome."
+      "explanation": "Ritscher-Schinzel syndrome is characterized by hydrocephalus, intellectual disability, developmental delay, midface retrusion, visual impairment, and heart defects. Ritscher-Schinzel syndrome 2 is a subtype that includes features like high myopia and choroid plexus hypertrophy."
     },
     {
-      "disease_name": "Pachygyria",
-      "disease_id": "OMIM:607056",
+      "disease_name": "Megalencephaly-capillary malformation-polymicrogyria syndrome (MCAP)",
+      "disease_id": "OMIM:602501",
       "score": 0.5,
-      "explanation": "The combination of intellectual disability, hydrocephalus, and dysmorphic features such as upslanted palpebral fissures makes Pachygyria a candidate, especially given the developmental delays noted."
+      "explanation": "MCAP is noted for intellectual disability, developmental delay, and hydrocephalus among other features. The presence of midface retrusion, tongue protrusion, and neurological discrepancies align with this condition."
     },
     {
-      "disease_name": "Goldberg-Shprintzen Syndrome",
-      "disease_id": "OMIM:618612",
+      "disease_name": "Mucopolysaccharidosis type I",
+      "disease_id": "OMIM:607014",
       "score": 0.333,
-      "explanation": "This syndrome presents with developmental delay and intellectual disability, along with craniofacial dysmorphism such as upslanted palpebral fissures and midface retrusion, which correlates with this patient's features."
+      "explanation": "MPS I includes developmental delay, intellectual disability, hydrocephalus, and corneal clouding, which can be mistaken for general visual impairment. The phenotypic overlap includes facial dysmorphisms and tongue protrusion."
     },
     {
-      "disease_name": "Tuberous Sclerosis Complex",
-      "disease_id": "OMIM:605284",
+      "disease_name": "Oculo-cerebro-facial syndrome",
+      "disease_id": "OMIM:166780",
       "score": 0.25,
-      "explanation": "The intellectual disability and possible hydrocephalus may fit within the characteristics of Tuberous Sclerosis, although the specific eye features are less common in this disorder."
+      "explanation": "This syndrome presents with visual impairment, intellectual disability, developmental delay, hydrocephalus, and craniofacial abnormalities, correlating well with the patient's features."
     },
     {
-      "disease_name": "Axenfeld-Rieger Syndrome",
-      "disease_id": "OMIM:180500",
+      "disease_name": "Pallister-Killian syndrome",
+      "disease_id": "OMIM:601803",
       "score": 0.2,
-      "explanation": "The patient\u2019s high myopia and eye abnormalities may point towards Axenfeld-Rieger Syndrome, though the intellectual disability is not as typical for this disorder."
+      "explanation": "Characterized by developmental delay, intellectual disability, midface retrusion, and hydrocephalus. The presence of protruding tongue and facial features can align with this syndrome."
     }
   ]
 }

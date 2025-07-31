@@ -1,22 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Holt-Oram Syndrome",
+      "disease_name": "Holt-Oram syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "The patient presents with a combination of atrial septal defect, hypoplasia of the radius, abnormal carpal morphology, and cardiac conduction abnormalities, which are consistent with Holt-Oram syndrome. Additionally, similar reference cases confirm the pattern of features typical for this syndrome."
+      "explanation": "The patient presents with Atrial septal defect, Hypoplasia of the radius, Abnormal carpal morphology, and Cardiac conduction abnormality, which are strongly indicative of Holt-Oram syndrome. Cases with highly similar presentations have been diagnosed with this condition."
     },
     {
-      "disease_name": "Syndrome of Atrial Septal Defect with Abnormal Bones (Holt-Oram variant)",
-      "disease_id": "OMIM:613426",
+      "disease_name": "TAR syndrome (Thrombocytopenia-Absent Radius syndrome)",
+      "disease_id": "OMIM:274000",
       "score": 0.5,
-      "explanation": "This disease is a variant of Holt-Oram syndrome characterized by atrial septal defect and skeletal anomalies. The patient's features align closely with this variant, although it is less recognized than classic Holt-Oram syndrome."
-    },
-    {
-      "disease_name": "Congenital Heart Disease with Upper Limb Malformations",
-      "disease_id": "OMIM:601181",
-      "score": 0.33,
-      "explanation": "While not as specific as Holt-Oram syndrome, this condition encompasses congenital heart defects along with significant upper limb anomalies, which aligns with the patient's symptoms but lacks the specificity of a classic diagnosis."
+      "explanation": "TAR syndrome involves skeletal abnormalities including hypoplasia of the radius and cardiac defects. However, the absence of thrombocytopenia in the phenotype makes this a less likely diagnosis compared to Holt-Oram syndrome."
     }
   ]
 }

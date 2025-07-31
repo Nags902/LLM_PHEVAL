@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual developmental disorder, autism, and microcephaly",
-      "disease_id": "OMIM:615293",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
       "score": 1.0,
-      "explanation": "The patient presents with a combination of intellectual disability, autistic behavior, global developmental delay, and microcephaly which closely aligns with cases diagnosed with this disorder."
+      "explanation": "Pitt-Hopkins Syndrome is characterized by intellectual disability, autistic features, motor delay, developmental delay, microcephaly, and characteristic facial features such as triangular face and anteverted nares, similar to the patient's presentation."
     },
     {
-      "disease_name": "Chromosome 5q13.2 deletion syndrome",
-      "disease_id": "OMIM:614259",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 0.5,
-      "explanation": "This syndrome is characterized by developmental delays, intellectual disability, and facial dysmorphism such as triangular face, which may correlate with the patient's phenotypic features."
+      "explanation": "Smith-Magenis Syndrome features include intellectual disability, behavioral problems, sleep disturbances, short stature, and characteristic facial features. Some phenotypes overlap with the patient's symptoms."
     },
     {
-      "disease_name": "Syndrome of autism with microcephaly",
-      "disease_id": "OMIM:613843",
-      "score": 0.33,
-      "explanation": "This syndrome includes intellectual disability, autistic behaviors, and microcephaly, closely mirroring the features presented by the patient."
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333,
+      "explanation": "Cornelia de Lange Syndrome can present with developmental delay, intellectual disability, microcephaly, and distinctive facial appearance, which may include triangular face."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz syndrome",
-      "disease_id": "OMIM:270400",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 0.25,
-      "explanation": "The presence of developmental delays, autistic behavior, and microcephaly can be observed in this condition, making it a candidate despite being less prevalent."
+      "explanation": "Mowat-Wilson Syndrome is associated with intellectual disability, microcephaly, facial dysmorphism, and gastrointestinal issues such as constipation, relevant to some features in the patient."
     },
     {
-      "disease_name": "Prader-Willi syndrome",
-      "disease_id": "OMIM:176270",
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
       "score": 0.2,
-      "explanation": "PWS may encompass developmental delays and short stature, with some presenting with autistic behaviors, making it a relevant consideration based on similar cases."
+      "explanation": "Rubinstein-Taybi Syndrome includes intellectual disability, speech delay, and distinct facial features, with some overlap to the current patient's presentation."
     }
   ]
 }

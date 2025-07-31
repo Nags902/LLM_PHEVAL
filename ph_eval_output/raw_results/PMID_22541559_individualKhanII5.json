@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
-      "disease_id": "OMIM:615578",
+      "disease_id": "OMIM:615828",
       "score": 1.0,
-      "explanation": "The patient presents with intellectual disability and hypertonia, which correspond to cases diagnosed with this disorder where similar phenotypic features were observed."
+      "explanation": "The patient displays both intellectual disability and hypertonia, which align with similar reference cases diagnosed with this disorder despite lacking additional features like microcephaly and seizures."
     },
     {
-      "disease_name": "Lissencephaly 1",
-      "disease_id": "OMIM:607432",
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
       "score": 0.5,
-      "explanation": "Lissencephaly can present with intellectual disability and hypertonia, making it a relevant differential diagnosis in the absence of more specific findings."
+      "explanation": "This syndrome can present with intellectual disability and hypertonia among other neurological features. Although more common in females, its phenotypic overlap warrants consideration."
     },
     {
-      "disease_name": "Williams syndrome",
-      "disease_id": "OMIM:194050",
-      "score": 0.33,
-      "explanation": "Although more specific features like cardiovascular anomalies are typical, the combination of intellectual disability and hypertonia can occur, warranting consideration."
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.333,
+      "explanation": "Joubert syndrome often includes intellectual disability and muscle tone abnormalities, making it a potential match despite some typical features like cerebellar vermis hypoplasia not being detailed here."
     }
   ]
 }

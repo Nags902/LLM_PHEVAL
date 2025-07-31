@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Neurodevelopmental Disorder with Hypotonia, Feeding Difficulties, Facial Dysmorphism, and Brain Abnormalities",
-      "disease_id": "OMIM:300866",
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
       "score": 1.0,
-      "explanation": "The patient's features closely align with those of similar reference cases, including hypotonia, short stature, hypoplasia of the corpus callosum, and various developmental delays, suggesting a neurodevelopmental disorder."
+      "explanation": "Coffin-Lowry Syndrome is characterized by features such as hypotonia, intellectual disability, delayed development, and distinctive facial features, several of which align with the patient\u2019s phenotype."
     },
     {
-      "disease_name": "Floating-Harbor Syndrome",
-      "disease_id": "OMIM:309050",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 0.5,
-      "explanation": "This syndrome commonly presents with short stature, speech delays, and developmental delays which align with the patient's symptoms, particularly the phenotype of short stature and developmental issues."
+      "explanation": "Smith-Magenis Syndrome includes hypotonia, short stature, intellectual disability, distinctive craniofacial features, and sleep disturbances, all observed in the patient."
     },
     {
-      "disease_name": "Cornelia de Lange Syndrome",
-      "disease_id": "OMIM:122475",
-      "score": 0.33,
-      "explanation": "This syndrome is characterized by growth delays, facial dysmorphism, and developmental delays which resonate with the patient's profile of hypotonia and low-set ears."
+      "disease_name": "3q29 Microdeletion Syndrome",
+      "disease_id": "OMIM:609425",
+      "score": 0.333,
+      "explanation": "3q29 Microdeletion Syndrome presents with hypotonia, developmental delay, intellectual disability, distinctive facial features, and autistic behavior, similar to the phenotypes in the patient."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "While Angelman Syndrome is often associated with severe intellectual disability and speech impairment, some overlapping features like hypotonia, developmental delay, and sleep disturbances warrant its consideration."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.2,
+      "explanation": "Sotos Syndrome exhibits overgrowth, developmental delays, and distinctive facial features, but the presence of hypotonia and global delay align closely with the patient's profile."
     }
   ]
 }

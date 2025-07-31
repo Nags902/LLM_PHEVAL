@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
+      "disease_name": "Camurati-Engelmann disease",
+      "disease_id": "OMIM:131300",
+      "score": 1.0,
+      "explanation": "The combination of cortical thickening of long bones, elevated alkaline phosphatase, bone pain, waddling gait, and hyperostosis are classic features of Camurati-Engelmann disease."
+    },
+    {
       "disease_name": "Craniometaphyseal dysplasia",
       "disease_id": "OMIM:123000",
-      "score": 1.0,
-      "explanation": "The patient's symptoms include elevated alkaline phosphatase, cortical thickening of long bones, proptosis, ptosis, and prominent forehead which align closely with the features seen in cases of Craniometaphyseal dysplasia."
-    },
-    {
-      "disease_name": "Hyperostosis frontalis interna",
-      "disease_id": "OMIM:611640",
       "score": 0.5,
-      "explanation": "The hyperostosis and proptosis are suggestive of Hyperostosis frontal is interna, although the combination of features like hypocalcemia and bone pain is less typical."
+      "explanation": "This condition is characterized by hyperostosis and elevated alkaline phosphatase, similar to features in the patient. Similar reference cases were diagnosed with this disease."
     },
     {
-      "disease_name": "Paget disease of bone",
-      "disease_id": "OMIM:602080",
-      "score": 0.333,
-      "explanation": "Paget disease may present with bone pain and cortical thickening, similar to some features in the patient, but lacks the overall combination of findings."
+      "disease_name": "Hyperphosphatasia with mental retardation syndrome 1",
+      "disease_id": "OMIM:239300",
+      "score": 0.3333333333333333,
+      "explanation": "Though primarily characterized by intellectual disability, this condition features elevated alkaline phosphatase and has some skeletal abnormalities overlapping with the patient's symptoms."
     }
   ]
 }

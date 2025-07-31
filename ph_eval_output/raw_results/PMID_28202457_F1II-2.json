@@ -2,21 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Ataxia-pancytopenia syndrome",
-      "disease_id": "OMIM:615792",
+      "disease_id": "OMIM:159550",
       "score": 1.0,
-      "explanation": "The patient's unsteady gait and nystagmus closely match the phenotypic features observed in similar cases diagnosed with Ataxia-pancytopenia syndrome."
+      "explanation": "The phenotypic features such as unsteady gait and nystagmus, along with the similarity to reference cases which were all diagnosed with Ataxia-pancytopenia syndrome, make this the most likely diagnosis."
     },
     {
       "disease_name": "Spinocerebellar Ataxia",
-      "disease_id": "OMIM:601168",
+      "disease_id": "OMIM:164400",
       "score": 0.5,
-      "explanation": "While the patient exhibits unsteady gait and nystagmus, the specific combination of features may also suggest a form of Spinocerebellar Ataxia which is associated with similar neurological symptoms."
+      "explanation": "Spinocerebellar ataxias can present with an unsteady gait and nystagmus, which are consistent with the patient's symptoms. Although the patient lacks other common signs, it remains a possibility given the parent's symptoms."
     },
     {
-      "disease_name": "Freidreich's ataxia",
+      "disease_name": "Friedreich's Ataxia",
       "disease_id": "OMIM:229300",
-      "score": 0.33,
-      "explanation": "This condition features ataxia and may present with nystagmus, although the additional hematological features from the reference cases are not described in this patient, making it a less likely but potential diagnosis."
+      "score": 0.333,
+      "explanation": "Friedreich's Ataxia includes unsteady gait and can present with ocular findings such as nystagmus. While less likely, it could be considered if other symptoms develop."
+    },
+    {
+      "disease_name": "Multiple Sclerosis",
+      "disease_id": "OMIM:126200",
+      "score": 0.25,
+      "explanation": "Multiple Sclerosis may cause unsteady gait and nystagmus, but lacks the hematological findings present in similar reference cases, lowering the likelihood."
     }
   ]
 }

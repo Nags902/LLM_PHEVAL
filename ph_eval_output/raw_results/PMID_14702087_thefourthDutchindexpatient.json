@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Prolonged Electroretinal Response Suppression 1",
-      "disease_id": "OMIM:615548",
+      "disease_name": "Prolonged electroretinal response suppression 1",
+      "disease_id": "OMIM:608133",
       "score": 1.0,
-      "explanation": "This disease is directly associated with the specific combination of symptoms presented, as seen in the reference cases."
+      "explanation": "The patient presents with bradyopsia, difficulty adjusting to changes in luminance, reduced visual acuity, and photophobia, all of which are core symptoms of Prolonged electroretinal response suppression 1. Previous similar cases with an additional symptom of nystagmus were diagnosed with this disease."
     },
     {
-      "disease_name": "Cone-Rod Dystrophy",
-      "disease_id": "OMIM:120970",
+      "disease_name": "Congenital stationary night blindness type 1B",
+      "disease_id": "OMIM:300071",
       "score": 0.5,
-      "explanation": "This condition presents with symptoms of reduced visual acuity and photophobia, resembling the symptoms of the patient, although it may not fully explain bradyopsia."
+      "explanation": "Congenital stationary night blindness types can exhibit symptoms such as difficulty adjusting to changes in luminance and reduced visual acuity. Although photophobia and bradyopsia are not classic symptoms, the condition could present atypically."
     },
     {
-      "disease_name": "Retinitis Pigmentosa",
-      "disease_id": "OMIM:180100",
-      "score": 0.33,
-      "explanation": "This disease often has associated visual acuity issues and photophobia; however, bradyopsia is not a classic feature, hence ranked lower."
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.3333,
+      "explanation": "Leber congenital amaurosis is known for reduced visual acuity and photophobia, similar to the symptoms presented. However, bradyopsia is not typically associated."
     }
   ]
 }

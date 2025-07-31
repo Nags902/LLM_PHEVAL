@@ -1,22 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Diamond-Blackfan Anemia 1",
-      "disease_id": "OMIM:205900",
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
       "score": 1.0,
-      "explanation": "The patient presents with all critical phenotypic features seen in Diamond-Blackfan Anemia, including anemia, increased mean corpuscular volume, elevated red cell adenosine deaminase activity, persistence of hemoglobin F, and short stature, mirroring the reference cases."
+      "explanation": "The combination of symptoms such as anemia, short stature, increased mean corpuscular volume, elevated red cell adenosine deaminase activity, and persistence of hemoglobin F directly match with those observed in Diamond-Blackfan anemia 1. This match is consistent with the similar reference cases provided, all diagnosed as Diamond-Blackfan anemia 1."
     },
     {
-      "disease_name": "Diamond-Blackfan Anemia 2",
-      "disease_id": "OMIM:205901",
+      "disease_name": "Diamond-Blackfan anemia 2",
+      "disease_id": "OMIM:610624",
       "score": 0.5,
-      "explanation": "This subtype of Diamond-Blackfan Anemia shares similar clinical features with Case 1, but specific mutations may differentiate it from Diamond-Blackfan Anemia 1, warranting consideration."
-    },
-    {
-      "disease_name": "Non-classical Congenital Adrenal Hyperplasia",
-      "disease_id": "OMIM:613571",
-      "score": 0.333,
-      "explanation": "While not a primary match, certain hematological and biometric issues can overlap, particularly with short stature and potentially elevated red cell metrics, justifying its inclusion in the differential diagnosis."
+      "explanation": "Although less common, Diamond-Blackfan anemia 2 shares similar phenotypic characteristics, including anemia and elevated red cell adenosine deaminase activity. The presence of similar clinical features warrants the consideration of this subtype."
     }
   ]
 }

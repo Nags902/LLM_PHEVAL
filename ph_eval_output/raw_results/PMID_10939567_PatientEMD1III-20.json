@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Emery-Dreifuss muscular dystrophy 2",
-      "disease_id": "OMIM:300423",
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
       "score": 1.0,
-      "explanation": "The patient's clinical features closely match those seen in cases of Emery-Dreifuss muscular dystrophy 2, including contractures, muscle weakness, elevated CK levels, and cardiac complications."
+      "explanation": "The phenotypic features align closely with those reported in similar reference cases diagnosed with this condition, including achilles tendon contracture, elbow contracture, spinal rigidity, elevated creatine kinase, and abnormal left ventricular function."
     },
     {
-      "disease_name": "Emery-Dreifuss muscular dystrophy 1",
-      "disease_id": "OMIM:310300",
+      "disease_name": "Bethlem Myopathy 1",
+      "disease_id": "OMIM:158810",
       "score": 0.5,
-      "explanation": "Similar to Emery-Dreifuss muscular dystrophy 2, this disease variant shares significant phenotypic overlap such as muscle weakness, contractures, and cardiac issues, though specific genetic mutations may differ."
+      "explanation": "Bethlem Myopathy can cause muscle weakness, contractures, and elevated creatine kinase, which align with the patient's symptoms of proximal muscle weakness and joint contractures. However, cardiac manifestations are less typical, lowering the rank."
     },
     {
-      "disease_name": "Myofibrillar myopathy",
-      "disease_id": "OMIM:601469",
-      "score": 0.333,
-      "explanation": "Myofibrillar myopathy may present with similar proximal weakness, muscle rigidity, and elevated CK levels; however, the presence of arrhythmia may not be as common."
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 0.3333333333333333,
+      "explanation": "This condition can present with elevated creatine kinase, muscle weakness, and cardiac involvement, including arrhythmias. However, it lacks some of the specific contractures and the stiff neck reported in the patient, making it less aligned."
     },
     {
-      "disease_name": "Limb-girdle muscular dystrophy",
-      "disease_id": "OMIM:159000",
+      "disease_name": "Collagen VI-related myopathy",
+      "disease_id": "OMIM:254130",
       "score": 0.25,
-      "explanation": "Limb-girdle muscular dystrophies can cause weakness and contractures, but the prominence of cardiac issues and the specific combination of features seen in this patient points more towards Emery-Dreifuss."
+      "explanation": "Collagen VI-related myopathy involves muscle weakness and contractures, like in this case. However, the presence of ventricular arrhythmias and specific cardiac features is less common, which decreases its ranking."
     },
     {
-      "disease_name": "Spinal muscular atrophy",
-      "disease_id": "OMIM:253300",
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
       "score": 0.2,
-      "explanation": "While this condition can cause muscle weakness and related symptoms, it does not typically present with elevated CK or the specific cardiac issues seen in this case."
+      "explanation": "While encompassing muscle weakness and elevated creatine kinase, Duchenne Muscular Dystrophy is less consistent with the adult onset and cardiac-specific features, resulting in a lower rank."
     }
   ]
 }

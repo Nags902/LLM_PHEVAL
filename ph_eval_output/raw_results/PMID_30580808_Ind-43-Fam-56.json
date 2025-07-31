@@ -4,19 +4,19 @@
       "disease_name": "Craniofrontonasal Dysplasia",
       "disease_id": "OMIM:304110",
       "score": 1.0,
-      "explanation": "This condition is characterized by hypertelorism, orofacial clefts, and other craniofacial malformations similar to the case presented."
+      "explanation": "Craniofrontonasal dysplasia is strongly associated with the presented features such as hypertelorism and orofacial clefts. The reference cases with similar features are diagnosed with this condition, making it the most likely candidate."
+    },
+    {
+      "disease_name": "Van der Woude Syndrome",
+      "disease_id": "OMIM:119300",
+      "score": 0.5,
+      "explanation": "Van der Woude Syndrome is another condition characterized by orofacial clefts and other craniofacial abnormalities, which aligns with the patient's phenotype."
     },
     {
       "disease_name": "Apert Syndrome",
       "disease_id": "OMIM:101200",
-      "score": 0.5,
-      "explanation": "Apert syndrome presents with orofacial clefts and craniofacial dysmorphism, which can include hypertelorism."
-    },
-    {
-      "disease_name": "Saethre-Chotzen Syndrome",
-      "disease_id": "OMIM:101400",
-      "score": 0.333,
-      "explanation": "This syndrome features hypertelorism and cleft lip, potentially linking to the patient's symptoms."
+      "score": 0.3333,
+      "explanation": "Apert Syndrome can present with features like hypertelorism and cleft palate, but usually includes syndactyly and craniosynostosis, making it a less strong match but still possible."
     }
   ]
 }

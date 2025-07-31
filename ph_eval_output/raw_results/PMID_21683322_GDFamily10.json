@@ -1,16 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Geleophysic Dysplasia 2",
-      "disease_id": "OMIM:612905",
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely align with Geleophysic Dysplasia 2, particularly the long and smooth philtrum, thin upper lip vermilion, hypertelorism, and skeletal abnormalities such as short palms and feet."
+      "explanation": "The patient presents with phenotypic features such as a long philtrum, smooth philtrum, thin upper lip vermilion, hypertelorism, full cheeks, short palm, short foot, short nose, and limitation of joint mobility. These are consistent with features seen in Geleophysic dysplasia 2, which is confirmed by a similar reference case."
     },
     {
-      "disease_name": "White-Sutton Syndrome",
-      "disease_id": "OMIM:619876",
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
       "score": 0.5,
-      "explanation": "While the patient does not exhibit all characteristics seen in the reference cases, the presence of similar facial features and potential developmental delays suggests a resemblance to White-Sutton syndrome, but with less certainty."
+      "explanation": "White-Sutton syndrome also presents with overlapping phenotypic features such as hypertelorism, intellectual disabilities, behavioral features, and a combination of facial dysmorphology. Similarities with reference cases suggest it as a potential diagnosis."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome 1 can also feature hypertelorism, joint issues, and certain facial characteristics. While not as closely aligned as the previous conditions, it is considered a differential given the overlap in some clinical presentations."
     }
   ]
 }

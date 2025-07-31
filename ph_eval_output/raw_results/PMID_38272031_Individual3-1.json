@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Macular Dystrophy",
-      "disease_id": "OMIM:604203",
+      "disease_name": "Macular Dystrophy, Dominant Cystoid",
+      "disease_id": "OMIM:153880",
       "score": 1.0,
-      "explanation": "The patient exhibits reduced visual acuity and macular dystrophy, which are consistent with cases diagnosed with macular dystrophy. This condition was directly referenced in similar cases."
+      "explanation": "Macular dystrophy characterized by cystoid changes; aligns with reduced visual acuity and history of similar presentation in reference cases."
     },
     {
-      "disease_name": "Stargardt Disease",
-      "disease_id": "OMIM:248200",
+      "disease_name": "Sorsby Fundus Dystrophy",
+      "disease_id": "OMIM:136900",
       "score": 0.5,
-      "explanation": "This disease can present with similar macular dystrophy features and reduced visual acuity, fitting the patient's symptoms."
+      "explanation": "Rare condition featuring macular changes and reduced visual acuity; though less common, phenotypic match exists but lacks full set of features seen in reference cases."
     },
     {
-      "disease_name": "Best Vitelliform Macular Dystrophy",
-      "disease_id": "OMIM:153700",
-      "score": 0.333,
-      "explanation": "Best disease can cause macular dystrophy and visual acuity reduction, similar to what the patient presents."
-    },
-    {
-      "disease_name": "Cone-Rod Dystrophy",
-      "disease_id": "OMIM:120990",
-      "score": 0.25,
-      "explanation": "This condition can manifest with reduced visual acuity and is related to macular changes, making it a consideration in differential diagnosis."
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.3333333333333333,
+      "explanation": "Stargardt disease often presents with macular dystrophy and visual acuity loss; however, less likely due to lack of additional Stargardt-specific features in this case."
     }
   ]
 }

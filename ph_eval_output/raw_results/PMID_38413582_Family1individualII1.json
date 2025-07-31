@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
-      "disease_id": "OMIM:615271",
+      "disease_id": "OMIM:610458",
       "score": 1.0,
-      "explanation": "The patient presents with multiple phenotypic features highly consistent with limb-girdle muscular dystrophy, as evidenced by proximal and distal muscle weakness, elevated creatine kinase, Gowers sign, and limb joint contracture, matching closely with similar reference cases."
+      "explanation": "This disease matches closely with the phenotypic features such as proximal and distal muscle weakness, unsteady gait, scoliosis, increased endomysial connective tissue, highly elevated creatine kinase, calf muscle pseudohypertrophy, and Gowers sign, closely aligning with the reference cases."
     },
     {
-      "disease_name": "Muscular dystrophy, Duchenne",
+      "disease_name": "Duchenne Muscular Dystrophy",
       "disease_id": "OMIM:310200",
       "score": 0.5,
-      "explanation": "While the features presented align closely to limb-girdle muscular dystrophy, some findings such as calf muscle pseudohypertrophy and Gowers sign are also indicative of Duchenne muscular dystrophy, although not all classical features are present."
+      "explanation": "Shares similar characteristics such as proximal muscle weakness, elevated creatine kinase levels, calf pseudohypertrophy, and Gowers sign. However, the absence of X-linked inheritance indication makes it less likely compared to limb-girdle muscular dystrophy."
     },
     {
-      "disease_name": "Spinal muscular atrophy",
-      "disease_id": "OMIM:253300",
-      "score": 0.33,
-      "explanation": "The combination of weakness, motor delay, and gait abnormalities suggests a possible form of spinal muscular atrophy, but the presence of elevated creatine kinase and contractures leans toward muscular dystrophy being more likely."
-    },
-    {
-      "disease_name": "Myopathy due to myotubular myopathy",
-      "disease_id": "OMIM:310200",
-      "score": 0.25,
-      "explanation": "Characteristic findings like proximal weakness and motor delay could align with myotubular myopathy, yet the elevated creatine kinase and pseudo-hypertrophy are more fitting for muscular dystrophies."
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.333,
+      "explanation": "Similar to Duchenne Muscular Dystrophy but with a typically milder phenotype, which also includes elevated creatine kinase, muscle weakness, and pseudohypertrophy. The level of severity and absence of X-linked traits makes it less likely."
     }
   ]
 }

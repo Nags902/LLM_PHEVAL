@@ -4,19 +4,19 @@
       "disease_name": "Neurofibromatosis, type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features match the classic criteria for Neurofibromatosis type 1, which includes plexiform neurofibromas, multiple cafe-au-lait spots, axillary and inguinal freckling, and Lisch nodules."
+      "explanation": "The phenotypic features of plexiform neurofibroma, axillary freckling, inguinal freckling, multiple cafe-au-lait spots, and Lisch nodules align perfectly with Neurofibromatosis type 1, as demonstrated by the similar reference cases."
     },
     {
-      "disease_name": "Neurofibromatosis, type 2",
-      "disease_id": "OMIM:101000",
+      "disease_name": "Watson Syndrome",
+      "disease_id": "OMIM:193520",
       "score": 0.5,
-      "explanation": "While Neurofibromatosis type 2 also involves tumors, it is less likely given the specific features of freckling and neurofibromas that are more characteristic of type 1."
+      "explanation": "Although less common, Watson Syndrome can present with cafe-au-lait spots and Lisch nodules. However, it usually involves pulmonary stenosis, which is not listed in this case."
     },
     {
-      "disease_name": "Schwannomatosis",
-      "disease_id": "OMIM:162091",
-      "score": 0.33,
-      "explanation": "Schwannomatosis could be considered but does not typically present with the same cutaneous features as Neurofibromatosis type 1, making it a less likely match."
+      "disease_name": "Segmental Neurofibromatosis",
+      "disease_id": "OMIM:162210",
+      "score": 0.333,
+      "explanation": "Segmental Neurofibromatosis can present with features similar to Neurofibromatosis type 1 but tends to be restricted to a specific body segment, which was not specifically indicated in this case."
     }
   ]
 }

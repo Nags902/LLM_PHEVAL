@@ -1,22 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 11",
-      "disease_id": "OMIM:614,339",
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:614558",
       "score": 1.0,
-      "explanation": "This disease closely matches the patient's symptoms of infantile spasms, hypsarrhythmia, severe intellectual disability, hypotonia, autism, and EEG abnormalities, as evidenced by similar reference cases."
+      "explanation": "There is a strong correlation with the presented phenotypic features and similarity with reference cases diagnosed with this condition, including autism, CNS hypomyelination, EEG abnormalities, infantile spasms, severe intellectual disability, hypotonia, and hypsarrhythmia."
     },
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:614,395",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:614019",
       "score": 0.5,
-      "explanation": "This condition shares several features with the patient, including infantile spasms, severe intellectual disability, and abnormal EEG findings, making it a relevant differential diagnosis."
-    },
-    {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304,050",
-      "score": 0.33,
-      "explanation": "Aicardi syndrome is characterized by the combination of infantile spasms, CNS malformations, and autism, which aligns with the provided phenotypic features, though not as precisely as the first two conditions."
+      "explanation": "The patient shows several matching features such as infantile spasms, autism, EEG abnormalities, hypsarrhythmia, hypotonia, and severe intellectual disability, similar to reference case 3 diagnosed with this condition."
     }
   ]
 }

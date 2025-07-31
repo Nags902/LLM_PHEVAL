@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 4",
-      "disease_id": "OMIM:300670",
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "The patient's symptoms, including epileptic encephalopathy, focal aware seizures, intellectual disability, and global developmental delay are closely aligned with cases leading to a diagnosis of Developmental and Epileptic Encephalopathy 4."
+      "explanation": "The phenotypic overlap with similar reference cases of Developmental and epileptic encephalopathy 4 is significant, including features like epileptic encephalopathy, focal seizures, autism, intellectual disability, and self-injurious behavior."
     },
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 112",
-      "disease_id": "OMIM:615952",
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM: 618863",
       "score": 0.5,
-      "explanation": "This condition also aligns with the patient's features, particularly the combination of seizures, autism, and developmental delays, as seen in similar reference cases."
-    },
-    {
-      "disease_name": "Dravet Syndrome",
-      "disease_id": "OMIM:607451",
-      "score": 0.33,
-      "explanation": "Dravet Syndrome could be considered due to the presence of severe epilepsy, developmental delay, and behaviors consistent with irritability and self-injurious behavior."
+      "explanation": "Although not as closely matched as the first choice, there are substantial similarities with DEE112, including epileptic encephalopathy, developmental delay, intellectual disability, and autism."
     },
     {
       "disease_name": "Phelan-McDermid Syndrome",
       "disease_id": "OMIM:606232",
+      "score": 0.333,
+      "explanation": "Phelan-McDermid syndrome often features epilepsy, autism spectrum disorders, intellectual disability, and hypotonia, aligning with many of the clinical features seen in this case."
+    },
+    {
+      "disease_name": "Koolen-de Vries Syndrome",
+      "disease_id": "OMIM:610443",
       "score": 0.25,
-      "explanation": "This syndrome is associated with autism, developmental delays, and seizures, making it a relevant consideration for the patient's comprehensive symptoms."
+      "explanation": "This syndrome can present with epilepsy, developmental delay, intellectual disability, hypotonia, and autism, making it a plausible differential diagnosis."
     }
   ]
 }

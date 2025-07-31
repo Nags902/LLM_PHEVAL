@@ -1,16 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
-      "disease_id": "OMIM:611128",
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "This disease presents with symptoms closely matching the patient, including chronic kidney disease, hyperuricemia, and proteinuria, making it the most likely diagnosis."
+      "explanation": "The patient presents with stage 2 chronic kidney disease, hyperuricemia, and proteinuria, which align with features observed in similar reference cases diagnosed with Tubulointerstitial kidney disease, autosomal dominant, 1."
     },
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:601340",
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613092",
       "score": 0.5,
-      "explanation": "This disease shares similar features with the patient, including chronic kidney disease and hyperuricemia. It's ranked second due to fewer references compared to the first."
+      "explanation": "Although less likely than subtype 1, subtype 3 is considered due to overlapping renal conditions such as chronic kidney disease and hyperuricemia, observed in the reference cases."
+    },
+    {
+      "disease_name": "Chronic kidney disease, autosomal dominant",
+      "disease_id": "OMIM:620005",
+      "score": 0.333,
+      "explanation": "Shares features like chronic kidney disease and hyperuricemia, which are common markers in rare genetic kidney diseases, similar to subtypes in reference cases."
     }
   ]
 }

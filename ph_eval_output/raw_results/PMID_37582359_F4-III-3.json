@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Craniometadiaphyseal Osteosclerosis with Hip Dysplasia",
-      "disease_id": "OMIM:607411",
+      "disease_name": "Craniometadiaphyseal Dysplasia",
+      "disease_id": "OMIM:269300",
       "score": 1.0,
-      "explanation": "This disease matches multiple phenotypic features in the patient, including global developmental delay, facial dysmorphisms, hip dysplasia, characteristic skeletal anomalies, and increased bone mineral density, which closely aligns with the similar reference cases."
+      "explanation": "The clinical features, including global developmental delay, hip dysplasia, sandwich appearance of vertebral bodies, and increased bone mineral density, closely match with Craniometadiaphyseal Dysplasia, as supported by similar reference cases."
     },
     {
-      "disease_name": "Osteopetrosis, Autosomal Recessive",
-      "disease_id": "OMIM:259700",
+      "disease_name": "Osteogenesis Imperfecta, Type XI",
+      "disease_id": "OMIM:610968",
       "score": 0.5,
-      "explanation": "This condition shares features such as increased bone mineral density and coarse metaphyseal trabecularization, although it may not fully account for all the patient's symptoms."
+      "explanation": "Presence of bone abnormalities such as thickened cortex of long bones and increased bone mineral density, coupled with developmental issues, suggests a possible link to Osteogenesis Imperfecta Type XI."
     },
     {
-      "disease_name": "Metaphyseal Dysplasia with Hypertelorism",
-      "disease_id": "OMIM:608489",
+      "disease_name": "Frontometaphyseal Dysplasia",
+      "disease_id": "OMIM:305620",
       "score": 0.333,
-      "explanation": "This disease may account for several skeletal abnormalities and facial features noted in the patient, but it is less characterized by developmental delay compared to the top-ranking disease."
+      "explanation": "Features like hypertelorism, hip dysplasia, thickened calvaria, and metaphyseal abnormalities are associated with Frontometaphyseal Dysplasia, although it is less common compared to Craniometadiaphyseal Dysplasia."
+    },
+    {
+      "disease_name": "Sclerosteosis",
+      "disease_id": "OMIM:269500",
+      "score": 0.25,
+      "explanation": "Increased bone density and thickening, particularly of the calvaria and long bones, align with Sclerosteosis, though lacking some distinguishing features typically required for a definitive diagnosis."
     }
   ]
 }

@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:192000",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "This disease is characterized by chronic kidney disease and proteinuria, matching the patient's phenotypic features."
+      "explanation": "The phenotypic features of chronic kidney disease and proteinuria match this condition. Similar reference cases with similar features have received this diagnosis."
     },
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal recessive",
-      "disease_id": "OMIM:600965",
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
       "score": 0.5,
-      "explanation": "Similar to the dominant form, this recessive variant can also present with chronic kidney disease and proteinuria, although it typically has an earlier onset."
+      "explanation": "Alport syndrome can cause both chronic kidney disease and proteinuria. While there's no mention of additional Alport-specific symptoms like hearing loss or ocular abnormalities, it remains a possible diagnosis in the differential."
     },
     {
-      "disease_name": "Cystinosis",
-      "disease_id": "OMIM:219800",
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
       "score": 0.333,
-      "explanation": "This rare lysosomal storage disorder can lead to chronic kidney disease and proteinuria and shares some clinical features with the patient's presentation."
+      "explanation": "Fabry disease can present with kidney issues such as chronic kidney disease and proteinuria. The lack of other systemic symptoms makes it less likely, but it's a notable consideration given the symptoms."
     }
   ]
 }

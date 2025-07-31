@@ -2,27 +2,27 @@
   "ranked_diseases": [
     {
       "disease_name": "Ataxia-pancytopenia syndrome",
-      "disease_id": "OMIM:223100",
+      "disease_id": "OMIM:159550",
       "score": 1.0,
-      "explanation": "The patient presents with phenotypic features closely resembling those in the reference cases for Ataxia-pancytopenia syndrome, including myelodysplasia, pancytopenia, recurrent infections, cerebellar atrophy, nystagmus, and dysmetria."
-    },
-    {
-      "disease_name": "Fanconi Anemia",
-      "disease_id": "OMIM:227650",
-      "score": 0.5,
-      "explanation": "Characterized by aplastic anemia and various congenital malformations, Fanconi Anemia can present with myelodysplasia and pancytopenia, which align with the patient\u2019s symptoms, but it may also include additional findings not observed here."
+      "explanation": "The clinical features of the patient, including pancytopenia, neutropenia, cerebellar atrophy, recurrent infections, dysmetria, nystagmus, and ankle clonus, overlap significantly with those of Ataxia-pancytopenia syndrome as seen in the reference cases."
     },
     {
       "disease_name": "Shwachman-Diamond syndrome",
       "disease_id": "OMIM:260400",
-      "score": 0.33,
-      "explanation": "This condition involves bone marrow dysfunction leading to cytopenias, and can include myelodysplasia and recurrent infections, making it relevant to the presented clinical picture."
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by exocrine pancreatic insufficiency, bone marrow dysfunction, and skeletal abnormalities. While the specific phenotype of cerebellar atrophy is not typical, features like neutropenia and pancytopenia, combined with recurrent infections, can fit with the immunodeficiency aspects of the condition."
     },
     {
-      "disease_name": "Severe Combined Immunodeficiency (Omenn Syndrome)",
-      "disease_id": "OMIM:603549",
+      "disease_name": "X-linked agammaglobulinemia",
+      "disease_id": "OMIM:300755",
+      "score": 0.333,
+      "explanation": "The decreased circulating levels of IgM, IgG, and IgA, along with recurrent infections, suggest an immunodeficiency such as X-linked agammaglobulinemia. Although not all features match, the immunological deficiencies align well."
+    },
+    {
+      "disease_name": "Nijmegen Breakage Syndrome",
+      "disease_id": "OMIM:251260",
       "score": 0.25,
-      "explanation": "The reduced immunoglobulin levels, recurrent infections, and cytopenias may suggest a form of immunodeficiency, and although more immunological features would strengthen the diagnosis, it is worth considering."
+      "explanation": "This syndrome involves immunodeficiency, chromosomal instability, and predisposition to cancer. The patient's immunodeficiency and pancytopenia could be explained by this condition, although it typically presents with microcephaly rather than cerebellar atrophy."
     }
   ]
 }

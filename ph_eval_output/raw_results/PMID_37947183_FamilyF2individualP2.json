@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Epileptic Encephalopathy, Early Infantile, 4",
-      "disease_id": "OMIM:613219",
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
       "score": 1.0,
-      "explanation": "The patient presents with myoclonus, status epilepticus, hypotonia, global developmental delay, and other neurological signs, strongly aligning with the characteristics of this type of epileptic encephalopathy."
+      "explanation": "The presence of status epilepticus, myoclonus, global developmental delay, and hypotonia in combination with delayed speech and motor development are characteristic features of Dravet Syndrome."
     },
     {
-      "disease_name": "Ohtahara Syndrome",
-      "disease_id": "OMIM:308350",
+      "disease_name": "Myoclonic Epilepsy of Infancy",
+      "disease_id": "OMIM:159900",
       "score": 0.5,
-      "explanation": "This syndrome is associated with early-onset seizures, including myoclonic seizures and developmental delays, fitting the patient's seizure presentation and developmental milestones."
+      "explanation": "The patient's myoclonus, nystagmus, and developmental delays align with signs of Myoclonic Epilepsy of Infancy, though not all seizure types are present."
     },
     {
-      "disease_name": "West Syndrome",
-      "disease_id": "OMIM:308350",
-      "score": 0.333,
-      "explanation": "The patient's combination of seizures, including myoclonus and developmental delays, is consistent with the clinical presentation typical of West Syndrome."
+      "disease_name": "Epileptic Encephalopathy, Early Infantile, Type 6",
+      "disease_id": "OMIM:607208",
+      "score": 0.3333333333333333,
+      "explanation": "This condition includes status epilepticus, developmental delays, and myoclonus, matching many of the patient's symptoms."
     },
     {
-      "disease_name": "Severe Myoclonic Epilepsy in Infancy",
-      "disease_id": "OMIM:607681",
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:608328",
       "score": 0.25,
-      "explanation": "The presence of persistent head lag, hypotonia, and myoclonic seizures in an infant could indicate this severe form of epilepsy which affects development."
+      "explanation": "Lennox-Gastaut Syndrome could fit due to the combination of status epilepticus and developmental delays, although specific seizure types like tonic and atonic are not reported."
     }
   ]
 }

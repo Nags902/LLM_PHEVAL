@@ -2,27 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
-      "disease_id": "OMIM:615454",
+      "disease_id": "OMIM:617537",
       "score": 1.0,
-      "explanation": "The patient presents with several key features such as macrocephaly, autism, and intellectual disability, all of which align with cases that have been diagnosed under this category."
+      "explanation": "This disorder closely matches all phenotypic features presented in the patient, including macrocephaly, autism, seizures, ADHD, insomnia, intellectual disability, and prominent supraorbital ridges. Multiple reference cases with similar phenotypic features have been diagnosed with this disorder."
     },
     {
-      "disease_name": "Seckel syndrome",
-      "disease_id": "OMIM:263500",
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
       "score": 0.5,
-      "explanation": "Seckel syndrome is characterized by microcephaly but can present with other neurological features such as seizures and developmental delays, which aligns with some of the patient's symptoms."
+      "explanation": "Sotos syndrome 1 presents with macrocephaly, tall stature, intellectual disability, and motor delay, which align with this patient's presentation. However, this syndrome is less commonly associated with autism and seizures compared to the top-ranked disorder."
     },
     {
-      "disease_name": "Meier-Gorlin syndrome",
-      "disease_id": "OMIM:613362",
+      "disease_name": "Simpson-Golabi-Behmel syndrome, type 1",
+      "disease_id": "OMIM:312870",
       "score": 0.333,
-      "explanation": "While primarily associated with growth deficiencies, it may overlap with features like tall stature and other developmental anomalies seen in the patient's profile, although less relevant."
-    },
-    {
-      "disease_name": "Bardet-Biedl syndrome",
-      "disease_id": "OMIM:209900",
-      "score": 0.25,
-      "explanation": "This syndrome includes tall stature and intellectual disability among other features, though the primary symptoms of autism and macrocephaly are less prevalent in this condition."
+      "explanation": "This syndrome includes features such as macrocephaly, tall stature, and ventriculomegaly, which are observed in this patient. However, other typical features like distinctive facial features and organ abnormality are not prominent in this case."
     }
   ]
 }

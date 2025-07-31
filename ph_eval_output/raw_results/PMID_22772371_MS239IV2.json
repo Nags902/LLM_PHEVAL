@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Loeys-Dietz syndrome 4",
-      "disease_id": "OMIM:613795",
+      "disease_id": "OMIM:614816",
       "score": 1.0,
-      "explanation": "The patient presents with many features that align closely with Loeys-Dietz syndrome, such as high palate, abnormal sternum morphology, spondylolisthesis, arachnodactyly, aortic root aneurysm, arterial tortuosity, and dural ectasia, matching the reference cases."
+      "explanation": "The patient shares many phenotypic similarities with cases of Loeys-Dietz syndrome 4, such as high palate, abnormal sternum morphology, spondylolisthesis, arachnodactyly, pes planus, striae distensae, dural ectasia, mitral valve prolapse, aortic root aneurysm, arterial tortuosity, emphysema, tall stature, and protrusio acetabuli. Similar reference cases were diagnosed with this subtype, reinforcing its likelihood."
     },
     {
       "disease_name": "Marfan syndrome",
       "disease_id": "OMIM:154700",
       "score": 0.5,
-      "explanation": "While Marfan syndrome features, such as arachnodactyly, aortic root aneurysm, and striae distensae are also present in this patient, some additional key features more consistent with Loeys-Dietz are prevalent."
+      "explanation": "Marfan syndrome shares many clinical features with the patient's symptoms, including aortic root aneurysm, mitral valve prolapse, dural ectasia, tall stature, arachnodactyly, striae distensae, and emphysema. Although not all features perfectly align, it remains a strong possibility due to the overlap in connective tissue manifestations."
     },
     {
       "disease_name": "Ehlers-Danlos syndrome, vascular type",
       "disease_id": "OMIM:130050",
-      "score": 0.33,
-      "explanation": "Some features such as arterial tortuosity and aortic root aneurysm coincide with this type of Ehlers-Danlos syndrome. However, the patient lacks many classic indicators of this syndrome compared to others."
+      "score": 0.333,
+      "explanation": "The patient's symptoms such as arterial tortuosity, aortic root aneurysm, and striae distensae suggest Ehlers-Danlos syndrome, vascular type. However, the absence of some hallmark features, such as thin, translucent skin, reduces its likelihood compared to other options."
     }
   ]
 }

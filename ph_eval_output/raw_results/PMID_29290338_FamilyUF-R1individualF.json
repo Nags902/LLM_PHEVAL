@@ -4,19 +4,19 @@
       "disease_name": "Neurofibromatosis, type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient displays key features including plexiform neurofibroma, multiple cafe-au-lait spots, and scoliosis, which are classic symptoms of Neurofibromatosis type 1, consistent with the reference cases."
+      "explanation": "The patient's symptoms strongly match the classic presentation of Neurofibromatosis type 1, including plexiform neurofibromas, multiple cafe-au-lait spots, scoliosis, and spinal neurofibromas, which align closely with the reference cases provided."
     },
     {
       "disease_name": "Neurofibromatosis, type 2",
       "disease_id": "OMIM:101000",
       "score": 0.5,
-      "explanation": "While less likely than type 1 due to the absence of bilateral vestibular schwannomas and its associated features, it is included as it can present with various neurofibromas."
+      "explanation": "Although Neurofibromatosis type 2 typically involves vestibular schwannomas, it can occasionally present with overlapping features such as spinal neurofibromas and cafe-au-lait spots, making it a distant possibility."
     },
     {
-      "disease_name": "Schwannomatosis",
-      "disease_id": "OMIM:162091",
-      "score": 0.33,
-      "explanation": "Although primarily characterized by multiple schwannomas, the presence of neurofibromas could indicate a variation of schwannomatosis, making it a consideration in the differential diagnosis."
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.333,
+      "explanation": "Legius syndrome can present with multiple cafe-au-lait spots and mild neurofibromatosis type 1-like features, but it usually lacks neurofibromas, making it a less likely candidate compared to NF1."
     }
   ]
 }

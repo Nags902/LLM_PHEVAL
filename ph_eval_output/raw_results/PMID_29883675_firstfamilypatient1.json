@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Microcephaly, Polymicrogyria, and Thin Corpus Callosum Syndrome",
-      "disease_id": "OMIM:300057",
+      "disease_name": "Microcephaly, short stature, and polymicrogyria with seizures",
+      "disease_id": "OMIM:618651",
       "score": 1.0,
-      "explanation": "The patient's presentation closely matches the phenotypic features seen in similar cases with microcephaly, polymicrogyria, and thin corpus callosum, indicating a likely genetic syndrome associated with these findings."
+      "explanation": "The phenotypic features closely match the condition described in similar cases, particularly the combination of microcephaly, polymicrogyria, thin corpus callosum, absent speech, intellectual disability, and short stature."
     },
     {
-      "disease_name": "Aicardi Syndrome",
-      "disease_id": "OMIM:304050",
+      "disease_name": "LICAM-related L1 syndrome",
+      "disease_id": "OMIM:308840",
       "score": 0.5,
-      "explanation": "Given the combination of microcephaly, polymicrogyria, and absence of speech, Aicardi Syndrome is a consideration, particularly in females, and aligns with some phenotypic features though the patient is male."
+      "explanation": "LICAM-related L1 syndrome is associated with similar features such as thin corpus callosum, intellectual disability, and speech absence, though lacks specific mention of polymicrogyria."
     },
     {
-      "disease_name": "Fraser Syndrome",
-      "disease_id": "OMIM:219000",
-      "score": 0.33,
-      "explanation": "This syndrome presents with features such as microcephaly and intellectual disability alongside other malformations which may partially correlate with the patient's clinical profile."
-    },
-    {
-      "disease_name": "Holoprosencephaly",
-      "disease_id": "OMIM:236100",
-      "score": 0.25,
-      "explanation": "While not all features match, the cognitive and structural brain abnormalities could fit the spectrum of holoprosencephaly, which may include a profile with concurrent microcephaly and significant neurological findings."
+      "disease_name": "Van Maldergem syndrome 1",
+      "disease_id": "OMIM:601390",
+      "score": 0.333,
+      "explanation": "This syndrome includes features like intellectual disability, microcephaly, and, occasionally, short stature. There is overlap but not all features perfectly match."
     }
   ]
 }

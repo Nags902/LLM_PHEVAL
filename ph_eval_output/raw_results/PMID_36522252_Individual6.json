@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
-      "disease_id": "OMIM:617203",
+      "disease_name": "Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies 3",
+      "disease_id": "OMIM:616900",
       "score": 1.0,
-      "explanation": "The case similarities strongly align with the patient's phenotypic features such as motor delay, global developmental delay, profound intellectual disability, hyporeflexia, and additional craniofacial anomalies."
+      "explanation": "The patient's symptoms closely match those of similar reference cases, which were all diagnosed with this condition. Key features include hypotonia, profound intellectual disability, tented upper lip vermilion, highly arched eyebrows, and other facial characteristics."
     },
     {
-      "disease_name": "Congenital Muscular Dystrophy with Brain Involvement",
-      "disease_id": "OMIM:613334",
+      "disease_name": "Cerebral Dysgenesis, Neuropathy, Ichthyosis, and Palmoplantar Keratoderma Syndrome 1",
+      "disease_id": "OMIM:609528",
       "score": 0.5,
-      "explanation": "The significant hypotonia, global developmental delay, seizures, and additional craniofacial features suggest a muscular dystrophy variant with neurological involvement."
+      "explanation": "Though less specific, it shares symptoms like intellectual disability, seizures, and developmental delay. The presence of hyporeflexia and hypotonia also aligns with this syndrome."
     },
     {
-      "disease_name": "Cerebro-oculo-facio-skeletal syndrome",
-      "disease_id": "OMIM:300099",
-      "score": 0.333333333,
-      "explanation": "The presence of hirsutism, high palate, and developmental delays with other neurological symptoms could suggest a syndrome related to craniofacial and neurological features."
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.333,
+      "explanation": "This condition is considered due to the prominence of intellectual disability, facial dysmorphism including the high palate, tented upper lip vermilion, and hirsutism."
+    },
+    {
+      "disease_name": "Koolen-de Vries Syndrome",
+      "disease_id": "OMIM:610443",
+      "score": 0.25,
+      "explanation": "Features such as intellectual disability, developmental delay, hypotonia, and facial dysmorphisms overlap with this syndrome, although not as strongly as the primary diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "This diagnosis was considered due to the presence of hypotonia, intellectual disability, and facial anomalies such as the high palate, but lacks the full characteristic set seen in the primary diagnosis."
     }
   ]
 }

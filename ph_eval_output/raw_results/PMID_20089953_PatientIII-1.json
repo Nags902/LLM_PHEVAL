@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Osteogenesis imperfecta, type IX",
-      "disease_id": "OMIM:166220",
+      "disease_name": "Osteogenesis Imperfecta, Type IX",
+      "disease_id": "OMIM:614350",
       "score": 1.0,
-      "explanation": "The patient's presentation closely matches the symptoms of Osteogenesis imperfecta, type IX, particularly with osteopenia, recurrent fractures, proptosis, and delayed gross motor development."
+      "explanation": "The patient's recurrent fractures, osteopenia, delayed motor development, proptosis, and diaphyseal undertubulation strongly overlap with the characteristics of Osteogenesis Imperfecta, Type IX, as seen in a similar reference case."
     },
     {
-      "disease_name": "Osteogenesis imperfecta, type XV",
-      "disease_id": "OMIM:610967",
+      "disease_name": "Osteogenesis Imperfecta, Type XV",
+      "disease_id": "OMIM:615220",
       "score": 0.5,
-      "explanation": "This subtype of Osteogenesis imperfecta also presents with osteopenia and recurrent fractures, alongside developmental delays and additional skeletal features similar to those of the patient."
+      "explanation": "The presence of osteopenia, recurrent fractures, motor delay, and pes planus in the patient aligns with features of Osteogenesis Imperfecta, Type XV. Similarities with reference case phenotypes, such as recurrent fractures and osteopenia, support this."
     },
     {
-      "disease_name": "Spondyloepimetaphyseal dysplasia, Guo-Campeau type",
-      "disease_id": "OMIM:614092",
-      "score": 0.33,
-      "explanation": "Includes features such as osteopenia and delayed skeletal maturation, but less directly correlates with the patient's specific symptoms compared to the Osteogenesis imperfecta types."
+      "disease_name": "Bruck Syndrome",
+      "disease_id": "OMIM:259450",
+      "score": 0.3333,
+      "explanation": "Bruck Syndrome can present with recurrent fractures, delayed motor development, and osteopenia, making it a plausible diagnosis."
+    },
+    {
+      "disease_name": "Spondyloepimetaphyseal Dysplasia, Guo-Campeau Type",
+      "disease_id": "OMIM:617159",
+      "score": 0.25,
+      "explanation": "While this condition includes osteopenia and delayed motor development, the lack of other specific overlapping features makes this a less probable but possible diagnosis."
     }
   ]
 }

@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Intellectual developmental disorder, X-linked 113",
-      "disease_id": "OMIM:300913",
+      "disease_id": "OMIM:301800",
       "score": 1.0,
-      "explanation": "The patient presents with intellectual disability and delayed speech which aligns closely with cases previously diagnosed under this condition."
+      "explanation": "The patient's symptoms closely resemble those of Case 1, which was diagnosed with Intellectual developmental disorder, X-linked 113. The shared phenotypic features are Delayed speech and language development and Intellectual disability."
     },
     {
       "disease_name": "Intellectual developmental disorder, X-linked 114",
-      "disease_id": "OMIM:300914",
+      "disease_id": "OMIM:301850",
       "score": 0.5,
-      "explanation": "Similar to the first case, this disorder includes cases with mild to moderate intellectual disability and speech delays, reflecting the patient's symptoms."
+      "explanation": "This diagnosis from Case 2 includes Delayed speech and language development and Intellectual disability as overlapping symptoms, reflecting part of the patient's presentation."
     },
     {
       "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
-      "disease_id": "OMIM:300505",
+      "disease_id": "OMIM:617677",
       "score": 0.333,
-      "explanation": "This disorder features delays in speech and language development along with intellectual disability, which makes it a potential fit despite the lack of hypotonia in the patient's presentation."
+      "explanation": "Case 3, diagnosed with this condition, shares Delayed speech and language development and Intellectual disability with the patient. Although hypotonia is not observed in the present case, the shared features suggest some potential relevance."
     }
   ]
 }

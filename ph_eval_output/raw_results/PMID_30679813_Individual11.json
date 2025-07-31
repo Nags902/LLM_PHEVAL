@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
-      "disease_id": "OMIM:616869",
+      "disease_name": "3-M Syndrome",
+      "disease_id": "OMIM:273750",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those of the reference cases diagnosed with this condition, especially with hypotonia, global developmental delay, and deeply set eyes."
+      "explanation": "Characterized by short stature, brachycephaly, and developmental delay. Hypotonia and deeply set eyes are also observed in some cases, aligning closely with the patient's phenotypic features."
     },
     {
-      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
-      "disease_id": "OMIM:618024",
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
       "score": 0.5,
-      "explanation": "This condition exhibits a broad phenotypic spectrum including developmental delays and abnormal facial features, similar to the reference cases."
+      "explanation": "Involves hypotonia, developmental delay, short stature, and coarse facial features. Although deeply set eyes are not typical, other features make it a relevant possibility."
     },
     {
-      "disease_name": "KBG syndrome",
-      "disease_id": "OMIM:148050",
-      "score": 0.33,
-      "explanation": "KBG syndrome is characterized by developmental delays, hypotonia, and skeletal abnormalities, which align with some of the features presented by the patient."
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "Associated with developmental delay and characteristic facial features. Although not a perfect match, the developmental and growth features are similar."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.25,
+      "explanation": "Involves developmental delay and hypotonia. While macrocephaly and overgrowth are more typical, there is overlap in developmental issues."
     }
   ]
 }

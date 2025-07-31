@@ -1,16 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
-      "disease_id": "OMIM:614245",
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
       "score": 1.0,
-      "explanation": "This disease matches all the phenotypic features observed in the patient, similar to reference Case 1."
+      "explanation": "This disease is strongly indicated due to the consistent overlap with the phenotypic features and the similar reference cases, particularly Case 2 and Case 3."
     },
     {
-      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
-      "disease_id": "OMIM:603960",
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:609506",
       "score": 0.5,
-      "explanation": "This disease also correlates with the patient's symptoms, as seen in Cases 2 and 3, although it is not the primary match."
+      "explanation": "This subtype is considered due to its similarity with Case 1, which shares all the same phenotypic features as the patient."
+    },
+    {
+      "disease_name": "Renal cysts and diabetes syndrome (RCAD)",
+      "disease_id": "OMIM:137920",
+      "score": 0.333,
+      "explanation": "RCAD can be associated with renal cysts and early-onset diabetes, which may relate to the patient's kidney phenotype and metabolic issue like gout."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease, UMOD-related",
+      "disease_id": "OMIM:191845",
+      "score": 0.25,
+      "explanation": "This disease shares chronic kidney disease and gout as prominent symptoms, and models an autosomal dominant inheritance pattern similar to the reference cases."
     }
   ]
 }

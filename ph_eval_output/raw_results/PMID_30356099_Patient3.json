@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and Epileptic Encephalopathy 28",
-      "disease_id": "OMIM:615041",
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:615859",
       "score": 1.0,
-      "explanation": "The patient's presentation closely matches the phenotypic features observed in multiple reference cases diagnosed with Developmental and Epileptic Encephalopathy 28, characterized by thin corpus callosum, cerebral atrophy, and epileptic spasms."
+      "explanation": "The phenotypic features match strongly with similar reference cases diagnosed with DEE 28, which includes thin corpus callosum, cerebral atrophy, epileptic spasm, hypokinesia, and developmental delay."
     },
     {
-      "disease_name": "Ohtahara Syndrome",
-      "disease_id": "OMIM:605150",
+      "disease_name": "Microcephaly with early-onset seizures and variable brain anomalies",
+      "disease_id": "OMIM:617351",
       "score": 0.5,
-      "explanation": "Ohtahara Syndrome is associated with infantile seizures and may include features like global developmental delay and EEG abnormalities, resembling some aspects of the patient's phenotype despite not presenting all classical signs."
+      "explanation": "This condition is associated with brain anomalies, epilepsy, and neurodevelopmental features similar to the presented phenotypes, including cerebral atrophy and epileptic encephalopathy."
     },
     {
-      "disease_name": "West Syndrome",
-      "disease_id": "OMIM:308350",
-      "score": 0.333,
-      "explanation": "West Syndrome is characterized by infantile spasms and could fit some aspects of the patient's symptoms, including developmental delay and EEG abnormalities, although the details provided do not confirm a full match."
-    },
-    {
-      "disease_name": "Aicardi Syndrome",
+      "disease_name": "Aicardi syndrome",
       "disease_id": "OMIM:304050",
-      "score": 0.25,
-      "explanation": "Aicardi Syndrome includes a thin corpus callosum and seizure activity and may be relevant given the phenotypic features, although not all relevant characteristics clearly align with the presented case."
+      "score": 0.3333333333333333,
+      "explanation": "Characterized by agenesis of the corpus callosum, epilepsy, and neurodevelopmental delay, aligning with the patient's features of thin corpus callosum and epileptic spasm."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Leber congenital amaurosis 6",
-      "disease_id": "OMIM:613256",
+      "disease_name": "Leber Congenital Amaurosis 6",
+      "disease_id": "OMIM:605226",
       "score": 1.0,
-      "explanation": "The patient's symptoms of reduced visual acuity, abnormal electroretinogram, and retinal pigment epithelial mottling closely match those of the similar case diagnosed with Leber congenital amaurosis."
+      "explanation": "The patient's phenotypic features, such as reduced visual acuity, retinal pigment epithelial mottling, and abnormal electroretinogram, are consistent with Leber Congenital Amaurosis 6. This disorder is frequently associated with early-onset severe vision impairment and retinal changes similar to those presented by the patient. Furthermore, it's closely aligned with the similar reference Case 1."
     },
     {
-      "disease_name": "Retinitis pigmentosa 11",
-      "disease_id": "OMIM:614154",
+      "disease_name": "Retinitis Pigmentosa 11",
+      "disease_id": "OMIM:600138",
       "score": 0.5,
-      "explanation": "While the patient lacks explicit symptoms like nyctalopia and bone spicule pigmentation, the similarity in reduced visual acuity and abnormal electroretinogram suggests a possible underlying retinal dystrophy."
+      "explanation": "Although the patient does not show all typical symptoms of Retinitis Pigmentosa 11, such as nyctalopia or bone spicule pigmentation of the retina, the overlap with reduced visual acuity and abnormal electroretinogram aligns with this diagnosis. The reference Case 2 shares multiple features with the patient's presentation."
     },
     {
-      "disease_name": "Macular dystrophy with or without cone dysfunction",
+      "disease_name": "Stargardt Disease 1",
       "disease_id": "OMIM:248200",
       "score": 0.333,
-      "explanation": "The presence of retinal pigment epithelial mottling and reduced visual acuity aligns with this macular dystrophy, although additional specific symptoms would further clarify the diagnosis."
+      "explanation": "The condition is characterized by reduced visual acuity and retinal changes that could manifest as mottling, although some typical features like macular atrophy are not explicitly mentioned in the patient's current features. The resemblance to macular dystrophy in Case 3 suggests this as a possible diagnosis."
     }
   ]
 }

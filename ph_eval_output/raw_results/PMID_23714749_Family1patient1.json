@@ -1,28 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Mitochondrial DNA Depletion Syndrome 6 (hepatocerebral type)",
-      "disease_id": "OMIM:615151",
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6 (Hepatocerebral Type)",
+      "disease_id": "OMIM:256810",
       "score": 1.0,
-      "explanation": "The patient's symptoms closely match those of this syndrome, including global developmental delay, increased lactate levels, hypoglycemia, and coagulation abnormalities, which were also observed in case 1."
+      "explanation": "The patient exhibits key features such as global developmental delay, increased circulating lactate concentration, hypoglycemia, hypotonia, and abnormality of the coagulation cascade, which closely match those observed in Case 1 diagnosed with this syndrome."
     },
     {
-      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
-      "disease_id": "OMIM:614169",
+      "disease_name": "Encephalopathy, Neonatal Severe, with Lactic Acidosis and Brain Abnormalities",
+      "disease_id": "OMIM:614497",
       "score": 0.5,
-      "explanation": "This condition shares several features with the patient's presentation, including global developmental delay, hypotonia, and increased lactate levels, as seen in cases 2 and 3, although the specific brain abnormalities were not noted in this patient."
-    },
-    {
-      "disease_name": "Pyruvate Dehydrogenase E1 Deficiency",
-      "disease_id": "OMIM:312170",
-      "score": 0.33,
-      "explanation": "This metabolic disorder can result in increased lactate levels, developmental delays, and hypotonia, fitting some of the phenotypic features seen in this patient."
-    },
-    {
-      "disease_name": "Glutaric Aciduria Type I",
-      "disease_id": "OMIM:231670",
-      "score": 0.25,
-      "explanation": "This condition can present with developmental delays and hypotonia, along with metabolic disturbances including lactic acidosis, though it is less specifically related than the first two conditions."
+      "explanation": "The presence of hypotonia, global developmental delay, and increased lactate levels, as seen in Cases 2 and 3, suggests this condition. Although not all associated neurological and brain abnormality features are present, the overlap is significant."
     }
   ]
 }

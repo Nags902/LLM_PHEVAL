@@ -1,34 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Intellectual Disability with Dysmorphic Features",
-      "disease_id": "OMIM:615303",
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
       "score": 1.0,
-      "explanation": "The patient's combination of features such as intellectual disability, global developmental delay, and distinct facial dysmorphisms align closely with cases diagnosed under this category."
+      "explanation": "Coffin-Siris Syndrome features intellectual disability, global developmental delay, macrodontia, thick eyebrows, hypertelorism, and distinct facial characteristics, which align closely with the patient's presentation."
     },
     {
-      "disease_name": "Miller-Dieker Syndrome",
-      "disease_id": "OMIM:257200",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.5,
-      "explanation": "Miller-Dieker syndrome is characterized by lissencephaly and several neurodevelopmental challenges similar to those presented in the patient."
+      "explanation": "Kabuki Syndrome involves intellectual disability, developmental delay, distinct facial features like thick eyebrows, long philtrum, and bulbous nose, which are consistent with the patient's features."
     },
     {
-      "disease_name": "Williams Syndrome",
-      "disease_id": "OMIM:194050",
-      "score": 0.33,
-      "explanation": "Williams syndrome presents with characteristic facial features and developmental delays, relevant to the patient's hypertelorism and bulbous nose."
-    },
-    {
-      "disease_name": "22q11.2 Deletion Syndrome",
-      "disease_id": "OMIM:611867",
-      "score": 0.25,
-      "explanation": "Common features include developmental delays, intellectual disabilities, and varying facial dysmorphisms, which may correlate with the patient's symptoms."
-    },
-    {
-      "disease_name": "Rett Syndrome",
-      "disease_id": "OMIM:312750",
-      "score": 0.2,
-      "explanation": "Rett syndrome is marked by developmental regression, especially affecting speech and motor skills, which may be relevant here, though typically more recognized in females."
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Smith-Magenis Syndrome presents with intellectual disability, speech delay, and distinct craniofacial features similar to those noted in the patient, including the long philtrum and bulbous nose."
     }
   ]
 }

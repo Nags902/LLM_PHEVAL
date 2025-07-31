@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Neurofibromatosis, type 1",
+      "disease_name": "Neurofibromatosis, Type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The patient presents with freckling, which aligns closely with the clinical features seen in similar cases diagnosed with Neurofibromatosis type 1."
+      "explanation": "The patient presents with freckling, which is a common phenotypic feature of Neurofibromatosis Type 1. The similar reference cases also exhibit freckling and were diagnosed as Neurofibromatosis Type 1."
     },
     {
-      "disease_name": "McCune-Albright Syndrome",
-      "disease_id": "OMIM:174800",
+      "disease_name": "Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
       "score": 0.5,
-      "explanation": "This condition can also present with skin pigmentation abnormalities including freckling, although it is less common compared to Neurofibromatosis type 1."
+      "explanation": "Although less common, Bannayan-Riley-Ruvalcaba Syndrome can also present with freckling among other symptoms. It's considered due to the overlap in skin-related phenotypic features."
     },
     {
-      "disease_name": "Carney Complex",
-      "disease_id": "OMIM:160980",
-      "score": 0.33,
-      "explanation": "Freckling can occur in Carney Complex, along with other skin manifestations, making it a possible but less likely diagnosis without further clinical features."
+      "disease_name": "Peutz-Jeghers Syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.333,
+      "explanation": "Peutz-Jeghers Syndrome features mucocutaneous freckling but primarily around the mouth, hands, and feet, thus less likely given the limited information."
+    },
+    {
+      "disease_name": "LEOPARD Syndrome",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "LEOPARD Syndrome can present with similar freckling features, but typically includes more systemic involvement like cardiac issues, thus ranked lower."
     }
   ]
 }

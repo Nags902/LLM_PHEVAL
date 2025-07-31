@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Dyggve-Melchior-Clausen disease",
-      "disease_id": "OMIM:263510",
+      "disease_name": "Dyggve-Melchior-Clausen syndrome",
+      "disease_id": "OMIM:223800",
       "score": 1.0,
-      "explanation": "The patient's phenotypic features closely align with those observed in Dyggve-Melchior-Clausen disease, particularly the skeletal abnormalities, coarse facial features, and intellectual disability, which were prominent in a similar reference case."
+      "explanation": "The patient's symptoms closely match those described in similar reference Case 1. Key overlapping features include beaking of vertebral bodies, short metatarsals and metacarpals, carpal bone hypoplasia, hypoplastic iliac wing, scoliosis, platyspondyly, waddling gait, coarse facial features, rhizomelia, smooth philtrum, and intellectual disability, all of which are associated with Dyggve-Melchior-Clausen syndrome."
     },
     {
-      "disease_name": "Spondyloepiphyseal Dysplasia Congenita",
-      "disease_id": "OMIM:183900",
+      "disease_name": "Ehlers-Danlos syndrome, kyphoscoliotic type 1",
+      "disease_id": "OMIM:225400",
       "score": 0.5,
-      "explanation": "This disease features similar skeletal abnormalities including platyspondyly and short limbs which are seen in the patient, although additional features may differ."
+      "explanation": "Several symptoms such as scoliosis, genu valgum, lumbar hyperlordosis, and waddling gait are observed in Ehlers-Danlos syndrome, kyphoscoliotic type. While not a perfect match, some phenotypic overlap suggests it as a potential condition for consideration."
     },
     {
-      "disease_name": "Achondroplasia",
-      "disease_id": "OMIM:100800",
-      "score": 0.33,
-      "explanation": "While primarily characterized by rhizomelic shortening, it shares some similarities with hip and skeletal abnormalities, but lacks the full spectrum of intellectual disability and craniofacial features present in the patient."
-    },
-    {
-      "disease_name": "Kniest dysplasia",
-      "disease_id": "OMIM:156550",
-      "score": 0.25,
-      "explanation": "This disorder features skeletal dysplasia and some degree of intellectual disability, but presents with different facial characteristics and less severe symptoms overall."
+      "disease_name": "Mucopolysaccharidosis type IVA",
+      "disease_id": "OMIM:253000",
+      "score": 0.333,
+      "explanation": "This condition features skeletal abnormalities like platyspondyly, scoliosis, and hypoplastic iliac wings, which are present in the patient. Intellectual disability, absent speech, and other facial dysmorphisms can also be seen in more severe presentations, warranting consideration."
     }
   ]
 }

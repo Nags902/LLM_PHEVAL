@@ -2,33 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Diamond-Blackfan Anemia 1",
-      "disease_id": "OMIM:205900",
+      "disease_id": "OMIM:105650",
       "score": 1.0,
-      "explanation": "The patient's presentation includes anemia, increased mean corpuscular volume, elevated red cell adenosine deaminase activity, and small thenar eminence, which are all consistent with Diamond-Blackfan Anemia 1, as seen in the reference cases."
+      "explanation": "The presentation of anemia, colon cancer, increased mean corpuscular volume, elevated red cell adenosine deaminase activity, and a small thenar eminence strongly points to Diamond-Blackfan Anemia 1, as seen in similar reference cases."
     },
     {
-      "disease_name": "Congenital Amegakaryocytic Thrombocytopenia",
-      "disease_id": "OMIM:604982",
+      "disease_name": "Fanconi Anemia Complementation Group D2",
+      "disease_id": "OMIM:227646",
       "score": 0.5,
-      "explanation": "This condition can also present with anemia and elevated red cell parameters, although it is less common specifically associated with colon cancer."
+      "explanation": "Features overlap with Fanconi anemia include anemia and increased cancer risk, although elevated red cell adenosine deaminase is not typical, but some overlapping features warrant consideration."
     },
     {
-      "disease_name": "Fanconi Anemia",
-      "disease_id": "OMIM:227650",
-      "score": 0.33,
-      "explanation": "Anemia and congenital defects such as short stature can be present, though there are no absolute matches for all phenotypic features."
-    },
-    {
-      "disease_name": "Shwachman-Diamond Syndrome",
-      "disease_id": "OMIM:260400",
-      "score": 0.25,
-      "explanation": "This syndrome could present with anemia and has features that align developmentally, although there is less clarity regarding the specifics relating to colon cancer."
-    },
-    {
-      "disease_name": "Telomerase-associated diseases",
-      "disease_id": "OMIM:613253",
-      "score": 0.2,
-      "explanation": "Conditions associated with telomerase mutations can feature anemia and malignancies like colon cancer, but are less common and more variably presented."
+      "disease_name": "Myelodysplastic Syndrome",
+      "disease_id": "OMIM:614286",
+      "score": 0.3333,
+      "explanation": "Myelodysplastic syndromes can present with anemia and increased mean corpuscular volume, but the presence of elevated red cell adenosine deaminase activity makes this a less likely candidate."
     }
   ]
 }

@@ -4,19 +4,19 @@
       "disease_name": "LEOPARD syndrome 1",
       "disease_id": "OMIM:151100",
       "score": 1.0,
-      "explanation": "LEOPARD syndrome is characterized by short stature, hypertelorism, multiple lentigines, and may include pulmonic stenosis, aligning well with the patient's phenotypic features."
+      "explanation": "The patient exhibits several key features associated with LEOPARD syndrome 1, including pulmonic stenosis, short stature, hypertelorism, multiple lentigines, and cafe-au-lait spots. Similar reference cases also indicate a strong association with this syndrome."
     },
     {
-      "disease_name": "Noonan Syndrome 1",
+      "disease_name": "Noonan syndrome 1",
       "disease_id": "OMIM:163950",
       "score": 0.5,
-      "explanation": "Noonan syndrome presents with short stature and possible cardiac defects like pulmonic stenosis; additionally, hypertelorism can be observed, making it a noteworthy consideration."
+      "explanation": "Noonan syndrome shares several features with LEOPARD syndrome and can present with pulmonic stenosis, hypertelorism, and short stature. However, the presence of multiple lentigines makes LEOPARD syndrome more likely."
     },
     {
-      "disease_name": "Neurofibromatosis, type 1",
+      "disease_name": "Neurofibromatosis type 1",
       "disease_id": "OMIM:162200",
       "score": 0.333,
-      "explanation": "While primarily associated with cafe-au-lait spots and neurofibromas, the presence of few cafe-au-lait spots and pulmonic stenosis in some cases might relate to this condition, although it is less typical."
+      "explanation": "Neurofibromatosis type 1 can involve cafe-au-lait spots and short stature, but the presence of multiple lentigines and pulmonic stenosis leans more towards LEOPARD syndrome 1."
     }
   ]
 }

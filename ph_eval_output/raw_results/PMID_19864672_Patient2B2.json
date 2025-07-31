@@ -2,21 +2,21 @@
   "ranked_diseases": [
     {
       "disease_name": "Immunodeficiency 103, susceptibility to fungal infection",
-      "disease_id": "OMIM:615134",
+      "disease_id": "OMIM:614162",
       "score": 1.0,
-      "explanation": "The patient's chronic oral candidiasis aligns with previous cases of Immunodeficiency 103, where recurring fungal infections are common due to underlying immune dysfunction."
-    },
-    {
-      "disease_name": "Hyper-IgE Syndrome (Job's Syndrome)",
-      "disease_id": "OMIM:147060",
-      "score": 0.5,
-      "explanation": "This condition is associated with increased IgE levels and susceptibility to various infections, including fungal infections, which may explain the chronic oral candidiasis."
+      "explanation": "The patient presents with chronic oral candidiasis, a major feature of Immunodeficiency 103, matching with similarities in the reference cases which all had this diagnosis. The pattern of infections suggests an underlying immune dysregulation."
     },
     {
       "disease_name": "Chronic Mucocutaneous Candidiasis",
-      "disease_id": "OMIM:260510",
-      "score": 0.33,
-      "explanation": "Given the presence of chronic oral candidiasis, this condition is a significant consideration, as it specifically involves recurrent candidiasis infections due to immune deficiencies."
+      "disease_id": "OMIM:114580",
+      "score": 0.5,
+      "explanation": "Chronic oral candidiasis is a key symptom of Chronic Mucocutaneous Candidiasis. While additional symptoms like endocrine abnormalities are not specified here, the isolated chronic candidal features are noted in this condition."
+    },
+    {
+      "disease_name": "Hyper-IgE Recurrent Infection Syndrome type 1 (HIES)",
+      "disease_id": "OMIM:147060",
+      "score": 0.3333333333333333,
+      "explanation": "While not all features are reported, chronic candidiasis commonly occurs in HIES. The reference cases show similar immune profile trends, suggestive of possible related conditions."
     }
   ]
 }

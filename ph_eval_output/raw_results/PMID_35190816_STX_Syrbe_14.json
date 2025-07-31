@@ -1,16 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Developmental and epileptic encephalopathy 4",
-      "disease_id": "OMIM:613206",
+      "disease_name": "Developmental and Epileptic Encephalopathy 4",
+      "disease_id": "OMIM:612164",
       "score": 1.0,
-      "explanation": "The patient presents with infantile spasms, focal motor seizures, global developmental delay, inability to walk, absent speech, and hypsarrhythmia, all of which closely resemble the clinical presentation seen in this disorder."
+      "explanation": "The patient presents with infantile spasms, focal motor seizures, global developmental delay, inability to walk, absent speech, and hypsarrhythmia. These features closely match those observed in similar reference cases diagnosed with Developmental and Epileptic Encephalopathy 4."
     },
     {
-      "disease_name": "Developmental delay with or without epilepsy",
-      "disease_id": "OMIM:300318",
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
       "score": 0.5,
-      "explanation": "The presence of global developmental delay and seizures aligns with this condition, as seen in reference cases, although the exact etiology may vary widely."
+      "explanation": "The presence of infantile spasms along with hypsarrhythmia on EEG is characteristic of West Syndrome. Although the absence of a specific genetic cause in the reference cases makes this a less likely primary diagnosis, the overlap in clinical features warrants consideration."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Dravet Syndrome often presents with severe epileptic seizures, developmental delays, and features similar to those in the patient. However, the lack of some classic Dravet symptoms such as febrile seizures and the specific constellation of phenotypes makes it a less likely match."
+    },
+    {
+      "disease_name": "Epileptic Encephalopathy, Early Infantile, 14",
+      "disease_id": "OMIM:614959",
+      "score": 0.25,
+      "explanation": "This condition is associated with encephalopathy, severe epilepsy, and developmental delay. Although it matches some patient features, it lacks other specific phenotypes like consented focal seizures seen in the patient."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:615369",
+      "score": 0.2,
+      "explanation": "Lennox-Gastaut Syndrome includes seizures types and developmental delay, but typically involves a broader age range of onset, and the specific combination of seizures in the patient does not strongly align with this syndrome."
     }
   ]
 }
