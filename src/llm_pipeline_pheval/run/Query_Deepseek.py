@@ -11,6 +11,8 @@ import os
 # from ollama import chat, ChatResponse
 from jinja2 import Environment, FileSystemLoader, TemplateError
 from openai import OpenAI
+import anthropic
+from google import genai
 from pheval.utils.phenopacket_utils import PhenopacketUtil, phenopacket_reader
 from sentence_transformers import SentenceTransformer
 
@@ -111,6 +113,7 @@ def Extract_Data_query_deepseek(
 
     # Step 4) Query Deepseek via API
     try:
+        ## for deepseek
         # client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
 
         # response = client.chat.completions.create(
@@ -121,19 +124,35 @@ def Extract_Data_query_deepseek(
         #     ],
         #     stream=False,
         # )
-        client = OpenAI(api_key=os.getenv(""))
+
+        # ## for Open ai
+        # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
   
+        # # Open ai API
+        # response = client.chat.completions.create(
+        #     model="gpt-4o",
+        #     messages=[
+        #         {"role": "system", "content": "You are a helpful disease diagnostician."},
+        #         {"role": "user", "content": prompt}
+        #     ]
+        # )
 
+        ## anthropic API Key
+        API_KEY = ""
+        # Initialize the Anthropic client
+        client = anthropic.Anthropic(api_key=API_KEY)
 
-        # Open ai API
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are a helpful disease diagnostician."},
-                {"role": "user", "content": prompt}
-            ]
+        # Generate Claude response
+        response = client.messages.create(
+            model="claude-opus-4-20250514",  # or claude-3-opus-20240229, etc.
+            max_tokens=1024,
+            temperature=1,
+            messages=[{"role": "user", "content": prompt}]
         )
-        raw = response.choices[0].message.content
+        #raw = response.choices[0].message.content
+        raw = response.content[0].text
+        
+        
         if not raw:
             raise ValueError("LLM returned empty response")
         print("=== Raw LLM Output ===")

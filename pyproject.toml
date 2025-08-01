@@ -18,6 +18,8 @@ openai = "^1.82.1"
 faiss-cpu = "^1.11.0"
 sentence-transformers = "^4.1.0"
 einops = "^0.8.1"
+anthropic = "^0.60.0"
+google-genai = "^1.28.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = {version = ">=8.3.2"}
