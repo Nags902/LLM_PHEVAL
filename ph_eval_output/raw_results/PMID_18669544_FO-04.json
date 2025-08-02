@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209901",
+      "score": 1.0,
+      "explanation": "All presented phenotypic features (myopia, reduced visual acuity, nyctalopia, intellectual disability, and obesity) are highly consistent with Bardet-Biedl syndrome. The similar reference cases were all diagnosed with Bardet-Biedl syndrome 1, strongly suggesting this specific subtype, even without the explicit presence of postaxial polydactyly, which can be variable in BBS."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "This general classification encompasses all genetic subtypes of Bardet-Biedl syndrome. While Bardet-Biedl syndrome 1 is highly suggested by the reference cases, the patient's specific presentation (lacking polydactyly) could potentially align with other BBS subtypes or represent common clinical variability within the broader Bardet-Biedl spectrum. The core features are strongly indicative of a Bardet-Biedl disorder."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.333,
+      "explanation": "This ciliopathy shares several key features with the patient, including progressive cone-rod dystrophy (leading to reduced visual acuity and nyctalopia) and obesity. However, intellectual disability is not a primary or consistent feature, and the patient does not present with other common features of Alstr\u00f6m syndrome such as sensorineural hearing loss or type 2 diabetes."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "The patient presents with 'Self-healing squamous epithelioma' (HP:0034720), which is the cardinal phenotypic feature of Multiple self-healing squamous epithelioma (also known as Ferguson-Smith disease). All provided similar reference cases, which also exhibited 'Self-healing squamous epithelioma' along with other features, were diagnosed with this condition, making it the most direct and highly probable diagnosis for the patient."
+    },
+    {
+      "disease_name": "Generalized Eruptive Keratoacanthoma (Grzybowski Syndrome)",
+      "disease_id": "OMIM:244800",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by the widespread occurrence of numerous, small, spontaneously regressing keratoacanthomas, which are a specific type of self-healing squamous epithelioma. While the patient's single reported symptom 'Self-healing squamous epithelioma' could fit, the condition typically involves a very high number of lesions and the reference cases strongly point to Multiple self-healing squamous epithelioma. It is considered a differential diagnosis for self-healing squamous lesions."
+    }
+  ]
+}

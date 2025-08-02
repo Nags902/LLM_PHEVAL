@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:615760",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it is the direct diagnosis in all similar reference cases, which share the core phenotypic features of Intellectual disability, Short stature, and Microcephaly with the patient. The absence of Hypertonia and Seizure in the patient information does not exclude this diagnosis, as clinical presentation can vary."
+    },
+    {
+      "disease_name": "Seckel Syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 0.5,
+      "explanation": "Seckel syndrome, a group of disorders including type 1, is a strong candidate because its cardinal features are severe microcephaly, profound pre- and postnatal growth retardation (short stature), and intellectual disability, which perfectly align with the patient's reported phenotype."
+    },
+    {
+      "disease_name": "Microcephalic osteodysplastic primordial dwarfism type II",
+      "disease_id": "OMIM:210720",
+      "score": 0.33,
+      "explanation": "MOPD II is another well-known primordial dwarfism syndrome characterized by severe short stature, marked microcephaly, and often intellectual disability, fitting the patient's presentation very well. This disorder represents a significant phenotypic overlap."
+    },
+    {
+      "disease_name": "Meier-Gorlin Syndrome 1",
+      "disease_id": "OMIM:224690",
+      "score": 0.25,
+      "explanation": "Meier-Gorlin syndrome, including type 1, is characterized by primordial dwarfism (short stature), microcephaly, and varying degrees of intellectual disability. While it often includes additional features like ear anomalies or absent patellae not mentioned, the core triad of patient features remains consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Primary microcephaly 1",
+      "disease_id": "OMIM:251200",
+      "score": 0.2,
+      "explanation": "Primary microcephaly, specifically type 1, is characterized by a significantly reduced head circumference at birth and intellectual disability. While short stature is not as universally prominent or severe as in primordial dwarfisms, it can be present or less severe, making it a plausible differential given the strong microcephaly and intellectual disability."
+    }
+  ]
+}

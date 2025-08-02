@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type II",
+      "disease_id": "OMIM:201300",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate, as it is the exact diagnosis in all three similar reference cases, which share a striking overlap of key phenotypic features with the patient. The patient presents with 'Frequent falls', 'Hyperactive deep tendon reflexes', 'Peripheral axonal neuropathy', and 'Acral ulceration', all of which are explicitly present in the reference cases. The patient's 'Spasticity' aligns with the 'Hyperactive deep tendon reflexes' and 'Scissor gait' (from reference cases), indicating an upper motor neuron component which is characteristic of certain forms or presentations of HSAN Type II. This robust overlap makes it the top candidate."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia, type 11",
+      "disease_id": "OMIM:604360",
+      "score": 0.5,
+      "explanation": "Hereditary Spastic Paraplegia type 11 (SPG11) is a complicated form of HSP known to cause significant spasticity and hyperactive deep tendon reflexes, directly matching two prominent features of the patient. Importantly, SPG11 can also involve peripheral neuropathy, which explains the patient's 'Peripheral axonal neuropathy'. While acral ulceration is not a primary feature of SPG11, it could occur secondary to severe sensory involvement in a complicated neuropathy. This disease is a strong candidate for explaining the combined upper motor neuron (spasticity, hyperreflexia) and peripheral nerve features."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, type 2B",
+      "disease_id": "OMIM:605928",
+      "score": 0.333,
+      "explanation": "Charcot-Marie-Tooth disease type 2B (CMT2B) is an axonal form of CMT characterized by prominent sensory involvement, often leading to recurrent skin ulcers ('Acral ulceration') and osteomyelitis, which strongly matches one of the patient's key features. It also explains the 'Peripheral axonal neuropathy'. While spasticity and hyperactive deep tendon reflexes are less typical for most CMTs, some atypical presentations or specific gene mutations within the CMT spectrum can lead to combined upper and lower motor neuron signs. This disease is a good fit for the severe sensory neuropathy and its complications."
+    }
+  ]
+}

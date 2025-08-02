@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "This disease is ranked highest because all similar reference cases presented with 'Freckling' (including specific types like axillary and inguinal freckling, which are highly characteristic) and were diagnosed with Neurofibromatosis, type 1. Given that 'Freckling' is the sole reported phenotypic feature for the patient, and its strong association in the guiding reference cases, NF1 is the most direct and highly probable causative disease."
+    },
+    {
+      "disease_name": "LEOPARD syndrome",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "LEOPARD syndrome (also known as Noonan syndrome with multiple lentigines) is characterized by multiple lentigines, which are small pigmented spots that can resemble freckles. While not explicitly mentioned as axillary or inguinal, generalized freckling could potentially align with the presentation of lentigines in this syndrome, making it a plausible differential diagnosis for widespread pigmentary changes."
+    },
+    {
+      "disease_name": "Peutz-Jeghers syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.3333333333333333,
+      "explanation": "Peutz-Jeghers syndrome is characterized by distinctive mucocutaneous pigmented macules (lentigines), particularly around the mouth, nose, eyes, and on the buccal mucosa. Although these are typically described as macules rather than common freckles, they are pigmented spots that might be broadly described as 'freckling' by a patient or general observer. Therefore, it is considered as a less likely but possible differential for a syndrome presenting with pigmented skin lesions."
+    }
+  ]
+}

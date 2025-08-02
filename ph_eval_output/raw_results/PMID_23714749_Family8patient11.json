@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:250810",
+      "score": 1.0,
+      "explanation": "This disease is the most likely diagnosis as it is the exact condition diagnosed in all three similar reference cases, which share all five of the patient's key phenotypic features: Jaundice, Feeding difficulties, Abnormality of the coagulation cascade, Hypotonia, and Depletion of mitochondrial DNA in liver (or muscle, consistent with the systemic nature of the syndrome). This strong overlap with confirmed cases makes it the top candidate."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4 (hepatocerebral type)",
+      "disease_id": "OMIM:612075",
+      "score": 0.5,
+      "explanation": "This syndrome is clinically very similar to Mitochondrial DNA depletion syndrome 6, also presenting with hepatocerebral features including liver failure (jaundice, coagulopathy) and neurological symptoms (hypotonia) due to mitochondrial DNA depletion. It is a common differential diagnosis for this clinical presentation."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 1 (hepatocerebral type)",
+      "disease_id": "OMIM:250800",
+      "score": 0.333,
+      "explanation": "Also known as Alpers-Huttenlocher syndrome, this is another well-characterized hepatocerebral mitochondrial DNA depletion syndrome. It shares core features such as liver failure (leading to jaundice, coagulopathy) and neurological dysfunction (hypotonia), and involves mitochondrial DNA depletion, making it a strong alternative diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 15 (encephalomyopathic type with liver disease)",
+      "disease_id": "OMIM:615962",
+      "score": 0.25,
+      "explanation": "While typically an encephalomyopathic type, this syndrome frequently involves severe liver disease and presents with common features such as feeding difficulties and hypotonia. Given the depletion of mitochondrial DNA in the liver, it remains a plausible differential diagnosis within the spectrum of mitochondrial disorders affecting the liver."
+    }
+  ]
+}

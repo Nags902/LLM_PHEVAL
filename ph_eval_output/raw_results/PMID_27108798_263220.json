@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "This syndrome perfectly matches the patient's unique constellation of core features: cerebellar ataxia, intellectual disability, and the highly specific ocular anomalies (iris hypoplasia, foveal hypoplasia, and visual impairment). The presence of cerebellar atrophy/hypoplasia, hypotonia, delayed motor milestones (sitting, walking), and speech delay are all consistent with the neurological aspects of Gillespie syndrome. Scoliosis can be a secondary complication."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 20",
+      "disease_id": "OMIM:615714",
+      "score": 0.5,
+      "explanation": "This disease, indicated by the similar reference cases, strongly aligns with many of the patient's neurological and motor features, including ataxia, intellectual disability, hypotonia, cerebellar atrophy, delayed motor and speech development, and scoliosis. However, it does not account for the distinct ocular findings (iris/foveal hypoplasia, visual impairment), and the patient lacks several dysmorphic features characteristic of SCAR20. It remains a relevant differential due to the significant overlap in cerebellar and developmental phenotypes."
+    },
+    {
+      "disease_name": "PAX6-related aniridia",
+      "disease_id": "OMIM:607145",
+      "score": 0.3333333333333333,
+      "explanation": "While broader in its clinical spectrum, disorders caused by PAX6 mutations are well-known to present with the combination of iris hypoplasia (aniridia), foveal hypoplasia, nystagmus, and visual impairment. Importantly, some individuals with PAX6 mutations also exhibit central nervous system anomalies, including cerebellar hypoplasia/atrophy and intellectual disability, which aligns with the patient's neurological profile. It is a strong candidate for the ocular-neurological overlap, although Gillespie syndrome offers a more precise fit for the specific triad of aniridia, ataxia, and intellectual disability."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, UMOD-related",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease, also known as Medullary Cystic Kidney Disease Type 2 (MCKD2) or Familial Juvenile Hyperuricemic Nephropathy (FJHN), is the most probable diagnosis. It perfectly aligns with all the patient's key phenotypic features: chronic kidney disease, gout (a hallmark due to hyperuricemia), renal cysts, and renal interstitial fibrosis. The reference cases, particularly 'Tubulointerstitial kidney disease, autosomal dominant, 1', strongly support this diagnosis, as this designation often refers to ADTKD-UMOD."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, MUC1-related",
+      "disease_id": "OMIM:174000",
+      "score": 0.5,
+      "explanation": "This disease, formerly known as Medullary Cystic Kidney Disease Type 1 (MCKD1), is a strong differential. It shares core features with the patient, including chronic kidney disease, renal cysts, and renal interstitial fibrosis. While gout can occur in ADTKD-MUC1, it is typically less prominent or appears later compared to ADTKD-UMOD. The presence of 'Tubulointerstitial kidney disease, autosomal dominant, 3' in the similar reference cases also points to this possibility, as this often refers to ADTKD-MUC1."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, HNF1B-related",
+      "disease_id": "OMIM:137920",
+      "score": 0.33,
+      "explanation": "This form of ADTKD, also known as Renal Cysts and Diabetes Syndrome (RCAD), causes progressive chronic kidney disease and renal cysts, which are consistent with the patient's presentation. However, gout is not a primary or consistent feature, and other common manifestations like maturity-onset diabetes of the young (MODY) or genitourinary malformations are not mentioned in the patient's symptoms, making it less likely than UMOD- or MUC1-related forms given the full phenotype."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, REN-related",
+      "disease_id": "OMIM:613090",
+      "score": 0.25,
+      "explanation": "This rare form of ADTKD is characterized by early-onset hyperuricemia, gout, and progressive renal failure, which aligns with chronic kidney disease and gout. However, prominent renal cysts are not a classic feature, and anemia is often present, which is not listed in the patient's symptoms. This makes it a less likely candidate compared to the UMOD or MUC1 related forms."
+    }
+  ]
+}

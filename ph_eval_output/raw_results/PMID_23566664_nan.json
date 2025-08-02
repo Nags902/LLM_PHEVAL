@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hadju-Cheney syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 1.0,
+      "explanation": "Hadju-Cheney syndrome (HCS) is strongly indicated by the patient's defining features: osteolytic defects of the phalanges of the hand (acro-osteolysis), severe osteoporosis of vertebrae, and vertebral compression fractures, all of which are hallmark skeletal manifestations of HCS. Additionally, short stature and micrognathia are consistent features. The thick eyebrows and flat face can also be observed as part of the coarse facial features in HCS. The patient's age (P57Y) is also consistent with the progressive nature of the bone disease in HCS."
+    },
+    {
+      "disease_name": "Pyknodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.5,
+      "explanation": "Pyknodysostosis is a strong contender due to the presence of several key features: osteolytic defects of the phalanges (acro-osteolysis is characteristic), micrognathia, short stature, and susceptibility to fractures, including vertebral compression fractures. The primary discrepancy is the patient's 'osteoporosis of vertebrae' as Pyknodysostosis typically presents with osteosclerosis (increased bone density). However, despite the increased density, the bones in Pyknodysostosis are paradoxically brittle and prone to fractures, making it a close match for the overall bone phenotype."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.3333333333333333,
+      "explanation": "KBG syndrome is suggested by the direct matches of several phenotypic features, including thick eyebrow, short stature, and micrognathia, as evidenced by similar reference case 2. However, the prominent and severe osteolytic defects of the phalanges, significant osteoporosis, and vertebral compression fractures are not typical or hallmark features of KBG syndrome, which primarily involves milder skeletal anomalies like brachydactyly and delayed bone age. Therefore, while some facial features align, it does not fully explain the defining bone pathology."
+    }
+  ]
+}

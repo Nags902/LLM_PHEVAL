@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sensenbrenner Syndrome",
+      "disease_id": "OMIM:218330",
+      "score": 1.0,
+      "explanation": "Sensenbrenner Syndrome (also known as Cranioectodermal Dysplasia) is a ciliopathy that presents with a strong overlap of the patient's phenotypic features. Key overlapping features include rod-cone dystrophy, severe short stature, brachydactyly (short, broad fingers/toes), intellectual disability/developmental delay (explaining delayed speech and walking), frontal bossing, underdeveloped nasal alae, micrognathia, and low-set ears. While Chiari malformation and macrotia are not classic hallmark features, the overall constellation of retinal dystrophy, specific skeletal anomalies, neurodevelopmental issues, and distinctive craniofacial dysmorphism makes it a highly probable diagnosis, closely aligning with the 'Retinitis pigmentosa with or without skeletal anomalies' description from the similar reference cases."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Bardet-Biedl Syndrome (BBS) is a well-known ciliopathy characterized by rod-cone dystrophy, intellectual disability/learning difficulties, and developmental delay, which are all present in the patient. While typical skeletal anomalies in BBS are polydactyly rather than brachydactyly, and Chiari malformation is not a common feature, BBS represents a significant group of syndromic retinitis pigmentosa with multi-systemic involvement (e.g., renal, cardiac features seen in reference cases, though not explicitly listed for patient). Its prominence as a syndromic RP makes it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.33,
+      "explanation": "Joubert Syndrome is another ciliopathy that includes retinal dystrophy (often early-onset retinitis pigmentosa) and significant neurodevelopmental involvement, such as intellectual disability, delayed speech and walking, and characteristic brain malformations (molar tooth sign), which could potentially relate to Chiari malformation. However, the specific skeletal features like brachydactyly, short stature, and the exact craniofacial dysmorphisms seen in the patient (e.g., underdeveloped nasal alae, micrognathia) are not primary or consistent features of Joubert Syndrome, making it a less precise fit compared to Sensenbrenner Syndrome."
+    }
+  ]
+}

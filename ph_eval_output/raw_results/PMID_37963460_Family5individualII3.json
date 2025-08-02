@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia, feeding difficulties, facial dysmorphism, and brain abnormalities",
+      "disease_id": "None",
+      "score": 1.0,
+      "explanation": "This diagnosis is directly indicated for all three highly similar reference cases, which share an exceptional number of phenotypic features with the patient. The patient's presentation including hypotonia, short stature, decreased body weight, hypoplasia of the corpus callosum, motor and speech delays, intellectual disability (moderate), autistic behavior, sleep-wake cycle disturbance, hyperactivity, motor stereotypy, feeding difficulties, and a wide array of facial dysmorphism (low-set ears, protruding ear, high palate, short philtrum, depressed nasal bridge, hypertelorism, fine hair) aligns almost perfectly with the described features and the collective phenotype of the reference cases."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome) is a strong candidate due to significant overlap with the patient's symptoms. Key features such as global developmental delay, intellectual disability, hypotonia, motor and speech delays, autistic behavior, hyperactivity, motor stereotypy, and feeding difficulties are commonly observed. Characteristic facial dysmorphism including low-set ears, protruding ears, and depressed nasal bridge can be present. Importantly, hypoplasia of the corpus callosum has been reported in individuals with this syndrome, which is a major finding in the patient."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:614609",
+      "score": 0.33,
+      "explanation": "Coffin-Siris Syndrome, particularly forms like type 1 (ARID1B-related), presents with a substantial number of features consistent with the patient. These include global developmental delay, intellectual disability, hypotonia, feeding difficulties, and distinct facial dysmorphism (e.g., high palate, short philtrum, depressed nasal bridge, hypertelorism). Hypoplasia of the corpus callosum is a recognized brain abnormality associated with this syndrome. While the classic digital anomalies (e.g., absent/hypoplastic fifth fingernail/toenail) were not explicitly listed for the patient, the overall constellation of developmental and neurological features along with the facial dysmorphism makes it a plausible consideration."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaricaciduria, type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "All key phenotypic features, including acute encephalopathy, specific metabolic markers (elevated urine 3-hydroxyglutaric level, glutaric aciduria), characteristic neuroimaging (enlarged sylvian cistern), and neurological symptoms (dystonia, seizures, macrocephaly, absent speech, inability to walk, irritability, subdural hemorrhage), are highly consistent with Glutaric Aciduria, Type I. Furthermore, all provided similar reference cases were definitively diagnosed with Glutaric Aciduria, Type I, strongly reinforcing this diagnosis."
+    },
+    {
+      "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "This condition, also known as Glutaric Aciduria type II (GA2), is considered due to the presence of 'Glutaric aciduria' as a shared metabolic feature and its potential to cause encephalopathy, seizures, and neurological symptoms. However, the specific elevation of 3-hydroxyglutaric acid in the patient's urine strongly points away from MADD and towards Glutaric Aciduria, Type I, as 3-hydroxyglutaric acid is a more distinctive marker for GA1. MADD typically presents with a broader profile of elevated acylcarnitines and other organic acids not specified in the patient's profile, making it a less likely but plausible differential."
+    }
+  ]
+}

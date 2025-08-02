@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:612463",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as all three of the patient's phenotypic features (Obesity, Short metacarpal, Intellectual disability) are cardinal features of Pseudohypoparathyroidism Ia. The similar reference cases strongly support this, especially Case 1, which shares the exact same phenotypic profile and was diagnosed as Pseudohypoparathyroidism Ia."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612462",
+      "score": 0.5,
+      "explanation": "Pseudopseudohypoparathyroidism also presents with the Albright hereditary osteodystrophy phenotype, which includes Obesity, Short metacarpal, and Intellectual disability, perfectly matching the patient's features. This condition is caused by mutations in the same GNAS gene as Pseudohypoparathyroidism Ia but typically lacks the hormonal resistance. As no endocrine lab values were provided for the patient, it remains a strong differential diagnosis."
+    }
+  ]
+}

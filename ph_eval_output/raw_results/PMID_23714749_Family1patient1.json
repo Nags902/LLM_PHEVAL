@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:251880",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches all of the patient's phenotypic features: Global developmental delay, Increased circulating lactate concentration, Hypoglycemia, Abnormality of the coagulation cascade, and Hypotonia. Its strong resemblance to Reference Case 1, which was diagnosed with this condition and presented with the exact same set of overlapping features, makes it the most likely candidate. The hepatocerebral type specifically accounts for both the neurological symptoms and the severe liver dysfunction leading to hypoglycemia and coagulation issues."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type I",
+      "disease_id": "OMIM:232200",
+      "score": 0.5,
+      "explanation": "Glycogen Storage Disease Type I (including subtypes Ia and Ib) is a strong candidate because it classically presents with severe hypoglycemia and lactic acidosis, which are key features in the patient. Liver involvement in GSD Type I frequently leads to hepatomegaly and can cause abnormalities of the coagulation cascade. Hypotonia can also be present, and global developmental delay may occur secondary to chronic metabolic derangements, making it a very plausible alternative diagnosis."
+    },
+    {
+      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
+      "disease_id": "OMIM:613721",
+      "score": 0.333,
+      "explanation": "This disease aligns with several of the patient's features including Global developmental delay, Increased circulating lactate concentration (lactic acidosis), and Hypotonia, as seen in Reference Cases 2 and 3. However, it does not typically present with the prominent hypoglycemia or abnormality of the coagulation cascade, which are significant features in the patient's presentation. Therefore, while a possibility, it is a less comprehensive match than the top two candidates."
+    },
+    {
+      "disease_name": "Methylmalonic Acidemia, isolated",
+      "disease_id": "OMIM:251000",
+      "score": 0.25,
+      "explanation": "Methylmalonic acidemia is a type of organic acidemia that can present with severe metabolic acidosis (often including lactic acidosis), global developmental delay, and hypotonia. During metabolic crises, patients can experience hypoglycemia and liver dysfunction which may lead to coagulation abnormalities. This metabolic disorder shares a significant overlap with the patient's symptoms, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Propionic Acidemia",
+      "disease_id": "OMIM:606054",
+      "score": 0.2,
+      "explanation": "Similar to methylmalonic acidemia, propionic acidemia is an organic acidemia characterized by severe metabolic acidosis (frequently with a lactic acid component), global developmental delay, and hypotonia. Systemic involvement often includes feeding difficulties, vomiting, and can lead to hypoglycemia and coagulation defects due to liver compromise, aligning well with the patient's overall clinical picture."
+    }
+  ]
+}

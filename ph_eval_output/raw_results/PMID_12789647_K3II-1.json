@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "The patient's presentation with multiple congenital heart defects (secundum atrial septal defect, muscular ventricular septal defect, perimembranous ventricular septal defect, complete atrioventricular canal defect) combined with characteristic upper limb malformations (absent thumb, absent radius, ulnar deviation of thumb) is highly consistent with Holt-Oram syndrome. This diagnosis is strongly supported by all provided similar reference cases, which exhibit a nearly identical constellation of features (including various septal defects, absent thumb, absent radius) and were diagnosed as Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Fanconi Anemia (FANCA-related)",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Fanconi Anemia is a genetic disorder characterized by a wide range of congenital anomalies, including radial ray defects (such as absent thumbs and radii) and congenital heart defects, which overlap with the patient's phenotypic features. However, the primary manifestation of Fanconi Anemia is progressive bone marrow failure, along with other common features like short stature and skin pigmentation, none of which are reported in this patient. Therefore, while relevant due to shared limb and cardiac anomalies, it is considered a less likely diagnosis compared to Holt-Oram syndrome."
+    }
+  ]
+}

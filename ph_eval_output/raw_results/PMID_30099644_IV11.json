@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "This disease is strongly supported by the patient's phenotypic features (Reduced visual acuity, Retinal pigment epithelial mottling, Abnormal electroretinogram) which are cardinal signs of Leber congenital amaurosis. Furthermore, Case 1, which presented with a highly similar set of symptoms including Severely reduced visual acuity, Abnormal electroretinogram, and Retinal pigment epithelial mottling, was diagnosed with Leber congenital amaurosis 6, providing a direct and compelling match."
+    },
+    {
+      "disease_name": "Retinitis pigmentosa 11",
+      "disease_id": "OMIM:600105",
+      "score": 0.5,
+      "explanation": "Retinitis Pigmentosa is a common cause of inherited retinal degeneration characterized by progressive visual loss and an abnormal electroretinogram, both present in the patient. Retinal pigment epithelial mottling is also consistent with the pathology of RP. Case 2, diagnosed with Retinitis pigmentosa 11, shared 'Abnormal electroretinogram' and 'Reduced visual acuity' with the patient, making this a strong contender."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 5",
+      "disease_id": "OMIM:604393",
+      "score": 0.3333,
+      "explanation": "Cone-rod dystrophy is another group of inherited retinal dystrophies that frequently presents with reduced visual acuity and an abnormal electroretinogram, reflecting the primary dysfunction of cones followed by rods. Retinal pigment epithelial mottling is also a recognized feature of various forms of cone-rod dystrophy, making it a highly relevant differential diagnosis for the patient's combined symptoms."
+    }
+  ]
+}

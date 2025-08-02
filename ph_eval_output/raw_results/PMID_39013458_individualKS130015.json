@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent match for all patient features, including intellectual disability, global developmental delay, early hypotonia, developing overweight/obesity, chronic constipation, and highly characteristic self-mutilation (e.g., skin picking)."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Shares many key features with the patient, particularly intellectual disability, global developmental delay, hypotonia, and prominent self-mutilation (e.g., hand biting, skin picking). Overweight and gastrointestinal issues like constipation can also be present."
+    },
+    {
+      "disease_name": "Autism spectrum disorder 10 with or without macrocephaly",
+      "disease_id": "OMIM:615469",
+      "score": 0.3333333333333333,
+      "explanation": "While the patient does not explicitly have autism or macrocephaly listed, the combination of intellectual disability, global developmental delay, hypotonia, constipation, overweight, and self-mutilation strongly aligns with features observed in the similar reference Case 1, which received this diagnosis. Self-mutilation is common in severe intellectual disability and autism spectrum disorders."
+    },
+    {
+      "disease_name": "Lesch-Nyhan syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.25,
+      "explanation": "Although severe self-mutilation is a hallmark feature, this syndrome typically presents with severe intellectual disability, hypotonia evolving into spasticity/dystonia, and is not usually associated with overweight. The type of self-mutilation (compulsive biting) is also very specific and distinct from other syndromes."
+    }
+  ]
+}

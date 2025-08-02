@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ATP synthase deficiency, mitochondrial, 1 (TMEM70-related)",
+      "disease_id": "OMIM:613541",
+      "score": 1.0,
+      "explanation": "This severe mitochondrial disorder highly matches the patient's presentation including neonatal onset (P25D), hypertrophic cardiomyopathy, generalized hypotonia, muscle weakness, respiratory failure requiring assisted ventilation, seizures, and a spectrum of brain abnormalities affecting the corpus callosum, periventricular white matter, and brainstem. Bradycardia is also consistent with mitochondrial cardiomyopathy and potential dysautonomia. Vocal cord paralysis and inspiratory stridor align with severe bulbar and respiratory involvement seen in this condition."
+    },
+    {
+      "disease_name": "Glycogen storage disease type II, infantile onset (Pompe disease)",
+      "disease_id": "OMIM:232300",
+      "score": 0.5,
+      "explanation": "Infantile Pompe disease is a classic cause of severe hypotonia, profound muscle weakness, respiratory failure requiring ventilation, and massive hypertrophic cardiomyopathy presenting in the neonatal period. Vocal cord paralysis, areflexia, and inspiratory stridor are also highly consistent with the severe neuromuscular involvement. While primary structural brain malformations are not typical, the constellation of severe cardiac, muscular, and respiratory features is highly characteristic, and secondary brain effects or non-specific white matter changes can occur."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 1C (EXOSC3-related)",
+      "disease_id": "OMIM:614678",
+      "score": 0.333,
+      "explanation": "This specific type of pontocerebellar hypoplasia (PCH) type 1, which often involves anterior horn cell degeneration, provides an excellent match for the severe hypotonia, muscle weakness, areflexia, respiratory failure, vocal cord paralysis, inspiratory stridor, seizures, and the prominent brain abnormalities including abnormal brainstem morphology, abnormal corpus callosum morphology, and abnormal periventricular white matter morphology. The main missing piece for a perfect match is hypertrophic cardiomyopathy as a primary feature, but overall neurological and neuromuscular picture is a strong fit."
+    },
+    {
+      "disease_name": "Leigh syndrome (SURF1-related)",
+      "disease_id": "OMIM:256000",
+      "score": 0.25,
+      "explanation": "Leigh syndrome is a progressive neurodegenerative disorder, often of mitochondrial origin, typically affecting the brainstem, basal ganglia, and white matter, presenting in infancy. It explains severe encephalopathy, seizures, hypotonia, muscle weakness, and respiratory failure. While cardiac involvement, including hypertrophic cardiomyopathy, is seen in a subset of mitochondrial disorders causing Leigh syndrome, it's not as universally prominent as in TMEM70 deficiency or Pompe disease, making it a slightly less precise fit for the specific cardiac features."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "This patient's phenotype strongly aligns with Sotos Syndrome 1, which is characterized by macrocephaly, intellectual disability (mild in this case), tall stature (cerebral gigantism), and distinctive facial features including prominent supraorbital ridges. Other reported features such as autism, ADHD, motor delay, seizures, and ventriculomegaly are also consistent with the known spectrum of Sotos Syndrome 1. The strong overlap with the 'Intellectual developmental disorder with autism and macrocephaly' diagnosis observed in the reference cases further supports this diagnosis, with Sotos Syndrome providing a specific genetic etiology for this broad presentation."
+    },
+    {
+      "disease_name": "CHD8-related neurodevelopmental disorder",
+      "disease_id": "OMIM:615799",
+      "score": 0.5,
+      "explanation": "CHD8-related neurodevelopmental disorder is a strong candidate given the prominent features of macrocephaly, autism, intellectual disability, and sleep onset insomnia, all of which are commonly associated with this condition. ADHD, motor delay, and seizures are also consistent findings. While tall stature and prominent supraorbital ridges are less consistently reported hallmark features compared to Sotos Syndrome, the core neurodevelopmental presentation with specific sleep disturbances makes this a highly relevant consideration, fitting the 'Intellectual developmental disorder with autism and macrocephaly' pattern."
+    },
+    {
+      "disease_name": "Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.33,
+      "explanation": "Bannayan-Riley-Ruvalcaba Syndrome (BRRS), a PTEN-related disorder, is a relevant differential diagnosis given the patient's macrocephaly, autism, intellectual disability, motor delay, and seizures. Overgrowth (potentially leading to tall stature) can also be seen in BRRS. However, prominent supraorbital ridges are not a classic facial feature, and other hallmark features of BRRS (e.g., lipomas, hemangiomas, pigmented macules) are not described in the patient's information. It generally aligns with the 'Intellectual developmental disorder with autism and macrocephaly' phenotype."
+    }
+  ]
+}

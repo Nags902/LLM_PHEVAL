@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation exhibits an exceptional degree of overlap with the phenotypic features of White-Sutton syndrome, directly corroborated by all three provided reference cases that share numerous common characteristics and are diagnosed with this condition. The patient presents with highly distinctive craniofacial dysmorphism (short philtrum, wide mouth, cleft palate, pointed chin, exaggerated cupid's bow, thin upper lip vermilion, hypertelorism, epicanthus, ptosis, highly arched eyebrow, depressed nasal bridge, broad and pear-shaped nose, midface retrusion) which are consistently noted in White-Sutton syndrome. Furthermore, the significant neurological involvement including global developmental delay, axial and appendicular hypotonia, seizures, autistic behavior, low frustration tolerance, and specific brain anomalies such as hypoplasia of the brainstem and Dandy-Walker malformation are key features of both the patient and the reference cases. Other shared findings like short stature, feeding difficulties, sensorineural hearing impairment, inguinal hernia, and recurrent infections (otitis media and respiratory) further strengthen this diagnosis. The comprehensive and consistent match across multiple organ systems points overwhelmingly to White-Sutton syndrome as the primary and most likely causative disease."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is considered as a potential differential diagnosis due to the presence of several overlapping features, though to a lesser extent than White-Sutton syndrome. Shared features include global developmental delay, hypotonia, short stature, feeding difficulties, sensorineural hearing impairment, recurrent otitis media and respiratory infections, cleft palate, and certain ocular anomalies (myopia, strabismus, ptosis, hypertelorism, epicanthus). Brain anomalies, including cerebellar hypoplasia which can manifest as Dandy-Walker spectrum, can also be seen in CHARGE syndrome. However, the specific combination of facial features such as a pointed chin, exaggerated cupid's bow, thin upper lip vermilion, and pear-shaped nose are less typical for CHARGE syndrome. Additionally, core features often seen in CHARGE such as coloboma, choanal atresia, major cardiac defects, and specific external ear anomalies are not explicitly mentioned in the patient's phenotype, making it a less precise fit than White-Sutton syndrome."
+    }
+  ]
+}

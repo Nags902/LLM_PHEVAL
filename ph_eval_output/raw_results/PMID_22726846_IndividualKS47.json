@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Atypical Teratoid/Rhabdoid Tumor Predisposition Syndrome 1",
+      "disease_id": "OMIM:601680",
+      "score": 1.0,
+      "explanation": "This syndrome, caused by germline mutations in SMARCB1, predisposes individuals to highly aggressive tumors, including atypical teratoid/rhabdoid tumors (AT/RT) of the brain. Importantly, rare cases of familial choroid plexus papillomas (CPPs), which cause villous hypertrophy of the choroid plexus and subsequent hydrocephalus due to CSF overproduction, have been linked to SMARCB1 mutations. Intellectual disability and global developmental delay are common features due to neurological involvement. While specific facial dysmorphisms are not hallmark, the unique combination of hydrocephalus and villous hypertrophy of choroid plexus makes this a strong candidate."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:191090",
+      "score": 0.5,
+      "explanation": "Tuberous Sclerosis Complex (TSC), particularly due to TSC2 mutations, is a multisystem genetic disorder characterized by the development of hamartomas (benign tumors) in various organs, including the brain. Patients commonly present with intellectual disability, global developmental delay, and visual impairment (e.g., retinal hamartomas or optic atrophy secondary to hydrocephalus). Hydrocephalus can occur due to obstruction of CSF flow by subependymal giant cell astrocytomas (SEGAs). While villous hypertrophy of the choroid plexus is not a typical hallmark, the general hamartomatous nature and brain involvement leading to hydrocephalus, combined with ID and visual issues, make it a strong differential."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.33,
+      "explanation": "PTEN Hamartoma Tumor Syndrome (PHTS), commonly known as Cowden Syndrome, is characterized by germline mutations in PTEN. It is associated with hamartomatous overgrowth in multiple tissues, macrocephaly (which can sometimes lead to hydrocephalus), and increased risk of various tumors. Intellectual disability and developmental delay are recognized neurological features. Although villous hypertrophy of the choroid plexus is not a classic feature, PTEN mutations have been implicated in some sporadic cases of choroid plexus papillomas, and the overarching theme of hamartoma formation aligns with the choroid plexus findings."
+    },
+    {
+      "disease_name": "Hydrocephalus, X-Linked, Due to L1CAM Deficiency",
+      "disease_id": "OMIM:307000",
+      "score": 0.25,
+      "explanation": "This X-linked disorder, often called X-linked hydrocephalus with stenosis of the aqueduct of Sylvius (HSAS), is caused by mutations in the L1CAM gene. It is a primary cause of severe congenital hydrocephalus, typically affecting males (consistent with the patient's Gender 1 designation). Intellectual disability and global developmental delay are prominent features. While it explains hydrocephalus, ID, and GDD very well, it typically involves aqueductal stenosis rather than villous hypertrophy of the choroid plexus. High myopia is also not a primary feature, though visual impairment can result from hydrocephalus."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:613402",
+      "score": 1.0,
+      "explanation": "This disease is strongly indicated by the provided similar reference cases. All three reference cases presented with bilateral tonic-clonic seizures, moderate intellectual disability, and autistic behavior (or related autistic features), leading to a diagnosis of Developmental and epileptic encephalopathy 9. The patient's phenotypic features align perfectly with this common presentation."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "Developmental and epileptic encephalopathy 2, caused by mutations in CDKL5, is another severe epileptic encephalopathy characterized by early-onset seizures (often including tonic-clonic), profound intellectual disability, and autistic features, making it a strong differential diagnosis for the patient's symptoms."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.33,
+      "explanation": "Tuberous Sclerosis Complex is a well-recognized genetic disorder that frequently presents with the classic triad of intellectual disability, epilepsy (including bilateral tonic-clonic seizures), and autism spectrum disorder. TSC2 is a common cause of this complex."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.25,
+      "explanation": "Similar to TSC2, Tuberous Sclerosis Complex 1 is an equally relevant cause of Tuberous Sclerosis Complex, leading to a similar phenotypic presentation involving intellectual disability, epilepsy, and autism that matches the patient's features."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability and a significant genetic cause of autism. While seizures are not universal, they occur in a notable proportion of affected individuals, making it an important consideration for this phenotype combination."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.166,
+      "explanation": "Dravet Syndrome, an SCN1A-related epileptic encephalopathy, is characterized by early-onset, often prolonged and recurrent, bilateral tonic-clonic seizures (including status epilepticus), alongside intellectual disability and autistic features. While often more severe, it aligns with the patient's core symptoms and the type of seizure presented."
+    }
+  ]
+}

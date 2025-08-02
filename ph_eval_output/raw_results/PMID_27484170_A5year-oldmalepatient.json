@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "This patient's phenotypic features, including pulmonic stenosis, short stature, hypertelorism, and multiple lentigines, are hallmark characteristics of LEOPARD syndrome 1 (also known as Noonan syndrome with multiple lentigines). The presence of few cafe-au-lait spots is also consistent with this diagnosis. This strong correlation is further supported by similar reference cases (Case 1 and 2) explicitly diagnosed with LEOPARD syndrome 1 and exhibiting a high degree of phenotypic overlap with the patient's presentation."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.5,
+      "explanation": "Neurofibromatosis type 1 is considered as a differential diagnosis due to the presence of few cafe-au-lait spots and pulmonic stenosis, which can occur in NF1. However, the prominent features of multiple lentigines (rather than freckling) and hypertelorism are less characteristic of NF1, making it a less precise fit compared to LEOPARD syndrome. Reference Case 3 highlights NF1, but its broader phenotypic spectrum (e.g., plexiform neurofibroma, multiple cafe-au-lait spots, freckling) is not fully mirrored in the patient's specific presentation."
+    }
+  ]
+}

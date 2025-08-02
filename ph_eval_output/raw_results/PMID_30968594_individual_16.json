@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This disease is the most likely diagnosis as it perfectly matches the core endocrine abnormalities of increased circulating ACTH level and decreased circulating cortisol level, which are characteristic of primary adrenal insufficiency. Furthermore, all three provided similar reference cases present with a very similar constellation of features, including decreased serum testosterone concentration, abnormal/increased circulating prolactin, and abnormal/increased serum estradiol, and are specifically diagnosed as Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency. This strong concordance with the guiding reference cases makes it the top candidate, despite the less typical 'decreased testosterone' for classical 21-hydroxylase deficiency in a female."
+    },
+    {
+      "disease_name": "Autoimmune polyendocrine syndrome type 1",
+      "disease_id": "OMIM:240300",
+      "score": 0.5,
+      "explanation": "Autoimmune polyendocrine syndrome type 1 (APS-1), also known as APECED, frequently includes autoimmune adrenal insufficiency (Addison's disease) as a key component. This would directly account for the increased circulating ACTH level and decreased circulating cortisol level. While the specific sex steroid profile (decreased serum testosterone, increased serum estradiol) and increased circulating prolactin concentration are not primary defining features of Addison's disease itself, complex endocrine dysregulation is common in multisystem autoimmune disorders like APS-1. For instance, primary ovarian insufficiency (a recognized component of APS-1) could lead to altered sex steroid profiles, and secondary effects or co-occurring autoimmune conditions might contribute to prolactin elevation. It represents a plausible alternative for primary adrenal insufficiency, though less directly aligned with the specific sex steroid and prolactin profile as demonstrated by the reference cases for 21-hydroxylase deficiency."
+    }
+  ]
+}

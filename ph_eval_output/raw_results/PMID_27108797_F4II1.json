@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:615024",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation, including aniridia, ataxia, generalized hypotonia, cerebellar atrophy, nystagmus, slurred speech, and global developmental delays (delayed sitting/standing, poor head control), is highly consistent with Spinocerebellar ataxia 29. This diagnosis is strongly supported by all three provided reference cases, which exhibit a very similar constellation of features, including aniridia and cerebellar ataxia, and were specifically diagnosed with Spinocerebellar ataxia 29. The hypoplasia of the iris is also consistent with aniridia."
+    },
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 0.5,
+      "explanation": "Gillespie syndrome is characterized by the classic triad of congenital aniridia, cerebellar ataxia, and intellectual disability, which perfectly matches the core phenotypic features observed in the patient. While Spinocerebellar ataxia 29 (OMIM:615024, ITPR1-related) is considered a type of Gillespie syndrome (Type 2), the classical Gillespie syndrome (OMIM:206700, PAX6-related) remains a strong differential diagnosis due to the highly overlapping primary features of aniridia and significant cerebellar involvement."
+    },
+    {
+      "disease_name": "WAGR Syndrome",
+      "disease_id": "OMIM:194070",
+      "score": 0.333,
+      "explanation": "WAGR syndrome is considered due to the presence of aniridia and developmental delay/intellectual disability in the patient. However, the prominent cerebellar features, such as severe ataxia, cerebellar atrophy, nystagmus, and dysarthria, are not typical or primary manifestations of WAGR syndrome. Other cardinal features of WAGR, such as Wilms tumor or genitourinary anomalies, are not reported, making it a less likely fit compared to conditions primarily affecting the cerebellum."
+    }
+  ]
+}

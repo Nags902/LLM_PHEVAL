@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Combined oxidative phosphorylation deficiency 59",
+      "disease_id": "OMIM:617871",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate, showing an exceptionally strong match with the patient's phenotypic features and aligning perfectly with the provided similar reference cases (Case 1 and 2), which were diagnosed with Combined oxidative phosphorylation deficiency 59. Key overlapping features include Apnea, Vomiting, Retinal degeneration, Congestive heart failure with severely reduced left ventricular ejection fraction, Cholelithiasis, Feeding difficulties, Global developmental delay, Developmental regression, Failure to thrive, CNS demyelination, and Cerebral edema. Crucially, the patient also presents with decreased activity of mitochondrial complex I, complex IV, and the pyruvate dehydrogenase complex, all of which are characteristic of a combined oxidative phosphorylation deficiency like COXPD59 (which is caused by mutations in FARS2 and is known to affect multiple mitochondrial functions including those of complex IV and PDH, and often indirectly complex I)."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency, X-linked",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "The patient explicitly demonstrates decreased activity of the pyruvate dehydrogenase complex, making PDH deficiency a significant finding. While the presence of decreased complex I and IV activity suggests a broader combined OXPHOS defect, primary PDH deficiency itself can cause severe neurological (developmental delay, regression, CNS demyelination, cerebral edema), cardiac, and systemic symptoms that overlap with the patient's presentation. It is considered a strong candidate due to the direct laboratory finding, even if it might represent a part of a larger metabolic disturbance."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:258450",
+      "score": 0.333,
+      "explanation": "This mitochondrial disorder shares some common features with the patient such as global developmental delay, failure to thrive, and vomiting. It is listed as a reference case (Case 3) for guidance on mitochondrial disorders. However, the patient's prominent cardiac dysfunction (congestive heart failure, severe LV ejection fraction reduction), retinal degeneration, specific isolated complex I and IV deficiencies, CNS demyelination, and cerebral edema are not as consistently characteristic of MDDS6, which typically features more significant primary hepatic involvement (e.g., hepatic failure, cirrhosis, cholestasis) that is not reported in the patient."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.25,
+      "explanation": "Leigh syndrome is a severe progressive neurodegenerative disorder often caused by defects in mitochondrial oxidative phosphorylation, including deficiencies of complexes I, IV, and the pyruvate dehydrogenase complex. The patient's neurological symptoms, including global developmental delay, developmental regression, CNS demyelination, and cerebral edema, align well with the phenotypic spectrum of Leigh syndrome. While Leigh syndrome is a clinical phenotype with various genetic causes (and Combined oxidative phosphorylation deficiency 59 can present with a Leigh-like phenotype), it remains a plausible, albeit less specific, diagnostic consideration given the underlying mitochondrial dysfunction."
+    }
+  ]
+}

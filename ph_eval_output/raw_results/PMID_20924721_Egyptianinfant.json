@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Arthrogryposis, distal, type 2A (Freeman-Sheldon syndrome)",
+      "disease_id": "OMIM:193700",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate due to a strong overlap with multiple distinctive phenotypic features, including Depressed nasal bridge, Cleft ala nasi, Long philtrum, Flat face, Short nose, Talipes equinovarus, Overlapping toe, Camptodactyly, and Deeply set eye. The specific combination of cleft ala nasi with widespread joint contractures (talipes equinovarus, camptodactyly) and the characteristic 'whistling-face' facies, including deeply set eyes, long philtrum, and depressed nasal bridge, are highly indicative of Freeman-Sheldon syndrome, aligning perfectly with the features described in the patient and the first reference case."
+    },
+    {
+      "disease_name": "Arthrogryposis, distal, type 10 (Al Kaissi syndrome)",
+      "disease_id": "OMIM:617937",
+      "score": 0.5,
+      "explanation": "Al Kaissi syndrome, also a form of distal arthrogryposis, is a strong differential due to shared features such as Depressed nasal bridge, Long philtrum, Talipes equinovarus, Overlapping toe, and Camptodactyly. While it shares the core limb contractures and some facial dysmorphism, it lacks the specific Cleft ala nasi and the characteristic deeply set eyes and short nose described in the patient, instead featuring broad nasal tip and downslanted palpebral fissures in the reference case. Nonetheless, its inclusion as a distal arthrogryposis with significant overlap makes it a plausible second choice."
+    },
+    {
+      "disease_name": "Pena-Shokeir Syndrome I (Fetal Akinesia Deformation Sequence 1)",
+      "disease_id": "OMIM:208150",
+      "score": 0.33,
+      "explanation": "This syndrome represents a broader category of conditions characterized by multiple congenital joint contractures (arthrogryposis) and various associated anomalies due to reduced fetal movement. It accounts for the patient's prominent limb features like Talipes equinovarus, Overlapping toe, and Camptodactyly, and can include general facial dysmorphism such as depressed nasal bridge and a flat face. While it does not specifically account for highly distinctive features like Cleft ala nasi or the precise combination of other facial features seen in the patient as well as Freeman-Sheldon syndrome, it remains a critical differential for patients presenting with multiple severe congenital contractures."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features, including plexiform neurofibroma, spinal neurofibroma, multiple cafe-au-lait spots, and scoliosis, are highly characteristic and meet the diagnostic criteria for Neurofibromatosis, type 1. All provided reference cases with similar feature sets were also diagnosed with NF1, strongly supporting this as the primary and most likely diagnosis."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "Neurofibromatosis, type 2 is considered as a less likely differential diagnosis due to its association with spinal tumors (typically schwannomas) and occasional cafe-au-lait spots. However, the prominent presence of a plexiform neurofibroma and multiple cafe-au-lait spots in this patient's presentation makes NF2 highly improbable, as these are not typical features of NF2, which primarily involves bilateral vestibular schwannomas."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent match for the patient's phenotypic features, including intellectual disability, global developmental delay, macrodontia, thick eyebrows, synophrys, low anterior hairline, hand abnormalities, short stature, and intrauterine growth retardation. Furthermore, two out of the three provided reference cases, which exhibit highly similar phenotypic profiles, were indeed diagnosed with KBG syndrome, strongly supporting this as the most likely diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "While not as strong a fit as KBG syndrome, Cornelia de Lange syndrome shares several key features with the patient, such as intellectual disability, global developmental delay, short stature, intrauterine growth retardation, thick eyebrows, synophrys, and a low anterior hairline. However, it is a less likely diagnosis due to the patient's macrodontia, which is not characteristic of Cornelia de Lange syndrome (where teeth are often small or normal), and the typical presence of microcephaly and specific limb defects not noted in the patient."
+    }
+  ]
+}

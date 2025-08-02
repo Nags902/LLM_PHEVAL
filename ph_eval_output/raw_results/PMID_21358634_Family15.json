@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, Ferguson-Smith type",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "The patient presents with Self-healing squamous epithelioma, which is the defining characteristic of Multiple self-healing squamous epithelioma. All provided reference cases, sharing this primary symptom, were diagnosed with 'Multiple self-healing squamous epithelioma, susceptibility to (None)', strongly indicating this rare disease or a related syndromic form. This makes it the most direct and highest-priority diagnosis for the patient, even if only one symptom is currently manifest."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "While Self-healing squamous epithelioma is not a typical feature of Loeys-Dietz Syndrome, the comprehensive phenotype of the similar reference cases (Arterial tortuosity, Ascending tubular aorta aneurysm, Hypertelorism, Talipes equinovarus, and Bifid uvula) is highly characteristic of Loeys-Dietz Syndrome. It is plausible that the patient, currently presenting only with the epithelioma, could develop these broader systemic features. This suggests a potential overlap syndrome or a rare presentation of Loeys-Dietz, making it a strong differential diagnosis based on the full clinical picture provided by the guiding cases."
+    }
+  ]
+}

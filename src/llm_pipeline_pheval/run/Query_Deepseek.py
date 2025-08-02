@@ -156,7 +156,7 @@ def Extract_Data_query_deepseek(
         
         client = genai.Client()
         response = client.models.generate_content(
-            model="gemini-2.5-pro", contents= prompt
+            model="gemini-2.5-flash", contents= prompt
         )
 
         raw = response.text

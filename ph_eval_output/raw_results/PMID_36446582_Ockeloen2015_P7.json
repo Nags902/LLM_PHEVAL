@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as all presented phenotypic features (Macrodontia, Abnormality of the hand, Short stature, and Delayed skeletal maturation) are hallmark features of KBG syndrome. Furthermore, the similar reference cases directly link this specific combination of features (including Delayed skeletal maturation in Case 3) to a diagnosis of KBG syndrome, providing strong confirmatory evidence."
+    },
+    {
+      "disease_name": "Oculofaciocardiodental syndrome",
+      "disease_id": "OMIM:300062",
+      "score": 0.5,
+      "explanation": "This syndrome is considered as a secondary possibility due to the presence of key overlapping features such as Macrodontia and Abnormality of the hand (e.g., brachydactyly, clinodactyly). While short stature can be present, delayed skeletal maturation is less consistently reported as a primary feature compared to KBG syndrome, making it a less precise fit but still relevant given the dental and hand anomalies."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 1.0,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is highly associated with the patient's core features including seizures, autistic behavior, ADHD, and developmental delays. Strabismus and psychiatric manifestations like depression are also known comorbidities. TSC2 mutations are often associated with a more severe neurological phenotype."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "As a leading genetic cause of inherited intellectual disability, Fragile X Syndrome frequently presents with delayed speech and language development, ADHD, and autistic behaviors. Seizures are reported in a subset of patients (around 20%), and depression is also a known comorbidity, making it a strong candidate."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.333,
+      "explanation": "Phelan-McDermid Syndrome, often due to 22q13.3 deletion including SHANK3, is characterized by significant speech and language delay, intellectual disability, and a high prevalence of autistic features. Seizures are observed in approximately 25-50% of affected individuals, and strabismus is also a common associated finding."
+    },
+    {
+      "disease_name": "GRIN2B-related Neurodevelopmental Disorder",
+      "disease_id": "OMIM:614361",
+      "score": 0.25,
+      "explanation": "This disorder is strongly linked to developmental delay, intellectual disability, significant language impairment, epilepsy (seizures), and autistic behaviors. Strabismus has also been reported in affected individuals, aligning well with the patient's phenotype."
+    },
+    {
+      "disease_name": "Chromosome 15q11.2-q13.1 Duplication Syndrome",
+      "disease_id": "OMIM:608636",
+      "score": 0.2,
+      "explanation": "This chromosomal anomaly is a recognized genetic cause of Autism Spectrum Disorder, intellectual disability, and epilepsy (often severe). Delayed speech and strabismus are also frequently associated features, making it a plausible candidate."
+    }
+  ]
+}

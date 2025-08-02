@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:612075",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation, including progressive peripheral neuropathy (distal weakness, amyotrophy, sensory impairment, areflexia), central nervous system involvement (hyperintensity of cerebral white matter), significant hepatic dysfunction (hepatic steatosis, hepatomegaly), and crucially, multiple mitochondrial DNA deletions, aligns almost perfectly with the features of Mitochondrial DNA depletion syndrome 6. The provided reference cases, all diagnosed with this specific syndrome, exhibit extensive phenotypic overlap with the patient's symptoms, making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 2 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 0.5,
+      "explanation": "While Mitochondrial DNA depletion syndrome 6 is the most direct match due to the reference cases, other genes can cause hepatocerebral forms of mitochondrial DNA depletion syndrome. Type 2, caused by mutations in DGUOK, presents with severe hepatocerebral manifestations including liver failure, neurological symptoms, and mtDNA depletion, closely mirroring the patient's phenotype and the broader category of diseases indicated by the multiple mitochondrial DNA deletions."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.333,
+      "explanation": "Alpers-Huttenlocher syndrome, caused by mutations in the POLG gene, is a severe progressive encephalopathy that often includes liver dysfunction (hepatic steatosis/failure), peripheral neuropathy, and can be associated with multiple mitochondrial DNA deletions. While typically presenting in early childhood and often involving seizures, the combination of significant hepatopathy, CNS white matter changes, and peripheral neuropathy in the context of multiple mitochondrial DNA deletions makes it a relevant differential diagnosis."
+    }
+  ]
+}

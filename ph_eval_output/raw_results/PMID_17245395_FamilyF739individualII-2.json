@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease is directly suggested by two of the three provided reference cases (Case 2 and Case 3), both of which featured Hyperuricemia as a presenting symptom. Hyperuricemia is a common and often early manifestation of this condition (also known as Uromodulin-associated kidney disease or Medullary Cystic Kidney Disease Type 1), frequently preceding or occurring concurrently with other features like kidney dysfunction or gout, which aligns with the patient's isolated hyperuricemia at 17 years old."
+    },
+    {
+      "disease_name": "Lesch-Nyhan syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.5,
+      "explanation": "Lesch-Nyhan syndrome is a well-known X-linked genetic disorder of purine metabolism characterized by severe hyperuricemia due to purine overproduction. While typically associated with neurological dysfunction and self-mutilation, hyperuricemia is the fundamental biochemical hallmark and can be the primary or sole initial presenting feature, especially in very early stages or in atypical presentations."
+    },
+    {
+      "disease_name": "Phosphoribosylpyrophosphate synthetase superactivity",
+      "disease_id": "OMIM:300661",
+      "score": 0.33,
+      "explanation": "This is another rare genetic disorder of purine metabolism resulting from a gain-of-function mutation in the PRPS1 gene, leading to increased purine synthesis and subsequent hyperuricemia. It can cause early-onset gout and hyperuricemia, with or without associated neurological features."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.25,
+      "explanation": "Glycogen Storage Disease Type Ia (Von Gierke Disease) is a metabolic disorder that can cause hyperuricemia. The hyperuricemia in this condition is secondary to chronic lactic acidosis, which competitively inhibits uric acid excretion by the kidneys. While typically presenting with hypoglycemia, hepatomegaly, and lactic acidosis, hyperuricemia is a consistent biochemical feature that may be noted."
+    }
+  ]
+}

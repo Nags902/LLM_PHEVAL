@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the direct and strong overlap with the patient's core phenotypic features, including Nyctalopia, Reduced visual acuity, Postaxial polydactyly, and Obesity, all of which are cardinal signs of Bardet-Biedl syndrome. The similar reference cases were all specifically diagnosed with Bardet-Biedl syndrome 1 and present with a highly congruent phenotypic profile (Postaxial polydactyly, Reduced visual acuity, Nyctalopia, Obesity), strongly reinforcing this primary diagnosis. Ptosis and Astigmatism are not primary features but can be associated with ocular involvement in the syndrome."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.5,
+      "explanation": "Bardet-Biedl syndrome is a genetically heterogeneous disorder with multiple subtypes, all sharing a common core phenotype. BBS2, like BBS1, presents with a highly similar clinical picture encompassing rod-cone dystrophy (leading to nyctalopia and reduced visual acuity), postaxial polydactyly, and obesity. While BBS1 was indicated by reference cases, BBS2 is a common and phenotypically indistinguishable subtype, making it a very strong differential within the same disease spectrum, accounting for genetic variability with identical presentation."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.3333333333333333,
+      "explanation": "Alstr\u00f6m Syndrome shares some significant phenotypic overlap with the patient, particularly early-onset obesity and progressive cone-rod dystrophy (leading to nyctalopia and reduced visual acuity). However, a key differentiating factor is the absence of postaxial polydactyly, which is a prominent feature in the patient and a cardinal sign of Bardet-Biedl syndrome. Despite this, it remains an important differential due to the shared severe visual impairment and metabolic features."
+    }
+  ]
+}

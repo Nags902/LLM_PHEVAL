@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microphthalmia, syndromic 11, with or without chorioretinal coloboma",
+      "disease_id": "OMIM:615712",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly corresponds to the diagnosis ('Microphthalmia/coloboma 11') consistently found in the similar reference cases. The patient's phenotypic features (Nystagmus, Strabismus, Microphthalmia, Iris coloboma, Optic disc coloboma, Chorioretinal coloboma) are all cardinal manifestations of this condition, caused by variants in the RARB gene."
+    },
+    {
+      "disease_name": "Anophthalmia-microphthalmia-coloboma syndrome, SOX2-related",
+      "disease_id": "OMIM:206920",
+      "score": 0.5,
+      "explanation": "SOX2-related anophthalmia-microphthalmia-coloboma syndrome is a major cause of severe ocular malformations, including microphthalmia and various types of coloboma (iris, chorioretinal, optic disc), along with associated features like nystagmus and strabismus, all of which are present in the patient. While it can have systemic features, isolated ocular findings are also common, making it a strong match for the patient's phenotype."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated, with coloboma 3",
+      "disease_id": "OMIM:600582",
+      "score": 0.33,
+      "explanation": "This condition (MCOPC3), caused by variants in the VSX2 (formerly CHX10) gene, is characterized by isolated microphthalmia and coloboma. The patient's presentation of multiple ocular colobomas, microphthalmia, nystagmus, and strabismus, without mention of other systemic features, aligns well with an isolated ocular phenotype like MCOPC3."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated, with coloboma 6",
+      "disease_id": "OMIM:610092",
+      "score": 0.25,
+      "explanation": "MCOPC6, caused by variants in the OTX2 gene, presents with a spectrum of ocular abnormalities ranging from anophthalmia to microphthalmia and coloboma. This makes it a very relevant differential diagnosis for the patient's constellation of microphthalmia, iris coloboma, optic disc coloboma, and chorioretinal coloboma, particularly if the features are primarily confined to the eyes."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.2,
+      "explanation": "CHARGE syndrome is a well-established cause of coloboma (the 'C' in CHARGE), which is a key feature in the patient's presentation. Although CHARGE is a multi-system disorder and the patient only has reported ocular features, coloboma can be a prominent manifestation, and not all CHARGE features are always present or immediately apparent. Therefore, it remains a plausible differential, especially in the context of congenital coloboma."
+    }
+  ]
+}

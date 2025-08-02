@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient presents with 'Freckling' and 'Multiple cafe-au-lait spots', which are two cardinal diagnostic criteria for Neurofibromatosis, type 1 (NF1), particularly axillary or inguinal freckling. All three provided similar reference cases with identical or highly related phenotypic features (Freckling, Multiple cafe-au-lait spots, Axillary freckling, Inguinal freckling) were diagnosed as Neurofibromatosis, type 1, strongly supporting this as the most likely diagnosis."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611490",
+      "score": 0.5,
+      "explanation": "Legius Syndrome is an NF1-like disorder caused by mutations in the SPRED1 gene. It shares key cutaneous features with NF1, specifically multiple cafe-au-lait spots and axillary/inguinal freckling, but typically lacks other NF1 manifestations such as neurofibromas, Lisch nodules, or optic pathway gliomas. Given the patient's presented features, Legius Syndrome is a crucial differential diagnosis that closely mimics NF1 in terms of the reported signs."
+    }
+  ]
+}

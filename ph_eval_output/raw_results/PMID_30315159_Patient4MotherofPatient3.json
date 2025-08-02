@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Thrombocytopenia 8, with dysmorphic features and developmental delay (GATA1-related)",
+      "disease_id": "OMIM:300367",
+      "score": 1.0,
+      "explanation": "All of the patient's distinct phenotypic features, encompassing facial dysmorphism (e.g., broad/horizontal eyebrows, deeply set eyes, synophrys, telecanthus, upslanted palpebral fissures, thin upper lip, bulbous nose, wide mouth, mandibular prognathia), the characteristic hematological abnormalities (thrombocytopenia, platelet anisocytosis, increased mean platelet volume), and mild global developmental delay, align precisely with the features and diagnosis of all three provided similar reference cases. This strong concordance makes Thrombocytopenia 8 (THC8), which is caused by GATA1 gene mutations, the most probable diagnosis for this specific presentation."
+    },
+    {
+      "disease_name": "MYH9-related disease",
+      "disease_id": "OMIM:153650",
+      "score": 0.5,
+      "explanation": "This group of autosomal dominant disorders (including May-Hegglin anomaly, Fechtner syndrome, Sebastian syndrome, and Epstein syndrome) is characterized by a triad of thrombocytopenia, large platelets (increased mean platelet volume, platelet anisocytosis), and often Dohle-like inclusions in leukocytes. While the hematological features (thrombocytopenia, platelet anisocytosis, increased mean platelet volume) align well with the patient's findings, the specific constellation of facial dysmorphic features and global developmental delay are not typical or primary manifestations of MYH9-related disorders, making it a less likely diagnosis compared to the first choice, but a relevant differential given the core platelet phenotype."
+    }
+  ]
+}

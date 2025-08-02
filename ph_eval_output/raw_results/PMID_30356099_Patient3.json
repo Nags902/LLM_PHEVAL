@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616339",
+      "score": 1.0,
+      "explanation": "This disease is ranked first because all of the patient's phenotypic features (Thin corpus callosum, Cerebral atrophy, Epileptic spasm, Epileptic encephalopathy, Hypokinesia, Global developmental delay, EEG abnormality) are consistently present in the provided similar reference cases, all of which were diagnosed as Developmental and epileptic encephalopathy 28. This represents a perfect phenotypic match."
+    },
+    {
+      "disease_name": "SUCLA2-related encephalomyopathy",
+      "disease_id": "OMIM:612073",
+      "score": 0.5,
+      "explanation": "This mitochondrial DNA depletion disorder shares many significant features with the patient, including epileptic encephalopathy, global developmental delay, hypokinesia, cerebral atrophy, and epileptic spasms. While thin corpus callosum is less consistently reported, the overall severe neurological presentation aligns closely with the patient's condition, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.33,
+      "explanation": "Alpers-Huttenlocher syndrome is a severe neurodegenerative mitochondrial disorder characterized by progressive cerebral degeneration (atrophy), intractable seizures (including epileptic encephalopathy and spasms), global developmental delay/regression, and hypokinesia. These core features overlap significantly with the patient's presentation, although thin corpus callosum is not a primary defining feature."
+    }
+  ]
+}

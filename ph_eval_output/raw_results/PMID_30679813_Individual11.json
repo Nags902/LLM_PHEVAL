@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Nicolaides-Baraitser syndrome",
+      "disease_id": "OMIM:601358",
+      "score": 1.0,
+      "explanation": "This syndrome aligns remarkably well with all the patient's reported phenotypic features: hypotonia, global developmental delay, short stature, deeply set eyes, and brachycephaly. Nicolaides-Baraitser syndrome, caused by mutations in SMARCA2, is characterized by severe developmental delay, short stature, and distinctive facial features including microcephaly/brachycephaly and deeply set eyes."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:614609",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome, particularly type 1 (due to ARID1B mutations), presents with significant overlap in symptoms. It commonly features hypotonia, global developmental delay, short stature, and brachycephaly. While specific digital anomalies are characteristic, deeply set eyes can also be a component of the variable facial dysmorphism. This syndrome shares a genetic pathway (BAF chromatin remodeling complex) with Nicolaides-Baraitser syndrome, explaining the phenotypic similarities."
+    },
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:618366",
+      "score": 0.333,
+      "explanation": "This disorder, caused by mutations in PPP2R1A, is directly referenced in two similar cases (Case 1 and 3) and matches several of the patient's key features, including hypotonia, global developmental delay, and deeply set eyes. However, the patient's short stature and brachycephaly are not consistently reported as primary features of this condition (microcephaly or macrocephaly may be seen instead)."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.25,
+      "explanation": "Smith-Magenis syndrome frequently includes hypotonia, global developmental delay, and brachycephaly, with variable short stature. While deeply set eyes are not a hallmark feature and other distinctive facial characteristics (e.g., broad face, prominent forehead, synophrys) are not listed for the patient, the presence of the other core features makes it a plausible, albeit less specific, consideration."
+    }
+  ]
+}

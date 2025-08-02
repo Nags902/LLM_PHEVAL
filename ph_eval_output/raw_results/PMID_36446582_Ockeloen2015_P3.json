@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient presents with Intellectual disability, Autistic behavior, Macrodontia, and Abnormality of the hand. These specific phenotypic features are precisely matched by all three provided reference cases, which were consistently diagnosed as KBG syndrome. This strong alignment with the reference cases and the known clinical spectrum of KBG syndrome makes it the most highly probable diagnosis."
+    },
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos syndrome is considered as a potential differential diagnosis due to significant phenotypic overlap. It commonly features Intellectual disability, Autistic behavior, and Macrodontia. While Sotos syndrome is typically associated with overgrowth and large hands (which could fall under 'Abnormality of the hand'), the absence of stated overgrowth in the patient makes it a less certain match than KBG syndrome but still a relevant consideration given the other shared features."
+    }
+  ]
+}

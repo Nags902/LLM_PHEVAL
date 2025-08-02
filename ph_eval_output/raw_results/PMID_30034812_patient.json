@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteopetrosis, autosomal dominant 2",
+      "disease_id": "OMIM:166600",
+      "score": 1.0,
+      "explanation": "This disease is highly consistent with the patient's core phenotypic features, including severe bone overgrowth leading to 'Cortical thickening of long bone diaphyses', 'Narrowing of medullary canal', and generalized 'Hyperostosis'. It also explains 'Bone pain', 'Shoulder pain', 'Waddling gait', and cranial involvement such as 'Prominent forehead', 'Proptosis', and 'Ptosis' due to nerve compression or orbital narrowing. While hypocalcemia is more typical of autosomal recessive forms, it can occur, and elevated alkaline phosphatase is also possible. The age of 35 years is more consistent with an autosomal dominant form."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal recessive 1",
+      "disease_id": "OMIM:259700",
+      "score": 0.5,
+      "explanation": "This severe form of osteopetrosis strongly accounts for the profound bone density abnormalities such as 'Cortical thickening of long bone diaphyses', 'Narrowing of medullary canal', and 'Hyperostosis'. Crucially, 'Hypocalcemia' and 'Elevated circulating alkaline phosphatase concentration' are very characteristic features of this specific type of osteopetrosis, reflecting impaired bone resorption and potential rickets-like changes. Cranial features like 'Prominent forehead', 'Proptosis', and 'Ptosis' are also well-explained by bone overgrowth. While often manifesting in infancy, milder or late-onset presentations cannot be entirely ruled out, and the unique combination of hypocalcemia with osteosclerosis is highly suggestive."
+    },
+    {
+      "disease_name": "Craniometaphyseal dysplasia, autosomal dominant",
+      "disease_id": "OMIM:123000",
+      "score": 0.333,
+      "explanation": "This disease, referenced in the similar cases, shares several features with the patient, including 'Elevated circulating alkaline phosphatase concentration', 'Hyperostosis' (especially cranial and facial, manifesting as 'Prominent forehead'), and symptoms like 'Proptosis' and 'Ptosis' which can arise from cranial nerve compression due to bone overgrowth. It also causes 'Bone pain' and 'Shoulder pain'. However, it is less typical for 'Hypocalcemia' and its classic long bone involvement is 'Flared metaphysis' (as seen in reference cases) rather than the pronounced 'Cortical thickening of long bone diaphyses' and 'Narrowing of medullary canal' observed in this patient. Despite these differences, significant phenotypic overlap warrants its consideration."
+    }
+  ]
+}

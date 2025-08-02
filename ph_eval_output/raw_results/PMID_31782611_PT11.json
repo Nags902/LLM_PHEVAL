@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 9",
+      "disease_id": "OMIM:617894",
+      "score": 1.0,
+      "explanation": "This condition is an excellent match due to the presence of microcephaly, severe intellectual disability, global developmental delay (motor and speech), cerebellar hypoplasia, strabismus, and specifically, sensorineural hearing impairment, which is a key feature of PCH9 (DDX19B-related). This precisely aligns with the patient's comprehensive phenotype, making it the top candidate."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Iq (SRD5A3-CDG)",
+      "disease_id": "OMIM:612300",
+      "score": 0.5,
+      "explanation": "SRD5A3-CDG is a very strong candidate as it characteristically presents with the core features observed in the patient: microcephaly, cerebellar hypoplasia, severe global developmental delay (motor and speech), intellectual disability, sensorineural hearing impairment, and strabismus/ocular abnormalities. The combination of these specific features makes it a highly relevant diagnosis."
+    },
+    {
+      "disease_name": "CASK-related disorder (Microcephaly with pontine and cerebellar hypoplasia, X-linked)",
+      "disease_id": "OMIM:300749",
+      "score": 0.33,
+      "explanation": "Given the patient's gender (2 typically denoting female), CASK-related disorder is a highly plausible diagnosis. It is characterized by severe microcephaly, pontine and cerebellar hypoplasia, severe intellectual disability, motor and speech delay, and strabismus. While sensorineural hearing impairment is less consistently reported than in PCH9 or SRD5A3-CDG, it has been observed in some cases, making it a strong fit for the brain and ocular anomalies."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 14",
+      "disease_id": "OMIM:616339",
+      "score": 0.25,
+      "explanation": "PCH14 (ATAD3A-related) is another strong contender within the Pontocerebellar Hypoplasia spectrum that closely matches the patient's phenotype. Key features include microcephaly, intellectual disability, global developmental delay, cerebellar hypoplasia, and sensorineural hearing impairment, directly addressing the majority of the patient's symptoms."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2",
+      "disease_id": "OMIM:610204",
+      "score": 0.2,
+      "explanation": "PCH2 (TSEN54-related) is the most common subtype of pontocerebellar hypoplasia and typically presents with severe developmental delay, microcephaly, profound intellectual disability, cerebellar hypoplasia, and often strabismus. While sensorineural hearing impairment is less consistently reported compared to other PCH types, its prevalence and the strong alignment with core neurological and brain imaging features make it a relevant consideration."
+    },
+    {
+      "disease_name": "Zellweger syndrome spectrum",
+      "disease_id": "OMIM:609096",
+      "score": 0.1666,
+      "explanation": "Zellweger syndrome spectrum, a group of peroxisome biogenesis disorders, can cause a broad range of neurological manifestations including microcephaly, profound intellectual disability, developmental delay, cerebellar hypoplasia, and sensorineural hearing impairment. While often presenting with additional systemic features, the significant overlap in neurological and sensory symptoms makes it a plausible differential diagnosis."
+    }
+  ]
+}

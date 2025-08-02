@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "This syndrome is a very strong candidate due to the highly characteristic combination of core features matching the patient, including 'square face', 'deeply set eye', 'depressed nasal bridge', 'anxiety', 'strabismus', and significant 'developmental delays' (delayed speech and language development, motor delay, feeding difficulties). While 'synophrys' and 'full cheeks' are not hallmark features, bushy eyebrows and coarse facial features can be seen. Hypermetropia is less typical but does not exclude the diagnosis."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:614607",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome is a strong contender given the presence of several key overlapping features: 'full cheeks', 'synophrys', 'depressed nasal bridge', 'antecverted nares', 'deeply set eye', 'strabismus', and 'developmental delays' (delayed speech and language development, motor delay, feeding difficulties). While 'square face' is not a hallmark of CSS, the overall combination of dysmorphic facial features and developmental challenges is highly suggestive."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with coarse facies and mild distal skeletal abnormalities",
+      "disease_id": "OMIM:619074",
+      "score": 0.3333333333333333,
+      "explanation": "This disorder, diagnosed in Reference Case 1, is a significant candidate due to the strong phenotypic overlap with the patient. Shared features include 'square face', 'depressed nasal bridge', 'antecverted nares', 'strabismus', 'motor delay', 'delayed speech and language development', 'feeding difficulties', and 'mild hypermetropia'. The 'coarse facies' description aligns well with the patient's 'full cheeks'."
+    },
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:618776",
+      "score": 0.25,
+      "explanation": "ReNU syndrome (as seen in Reference Case 2) presents with a high number of overlapping features including 'full cheeks', 'deeply set eye', 'drooling', 'antecverted nares', 'depressed nasal bridge', 'strabismus', 'delayed speech and language development', 'feeding difficulties', 'motor delay', and 'anxiety'. However, the typical clinical spectrum of ReNU syndrome is much broader, often encompassing severe neurological and physical findings that are not reported in this patient, thus placing it lower in the ranking despite the significant feature match."
+    }
+  ]
+}

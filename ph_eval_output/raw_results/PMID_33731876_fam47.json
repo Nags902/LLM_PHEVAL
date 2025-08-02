@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:617937",
+      "score": 1.0,
+      "explanation": "This disease is highly consistent with the patient's presentation, encompassing Autism, CNS hypomyelination, EEG with abnormally slow frequencies, Hypsarrhythmia, Infantile spasms, Intellectual disability, severe, and Hypotonia. Notably, Reference Case 2 provides an exceptionally close match, explicitly featuring CNS hypomyelination alongside the other core neurological and developmental symptoms seen in the patient, and was diagnosed as DEE11. Reference Case 1 further supports this by showing a similar cluster of severe epileptic and developmental features leading to the same diagnosis."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "This disease is another very strong candidate for the patient's condition, as it aligns closely with the clinical picture and is highlighted by Reference Case 3. Key overlapping features include Infantile spasms, Hypsarrhythmia, Intellectual disability (severe), Autism, and EEG with abnormally slow frequencies. The 'Delayed CNS myelination' mentioned in Reference Case 3 is highly analogous to the patient's CNS hypomyelination. STXBP1-related encephalopathy (DEE4) is a well-established cause of severe early-onset epileptic encephalopathy with profound neurodevelopmental impairment."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.333,
+      "explanation": "Pelizaeus-Merzbacher disease is a classic hypomyelinating leukodystrophy, characterized by severe CNS hypomyelination, intellectual disability, and hypotonia, all of which are prominent features in the patient. While infantile spasms are not the most common or primary seizure type in PMD, seizures can occur in affected individuals, and the overall severe neurological impairment due to demyelination makes it a relevant differential diagnosis that specifically addresses the hypomyelination feature."
+    }
+  ]
+}

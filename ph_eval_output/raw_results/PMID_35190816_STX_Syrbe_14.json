@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly aligns with the diagnoses from two highly similar reference cases. The patient's presentation of infantile spasms, focal motor seizures, EEG with focal epileptiform discharges and hypsarrhythmia, combined with severe global developmental delay, inability to walk, and absent speech, strongly matches the clinical features of Developmental and epileptic encephalopathy 4 (often associated with STXBP1 gene mutations)."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder (Developmental and epileptic encephalopathy 2)",
+      "disease_id": "OMIM:613945",
+      "score": 0.5,
+      "explanation": "CDKL5 deficiency disorder (also known as DEE2) is a well-recognized and common cause of early-onset, severe epileptic encephalopathy. It frequently presents with infantile spasms, other seizure types, severe global developmental delay, profound motor impairment (inability to walk), and absent speech, mirroring the patient's comprehensive phenotype. Given the female gender, it is a strong differential."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy (Developmental and epileptic encephalopathy 1)",
+      "disease_id": "OMIM:613721",
+      "score": 0.33,
+      "explanation": "Mutations in the KCNQ2 gene are a significant cause of early infantile epileptic encephalopathy (DEE1), which manifests with early-onset seizures (often including focal seizures and infantile spasms), severe developmental delay, and intellectual disability. These features are highly consistent with the patient's clinical picture."
+    },
+    {
+      "disease_name": "SCN2A-related epileptic encephalopathy (Developmental and epileptic encephalopathy 3)",
+      "disease_id": "OMIM:613722",
+      "score": 0.25,
+      "explanation": "SCN2A gene mutations can lead to a spectrum of epilepsies, including severe early infantile epileptic encephalopathy (DEE3). This condition is characterized by intractable seizures, including infantile spasms and focal seizures, along with profound developmental delay, aligning well with the patient's presentation."
+    },
+    {
+      "disease_name": "PCDH19-related epilepsy (Developmental and epileptic encephalopathy 9)",
+      "disease_id": "OMIM:614982",
+      "score": 0.2,
+      "explanation": "PCDH19-related epilepsy is an X-linked disorder primarily affecting females. It typically presents with early-onset seizures, often in clusters, which can include infantile spasms. Developmental delay and intellectual disability are also common, making it a relevant consideration given the patient's female gender and seizure semiology."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.16,
+      "explanation": "West Syndrome is the classic clinical triad of infantile spasms, hypsarrhythmia on EEG, and developmental arrest or regression. All three defining features are explicitly present in the patient's profile. While it is a syndromic diagnosis rather than an underlying genetic cause, it precisely describes the patient's core neurological condition."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.14,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is a well-known cause of symptomatic infantile spasms and global developmental delay, often due to cortical tubers that act as epileptogenic foci. While no other specific signs of TSC were provided, it is a common etiology for this severe epileptic encephalopathy phenotype. TSC2 is generally associated with more severe neurological manifestations than TSC1."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.125,
+      "explanation": "Similar to TSC2, Tuberous Sclerosis Complex 1 is an important differential diagnosis for infantile spasms and developmental delay. It results in similar neurological features, though often presents with a milder phenotype compared to TSC2, and remains a significant consideration for a patient with these symptoms."
+    }
+  ]
+}

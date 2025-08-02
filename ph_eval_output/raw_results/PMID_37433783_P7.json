@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Coffin-Siris Syndrome 1 (caused by ARID1B mutations) is a strong candidate given the patient's prominent phenotypic features. Key matches include severe intellectual disability, autism, global developmental delays (gross motor, fine motor, speech, social), and specific dysmorphic features such as prominent fingertip pads, thick eyebrows, hypoplastic nasal bridge, and midface retrusion. This syndrome fits the general description of 'Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities' as seen in the reference cases."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome 1 (caused by KMT2D mutations) is another highly relevant candidate. It shares significant phenotypic overlap with the patient's presentation, including intellectual disability, autism, global developmental delays, and distinctive facial features such as thick/arched eyebrows. Importantly, dermatoglyphic abnormalities like prominent fetal pads are characteristic, which aligns with the patient's prominent fingertip pads. While some specific facial features may differ slightly in typical descriptions, the overall constellation of neurodevelopmental and dysmorphic signs makes it a strong possibility."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 2",
+      "disease_id": "OMIM:614607",
+      "score": 0.33,
+      "explanation": "Coffin-Siris Syndrome 2 (caused by ARID1A mutations) presents with a clinical spectrum highly similar to Coffin-Siris Syndrome 1. It shares the core features observed in the patient, including intellectual disability, developmental delays, autism, and characteristic dysmorphic features like prominent fingertip pads, thick eyebrows, and nasal bridge anomalies. As a common subtype of Coffin-Siris Syndrome, it remains a very plausible diagnosis."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.25,
+      "explanation": "Kabuki Syndrome 2 (caused by KDM6A mutations) is a less common but phenotypically similar variant of Kabuki Syndrome. Like Kabuki Syndrome 1, it is characterized by intellectual disability, developmental delays, and distinct facial features that include broad/arched eyebrows and potential dermatoglyphic patterns such as prominent fingertip pads. The overall pattern of neurodevelopmental delay with dysmorphic features observed in the patient is consistent with this diagnosis, although KMT2D-related Kabuki Syndrome is more prevalent."
+    }
+  ]
+}

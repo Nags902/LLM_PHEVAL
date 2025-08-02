@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615462",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it is explicitly mentioned in two out of the three similar reference cases (Case 2 and Case 3) that presented with Autism or Autistic behavior. Its name directly includes 'autism,' which is the patient's only listed phenotypic feature, making it a highly relevant and direct match based on the provided guidance."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:613477",
+      "score": 0.5,
+      "explanation": "This disease is present in one of the similar reference cases (Case 1) where Autism was a key feature. While its primary defining feature is epilepsy, developmental and epileptic encephalopathies are known to have a significant comorbidity with autism spectrum disorder, making it a plausible candidate for a patient presenting with Autism."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.3333333333333333,
+      "explanation": "Although not explicitly listed in the provided reference cases, Fragile X syndrome is the most common inherited cause of intellectual disability and autism spectrum disorder. Given that the patient's sole listed symptom is 'Autism' and no other specific features are provided, it is a crucial consideration in the differential diagnosis of isolated autism, representing a common genetic etiology."
+    }
+  ]
+}

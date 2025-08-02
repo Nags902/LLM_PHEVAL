@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, RTEL1-related",
+      "disease_id": "OMIM:615121",
+      "score": 1.0,
+      "explanation": "This diagnosis perfectly aligns with all major phenotypic features: short telomere length, severe pulmonary fibrosis (Usual interstitial pneumonia, decreased DLCO, inspiratory crackles, clubbing), extensive hepatic manifestations (hepatic failure, nodular regenerative hyperplasia, portal hypertension, gastric varix, esophageal varix, splenomegaly), and thrombocytopenia. The reference cases were specifically diagnosed with 'Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 8,' which strongly implicates *RTEL1* as a causative gene, known for this multisystem phenotype including prominent liver disease (nodular regenerative hyperplasia) and pulmonary fibrosis."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, TERT-related, Autosomal Dominant",
+      "disease_id": "OMIM:613989",
+      "score": 0.5,
+      "explanation": "*TERT* mutations are a common cause of telomeropathy, frequently leading to adult-onset pulmonary fibrosis and bone marrow failure (thrombocytopenia), which are key features in this patient. Hepatic involvement, including nodular regenerative hyperplasia, portal hypertension, and hepatic failure, is also well-documented in *TERT*-related telomeropathies. While the classical mucocutaneous features of DC are not listed, they are often absent or subtle in adult-onset cases, making *TERT*-related DC a very strong candidate."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, DKC1-related, X-linked",
+      "disease_id": "OMIM:305000",
+      "score": 0.33,
+      "explanation": "*DKC1* mutations cause X-linked Dyskeratosis Congenita, a classic telomere biology disorder that accounts for a significant proportion of DC cases. The phenotype includes progressive bone marrow failure (thrombocytopenia), pulmonary fibrosis (UIP), and severe liver disease, including nodular regenerative hyperplasia and portal hypertension, all of which are present in the patient. Although X-linked, affected females (gender 2) can present due to skewed X-inactivation or milder phenotypes, making it a plausible diagnosis given the comprehensive match of organ involvement."
+    }
+  ]
+}

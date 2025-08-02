@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong candidate due to the presence of prominent interphalangeal joints, a highly characteristic feature. It also classically presents with intellectual disability, hypotonia, and seizures, all major features in the patient. While specific lip and ear dysmorphism may vary, general facial anomalies are common, and hypertrichosis is sometimes reported."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Pitt-Hopkins Syndrome aligns well with the patient's core neurodevelopmental features including intellectual disability, global developmental delay, autistic behavior, seizures, and hypotonia. A key facial feature, everted lower lip vermilion, is highly characteristic of this syndrome. Other facial features and growth parameters can be variable, potentially encompassing thin upper lip and decreased body weight."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome type 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Rubinstein-Taybi Syndrome is a strong consideration due to the presence of intellectual disability, seizures, thin upper lip vermilion, and hand anomalies that can manifest as prominent interphalangeal joints (e.g., broad thumbs). Hypotonia and sparse hair are also features that can be seen in this condition, aligning with the patient's presentation."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome type 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.33,
+      "explanation": "Similar to Rubinstein-Taybi Syndrome type 1, this subtype also presents with intellectual disability, seizures, thin upper lip vermilion, and broad thumbs/toes which could relate to prominent interphalangeal joints. This disease is included to encompass all major genetic causes of Rubinstein-Taybi Syndrome."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE Syndrome is a significant candidate given the highly specific ear anomalies of microtia and low-set ears present in the patient. It also frequently involves intellectual disability, global developmental delay, hypotonia, seizures, and autistic behavior. While other facial features like lip shape and prominent joints are less typical, CHARGE syndrome has highly variable clinical presentation."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome",
+      "disease_id": "OMIM:610253",
+      "score": 0.2,
+      "explanation": "Kleefstra Syndrome is a strong candidate for the shared neurodevelopmental and behavioral features including intellectual disability, global developmental delay, hypotonia, seizures, and autistic behavior. The everted lower lip vermilion is also a common and distinctive facial feature of this syndrome. Other dysmorphic features can be variable."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616390",
+      "score": 1.0,
+      "explanation": "This disease is the confirmed diagnosis in all three provided similar reference cases, which exhibit an extensive overlap of phenotypic features with the patient. The patient's features, including coarse facial features, 11 pairs of ribs, long philtrum, tented upper lip vermilion, epicanthus, hirsutism, absent speech, motor delay, global developmental delay, and hypotonia, are all highly characteristic of HIPRF3. The strong concordance with the reference cases and specific, less common features like 11 pairs of ribs make this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Alpha-mannosidosis",
+      "disease_id": "OMIM:248500",
+      "score": 0.5,
+      "explanation": "Alpha-mannosidosis is considered as a differential diagnosis due to the presence of several overlapping features, such as coarse facial features, global developmental delay, motor delay, absent speech, hypotonia, and hirsutism. While skeletal anomalies can occur, the specific finding of 11 pairs of ribs is not as characteristic as it is for Hypotonia, infantile, with psychomotor retardation and characteristic facies 3, and the overall facial gestalt is less precisely matched."
+    }
+  ]
+}

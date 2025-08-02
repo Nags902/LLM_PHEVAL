@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 1.0,
+      "explanation": "Dravet Syndrome is a severe epileptic encephalopathy characterized by prolonged febrile and afebrile seizures (including status epilepticus, as seen in the patient), often myoclonic seizures, and global developmental delay. Hypotonia is a common early feature, and nystagmus can be present. The patient's presentation of status epilepticus, myoclonus, global developmental delay, and hypotonia aligns strongly with this diagnosis. The seizure diversity observed in the similar reference cases (myoclonic, atonic, tonic-clonic, infantile spasms, febrile) further supports this, as Dravet Syndrome typically involves multiple seizure types."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder is an X-linked dominant epileptic encephalopathy that primarily affects females, characterized by early-onset intractable seizures (including myoclonic), severe global developmental delay, hypotonia, and often visual impairment including nystagmus. The patient's gender (female), presence of myoclonus, status epilepticus, severe developmental delay, hypotonia, and nystagmus are highly consistent with this condition, making it a strong candidate, especially given the pattern of epileptic encephalopathy and developmental delay seen in the reference cases."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.333,
+      "explanation": "STXBP1 encephalopathy is a neurodevelopmental disorder characterized by early-onset epileptic encephalopathy, severe global developmental delay, and hypotonia. Various seizure types, including myoclonic seizures, are common. The patient's comprehensive set of neurological symptoms, including status epilepticus, myoclonus, profound developmental delay, and hypotonia, are highly indicative of this condition, which is a significant cause of such presentations, mirroring the complexity of the reference cases."
+    },
+    {
+      "disease_name": "Myoclonic Epilepsy and Ragged Red Fibers (MERRF) Syndrome",
+      "disease_id": "OMIM:545000",
+      "score": 0.25,
+      "explanation": "MERRF is a progressive mitochondrial encephalomyopathy primarily characterized by myoclonus, seizures (including myoclonic and generalized tonic-clonic), ataxia, and muscle weakness. Global developmental delay, hypotonia, and nystagmus are also common features. The explicit presence of myoclonus and seizures (status epilepticus), along with developmental delay and hypotonia, makes MERRF a plausible diagnosis, representing a metabolic cause for the observed phenotype."
+    },
+    {
+      "disease_name": "GNAO1-Related Disorder",
+      "disease_id": "OMIM:616335",
+      "score": 0.2,
+      "explanation": "GNAO1-related disorder encompasses a spectrum of neurodevelopmental conditions, often presenting with movement disorders (such as dystonia, chorea, and myoclonus), epilepsy (including refractory seizures), and global developmental delay. Hypotonia and nystagmus can also be observed. The patient's myoclonus, status epilepticus, global developmental delay, hypotonia, and nystagmus align with the variable but often severe neurological phenotype associated with GNAO1 mutations."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to an exceptional match with all of the patient's phenotypic features, including tube feeding, intellectual disability, global developmental delay, chronic constipation, talipes equinovarus, hypermetropia, depression, anxiety, developmental regression, and microcephaly. This aligns perfectly with Reference Case 2, which was diagnosed as Kleefstra syndrome 1 and presented with this exact constellation of features."
+    },
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:620241",
+      "score": 0.5,
+      "explanation": "ReNU syndrome is a strong second candidate, as evidenced by Reference Case 3. It shares several key features with the patient, including intellectual disability, global developmental delay, chronic constipation, microcephaly, anxiety, tube feeding, and developmental regression (implied by neurodegeneration and loss of skills). However, it does not explicitly list talipes equinovarus, hypermetropia, or depression as core features, making it a slightly less comprehensive match compared to Kleefstra syndrome 1."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.333,
+      "explanation": "Alpers-Huttenlocher syndrome, a severe neurodegenerative condition, is considered due to the presence of developmental regression, microcephaly (often progressive), intellectual disability, and global developmental delay. These patients often require tube feeding due to severe neurological impairment. While specific features like chronic constipation, talipes equinovarus, hypermetropia, depression, and anxiety are not always hallmark features, they can occur secondarily or as part of the broader neurological dysfunction, making it a plausible differential for a progressive encephalopathy."
+    }
+  ]
+}

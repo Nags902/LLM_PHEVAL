@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hutchinson-Gilford progeria",
+      "disease_id": "OMIM:176670",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. All of the patient's phenotypic features (Proptosis, Hypermetropia, High palate, Failure to thrive, Lipodystrophy, Short stature, Prolonged QT interval, Delayed eruption of teeth, Shark teeth, Circumoral cyanosis, Micrognathia, Alopecia, Mottled pigmentation, Reduced subcutaneous adipose tissue, Prominent superficial blood vessels, Reduced bone mineral density, Ankyloglossia) are hallmark characteristics of Hutchinson-Gilford progeria (HGP) and are explicitly present in the provided reference cases, all of which were diagnosed as HGP. The patient's age (10 years) is also consistent with the typical onset and progression of this condition."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type A",
+      "disease_id": "OMIM:248370",
+      "score": 0.5,
+      "explanation": "Mandibuloacral Dysplasia (MAD) is a progeroid syndrome that shares significant clinical overlap with Hutchinson-Gilford progeria, making it a strong differential diagnosis. Key overlapping features include lipodystrophy, short stature, mottled pigmentation, reduced subcutaneous adipose tissue, prominent superficial blood vessels, micrognathia, delayed eruption of teeth, and reduced bone mineral density. While some specific features like 'shark teeth' and 'proptosis' are more strongly associated with HGP, MAD Type A is caused by mutations in LMNA, the same gene implicated in HGP, and presents with a similar spectrum of premature aging signs."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type B",
+      "disease_id": "OMIM:613706",
+      "score": 0.333,
+      "explanation": "Similar to Mandibuloacral Dysplasia Type A, Type B is another progeroid syndrome that presents with features such as lipodystrophy, short stature, micrognathia, and skeletal abnormalities, including reduced bone mineral density. It also overlaps with the dental anomalies seen in the patient (delayed eruption of teeth). While genetically distinct (caused by ZMPSTE24 mutations), its clinical presentation is very similar to Type A and warrants consideration in the differential diagnosis of a patient with progeroid features and lipodystrophy."
+    }
+  ]
+}

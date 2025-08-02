@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaricaciduria, type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "All reported phenotypic features are highly consistent with Glutaricaciduria, type I. The presence of elevated urine 3-hydroxyglutaric level, glutaric aciduria, and elevated circulating glutarylcarnitine concentration are pathognomonic for this disorder. The neurological findings, including cerebral atrophy, macrocephaly, subdural hemorrhage, and developmental regression, are well-known complications and common manifestations of Glutaricaciduria, type I, especially following metabolic crises in early childhood (P2Y fits this age profile). All similar reference cases provided, which exhibit an almost identical phenotypic profile to the patient, were definitively diagnosed as Glutaricaciduria, type I, strongly supporting this as the primary diagnosis."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Multiple Acyl-CoA Dehydrogenase Deficiency (MADD), also known as Glutaric Aciduria Type II, is considered a distant differential diagnosis due to some overlapping features with glutaric acid metabolism disorders. MADD can cause glutaric aciduria and severe neurological manifestations including developmental regression and cerebral atrophy. However, the specific elevation of 3-hydroxyglutaric acid is highly characteristic of Glutaricaciduria Type I and is not a primary or consistently elevated diagnostic marker for MADD. MADD typically presents with a broader profile of elevated acylcarnitines and other organic acids, which are not mentioned in the patient's specific metabolic findings, making it a significantly less likely diagnosis compared to Glutaricaciduria Type I."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteogenesis imperfecta, type IX",
+      "disease_id": "OMIM:613849",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to a significant overlap of phenotypic features with the patient. The patient presents with Osteopenia, Delayed gross motor development, Recurrent fractures, Proptosis, Pes planus, and Diaphyseal undertubulation. All these specific features are explicitly mentioned in Reference Case 1 for Osteogenesis imperfecta, type IX, making it an almost perfect match. This type of OI is caused by mutations in the BMP1 gene, affecting bone mineralization and modeling."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type VI",
+      "disease_id": "OMIM:610682",
+      "score": 0.5,
+      "explanation": "Osteogenesis imperfecta, type VI, is a strong candidate. It is characterized by severe osteopenia, recurrent fractures, and bone modeling defects that can include undertubulation of diaphyses, similar to the patient's presentation. While Proptosis and Pes planus are not universally classic features, they can occur in the context of broader connective tissue involvement. This type is caused by mutations in SERPINF1 (encoding pigment epithelium-derived factor, PEDF) and is known for its distinctive bone biopsy findings (fishnet pattern)."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type XV",
+      "disease_id": "OMIM:617173",
+      "score": 0.33,
+      "explanation": "This type of Osteogenesis imperfecta is also a relevant consideration. Reference Case 2 for OI type XV shares key features with the patient, including Osteopenia, Recurrent fractures, and Motor delay (delayed gross motor development). Although other specific features like Diaphyseal undertubulation or Proptosis are not explicitly listed in Case 2 or as primary features of this specific OI type, WNT1 mutations (which cause OI type XV) are crucial for bone formation and can lead to severe bone fragility and variable skeletal deformities."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type XIII",
+      "disease_id": "OMIM:614865",
+      "score": 0.25,
+      "explanation": "Osteogenesis imperfecta, type XIII, caused by TMEM38B mutations, is another severe recessive form of OI that fits the patient's general presentation of recurrent fractures, osteopenia, and delayed motor development. It is known to affect bone modeling, which could manifest as diaphyseal undertubulation. While less directly supported by the provided reference cases than type IX, it remains a plausible differential diagnosis within the spectrum of severe OI."
+    },
+    {
+      "disease_name": "Hypophosphatasia, childhood type",
+      "disease_id": "OMIM:241500",
+      "score": 0.2,
+      "explanation": "Hypophosphatasia is an important differential diagnosis for osteopenia and recurrent fractures in childhood due to defective bone mineralization. While it explains the core features of bone fragility, the specific features of Diaphyseal undertubulation, Proptosis, Pes planus, Flat occiput, and Narrow chest are not typical of Hypophosphatasia. Additionally, characteristic biochemical findings like low alkaline phosphatase are not mentioned in the patient's data, making it less likely than OI types, but still a disease to rule out."
+    },
+    {
+      "disease_name": "Spondyloepimetaphyseal dysplasia, Guo-Campeau type",
+      "disease_id": "OMIM:618364",
+      "score": 0.16,
+      "explanation": "While this condition (Reference Case 3) shares Osteopenia and Motor delay with the patient, it lacks the defining features of recurrent fractures, proptosis, pes planus, and critically, diaphyseal undertubulation. The patient does not present with the specific limb anomalies (absent toe, syndactyly), cardiac defects, or distinct facial features typical of Spondyloepimetaphyseal dysplasia, Guo-Campeau type. Therefore, it is considered a less likely diagnosis compared to the Osteogenesis Imperfecta spectrum."
+    }
+  ]
+}

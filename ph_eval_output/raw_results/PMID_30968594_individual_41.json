@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This diagnosis aligns perfectly with all three provided similar reference cases, which consistently exhibit a combination of Decreased serum testosterone concentration, Increased circulating ACTH level, and Increased circulating prolactin concentration. 21-hydroxylase deficiency leads to impaired cortisol synthesis, resulting in increased ACTH due to loss of negative feedback. While it typically causes androgen excess (which might lead to elevated testosterone in some contexts, or complex hormonal feedback), the presence of 'Decreased serum testosterone concentration' in the reference cases confirms it as a possible phenotypic feature. The increased circulating prolactin, though not a direct consequence of 21-hydroxylase deficiency, is a consistent feature in the guiding reference cases, suggesting a relevant association in these specific presentations. This includes both classic and non-classic forms of the disease."
+    },
+    {
+      "disease_name": "Cushing Disease",
+      "disease_id": "OMIM:131100",
+      "score": 0.5,
+      "explanation": "Cushing Disease, caused by an ACTH-secreting pituitary adenoma, directly explains the 'Increased circulating ACTH level'. The resulting hypercortisolism can lead to hypogonadism, accounting for 'Decreased serum testosterone concentration'. While not a primary feature, pituitary adenomas causing Cushing's can sometimes co-secrete prolactin or, if large, cause stalk compression leading to 'Increased circulating prolactin concentration'. This makes it a plausible differential diagnosis, as it can encompass all three phenotypic features, although the consistent presence of low cortisol in the reference cases for 21-hydroxylase deficiency (not explicitly stated for the patient) makes Cushing's a less direct fit without further cortisol data."
+    }
+  ]
+}

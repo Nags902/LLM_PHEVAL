@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome (17q12 deletion syndrome)",
+      "disease_id": "OMIM:614521",
+      "score": 1.0,
+      "explanation": "All of the patient's reported phenotypic features (Abnormality of the dentition, Delayed speech and language development, Global developmental delay, Delayed ability to walk) are consistently present in the provided similar reference cases diagnosed with Glass syndrome, indicating a strong phenotypic overlap and making it the most likely causative diagnosis."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1 (KMT2D-related)",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki syndrome 1 is a known genetic disorder characterized by global developmental delay, delayed speech and motor milestones (including delayed ability to walk), and frequently includes dental anomalies such as malocclusion or hypodontia, which align with the patient's reported features."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2 (KDM6A-related)",
+      "disease_id": "OMIM:617945",
+      "score": 0.5,
+      "explanation": "Similar to Kabuki syndrome 1, Kabuki syndrome 2 also presents with core features of global developmental delay, delayed speech and motor milestones, and often involves dental abnormalities, making it a plausible alternative diagnosis given the patient's phenotype."
+    }
+  ]
+}

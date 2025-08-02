@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaricaciduria, type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "All listed phenotypic features, including Macrocephaly, Cerebral atrophy, Subdural hemorrhage, Glutaric aciduria, and Dystonia, are highly characteristic of Glutaricaciduria, type I. This diagnosis is strongly supported by the direct alignment with all three provided reference cases, which exhibit an identical constellation of symptoms and are all diagnosed as Glutaricaciduria, type I. The presence of Glutaric aciduria is a specific metabolic hallmark of this condition."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Also known as Glutaric aciduria, type II (though 'Glutaric aciduria' as a standalone phenotype typically refers to type I), this condition involves elevations in glutaric acid among other metabolites due to deficiencies in multiple acyl-CoA dehydrogenases. While it can cause neurological symptoms and metabolic derangements, the specific constellation of macrocephaly, recurrent subdural hemorrhage, and predominant dystonia without other common MADD features (like cardiomyopathy or severe liver involvement) makes it a less typical fit compared to type I. However, given the requirement to list additional potential diseases and the metabolic overlap in glutaric acid accumulation, it remains a distant differential diagnosis."
+    }
+  ]
+}

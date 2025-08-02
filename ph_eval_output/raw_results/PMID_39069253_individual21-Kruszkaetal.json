@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DYRK1A-related intellectual disability",
+      "disease_id": "OMIM:614104",
+      "score": 1.0,
+      "explanation": "This disorder is a strong match for the patient's phenotype. Key features such as global developmental delay, autistic behavior, motor delay, delayed speech and language development are core to DYRK1A-related intellectual disability. Crucially, the prominent metopic ridge, broad philtrum, and highly arched eyebrows are well-documented facial features. Hearing impairment has also been reported in some individuals with this condition, further aligning with the patient's presentation and the presence of metopic anomalies in the similar reference cases."
+    },
+    {
+      "disease_name": "Koolen-de Vries syndrome",
+      "disease_id": "OMIM:610444",
+      "score": 0.5,
+      "explanation": "Koolen-de Vries syndrome presents with significant overlap, including global developmental delay, intellectual disability, autistic features, and motor/speech delays. Hearing impairment is also reported in this syndrome. While 'prominent metopic ridge' is not always explicitly listed, a 'prominent forehead' is common, which can encompass this feature. Highly arched eyebrows are also characteristic. The broad philtrum and exaggerated cupid's bow might be less typical but facial features are variable."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Kabuki syndrome is a strong candidate given the patient's global developmental delay, autistic behavior, speech delay, hearing impairment, broad philtrum, and highly arched eyebrows. However, the prominent metopic ridge is not a typical feature of Kabuki syndrome, making it a slightly less precise fit than the top-ranked diseases for this specific facial anomaly, although other facial features align well."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome is characterized by key features such as developmental delay, autistic behavior, and hearing impairment, which strongly match the patient's presentation. While 'prominent metopic ridge,' 'exaggerated cupid's bow,' and 'broad philtrum' are not classic defining features of CHARGE syndrome, significant facial dysmorphism is common and can be variable. Given the prominence of hearing impairment and global developmental delay, it remains a differential diagnosis."
+    }
+  ]
+}

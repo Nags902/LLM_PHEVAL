@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
+      "score": 1.0,
+      "explanation": "All of the patient's listed phenotypic features (Long philtrum, Smooth philtrum, Thin upper lip vermilion, Hypertelorism, Full cheeks, Short palm, Short foot, Short nose, Mitral stenosis, Tricuspid stenosis, Respiratory insufficiency, Limitation of joint mobility, Severe short stature) are precisely matched by the features described in all three provided reference cases, which were definitively diagnosed as Geleophysic dysplasia 2. This strong phenotypic concordance with confirmed cases makes it the most highly probable diagnosis."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 1",
+      "disease_id": "OMIM:610098",
+      "score": 0.5,
+      "explanation": "Geleophysic dysplasia 1 shares a very similar clinical phenotype with Geleophysic dysplasia 2, including severe short stature, characteristic facial features (such as short nose, full cheeks, thin upper lip, long/smooth philtrum), short hands and feet, progressive joint stiffness, and significant valvular heart disease (mitral and tricuspid stenosis). While the reference cases specifically point to GD2, GD1 remains a very strong differential diagnosis due to the substantial phenotypic overlap, often requiring genetic testing for definitive differentiation."
+    },
+    {
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.333,
+      "explanation": "Acromicric dysplasia is also caused by mutations in *FBN1*, the same gene associated with Geleophysic dysplasia 2, and presents with overlapping features such as severe short stature, brachydactyly (short hands/feet), joint limitation, and certain facial characteristics (e.g., short nose, full cheeks). However, the cardiac involvement, particularly severe progressive valvular stenosis, is typically less prominent or less severe in acromicric dysplasia compared to Geleophysic dysplasia."
+    },
+    {
+      "disease_name": "Myhre syndrome",
+      "disease_id": "OMIM:139210",
+      "score": 0.25,
+      "explanation": "Myhre syndrome shares several key features with the patient's presentation, including short stature, limitation of joint mobility, and cardiac involvement, which can include valvular thickening. Other shared features can include short hands/feet and specific facial features. However, the exact combination of facial features and prominent mitral and tricuspid stenosis, without other classical Myhre features like muscular hypertrophy or conductive hearing loss, places it lower than the Geleophysic dysplasias."
+    }
+  ]
+}

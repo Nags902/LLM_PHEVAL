@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hyper-IgE Syndrome, Autosomal Dominant 1",
+      "disease_id": "OMIM:147060",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it is the diagnosis for all three similar reference cases, all of which prominently featured chronic oral candidiasis. The patient's sole reported symptom aligns perfectly with a key manifestation of this disorder, even without other typical features of the syndrome being currently reported."
+    },
+    {
+      "disease_name": "Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy",
+      "disease_id": "OMIM:240300",
+      "score": 0.5,
+      "explanation": "APECED is a well-established and classic cause of chronic mucocutaneous candidiasis, making it a strong differential diagnosis whenever this symptom is present. While not directly mentioned in the reference cases, its direct association with chronic candidiasis makes it a highly relevant consideration."
+    },
+    {
+      "disease_name": "Immunodeficiency 31B",
+      "disease_id": "OMIM:614168",
+      "score": 0.333,
+      "explanation": "Gain-of-function mutations in STAT1 are a recognized cause of chronic mucocutaneous candidiasis due to their impact on Th17 immunity. This is a significant genetic cause of persistent candidiasis that should be considered."
+    },
+    {
+      "disease_name": "Immunodeficiency 29 (IL-17 Receptor Deficiency)",
+      "disease_id": "OMIM:614122",
+      "score": 0.25,
+      "explanation": "Deficiencies in the IL-17 receptor (IL17RA or IL17RC) impair the IL-17 pathway, which is critical for antifungal immunity, particularly against Candida. This directly leads to susceptibility to chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Immunodeficiency 42",
+      "disease_id": "OMIM:615598",
+      "score": 0.2,
+      "explanation": "RORC deficiency, which affects ROR\u03b3t (a transcription factor crucial for Th17 cell development), is another genetic cause of impaired Th17 immunity leading to susceptibility to chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Candidiasis, Familial, 2",
+      "disease_id": "OMIM:613108",
+      "score": 0.166,
+      "explanation": "CARD9 deficiency is a genetic disorder that predisposes individuals to chronic mucocutaneous candidiasis and invasive fungal infections, making it a relevant differential diagnosis for the patient's presentation."
+    }
+  ]
+}

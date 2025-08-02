@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff skin syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "All of the patient's phenotypic features (stiff skin, knee contracture, myopia, camptodactyly, elbow contracture, limited shoulder flexion) are highly characteristic and core manifestations of Stiff skin syndrome. This diagnosis is strongly supported by the direct match with the diagnoses provided in all three similar reference cases, which present with an almost identical set of symptoms."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Stiff skin syndrome can be caused by mutations in the FBN1 gene, which is the primary causative gene for Marfan Syndrome. While 'stiff skin' is not a hallmark feature of classic Marfan Syndrome, many of the additional features observed in the similar reference cases (e.g., arachnodactyly, aortic aneurysm, ectopia lentis, scoliosis, tall stature) are cardinal signs of Marfan Syndrome. This suggests a phenotypic spectrum or overlap, and the patient's features such as myopia and joint contractures are also consistent with Marfan Syndrome, making it a relevant differential within the fibrillinopathies."
+    },
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 0.33,
+      "explanation": "This condition, also a fibrillinopathy (caused by mutations in the FBN2 gene), shares significant phenotypic overlap with Marfan Syndrome and is characterized by severe joint contractures, particularly congenital camptodactyly, and can include arachnodactyly and scoliosis. While 'stiff skin' is not a typical feature, the prominent and widespread contractures observed in the patient align well with key aspects of this disorder, positioning it as a plausible differential within related connective tissue diseases."
+    }
+  ]
+}

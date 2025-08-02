@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia, dysmorphic facies, and behavioral abnormalities, autosomal dominant",
+      "disease_id": "OMIM:619623",
+      "score": 1.0,
+      "explanation": "This condition, also known as ReNU syndrome, is an extremely strong match for the patient's phenotype. Almost all of the patient's distinct features are observed in patients with ReNU syndrome, including global developmental delay, intellectual disability, progressive microcephaly, absent speech, motor delay, autistic behavior, motor stereotypy, hypoplasia of the corpus callosum, gait disturbance, and characteristic craniofacial dysmorphism (open mouth, tented upper lip vermilion, tented philtrum, epicanthus, facial hypotonia, triangular face, bifid nasal tip, blepharophimosis, blue sclerae, broad nasal tip, high forehead, depressed nasal bridge, high palate, narrow palate, small earlobe). Furthermore, the presence of thin nails, thickened nuchal skin fold, gastroesophageal reflux, strabismus, nystagmus, astigmatism, pes planus, and a ventricular septal defect provides an almost perfect match. This is strongly supported by the provided similar reference cases (Case 1 and Case 2) which are diagnosed with ReNU syndrome and share an extensive number of identical features with the patient."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome, particularly Noonan syndrome 1 (PTPN11-related), is considered as a secondary differential diagnosis. It shares some overlapping features with the patient, such as global developmental delay, intellectual disability (though variable), thickened nuchal skin fold (especially in neonates), pes planus, gastroesophageal reflux, strabismus, high palate, and a ventricular septal defect. However, many of the patient's specific and distinctive dysmorphic features (e.g., blepharophimosis, blue sclerae, bifid nasal tip, tented upper lip vermilion, tented philtrum, thin nail, progressive microcephaly, and hypoplasia of the corpus callosum) are not typical for Noonan syndrome. The overall facial gestalt of Noonan syndrome (e.g., hypertelorism, downslanting palpebral fissures, ptosis, low-set posteriorly rotated ears) also differs significantly from the patient's description. Therefore, while there is some overlap, it is a much less precise match compared to ReNU syndrome."
+    }
+  ]
+}

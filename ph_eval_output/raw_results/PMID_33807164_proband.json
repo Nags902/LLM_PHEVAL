@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:614436",
+      "score": 1.0,
+      "explanation": "This patient's phenotype shows an extremely strong overlap with the features described in Reference Case 1 and Case 2, both diagnosed with Cutis laxa, autosomal recessive, type ID. Key matching features include Cutis laxa, Thin skin, Bruising susceptibility, Dermal translucency, Joint hypermobility, Hypotonia, Failure to thrive, Inguinal hernia, Congenital diaphragmatic hernia (posterolateral in reference cases), Bladder diverticulum, Telecanthus, Long face, Narrow face, and Dental malocclusion. Blepharochalasis is also consistent with eyelid laxity seen in these conditions."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type IIA",
+      "disease_id": "OMIM:219200",
+      "score": 0.5,
+      "explanation": "While type ID is the most direct match, other forms of autosomal recessive cutis laxa, such as type IIA, also present with generalized cutis laxa, joint hypermobility, hypotonia, and systemic involvement including hernias and facial dysmorphism. This disease shares a significant number of the core connective tissue features with the patient, making it a strong differential within the broader Cutis Laxa spectrum."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal dominant",
+      "disease_id": "OMIM:123700",
+      "score": 0.33,
+      "explanation": "Autosomal dominant forms of cutis laxa are characterized by generalized loose, inelastic skin and can include features such as joint laxity and hernias, albeit often with variable severity. Given the primary feature of 'Cutis laxa' in the patient, this represents a plausible alternative, covering a different mode of inheritance for a highly similar core phenotype."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614607",
+      "score": 0.25,
+      "explanation": "This diagnosis is considered based on Reference Case 3, which shares a few features with the patient, including Hypotonia, Inguinal hernia, Congenital diaphragmatic hernia, Long philtrum, and Bladder diverticulum (Urethral diverticulum in Case 3). However, the patient does not present with the highly characteristic features of Coffin-Siris syndrome such as intellectual disability, sparse hair, or absent/hypoplastic digits, making it a less likely diagnosis compared to the Cutis laxa spectrum."
+    }
+  ]
+}

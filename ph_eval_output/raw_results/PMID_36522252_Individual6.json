@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "This is the most compelling diagnosis due to significant overlap between the patient's phenotypic features and the detailed descriptions of the 'similar reference cases.' Key shared features include profound intellectual disability, global developmental delay, severe generalized hypotonia, motor delay, absent speech, seizures with multifocal epileptiform discharges, hyporeflexia, cerebral visual impairment, high palate, tented upper lip vermilion, highly arched eyebrow, hirsutism, decreased fetal movement, and the presence of both hypercholesterolemia and hypertriglyceridemia. While classic PMM2-CDG often presents with hypocholesterolemia, the presence of hyperlipidemia in all provided reference cases, along with their otherwise strong CDG-Ia phenotypes, suggests this patient's presentation fits within a specific variant or broader spectrum of CDG-Ia. The extensive neurological and characteristic facial features are highly consistent with PMM2-CDG."
+    },
+    {
+      "disease_name": "MIRAGE syndrome",
+      "disease_id": "OMIM:616801",
+      "score": 0.5,
+      "explanation": "This disease is included as a potential diagnosis because it is the stated diagnosis ('Hypotonia, infantile, with psychomotor retardation and characteristic facies 3') for all three 'similar reference cases' provided. While the patient shares some non-specific features with MIRAGE syndrome (e.g., global developmental delay, intellectual disability, hypotonia, feeding difficulties), many hallmark features of MIRAGE (myelodysplasia, adrenal hypoplasia, severe growth restriction, specific infections) are absent in the patient's phenotype. Furthermore, several key dysmorphic and metabolic features (like hyperlipidemia and specific facial features) observed in the patient and the reference cases are less typical for MIRAGE syndrome and more aligned with Congenital Disorders of Glycosylation. Its ranking is based on the explicit naming in the reference cases' diagnosis, rather than a strong phenotypic match to the typical MIRAGE presentation."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ij",
+      "disease_id": "OMIM:608093",
+      "score": 0.33,
+      "explanation": "This is another type of congenital disorder of glycosylation (DPAGT1-CDG) that can present with severe neurological features similar to the patient, including profound intellectual disability, hypotonia, seizures, and developmental delay. Some reference cases also reported EMG abnormalities and decreased compound muscle action potential amplitude, which can be seen in DPAGT1-CDG due to associated congenital myasthenic syndrome. While the specific facial features and the lipid profile are not as precise a match as PMM2-CDG, it remains a reasonable differential diagnosis within the broader CDG spectrum, given the overall severe neurodevelopmental and metabolic presentation."
+    }
+  ]
+}

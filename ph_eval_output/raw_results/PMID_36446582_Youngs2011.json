@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136100",
+      "score": 1.0,
+      "explanation": "Floating-Harbor Syndrome is an excellent fit, primarily due to the classic combination of 'triangular face' and 'short stature' along with intellectual disability, global developmental delay, motor delay, delayed speech and language development, autistic behavior, and attention deficit hyperactivity disorder. Anteverted nares and recurrent otitis media are also commonly reported features. Microcephaly, while not universally severe, can be present."
+    },
+    {
+      "disease_name": "ZTTK Syndrome",
+      "disease_id": "OMIM:617260",
+      "score": 0.5,
+      "explanation": "ZTTK Syndrome is a strong candidate given the consistent presence of microcephaly, intellectual disability, global developmental delay, and short stature. Dysmorphic facial features, including anteverted nares and a pointed chin, could contribute to a 'triangular face' appearance. Autistic behavior, attention deficit hyperactivity disorder, and recurrent infections like otitis media are also frequently observed in patients with this syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Cornelia de Lange Syndrome 1 (caused by NIPBL mutations) is a well-established diagnosis for a constellation of features including microcephaly, short stature, intellectual disability, global developmental delay, motor delay, delayed speech and language development, autistic behavior, and anteverted nares. While a 'triangular face' is not the most typical description, the overall facial dysmorphology with microcephaly and other features can give such an impression. NIPBL mutations are the most common cause of CdLS."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Mowat-Wilson Syndrome presents with many overlapping features including microcephaly, intellectual disability, global developmental delay, short stature, motor delay, delayed speech and language development, and autistic behavior. Facial features often include a prominent nasal bridge, open mouth, and a pointed chin, which might contribute to a perception of a triangular face. Anteverted nares are also seen. The absence of commonly associated features like Hirschsprung disease makes it slightly less likely, but clinical variability exists."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300047",
+      "score": 0.2,
+      "explanation": "As another genetic subtype of Cornelia de Lange Syndrome, SMC1A-related CdLS (type 2) shares the core phenotypic features with CdLS1, including microcephaly, short stature, intellectual disability, global developmental delay, motor delay, delayed speech and language development, autistic behavior, and anteverted nares. It is considered a potential diagnosis given the significant overlap in the patient's phenotypic profile with the broader CdLS spectrum."
+    }
+  ]
+}

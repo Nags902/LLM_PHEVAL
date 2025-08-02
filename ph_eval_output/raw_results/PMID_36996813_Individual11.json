@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
+      "disease_id": "OMIM:618844",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate as all the patient's phenotypic features (Dilated third ventricle, Cerebral hemorrhage, Hydrocephalus, Lateral ventricle dilatation, Cerebral calcification) are directly observed in or highly consistent with the diagnosis of the highly similar reference cases (Case 1 and Case 2), which presented with the exact same diagnosis. The shared features, particularly intracranial hemorrhage, hydrocephalus, and cerebral calcification, are hallmarks of this disorder."
+    },
+    {
+      "disease_name": "Brain small vessel disease with hemorrhage",
+      "disease_id": "OMIM:600574",
+      "score": 0.5,
+      "explanation": "This condition, often associated with COL4A1 mutations (like Porencephaly 1, OMIM:600574), is a strong contender due to its primary association with intracranial hemorrhage, which can lead to hydrocephalus. While diffuse cerebral calcification is not a cardinal feature, it has been reported in the spectrum of COL4A1-related disorders. It aligns well with the patient's core cerebrovascular and ventricular findings."
+    },
+    {
+      "disease_name": "Cytomegalovirus infection, congenital",
+      "disease_id": "OMIM:123010",
+      "score": 0.33,
+      "explanation": "Congenital CMV infection is a well-known cause of hydrocephalus and widespread cerebral calcifications, particularly periventricular. Although intracranial hemorrhage is less common than the other features, it can occur. Given the presence of hydrocephalus and cerebral calcification, it is an important infectious differential diagnosis for these central nervous system abnormalities."
+    }
+  ]
+}

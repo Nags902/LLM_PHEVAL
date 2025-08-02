@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 1.0,
+      "explanation": "The patient's presentation with Cortical tubers, Angiofibromas, and Renal angiomyolipoma represents a classic triad of major diagnostic criteria for Tuberous Sclerosis Complex. This highly specific combination of features perfectly aligns with the diagnoses of the provided reference cases, which also include these hallmark findings."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "Similar to Tuberous Sclerosis Complex 1, Tuberous Sclerosis Complex 2 presents with identical core clinical features, including Cortical tubers, Angiofibromas, and Renal angiomyolipoma. Distinguishing between TSC1 and TSC2 typically requires genetic testing, as their clinical phenotypes are largely indistinguishable. This disease is also directly supported by the provided reference cases."
+    },
+    {
+      "disease_name": "Birt-Hogg-Dub\u00e9 syndrome",
+      "disease_id": "OMIM:135150",
+      "score": 0.33,
+      "explanation": "This syndrome is included as a low-confidence alternative to fulfill the requirement of providing multiple potential diseases. It can feature renal tumors (though typically chromophobe renal cell carcinoma or oncocytomas, angiomyolipomas are less common) and facial papules (fibrofolliculomas, which are distinct from angiofibromas). However, it does not typically present with cortical tubers, making it a very poor fit for the patient's complete phenotypic profile compared to Tuberous Sclerosis Complex."
+    }
+  ]
+}

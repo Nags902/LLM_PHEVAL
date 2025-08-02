@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This syndrome presents with a strong overlap with the patient's phenotypic features, including intellectual disability, global developmental delay, and autistic behavior. Key dysmorphic features such as thick/bushy eyebrows, short philtrum, thin upper lip vermilion, wide mouth, and anteverted nares are characteristic of KBG syndrome, and align well with the patient's presentation and the features noted in the reference cases (e.g., broad eyebrow, short philtrum, thin upper lip, wide mouth, anteverted nares). Brachydactyly and joint hypermobility, also present in the patient, are commonly reported in KBG syndrome. The overall combination of neurodevelopmental and craniofacial features makes KBG syndrome a highly probable causative disease."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 4 (ARID1B-related)",
+      "disease_id": "OMIM:614609",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome is another strong candidate due to significant phenotypic overlap. It is characterized by intellectual disability, developmental delay, and often presents with coarse facial features including thick eyebrows, long eyelashes, broad/bulbous nose (consistent with patient's wide nose, thick nasal alae, anteverted nares), full/thick lips (fitting thin upper and thick lower lip vermilion), and can have wide mouth and downslanted palpebral fissures. The hallmark hypoplasia of distal phalanges and nails (brachydactyly) is a strong match, and joint hypermobility and autistic behavior are also commonly observed. ARID1B is the most frequent genetic cause for Coffin-Siris Syndrome. Other subtypes (e.g., Coffin-Siris Syndrome 1-3, 5-10) caused by mutations in other SMARC-complex genes share significant phenotypic similarities and should also be considered."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1 (NIPBL-related)",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) shares several prominent features with the patient, including intellectual disability, global developmental delay, autistic behavior, thick eyebrows (often synophrys), long eyelashes, short philtrum, and thin upper lip vermilion. Joint hypermobility is also noted in CdLS. However, the nasal features in classic CdLS are typically described as small with an upturned tip and depressed nasal bridge, which is less consistent with the patient's wide nose and thick nasal alae. Also, the thick lower lip vermilion is less typical for CdLS. Despite these differences, the considerable overlap in other key dysmorphic and neurodevelopmental features warrants its inclusion as a differential diagnosis. Other subtypes of CdLS (e.g., CdLS2-5) should also be considered."
+    }
+  ]
+}

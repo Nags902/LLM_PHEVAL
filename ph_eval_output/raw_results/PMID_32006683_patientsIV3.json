@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:614434",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate due to an exceptional overlap with the patient's phenotype and being the confirmed diagnosis in two highly similar reference cases (Case 1 and 2). Key matching features include tall stature, accelerated skeletal maturation, a specific constellation of ocular anomalies (downslanted palpebral fissures, ectropion of lower eyelids, telecanthus, high myopia, ptosis), craniofacial dysmorphology (long/narrow face, high palate, macrotia, narrow uvula, dental crowding), and a remarkable pattern of generalized connective tissue fragility manifesting as arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, and extensive visceral involvement (inguinal hernia, rectal prolapse, bladder diverticulum, volvulus, colonic diverticula, gastric diverticulum, congenital diaphragmatic hernia). The comprehensive nature of the match across multiple organ systems is highly indicative."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, kyphoscoliotic type 1",
+      "disease_id": "OMIM:229300",
+      "score": 0.5,
+      "explanation": "This subtype of Ehlers-Danlos syndrome shares several features with the patient, particularly those related to connective tissue fragility such as scoliosis, joint hypermobility, high myopia, pectus excavatum, and the potential for hernias. While it accounts for some musculoskeletal and ocular symptoms, the specific constellation of facial features (e.g., ectropion, telecanthus) and the widespread visceral diverticula (gastric, colonic, bladder) are less characteristic compared to Cutis laxa type ID. Additionally, severe hypotonia at birth is a common feature of kEDS-PLOD1 which is not mentioned for the patient, and accelerated skeletal maturation is not a typical finding."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.333,
+      "explanation": "Marfan syndrome shares significant features like tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, high palate, and pes planus. However, several critical differentiating factors exist: Marfan syndrome typically presents with *delayed* skeletal maturation, whereas the patient has accelerated maturation. Furthermore, the extensive range of visceral diverticula and hernias (e.g., bladder, gastric, colonic, congenital diaphragmatic hernia, volvulus, rectal prolapse) are not classic features of Marfan syndrome, which is primarily characterized by cardiovascular (aortic) involvement, typically absent in the patient's reported phenotypes. Specific ocular features like ectropion and telecanthus are also atypical for Marfan."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome, type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz syndrome, particularly type 1, presents with connective tissue features such as joint hypermobility, pectus excavatum, and scoliosis, similar to the patient. However, the defining characteristic of LDS is arterial tortuosity and aneurysms, which are not reported in the patient. Additionally, common craniofacial features of LDS often include hypertelorism, widely spaced eyes (opposite of telecanthus), and sometimes cleft palate or bifid uvula, which do not align with the patient's specific facial dysmorphology. The extensive GI/GU diverticula are also not prominent features of LDS."
+    }
+  ]
+}

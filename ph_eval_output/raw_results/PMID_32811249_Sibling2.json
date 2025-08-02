@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 5",
+      "disease_id": "OMIM:603650",
+      "score": 1.0,
+      "explanation": "This diagnosis perfectly aligns with all the patient's phenotypic features, including Postaxial polydactyly, Clinodactyly of the 5th finger, Brachydactyly, Reduced visual acuity, Nyctalopia, and Intellectual disability, mild. This exact combination of symptoms is a hallmark of Bardet-Biedl syndrome. Furthermore, Reference Case 1, which presented with an identical set of symptoms, was diagnosed as Bardet-Biedl syndrome 5, providing strong support for this being the most likely causative disease."
+    },
+    {
+      "disease_name": "Polydactyly, postaxial, types A1 and B",
+      "disease_id": "OMIM:174200",
+      "score": 0.5,
+      "explanation": "While the patient exhibits Postaxial polydactyly and Intellectual disability, which are features associated with Polydactyly, postaxial, types A1 and B (as seen in Reference Cases 2 and 3), this diagnosis does not encompass the critical visual symptoms (Reduced visual acuity and Nyctalopia) present in the patient. Additionally, the reference cases for this condition included numerous other features (e.g., broad thumb, syndactyly, macrocephaly, anal atresia) that are not present in the patient, making it a less comprehensive match compared to Bardet-Biedl syndrome 5."
+    }
+  ]
+}

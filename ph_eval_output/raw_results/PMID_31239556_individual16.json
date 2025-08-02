@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the strong overlap of the patient's core features\u2014microcephaly, intellectual disability, global developmental delay, feeding difficulties, chronic constipation, delayed motor and speech development, sleep abnormality, recurrent infections, hypertonia, and prominently, long eyelashes\u2014with the classic presentation of Cornelia de Lange Syndrome (CdLS). Furthermore, the extensive phenotypic lists in reference cases 2 and 3, which share many of the patient's primary features (Microcephaly, ID, GDD, Long eyelashes, Sleep abnormality, Constipation, Recurrent infections), contain numerous additional dysmorphic features highly characteristic of CdLS, providing strong correlative evidence. Mutations in NIPBL are the most common cause of CdLS."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.5,
+      "explanation": "While NIPBL is the most common cause, mutations in SMC3 can also lead to Cornelia de Lange Syndrome, often with a milder or less classic facial phenotype but retaining core features such as intellectual disability, global developmental delay, microcephaly, and gastrointestinal issues like constipation. Given the patient's constellation of features, this subtype warrants consideration, especially if the more striking dysmorphic features commonly associated with NIPBL-CdLS are subtle or not extensively documented."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300759",
+      "score": 0.33,
+      "explanation": "CdLS due to SMC1A mutations presents with many features overlapping with NIPBL-related CdLS, including intellectual disability, developmental delay, microcephaly, and long eyelashes. It is an X-linked dominant form, primarily affecting females or having variable phenotypes in males. This subtype should be considered in the differential diagnosis given the patient's male sex and core features, as it falls within the broader CdLS spectrum."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 4",
+      "disease_id": "OMIM:614701",
+      "score": 0.25,
+      "explanation": "RAD21 is another gene associated with Cornelia de Lange Syndrome, accounting for a small percentage of cases. Phenotypically, it shares the cardinal features of intellectual disability, developmental delay, and often microcephaly and growth retardation. While less common, its inclusion is justified by the strong overall phenotypic resemblance to the CdLS spectrum observed in the patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 5",
+      "disease_id": "OMIM:300882",
+      "score": 0.2,
+      "explanation": "HDAC8 mutations cause an X-linked form of CdLS, typically presenting with intellectual disability, developmental delay, and some characteristic facial features. Similar to other less common genetic causes of CdLS, it should be considered given the patient's broad phenotypic fit within the CdLS spectrum, especially in a male patient, although it is a very rare cause."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with microcephaly, seizures, and spasticity",
+      "disease_id": "OMIM:617124",
+      "score": 0.166,
+      "explanation": "This syndrome, also known as ZTTK syndrome, is a relevant contender due to the presence of microcephaly, intellectual disability, global developmental delay, and hypertonia (spasticity), all significant features in the patient. While long eyelashes are not a typical feature, the severe neurodevelopmental phenotype with prominent motor involvement makes this a relevant differential diagnosis for the patient's condition."
+    }
+  ]
+}

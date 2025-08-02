@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dystonia 37, early-onset",
+      "disease_id": "OMIM:617284",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate as it directly matches the diagnosis of Reference Case 3, which presents with a highly similar phenotypic profile including generalized dystonia, ataxia, hypotonia, and oculomotor apraxia (closely related to strabismus). The patient's core features of ataxia, hypotonia, dystonia, and strabismus align exceptionally well with the features observed in the reference case and this specific disorder."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:208920",
+      "score": 0.5,
+      "explanation": "This disease aligns perfectly with the diagnosis 'Ataxia, early-onset, with oculomotor apraxia' from Reference Cases 1 and 2. The patient presents with ataxia and strabismus (an oculomotor anomaly), which are hallmark features. While hypotonia and dystonia are not primary features of AOA1, they can be present or develop, making this a very strong contender given the clear link to the reference cases."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Ataxia-telangiectasia is a well-known early-onset progressive ataxia commonly presenting with oculomotor apraxia (leading to gaze abnormalities like strabismus), dystonia, and hypotonia. It encompasses all four of the patient's key phenotypic features and is a frequent differential diagnosis for the 'ataxia with oculomotor apraxia' presentation seen in the reference cases."
+    },
+    {
+      "disease_name": "Niemann-Pick disease, type C1",
+      "disease_id": "OMIM:257220",
+      "score": 0.25,
+      "explanation": "Niemann-Pick disease type C1 is a lysosomal storage disorder that often presents in childhood with neurological symptoms including progressive ataxia, dystonia, and hypotonia. A highly characteristic feature is vertical supranuclear gaze palsy, which can manifest as strabismus or other oculomotor dysfunction, making it a strong match for all the patient's reported features."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Leigh Syndrome is a severe neurodegenerative mitochondrial disorder that typically presents in infancy or early childhood. Its clinical presentation is highly variable but frequently includes ataxia, hypotonia, dystonia, and ophthalmoplegia/strabismus. Given the combination of core neurological symptoms at an early age, it remains a critical consideration in the differential diagnosis."
+    }
+  ]
+}

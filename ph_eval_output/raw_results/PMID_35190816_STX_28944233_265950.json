@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DDX3X syndrome",
+      "disease_id": "OMIM:300958",
+      "score": 1.0,
+      "explanation": "DDX3X syndrome presents with an excellent phenotypic overlap, especially considering the combination of severe intellectual disability, microcephaly, global developmental delay, absent speech, motor stereotypies, and a wide spectrum of seizures including infantile spasms, bilateral tonic-clonic, and focal-onset. Critically, precocious puberty in females, sensorineural hearing impairment, strabismus, poor coordination, and broad-based gait are all reported features of DDX3X syndrome, making it a highly compelling candidate that accounts for the less common features alongside the prominent neurological ones."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy (also known as Epilepsy, early-onset, 3, with or without developmental delay, as seen in the reference cases) aligns very strongly with the patient's core neurological features, including infantile spasms, bilateral tonic-clonic seizure, focal-onset seizure, severe intellectual disability, global developmental delay, absent speech, motor stereotypies, intention tremor, poor coordination, broad-based gait, microcephaly, and strabismus. The high prevalence of this diagnosis in the similar reference cases further supports its relevance. While it explains the majority of the neurological symptoms, precocious puberty is not a typical feature of STXBP1 encephalopathy, making it a less complete fit compared to DDX3X syndrome, but still a very strong contender given the overall clinical picture."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 18",
+      "disease_id": "OMIM:615809",
+      "score": 1.0,
+      "explanation": "This disease presents with a remarkable overlap with the patient's phenotypic features, including profound intellectual disability, global developmental delay, nonprogressive encephalopathy, EEG abnormality, dystonia, spasticity, axial hypotonia, hypoplasia of the pons, absent speech, feeding difficulties, irritability, and ventricular septal defect. This comprehensive match, combined with it being the diagnosis for the highly similar reference Case 1, makes it the most likely causative disease."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:617947",
+      "score": 0.5,
+      "explanation": "This disorder shares several key features with the patient, such as intellectual disability (severe/profound), global developmental delay, absent speech, axial hypotonia, and hypoplasia of the pons. Spasticity is also a feature observed in one of the reference cases (Case 3) diagnosed with this condition. While it accounts for some significant neurological symptoms and is the diagnosis for reference cases 2 and 3, it does not fully encompass the nonprogressive encephalopathy, prominent dystonia, significant EEG abnormality, or the specific cardiac defect (ventricular septal defect) as comprehensively as the top-ranked disease."
+    }
+  ]
+}

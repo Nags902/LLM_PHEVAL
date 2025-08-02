@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4, STXBP1-related",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis given its strong phenotypic overlap with the patient's features and its diagnosis in two of the provided similar reference cases (Case 1 and Case 3). The patient presents with EEG with occipital slowing (matching Case 1), truncal ataxia (matching Case 1), generalized hypotonia (matching Case 1 & 3), global developmental delay (matching Case 1 & 3), delayed speech and language development (matching Case 3), and strabismus (matching Case 3). STXBP1-related disorders are well-known to cause severe neurodevelopmental delay, hypotonia, movement disorders including ataxia, and various forms of epilepsy or EEG abnormalities."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11, SCN2A-related",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "This disease is a strong candidate, consistent with reference Case 2, which was diagnosed as DEE11. The patient shares key features with this reference case including delayed speech and language development, generalized hypotonia, and global developmental delay. SCN2A encephalopathies encompass a wide phenotypic spectrum that frequently includes these core neurodevelopmental symptoms, making it a highly plausible differential diagnosis."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Ataxia-telangiectasia should be considered due to the prominent truncal ataxia, global developmental delay, delayed speech and language development, and generalized hypotonia observed in the patient. While specific features like telangiectasias or immunodeficiency are not reported, AT is a progressive neurodegenerative disorder primarily characterized by cerebellar ataxia, and often presents with early developmental delays and can involve various neurological manifestations including EEG abnormalities."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X syndrome is a common genetic cause of intellectual disability and global developmental delay, which aligns with the patient's presentation of global developmental delay, delayed speech, and generalized hypotonia. While truncal ataxia and strabismus are less common primary features compared to core symptoms, they can occur in some affected individuals, and EEG abnormalities are also possible, making it a relevant differential diagnosis to rule out."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "X-linked lissencephaly with ambiguous genitalia",
+      "disease_id": "OMIM:300215",
+      "score": 1.0,
+      "explanation": "This severe ARX-related disorder is an excellent match for all of the patient's core phenotypic features, including microcephaly, polymicrogyria, thin corpus callosum, absent speech, intellectual disability, and short stature. The patient's male gender (1) is consistent with this X-linked condition. Furthermore, common associated features like seizures, dysarthria, and cerebellar atrophy, observed in the similar reference cases, are also highly characteristic of X-linked lissencephaly spectrum disorders caused by ARX."
+    },
+    {
+      "disease_name": "Microcephaly 2, primary, with or without cortical malformations",
+      "disease_id": "OMIM:604317",
+      "score": 0.5,
+      "explanation": "This WDR62-related autosomal recessive disorder is a strong candidate, as it directly accounts for primary microcephaly, intellectual disability, polymicrogyria, thin corpus callosum, and short stature, all present in the patient. It also frequently presents with seizures and other neurological issues, aligning with the broader phenotype seen in the reference cases."
+    },
+    {
+      "disease_name": "Hypomyelination with atrophy of basal ganglia and cerebellum",
+      "disease_id": "OMIM:612413",
+      "score": 0.33,
+      "explanation": "Caused by TUBB4A mutations, this disorder typically presents with microcephaly, intellectual disability, thin corpus callosum, and cerebellar atrophy (consistent with the features noted in the reference cases). While polymicrogyria is not a universal primary feature, TUBB4A mutations can cause a spectrum of diverse cortical malformations, and short stature can also be an associated feature, making this a plausible differential diagnosis."
+    }
+  ]
+}

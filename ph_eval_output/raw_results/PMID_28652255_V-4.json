@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:208920",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches all the patient's phenotypic features, including ataxia, hyporeflexia, supranuclear gaze palsy (a form of oculomotor apraxia), dysarthria, athetosis, and crucially, hypoalbuminemia. It directly aligns with the diagnosis provided in the similar reference cases, which explicitly mention 'Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia'."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 3",
+      "disease_id": "OMIM:615705",
+      "score": 0.5,
+      "explanation": "AOA3 shares the core features of ataxia, oculomotor apraxia, and hypoalbuminemia with AOA1 and the patient's presentation. It is another strong candidate due to the direct match of key features and the reference cases, representing genetic heterogeneity for a highly similar clinical picture."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 2",
+      "disease_id": "OMIM:606002",
+      "score": 0.333,
+      "explanation": "While AOA2 presents with ataxia, oculomotor apraxia, and peripheral neuropathy similar to the patient's neurological symptoms, the defining biochemical feature is typically elevated alpha-fetoprotein (AFP), not hypoalbuminemia. Therefore, despite sharing many neurological symptoms, it is less likely than AOA1 or AOA3 given the explicit hypoalbuminemia in the patient's profile and the reference cases."
+    }
+  ]
+}

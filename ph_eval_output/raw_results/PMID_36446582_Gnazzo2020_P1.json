@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to a perfect match with all presented phenotypic features, including intellectual disability, global developmental delay, macrodontia, long philtrum, abnormality of the hand, delayed speech and language development, feeding difficulties, hypertelorism, and bulbous nose. This exact set of features is also seen in 'Case 3', which was explicitly diagnosed as KBG syndrome."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos syndrome shares several key features with the patient, including intellectual disability, global developmental delay, and can present with macrodontia and hypertelorism. While typically associated with overgrowth and macrocephaly (not noted in the patient), there is phenotypic variability. Facial features like a prominent forehead and large head can sometimes be interpreted broadly to overlap with 'bulbous nose' or 'long philtrum'."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:309510",
+      "score": 0.33,
+      "explanation": "Coffin-Lowry syndrome is characterized by intellectual disability, global developmental delay, and delayed speech, all present in the patient. Hand abnormalities are a prominent feature, and some facial features such as hypertelorism can overlap. However, macrodontia and a long philtrum are not typical defining characteristics of this syndrome, and the nasal features generally differ from a bulbous nose."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X syndrome is a common cause of intellectual disability, global developmental delay, and delayed speech and language development, which are present in the patient. A long philtrum can also be a feature. However, macrodontia, bulbous nose, and hypertelorism are not hallmark features of Fragile X syndrome, and other characteristic features like prominent ears or macro-orchidism (in males) are not mentioned."
+    }
+  ]
+}

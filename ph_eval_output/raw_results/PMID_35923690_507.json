@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient exhibits all key phenotypic features highly characteristic of Diamond-Blackfan anemia (DBA), including Anemia, Short stature, Increased mean corpuscular volume, Elevated red cell adenosine deaminase activity, and Persistence of hemoglobin F. These features perfectly align with the core diagnostic criteria for DBA. Furthermore, all similar reference cases were diagnosed with Diamond-Blackfan anemia 1, directly supporting this specific subtype as the primary candidate."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 7",
+      "disease_id": "OMIM:613303",
+      "score": 0.5,
+      "explanation": "Diamond-Blackfan anemia 7 (due to RPL5 gene mutations) is another common genetic subtype of Diamond-Blackfan anemia. Patients with this subtype present with the same core hematological and often physical phenotypic features (Anemia, Short stature, Increased mean corpuscular volume, Elevated red cell adenosine deaminase activity, Persistence of hemoglobin F) as seen in this patient. While not explicitly mentioned in the reference cases as DBA1, it is phenotypically indistinguishable from other DBA subtypes based solely on the provided information, making it a strong candidate within the DBA spectrum."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 3",
+      "disease_id": "OMIM:610629",
+      "score": 0.33,
+      "explanation": "Diamond-Blackfan anemia 3 (due to RPL11 gene mutations) is another significant genetic subtype of Diamond-Blackfan anemia. Like other forms of DBA, it is characterized by symptoms such as Anemia, Short stature, Increased mean corpuscular volume, Elevated red cell adenosine deaminase activity, and Persistence of hemoglobin F. Given the patient's strong clinical presentation for DBA, this subtype remains a highly plausible cause, albeit without the direct support from the reference cases that Diamond-Blackfan anemia 1 has."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.25,
+      "explanation": "Shwachman-Diamond Syndrome is considered a very low-probability differential diagnosis. It is a rare inherited bone marrow failure syndrome that can present with anemia (often macrocytic) and short stature, which overlap with the patient's features. However, it typically presents with pancreatic insufficiency and neutropenia as dominant features, and crucially, does not typically include significantly elevated red cell adenosine deaminase activity or persistence of hemoglobin F as diagnostic markers. Its inclusion is primarily to fulfill the requirement of listing more than one potential disease, despite low confidence due to the absence of the highly specific markers for DBA."
+    }
+  ]
+}

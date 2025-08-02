@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:616785",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features show an exceptionally high degree of overlap with all three provided reference cases, which are consistently diagnosed with Muscular dystrophy, limb-girdle, autosomal recessive 29 (LGMD R9). All listed patient symptoms, including the more specific features like 'pain insensitivity' and 'increased endomysial connective tissue', are present in at least one or all of the reference cases, making this the most likely diagnosis. The constellation of proximal and distal muscle weakness, Gowers sign, calf pseudohypertrophy, highly elevated CK, motor delay, contractures, and scoliosis is highly characteristic of this specific form of limb-girdle muscular dystrophy."
+    },
+    {
+      "disease_name": "Duchenne muscular dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 0.5,
+      "explanation": "Duchenne muscular dystrophy (DMD) is a prominent differential diagnosis given the patient's age and gender, and shares many core features such as difficulty climbing stairs, proximal muscle weakness, Gowers sign, calf muscle pseudohypertrophy, highly elevated creatine kinase, motor delay, scoliosis, limb joint contracture, and myopathic abnormalities on EMG. While DMD presents very similarly, the explicit presence of 'pain insensitivity' in the patient and the reference LGMD R9 cases makes LGMD R9 a stronger fit, as pain insensitivity is not a typical feature of DMD."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy, type R2",
+      "disease_id": "OMIM:253600",
+      "score": 0.333,
+      "explanation": "Limb-girdle muscular dystrophy, type R2 (LGMD R2) caused by CAPN3 mutations is one of the most common forms of LGMD and shares many clinical similarities with the patient's presentation, including proximal muscle weakness, Gowers sign, calf pseudohypertrophy, and elevated creatine kinase. However, the specific diagnosis in the reference cases (LGMD R9) and the consistent presence of 'pain insensitivity' in the patient and reference cases make LGMD R9 a more precise match, as pain insensitivity is not a characteristic feature of LGMD R2."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation, including Achilles tendon and elbow contractures, spinal rigidity, stiff neck, scapuloperoneal amyotrophy, proximal upper limb weakness, elevated creatine kinase, ventricular arrhythmia, and abnormal left ventricular function, perfectly matches the classic triad of Emery-Dreifuss muscular dystrophy. All three provided reference cases, which share nearly identical phenotypic features with the patient, were diagnosed with this specific autosomal dominant form (caused by mutations in the LMNA gene), making it the most probable diagnosis."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "While the reference cases strongly point to the autosomal dominant form, X-linked EDMD (caused by mutations in the EMD gene) presents with a highly similar clinical picture. This includes the characteristic triad of early-onset contractures, progressive muscle weakness (often in a humero-peroneal distribution), and significant cardiac involvement (arrhythmias, cardiomyopathy). Given the substantial phenotypic overlap with the patient's symptoms, this form remains a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 4, autosomal dominant",
+      "disease_id": "OMIM:608441",
+      "score": 0.33,
+      "explanation": "The patient's symptoms are highly consistent with the broad phenotypic spectrum of Emery-Dreifuss muscular dystrophy. While EDMD2 is the most direct match from the reference cases, other autosomal dominant forms of EDMD, such as EDMD4 (caused by mutations in the SYNE1 gene), share the core features of contractures, progressive muscle weakness, and cardiac involvement. This indicates that other genetic forms of EDMD, beyond LMNA, are plausible, given the striking clinical presentation."
+    },
+    {
+      "disease_name": "Dilated cardiomyopathy, type 1A",
+      "disease_id": "OMIM:105250",
+      "score": 0.25,
+      "explanation": "This condition is also caused by mutations in the LMNA gene, the same gene responsible for EDMD2. While primarily characterized by prominent cardiac dysfunction (which is a significant feature in the patient), LMNA-related dilated cardiomyopathy frequently includes skeletal muscle involvement such as muscle weakness, elevated CK, and sometimes contractures. This highlights a phenotypic spectrum where cardiac involvement can be dominant, making it a relevant differential or a related manifestation of LMNA pathology."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "This disease is highly ranked because it was the diagnosis in two of the provided similar reference cases that presented with Focal-onset seizure, which is the sole phenotypic feature listed for the patient. This strong direct match makes it the most likely candidate."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "This disease is also highly relevant as it was the diagnosis in one of the similar reference cases that presented with Focal-onset seizure. Although that case also included EEG findings not present in the patient's current data, the shared core feature of focal-onset seizure makes it a strong second candidate, guided by the reference cases."
+    }
+  ]
+}

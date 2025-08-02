@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "The patient's presentation of macrodontia, thick eyebrows, and long philtrum, in combination with intellectual disability, global developmental delay, delayed speech and language development, hypertelorism, and bulbous nose, strongly aligns with the characteristic features of KBG Syndrome. These specific facial features (macrodontia, thick eyebrows, long philtrum) are considered hallmark signs of the syndrome. Furthermore, the similar reference cases also exhibit key overlapping features such as broad/thick eyebrows, long philtrum, hypertelorism, and bulbous nose, reinforcing the relevance of KBG Syndrome as the top candidate."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser Syndrome",
+      "disease_id": "OMIM:615967",
+      "score": 0.5,
+      "explanation": "This syndrome presents with intellectual disability, global developmental delay, thick eyebrows, and a bulbous nasal tip, which are all consistent with the patient's features. However, macrodontia is not a characteristic feature, and the philtrum is not typically described as long in Nicolaides-Baraitser Syndrome, making it a less precise fit compared to KBG Syndrome, but still a plausible consideration given the overlap in several key dysmorphic and developmental features."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome",
+      "disease_id": "OMIM:610253",
+      "score": 0.33,
+      "explanation": "Patients with Kleefstra Syndrome often present with intellectual disability, global developmental delay, a bulbous nose, and can have hypertelorism and thick eyebrows. While there's a significant overlap in developmental and some facial features, macrodontia is not a typical characteristic, and the philtrum is usually short or smooth, rather than long, which lessens its fit compared to the patient's specific presentation."
+    }
+  ]
+}

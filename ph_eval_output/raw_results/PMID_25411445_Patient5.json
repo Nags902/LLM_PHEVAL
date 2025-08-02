@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616339",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate due to the perfect match of all the patient's phenotypic features with the provided similar reference cases. All 14 of the patient's listed features (Increased nuchal translucency, Abnormal electroretinogram, Cerebral atrophy, Epileptic spasm, Epileptic encephalopathy, Spasticity, Hypokinesia, Global developmental delay, Hyperreflexia, Rigidity, Axial hypotonia, EEG abnormality, Reduced eye contact, and Sudden unexpected death in epilepsy) are explicitly present in the reference cases, which were consistently diagnosed as Developmental and epileptic encephalopathy 28. This condition, caused by ADSL deficiency, is known to encompass severe neurological features, including early-onset epileptic encephalopathy, significant developmental delay, motor dysfunction, cerebral atrophy, and can present with prenatal findings like increased nuchal translucency and visual pathway abnormalities."
+    },
+    {
+      "disease_name": "GM1 Gangliosidosis, Type 1, Infantile",
+      "disease_id": "OMIM:230500",
+      "score": 0.5,
+      "explanation": "GM1 Gangliosidosis, Type 1 is a severe lysosomal storage disorder that presents with significant overlap in neurological and developmental features seen in the patient. Key commonalities include early-onset neurodegeneration, global developmental delay, epileptic spasms and other seizures (contributing to epileptic encephalopathy), cerebral atrophy, severe motor dysfunction (spasticity, rigidity, hypotonia), and visual impairment (abnormal electroretinogram due to retinal degeneration or macular cherry-red spot). Increased nuchal translucency is also reported in severe prenatal forms of this condition, further aligning with the patient's presentation."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.33,
+      "explanation": "Leigh Syndrome is a severe progressive mitochondrial encephalopathy that can present with many of the patient's features. It is characterized by developmental delay or regression, hypotonia, spasticity, rigidity, seizures (often evolving into an epileptic encephalopathy), and characteristic brain abnormalities including cerebral atrophy and basal ganglia lesions. Optic atrophy and other visual impairments are common, which could manifest as an abnormal electroretinogram. While increased nuchal translucency is not a primary defining feature, severe mitochondrial disorders can have early fetal manifestations, and sudden unexpected death is a known complication. This provides a reasonable alternative given the broad neurological and developmental presentation."
+    }
+  ]
+}

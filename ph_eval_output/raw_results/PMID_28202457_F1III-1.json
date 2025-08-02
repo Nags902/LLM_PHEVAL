@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:613460",
+      "score": 1.0,
+      "explanation": "This patient presents with a highly characteristic combination of myelodysplasia, pancytopenia (including neutropenia, thrombocytopenia, and increased mean corpuscular volume), recurrent infections (likely explained by the decreased Ig concentrations), and progressive cerebellar neurological features including cerebellar atrophy, nystagmus, dysmetria, and ankle clonus. This constellation of symptoms perfectly aligns with the clinical presentation of Ataxia-pancytopenia syndrome (caused by SAMD9L mutations), as confirmed by the provided reference cases which share nearly identical phenotypic features, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Ataxia-telangiectasia is considered a differential diagnosis due to the prominent cerebellar ataxia (cerebellar atrophy, nystagmus, dysmetria, ankle clonus), recurrent infections, and decreased circulating Ig concentrations (IgM, IgG, IgA), which are hallmark features of this disorder. However, the presence of significant myelodysplasia, pancytopenia, and increased mean corpuscular volume are not typical primary features of Ataxia-telangiectasia, making it a less precise fit compared to Ataxia-pancytopenia syndrome for the full clinical picture."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:612016",
+      "score": 1.0,
+      "explanation": "This disease is an excellent match, aligning perfectly with a strong reference case (Case 1) and encompassing almost all of the patient's core phenotypic features including congenital non-progressive ataxia (truncal, gait, limb), dysmetria, tremor, hypotonia, global developmental delay, intellectual disability, and absent speech. The 'congenital nonprogressive' aspect also fits the developmental delay and lack of regression implied by the features."
+    },
+    {
+      "disease_name": "Congenital Disorders of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.5,
+      "explanation": "PMM2-CDG is a highly relevant metabolic disorder known for its prominent neurological phenotype. It frequently presents with hypotonia, global developmental delay, intellectual disability, and cerebellar features such as ataxia (truncal, gait, limb), dysmetria, and tremor, all of which are significant findings in the patient. Absent speech and broad-based gait are also common."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4 (KCNQ2-related)",
+      "disease_id": "OMIM:612164",
+      "score": 0.33,
+      "explanation": "This specific form of developmental and epileptic encephalopathy is indicated by two reference cases (Case 2 and 3). While the patient does not have reported epilepsy, the broader neurodevelopmental and movement disorder phenotype seen in KCNQ2-related DEE, including global developmental delay, severe intellectual disability, absent speech, truncal ataxia, broad-based gait, tremor, torticollis, and hypotonia, aligns well with the patient's presentation. DEEs can manifest with significant motor dysfunction even without prominent seizures."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia, Type 2A (TSEN54-related)",
+      "disease_id": "OMIM:218350",
+      "score": 0.25,
+      "explanation": "Pontocerebellar Hypoplasia (PCH) disorders are a group of severe neurodevelopmental conditions characterized by hypoplasia of the pons and cerebellum, leading to profound global developmental delay, severe intellectual disability, hypotonia, and prominent motor deficits including ataxia (truncal, gait, limb), dysmetria, and tremor. This constellation of features strongly corresponds to the patient's clinical presentation."
+    }
+  ]
+}

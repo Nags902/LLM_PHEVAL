@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi anemia, complementation group C",
+      "disease_id": "OMIM:227645",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. All of the patient's phenotypic features, including anemia, thrombocytopenia, pancytopenia, neutropenia, short stature, cafe-au-lait spots, absent thumb, absent radius, and crucially, chromosomal breakage induced by crosslinking agents, are classic manifestations of Fanconi anemia. The reference cases directly link these features to Fanconi anemia, complementation group C, especially the highly diagnostic chromosomal breakage test."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "The patient's phenotype is highly consistent with Fanconi anemia as a broad diagnosis, characterized by progressive bone marrow failure, diverse congenital anomalies (especially radial ray defects and short stature), and characteristic chromosomal instability. While complementation group C is strongly suggested by the reference cases, Fanconi anemia is a genetically heterogeneous disorder, and other complementation groups could present similarly."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.33,
+      "explanation": "This syndrome is considered due to the presence of thrombocytopenia and absent radius, which are shared features. However, it is a significantly less likely diagnosis as it typically does not involve pancytopenia (often only isolated thrombocytopenia), anemia, neutropenia, cafe-au-lait spots, or the pathognomonic chromosomal breakage induced by crosslinking agents, which is a key diagnostic feature in the patient's presentation. Its inclusion is primarily to fulfill the requirement of listing more than one potential disease, despite low confidence."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:615822",
+      "score": 1.0,
+      "explanation": "This disease is the primary diagnosis in all provided similar reference cases, all of which share the patient's core features of intellectual disability and hypertonia. This strong clinical and etiological overlap makes it the most probable diagnosis. Although other features like microcephaly, short stature, and seizures seen in reference cases are not listed for the patient, their absence does not exclude this diagnosis, as phenotypic variability exists."
+    },
+    {
+      "disease_name": "Spastic paraplegia 11, autosomal recessive",
+      "disease_id": "OMIM:604360",
+      "score": 0.5,
+      "explanation": "SPG11 is a well-known neurodevelopmental disorder that typically presents with early-onset spastic paraplegia (manifesting as hypertonia) and intellectual disability. These two features are precisely what the patient presents, making it a strong candidate. Additional features often include thin corpus callosum and peripheral neuropathy, which may or may not be present or yet identified in this patient."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia, type 2D",
+      "disease_id": "OMIM:618065",
+      "score": 0.333,
+      "explanation": "Many forms of Pontocerebellar Hypoplasia, including type 2D (PCH2D), are characterized by global developmental delay (leading to intellectual disability), microcephaly, and spasticity (hypertonia). While microcephaly is not explicitly listed for the patient, the combination of intellectual disability and hypertonia makes this a plausible differential diagnosis given the patient's age and general presentation."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "This severe neurodevelopmental disorder, often caused by STXBP1 mutations, is characterized by profound intellectual disability, severe hypotonia evolving to spasticity/hypertonia, and often refractory seizures. Although seizures are not listed for the patient, the prominent intellectual disability and hypertonia are direct matches. The typical early infantile onset is consistent with a P6Y patient's presentation."
+    }
+  ]
+}

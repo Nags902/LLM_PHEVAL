@@ -1,0 +1,58 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome 4",
+      "disease_id": "OMIM:614481",
+      "score": 1.0,
+      "explanation": "The patient's comprehensive phenotype, including aortic root aneurysm, arterial tortuosity, arachnodactyly, dural ectasia, spondylolisthesis, abnormal sternum morphology, striae distensae, emphysema, and protrusio acetabuli, aligns exceptionally well with Loeys-Dietz syndrome. The presence of arterial tortuosity and emphysema, in particular, are strong indicators differentiating it from classic Marfan syndrome. The high degree of symptom overlap with two provided reference cases diagnosed as Loeys-Dietz syndrome 4 makes this the most probable diagnosis."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Many of the patient's features, such as tall stature, arachnodactyly, aortic root aneurysm, mitral valve prolapse, dural ectasia, abnormal sternum morphology, high palate, spondylolisthesis, and protrusio acetabuli, are characteristic of Marfan syndrome. While a strong candidate, the prominent arterial tortuosity and emphysema observed in the patient, coupled with the absence of ectopia lentis (a classic but not mandatory Marfan feature), make Loeys-Dietz syndrome a slightly more precise fit for this specific phenotypic constellation. Nevertheless, Marfan syndrome remains a highly plausible differential diagnosis due to significant clinical overlap."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.33,
+      "explanation": "While Loeys-Dietz syndrome 4 is specifically highlighted by the reference cases, Loeys-Dietz syndrome 1 (TGFBR1-related) shares significant clinical overlap with the patient's broad spectrum of vascular (aortic root aneurysm, arterial tortuosity), skeletal (arachnodactyly, abnormal sternum, spondylolisthesis, protrusio acetabuli), and connective tissue manifestations (striae, dural ectasia, emphysema). This makes it a highly relevant differential within the Loeys-Dietz spectrum."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.33,
+      "explanation": "Similar to other Loeys-Dietz subtypes, Loeys-Dietz syndrome 2 (TGFBR2-related) presents with features highly consistent with the patient's phenotype, including aortopathy, arterial tortuosity, and various skeletal and connective tissue abnormalities. The overall pattern strongly points to the Loeys-Dietz spectrum, making this subtype a strong consideration given the general clinical picture."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.33,
+      "explanation": "Loeys-Dietz syndrome 3 (SMAD3-related), also known as Aneurysms-Osteoarthritis Syndrome, overlaps substantially with the patient's symptoms, especially the vascular (aortic aneurysm, arterial tortuosity) and skeletal (spondylolisthesis, protrusio acetabuli, arachnodactyly) features. It is a key member of the Loeys-Dietz syndrome spectrum, fitting the overall clinical presentation."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 5",
+      "disease_id": "OMIM:618330",
+      "score": 0.33,
+      "explanation": "Loeys-Dietz syndrome 5 (SMAD2-related) exhibits features highly consistent with the patient's presentation, including cardiovascular (aortic root aneurysm, arterial tortuosity) and connective tissue manifestations (arachnodactyly, dural ectasia, abnormal sternum morphology, spondylolisthesis, protrusio acetabuli, emphysema). As part of the Loeys-Dietz spectrum, it is a highly relevant potential diagnosis."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 6",
+      "disease_id": "OMIM:618526",
+      "score": 0.33,
+      "explanation": "Loeys-Dietz syndrome 6 (TGFB3-related) encompasses features like aortic root aneurysm, arterial tortuosity, and skeletal abnormalities that align well with the patient's phenotype. Given the broad clinical overlap across Loeys-Dietz syndrome subtypes, this is a strong differential diagnosis within the spectrum of TGF-beta related aortopathies."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182280",
+      "score": 0.25,
+      "explanation": "Shprintzen-Goldberg syndrome is a connective tissue disorder that can present with a Marfanoid habitus, aortic root dilatation, skeletal abnormalities (e.g., pectus deformities, arachnodactyly, scoliosis), and dural ectasia, which overlap with several of the patient's features. However, it often includes prominent developmental delay or intellectual disability and more distinct craniofacial anomalies not specified in the patient's data, making it a less precise fit than Loeys-Dietz or Marfan syndrome."
+    },
+    {
+      "disease_name": "Vascular Ehlers-Danlos syndrome",
+      "disease_id": "OMIM:130050",
+      "score": 0.2,
+      "explanation": "Vascular Ehlers-Danlos syndrome is characterized by fragile blood vessels prone to aneurysm and dissection, which aligns with the patient's aortic root aneurysm. However, many of the prominent skeletal features like arachnodactyly, spondylolisthesis, abnormal sternum morphology, high palate, protrusio acetabuli, and dural ectasia are less typical or severe in vEDS compared to the Marfan/Loeys-Dietz spectrum. Other features like emphysema are also not primary manifestations of vEDS."
+    }
+  ]
+}

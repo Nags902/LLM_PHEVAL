@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, 1",
+      "disease_id": "OMIM:179880",
+      "score": 1.0,
+      "explanation": "This autosomal dominant form of distal renal tubular acidosis (dRTA) is the most direct match to the patient's complete set of phenotypic features, including nephrocalcinosis, nephrolithiasis, hypokalemia, alkaline urine, impaired renal concentrating ability, and dRTA. It perfectly aligns with the diagnosis in the provided similar reference cases ('Distal renal tubular acidosis 1'), which points to a primary inherited dRTA."
+    },
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, 2",
+      "disease_id": "OMIM:604278",
+      "score": 0.5,
+      "explanation": "This autosomal recessive form of distal renal tubular acidosis (dRTA), caused by ATP6V0A4 mutations, also presents with all the patient's renal and metabolic features. While often associated with sensorineural hearing loss, it can occur without it, making it a strong contender if the dominant form is ruled out. It represents a significant proportion of inherited primary dRTA cases."
+    },
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, With Deafness 1",
+      "disease_id": "OMIM:267300",
+      "score": 0.33,
+      "explanation": "This autosomal recessive form of dRTA, caused by ATP6V1B1 mutations, fully accounts for the patient's renal and metabolic symptoms. However, it is typically characterized by obligate associated sensorineural hearing loss, which is not mentioned in the patient's features. Despite this, it remains a possible diagnosis due to the strong overlap in core renal phenotypes."
+    },
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, 4",
+      "disease_id": "OMIM:611591",
+      "score": 0.25,
+      "explanation": "This autosomal recessive form of dRTA, also caused by SLC4A1 mutations, manifests with the core renal features observed in the patient. It is frequently associated with hemolytic anemia, which is not present in the patient's reported symptoms. While less likely without this additional feature, it remains a known genetic cause of primary dRTA and warrants consideration."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CUL4B-related intellectual disability",
+      "disease_id": "OMIM:300977",
+      "score": 1.0,
+      "explanation": "This X-linked neurodevelopmental disorder aligns remarkably well with the patient's comprehensive phenotype. Key features such as global developmental delay, intellectual disability, seizures, thin corpus callosum, cerebral atrophy, and spasticity are commonly observed. Critically, it also explains the challenging combination of short stature and obesity, which are prominent in the patient. A prominent nasal bridge is a reported dysmorphic feature. While typically more severe in males, affected females with severe phenotypes due to skewed X-inactivation have been described, consistent with the patient's gender and the severity of symptoms."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.5,
+      "explanation": "Prader-Willi Syndrome is a strong differential due to the presence of several core features: global developmental delay, intellectual disability, short stature, obesity (developing after infancy), and thin upper lip vermilion. Early hypotonia, a hallmark of PWS, can evolve into motor difficulties, including spasticity-like features, and seizures can occur. While prominent nasal bridge, thin corpus callosum, and cerebral atrophy are not classic primary features of PWS, brain imaging can show variable non-specific findings, and cerebral atrophy might be a secondary consequence of chronic neurological impairment or seizures. The strong match for the metabolic/growth and some facial features makes it highly relevant."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.33,
+      "explanation": "Pitt-Hopkins Syndrome presents with severe global developmental delay, intellectual disability, seizures, and frequently thin corpus callosum. Characteristic facial features include a broad nasal bridge (consistent with prominent nasal bridge in the patient). Spasticity and inability to walk are also commonly seen. While short stature can be present, obesity and a thin upper lip vermilion are not typical features (patients often have full lips or typical weight). However, the profound neurodevelopmental phenotype with specific brain anomalies and prominent nasal bridge makes it a plausible candidate."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:614619",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly matches all of the patient's key phenotypic features, including gait ataxia, delayed ability to walk, intellectual disability (borderline), global developmental delay, and delayed speech and language development. Furthermore, it was the diagnosis in two of the provided similar reference cases that presented with highly overlapping clinical presentations, strongly supporting its relevance."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome is a well-known cause of congenital ataxia, global developmental delay, intellectual disability, and delayed speech. While not explicitly mentioned in the provided reference cases, it is a classic differential diagnosis for a child presenting with this combination of neurological and developmental symptoms, especially gait ataxia. It's a strong clinical fit."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300966",
+      "score": 0.33,
+      "explanation": "This disorder was diagnosed in one of the similar reference cases and shares several key features with the patient, including global developmental delay, intellectual disability (borderline), and delayed speech and language development, as well as general motor delay (delayed ability to walk). While the reference case description for this disorder did not explicitly list 'gait ataxia,' it is a relevant intellectual developmental disorder to consider given the other strong overlaps and its presence in a guiding case."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 0.25,
+      "explanation": "PMM2-CDG (CDG-Ia) is a metabolic disorder frequently presenting with cerebellar ataxia, global developmental delay, and intellectual disability, along with other variable systemic features. This combination of symptoms makes it a plausible differential diagnosis for the patient's presentation, although it was not highlighted in the provided reference cases."
+    }
+  ]
+}

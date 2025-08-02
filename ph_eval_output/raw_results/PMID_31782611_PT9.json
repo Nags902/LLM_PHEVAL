@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612938",
+      "score": 1.0,
+      "explanation": "This disease, as observed in reference Case 1, aligns perfectly with all the patient's core phenotypic features: Microcephaly, Delayed gross motor development, Delayed speech and language development, and Intellectual disability."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia, intellectual disability, and speech delay, with or without seizures",
+      "disease_id": "OMIM:616999",
+      "score": 0.5,
+      "explanation": "This disorder, exemplified by reference Case 3 (TBCK-related), directly matches Microcephaly, Intellectual disability, and Delayed speech and language development. While hypotonia is a key feature of this specific disease and not explicitly stated for the patient, delayed gross motor development often accompanies hypotonia, making it a strong candidate."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300958",
+      "score": 0.3333333333333333,
+      "explanation": "Based on reference Case 2, this disease presents with Intellectual disability, Delayed speech and language development, and Motor delay (similar to gross motor delay). While the reference case notes Macrocephaly and the patient has Microcephaly, X-linked intellectual disabilities can exhibit variable head circumference, making it a plausible consideration consistent with the patient's male gender."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM:620560",
+      "score": 1.0,
+      "explanation": "This disease perfectly aligns with all five of the patient's key phenotypic features: Bilateral tonic-clonic seizure, Profound global developmental delay, Epileptic encephalopathy, Hypotonia, and CNS hypomyelination. All three provided similar reference cases, which presented with nearly identical symptom profiles including delayed CNS myelination, were diagnosed with Developmental and epileptic encephalopathy 112, making it the most probable diagnosis."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome",
+      "disease_id": "OMIM:225750",
+      "score": 0.5,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome is a group of genetic encephalopathies characterized by early-onset neurological dysfunction, frequently including seizures (often manifesting as epileptic encephalopathy), severe developmental delay, hypotonia (which can progress to spasticity), and leukodystrophy-like changes or hypomyelination on neuroimaging. The core neurological features and the presence of CNS hypomyelination strongly overlap with the patient's presentation."
+    },
+    {
+      "disease_name": "Hypomyelinating Leukodystrophy 13",
+      "disease_id": "OMIM:616391",
+      "score": 0.33,
+      "explanation": "Hypomyelinating Leukodystrophy 13 (HLD13), caused by mutations in the TUBB4A gene, is a recognized cause of hypomyelination. Patients typically present with early-onset hypotonia, global developmental delay, and can develop seizures and encephalopathy, which aligns well with the patient's reported CNS hypomyelination, hypotonia, profound developmental delay, and epileptic encephalopathy."
+    }
+  ]
+}

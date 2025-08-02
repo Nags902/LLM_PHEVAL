@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300294",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly aligns with both of the patient's reported phenotypic features (Clinodactyly and Abnormal facial shape) and is explicitly identified in Reference Case 1, which presented with the exact same combination of features."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki syndrome 1 shares significant phenotypic overlap with Kabuki syndrome 2, including characteristic facial features and skeletal anomalies such as clinodactyly. Given the strong match to Kabuki syndrome 2, Kabuki syndrome 1 is also a highly relevant consideration due to its similar clinical presentation."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:611867",
+      "score": 0.333,
+      "explanation": "Also known as DiGeorge syndrome, this condition often presents with abnormal facial shape, one of the patient's features, and was diagnosed in Reference Cases 2 and 3. While clinodactyly is not a hallmark feature of 22q11.2 deletion syndrome, the presence of abnormal facial shape and its association with other reference cases makes it a plausible, albeit less precise, candidate."
+    }
+  ]
+}

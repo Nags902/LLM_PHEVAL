@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "This syndrome perfectly matches the patient's combination of atrial septal defect, absent thumb, and upper limb phocomelia. Holt-Oram syndrome is classically characterized by congenital cardiac anomalies (most commonly atrial septal defects) and upper limb malformations, which can range from mild carpal bone abnormalities to severe defects like absent thumbs and phocomelia. All similar reference cases exhibiting these core features were explicitly diagnosed with Holt-Oram syndrome, strongly supporting this as the primary diagnosis."
+    },
+    {
+      "disease_name": "Thalidomide embryopathy",
+      "disease_id": "OMIM:273290",
+      "score": 0.5,
+      "explanation": "Phenotypically, thalidomide embryopathy is a strong mimic for the patient's presentation. It causes severe limb reduction defects, including phocomelia and absent thumbs, often accompanied by congenital cardiac defects such as atrial septal defect. While it is an acquired condition due to in-utero teratogen exposure rather than a genetic syndrome, its phenotypic overlap is significant and warrants consideration in the differential diagnosis."
+    },
+    {
+      "disease_name": "Roberts syndrome",
+      "disease_id": "OMIM:268300",
+      "score": 0.33,
+      "explanation": "Roberts syndrome is a severe autosomal recessive disorder characterized by profound limb reduction defects, including phocomelia, and can include cardiac defects. However, it typically also involves distinctive craniofacial anomalies (e.g., micrognathia, cleft lip/palate, ocular hypertelorism) and severe growth retardation, which are not mentioned in the patient's provided phenotypic features, making it a less likely fit compared to Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.25,
+      "explanation": "VACTERL association is a non-random association of congenital anomalies that includes cardiac (C) and limb (L) defects among others. While atrial septal defects and radial ray anomalies can occur, the specific combination of absent thumb and upper limb phocomelia, in the absence of other components of VACTERL (Vertebral, Anorectal, Tracheo-Esophageal, Renal), makes it a less precise and comprehensive fit compared to Holt-Oram syndrome, which is specifically defined by the heart-limb axis anomalies seen in the patient."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "This syndrome perfectly matches the patient's presented phenotypic features of ataxia and aniridia, and all provided similar reference cases with these exact features were diagnosed as Gillespie syndrome. It is the classic presentation for this specific combination of symptoms."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "WAGR syndrome includes aniridia as a prominent feature due to a deletion involving the PAX6 gene. While ataxia is not a typical symptom of WAGR syndrome, broader neurological abnormalities can occur. This is a much less likely diagnosis given the specific presence of ataxia and absence of other hallmark WAGR features (e.g., Wilms tumor, genitourinary anomalies), but it is considered due to the shared aniridia."
+    }
+  ]
+}

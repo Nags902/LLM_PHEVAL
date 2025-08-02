@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis, strongly supported by the striking phenotypic overlap with the similar reference cases (Case 2 and 3), both of which were diagnosed with Developmental and epileptic encephalopathy 4 (caused by STXBP1 mutations). The patient exhibits the core features of infantile spasms, hypsarrhythmia, multifocal epileptiform discharges, global developmental delay, infantile axial hypotonia, and various focal and generalized seizure types, all highly characteristic of this severe epileptic encephalopathy. While relative macrocephaly is not a universal feature, it has been reported in some individuals with STXBP1-related disorders and does not exclude the diagnosis given the overwhelming match of other key features."
+    },
+    {
+      "disease_name": "X-linked infantile spasms syndrome",
+      "disease_id": "OMIM:300673",
+      "score": 0.5,
+      "explanation": "Given the patient's male gender (Gender: 1), X-linked disorders are a relevant consideration. Mutations in the ARX gene cause X-linked infantile spasms syndrome, characterized by early-onset infantile spasms, severe global developmental delay, hypotonia, and a spectrum of brain malformations (e.g., lissencephaly, pachygyria) which can contribute to macrocephaly and the severe seizure phenotype, aligning well with the patient's presentation."
+    },
+    {
+      "disease_name": "Megalencephaly-Capillary Malformation-Polymicrogyria (MCAP) syndrome",
+      "disease_id": "OMIM:602501",
+      "score": 0.333,
+      "explanation": "This syndrome, primarily caused by PIK3CA mutations, is a strong candidate as it directly accounts for the combination of megalencephaly (macrocephaly), global developmental delay, and a high incidence of intractable epilepsy, including infantile spasms. While capillary malformations are a hallmark feature, their absence from the listed clinical data does not entirely rule out the diagnosis, as phenotypic expression can vary or not all features may be documented at initial assessment."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.25,
+      "explanation": "Tuberous Sclerosis Complex is a significant cause of infantile spasms, often presenting as the initial symptom in affected infants. It also frequently leads to other seizure types, global developmental delay, and can rarely be associated with macrocephaly. While the classic systemic features (e.g., hypomelanotic macules, facial angiofibromas, cortical tubers, subependymal nodules, renal angiomyolipomas) are not listed, the core neurological and seizure phenotype warrants its inclusion in the differential diagnosis given the prominence of infantile spasms."
+    }
+  ]
+}

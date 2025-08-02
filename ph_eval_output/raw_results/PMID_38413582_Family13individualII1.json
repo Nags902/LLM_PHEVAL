@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:615372",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the exceptionally high degree of phenotypic overlap with all three provided reference cases, all of whom were diagnosed with this specific LGMD subtype. The patient exhibits a near-identical constellation of symptoms, including widespread muscle weakness (proximal, distal, axial), motor delay, Gowers sign, calf muscle pseudohypertrophy, hyperlordosis, highly elevated creatine kinase, myopathic abnormalities on EMG, and respiratory insufficiency. The age and gender are also consistent with the typical presentation of muscular dystrophies."
+    },
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 0.5,
+      "explanation": "Duchenne Muscular Dystrophy is a highly plausible diagnosis given the patient's young age (P5Y) and male gender, combined with the classic presenting symptoms. These include motor delay, progressive proximal muscle weakness (leading to difficulty climbing stairs, Gowers sign, unsteady gait, hyperlordosis), calf muscle pseudohypertrophy, highly elevated creatine kinase, and myopathic abnormalities on EMG. Respiratory insufficiency is a common complication. While the reference cases strongly point to an LGMD, DMD is the most common and phenotypically similar severe muscular dystrophy in this demographic, making it a very strong differential."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.333,
+      "explanation": "Becker Muscular Dystrophy is a milder allelic variant of Duchenne Muscular Dystrophy, also affecting males. Its clinical presentation significantly overlaps with DMD, featuring progressive muscle weakness (proximal and distal), motor delay, calf pseudohypertrophy, elevated CK, and myopathic EMG findings. The progression is typically slower than DMD, and symptoms might manifest later or be less severe at this age, but it remains a strong candidate given the broad spectrum of dystrophinopathy and the patient's phenotype."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, type R1",
+      "disease_id": "OMIM:253600",
+      "score": 0.25,
+      "explanation": "Limb-Girdle Muscular Dystrophy type R1 (Calpainopathy, LGMD2A) is one of the most common autosomal recessive LGMD subtypes. It frequently presents in childhood with a phenotype very similar to the patient's, including progressive proximal muscle weakness, Gowers sign, difficulty climbing stairs, calf pseudohypertrophy, highly elevated CK, and hyperlordosis. While the specific LGMD29 was identified from reference cases, LGMD R1 represents a highly relevant differential diagnosis for this constellation of symptoms, reinforcing the likelihood of an LGMD."
+    }
+  ]
+}

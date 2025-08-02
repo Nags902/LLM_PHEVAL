@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:613723",
+      "score": 1.0,
+      "explanation": "This disease is highly ranked due to its precise alignment with the patient's core features, including Intellectual disability, Delayed speech and language development, and Aggressive behavior. Crucially, the specific seizure type, Bilateral tonic-clonic seizure with focal onset, directly matches a key feature of reference Case 1, which was diagnosed with this condition. This disorder, often associated with SCN1A gene mutations, encompasses a spectrum of severe early-onset epilepsies with neurodevelopmental impairment and behavioral challenges."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "This diagnosis is a very strong candidate due to its excellent fit with the patient's Intellectual disability, Delayed speech and language development, and Bilateral tonic-clonic seizure. While reference Cases 2 and 3 do not explicitly mention 'focal onset' for the seizure type, DEE9 (PCDH19-related) is well-known for diverse seizure types, including focal, often presenting in early childhood alongside intellectual disability and behavioral issues such as aggression or autistic features. Its strong representation across multiple similar reference cases makes it a highly relevant consideration."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.33,
+      "explanation": "CDKL5 deficiency disorder, also known as early infantile epileptic encephalopathy-2, is included as a plausible differential diagnosis. It is characterized by early-onset, often refractory, seizures (which can include focal and generalized types), severe intellectual disability, and significant developmental delay. While not directly indicated by the provided reference cases, its clinical presentation of core symptoms like seizures, intellectual disability, and developmental delay makes it a common and relevant consideration within the spectrum of developmental and epileptic encephalopathies."
+    }
+  ]
+}

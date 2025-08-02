@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibroma is a highly characteristic and frequently diagnostic feature of Neurofibromatosis, type 1. Its presence, even as a sole phenotypic feature, strongly points towards this diagnosis. All provided similar reference cases also presented with plexiform neurofibroma and were diagnosed as Neurofibromatosis, type 1."
+    },
+    {
+      "disease_name": "Schwannomatosis, 1",
+      "disease_id": "OMIM:607115",
+      "score": 0.5,
+      "explanation": "While plexiform neurofibromas are not typical for Schwannomatosis (which primarily involves multiple schwannomas), it is included as a low-probability differential. Schwannomatosis is a rare genetic disorder characterized by the development of multiple benign nerve sheath tumors, making it broadly related in the context of neurocutaneous syndromes affecting peripheral nerves."
+    }
+  ]
+}

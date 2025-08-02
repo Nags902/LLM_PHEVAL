@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Donnai-Barrow Syndrome",
+      "disease_id": "OMIM:227290",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest candidate due to the consistent association with Lobar holoprosencephaly and Prominent fingertip pads, both significant features in the patient. Other matching features include Microcephaly, Hypotonia, Seizures, Feeding difficulties, Recurrent infections (bronchiolitis), Macrotia, Protruding ear, High palate, and Hip dysplasia. While some specific facial features like eversion of lateral third of lower eyelids are less classic, the core combination aligns well."
+    },
+    {
+      "disease_name": "Chromosome 13q Deletion Syndrome",
+      "disease_id": "OMIM:613458",
+      "score": 0.5,
+      "explanation": "Deletions involving the long arm of chromosome 13 are well-known causes of Holoprosencephaly (especially when involving HPE-related genes), Microcephaly, Hypotelorism, Seizures, and Hypotonia. A wide array of dysmorphic features (including ear anomalies, depressed nasal features, high palate) and systemic issues like hip dysplasia and feeding difficulties are common. Prominent fingertip pads have been reported in some cases of 13q deletions, supporting this broad chromosomal category."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.333,
+      "explanation": "Kabuki Syndrome shows excellent overlap with many dysmorphic features (Prominent fingertip pads, Eversion of lateral third of lower eyelids, Depressed nasal tip, Long palpebral fissure, Highly arched eyebrow, Macrotia, Protruding ear), along with Hypotonia, Hip dysplasia, Feeding difficulties, and Recurrent infections. However, Lobar holoprosencephaly is not a typical or reported feature, making it less likely despite the strong facial phenotype match."
+    }
+  ]
+}

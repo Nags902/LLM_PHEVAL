@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt disease 1 is the most common inherited macular dystrophy and directly causes both reduced visual acuity and macular dystrophy. While often manifesting in childhood or adolescence, adult-onset forms are well-documented, making it a strong candidate for a 57-year-old patient presenting with these specific features."
+    },
+    {
+      "disease_name": "Adult-onset Foveomacular Vitelliform Dystrophy",
+      "disease_id": "OMIM:608161",
+      "score": 0.5,
+      "explanation": "This disease specifically matches the patient's age (P57Y) as it typically presents in adulthood. It is characterized by macular dystrophy, often with a vitelliform lesion in the fovea, leading to reduced visual acuity. It is a distinct form of macular dystrophy, commonly associated with mutations in genes such as BEST1 or PRPH2."
+    },
+    {
+      "disease_name": "Pattern Dystrophy of the Retinal Pigment Epithelium 1",
+      "disease_id": "OMIM:179605",
+      "score": 0.33,
+      "explanation": "Pattern dystrophies represent a heterogeneous group of inherited macular dystrophies characterized by specific patterns of pigment accumulation in the retinal pigment epithelium. This category includes Adult-onset Foveomacular Vitelliform Dystrophy. Many forms manifest in adulthood (fitting P57Y) and lead to progressive reduced visual acuity and macular dystrophy, often linked to mutations in PRPH2 (RDS gene)."
+    },
+    {
+      "disease_name": "Best Vitelliform Macular Dystrophy 1",
+      "disease_id": "OMIM:153870",
+      "score": 0.25,
+      "explanation": "While classic Best Vitelliform Macular Dystrophy 1 (Best disease) typically presents in childhood or adolescence, it is caused by mutations in the BEST1 gene. Adult-onset vitelliform maculopathies, which present similarly to the patient's symptoms and age, are recognized and can be caused by BEST1 mutations, making it a relevant differential diagnosis."
+    }
+  ]
+}

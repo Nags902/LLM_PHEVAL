@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:619047",
+      "score": 1.0,
+      "explanation": "This disease is the diagnosis for two of the provided similar reference cases (Case 1 and Case 2) and shows a very high degree of phenotypic overlap with the patient's features. Key overlapping features include Intellectual disability, Global developmental delay, Attention deficit hyperactivity disorder, Microcephaly, Motor delay, Feeding difficulties, Triangular face, Thick eyebrow, and Long philtrum. While Macrodontia, Short stature, and Intrauterine growth retardation are not always cardinal features, they can be variable manifestations or comorbidities in this syndromic presentation, making this the most likely diagnosis based on the strong overall gestalt and direct matches with similar cases."
+    },
+    {
+      "disease_name": "Silver-Russell Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.5,
+      "explanation": "Silver-Russell Syndrome is a strong consideration due to the presence of Intrauterine growth retardation, Short stature, Triangular face, and Feeding difficulties, which are hallmark features. Intellectual disability and ADHD can also be seen. However, the patient's Microcephaly is less typical for Silver-Russell Syndrome, which often presents with relative macrocephaly or a normal head circumference. Additionally, thick eyebrows and a long philtrum are not characteristic features of SRS, differentiating it from the primary candidate, but it remains a relevant differential for growth restriction phenotypes."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615716",
+      "score": 0.333,
+      "explanation": "This disease was identified in Case 3, sharing broad developmental features such as Intellectual disability, Global developmental delay, Motor delay, and Autistic behavior (which can overlap with ADHD). However, the most significant differentiating factor is the key feature of Macrocephaly in this disorder, which directly contradicts the patient's presentation of Microcephaly. Despite this contradiction, it is included as a potential diagnosis due to its presence in a similar reference case for other shared developmental symptoms, albeit with low confidence."
+    }
+  ]
+}

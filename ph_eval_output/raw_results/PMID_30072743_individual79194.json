@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613864",
+      "score": 1.0,
+      "explanation": "This disease is the top candidate as all of the patient's phenotypic features \u2013 Nystagmus, Reduced visual acuity, Peripheral retinal atrophy, and Bull's eye maculopathy \u2013 are explicitly listed in Reference Case 2, which led to a diagnosis of Leber congenital amaurosis 6. This provides a direct and strong match."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:608194",
+      "score": 0.5,
+      "explanation": "Cone-rod dystrophy 13 is a plausible alternative. It aligns with the patient's Nystagmus and Reduced visual acuity, as seen in Reference Cases 1 and 3. While Peripheral retinal atrophy and Bull's eye maculopathy are not explicitly detailed for CRD13 in the provided reference cases, these are known features that can occur in various forms of cone-rod dystrophy, particularly those associated with the ABCA4 gene (which is linked to CRD13), making it a relevant differential diagnosis."
+    }
+  ]
+}

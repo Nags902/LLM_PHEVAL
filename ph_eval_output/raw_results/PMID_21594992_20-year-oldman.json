@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfanoid-Progeroid-Lipodystrophy Syndrome",
+      "disease_id": "OMIM:616914",
+      "score": 1.0,
+      "explanation": "The patient's extensive phenotypic profile, including ectopia lentis, high myopia, arachnodactyly, hyperextensibility of finger joints, relative macrocephaly, prominent nasal bridge, proptosis, generalized lipodystrophy, reduced subcutaneous adipose tissue, progeroid facial appearance, intrauterine growth retardation, and failure to thrive, aligns almost perfectly with the features of Marfanoid-Progeroid-Lipodystrophy Syndrome (MPLS). This is strongly supported by two reference cases presenting with highly similar phenotypes and diagnosed with 'Marfan lipodystrophy syndrome'."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Many of the patient's connective tissue features such as ectopia lentis, high myopia, arachnodactyly, hyperextensibility of joints, high palate, pectus excavatum, and pes planus are cardinal features of classical Marfan Syndrome. However, the prominent generalized lipodystrophy, reduced subcutaneous adipose tissue, progeroid facial appearance, severe intrauterine growth retardation, and failure to thrive are not typical of classic Marfan Syndrome, making MPLS a more precise fit. Nevertheless, Marfan Syndrome remains a key differential due to the shared underlying gene (FBN1 in many cases of MPLS) and significant phenotypic overlap."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Classical Type",
+      "disease_id": "OMIM:130000",
+      "score": 0.333,
+      "explanation": "Shared features with Classical Ehlers-Danlos Syndrome include hyperextensibility of joints, bruising susceptibility, high palate, pectus excavatum, and pes planus. However, key features like ectopia lentis, generalized lipodystrophy, prominent progeroid facial appearance, relative macrocephaly, and severe intrauterine growth retardation are not typically observed in Classical Ehlers-Danlos Syndrome, making it a less likely diagnosis compared to the FBN1-related disorders."
+    }
+  ]
+}

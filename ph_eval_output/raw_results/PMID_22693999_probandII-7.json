@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 6",
+      "disease_id": "OMIM:613109",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly matches the clinical features of 'Amyloidosis of peripheral nerves' and 'Chronic diarrhea' seen in the patient, mirroring the diagnoses in all three provided reference cases. Chronic constipation is also a common feature due to autonomic neuropathy in this condition."
+    },
+    {
+      "disease_name": "Amyloidosis, AL type",
+      "disease_id": "OMIM:105200",
+      "score": 0.5,
+      "explanation": "AL amyloidosis is the most common form of systemic amyloidosis and frequently presents with peripheral neuropathy and gastrointestinal involvement, including chronic diarrhea and constipation due to amyloid infiltration or autonomic neuropathy. It is a critical differential diagnosis for the observed symptoms."
+    },
+    {
+      "disease_name": "Amyloidosis, AA type",
+      "disease_id": "OMIM:104900",
+      "score": 0.33,
+      "explanation": "AA amyloidosis can cause gastrointestinal symptoms, including chronic diarrhea, although peripheral neuropathy is a less common primary feature compared to ATTR or AL amyloidosis. It is considered as a potential systemic amyloidosis affecting the GI tract."
+    },
+    {
+      "disease_name": "Familial Amyloid Polyneuropathy, Type III",
+      "disease_id": "OMIM:107670",
+      "score": 0.25,
+      "explanation": "Also known as ApoAI-related amyloidosis, this rare hereditary form of amyloidosis can cause peripheral neuropathy and gastrointestinal symptoms, making it a plausible but less common differential diagnosis given the patient's presentation."
+    }
+  ]
+}

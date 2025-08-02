@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rabin-Pappas syndrome",
+      "disease_id": "OMIM:300958",
+      "score": 1.0,
+      "explanation": "This syndrome aligns remarkably well with all the patient's listed phenotypic features: tall stature, obesity, macrocephaly, and a high forehead (often described as prominent or broad forehead in this context). It was also the specific diagnosis given in a highly similar reference case (Case 3) which presented with an overlapping phenotype including these core features. While intellectual disability is a common feature of Rabin-Pappas syndrome and is not explicitly stated for the patient, phenotypic variability exists, and the strong physical feature match makes it the most likely candidate."
+    },
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos syndrome is a classic overgrowth syndrome characterized by macrocephaly, tall stature, and a prominent forehead (consistent with a high forehead), all of which are present in the patient. Obesity can also be an associated feature. The primary divergence is the lack of stated intellectual disability or developmental delay, which are hallmark features of Sotos syndrome. However, the strong physical phenotype remains highly suggestive."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.333,
+      "explanation": "Weaver syndrome is another distinct overgrowth syndrome that closely matches the patient's key features, including macrocephaly, tall stature, and obesity. Facial features often include a broad forehead, which aligns with the patient's high forehead. Similar to Sotos syndrome, intellectual disability is typically a core feature but is not listed for the patient. Despite this, the physical presentation is a strong match."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.25,
+      "explanation": "Simpson-Golabi-Behmel syndrome (SGBS) is an X-linked overgrowth syndrome characterized by pre- and postnatal overgrowth (tall stature), macrocephaly, and a predisposition to obesity, directly matching three of the patient's features. While intellectual disability and various congenital anomalies are common, their absence in the patient's brief description does not rule out SGBS entirely given the strong physical overlap."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.2,
+      "explanation": "PTEN Hamartoma Tumor Syndrome (PHTS), which includes Cowden syndrome, is primarily characterized by macrocephaly and an increased risk of hamartomas and cancer. While not as consistently central as in dedicated overgrowth syndromes, increased BMI/obesity and tall stature can be associated findings. The macrocephaly is a strong match, and the other features, though less specific, are not contradictory, making it a plausible consideration."
+    }
+  ]
+}

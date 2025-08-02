@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 2",
+      "disease_id": "OMIM:220110",
+      "score": 1.0,
+      "explanation": "This disease is the most likely diagnosis due to a perfect match with two highly similar reference cases that share all the patient's phenotypic features, including myopathic abnormalities, hypertrophic cardiomyopathy, respiratory failure, hypotonia, abnormal facial shape, hyporeflexia, nystagmus, metabolic acidosis, peripheral neuropathy, and limb dystonia. The infantile onset (P5M) is also highly consistent with this severe mitochondrial disorder, often caused by mutations in the SURF1 gene, leading to Leigh-like syndrome with complex IV deficiency."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh Syndrome is a severe neurodegenerative disorder that encompasses various genetic defects in mitochondrial energy production, including Complex IV deficiency. The patient's presentation with progressive neurological dysfunction (hypotonia, nystagmus, peripheral neuropathy, limb dystonia), myopathy, respiratory failure, cardiac involvement (hypertrophic cardiomyopathy), and metabolic acidosis (lactic acidosis is a hallmark) is highly characteristic of Leigh Syndrome. This broader diagnosis is strongly supported, as the 'Mitochondrial complex IV deficiency, nuclear type 2' falls under the spectrum of Leigh Syndrome."
+    },
+    {
+      "disease_name": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes",
+      "disease_id": "OMIM:540000",
+      "score": 0.333,
+      "explanation": "While 'stroke-like episodes' are a defining feature of MELAS, this patient's symptoms, including myopathic abnormalities, lactic acidosis (metabolic acidosis), hypertrophic cardiomyopathy, and neurological manifestations (nystagmus, peripheral neuropathy, limb dystonia), are consistent with other aspects of MELAS. Although classic MELAS often presents later in childhood, severe infantile forms have been reported. The strong evidence for a mitochondrial disorder with multi-system involvement makes MELAS a plausible, albeit less precise, alternative in the differential diagnosis compared to Leigh Syndrome."
+    }
+  ]
+}

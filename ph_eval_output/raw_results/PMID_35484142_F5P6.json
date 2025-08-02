@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy 2",
+      "disease_id": "OMIM:609071",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as it is directly indicated by all provided similar reference cases, which perfectly match the patient's phenotypic features including dysphagia, respiratory insufficiency, ophthalmoplegia, asthenia, and ptosis. While typically adult-onset, the strong guidance from similar cases makes it the top candidate."
+    },
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy 1",
+      "disease_id": "OMIM:164300",
+      "score": 0.5,
+      "explanation": "This is the more common form of oculopharyngeal muscular dystrophy and presents with a highly similar constellation of symptoms including progressive ptosis, ophthalmoplegia, dysphagia, asthenia, and potential respiratory insufficiency. It aligns perfectly with the patient's phenotypic features and is closely related to the disease suggested by the reference cases."
+    },
+    {
+      "disease_name": "Autoimmune Myasthenia Gravis",
+      "disease_id": "OMIM:254200",
+      "score": 0.3333333333333333,
+      "explanation": "A strong differential diagnosis given the patient's symptoms. Myasthenia Gravis classically presents with fluctuating ptosis, ophthalmoplegia, dysphagia (bulbar weakness), and can lead to respiratory insufficiency and generalized weakness (asthenia) due to neuromuscular junction dysfunction. Juvenile onset is common, fitting the patient's age."
+    },
+    {
+      "disease_name": "Kearns-Sayre Syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.25,
+      "explanation": "This is a mitochondrial disorder characterized by chronic progressive external ophthalmoplegia (CPEO), ptosis, and often includes muscle weakness (asthenia), dysphagia, and respiratory involvement. Onset typically occurs before age 20, making it a plausible diagnosis for a 12-year-old patient with these specific ocular and systemic neuromuscular features."
+    },
+    {
+      "disease_name": "Myotonic Dystrophy Type 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.2,
+      "explanation": "This condition often presents with ptosis, dysphagia (due to pharyngeal muscle weakness), and generalized muscle weakness (asthenia). Respiratory insufficiency is also a common complication, especially in more severe forms. While ophthalmoplegia is not as primary as in OPMD or MG, it can occur. The patient's age fits within the spectrum of onset for this condition."
+    }
+  ]
+}

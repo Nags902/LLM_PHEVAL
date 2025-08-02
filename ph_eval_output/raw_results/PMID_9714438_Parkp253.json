@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital contractural arachnodactyly (Beals Syndrome)",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches the patient's phenotypic features, including the highly characteristic crumpled ear, arachnodactyly, multiple contractures (camptodactyly of finger and toe, elbow contracture), and scoliosis. The presence of aortic root aneurysm and mitral valve prolapse is also consistent with the broader phenotypic spectrum of this condition. All provided reference cases were diagnosed with this disease, strongly supporting its top ranking."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan syndrome shares significant overlap with the patient's presentation, including arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse. However, the presence of crumpled ears and the prominence of congenital contractures (camptodactyly, elbow contracture) are more classic features of congenital contractural arachnodactyly than Marfan syndrome, placing it lower in the ranking despite strong cardiovascular and skeletal similarities."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "Loeys-Dietz syndrome is another connective tissue disorder characterized by arterial aneurysms (including aortic root aneurysm) and can present with arachnodactyly, scoliosis, and mitral valve prolapse. Some subtypes can have contractures, but crumpled ears are not a typical feature, and the combination of features points less strongly to LDS compared to congenital contractural arachnodactyly or even Marfan syndrome without additional characteristic craniofacial features often seen in LDS."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182230",
+      "score": 0.25,
+      "explanation": "Shprintzen-Goldberg syndrome can present with marfanoid habitus, arachnodactyly, contractures, scoliosis, and aortic root dilation, overlapping with several of the patient's features. However, it typically also involves craniosynostosis and other distinctive craniofacial anomalies not mentioned in the patient's data, making it a less likely fit than the higher-ranked conditions, despite some phenotypic similarities."
+    }
+  ]
+}

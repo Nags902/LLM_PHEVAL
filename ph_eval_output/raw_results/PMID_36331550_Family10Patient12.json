@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 82",
+      "disease_id": "OMIM:618826",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as its characteristic features, as illustrated in Reference Case 3, directly match all three of the patient's core phenotypic features: Intellectual disability, Delayed speech and language development, and Attention deficit hyperactivity disorder."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Fragile X Syndrome is a very common genetic cause of intellectual disability, delayed speech and language development, and frequently presents with behavioral issues including Attention deficit hyperactivity disorder and autism spectrum disorder. The patient's symptoms align perfectly with this common diagnosis, even though it wasn't a specific named 'Intellectual developmental disorder, X-linked XXX' in the provided reference cases."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:301015",
+      "score": 0.333,
+      "explanation": "Based on Reference Case 2, this disorder presents with Intellectual disability, Delayed speech and language development, and 'Short attention span,' which is a direct component of Attention deficit hyperactivity disorder. This makes it a strong match for the patient's complete symptom profile."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome",
+      "disease_id": "OMIM:610253",
+      "score": 0.25,
+      "explanation": "Kleefstra Syndrome is characterized by intellectual disability (often moderate to severe), global developmental delay, severe speech delay, and behavioral problems including ADHD. The neurodevelopmental symptoms of the patient are a strong fit for this syndrome."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:300974",
+      "score": 0.2,
+      "explanation": "Reference Case 1 for this disorder shows Intellectual disability and Delayed speech and language development. While Attention deficit hyperactivity disorder is not explicitly listed for this specific disorder in the reference, it is a common comorbidity in individuals with intellectual disability and developmental delays, making this an plausible, though less specific, candidate given the patient's full symptom set."
+    }
+  ]
+}

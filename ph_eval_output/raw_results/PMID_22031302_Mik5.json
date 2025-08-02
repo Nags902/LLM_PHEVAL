@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:300994",
+      "score": 1.0,
+      "explanation": "This disease directly matches both core phenotypic features (Intellectual disability, Delayed speech and language development) and is the diagnosis from Case 1, which presented with nearly identical features (Delayed speech and language development, Intellectual disability, mild). The X-linked nature is also consistent with the possibility of a male patient given 'Gender: 0'."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:617935",
+      "score": 0.5,
+      "explanation": "This disorder perfectly encompasses the patient's core features of Intellectual disability and Delayed speech and language development, as indicated by its name and its presence in Case 3, which had Delayed speech and language development and Intellectual disability, mild. While Case 3 also presented with hypotonia, microcephaly, and short stature, the core features match, making it a highly relevant differential."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.33,
+      "explanation": "Fragile X syndrome is the most common inherited cause of intellectual disability and is frequently associated with delayed speech and language development. It should always be considered when these two features are present, particularly if the patient is male (implied by 'Gender: 0' often indicating male or not specified, but X-linked disorders are more prevalent/severe in males)."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300995",
+      "score": 0.25,
+      "explanation": "While sharing the core features of Intellectual disability and Delayed speech and language development with the patient, this diagnosis from Case 2 includes a broader range of symptoms (e.g., macrocephaly, prominent forehead, strabismus, motor delay) not specified in the patient's brief description. However, its inclusion in the reference cases and the X-linked nature make it a plausible, albeit slightly less precise, match than the top-ranked options based on the limited data."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient presents with axillary freckling and inguinal freckling (Crowe's sign), which are highly characteristic diagnostic criteria for Neurofibromatosis, type 1 (NF1). The presence of cafe-au-lait spots further supports this, even if described as 'few'. All provided similar reference cases with axillary/inguinal freckling and cafe-au-lait spots were diagnosed as NF1, strongly reinforcing this as the primary candidate."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius Syndrome is a strong differential diagnosis for NF1. It is a genodermatosis characterized by multiple cafe-au-lait macules and axillary/inguinal freckling, phenotypically mimicking the pigmentary features of NF1 without the development of neurofibromas, Lisch nodules, or optic gliomas. Given the patient's presentation with exactly these pigmentary features, Legius Syndrome must be considered, especially if the patient does not meet the full quantitative criteria for cafe-au-lait spots or other NF1 features are absent."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines (LEOPARD syndrome)",
+      "disease_id": "OMIM:151100",
+      "score": 0.3333,
+      "explanation": "Noonan syndrome with multiple lentigines (formerly LEOPARD syndrome) is a Rasopathy that can present with cafe-au-lait spots and lentigines (freckle-like spots). While it shares some pigmentary features, the specific presentation of axillary and inguinal freckling (Crowe's sign) is less typical for LEOPARD syndrome compared to NF1 or Legius Syndrome, which are primarily characterized by these findings. However, it remains a possible, albeit less likely, cause for multiple pigmentary lesions."
+    }
+  ]
+}

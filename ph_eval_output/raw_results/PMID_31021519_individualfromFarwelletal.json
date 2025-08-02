@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:618826",
+      "score": 1.0,
+      "explanation": "This patient's phenotypic features (Cleft palate, Intellectual disability, Global developmental delay) perfectly match Case 1 in the similar reference cases, which was diagnosed as Glass syndrome. This strongly suggests Glass syndrome as the primary candidate."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.5,
+      "explanation": "22q11.2 Deletion Syndrome (also known as DiGeorge syndrome or velocardiofacial syndrome) is a common genetic condition characterized by cleft palate, intellectual disability (often mild to moderate), and global developmental delay. It is a highly relevant differential diagnosis given the patient's presentation."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.3333333333333333,
+      "explanation": "Kabuki syndrome is characterized by distinctive facial features, intellectual disability, global developmental delay, and skeletal anomalies. Cleft palate is a common feature, making it a strong candidate for this patient's phenotype."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:613767",
+      "score": 0.25,
+      "explanation": "Similar to Kabuki syndrome 1, Kabuki syndrome 2 also presents with intellectual disability, global developmental delay, and craniofacial anomalies including cleft palate, making it a plausible differential diagnosis."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi syndrome is characterized by broad thumbs and toes, distinctive facial features, intellectual disability, and global developmental delay. Cleft palate is a known but less frequent associated feature, making it a possible diagnosis."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.16666666666666666,
+      "explanation": "Similar to Rubinstein-Taybi syndrome 1, this subtype also presents with intellectual disability, global developmental delay, and can include cleft palate, warranting its consideration."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.14285714285714285,
+      "explanation": "CHARGE syndrome is a complex genetic disorder. While its full spectrum includes Coloboma, Heart defects, Atresia choanae, Retarded growth and development, Genital anomalies, and Ear anomalies, developmental delay, intellectual disability, and cleft palate are common features, placing it on the differential list despite the absence of other reported features."
+    }
+  ]
+}

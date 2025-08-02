@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow syndrome, autosomal recessive",
+      "disease_id": "OMIM:268310",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to an exceptional overlap with the patient's phenotypic features, including small nail, brachydactyly, mesomelia, broad thumb, symphalangism of the 5th finger, frontal bossing, long philtrum, short nose, anteverted nares, triangular mouth, hypertelorism, micropenis, short stature, and joint hypermobility. Furthermore, two of the provided similar reference cases (Case 1 and Case 3) were diagnosed with Robinow syndrome, autosomal recessive, presenting a highly concordant clinical picture."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "While the autosomal recessive form is specifically highlighted by the reference cases, Robinow syndrome can also be inherited in an autosomal dominant manner (e.g., via WNT5A, DVL1, DVL3, or RSPO2 mutations). The clinical presentation of the autosomal dominant form is highly similar to the autosomal recessive form, encompassing many of the patient's key features, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Al Kaissi syndrome",
+      "disease_id": "OMIM:616335",
+      "score": 0.3333333333333333,
+      "explanation": "This syndrome shares some general features with the patient, such as short stature, long philtrum, and joint hypermobility, and was present as a reference case. However, it lacks many of the highly specific and characteristic features observed in the patient, such as small nails, brachydactyly, mesomelia, broad thumb, symphalangism, specific craniofacial anomalies (short nose, anteverted nares, triangular mouth, frontal bossing), and micropenis. Therefore, it is considered a much less likely diagnosis compared to Robinow syndrome."
+    }
+  ]
+}

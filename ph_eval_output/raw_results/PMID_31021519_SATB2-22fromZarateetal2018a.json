@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome (ARID1B-related)",
+      "disease_id": "OMIM:614538",
+      "score": 1.0,
+      "explanation": "This syndrome is the most likely causative disease due to a strong phenotypic overlap with the patient's features and the reference cases. Coffin-Siris syndrome, especially forms linked to ARID1B, is characterized by intellectual disability, global developmental delay, growth delay, feeding difficulties in infancy, and abnormality of the dentition. Delayed ability to walk is a common manifestation of global developmental delay. While not a universal hallmark, reduced bone mineral density has been reported in individuals with Coffin-Siris syndrome, and features such as cleft palate and seizures (present in some reference cases) can also occur in this syndrome, further strengthening the match."
+    },
+    {
+      "disease_name": "Hypophosphatasia, Childhood Type",
+      "disease_id": "OMIM:241510",
+      "score": 0.5,
+      "explanation": "Hypophosphatasia is a metabolic bone disorder that explains several key features including reduced bone mineral density (rickets/osteomalacia), growth delay, delayed ability to walk due to skeletal weakness, and characteristic dental abnormalities (e.g., premature tooth loss). Feeding difficulties can also be observed. However, intellectual disability and global developmental delay are not primary or core features of hypophosphatasia, which makes it a less comprehensive fit than Coffin-Siris syndrome, although severe forms can have neurological implications."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta, Type III",
+      "disease_id": "OMIM:259420",
+      "score": 0.33,
+      "explanation": "Osteogenesis Imperfecta Type III is a severe form of brittle bone disease that presents with significant reduced bone mineral density, growth delay, and dental abnormalities (dentinogenesis imperfecta). Delayed ability to walk is a direct consequence of bone fragility and deformities. Feeding difficulties can also be present in severe cases. However, intellectual disability and global developmental delay are not typically primary features of Osteogenesis Imperfecta, which lessens its overall fit compared to Coffin-Siris syndrome, which encompasses a broader neurodevelopmental phenotype."
+    }
+  ]
+}

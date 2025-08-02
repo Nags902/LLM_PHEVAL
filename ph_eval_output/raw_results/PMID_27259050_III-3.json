@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome 1",
+      "disease_id": "OMIM:615873",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches the patient's comprehensive clinical presentation. The patient exhibits severe pancytopenia (including bone marrow hypocellularity, neutropenia, anemia, thrombocytopenia, and purpura), coupled with a distinct set of progressive neurological symptoms indicative of cerebellar dysfunction and pyramidal tract involvement (unsteady gait, nystagmus, dysarthria, dysmetria, ankle clonus, and Babinski sign). This phenotype is directly analogous to the provided reference cases, all of which were diagnosed as Ataxia-pancytopenia syndrome. The patient's age (P47Y) is also consistent with the typical adult onset of this disorder, which is often caused by mutations in the *SAMD9L* gene."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant",
+      "disease_id": "OMIM:127550",
+      "score": 0.5,
+      "explanation": "Dyskeratosis Congenita (DC) is a rare telomere biology disorder prominently characterized by progressive bone marrow failure, leading to pancytopenia and hypocellularity, which strongly aligns with the patient's severe hematological features. While DC is classically associated with a triad of mucocutaneous abnormalities, neurological involvement, including cerebellar atrophy and ataxia, has been reported in a subset of patients, particularly with specific genetic mutations (e.g., TINF2, RTEL1). Given the significant and unexplained pancytopenia, DC represents an important differential diagnosis despite the neurological features being less universally characteristic than in Ataxia-pancytopenia syndrome."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.3333333333333333,
+      "explanation": "Fanconi Anemia (FA) is a well-established inherited bone marrow failure syndrome that causes progressive pancytopenia and bone marrow hypocellularity, matching the patient's core hematological findings. While FA is frequently associated with characteristic congenital anomalies (which are not reported for this patient) and typically presents in childhood, adult-onset forms can occur. Neurological abnormalities are not a primary or common feature of FA and are generally not characterized by the specific pattern of prominent cerebellar ataxia and pyramidal signs observed in this patient. However, due to the severe bone marrow failure and the instruction to provide multiple diseases, FA is included as a broader, albeit less likely, differential diagnosis."
+    }
+  ]
+}

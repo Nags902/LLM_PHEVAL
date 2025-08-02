@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616521",
+      "score": 1.0,
+      "explanation": "This syndrome is strongly indicated by the presence of Astigmatism, Delayed gross motor development, and Delayed speech and language development, which directly match three of the patient's four phenotypic features. This alignment is further supported by Reference Case 3, which presents with the identical trio of these features. While ventriculomegaly is not a classic finding in White-Sutton syndrome, its occurrence does not definitively exclude the diagnosis, as brain imaging findings can be variable in related developmental disorders."
+    },
+    {
+      "disease_name": "Hydrocephalus, X-linked",
+      "disease_id": "OMIM:307000",
+      "score": 0.5,
+      "explanation": "X-linked hydrocephalus (part of the L1CAM-related disorder spectrum) is a strong candidate because ventriculomegaly is a hallmark feature, and significant global developmental delays (including motor and speech) are common. While astigmatism is not a primary feature, other ocular issues like strabismus can be present, and specific refractive errors might occur. Although typically X-linked and more common in males, affected females can be observed due to de novo mutations or skewed X-inactivation, making it a plausible consideration."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.33,
+      "explanation": "Walker-Warburg syndrome is characterized by severe brain malformations, often including significant ventriculomegaly and profound developmental delays (gross motor and speech). Severe ocular anomalies are also a cardinal feature, which could encompass astigmatism. Although typically a more severe condition with earlier mortality, it aligns well with the key features of ventriculomegaly and developmental delays alongside ocular involvement, making it a differential diagnosis."
+    }
+  ]
+}

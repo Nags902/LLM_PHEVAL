@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "The patient exhibits classic features of Albright Hereditary Osteodystrophy (AHO): short stature, short metacarpals, and intellectual disability. Pseudohypoparathyroidism Ia is the most common form of AHO, characterized by these phenotypic features along with multi-hormone resistance (e.g., elevated PTH). Case 1, which shares the exact phenotypic features (short metacarpal, short stature, intellectual disability) and was diagnosed as Pseudohypoparathyroidism Ia (with elevated PTH), strongly supports this as the primary diagnosis. Although hormone levels are not provided for the patient, the phenotypic match is exact for AHO, making this a highly probable causative disease."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "This condition also manifests with the full Albright Hereditary Osteodystrophy (AHO) phenotype, including short stature, short metacarpals, and intellectual disability, identical to the patient's presentation. Unlike Pseudohypoparathyroidism Ia, it is not associated with hormone resistance (patients typically have normal PTH levels). Reference Cases 2 and 3, presenting with similar AHO features, were diagnosed as Pseudopseudohypoparathyroidism, making it a highly relevant alternative diagnosis. It is genetically related to Pseudohypoparathyroidism Ia, often resulting from paternal inheritance of GNAS mutations."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism, Type Ic",
+      "disease_id": "OMIM:612462",
+      "score": 0.3333333333333333,
+      "explanation": "Pseudohypoparathyroidism Type Ic is another variant of pseudohypoparathyroidism that presents with the Albright Hereditary Osteodystrophy phenotype, including short stature, short metacarpals, and intellectual disability, making it phenotypically very similar to Pseudohypoparathyroidism Ia. It involves multihormone resistance due to an altered G protein alpha subunit, but often with normal erythrocyte Gs\u03b1 activity. This is a less common but phenotypically matching subtype of PHP that should be considered."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ALG1-CDG (Congenital disorder of glycosylation, type Ik)",
+      "disease_id": "OMIM:608104",
+      "score": 1.0,
+      "explanation": "This specific subtype of Congenital Disorder of Glycosylation (CDG) is a strong candidate as it explains a remarkable number of the patient's severe and diverse features. It is characterized by a Type I transferrin isoform profile, which is a key diagnostic finding in the patient. Furthermore, ALG1-CDG can present with fetal pericardial effusion, seizures, cerebellar atrophy, cerebral atrophy, hypotonia, failure to thrive, and esotropia. Notably, polycystic kidney dysplasia has also been reported in patients with ALG1-CDG, making it an excellent match for the patient's complex phenotype."
+    },
+    {
+      "disease_name": "DPAGT1-CDG (Congenital disorder of glycosylation, type Ij)",
+      "disease_id": "OMIM:608094",
+      "score": 0.5,
+      "explanation": "DPAGT1-CDG represents another severe form of Congenital Disorder of Glycosylation that frequently manifests with features observed in the patient. These include a Type I transferrin isoform profile, fetal pericardial effusion (often as part of hydrops fetalis), seizures, cerebral and cerebellar atrophy, hypotonia, and failure to thrive. Polycystic kidneys have also been documented in this condition. While often leading to severe outcomes, the patient's presentation aligns well with the known spectrum of DPAGT1-CDG."
+    },
+    {
+      "disease_name": "PMM2-CDG (Congenital disorder of glycosylation, type Ia)",
+      "disease_id": "OMIM:212065",
+      "score": 0.33,
+      "explanation": "As the most common type of CDG, PMM2-CDG is a significant consideration. It robustly explains the Type I transferrin isoform profile, hypotonia, seizures, cerebellar atrophy, cerebral atrophy, failure to thrive, and esotropia. While fetal pericardial effusion and polycystic kidney dysplasia are less typical for PMM2-CDG compared to some other CDG types, severe or atypical presentations can be pleiotropic. Given the strong evidence for CDG in general, PMM2-CDG remains a highly plausible diagnosis to investigate."
+    },
+    {
+      "disease_name": "Coenzyme Q10 deficiency, primary, 7",
+      "disease_id": "OMIM:616227",
+      "score": 0.25,
+      "explanation": "This diagnosis is included primarily because it was identified in a similar reference case that shared cerebellar atrophy and seizures with the current patient. However, Coenzyme Q10 deficiency does not typically explain the fetal pericardial effusion, polycystic kidney dysplasia, or, critically, the Type I transferrin isoform profile, which is a highly specific marker for CDG. Therefore, while some neurological symptoms overlap, it is a less likely diagnosis compared to the CDG subtypes, given the full phenotypic spectrum."
+    }
+  ]
+}

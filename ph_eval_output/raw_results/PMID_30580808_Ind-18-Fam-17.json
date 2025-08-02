@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 8",
+      "disease_id": "OMIM:617937",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation exhibits a remarkably strong and comprehensive overlap with the features described in reference cases 2 and 3, both of which are diagnosed as Coffin-Siris syndrome 8. Key matching phenotypes include Seizure, Intellectual disability, Mild global developmental delay, Hypoplasia of the corpus callosum, Clinodactyly, Orofacial cleft, and highly distinctive craniofacial features such as Thick eyebrow, Wide nose, Thick nasal alae, Broad philtrum, Thin upper lip vermilion, Low-set ears, and Posteriorly rotated ears. This extensive phenotypic concordance makes Coffin-Siris syndrome 8 the most likely causative disease."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:111690",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome (CSS) represents a group of genetically heterogeneous neurodevelopmental disorders characterized by intellectual disability, developmental delay, distinctive facial features, and often hypoplastic or absent fifth fingernails/toenails, though not all features are present in every individual. Given the strong match with Coffin-Siris syndrome 8, the broader Coffin-Siris syndrome spectrum remains a highly relevant diagnostic consideration, encompassing various subtypes that share core features observed in the patient. This allows for coverage if the specific genetic cause points to another CSS subtype."
+    }
+  ]
+}

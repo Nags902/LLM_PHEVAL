@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease (ADTKD-UMOD) is a highly probable diagnosis as it directly manifests with chronic kidney disease, hyperuricemia, and proteinuria, precisely matching all of the patient's phenotypic features. Furthermore, it is explicitly diagnosed in two of the three similar reference cases (Case 2 and Case 3), both of which also presented with proteinuria, significantly strengthening its relevance for this patient."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:609054",
+      "score": 0.5,
+      "explanation": "This disease (also an ADTKD-UMOD type) is a very strong candidate due to its characteristic presentation of chronic kidney disease and hyperuricemia, both prominent in the patient. It was the diagnosis in one of the similar reference cases (Case 1). While specific mention of proteinuria was not highlighted in that case's listed features, proteinuria can occur. Given its genetic similarity and overlapping clinical features with ADTKD1, it remains a highly likely diagnosis."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, with mucin-1 abnormality",
+      "disease_id": "OMIM:601450",
+      "score": 0.33,
+      "explanation": "Although not explicitly mentioned in the provided reference cases, ADTKD-MUC1 is another well-recognized form of autosomal dominant tubulointerstitial kidney disease that causes progressive chronic kidney disease and hyperuricemia, consistent with the patient's features. Proteinuria is also a possible manifestation. It is a key differential diagnosis within the broader ADTKD spectrum, which is strongly indicated by the patient's phenotype and the reference cases."
+    }
+  ]
+}

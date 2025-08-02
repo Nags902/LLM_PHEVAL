@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, autosomal recessive 125",
+      "disease_id": "OMIM:618685",
+      "score": 1.0,
+      "explanation": "This disease is strongly indicated by the provided similar reference cases. All three reference cases presented with Sensorineural hearing impairment and Delayed speech and language development, along with additional features, and were diagnosed with Deafness, autosomal recessive 125. The patient's reported symptoms are a direct match to the core features observed in these highly relevant similar cases."
+    },
+    {
+      "disease_name": "Deafness, autosomal recessive 1 (GJB2-related)",
+      "disease_id": "OMIM:220290",
+      "score": 0.5,
+      "explanation": "Mutations in the GJB2 gene are the most common cause of non-syndromic sensorineural hearing loss worldwide. Significant early-onset sensorineural hearing impairment directly leads to delayed speech and language development, making this a very common and highly relevant differential diagnosis for the patient's presented symptoms, even if not explicitly mentioned in the reference cases."
+    },
+    {
+      "disease_name": "Usher syndrome type 2A",
+      "disease_id": "OMIM:276901",
+      "score": 0.33,
+      "explanation": "Usher syndrome is a genetically heterogeneous group of disorders characterized by sensorineural hearing loss and progressive vision loss (retinitis pigmentosa). Type 2A is a common subtype. Delayed speech and language development is a direct consequence of the hearing impairment. While no vision symptoms are reported for the patient, these can have a later onset, making Usher syndrome a significant consideration for sensorineural hearing impairment and speech delay."
+    }
+  ]
+}

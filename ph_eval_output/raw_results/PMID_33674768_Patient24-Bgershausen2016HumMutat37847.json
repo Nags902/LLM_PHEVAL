@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1 (KMT2D-related)",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "This syndrome presents a strong fit for a majority of the patient's phenotypic features. Key matches include intellectual disability, intrauterine growth retardation, feeding difficulties, clinodactyly, narrow palate, and characteristic abnormal facial shape. Crucially, prominent fingertip pads (often described as prominent fetal pads or prominent digital pads) and horseshoe kidney are recognized and frequently reported features in Kabuki Syndrome. While neonatal hypoglycemia is not a primary hallmark, it can occur in complex syndromic conditions, especially those with growth restriction and metabolic vulnerabilities. The overall pattern aligns well with the patient's presentation and the broader 'developmental delay, dysmorphic facies' described in the reference cases."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2 (KDM6A-related)",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "This subtype of Kabuki Syndrome shares a highly similar core phenotypic spectrum with Kabuki Syndrome 1, as both result in the Kabuki facies and associated multisystem anomalies. Therefore, it is also a very strong candidate. It accounts for the patient's intellectual disability, intrauterine growth retardation, feeding difficulties, clinodactyly, narrow palate, abnormal facial shape, prominent fingertip pads, and horseshoe kidney. Similar to Kabuki Syndrome 1, neonatal hypoglycemia is not a classic feature but does not rule out the diagnosis given the strong overall phenotypic match."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 4 (ARID1B-related)",
+      "disease_id": "OMIM:617806",
+      "score": 0.33,
+      "explanation": "Coffin-Siris Syndrome, particularly the ARID1B-related form which is the most common genetic cause, is a compelling differential diagnosis. This syndrome frequently presents with intellectual disability, intrauterine growth retardation, feeding difficulties, and abnormal facial features. Prominent fingertip pads are described in some patients, especially in the context of variable digital anomalies, and renal anomalies including horseshoe kidney are reported. Clinodactyly and a high-arched palate are also consistent. Like Kabuki Syndrome, neonatal hypoglycemia is not a common or primary feature of Coffin-Siris Syndrome, but the extensive overlap in other key dysmorphic and developmental features makes it a highly probable cause."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1 (SMARCB1-related)",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "This is another established genetic subtype of Coffin-Siris Syndrome. It presents with a phenotype largely overlapping with other Coffin-Siris forms, including intellectual disability, intrauterine growth retardation, feeding difficulties, dysmorphic facial features, and the possibility of prominent fingertip pads, clinodactyly, and horseshoe kidney. While neonatal hypoglycemia is not a defining feature, the overall constellation of congenital anomalies and developmental issues aligns well with the patient's profile."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 2 (SMARCA4-related)",
+      "disease_id": "OMIM:617804",
+      "score": 0.2,
+      "explanation": "As with other genetic causes of Coffin-Siris Syndrome, the SMARCA4-related type exhibits features highly relevant to the patient's presentation, such as intellectual disability, intrauterine growth retardation, feeding difficulties, characteristic facial dysmorphism, and a spectrum of congenital anomalies that can include prominent fingertip pads, clinodactyly, and horseshoe kidney. The absence of consistently reported neonatal hypoglycemia is noted, but the strong concordance with multiple other, particularly unique, phenotypic features supports its inclusion as a potential diagnosis."
+    },
+    {
+      "disease_name": "Silver-Russell Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.166,
+      "explanation": "Silver-Russell Syndrome is a strong contender primarily due to two hallmark features present in the patient: intrauterine growth retardation and neonatal hypoglycemia, which is a common metabolic finding in this syndrome. Other matching features include intellectual disability (often mild to moderate), feeding difficulties, and clinodactyly. Horseshoe kidney has also been reported. However, prominent fingertip pads are not a classic or frequently described feature of Silver-Russell Syndrome, making it a slightly less precise fit compared to Kabuki or Coffin-Siris syndromes in explaining all specific morphological features."
+    }
+  ]
+}

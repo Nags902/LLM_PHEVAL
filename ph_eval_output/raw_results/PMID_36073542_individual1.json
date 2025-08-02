@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 114",
+      "disease_id": "OMIM:619572",
+      "score": 1.0,
+      "explanation": "This disease is ranked highest due to an exceptionally strong match with all of the patient's phenotypic features. Every single feature reported for the patient (Focal impaired awareness seizure, Hypotonia, Cerebral palsy, Autistic behavior, Developmental regression, Cerebral atrophy, Ventriculomegaly, Thin corpus callosum, Global developmental delay, Motor delay, Delayed speech and language development, Intellectual disability, Self-injurious behavior, Exotropia, Abnormal hair whorl, Synophrys, Deeply set eye, Uplifted earlobe, Posterior helix pit, Tapered finger, Chronic constipation, Sleep apnea, and Hydrocephalus) is present in at least one of the provided reference cases, all of which were diagnosed as Developmental and epileptic encephalopathy 114. This high degree of overlap, especially considering the specific neurological, neuroimaging, behavioral, and dysmorphic features, makes it the most likely causative disease."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Aicardi syndrome is considered as a secondary possibility due to significant overlap in several key neurological and neuroimaging features, including thin corpus callosum (often agenesis), hydrocephalus, cerebral atrophy, ventriculomegaly, intellectual disability, global developmental delay, seizures, hypotonia, and exotropia. Developmental regression and cerebral palsy can also be associated. The patient's female gender is consistent with this X-linked dominant disorder. However, Aicardi syndrome typically involves chorioretinal lacunae (not mentioned) and does not characteristically present with the specific combination of facial/dysmorphic features such as synophrys, abnormal hair whorl, uplifted earlobe, posterior helix pit, or tapered fingers, making it a less precise fit than DEE114, but still a plausible consideration given the severe brain anomalies and neurodevelopmental phenotype."
+    }
+  ]
+}

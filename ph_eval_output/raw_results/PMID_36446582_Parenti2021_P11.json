@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This patient presents with a highly characteristic constellation of features for KBG syndrome, including intellectual disability, global developmental delay, motor and speech delay, thick eyebrows, synophrys, long philtrum, microcephaly, low anterior hairline, anteverted nares, bulbous nose, feeding difficulties, and hand abnormalities. The strong phenotypic overlap with Case 1, which was diagnosed as KBG syndrome and shares almost all of the patient's features, strongly supports this as the most likely diagnosis."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities, autosomal dominant 3 (due to SETD1B deficiency)",
+      "disease_id": "OMIM:618846",
+      "score": 0.5,
+      "explanation": "This broad category of disorders, represented by the diagnoses in Case 2 and Case 3, shares several key features with the patient, including intellectual disability, global developmental delay, delayed speech and language development, microcephaly, bulbous nose, anteverted nares, and long philtrum. While the overall phenotypic match is not as precise as with KBG syndrome, the presence of these core developmental and dysmorphic features observed in the reference cases makes this a plausible differential diagnosis."
+    }
+  ]
+}

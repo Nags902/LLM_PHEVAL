@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:613909",
+      "score": 1.0,
+      "explanation": "The patient's core symptoms of unsteady gait and nystagmus directly align with those observed in all provided similar reference cases (Case 1, 2, and 3), which were uniformly diagnosed as Ataxia-pancytopenia syndrome. This strong phenotypic overlap with the guiding cases makes it the most likely diagnosis, even if other features from the reference cases (e.g., pancytopenia) are not explicitly listed for the patient."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.5,
+      "explanation": "Friedreich ataxia is a common hereditary ataxia characterized by progressive gait ataxia and nystagmus, which are the primary reported symptoms. While other typical features such as dysarthria or cardiomyopathy are not mentioned for this patient, the fundamental neurological presentation is consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.333,
+      "explanation": "Spinocerebellar ataxias (SCAs) are a large and heterogeneous group of neurodegenerative disorders, many of which present with progressive ataxia and nystagmus. SCA1 is a representative example that directly fits the patient's reported symptoms, indicating that a broader category of cerebellar ataxias should be considered."
+    },
+    {
+      "disease_name": "Episodic ataxia type 2",
+      "disease_id": "OMIM:601211",
+      "score": 0.25,
+      "explanation": "Episodic ataxia type 2 is characterized by recurrent attacks of ataxia and nystagmus, often triggered by stress or exertion. This diagnosis directly accounts for both reported symptoms, particularly if they are episodic in nature, though the patient information does not specify the temporal pattern of symptoms."
+    }
+  ]
+}

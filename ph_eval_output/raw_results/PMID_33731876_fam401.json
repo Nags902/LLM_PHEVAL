@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "This disease is highly ranked due to its strong correlation with several key phenotypic features presented by the patient, including Infantile spasms, Hypsarrhythmia, Global developmental delay, and Focal tonic seizure (which aligns with focal-onset seizure in the reference cases). These features are hallmark characteristics of Developmental and epileptic encephalopathy 4 (DEE4) as evidenced by two similar reference cases. While Continuous spike and waves during slow sleep is less commonly associated as a primary feature, the severe and broad phenotypic spectrum of STXBP1-related encephalopathy (DEE4) can encompass complex and evolving EEG patterns, making its presence possible within this diagnosis."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "Developmental and epileptic encephalopathy 11 (DEE11) is a strong candidate because it directly aligns with the patient's Continuous spike and waves during slow sleep and Focal tonic seizure, as explicitly shown in one of the similar reference cases. It also accounts for Epileptic encephalopathy and Global developmental delay. However, Infantile spasms and Hypsarrhythmia are less typical primary features of DEE11 compared to its association with early-onset focal/tonic seizures and CSWS/ESES, placing it slightly below DEE4 which covers more of the specific 'West Syndrome' features."
+    }
+  ]
+}

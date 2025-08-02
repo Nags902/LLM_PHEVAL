@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MHC class I deficiency 2",
+      "disease_id": "OMIM:613344",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly aligns with two highly similar reference cases (Case 1 and Case 2) that share all of the patient's presented phenotypic features: Chronic sinusitis, Chronic bronchitis, Chronic rhinitis, and Nasal polyposis. Patients with MHC class I deficiency often present with recurrent respiratory infections leading to chronic inflammation and structural changes."
+    },
+    {
+      "disease_name": "Primary ciliary dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 0.5,
+      "explanation": "Primary ciliary dyskinesia is a strong candidate given the patient's symptoms of chronic sinusitis, chronic bronchitis, chronic rhinitis, and nasal polyposis. This condition is characterized by impaired mucociliary clearance, leading to recurrent and chronic sinopulmonary infections and inflammation, often resulting in these exact features."
+    },
+    {
+      "disease_name": "Cystic fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.33,
+      "explanation": "Cystic fibrosis is another highly relevant differential diagnosis for chronic sinopulmonary disease. It commonly presents with chronic bronchitis, chronic sinusitis, and nasal polyposis due to abnormal mucus production and impaired clearance, making it a strong contender for the observed phenotype."
+    },
+    {
+      "disease_name": "Common variable immunodeficiency 1",
+      "disease_id": "OMIM:607890",
+      "score": 0.25,
+      "explanation": "Common variable immunodeficiency (CVID) is a heterogeneous group of primary immunodeficiencies characterized by impaired antibody production, leading to recurrent and chronic sinopulmonary infections, which can manifest as chronic sinusitis and bronchitis. While nasal polyps are less a defining feature compared to CF or PCD, they can occur secondary to chronic inflammation."
+    },
+    {
+      "disease_name": "Selective IgA deficiency",
+      "disease_id": "OMIM:613385",
+      "score": 0.2,
+      "explanation": "Selective IgA deficiency is the most common primary immunodeficiency and can predispose individuals to recurrent sinopulmonary infections, similar to those observed in the patient. Although often asymptomatic or milder than CVID, it can contribute to chronic symptoms like chronic rhinitis, sinusitis, and bronchitis. Nasal polyps are less typical as a direct consequence but could occur with persistent inflammation."
+    }
+  ]
+}

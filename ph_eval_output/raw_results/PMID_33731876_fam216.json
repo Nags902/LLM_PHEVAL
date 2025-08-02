@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type It (PGM1-CDG)",
+      "disease_id": "OMIM:614921",
+      "score": 1.0,
+      "explanation": "This disorder is an excellent match for the patient's unique combination of Edema, Global developmental delay, Hypoplasia of the corpus callosum, Progressive microcephaly, and Seizure. It aligns exceptionally well with the detailed clinical picture of reference Case 3 (which also reported edema of the dorsum of hands/feet and congenital hypothyroidism, features commonly associated with PGM1-CDG), suggesting it could be the specific underlying diagnosis for the broad phenotypic description provided in Case 3."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
+      "disease_id": "No specific OMIM provided in reference; descriptive diagnosis.",
+      "score": 0.5,
+      "explanation": "This diagnosis directly matches reference Case 3, which presents with nearly identical core features including Progressive microcephaly, Edema, Global developmental delay, Seizure, and Thin corpus callosum (similar to hypoplasia of corpus callosum). This indicates a strong phenotypic similarity between the patient and a previously diagnosed case. While broad, it captures the critical combination of features."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612949",
+      "score": 0.33,
+      "explanation": "This disorder, as seen in reference Case 1, explains several of the patient's neurological features including Global developmental delay, Hypoplasia of the corpus callosum, and Seizures. However, it does not typically present with Edema or Progressive microcephaly, making it a less comprehensive match than higher-ranked options."
+    },
+    {
+      "disease_name": "Developmental delay, dysmorphic facies, and brain anomalies",
+      "disease_id": "No specific OMIM provided in reference; descriptive diagnosis.",
+      "score": 0.25,
+      "explanation": "This broad diagnosis from reference Case 2 encompasses Global developmental delay, Hypoplasia of the corpus callosum, Seizure, and Microcephaly. While it covers several neurological and brain anomalies, it lacks the key features of Edema and the progressive nature of microcephaly seen in the patient, making it a less precise fit."
+    }
+  ]
+}

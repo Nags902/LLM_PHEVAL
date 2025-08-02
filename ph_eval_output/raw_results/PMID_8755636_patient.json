@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria, Cystathionine Beta-Synthase Deficiency",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "This disease perfectly explains the patient's complete constellation of phenotypic features: Arachnodactyly, Intellectual disability, Disproportionate tall stature, and Hyperhomocystinemia. It is the classic presentation of Homocystinuria due to cystathionine beta-synthase (CBS) deficiency. Reference Case 1, which presented with several identical key features including Arachnodactyly, Intellectual disability, and Hyperhomocystinemia, was also diagnosed with Homocystinuria, strongly supporting this as the primary diagnosis."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan Syndrome is an important differential diagnosis due to the shared skeletal features of Arachnodactyly and Disproportionate tall stature. However, Marfan Syndrome typically does not present with intellectual disability or, critically, hyperhomocystinemia. While it shares some connective tissue manifestations, the metabolic and neurological features of the patient make it a less likely primary diagnosis compared to Homocystinuria, but it should be considered in the initial differential based on the physical phenotype."
+    }
+  ]
+}

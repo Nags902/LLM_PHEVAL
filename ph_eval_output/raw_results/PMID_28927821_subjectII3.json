@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency, common variable, 13",
+      "disease_id": "OMIM:613401",
+      "score": 1.0,
+      "explanation": "This is the most highly probable diagnosis due to its direct match with all provided phenotypic features of the patient: B lymphocytopenia, decreased proportion of class-switched memory B cells, decreased circulating IgA concentration, decreased circulating total IgM, recurrent sinusitis, and decreased specific antibody response to polysaccharide vaccine. Crucially, all three similar reference cases, which share these core features, were diagnosed as Immunodeficiency, common variable, 13 (NFKB1 deficiency). While the patient's record does not explicitly state 'Decreased circulating IgG concentration' (which was present in the reference cases), CVID, including type 13, is a heterogeneous disorder with variable immunoglobulin deficiencies, and presentations can include predominant IgA and IgM deficiencies, potentially progressing or presenting atypically regarding IgG."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable",
+      "disease_id": "OMIM:240500",
+      "score": 0.5,
+      "explanation": "This serves as the overarching diagnosis for Common Variable Immunodeficiency, encompassing all specific genetic and non-genetic causes. It perfectly describes the patient's clinical picture of hypogammaglobulinemia (low IgA and IgM), B cell abnormalities (lymphocytopenia, decreased class-switched memory B cells), recurrent infections, and impaired specific antibody responses. This diagnosis is broadly applicable if a specific genetic subtype cannot be definitively identified or if the presentation aligns with the general diagnostic criteria for CVID."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 7",
+      "disease_id": "OMIM:613407",
+      "score": 0.333,
+      "explanation": "Immunodeficiency, common variable, 7, caused by mutations in TNFRSF13B (TACI), is one of the more common monogenic causes of CVID. It is frequently associated with decreased circulating IgA and IgM levels, B lymphocytopenia, and a reduction in class-switched memory B cells \u2013 all key features observed in the patient. Given these phenotypic overlaps, TACI deficiency is a strong candidate among the known genetic subtypes of CVID."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 10",
+      "disease_id": "OMIM:613410",
+      "score": 0.25,
+      "explanation": "Immunodeficiency, common variable, 10 (LRBA deficiency) is another significant monogenic cause of CVID. Patients with LRBA deficiency often present with hypogammaglobulinemia, including low IgA and IgM, recurrent infections, and B cell abnormalities. While LRBA deficiency can also involve other features like autoimmunity or enteropathy, the core immunodeficiency features are highly consistent with the patient's phenotype."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 11",
+      "disease_id": "OMIM:613411",
+      "score": 0.2,
+      "explanation": "Immunodeficiency, common variable, 11 (CTLA4 deficiency) is a recognized monogenic cause of CVID and immune dysregulation. Individuals with CTLA4 deficiency can exhibit hypogammaglobulinemia (including low IgA and IgM), B lymphocytopenia, and recurrent infections, making it a relevant differential diagnosis within the spectrum of CVID, especially given the broad immune dysregulation observed in many CVID patients."
+    }
+  ]
+}

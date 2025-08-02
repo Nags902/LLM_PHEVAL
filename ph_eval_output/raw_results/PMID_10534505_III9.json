@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary, transthyretin-related",
+      "disease_id": "OMIM:613134",
+      "score": 1.0,
+      "explanation": "The patient's core phenotypic features (Renal insufficiency, Hepatic amyloidosis, Renal amyloidosis) are a direct match to those observed in reference Case 1 and Case 2, both of which were diagnosed as 'Amyloidosis, hereditary systemic 5'. While the numerical designation 'systemic 5' can sometimes refer to Fibrinogen A alpha chain amyloidosis (OMIM:105080, primarily renal), the combined presence of hepatic and renal amyloidosis in the reference cases and the patient strongly points to Transthyretin-related (ATTR) amyloidosis, which commonly involves both organs. Anemia is a frequent sequela of chronic kidney disease."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary, type II (APOA1-related)",
+      "disease_id": "OMIM:105210",
+      "score": 0.5,
+      "explanation": "This form of hereditary amyloidosis, caused by mutations in APOA1, is well-known to cause amyloid deposition in the liver and kidneys, directly matching the patient's key features of Hepatic amyloidosis and Renal amyloidosis. Reference Case 3, diagnosed as 'Amyloidosis, hereditary systemic 3', also exhibited hepatic and renal amyloidosis, along with cardiac involvement. Despite the patient not presenting with cardiac amyloidosis or hepatic failure, the primary organ involvement pattern aligns closely, making it a strong differential."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary, Lysozyme type",
+      "disease_id": "OMIM:105200",
+      "score": 0.33,
+      "explanation": "Lysozyme amyloidosis is another recognized form of hereditary systemic amyloidosis that frequently involves both the kidneys and liver, leading to presentations such as renal insufficiency, renal amyloidosis, and hepatic amyloidosis. This close phenotypic match makes it a plausible alternative diagnosis if other hereditary forms are ruled out."
+    },
+    {
+      "disease_name": "Amyloidosis, AL type",
+      "disease_id": "OMIM:105150",
+      "score": 0.25,
+      "explanation": "Although not a hereditary form, AL amyloidosis (primary amyloidosis) is the most common type of systemic amyloidosis and an essential consideration. It frequently causes significant renal amyloidosis leading to renal insufficiency and commonly involves the liver, presenting as hepatic amyloidosis. While the provided reference cases guide towards hereditary forms, AL amyloidosis must be considered given the patient's pattern of systemic organ involvement."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "This disease is ranked highest as it appears in two out of the three similar reference cases, directly linking febrile seizures to this specific severe epileptic encephalopathy. While the patient's current listed phenotype is limited to febrile seizures, DEE11 can present with febrile seizures as an early or initial manifestation, suggesting it as a potential causative disease in the context of rare epilepsies guided by the reference cases."
+    },
+    {
+      "disease_name": "Seizures, benign familial infantile, 3",
+      "disease_id": "OMIM:601764",
+      "score": 0.5,
+      "explanation": "This condition is ranked second because it is explicitly mentioned in one of the provided similar reference cases, where febrile seizure was a key feature. It represents a form of genetic epilepsy that characteristically includes febrile seizures, making it a strong candidate based on the guidance from similar cases."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Although not directly listed in the provided reference cases, Dravet Syndrome (also known as Severe Myoclonic Epilepsy in Infancy) is a highly relevant and severe rare epileptic encephalopathy that classically begins with prolonged or hemiclonic febrile seizures in infancy. Given that febrile seizure is the sole listed phenotype and the task is to identify rare diseases, it is a critical differential diagnosis to consider."
+    },
+    {
+      "disease_name": "Genetic epilepsy with febrile seizures plus, type 2",
+      "disease_id": "OMIM:604403",
+      "score": 0.25,
+      "explanation": "The GEFS+ spectrum of disorders is characterized by febrile seizures, often persisting beyond the typical age range or progressing to afebrile seizures. Type 2, linked to the SCN1A gene, is a common and representative subtype that directly fits the patient's sole phenotypic feature of febrile seizure in a rare disease context."
+    },
+    {
+      "disease_name": "Genetic epilepsy with febrile seizures plus, type 1",
+      "disease_id": "OMIM:604233",
+      "score": 0.2,
+      "explanation": "Similar to GEFS+ type 2, GEFS+ type 1 (linked to the SCN1B gene) is another specific genetic subtype within the GEFS+ spectrum, making it a direct fit for the patient's presented phenotype of febrile seizure. This reinforces the consideration of GEFS+ as a potential causative rare disease."
+    }
+  ]
+}

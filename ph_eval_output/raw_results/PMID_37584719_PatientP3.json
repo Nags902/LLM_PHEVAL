@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodysregulation, Polyendocrinopathy, Enteropathy, X-linked syndrome",
+      "disease_id": "OMIM:304790",
+      "score": 1.0,
+      "explanation": "This is the most highly suspected disease. The patient presents with chronic diarrhea and autoimmune hemolytic anemia, which are two classic and defining features of IPEX syndrome. All three similar reference cases, displaying a very similar constellation of gastrointestinal and autoimmune manifestations (including autoimmune hemolytic anemia and diarrhea/enteropathy), were diagnosed as 'Autoinflammatory disease, multisystem, with immune dysregulation, X-linked', which is precisely the broader phenotypic description for IPEX syndrome. IPEX is an X-linked genetic disorder caused by FOXP3 mutations, leading to severe immune dysregulation."
+    },
+    {
+      "disease_name": "Lipopolysaccharide-Responsive And Beta-Defensin-Containing Protein A Deficiency",
+      "disease_id": "OMIM:614777",
+      "score": 0.5,
+      "explanation": "LRBA deficiency is a common differential diagnosis for IPEX syndrome, often presenting with a similar clinical picture including severe autoimmune enteropathy (chronic diarrhea) and various autoimmune cytopenias, such as autoimmune hemolytic anemia. While it is an autosomal recessive condition, its phenotypic overlap with IPEX makes it a strong contender for diseases presenting with these core features."
+    },
+    {
+      "disease_name": "Cytotoxic T-Lymphocyte Antigen 4 Haploinsufficiency",
+      "disease_id": "OMIM:616053",
+      "score": 0.333,
+      "explanation": "CTLA4 haploinsufficiency is another primary immunodeficiency associated with severe immune dysregulation. Patients frequently present with autoimmune manifestations, including autoimmune cytopenias like autoimmune hemolytic anemia, and gastrointestinal involvement, such as chronic diarrhea/enteropathy. This autosomal dominant condition shares significant phenotypic overlap with IPEX and LRBA deficiencies."
+    }
+  ]
+}

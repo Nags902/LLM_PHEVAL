@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "The patient presents with a classic constellation of features highly characteristic of Noonan Syndrome. These include multiple cardiac defects (Patent ductus arteriosus, Coarctation of aorta), distinctive craniofacial dysmorphism (short neck, microretrognathia, hypertelorism, telecanthus, depressed nasal bridge, prominent forehead, blepharophimosis, abnormal helix morphology), skeletal anomalies (pectus carinatum, delayed skeletal maturation), cryptorchidism, and global developmental delay with delayed speech. Hypothyroidism and delayed eruption of teeth are also known associations. This extensive overlap strongly supports Noonan Syndrome, a RASopathy, as the primary diagnosis. The phenotypic overlap with 'Cardiac, facial, and digital anomalies with developmental delay' cases (Cases 1 & 2) further reinforces this, as these cases often represent undiagnosed or atypical RASopathies, with many features consistent with Noonan Syndrome."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.5,
+      "explanation": "CFC syndrome is another RASopathy that shares significant phenotypic overlap with Noonan Syndrome. The patient's features such as cardiac defects (PDA, Coarctation), global developmental delay, prominent forehead, hypertelorism, and depressed nasal bridge are also seen in CFC syndrome. While the patient does not explicitly present with characteristic cutaneous findings (e.g., sparse, curly hair, ichthyosis-like skin) often associated with CFC, the core multi-system involvement, particularly cardiovascular and neurodevelopmental, and the facial dysmorphism make it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.33,
+      "explanation": "KBG syndrome is considered due to some shared features, notably global developmental delay, delayed speech and language development, cryptorchidism, microretrognathia, hypertelorism, and delayed skeletal maturation, as seen in Reference Case 3. However, the patient's presentation includes several features less typical for KBG syndrome, such as Patent Ductus Arteriosus, Coarctation of Aorta, short neck, prominent forehead, telecanthus, hypothyroidism, pectus carinatum, blepharophimosis, and abnormal helix morphology. Crucially, hallmark features of KBG syndrome like macrodontia are not present in the patient's phenotype, making it less likely than the RASopathies but still a possible consideration given the initial overlap."
+    }
+  ]
+}

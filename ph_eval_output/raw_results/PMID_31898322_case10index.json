@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1 (TGFBR1-related)",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis given the strong phenotypic overlap with the patient's features (mitral regurgitation, scoliosis, tall stature, exotropia, and dural ectasia are all characteristic). Furthermore, the similar reference cases were all diagnosed with Loeys-Dietz syndrome type 1, providing direct support for this classification. Facial dysmorphism, which can include downslanted palpebral fissures, is a common feature in LDS."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1 (TGFBR2-related)",
+      "disease_id": "OMIM:610168",
+      "score": 1.0,
+      "explanation": "Similar to TGFBR1-related LDS type 1, this genetic subtype presents with an overlapping clinical spectrum including mitral regurgitation, scoliosis, tall stature (marfanoid habitus), exotropia, and highly characteristic dural ectasia. The direct reference to 'Loeys-Dietz syndrome 1' in the similar cases reinforces its high likelihood. The facial features, while variable, often include dysmorphism consistent with downslanted palpebral fissures."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan syndrome shares significant clinical overlap with Loeys-Dietz syndrome, presenting with many of the patient's key features including mitral regurgitation, scoliosis, tall stature (marfanoid habitus), exotropia (strabismus), and especially dural ectasia, which is a highly suggestive finding for both Marfan and LDS. While downslanted palpebral fissures are less classic for Marfan compared to LDS or SGS, the overall presentation is very consistent."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182280",
+      "score": 0.33,
+      "explanation": "Shprintzen-Goldberg syndrome is a strong contender as it presents with a Marfanoid habitus (tall stature, scoliosis), cardiovascular manifestations (including mitral regurgitation), ocular findings (exotropia/strabismus), and dural ectasia. Crucially, it is also known for characteristic craniofacial features, including downslanted palpebral fissures, which directly matches one of the patient's specific features, making it a very good fit."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 2 (SMAD3-related)",
+      "disease_id": "OMIM:610308",
+      "score": 0.25,
+      "explanation": "This subtype of Loeys-Dietz syndrome presents with a phenotype highly similar to Loeys-Dietz type 1, characterized by aortic aneurysms/dissections, skeletal features (scoliosis, tall stature), ocular anomalies (strabismus/exotropia), dural ectasia, and valvular heart disease (mitral regurgitation). While the reference cases specifically mentioned 'type 1', the overall clinical picture strongly aligns with the broader LDS spectrum."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classical type",
+      "disease_id": "OMIM:130000",
+      "score": 0.2,
+      "explanation": "While less likely than Marfan or Loeys-Dietz syndromes due to the absence of consistent tall stature and specific facial features, classical Ehlers-Danlos syndrome can involve mitral regurgitation, scoliosis, and dural ectasia. The presence of these connective tissue manifestations warrants its consideration, although the overall pattern is not as complete a match."
+    }
+  ]
+}

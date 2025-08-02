@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM:618911",
+      "score": 1.0,
+      "explanation": "This disease is the strongest match due to the direct alignment with Case 3, which is diagnosed with DEE112. The patient's features including 'Epileptic encephalopathy', 'Focal aware seizure', 'Global developmental delay', 'Intellectual disability', 'Autism', and 'Generalized hypotonia' are all explicitly or closely matched by the features described in Case 3 for DEE112 (e.g., 'Focal aware motor seizure', 'Hypotonia', 'Autistic behavior'). Self-injurious behavior and irritability are also common behavioral presentations in severe neurodevelopmental disorders like this."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612621",
+      "score": 0.5,
+      "explanation": "DEE4 is a very strong candidate, supported by Case 1 and Case 2, both diagnosed with this condition. These cases share core patient features such as 'Epileptic encephalopathy' (implied by various seizure types), 'Autism', 'Intellectual disability', 'Global developmental delay', and 'Self-injurious behavior'. While 'Generalized hypotonia' is not explicitly listed in the DEE4 reference cases, it is a common finding in many severe developmental and epileptic encephalopathies. The presence of focal seizure types also aligns."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder (Developmental and epileptic encephalopathy 2)",
+      "disease_id": "OMIM:300672",
+      "score": 0.33,
+      "explanation": "CDKL5 Deficiency Disorder is a well-established cause of severe early-onset epileptic encephalopathy, predominantly affecting females (patient gender is 2). Its characteristic features often include refractory seizures (fitting 'Epileptic encephalopathy'), global developmental delay, severe intellectual disability, hypotonia (matching 'Generalized hypotonia'), and frequent autistic features. Self-injurious behavior is also reported in affected individuals, making it a highly relevant candidate."
+    },
+    {
+      "disease_name": "SYNGAP1-related intellectual disability (Developmental and epileptic encephalopathy 5)",
+      "disease_id": "OMIM:617772",
+      "score": 0.25,
+      "explanation": "SYNGAP1-related intellectual disability is characterized by intellectual disability, epilepsy (including various seizure types, which could encompass focal seizures), hypotonia, and often autism spectrum disorder. Global developmental delay is a hallmark feature. While irritability and self-injurious behavior are not primary diagnostic features, they can be associated behavioral manifestations in individuals with this disorder, aligning well with the overall severe neurodevelopmental phenotype."
+    }
+  ]
+}

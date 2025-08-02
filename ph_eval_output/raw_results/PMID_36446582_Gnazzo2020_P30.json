@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to a near-perfect match with the patient's phenotypic features and the strong guidance from similar reference cases 2 and 3, both diagnosed with KBG syndrome. Key overlapping features include intellectual disability, global developmental delay, macrodontia, thick eyebrows, abnormality of the hand, short stature, delayed speech and language development, and hypertelorism. Macrodontia and thick eyebrows are particularly characteristic features of KBG syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "This syndrome shares several features with the patient, including intellectual disability, global developmental delay, short stature, delayed speech and language development, abnormality of the hand (typically hypoplastic fifth digit), hypertelorism, and sometimes thick eyebrows. While macrodontia is not a typical feature of Coffin-Siris syndrome, the overall constellation of neurodevelopmental delay, growth retardation, and facial/hand anomalies makes it a plausible, albeit less likely, alternative diagnosis. The prompt requires more than one disease, even if confidence is low."
+    }
+  ]
+}

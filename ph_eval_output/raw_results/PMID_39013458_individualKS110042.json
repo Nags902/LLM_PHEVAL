@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome 1 (caused by NSD1 variants) is an excellent match for all the patient's phenotypic features. It is characterized by tall stature, macrocephaly (often), intellectual disability, global developmental delay, and hypotonia. Additionally, recurrent infections, chronic constipation, and hypermetropia are commonly reported associated features, providing a comprehensive fit for the patient's presentation."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome shares several key features with Sotos Syndrome, including tall stature, intellectual disability, global developmental delay, and hypotonia. It is a well-known overgrowth syndrome. However, the association with recurrent infections, chronic constipation, and hypermetropia is not as consistently prominent or central to the diagnosis compared to Sotos Syndrome, making it a slightly less comprehensive fit."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.3333333333333333,
+      "explanation": "Fragile X Syndrome is a common genetic cause of intellectual disability, global developmental delay, and hypotonia. Recurrent infections (particularly otitis media) and chronic constipation are also frequently observed in affected individuals. However, tall stature is not a characteristic feature of Fragile X Syndrome, which is a significant phenotypic mismatch compared to Sotos or Weaver Syndrome. Despite this, it remains a common consideration for patients with ID, DD, hypotonia, and gastrointestinal issues."
+    }
+  ]
+}

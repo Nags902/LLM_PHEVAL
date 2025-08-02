@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate as it is the direct diagnosis reported in all three similar reference cases, which presented with the identical key phenotypic feature of Stage 5 chronic kidney disease. This type of ADTKD is often caused by mutations in the UMOD gene and typically leads to end-stage renal disease in adulthood."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:613159",
+      "score": 0.5,
+      "explanation": "As a genetically distinct but phenotypically very similar subtype of autosomal dominant tubulointerstitial kidney disease, it is a critical differential diagnosis to type 1. ADTKD type 2, caused by MUC1 mutations, also manifests with progressive chronic kidney disease leading to ESRD in adulthood, consistent with the patient's age and presentation."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:137920",
+      "score": 0.33,
+      "explanation": "This is another significant subtype within the spectrum of autosomal dominant tubulointerstitial kidney diseases. ADTKD type 3, caused by HNF1B mutations, can lead to progressive chronic kidney disease and often end-stage renal disease in adulthood, making it a relevant differential despite sometimes being associated with additional extra-renal features."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) is the most common inherited kidney disease and a very frequent cause of end-stage renal disease (ESRD) in adults, often presenting in middle age (P49Y). While the reference cases strongly point to ADTKD, ADPKD is an essential genetic differential for adult-onset Stage 5 CKD and should always be considered."
+    }
+  ]
+}

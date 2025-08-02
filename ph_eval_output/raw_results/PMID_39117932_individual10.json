@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "The patient presents with Atypical teratoid/rhabdoid tumor (ATRT), which is the defining feature of Rhabdoid tumor predisposition syndrome 1. All three similar reference cases with ATRT were diagnosed with this syndrome. This syndrome is caused by germline mutations in the SMARCB1 gene, whose inactivation is a key genetic event in ATRT pathogenesis, making it the most probable diagnosis."
+    },
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 2",
+      "disease_id": "OMIM:613325",
+      "score": 0.5,
+      "explanation": "While less common than Rhabdoid tumor predisposition syndrome 1, Rhabdoid tumor predisposition syndrome 2 is also characterized by a predisposition to rhabdoid tumors, including ATRT, due to germline mutations in the SMARCA4 gene. Given the patient's presentation with ATRT, this syndrome is an important differential diagnosis."
+    }
+  ]
+}

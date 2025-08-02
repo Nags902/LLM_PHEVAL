@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniofrontonasal dysplasia",
+      "disease_id": "OMIM:304110",
+      "score": 1.0,
+      "explanation": "This disease is highly ranked due to the strong presence of Hypertelorism and Orofacial cleft, which are hallmark features and directly align with all three provided similar reference cases. While sleep abnormality is not explicitly listed in the reference cases, it can be a secondary complication of the craniofacial anomalies often seen in CFND, such as airway compromise."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome, X-linked",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Opitz G/BBB syndrome presents with a classic triad of features highly relevant to this patient: Hypertelorism, Orofacial cleft (including laryngeal clefts or high-arched palate), and frequently, sleep abnormalities, particularly sleep-disordered breathing due to midline defects affecting the airway or central nervous system."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.3333333333333333,
+      "explanation": "CHARGE syndrome is considered due to the potential for Hypertelorism and Orofacial clefts (cleft lip/palate) in affected individuals. Sleep abnormalities, especially sleep apnea, are also a common feature of CHARGE syndrome, often stemming from choanal atresia, laryngeal anomalies, or central causes, providing a good match for all presented symptoms."
+    }
+  ]
+}

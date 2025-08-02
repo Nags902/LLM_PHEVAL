@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features (Obesity, Short metacarpal, Intellectual disability) are core components of Albright's hereditary osteodystrophy (AHO), which is the characteristic physical manifestation of Pseudohypoparathyroidism Ia (PHP-Ia). The provided similar reference cases directly support this diagnosis, as all three cases presenting with these features were diagnosed as PHP-Ia. Short metacarpals, specifically brachydactyly type E (shortening of the 4th and 5th metacarpals), is a highly distinctive sign of AHO."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "Pseudopseudohypoparathyroidism (PPHP) shares the exact same phenotypic features of Albright's hereditary osteodystrophy (AHO) as PHP-Ia, including Obesity, Short metacarpal, and Intellectual disability. The key difference lies in the absence of the biochemical abnormalities (hypocalcemia, hyperphosphatemia, elevated PTH) seen in PHP-Ia. Since no biochemical data for the patient is provided, PPHP remains a very strong differential diagnosis, as both conditions are caused by mutations in the GNAS gene, with parental imprinting determining the specific clinical presentation."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Ic",
+      "disease_id": "OMIM:103580",
+      "score": 0.33,
+      "explanation": "Pseudohypoparathyroidism Ic (PHP-Ic) is a rare subtype of PHP that also presents with the classic features of Albright's hereditary osteodystrophy (AHO), which include obesity, short metacarpals, and intellectual disability. While the precise molecular defect leading to PTH resistance differs slightly from PHP-Ia, the common phenotypic expression of AHO makes it a relevant consideration, aligning with the patient's observed features."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl Syndrome (BBS) is a ciliopathy characterized by clinical heterogeneity, often including obesity and intellectual disability, which are present in the patient. While short metacarpals are not a hallmark feature as in AHO, various forms of brachydactyly or polydactyly can occur in BBS. It is a common differential for the combination of obesity and intellectual disability."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Prader-Willi Syndrome (PWS) is a genetic disorder characterized by intellectual disability and central obesity (due to hyperphagia) which are prominent features in the patient. While short metacarpals are not a cardinal sign, mild hand and foot anomalies are sometimes noted in PWS. It is a significant differential given the presence of obesity and intellectual disability, though the specificity of the 'short metacarpal' points more strongly towards the PHP spectrum."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614607",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic profile strongly aligns with Coffin-Siris syndrome 3 (SMARCA4-related). Key overlapping features include short stature, thick eyebrows, long eyelashes, mild intellectual disability, sparse scalp hair, microcephaly, feeding difficulties, depressed nasal bridge, long philtrum, thin upper lip vermilion, thick lower lip vermilion, global developmental delay, abnormal corpus callosum morphology, and umbilical hernia. All three provided reference cases, which share a significant number of these features, were specifically diagnosed with Coffin-Siris syndrome 3, providing robust evidence for this as the primary diagnosis."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome 1 (ARID1B-related) presents with significant phenotypic overlap with Coffin-Siris syndrome 3 and the patient's features. Common manifestations include intellectual disability, short stature, microcephaly, feeding difficulties, and characteristic facial features such as thick eyebrows, long eyelashes, and sparse scalp hair. Although the reference cases specifically point to Coffin-Siris syndrome 3, other Coffin-Siris subtypes share a broad clinical spectrum and thus remain strong differential diagnoses."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 2",
+      "disease_id": "OMIM:614565",
+      "score": 0.33,
+      "explanation": "Coffin-Siris syndrome 2 (SMARCB1-related) is another subtype within the Coffin-Siris spectrum known for features highly similar to the patient's presentation, including developmental delay, intellectual disability, microcephaly, and characteristic facial dysmorphism. Given the clear indication towards a Coffin-Siris syndrome diagnosis from the patient's phenotype and the reference cases, other genetically distinct subtypes like Coffin-Siris syndrome 2 are important to consider in the differential diagnosis."
+    }
+  ]
+}

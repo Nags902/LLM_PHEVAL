@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146590",
+      "score": 1.0,
+      "explanation": "This syndrome is the most likely candidate as it comprehensively explains the patient's primary features of syndactyly and preaxial foot polydactyly. More importantly, the extensive clinical features listed in the similar reference cases (including postaxial and preaxial polydactyly, syndactyly, macrocephaly, hypertelorism, global developmental delay, intellectual disability, nail dysplasia, Y-shaped metacarpals, growth delay, and anal atresia) are highly characteristic of Pallister-Hall Syndrome. This suggests that the reference cases likely represent Pallister-Hall Syndrome, and the patient's presentation could be a partial or early manifestation of this genetically heterogeneous and phenotypically variable disorder."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "Greig Cephalopolysyndactyly Syndrome is a strong differential diagnosis. Its core features include polysyndactyly (encompassing both preaxial and postaxial types) and syndactyly, which directly match the patient's presented features. While it doesn't account for all the specific features of the reference cases (like anal atresia or nail dysplasia), it shares genetic commonality (GLI3 gene) with Pallister-Hall Syndrome and explains other overlapping features such as macrocephaly and hypertelorism, making it a very plausible diagnosis given the patient's primary limb anomalies."
+    },
+    {
+      "disease_name": "Polydactyly, Postaxial, Type A1 and B",
+      "disease_id": "OMIM:174200",
+      "score": 0.333,
+      "explanation": "This condition is listed as the diagnosis for the similar reference cases. However, the patient specifically presents with preaxial foot polydactyly, not postaxial. Although the reference cases did exhibit 'Preaxial polydactyly' as a feature, the official OMIM:174200 entry primarily describes isolated postaxial polydactyly and does not encompass the broad range of systemic features (e.g., intellectual disability, anal atresia, Y-shaped metacarpals) seen in the reference cases. This suggests that the reference case diagnosis might be a simplified description of a more complex syndromic presentation. Given the patient's specific preaxial involvement and the broader reference phenotype, this diagnosis is less precise as a primary fit but is included due to its explicit mention in the reference guidance."
+    }
+  ]
+}

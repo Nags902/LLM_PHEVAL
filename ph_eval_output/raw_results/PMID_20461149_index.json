@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Branchiooculofacial syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 1.0,
+      "explanation": "The patient's phenotype, including iris coloboma, retinal coloboma, microphthalmia, median pseudocleft lip, nasolacrimal duct obstruction, conductive hearing impairment, and crucially, aplasia cutis congenita, is highly consistent with Branchiooculofacial syndrome (BOFS). Aplasia cutis congenita is a hallmark feature of BOFS, and the combination of ocular and branchial arch anomalies strongly matches the provided reference cases, all diagnosed with BOFS."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome shares some features such as coloboma (ocular) and hearing impairment. However, it typically includes other major anomalies like choanal atresia, heart defects, and significant developmental delay/growth retardation, which are not mentioned in the patient's data. Aplasia cutis congenita is not a characteristic feature of CHARGE syndrome, making it a less likely diagnosis compared to BOFS."
+    },
+    {
+      "disease_name": "Trisomy 13",
+      "disease_id": "OMIM:190450",
+      "score": 0.3333,
+      "explanation": "Trisomy 13 can present with features like coloboma, microphthalmia, cleft lip, and aplasia cutis congenita. However, it is typically associated with a much broader spectrum of severe congenital malformations and profound intellectual disability, with very high infant mortality. The patient's age (P10Y) makes classic Trisomy 13 unlikely as a surviving diagnosis, although mosaic forms could be considered, they would be rare for this specific constellation."
+    }
+  ]
+}

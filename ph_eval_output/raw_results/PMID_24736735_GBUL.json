@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:167670",
+      "score": 1.0,
+      "explanation": "Pallister-Hall syndrome is the most fitting diagnosis for this patient, sharing multiple hallmark features. These include the highly specific hypothalamic hamartoma, postaxial polydactyly, Y-shaped metacarpals, Y-shaped metatarsals, anal atresia, growth delay, intellectual disability, and nail dysplasia. This constellation of findings, particularly the rare skeletal and brain malformations, represents a near-perfect match with the patient's comprehensive phenotype. While the reference cases do not explicitly list hypothalamic hamartoma, they share a significant number of other critical features (polydactyly, Y-shaped metacarpals, anal atresia, intellectual disability, growth delay, nail dysplasia), suggesting they are also within the GLI3-related spectrum."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "Greig Cephalopolysyndactyly Syndrome (GCPS) is an allelic disorder to Pallister-Hall syndrome, both caused by mutations in the GLI3 gene, placing it within the same genetic and phenotypic spectrum. Although the patient does not present with the typical craniofacial features of classic GCPS (e.g., macrocephaly, hypertelorism, preaxial polydactyly, cutaneous syndactyly), there is significant overlap in other critical features such as postaxial polydactyly, Y-shaped metacarpals/metatarsals, intellectual disability, growth delay, and anal atresia (though rarer in GCPS than PHS). The provided reference cases, which share many of the patient's non-hamartoma features, exhibit strong classic GCPS characteristics, reinforcing the consideration of this GLI3-related condition due to the close phenotypic and genetic relationship."
+    },
+    {
+      "disease_name": "Acrocallosal Syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.33,
+      "explanation": "Acrocallosal Syndrome, primarily caused by mutations in the KIF7 gene, is considered as a less likely but plausible differential diagnosis. It shares several significant features, including intellectual disability, postaxial polydactyly, and importantly, the highly specific Y-shaped metacarpals. KIF7 is a ciliary gene involved in the Sonic Hedgehog pathway, which provides a mechanistic link to GLI3-related disorders (Pallister-Hall and Greig Cephalopolysyndactyly syndromes). While the patient lacks typical acrocallosal features such as agenesis of the corpus callosum and characteristic facial dysmorphism, and hypothalamic hamartoma is not a common feature, its inclusion is warranted given the shared rare skeletal findings and broader category of ciliopathies with CNS and limb anomalies."
+    }
+  ]
+}

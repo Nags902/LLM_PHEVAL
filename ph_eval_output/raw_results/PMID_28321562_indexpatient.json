@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia",
+      "disease_id": "OMIM:618756",
+      "score": 1.0,
+      "explanation": "This disease is a highly probable candidate given its direct diagnosis in a highly similar reference case (Case 1) that exhibited spastic gait, spastic paraplegia, lower limb muscle weakness, ataxia, and cerebellar atrophy. The patient's features of spastic ataxia, upper/lower limb spasticity, gait imbalance, dysmetria, dysarthria, lower limb muscle weakness, and cerebellar vermis atrophy align perfectly with the known phenotype of SPG91, which is a complicated hereditary spastic paraplegia with prominent cerebellar involvement."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.5,
+      "explanation": "Spinocerebellar ataxia type 3 (Machado-Joseph Disease) is one of the most common SCAs and is well-known for its highly variable phenotype that frequently includes prominent spasticity (leading to spastic ataxia), gait ataxia, dysarthria, dysmetria, and cerebellar atrophy. This comprehensive match across multiple key phenotypic features makes SCA3 a strong contender, even though it wasn't a direct diagnosis in the provided reference cases."
+    },
+    {
+      "disease_name": "Spastic paraplegia 7, autosomal recessive",
+      "disease_id": "OMIM:607259",
+      "score": 0.33,
+      "explanation": "SPG7 is a well-recognized cause of autosomal recessive hereditary spastic paraplegia that often presents with a prominent 'spastic ataxia' phenotype. Patients typically exhibit progressive spasticity, significant cerebellar ataxia, dysarthria, and cerebellar atrophy (including vermis), which closely mirrors the patient's symptoms. It is a common 'complicated' HSP that fits the clinical picture very well."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.25,
+      "explanation": "Spinocerebellar ataxia type 1 is characterized by progressive ataxia, dysarthria, and prominent pyramidal signs, including spasticity and hyperreflexia, along with cerebellar and brainstem atrophy. This combination of ataxia and spasticity makes SCA1 a plausible candidate, fitting the 'spastic ataxia' description and cerebellar involvement."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.2,
+      "explanation": "Spinocerebellar ataxia type 2 is another common SCA type that presents with progressive ataxia, dysarthria, and can include pyramidal signs (spasticity) in addition to the characteristic slow saccades. Its ability to manifest with spasticity and cerebellar atrophy makes it a reasonable, though slightly less precise, fit compared to SCA3 or SPG7 for the patient's specific presentation."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 15",
+      "disease_id": "OMIM:606653",
+      "score": 0.16,
+      "explanation": "Spinocerebellar ataxia type 15 was diagnosed in two reference cases (Case 2 and 3) that presented with gait ataxia, limb ataxia, dysarthria, and cerebellar vermis/cortical atrophy, all of which are present in the patient. While SCA15 is primarily considered a pure cerebellar ataxia, hyperreflexia can be present. However, the patient's strong emphasis on 'spastic ataxia' and widespread spasticity makes other spastic ataxia conditions (like SCA3 or complicated HSPs) a stronger overall fit, as prominent spasticity is less typical for SCA15."
+    }
+  ]
+}

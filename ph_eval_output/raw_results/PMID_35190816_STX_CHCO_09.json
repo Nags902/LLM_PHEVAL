@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "This disease is the strongest candidate due to an excellent match with the patient's phenotypic features and its consistent diagnosis in all three similar reference cases. Specifically, the patient presents with Infantile spasms, Focal tonic seizure, EEG with generalized slow activity, Generalized hypotonia, Global developmental delay, and Hypsarrhythmia, all of which are prominent features of Developmental and epileptic encephalopathy 4 (STXBP1-related), and directly align with features observed in Reference Case 2, which was diagnosed with this condition."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 deficiency disorder (Developmental and epileptic encephalopathy 2) is a severe neurodevelopmental disorder that commonly presents with many of the patient's core features, including early-onset epileptic seizures (often infantile spasms), severe global developmental delay, encephalopathy, and hypotonia. While not directly indicated by the reference cases, it is a well-recognized genetic cause of a highly similar clinical picture."
+    },
+    {
+      "disease_name": "SCN2A-related developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.3333333333333333,
+      "explanation": "SCN2A-related developmental and epileptic encephalopathy (Developmental and epileptic encephalopathy 5) is another significant cause of early-onset severe epilepsy, including infantile spasms, alongside global developmental delay, intellectual disability, and hypotonia. It shares substantial phenotypic overlap with the patient's presentation, making it a plausible differential diagnosis for this constellation of symptoms."
+    }
+  ]
+}

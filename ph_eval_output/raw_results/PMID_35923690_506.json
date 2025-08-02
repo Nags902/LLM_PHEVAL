@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient presents with classic features highly characteristic of Diamond-Blackfan anemia (DBA), including anemia, increased mean corpuscular volume (macrocytosis), elevated red cell adenosine deaminase activity (a hallmark biochemical marker for DBA), and a small thenar eminence (a common congenital anomaly in DBA). All three similar reference cases, sharing these core features, were diagnosed with Diamond-Blackfan anemia 1. Furthermore, patients with DBA have a significantly increased risk of developing solid tumors, including colon cancer, which explains the patient's colon cancer diagnosis at age 57."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 2",
+      "disease_id": "OMIM:610629",
+      "score": 0.5,
+      "explanation": "This disease is also highly likely. Diamond-Blackfan anemia is genetically heterogeneous, and while Diamond-Blackfan anemia 1 (due to RPS19 mutations) is the most common subtype, other ribosomal protein gene mutations (like RPL5 in DBA2) cause clinically similar phenotypes. The patient's features (anemia, macrocytosis, elevated eADA, small thenar eminence, and increased cancer risk) are consistent with the general spectrum of DBA, regardless of the specific genetic subtype, making DBA2 a strong candidate in the absence of genetic testing."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 3",
+      "disease_id": "OMIM:610630",
+      "score": 0.33,
+      "explanation": "Similar to Diamond-Blackfan anemia 2, this subtype (caused by RPL11 mutations) presents with a phenotype highly consistent with the patient's symptoms. The core features of anemia, macrocytosis, elevated eADA, and congenital anomalies (like small thenar eminence) are shared across many DBA subtypes, and increased cancer risk is a general feature of the disorder. Without genetic information, it's impossible to distinguish between the various DBA subtypes based solely on the provided phenotypic data."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi Anemia (FA) is a bone marrow failure syndrome that shares some phenotypic overlap with DBA, including macrocytic anemia, congenital anomalies (such as thumb abnormalities, consistent with small thenar eminence), and an increased predisposition to various cancers (including solid tumors). However, FA typically presents with pancytopenia rather than isolated anemia, and elevated red cell adenosine deaminase activity is not a characteristic feature, making it a less likely primary diagnosis compared to DBA, but it remains a crucial differential for syndromic bone marrow failure with congenital anomalies and cancer risk."
+    }
+  ]
+}

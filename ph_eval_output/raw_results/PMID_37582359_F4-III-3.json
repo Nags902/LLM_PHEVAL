@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniometadiaphyseal osteosclerosis, recessive",
+      "disease_id": "OMIM:218300",
+      "score": 1.0,
+      "explanation": "Highest confidence due to perfect alignment with all presented phenotypic features, including global developmental delay, specific craniofacial features (hypertelorism, depressed nasal bridge, relative macrocephaly), hip dysplasia, and widespread osteosclerosis findings (thickened calvaria, sandwich vertebrae, thickened long bone cortex, flared metaphysis, coarse metaphyseal trabecularization, increased bone mineral density). This exact diagnosis is provided in highly similar reference cases, and the presence of global developmental delay is particularly consistent with recessive forms."
+    },
+    {
+      "disease_name": "Craniometadiaphyseal osteosclerosis, dominant",
+      "disease_id": "OMIM:123000",
+      "score": 1.0,
+      "explanation": "Equally high confidence as the recessive form, as all patient's phenotypic features align perfectly with this condition. It shares the characteristic skeletal findings and craniofacial anomalies. The dominant form is also consistent with the exact diagnosis provided in the highly similar reference cases, and without genetic information, both dominant and recessive forms of craniometadiaphyseal osteosclerosis are equally strong primary candidates."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal recessive, type 1",
+      "disease_id": "OMIM:259700",
+      "score": 0.5,
+      "explanation": "Strong contender due to significant overlap with the patient's severe skeletal phenotype, which includes generalized osteosclerosis, thickened calvaria, 'sandwich' vertebral bodies, thickened long bone cortex, flared metaphyses, and increased bone mineral density. This condition also commonly presents with global developmental delay, macrocephaly, hypertelorism, and depressed nasal bridge, making it a key differential for severe osteosclerotic conditions, and shares many features with craniometadiaphyseal osteosclerosis."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal dominant, type 1",
+      "disease_id": "OMIM:166600",
+      "score": 0.33,
+      "explanation": "A relevant differential diagnosis for conditions characterized by increased bone mineral density and widespread osteosclerosis. While generally a milder form of osteopetrosis (Albers-Schonberg disease), it can still present with thickened bones, particularly the calvaria, and may infrequently be associated with developmental delays or hip issues. The core finding of bone sclerosis makes it a plausible consideration."
+    }
+  ]
+}

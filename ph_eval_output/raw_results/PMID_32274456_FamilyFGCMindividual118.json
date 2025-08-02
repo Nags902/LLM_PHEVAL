@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1 (UMOD-related)",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This disease is the most likely diagnosis as it is consistently identified in all similar reference cases, which present with the patient's core phenotypic features of chronic kidney disease and proteinuria. Tubulointerstitial kidney disease, autosomal dominant, 1, specifically the UMOD-related form (ADTKD-UMOD), is characterized by progressive chronic kidney disease and often mild proteinuria."
+    },
+    {
+      "disease_name": "Alport Syndrome, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.5,
+      "explanation": "Alport Syndrome is a common inherited cause of progressive chronic kidney disease and proteinuria. While the patient's current listed features are non-specific, this condition should be considered in the differential diagnosis for genetic kidney disease. One of the reference cases also included hematuria, which is a hallmark feature of Alport syndrome."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease Type 1",
+      "disease_id": "OMIM:601313",
+      "score": 0.333,
+      "explanation": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) Type 1 is a highly prevalent inherited kidney disorder that leads to progressive chronic kidney disease. While typically characterized by the formation of numerous renal cysts, proteinuria and declining renal function are also common features, making it a plausible consideration in the absence of more specific clinical findings that might exclude it."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:615705",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as all of the patient's presenting features (Dysarthria, Intellectual disability, borderline, Impaired tandem gait) are core symptoms of Spinocerebellar ataxia 29. Furthermore, all three similar reference cases, exhibiting highly overlapping phenotypes including these features, were diagnosed with this exact condition. SCA29 is characterized by congenital, nonprogressive cerebellar ataxia, mild global developmental delay, dysarthria, and gait abnormalities, fitting the patient's profile perfectly, even at 58 years of age due to its non-progressive nature."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 13",
+      "disease_id": "OMIM:605259",
+      "score": 0.5,
+      "explanation": "Spinocerebellar ataxia type 13 (SCA13) is considered a strong differential diagnosis. It is characterized by cerebellar ataxia, dysarthria, and intellectual disability (which can range from severe to mild/borderline), aligning with the patient's key phenotypic features. While not as strong a match as SCA29 given the direct reference cases, it shares the common trifecta of ataxia, dysarthria, and cognitive impairment often with a variable age of onset, making it a plausible alternative."
+    }
+  ]
+}

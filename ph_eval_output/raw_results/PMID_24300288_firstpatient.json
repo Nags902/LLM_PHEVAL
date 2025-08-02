@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyggve-Melchior-Clausen disease",
+      "disease_id": "OMIM:223800",
+      "score": 1.0,
+      "explanation": "The patient's comprehensive phenotype, including severe skeletal dysplasia (beaking of vertebral bodies, platyspondyly, rhizomelia, short metacarpals/metatarsals, carpal bone hypoplasia, hypoplastic iliac wing, genu valgum, wide pubic symphysis, flat acetabular roof, scoliosis, lumbar hyperlordosis, waddling gait), intellectual disability, absent speech, coarse facial features, short neck, fine hair, thick oral frenulum, wide mouth, and smooth philtrum, aligns almost perfectly with the established clinical picture of Dyggve-Melchior-Clausen disease. This strong correlation is further supported by the first similar reference case, which presents with nearly identical features and received a diagnosis of Dyggve-Melchior-Clausen disease."
+    },
+    {
+      "disease_name": "Mucolipidosis II alpha/beta",
+      "disease_id": "OMIM:252500",
+      "score": 0.5,
+      "explanation": "Mucolipidosis II alpha/beta (I-cell disease) is a lysosomal storage disorder characterized by coarse facial features, intellectual disability, short stature, joint stiffness, and a type of skeletal dysplasia known as dysostosis multiplex, which can include platyspondyly and other bone abnormalities. It shares several features with the patient, such as coarse facial features, intellectual disability, short neck, waddling gait, and general skeletal anomalies. While the specific vertebral beaking might be less typical than in Dyggve-Melchior-Clausen disease or certain MPS types, the overall combination of coarse facies, intellectual disability, and significant skeletal involvement makes it a relevant differential diagnosis."
+    }
+  ]
+}

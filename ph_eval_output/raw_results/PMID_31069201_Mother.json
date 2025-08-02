@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency, common variable, 13",
+      "disease_id": "OMIM:618111",
+      "score": 1.0,
+      "explanation": "This specific subtype of common variable immunodeficiency is the exact diagnosis of all three provided reference cases, which share multiple key phenotypic features with the patient. These shared features include decreased CD4:CD8 ratio, B lymphocytopenia, decreased circulating IgA concentration, decreased circulating total IgM, and thrombocytopenia (which is frequently autoimmune in CVID). The patient's decreased proportion of class-switched memory B cells is also a hallmark finding consistent with CVID. While explicit low IgG levels are not listed for the patient, the 'variable' nature of CVID allows for diverse immunoglobulin profiles, and the strong overall phenotypic match with the reference cases makes this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable",
+      "disease_id": "OMIM:613494",
+      "score": 0.5,
+      "explanation": "This represents the broader clinical diagnosis encompassing various genetic and unknown causes of common variable immunodeficiency. The patient's features, including B lymphocytopenia, decreased proportion of class-switched memory B cells, decreased circulating IgA and IgM, thrombocytopenia, and an altered CD4:CD8 ratio, are highly consistent with the diagnostic criteria for CVID. CVID is characterized by impaired antibody production and hypogammaglobulinemia, often accompanied by autoimmune manifestations and altered lymphocyte subsets. This diagnosis is extremely likely, even if a specific genetic subtype (like CVID13) is not definitively confirmed."
+    },
+    {
+      "disease_name": "Autoimmune Lymphoproliferative Syndrome",
+      "disease_id": "OMIM:601859",
+      "score": 0.33,
+      "explanation": "Autoimmune Lymphoproliferative Syndrome (ALPS) is considered due to the presence of thrombocytopenia (autoimmune cytopenias are a hallmark of ALPS) and the decreased CD4:CD8 ratio, which is often seen in ALPS due to an accumulation of double-negative T cells. While ALPS primarily involves defective lymphocyte apoptosis and lymphoproliferation (which is not explicitly mentioned in the patient's symptoms), some ALPS patients can develop secondary hypogammaglobulinemia. However, the prominent B cell abnormalities (B lymphocytopenia, decreased class-switched memory B cells, and specific IgA and IgM deficiencies) point more strongly towards a primary B cell immunodeficiency like CVID, making ALPS a less precise fit but a relevant differential diagnosis."
+    }
+  ]
+}

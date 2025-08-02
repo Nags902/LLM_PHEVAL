@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome and related RASopathies are highly suspected due to the striking combination of features. The patient exhibits global developmental delay, hypotonia, hearing impairment, finger clinodactyly, and recurrent infections, all common in Noonan spectrum disorders. Key distinguishing features such as 'eversion of lateral third of lower eyelids' and 'prominent fingertip pads' are highly characteristic of Noonan syndrome. While pulmonary valve stenosis is more classic, aortic valve stenosis is a known cardiac manifestation. Wide nasal bridge and macrotia are also observed in the Noonan phenotype. OMIM:163950 represents the most common PTPN11-related Noonan Syndrome."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous Syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.5,
+      "explanation": "Cardiofaciocutaneous (CFC) syndrome, another RASopathy, shares significant phenotypic overlap with the patient's presentation. It is characterized by global developmental delay, hypotonia, hearing impairment, prominent fingertip pads, finger clinodactyly, and various cardiac defects including aortic stenosis. Recurrent infections, wide nasal bridge, and macrotia can also be present. While the eyelid eversion might be less specific to CFC than Noonan, the overall constellation of features makes it a strong candidate. OMIM:115150 represents BRAF-related CFC syndrome."
+    },
+    {
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.333,
+      "explanation": "Costello syndrome, also a RASopathy, presents with global developmental delay, hypotonia, hearing impairment, prominent fingertip pads, and finger clinodactyly. Cardiac involvement, including aortic valve disease, and recurrent infections are well-documented features. Macrotia (large ears) is also characteristic. Although facial coarseness might differ, the substantial overlap in neurodevelopmental, cardiac, and limb findings makes Costello syndrome a plausible diagnosis within the RASopathy spectrum. OMIM:218040 represents HRAS-related Costello syndrome."
+    },
+    {
+      "disease_name": "White-Sutton Syndrome",
+      "disease_id": "OMIM:616365",
+      "score": 0.25,
+      "explanation": "White-Sutton syndrome was a reference case that shares some general features like global developmental delay, hypotonia, hearing impairment, finger clinodactyly, and recurrent infections with the patient. However, several distinctive features of the patient, such as eversion of lateral third of lower eyelids, prominent fingertip pads, and specifically aortic valve stenosis, are not typical or primary manifestations of White-Sutton syndrome, making it a less precise fit compared to the RASopathies."
+    },
+    {
+      "disease_name": "Acrofacial dysostosis, Cincinnati type",
+      "disease_id": "OMIM:616646",
+      "score": 0.2,
+      "explanation": "Acrofacial dysostosis, Cincinnati type, was a reference case that shares global developmental delay, hypotonia, hearing impairment, long palpebral fissure, and finger clinodactyly. However, it lacks several key features of the patient, including eversion of lateral third of lower eyelids, prominent fingertip pads, wide nasal bridge, macrotia, aortic valve stenosis, and recurrent infections. The specific pattern of craniofacial and limb anomalies described in Cincinnati type dysostosis does not fully align with the patient's presentation."
+    }
+  ]
+}

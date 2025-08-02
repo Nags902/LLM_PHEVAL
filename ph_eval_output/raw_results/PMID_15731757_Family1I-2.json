@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome 2",
+      "disease_id": "OMIM:610168",
+      "score": 1.0,
+      "explanation": "All three of the patient's phenotypic features (Patent ductus arteriosus, Aortic root aneurysm, and Genu valgum) are explicitly present in the provided reference cases (Case 1 and Case 3) diagnosed with Loeys-Dietz syndrome 2. This strong overlap makes it a highly probable causative disease."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "The patient's Patent ductus arteriosus and Aortic root aneurysm are present in reference Case 2, diagnosed with Loeys-Dietz syndrome 1. Genu valgum is a common skeletal feature across Loeys-Dietz syndrome types and often co-occurs. This strong correlation with the reference case supports its high ranking."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome, regardless of subtype, is characterized by arterial aneurysms and dissections (including aortic root aneurysm) and frequently includes skeletal findings like genu valgum and congenital heart defects like patent ductus arteriosus. While not directly mentioned in the reference cases, it shares the core features with the patient's presentation."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 4",
+      "disease_id": "OMIM:614481",
+      "score": 0.5,
+      "explanation": "Similar to other Loeys-Dietz syndrome subtypes, Loeys-Dietz syndrome 4 presents with significant vascular pathology, including aortic aneurysms, and can involve skeletal anomalies and congenital heart defects consistent with the patient's features."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.5,
+      "explanation": "As a type of Loeys-Dietz syndrome, it shares the cardinal features of arterial aneurysms (like aortic root aneurysm) and other connective tissue manifestations, including skeletal anomalies (like genu valgum) and congenital heart defects (like patent ductus arteriosus)."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 6",
+      "disease_id": "OMIM:618821",
+      "score": 0.5,
+      "explanation": "This subtype of Loeys-Dietz syndrome also manifests with vascular fragility, including aortic aneurysms, and systemic connective tissue issues that can encompass skeletal deformities and cardiac anomalies seen in the patient."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.33,
+      "explanation": "Marfan syndrome is a significant differential diagnosis for Loeys-Dietz syndrome and shares overlapping features such as aortic root aneurysm and skeletal manifestations like genu valgum. While patent ductus arteriosus is less characteristic, it can occasionally occur. It is a well-known connective tissue disorder with similar vascular and skeletal involvement."
+    }
+  ]
+}

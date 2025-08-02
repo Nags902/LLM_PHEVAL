@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiGeorge syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest candidate as it perfectly aligns with all three core phenotypic features presented: Hypoparathyroidism, Aplasia/Hypoplasia of the thymus, and T lymphocytopenia. These are classic manifestations of DiGeorge syndrome (also known as 22q11.2 deletion syndrome). Furthermore, all provided similar reference cases with overlapping features were diagnosed with DiGeorge syndrome, providing robust support for this primary diagnosis."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is considered a broader differential due to its nature as a complex developmental disorder that can include various congenital anomalies. While not a primary match for the specific triad of features, some individuals with CHARGE syndrome can present with endocrine dysfunction (such as hypoparathyroidism) and immune defects. However, specific thymic aplasia leading to T lymphocytopenia is not a hallmark feature as it is in DiGeorge syndrome, making this a much less likely but possible alternative in a comprehensive differential."
+    }
+  ]
+}

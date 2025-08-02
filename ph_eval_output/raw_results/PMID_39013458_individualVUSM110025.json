@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:618827",
+      "score": 1.0,
+      "explanation": "This syndrome presents with an exceptionally strong match to all the patient's core phenotypic features, including short stature, global developmental delay, microcephaly, compulsive behaviors, and anxiety (social anxiety is a feature of ReNU). Its direct diagnosis in a highly similar reference case (Case 2) further reinforces its top ranking."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "A significant overlap is observed with global developmental delay, microcephaly, and often short stature. Crucially, Pitt-Hopkins Syndrome is well-known for characteristic behavioral features such as anxiety and compulsive behaviors, making it a strong candidate for the patient's presentation."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1 (ARID1B-related)",
+      "disease_id": "OMIM:614566",
+      "score": 0.33,
+      "explanation": "Patients with Coffin-Siris syndrome commonly exhibit global developmental delay, intellectual disability, variable microcephaly, and growth impairment (including short stature). Behavioral issues, including anxiety and features on the autism spectrum (which can include compulsive behaviors), are also frequently reported."
+    },
+    {
+      "disease_name": "SMC1A-related microcephaly and developmental delay",
+      "disease_id": "OMIM:615024",
+      "score": 0.25,
+      "explanation": "This disorder directly encompasses microcephaly, global developmental delay, and short stature, which are key features in the patient. While specific mention of 'compulsive behaviors' and 'anxiety' might vary in literature for this condition, a broad spectrum of behavioral challenges is common in neurodevelopmental disorders of this severity."
+    },
+    {
+      "disease_name": "Microcephalic Osteodysplastic Primordial Dwarfism Type II (MOPDII)",
+      "disease_id": "OMIM:210720",
+      "score": 0.2,
+      "explanation": "MOPDII is characterized by severe primordial microcephaly and disproportionate short stature, aligning well with two prominent features of the patient. Global developmental delay is also a core component. Behavioral challenges, including irritability and sometimes repetitive behaviors, can be part of the clinical picture in individuals with severe neurodevelopmental conditions."
+    }
+  ]
+}

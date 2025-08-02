@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features, including Atrial septal defect, Hypoplasia of the radius, Abnormal carpal morphology, and Cardiac conduction abnormality, are the cardinal manifestations of Holt-Oram syndrome. This specific combination of upper limb radial ray defects and cardiac septal and conduction abnormalities is highly characteristic of the condition. The provided similar reference cases, which share these core features and were diagnosed as Holt-Oram syndrome, further strongly support this diagnosis."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "This syndrome is considered a differential diagnosis due to the presence of hypoplasia of the radius and atrial septal defect, which can occur in TAR syndrome. However, TAR syndrome is primarily characterized by bilateral radial aplasia/hypoplasia and severe thrombocytopenia, neither of which are specified for the patient. The cardiac conduction abnormality is also less typical as a primary feature compared to Holt-Oram syndrome, making it a less likely diagnosis."
+    }
+  ]
+}

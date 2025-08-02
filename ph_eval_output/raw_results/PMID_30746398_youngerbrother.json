@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spastic paraplegia 78, autosomal recessive",
+      "disease_id": "OMIM:617225",
+      "score": 1.0,
+      "explanation": "The patient's presentation of parkinsonism (rigidity, bradykinesia, stooped posture), prominent upper motor neuron signs (hyperreflexia, Babinski sign), and significant cerebellar involvement (cerebellar atrophy, positive Romberg sign) aligns exceptionally well with the known phenotype of SPG78. This is strongly supported by Reference Case 1, which was diagnosed with SPG78 and shares numerous key features including Parkinsonism, Bradykinesia, Babinski sign, Hyperreflexia, and Cerebellar atrophy. SPG78 (due to DDHD2 mutations) is specifically characterized by this combination of spasticity, ataxia, and parkinsonism with an adult onset, fitting the patient's age of 27."
+    },
+    {
+      "disease_name": "Multiple System Atrophy",
+      "disease_id": "OMIM:159500",
+      "score": 0.5,
+      "explanation": "Multiple System Atrophy (MSA) is a classic 'Parkinson-plus' syndrome characterized by a variable combination of parkinsonism (MSA-P) and cerebellar ataxia (MSA-C), often accompanied by autonomic dysfunction and pyramidal signs (hyperreflexia, Babinski sign). The patient's constellation of Parkinsonism, cerebellar atrophy with Romberg sign, and upper motor neuron signs fits the known clinical spectrum of MSA very well, making it a highly probable differential diagnosis. While typical onset is often later, early-onset cases do occur, making it relevant for a 27-year-old."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia, Type 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.333,
+      "explanation": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease, MJD) is the most common autosomal dominant SCA and is well-known for its highly variable clinical presentation. It frequently includes cerebellar ataxia (consistent with cerebellar atrophy and Romberg sign), parkinsonism, dystonia, and pyramidal signs (hyperreflexia, Babinski). The presence of both cerebellar atrophy and parkinsonian features, along with upper motor neuron signs, makes MJD a strong candidate for this patient's complex neurodegenerative phenotype, with an age of onset that typically spans from early adulthood."
+    },
+    {
+      "disease_name": "Parkinson disease 15, autosomal recessive",
+      "disease_id": "OMIM:613136",
+      "score": 0.25,
+      "explanation": "While prominent cerebellar features (atrophy, Romberg sign) are not typically the primary emphasis for Parkinson disease 15, this condition (caused by FBXO7 mutations) is known to present with early-onset parkinsonism that can include rigidity, bradykinesia, and notably, significant pyramidal signs such as hyperreflexia and Babinski sign. This is consistent with the patient's parkinsonian and upper motor neuron features and directly supported by Reference Cases 2 and 3. Its inclusion is warranted given the strong overlap in these core features from the provided reference cases."
+    }
+  ]
+}

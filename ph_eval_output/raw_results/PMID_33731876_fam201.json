@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "This disease is highly ranked due to its strong overlap with the patient's phenotypic features and its direct mention in two out of three similar reference cases (Case 2 and Case 3). The patient exhibits EEG with burst suppression, epileptic encephalopathy, focal tonic seizure, generalized tonic seizure, global developmental delay, hypsarrhythmia, infantile spasms, and severe intellectual disability, all of which are characteristic of DEE11, as exemplified by the reference cases. The only missing feature explicitly mentioned in the reference cases for DEE11 not in the patient's list is 'Abnormal brain morphology', which is often a consequence of severe DEE and may be present but unstated."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:613402",
+      "score": 0.5,
+      "explanation": "DEE4 is a strong candidate, as it is the diagnosis in Case 1, which shares a significant number of the patient's key features including EEG with burst suppression, infantile spasms, generalized tonic seizure, global developmental delay, and hypsarrhythmia. While it doesn't encompass as many specific seizure types or the explicitly severe intellectual disability as DEE11 in the provided reference cases, STXBP1 encephalopathy (DEE4) is a well-known cause of severe epileptic encephalopathy with a broad seizure semiology that fits the patient's overall presentation."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1 (Ohtahara syndrome)",
+      "disease_id": "OMIM:256450",
+      "score": 0.33,
+      "explanation": "Ohtahara Syndrome (DEE1) is a severe early infantile epileptic encephalopathy primarily characterized by burst suppression on EEG and tonic spasms, often evolving into West Syndrome (infantile spasms and hypsarrhythmia). The patient's combination of EEG with burst suppression, epileptic encephalopathy, generalized tonic seizures, and the presence of infantile spasms and hypsarrhythmia makes DEE1 a highly relevant differential diagnosis, representing the most severe end of the DEE spectrum, even if not directly cited in the reference cases."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder (Developmental and epileptic encephalopathy 28)",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "CDKL5 deficiency disorder (DEE28) is a recognized cause of severe early-onset epileptic encephalopathy. It frequently presents with early-onset seizures, often including infantile spasms, severe global developmental delay, and severe intellectual disability, mirroring many of the patient's symptoms. While not directly linked to a reference case, its clinical profile is highly consistent with the patient's severe neurological phenotype, making it a crucial consideration."
+    }
+  ]
+}

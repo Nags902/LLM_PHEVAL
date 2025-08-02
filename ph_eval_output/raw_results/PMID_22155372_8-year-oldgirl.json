@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT syndrome 3",
+      "disease_id": "OMIM:600127",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis given the patient's key phenotypic features (Paroxysmal atrial fibrillation, Shortened QT interval) directly match the presentation of Short QT syndrome. Furthermore, all provided similar reference cases were explicitly diagnosed with Short QT syndrome 3, making it the strongest candidate."
+    },
+    {
+      "disease_name": "Short QT syndrome 1",
+      "disease_id": "OMIM:600027",
+      "score": 0.5,
+      "explanation": "Short QT syndrome 1 shares the core phenotypic features of a shortened QT interval and is frequently associated with atrial fibrillation, including paroxysmal forms. While the reference cases specifically point to Short QT syndrome 3, SQTS1 is another common genetic subtype of Short QT syndrome, making it a highly relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Short QT syndrome 2",
+      "disease_id": "OMIM:603176",
+      "score": 0.333,
+      "explanation": "Similar to SQTS1, Short QT syndrome 2 also presents with a shortened QT interval and an increased risk of atrial fibrillation and other arrhythmias. It falls within the spectrum of Short QT syndromes that directly explain the patient's symptoms, making it a plausible but slightly less specific alternative compared to SQTS3, based on the provided reference cases."
+    }
+  ]
+}

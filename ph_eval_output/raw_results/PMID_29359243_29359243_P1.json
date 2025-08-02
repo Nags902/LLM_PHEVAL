@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
+      "disease_id": "OMIM:613390",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches the patient's core features including neonatal/early infantile onset, severe encephalopathy (evidenced by motor regression, hypotonia, respiratory failure), increased CSF lactate (lactic acidosis), and specific brain MRI abnormalities (abnormal diffusion weighted cerebral MRI morphology, abnormality of the internal capsule, abnormal cerebral cortex morphology). It is directly exemplified by reference Case 3 and is caused by defects in mitochondrial complex I (NDUFV1)."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh Syndrome is a severe, progressive neurometabolic disorder characterized by psychomotor regression, hypotonia, respiratory failure, lactic acidosis, and specific symmetric necrotic lesions on MRI, often including areas like the basal ganglia, brainstem, and white matter (consistent with the patient's MRI abnormalities). Many of the patient's features are highly characteristic of Leigh Syndrome, and OMIM:613390 is a specific genetic cause within this broader spectrum of disorders."
+    },
+    {
+      "disease_name": "Multiple mitochondrial dysfunctions syndrome 7",
+      "disease_id": "OMIM:618776",
+      "score": 0.333,
+      "explanation": "Reference Case 1, diagnosed with this condition, shares several key features with the patient, including abnormal diffusion weighted cerebral MRI morphology, respiratory failure requiring assisted ventilation, brisk reflexes (hyperreflexia), and severe hypotonia. This indicates a severe mitochondrial disorder, which aligns well with the patient's increased CSF lactate."
+    },
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:618833",
+      "score": 0.25,
+      "explanation": "While less specifically matching the acute MRI diffusion changes and prominent CSF lactate, ReNU syndrome, represented by Case 2, shares several general neurological features observed in the patient such as feeding difficulties, hypotonia, nystagmus, and motor regression, making it a relevant differential based on the provided similar cases."
+    }
+  ]
+}

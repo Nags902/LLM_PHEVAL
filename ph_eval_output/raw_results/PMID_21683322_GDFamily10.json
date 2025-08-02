@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614187",
+      "score": 1.0,
+      "explanation": "This disease, as exemplified by Reference Case 2, perfectly matches all of the patient's reported phenotypic features, including Long philtrum, Smooth philtrum, Thin upper lip vermilion, Hypertelorism, Full cheeks, Short palm, Short foot, Short nose, Limitation of joint mobility, and Moderately short stature. This strong phenotypical overlap makes it the most likely diagnosis."
+    },
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 0.5,
+      "explanation": "While there is a significant phenotypic mismatch regarding the philtrum (patient has long/smooth, reference cases for White-Sutton syndrome list short philtrum), this syndrome shares several other features with the patient, such as Thin upper lip vermilion, Hypertelorism, and Short stature. Joint involvement (limitation of joint mobility for the patient, versus joint contracture and sometimes hypermobility for White-Sutton syndrome) shows some partial overlap. Given the instruction to provide multiple diseases and the presence of White-Sutton syndrome in the reference cases with some matching features, it is considered as a less likely but possible differential diagnosis."
+    }
+  ]
+}

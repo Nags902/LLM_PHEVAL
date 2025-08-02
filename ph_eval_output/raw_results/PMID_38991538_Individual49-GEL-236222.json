@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:619082",
+      "score": 1.0,
+      "explanation": "This disorder, caused by STXBP1 gene variants, aligns strongly with the patient's core features including moderate global developmental delay, intellectual disability, seizures, microcephaly, delayed ability to walk and speech, and gastroesophageal reflux. It directly matches the diagnosis of reference Case 2, which presented with a highly similar constellation of neurodevelopmental and gastrointestinal symptoms, along with craniofacial features such as high forehead and prominent supraorbital ridges, consistent with the patient's high forehead and prominent metopic ridge. Philtrum abnormalities are also reported in STXBP1-related disorders."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder presents with a severe neurodevelopmental phenotype highly consistent with the patient's symptoms, including early-onset intractable seizures, severe global developmental delay, intellectual disability, and microcephaly. Gastroesophageal reflux and short stature are also common findings. Dysmorphic features like a prominent forehead (aligning with the patient's high forehead and prominent metopic ridge) are frequently observed in affected individuals. The cavum septum pellucidum is a non-specific brain finding compatible with this and other neurodevelopmental disorders."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:614607",
+      "score": 0.33,
+      "explanation": "Coffin-Siris Syndrome, particularly Type 1 (caused by ARID1B mutations, the most common form), is characterized by intellectual disability, developmental delay, short stature, and variable microcephaly and seizures. A key distinguishing feature that aligns well with the patient's presentation is the presence of a 'tented philtrum', which is a recognized dysmorphic feature in CSS. Other consistent features include prominent forehead and prominent metopic ridge."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This syndrome is highly consistent with the patient's core features, including severe intellectual disability and postaxial polydactyly (both hand and foot). Crucially, recurrent infections, while not a universal primary diagnostic criterion for Bardet-Biedl Syndrome, are frequently observed due to associated renal abnormalities or general systemic health complications in affected individuals. This makes it the most comprehensive fit for the patient's specific presentation."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "The patient presents with intellectual disability and postaxial polydactyly, which are core features of Greig Cephalopolysyndactyly Syndrome (GCPS). While the patient does not explicitly have macrocephaly or hypertelorism, these are variably expressed in GCPS. The *similar reference cases* provide strong guidance, as their listed features (including macrocephaly, hypertelorism, preaxial and postaxial polydactyly, syndactyly, and intellectual disability) are highly characteristic of GCPS, suggesting that the patient's presentation may be part of this syndrome's spectrum. Recurrent infections are not a typical feature of GCPS."
+    },
+    {
+      "disease_name": "Oral-Facial-Digital Syndrome Type VI",
+      "disease_id": "OMIM:277170",
+      "score": 0.33,
+      "explanation": "Oral-Facial-Digital Syndrome Type VI (also known as Varadi-Papp syndrome) is a ciliopathy characterized by intellectual disability and postaxial polydactyly, aligning with two of the patient's key features. While classic oral and facial anomalies are expected, their severity and presentation can vary. Like other ciliopathies, systemic issues, including a propensity for infections, can sometimes be observed, though not a primary diagnostic criterion."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.25,
+      "explanation": "Given the patient's gender is female ('Gender: 2'), McKusick-Kaufman Syndrome is a consideration due to the presence of postaxial polydactyly. The syndrome is primarily characterized by hydrometrocolpos and congenital heart defects. While intellectual disability is less common, it can be a variable feature. Recurrent infections are not a defining feature but could arise as secondary complications related to the primary defects."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146580",
+      "score": 0.2,
+      "explanation": "Pallister-Hall Syndrome, caused by mutations in the GLI3 gene (like GCPS), includes postaxial polydactyly and variable intellectual disability among its features. However, characteristic findings such as hypothalamic hamartoma or imperforate anus are not listed in the patient's phenotype. Recurrent infections are not typically associated with this syndrome."
+    }
+  ]
+}

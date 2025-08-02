@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Vanishing White Matter Disease (VWMD)",
+      "disease_id": "OMIM:603896",
+      "score": 1.0,
+      "explanation": "This disease (caused by mutations in EIF2B1-5 genes) aligns exceptionally well with the patient's comprehensive phenotype. Key features matching include CNS hypomyelination, brain atrophy, cerebellar atrophy, severe intellectual disability, spasticity, and short stature. Crucially, precocious puberty, an unusual but present feature in the patient, has been reported in a subset of VWMD patients, particularly those with EIF2B2 mutations. While hypsarrhythmia and infantile spasms may not be the initial presentation in all VWMD cases, severe epilepsy with various seizure types is commonly seen as part of the neurological deterioration. The progressive nature suggested by atrophy and hypomyelination further supports this diagnosis, making it the most likely candidate."
+    },
+    {
+      "disease_name": "Developmental and Epileptic Encephalopathy (DEE)",
+      "disease_id": "OMIM:617132",
+      "score": 0.5,
+      "explanation": "The patient's clinical picture, characterized by multiple severe seizure types (atypical absence, focal tonic, generalized tonic, bilateral tonic-clonic, hypsarrhythmia, infantile spasms), multifocal epileptiform discharges, and severe intellectual disability, fits precisely within the diagnostic criteria for a Developmental and Epileptic Encephalopathy. While DEE is a broad clinical category encompassing many genetic causes, the severe and refractory nature of the epilepsy, along with significant developmental impairment and brain structural abnormalities (atrophy, hypomyelination), is highly indicative of this diagnosis. The similar reference cases also directly point to 'Developmental and epileptic encephalopathy 5' and 'Developmental delay with or without epilepsy', reinforcing this categorization. VWMD is a specific genetic cause that can manifest as a DEE."
+    },
+    {
+      "disease_name": "Hypomyelination with Atrophy of the Basal Ganglia and Cerebellum (H-ABC)",
+      "disease_id": "OMIM:612398",
+      "score": 0.33,
+      "explanation": "H-ABC, caused by mutations in the TUBB4A gene, is a significant hypomyelinating leukodystrophy that matches several key phenotypic features. These include CNS hypomyelination, brain atrophy (specifically basal ganglia and cerebellum, which aligns with generalized brain and cerebellar atrophy), spasticity, and intellectual disability. Seizures can occur in H-ABC, and short stature is sometimes reported. However, precocious puberty is not a typical feature of H-ABC, which makes VWMD a more comprehensive fit for the patient's entire constellation of symptoms."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome (AGS)",
+      "disease_id": "OMIM:225750",
+      "score": 0.25,
+      "explanation": "AGS is an inflammatory encephalopathy that can present with significant neurological dysfunction, including white matter abnormalities (leukodystrophy-like features), brain atrophy, spasticity, intellectual disability, and seizures. Some types of AGS can mimic leukodystrophies. While there is overlap in severe neurological symptoms and brain imaging findings, primary CNS hypomyelination as described for this patient is less typical for AGS compared to true hypomyelinating leukodystrophies. More importantly, precocious puberty is not a characteristic feature of AGS, and the syndrome often involves other indicators of interferonopathy (e.g., basal ganglia calcifications, chilblains) that are not specified in the patient's features."
+    }
+  ]
+}

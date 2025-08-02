@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient's phenotypic features, including Achilles tendon contracture, gait disturbance, spinal rigidity, arrhythmia, scapuloperoneal amyotrophy, proximal muscle weakness in upper limbs, and stiff neck, are highly consistent with the classic triad of Emery-Dreifuss muscular dystrophy (EDMD): early contractures, progressive muscle weakness, and cardiac involvement. All provided reference cases, presenting with highly similar features, were diagnosed with Emery-Dreifuss muscular dystrophy 2, autosomal dominant, which is caused by mutations in the LMNA gene and commonly manifests with these symptoms."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "While the reference cases point to an autosomal dominant form, Emery-Dreifuss muscular dystrophy 1 (X-linked), caused by mutations in the EMD gene, presents with an almost identical clinical picture including contractures (especially Achilles tendon and spinal rigidity), progressive muscle weakness (often scapuloperoneal), and cardiac conduction defects/arrhythmias. This is a primary differential for any EDMD presentation, even in a female patient, who can be symptomatic carriers."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 0.333,
+      "explanation": "Limb-girdle muscular dystrophy type 1B is also caused by mutations in the LMNA gene, the same gene responsible for Emery-Dreifuss muscular dystrophy 2. There is significant phenotypic overlap between LMNA-related laminopathies, which often present with a spectrum of features including progressive limb-girdle weakness, early contractures (such as Achilles tendon and spinal rigidity), and prominent cardiac involvement (arrhythmias and cardiomyopathy). The patient's symptoms fit well within this overlapping spectrum."
+    }
+  ]
+}

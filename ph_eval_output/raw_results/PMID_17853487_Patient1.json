@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "This syndrome is classically defined by the triad of severe central nervous system malformations (including encephalocele, hydrocephalus, Dandy-Walker malformation, microcephaly, and often neural tube defects like lumbosacral meningocele and Chiari II malformation), postaxial polydactyly, and polycystic kidneys. All key phenotypic features of the patient (Microcephaly, Postaxial hand polydactyly, Chiari type II malformation, Lumbosacral meningocele, and Talipes equinovarus) are highly consistent with the known spectrum of Meckel-Gruber Syndrome, which is a lethal ciliopathy and genetically heterogeneous (e.g., MKS1, TMEM67, RPGRIP1L, CEP290, CC2D2A, etc.)."
+    },
+    {
+      "disease_name": "Joubert Syndrome and Related Disorders",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome and related disorders are a group of ciliopathies characterized by a specific midbrain-hindbrain malformation (the 'molar tooth sign' on MRI) and a wide range of associated features, including postaxial polydactyly, microcephaly, hydrocephalus, and other central nervous system anomalies. While Chiari type II malformation and meningocele are not the most typical CNS findings, severe brain malformations and neural tube defects can occur within the broad phenotypic spectrum of JSRD. There is significant clinical and genetic overlap with Meckel-Gruber Syndrome, with some severe JSRD cases resembling MKS. The co-occurrence of polydactyly and CNS anomalies strongly suggests a ciliopathy like JSRD (e.g., JBTS1 through JBTS37+)."
+    },
+    {
+      "disease_name": "Oral-Facial-Digital Syndrome, Type IV",
+      "disease_id": "OMIM:252100",
+      "score": 0.33,
+      "explanation": "Oral-Facial-Digital Syndrome type IV (Mohr-Juberg Syndrome) is a rare disorder characterized by skeletal abnormalities (including polydactyly and syndactyly), central nervous system malformations, and variable oral and facial anomalies. The patient's presentation with postaxial hand polydactyly, microcephaly, Chiari type II malformation, lumbosacral meningocele, and talipes equinovarus aligns well with the digital and neurological features of this syndrome, which is also a ciliopathy. While specific oral or facial features were not provided for the patient, their absence does not definitively rule out this diagnosis, especially given the strong match with other core features."
+    }
+  ]
+}

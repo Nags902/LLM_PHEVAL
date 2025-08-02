@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinal dystrophy with prolonged electroretinal response suppression",
+      "disease_id": "OMIM:613840",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches all the patient's reported phenotypic features, including Bradyopsia (HP:0030511), Difficulty adjusting to changes in luminance (HP:0030512), Reduced visual acuity (HP:0007663), and Photophobia (HP:0000613). Furthermore, it directly corresponds to the diagnosis in all three similar reference cases, which presented with an identical set of core symptoms (plus Nystagmus), making it the most highly probable causative disease."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.5,
+      "explanation": "Achromatopsia 2, caused by mutations in the CNGB3 gene, is a congenital cone dysfunction disorder characterized by severe photophobia, markedly reduced visual acuity, and significant difficulty adapting to changes in luminance (often described as day blindness). While bradyopsia is not a primary diagnostic criterion, impaired visual processing can be present. This condition shares several key visual symptoms with the patient and warrants consideration in the differential diagnosis of inherited retinal disorders with significant cone involvement."
+    }
+  ]
+}

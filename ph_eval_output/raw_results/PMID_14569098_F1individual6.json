@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1 (ADTKD-UMOD)",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis, as it perfectly matches the patient's phenotypic features of Stage 5 chronic kidney disease and gout. Furthermore, it was the confirmed diagnosis in all three identical reference cases provided, strongly suggesting its relevance. ADTKD-UMOD is characterized by progressive kidney failure and hyperuricemia leading to gout, often in adulthood."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease, type MUC1 (ADTKD-MUC1)",
+      "disease_id": "OMIM:607870",
+      "score": 0.5,
+      "explanation": "While the reference cases specifically point to ADTKD-UMOD (type 1), other forms of autosomal dominant tubulointerstitial kidney disease, such as ADTKD-MUC1, also cause progressive chronic kidney disease often accompanied by hyperuricemia and gout. These conditions share a similar clinical presentation of inherited kidney disease with tubulointerstitial pathology and can lead to end-stage renal disease in adulthood."
+    },
+    {
+      "disease_name": "Lesch-Nyhan syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.33,
+      "explanation": "Lesch-Nyhan syndrome is a severe X-linked disorder characterized by profound hyperuricemia due to HPRT1 deficiency, leading to severe gout and renal dysfunction (uric acid nephropathy). Although typically presenting with severe neurological symptoms not mentioned here and usually diagnosed in childhood, it is a well-known cause of both prominent gout and kidney disease, making it a differential diagnosis for these combined features, especially given the severity of gout implied by the stage of kidney disease."
+    }
+  ]
+}

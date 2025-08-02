@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612949",
+      "score": 1.0,
+      "explanation": "This patient's phenotype, characterized by continuous spike and waves during slow sleep, multiple generalized and focal seizure types (myoclonic, tonic, focal autonomic), hypsarrhythmia, severe intellectual disability, choreoathetosis, multifocal epileptiform discharges, and hypotonia, shows extensive overlap with the features described in two reference cases for Developmental and epileptic encephalopathy 4 (DEE4). Specifically, Case 2 of DEE4 includes generalized myoclonic seizure, generalized tonic seizure, hypsarrhythmia, severe intellectual disability, multifocal epileptiform discharges, hypotonia, and dyskinesia (similar to choreoathetosis). Case 1 of DEE4 also features continuous spike and waves during slow sleep, generalized tonic seizure, severe intellectual disability, multifocal epileptiform discharges, and hypotonia. This broad and severe epileptic encephalopathy presentation is highly consistent with DEE4."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "The patient's presentation includes key features such as continuous spike and waves during slow sleep and focal tonic seizures, which are explicitly present in the reference Case 3 for Developmental and epileptic encephalopathy 11 (DEE11). While DEE11 is a strong candidate given these specific features, the patient's broader and more severe phenotype, including hypsarrhythmia, generalized myoclonic seizures, generalized tonic seizures, severe intellectual disability, and choreoathetosis, aligns more completely with the spectrum of features described in the DEE4 reference cases, making DEE4 a slightly stronger fit overall."
+    }
+  ]
+}

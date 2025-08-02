@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Myoclonic epilepsy of Lafora 2",
+      "disease_id": "OMIM:605809",
+      "score": 1.0,
+      "explanation": "This disease is the top-ranked candidate due to its striking resemblance to the patient's phenotypic features (Dementia, Typical absence seizure, Bilateral tonic-clonic seizure, Myoclonic seizure, Gait disturbance, Progressive neurologic deterioration, Myoclonus) which are all characteristic of Lafora disease. Furthermore, the provided similar reference cases were all diagnosed with 'Myoclonic epilepsy of Lafora 2' based on an almost identical set of symptoms, providing strong direct guidance."
+    },
+    {
+      "disease_name": "Myoclonic epilepsy of Lafora 1",
+      "disease_id": "OMIM:254780",
+      "score": 0.5,
+      "explanation": "Lafora disease type 1 shares an identical clinical phenotype with Lafora disease type 2, differing only in the causative gene (EPM2A vs NHLRC1). Given the high clinical fit, this type remains a very strong candidate, especially if genetic testing for NHLRC1 does not yield a diagnosis."
+    },
+    {
+      "disease_name": "Unverricht-Lundborg disease",
+      "disease_id": "OMIM:254800",
+      "score": 0.33,
+      "explanation": "Unverricht-Lundborg disease (ULD) is another common form of progressive myoclonus epilepsy (PME). It presents with prominent myoclonus, generalized tonic-clonic seizures, and gait disturbance, which align with the patient's features. While dementia can occur, it is often less prominent in early stages compared to Lafora disease, but ULD remains a significant differential for PMEs."
+    },
+    {
+      "disease_name": "Neuronal ceroid lipofuscinosis 6",
+      "disease_id": "OMIM:601780",
+      "score": 0.25,
+      "explanation": "Some forms of Neuronal Ceroid Lipofuscinosis (NCL), particularly CLN6-related, can present with progressive myoclonus epilepsy, cognitive decline (dementia), ataxia (gait disturbance), and various seizure types, including myoclonic seizures. This disease fits several key aspects of the patient's progressive neurodegenerative profile, making it a relevant differential diagnosis."
+    }
+  ]
+}

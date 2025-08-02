@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "All listed phenotypic features (Nystagmus, Very low visual acuity, Eye poking, Hypermetropia) are hallmark symptoms of Leber congenital amaurosis, particularly the oculo-digital reflex (eye poking) combined with severe early-onset vision loss. The reference cases directly indicate Leber congenital amaurosis 6 as the diagnosis for an almost identical set of symptoms."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 2",
+      "disease_id": "OMIM:204100",
+      "score": 0.5,
+      "explanation": "Leber congenital amaurosis (LCA) is a group of genetically heterogeneous retinal dystrophies that share a very similar clinical presentation in infancy, including those observed in the patient. LCA2 is one of the most common subtypes of LCA, presenting with severe visual impairment, nystagmus, and frequently hypermetropia and eye poking, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.3333333333333333,
+      "explanation": "Similar to other forms of LCA, Leber congenital amaurosis 1 presents with early-onset severe visual impairment, nystagmus, and often hypermetropia and the oculo-digital reflex. The patient's symptoms are highly consistent with the broad phenotypic spectrum of LCA, making LCA1 another strong candidate within this disease group."
+    }
+  ]
+}

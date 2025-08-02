@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:612463",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches all three phenotypic features presented by the patient: subcutaneous ossification, intellectual disability, and elevated circulating parathyroid hormone level. These features are characteristic of Albright's hereditary osteodystrophy (which includes subcutaneous ossification and often intellectual disability) and end-organ resistance to parathyroid hormone (leading to elevated PTH). The similar reference cases also directly point to this diagnosis, making it the most likely causative disease."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Pseudopseudohypoparathyroidism (PPHP) shares the full Albright's hereditary osteodystrophy (AHO) phenotype with Pseudohypoparathyroidism Ia, including subcutaneous ossification and intellectual disability. However, unlike PHP1A, patients with PPHP do not exhibit PTH resistance and thus typically have normal calcium and PTH levels, which is inconsistent with the patient's elevated PTH. It is considered due to the strong phenotypic overlap in AHO features and its genetic relationship to PHP1A (both caused by GNAS gene mutations)."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Ib",
+      "disease_id": "OMIM:612462",
+      "score": 0.33,
+      "explanation": "Pseudohypoparathyroidism Ib (PHP1B) is characterized by end-organ PTH resistance, leading to elevated PTH, similar to PHP1A. However, PHP1B typically lacks the classic features of Albright's hereditary osteodystrophy, such as subcutaneous ossification and intellectual disability. It is included as a differential due to the shared primary feature of elevated PTH but is less likely given the patient's clear presence of AHO features."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches the patient's phenotypic features of clitoral hypertrophy (due to excess adrenal androgens) and hyperpigmentation of the skin (due to elevated ACTH levels). This diagnosis is strongly supported by all similar reference cases, which directly link these symptoms to 21-hydroxylase deficiency, the most common form of congenital adrenal hyperplasia."
+    },
+    {
+      "disease_name": "Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.5,
+      "explanation": "This is another type of congenital adrenal hyperplasia that can present with both clitoral hypertrophy (due to androgen excess) and hyperpigmentation (due to increased ACTH). While it is typically associated with hypertension (a symptom not provided) and is less common than 21-hydroxylase deficiency, its shared core phenotypic features make it a relevant differential diagnosis."
+    }
+  ]
+}

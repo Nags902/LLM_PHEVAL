@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 1.0,
+      "explanation": "All nine of the patient's phenotypic features (Hypertelorism, Ptosis, Brachydactyly, Camptodactyly, Joint hypermobility, Syndactyly, Short stature, Intellectual disability, and Shawl scrotum) are highly characteristic and core features of Aarskog-Scott syndrome. Furthermore, all three provided similar reference cases presenting with this exact constellation of features were diagnosed with Aarskog-Scott syndrome, providing strong confirmatory evidence. The presence of 'shawl scrotum', although typically described in males, is a pathognomonic feature of this syndrome, and its inclusion for this female patient strongly points to this diagnosis, potentially representing a severe manifestation or an atypical description of relevant external genital anomalies in a female with the condition."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome is a common differential diagnosis for individuals presenting with short stature, intellectual disability, and characteristic facial features such as hypertelorism and ptosis. Joint hypermobility can also be observed. While there is significant overlap in these general features, Noonan syndrome typically does not feature the specific combination of brachydactyly, camptodactyly, and syndactyly as prominent limb anomalies, nor does it include 'shawl scrotum' (or equivalent genital anomalies) as a characteristic finding. It is considered less likely than Aarskog-Scott syndrome due to the absence of these more specific features."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.33,
+      "explanation": "Cardiofaciocutaneous (CFC) syndrome is another RASopathy that shares some overlapping features with the patient's presentation, including intellectual disability, short stature, hypertelorism, and ptosis. However, the specific digital anomalies (brachydactyly, camptodactyly, syndactyly) and the presence of 'shawl scrotum' are not typical features of CFC syndrome. The primary features of CFC often include ectodermal anomalies (e.g., sparse, curly hair; hyperkeratosis) and cardiac defects, which are not mentioned in the patient's profile. Therefore, it is a considerably less likely diagnosis."
+    }
+  ]
+}

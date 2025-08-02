@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity 1",
+      "disease_id": "OMIM:618843",
+      "score": 1.0,
+      "explanation": "This disorder is the exact diagnosis given to the highly similar reference cases, which present with a significant overlap of the patient's phenotypic features. Key overlapping features include dilated third ventricle, cerebral hemorrhage (intracranial hemorrhage), hydrocephalus, gliosis, thin corpus callosum, lateral ventricle dilatation, and abnormal CNS myelination. The basal ganglia calcification in the patient aligns with the cerebral calcifications noted in the reference cases for this disorder. Porencephalic cysts are also consistent as a sequela of hemorrhage."
+    },
+    {
+      "disease_name": "Aicardi-Goutieres Syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.5,
+      "explanation": "Aicardi-Goutieres Syndrome (AGS) is a strong differential diagnosis due to the prominent basal ganglia calcification, abnormal CNS myelination, gliosis, and hydrocephalus, which are hallmark features of AGS. While cerebral hemorrhage is not typically a primary defining feature of AGS, the overall pattern of severe neurological involvement mimicking a congenital viral infection and leading to brain damage is highly consistent with the patient's presentation."
+    },
+    {
+      "disease_name": "Porencephaly 1",
+      "disease_id": "OMIM:120022",
+      "score": 0.333,
+      "explanation": "Porencephaly 1, caused by mutations in COL4A1, is a strong candidate because of the patient's cerebral hemorrhage and porencephalic cyst, which are direct features of this condition. COL4A1-related disorders are known for recurrent intracranial hemorrhages, porencephaly, and leukoencephalopathy (abnormal CNS myelination). Hydrocephalus and gliosis can be secondary manifestations due to the brain injury caused by the hemorrhages."
+    }
+  ]
+}
