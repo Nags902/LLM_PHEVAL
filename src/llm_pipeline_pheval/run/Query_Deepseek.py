@@ -136,22 +136,30 @@ def Extract_Data_query_deepseek(
         #         {"role": "user", "content": prompt}
         #     ]
         # )
+        # #raw = response.choices[0].message.content
 
-        ## anthropic API Key
-        API_KEY = ""
-        # Initialize the Anthropic client
-        client = anthropic.Anthropic(api_key=API_KEY)
 
-        # Generate Claude response
-        response = client.messages.create(
-            model="claude-opus-4-20250514",  # or claude-3-opus-20240229, etc.
-            max_tokens=1024,
-            temperature=1,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        #raw = response.choices[0].message.content
-        raw = response.content[0].text
+        # ## anthropic API Key
+        # API_KEY = ""
+        # # Initialize the Anthropic client
+        # client = anthropic.Anthropic(api_key=API_KEY)
+
+        # # Generate Claude response
+        # response = client.messages.create(
+        #     model="claude-opus-4-20250514",  # or claude-3-opus-20240229, etc.
+        #     max_tokens=1024,
+        #     temperature=1,
+        #     messages=[{"role": "user", "content": prompt}]
+        # )
         
+        # raw = response.content[0].text
+        
+        client = genai.Client()
+        response = client.models.generate_content(
+            model="gemini-2.5-pro", contents= prompt
+        )
+
+        raw = response.text
         
         if not raw:
             raise ValueError("LLM returned empty response")
