@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases 2 and 3 showing identical triad of hyperuricemia, proteinuria, and chronic kidney disease. UMOD mutations cause this condition which typically presents in childhood with these exact features."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613092",
+      "score": 0.5,
+      "explanation": "Reference case 1 shows hyperuricemia and chronic kidney disease, matching the patient's presentation. However, this form (HNF1B-related) often has additional features not present in this patient."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy, type 2",
+      "disease_id": "OMIM:613092",
+      "score": 0.33,
+      "explanation": "REN mutations cause early-onset hyperuricemia with progressive kidney disease and proteinuria, matching the patient's phenotype. Age of presentation fits well."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 5",
+      "disease_id": "OMIM:617056",
+      "score": 0.25,
+      "explanation": "SEC61A1 mutations can cause childhood-onset chronic kidney disease with proteinuria and hyperuricemia, though typically presents with additional features like anemia."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:174000",
+      "score": 0.2,
+      "explanation": "MUC1 mutations cause similar presentation but typically manifest later in life. The young age makes this less likely, though early presentation is possible."
+    },
+    {
+      "disease_name": "Alport syndrome, autosomal recessive",
+      "disease_id": "OMIM:203780",
+      "score": 0.17,
+      "explanation": "Can present with proteinuria and progressive kidney disease in childhood. Hyperuricemia can be secondary to kidney dysfunction, though not a primary feature."
+    }
+  ]
+}

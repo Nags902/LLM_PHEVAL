@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Strong match with eversion of lateral third of lower eyelids (pathognomonic), long palpebral fissures, prominent fingertip pads, hypotonia, developmental delay, hearing impairment, and cardiac anomalies. Wide nasal bridge and macrotia also fit."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "X-linked form of Kabuki syndrome with similar features including eversion of lower eyelids, long palpebral fissures, prominent fingertip pads, hypotonia, and developmental delay. Less common than type 1."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.33,
+      "explanation": "Features overlap including hearing impairment, cardiac defects (aortic stenosis), developmental delay, hypotonia, and ear anomalies (macrotia). However, lacks coloboma and choanal atresia."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Shares cardiac involvement (aortic stenosis), developmental delay, hearing impairment, and some facial features. Wide nasal bridge and macrotia can occur, but lacks typical Noonan facial gestalt."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Aortic stenosis is characteristic, along with developmental delay, hypotonia, and wide nasal bridge. However, lacks typical elfin facies and personality traits."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.17,
+      "explanation": "Overlapping features include developmental delay, hypotonia, cardiac defects, and some facial dysmorphisms. However, lacks typical skin findings and hair abnormalities."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.14,
+      "explanation": "Shares developmental delay, hypotonia, recurrent infections, and some facial features. However, lacks broad thumbs/toes which are hallmark features."
+    },
+    {
+      "disease_name": "Costello syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.13,
+      "explanation": "Features include developmental delay, hypotonia, cardiac involvement, and some facial dysmorphisms. However, lacks typical coarse features and skin findings."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Strong match with multiple cardiac defects (PDA, coarctation), characteristic facial features (hypertelorism, telecanthus, depressed nasal bridge), short neck, cryptorchidism, developmental delays, and skeletal anomalies. The phenotype closely aligns with classic Noonan syndrome presentation."
+    },
+    {
+      "disease_name": "Cardiac, facial, and digital anomalies with developmental delay",
+      "disease_id": "OMIM:618164",
+      "score": 0.5,
+      "explanation": "Reference cases 1 and 2 with this diagnosis share many features including PDA, short neck, telecanthus, blepharophimosis, cryptorchidism, and global developmental delay. The constellation of cardiac, facial, and developmental features matches well."
+    },
+    {
+      "disease_name": "Noonan Syndrome 2",
+      "disease_id": "OMIM:605275",
+      "score": 0.33,
+      "explanation": "Alternative form of Noonan syndrome caused by PTPN11 mutations. Presents with similar features but may have subtle phenotypic differences. The core features of cardiac defects, facial dysmorphism, and developmental delays are present."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:300082",
+      "score": 0.25,
+      "explanation": "Shares several features including short neck, cardiac defects (coarctation, PDA), hypothyroidism, and delayed skeletal maturation. However, the patient is male which makes this less likely unless mosaic or variant form."
+    },
+    {
+      "disease_name": "Noonan Syndrome 3",
+      "disease_id": "OMIM:609942",
+      "score": 0.2,
+      "explanation": "Another genetic subtype of Noonan syndrome with similar clinical presentation. The cardiac defects, facial features, and developmental delays fit, though specific genotype-phenotype correlations may vary."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.17,
+      "explanation": "Presents with conotruncal cardiac defects, characteristic facial features including hypertelorism and microretrognathia, developmental delays, and hypothyroidism. The combination of features shows moderate overlap."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.14,
+      "explanation": "Reference case 3 shows some overlapping features including global developmental delay, delayed skeletal maturation, cryptorchidism, hypertelorism, and microretrognathia. However, the cardiac presentation differs."
+    }
+  ]
+}

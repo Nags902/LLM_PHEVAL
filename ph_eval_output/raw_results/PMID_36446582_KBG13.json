@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:615502",
+      "score": 1.0,
+      "explanation": "Both reference cases with this diagnosis share multiple overlapping features with the patient including intellectual disability, global developmental delay, ADHD, feeding difficulties, triangular face, thick eyebrow, long philtrum, and microcephaly. The facial dysmorphism pattern is particularly consistent."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Classic features include intellectual disability, growth retardation, microcephaly, thick eyebrows, long philtrum, feeding difficulties, and recurrent infections. The triangular face and short stature are also consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, short stature, microcephaly, feeding difficulties, recurrent infections, and distinctive facial features. However, lacks the typical broad thumbs and toes mentioned in the phenotype."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, short stature, feeding difficulties, recurrent otitis media, and distinctive facial features including long palpebral fissures and thick eyebrows. The triangular face is less typical but can occur."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Characterized by intellectual disability, ADHD, short stature, and distinctive facial features. The macrodontia is particularly suggestive, though the typical broad face is not mentioned in this patient."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.17,
+      "explanation": "Features short stature, intellectual disability, triangular face, and distinctive facial features. The intrauterine growth retardation and feeding difficulties are also consistent, though speech delay is typically more prominent."
+    }
+  ]
+}

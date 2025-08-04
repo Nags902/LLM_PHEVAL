@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM:620391",
+      "score": 1.0,
+      "explanation": "Patient's phenotype closely matches all three reference cases diagnosed with DEE 112, sharing key features of bilateral tonic-clonic seizures, epileptic encephalopathy, profound developmental delay, and hypotonia. The CNS hypomyelination aligns with the delayed CNS myelination seen in reference cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "ARX-related DEE presents with early-onset seizures, profound developmental delay, and hypotonia. The combination of epileptic encephalopathy with CNS abnormalities is characteristic of this X-linked disorder."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.33,
+      "explanation": "KCNQ2-related DEE presents with neonatal-onset seizures, epileptic encephalopathy, and severe developmental impairment. Hypotonia is common, though specific white matter abnormalities are less typical."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19-related epilepsy can present with bilateral tonic-clonic seizures and developmental delays. More common in females, it features epileptic encephalopathy, though hypomyelination is not a primary feature."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.2,
+      "explanation": "X-linked disorder primarily characterized by CNS hypomyelination and hypotonia. While seizures can occur, epileptic encephalopathy is not the primary presentation, making it less likely than DEE syndromes."
+    }
+  ]
+}

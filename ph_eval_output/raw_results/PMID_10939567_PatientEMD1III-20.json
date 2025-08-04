@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
+      "score": 1.0,
+      "explanation": "Patient shows classic triad of early contractures (Achilles, elbow), progressive muscle weakness with scapuloperoneal distribution, and cardiac involvement (ventricular arrhythmia, LV dysfunction). The presentation closely matches all three reference cases with EDMD2."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "Shows similar clinical features to EDMD2 but X-linked form typically has earlier onset. However, late presentation and milder phenotype in carrier females or due to skewed X-inactivation could explain the presentation in this patient."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "disease_id": "OMIM:616516",
+      "score": 0.33,
+      "explanation": "LMNA-related autosomal recessive form presents similarly to dominant forms but typically with earlier and more severe manifestations. The late age of presentation makes this less likely than dominant forms."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 0.25,
+      "explanation": "LMNA-related LGMD1B can present with similar features including contractures, cardiac involvement, and elevated CK. However, the prominent early contractures and scapuloperoneal pattern are more characteristic of EDMD."
+    },
+    {
+      "disease_name": "Bethlem myopathy 1",
+      "disease_id": "OMIM:158810",
+      "score": 0.2,
+      "explanation": "Collagen VI-related disorder that can present with contractures and muscle weakness. However, cardiac involvement is rare, and the contracture pattern typically includes finger flexion contractures which are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Myofibrillar myopathy 1",
+      "disease_id": "OMIM:601419",
+      "score": 0.17,
+      "explanation": "Desmin-related myopathy can present with distal and proximal weakness, cardiac involvement, and contractures. However, the specific pattern of early elbow and Achilles contractures with scapuloperoneal distribution is less typical."
+    }
+  ]
+}

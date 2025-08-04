@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:208920",
+      "score": 1.0,
+      "explanation": "Perfect match with all core features: ataxia, hyporeflexia, supranuclear gaze palsy (oculomotor apraxia), dysarthria, athetosis, and hypoalbuminemia. The reference cases strongly suggest this diagnosis."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 2",
+      "disease_id": "OMIM:606002",
+      "score": 0.5,
+      "explanation": "Shares most clinical features including ataxia, oculomotor apraxia, and peripheral neuropathy, but hypoalbuminemia is less common in AOA2 compared to AOA1. Elevated alpha-fetoprotein is more characteristic of AOA2."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Presents with ataxia, oculomotor apraxia, and dysarthria, but typically includes telangiectasias and immunodeficiency. Hypoalbuminemia can occur but is not a cardinal feature. Usually presents earlier in childhood."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.25,
+      "explanation": "Features ataxia, dysarthria, and can have supranuclear gaze palsy, but hyporeflexia and hypoalbuminemia are not typical. Athetosis is uncommon. Usually has slower progression."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 4",
+      "disease_id": "OMIM:616267",
+      "score": 0.2,
+      "explanation": "Shares ataxia and oculomotor apraxia features, but hypoalbuminemia is not a characteristic finding. Other features like dystonia are more common than athetosis."
+    }
+  ]
+}

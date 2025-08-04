@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (autism/autistic behavior, bilateral tonic-clonic seizures, and intellectual disability) were diagnosed with DEE9. The patient's presentation matches the core features of this condition."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Classic presentation includes intellectual disability, autism, and seizures. One of the most common genetic causes of autism and intellectual disability, particularly in males."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.33,
+      "explanation": "TSC commonly presents with the triad of epilepsy, intellectual disability, and autism spectrum disorder. Seizures are often bilateral tonic-clonic type."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.25,
+      "explanation": "Similar to TSC1, caused by mutations in TSC2 gene. Presents with same triad of epilepsy, intellectual disability, and autism."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Characterized by severe intellectual disability, seizures, and autistic-like behaviors. Seizures typically begin in early childhood."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.17,
+      "explanation": "Presents with intellectual disability, autistic features, and seizures. However, more common in females and typically shows regression pattern."
+    },
+    {
+      "disease_name": "PCDH19-related epilepsy",
+      "disease_id": "OMIM:300460",
+      "score": 0.14,
+      "explanation": "Developmental and epileptic encephalopathy with intellectual disability and autistic features. Seizures are prominent feature."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.125,
+      "explanation": "Severe epileptic encephalopathy with tonic-clonic seizures, intellectual disability, and autistic behaviors. Usually begins in infancy."
+    }
+  ]
+}

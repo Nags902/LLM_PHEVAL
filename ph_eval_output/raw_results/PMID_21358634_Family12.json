@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "Direct match with the primary phenotype and all three reference cases with identical presentation were diagnosed with this condition. This is the most likely diagnosis given the strong precedent."
+    },
+    {
+      "disease_name": "Ferguson-Smith disease",
+      "disease_id": "OMIM:132800",
+      "score": 0.5,
+      "explanation": "Alternative name for multiple self-healing squamous epithelioma. This autosomal dominant condition is characterized by the development of multiple keratoacanthoma-like lesions that spontaneously regress."
+    },
+    {
+      "disease_name": "Muir-Torre syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.33,
+      "explanation": "Can present with keratoacanthomas which may resemble self-healing squamous epitheliomas, though typically associated with sebaceous neoplasms and internal malignancies."
+    },
+    {
+      "disease_name": "Generalized eruptive keratoacanthoma of Grzybowski",
+      "disease_id": "OMIM:None",
+      "score": 0.25,
+      "explanation": "Rare variant presenting with multiple small keratoacanthomas that can be self-healing, though typically more numerous and smaller than classic Ferguson-Smith type."
+    },
+    {
+      "disease_name": "Bazex-Dupr\u00e9-Christol syndrome",
+      "disease_id": "OMIM:301845",
+      "score": 0.2,
+      "explanation": "X-linked dominant condition that can present with multiple basal cell carcinomas and occasionally keratoacanthoma-like lesions, though self-healing squamous epitheliomas are not the primary feature."
+    }
+  ]
+}

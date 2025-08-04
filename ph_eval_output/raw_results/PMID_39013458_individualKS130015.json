@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Classic presentation with hypotonia, intellectual disability, developmental delay, overweight (hyperphagia), constipation, and self-mutilation behaviors. Age 4 years is consistent with emerging behavioral phenotype."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615574",
+      "score": 0.5,
+      "explanation": "Similar reference cases show overlapping features including intellectual disability, developmental delay, hypotonia, constipation, and overweight. Self-mutilation can occur in autism spectrum disorders."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.33,
+      "explanation": "Features obesity, intellectual disability, and developmental delay. However, lacks reported retinal dystrophy or polydactyly which are cardinal features."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, hypotonia, and obesity. Missing typical facial features and microcephaly, but early presentation may be incomplete."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Can present with obesity and developmental delays, but typically has early-onset vision and hearing loss which are not reported here."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.17,
+      "explanation": "Self-mutilation is a hallmark feature, along with intellectual disability and developmental delay. Obesity can occur but is less common than in Prader-Willi."
+    }
+  ]
+}

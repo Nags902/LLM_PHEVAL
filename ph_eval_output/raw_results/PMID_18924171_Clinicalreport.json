@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 1.0,
+      "explanation": "Neonatal presentation with seizures, hypotonia, respiratory failure, bradycardia, and abnormal corpus callosum/brainstem morphology strongly suggests this metabolic disorder. The combination of neurological and cardiac features in a neonate is classic for PDH deficiency."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.5,
+      "explanation": "Early-onset presentation with hypotonia, respiratory failure, hypertrophic cardiomyopathy, and brainstem abnormalities fits mitochondrial disease. Complex I deficiency commonly presents in neonatal period with multi-system involvement."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 1A",
+      "disease_id": "OMIM:607596",
+      "score": 0.33,
+      "explanation": "The combination of brainstem abnormalities, hypotonia, areflexia, respiratory failure, and muscle weakness suggests PCH1A. However, the cardiac involvement and white matter changes are less typical."
+    },
+    {
+      "disease_name": "Pompe disease (Glycogen storage disease type II)",
+      "disease_id": "OMIM:232300",
+      "score": 0.25,
+      "explanation": "Infantile-onset Pompe disease presents with hypotonia, muscle weakness, hypertrophic cardiomyopathy, and respiratory failure. However, the central nervous system involvement (seizures, brain abnormalities) is atypical."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.2,
+      "explanation": "Early-onset seizures with hypotonia and brain abnormalities suggest DEE9. However, the cardiac involvement, respiratory failure, and vocal cord paralysis are not typical features."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.17,
+      "explanation": "Mitochondrial disorder presenting with brainstem lesions, hypotonia, respiratory failure, and seizures. The hypertrophic cardiomyopathy and early neonatal onset support this diagnosis, though white matter involvement is less common."
+    }
+  ]
+}

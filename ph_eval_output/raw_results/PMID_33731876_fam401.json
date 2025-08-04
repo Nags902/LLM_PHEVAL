@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "Perfect match with reference case 1, sharing continuous spike and waves during slow sleep, epileptic encephalopathy, and focal tonic seizure. This SCN2A-related disorder commonly presents with these exact features."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "Strong match with reference cases 2 and 3, sharing infantile spasms, global developmental delay, and hypsarrhythmia. This STXBP1-related disorder is a classic cause of West syndrome evolving to other epileptic encephalopathies."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental delay present. Can evolve to show continuous spike-wave during sleep pattern, explaining the full phenotypic spectrum."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.25,
+      "explanation": "ARX-related disorder presenting with infantile spasms, hypsarrhythmia, and severe developmental delay. Can progress to show various seizure types including focal tonic seizures."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.2,
+      "explanation": "KCNQ2-related encephalopathy can present with early infantile seizures including spasms and focal seizures, with EEG patterns evolving from hypsarrhythmia to other abnormalities."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 13",
+      "disease_id": "OMIM:614558",
+      "score": 0.17,
+      "explanation": "SCN8A-related disorder can present with infantile spasms, developmental delay, and various seizure types. EEG abnormalities including hypsarrhythmia are common."
+    }
+  ]
+}

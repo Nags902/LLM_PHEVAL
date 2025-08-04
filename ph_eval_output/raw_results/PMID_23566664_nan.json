@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hajdu-Cheney syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 1.0,
+      "explanation": "Best match with osteolytic defects of phalanges, osteoporosis, vertebral compression fractures, micrognathia, short stature, and facial dysmorphism. This rare skeletal dysplasia is characterized by progressive focal bone destruction."
+    },
+    {
+      "disease_name": "Pyknodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.5,
+      "explanation": "Features osteosclerosis with increased bone fragility leading to fractures, short stature, micrognathia, and facial dysmorphism. However, typically shows increased bone density rather than osteoporosis."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta type I",
+      "disease_id": "OMIM:166200",
+      "score": 0.33,
+      "explanation": "Explains osteoporosis, vertebral compression fractures, and short stature. However, doesn't typically present with osteolytic phalangeal defects or the specific facial features described."
+    },
+    {
+      "disease_name": "Cleidocranial dysplasia",
+      "disease_id": "OMIM:119600",
+      "score": 0.25,
+      "explanation": "Can present with short stature, facial dysmorphism, and skeletal abnormalities. However, the pattern of bone involvement differs, typically affecting clavicles and skull rather than phalanges."
+    },
+    {
+      "disease_name": "Mandibuloacral dysplasia type A",
+      "disease_id": "OMIM:248370",
+      "score": 0.2,
+      "explanation": "Features micrognathia, short stature, and osteolysis particularly affecting distal phalanges. However, typically includes lipodystrophy and progeria-like features not mentioned in this case."
+    }
+  ]
+}

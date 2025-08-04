@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 8",
+      "disease_id": "OMIM:618362",
+      "score": 1.0,
+      "explanation": "Patient shares multiple key features with reference cases 2 and 3: seizures, thick eyebrows, wide nose, thick nasal alae, broad philtrum, thin upper lip vermilion, low-set ears, posteriorly rotated ears, clinodactyly, orofacial cleft, intellectual disability, developmental delay, and hypoplasia of corpus callosum."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Classic CSS presents with similar facial dysmorphisms and intellectual disability. The patient's features including thick eyebrows, wide nose, thin upper lip, and corpus callosum abnormalities are consistent, though this subtype may have different genetic basis than CSS8."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.33,
+      "explanation": "Characterized by intellectual disability, seizures, distinctive facial features (thick eyebrows, broad nasal bridge, prominent columella), ear abnormalities, and corpus callosum hypoplasia. However, typically includes Hirschsprung disease which is not mentioned."
+    },
+    {
+      "disease_name": "Chromosome 1p36 deletion syndrome",
+      "disease_id": "OMIM:607872",
+      "score": 0.25,
+      "explanation": "Features seizures, intellectual disability, distinctive facial features including straight eyebrows, deep-set eyes, broad nasal bridge, and ear abnormalities. Corpus callosum abnormalities and orofacial clefts can occur."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:618443",
+      "score": 0.2,
+      "explanation": "Reference case 1 shows overlap with seizures, thick eyebrows, intellectual disability, and corpus callosum abnormalities, though the facial phenotype differs somewhat from the patient."
+    }
+  ]
+}

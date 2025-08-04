@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, autosomal recessive 124",
+      "disease_id": "OMIM:619096",
+      "score": 1.0,
+      "explanation": "Direct match with reference cases 1 and 2 presenting identical phenotype (isolated sensorineural hearing impairment). This form of non-syndromic deafness aligns perfectly with the patient's presentation."
+    },
+    {
+      "disease_name": "Deafness, autosomal recessive 1A",
+      "disease_id": "OMIM:220290",
+      "score": 0.5,
+      "explanation": "Most common form of autosomal recessive non-syndromic hearing loss. Presents with isolated sensorineural hearing impairment, typically congenital or early-onset."
+    },
+    {
+      "disease_name": "Deafness, autosomal recessive 15",
+      "disease_id": "OMIM:601869",
+      "score": 0.33,
+      "explanation": "Mentioned in reference case 3, though that case had additional features. Can present with isolated hearing loss in some patients, making it a consideration."
+    },
+    {
+      "disease_name": "Deafness, autosomal dominant 3A",
+      "disease_id": "OMIM:601544",
+      "score": 0.25,
+      "explanation": "Common form of non-syndromic dominant hearing loss. While recessive forms are suggested by references, dominant forms should be considered given isolated presentation."
+    },
+    {
+      "disease_name": "Pendred syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.2,
+      "explanation": "Can present with isolated sensorineural hearing loss initially, though typically develops thyroid abnormalities later. Age 24 without other features makes this less likely."
+    },
+    {
+      "disease_name": "Usher syndrome type 1B",
+      "disease_id": "OMIM:276900",
+      "score": 0.17,
+      "explanation": "Most common type of Usher syndrome. While typically presents with both hearing and vision loss, hearing loss often precedes visual symptoms."
+    },
+    {
+      "disease_name": "Waardenburg syndrome type 2A",
+      "disease_id": "OMIM:193510",
+      "score": 0.14,
+      "explanation": "Can present with isolated sensorineural hearing loss without pigmentary abnormalities in some cases. Less likely given no mention of other features."
+    }
+  ]
+}

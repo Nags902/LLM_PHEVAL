@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Prominent fingertip pads are a hallmark feature of Coffin-Siris syndrome. The combination with intellectual disability, developmental delays, autism, and facial dysmorphisms (hypoplastic nasal bridge, thick eyebrows) strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 2",
+      "disease_id": "OMIM:614607",
+      "score": 0.5,
+      "explanation": "Another subtype of Coffin-Siris syndrome caused by ARID1A mutations, presenting with similar features including prominent fingertip pads, intellectual disability, and facial anomalies."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
+      "score": 0.33,
+      "explanation": "SMARCB1-related Coffin-Siris syndrome variant with overlapping features including developmental delays, intellectual disability, and characteristic facial features."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser syndrome",
+      "disease_id": "OMIM:601358",
+      "score": 0.25,
+      "explanation": "Shares several features including intellectual disability, thick eyebrows, and developmental delays. While prominent fingertip pads are more specific to Coffin-Siris, some overlap exists."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 0.2,
+      "explanation": "The reference cases all had this diagnosis with similar features including autism, intellectual disability, and various facial dysmorphisms, though prominent fingertip pads were not specifically mentioned."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Can present with broad thumbs/toes (similar to prominent fingertip pads), intellectual disability, autism, and facial dysmorphisms including hypoplastic nasal bridge."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.14,
+      "explanation": "EP300-related variant of Rubinstein-Taybi syndrome with similar features to type 1, including developmental delays and characteristic facial features."
+    }
+  ]
+}

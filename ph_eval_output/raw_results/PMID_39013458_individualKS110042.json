@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, intellectual disability, global developmental delay, and hypotonia. The constellation of overgrowth, neurodevelopmental delay, and hypotonia is highly characteristic of Sotos syndrome."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615286",
+      "score": 0.5,
+      "explanation": "Similar to reference cases showing intellectual disability, developmental delay, hypotonia, and constipation. While macrocephaly isn't explicitly mentioned in this patient, tall stature could be related to overgrowth phenotype."
+    },
+    {
+      "disease_name": "Malan syndrome",
+      "disease_id": "OMIM:614753",
+      "score": 0.33,
+      "explanation": "Presents with tall stature, intellectual disability, and developmental delay. Shares overgrowth features with Sotos syndrome but is caused by NFIX mutations."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.25,
+      "explanation": "Another overgrowth syndrome with tall stature, intellectual disability, and developmental delay. Hypermetropia can be seen in Weaver syndrome along with other ocular abnormalities."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.2,
+      "explanation": "X-linked overgrowth syndrome that can present with tall stature, intellectual disability, and hypotonia. Recurrent infections could be explained by the immunodeficiency sometimes seen in this condition."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.17,
+      "explanation": "Overgrowth syndrome that can present with tall stature and hypotonia. While intellectual disability is less common, developmental delays can occur. The early age of presentation (2 years) fits with this diagnosis."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.14,
+      "explanation": "Common cause of intellectual disability with hypotonia and developmental delay. While not typically associated with tall stature, some patients can have accelerated growth. Recurrent infections due to otitis media are common."
+    }
+  ]
+}

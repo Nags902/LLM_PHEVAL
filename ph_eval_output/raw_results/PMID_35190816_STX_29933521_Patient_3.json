@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Direct match with Case 1 which presented with epileptic spasm and was diagnosed with this condition. Most specific match to patient's phenotype."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "Cases 2 and 3 show this diagnosis with infantile spasms, which are a specific type of epileptic spasm. Strong relevance but less direct match than DEE4."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Classic syndrome characterized by epileptic spasms (infantile spasms). Common cause of epileptic spasms in infancy."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.25,
+      "explanation": "X-linked form of DEE that can present with epileptic spasms. Gender (1) suggests male, making X-linked inheritance possible."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "Another X-linked DEE that can present with epileptic spasms. Less common than DEE1 but still relevant for male patients."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "Can present with epileptic spasms and seizures. Part of the DEE spectrum but less commonly associated with isolated spasms."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.14,
+      "explanation": "X-linked DEE associated with PCDH19 mutations. Can present with epileptic spasms though typically has additional features."
+    }
+  ]
+}

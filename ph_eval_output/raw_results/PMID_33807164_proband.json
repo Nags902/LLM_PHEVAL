@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:219200",
+      "score": 1.0,
+      "explanation": "Patient shares multiple key features with reference cases 1 and 2 including cutis laxa, thin skin, bruising susceptibility, bladder diverticulum, inguinal hernia, joint hypermobility, hypotonia, failure to thrive, and congenital diaphragmatic hernia. The facial features (long face, narrow face, telecanthus) also match well."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type IIA",
+      "disease_id": "OMIM:219200",
+      "score": 0.5,
+      "explanation": "Shares cutis laxa, joint hypermobility, and hernias with the patient. However, typically presents with more severe neurological involvement and developmental delay which are not reported in this patient."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type IIB",
+      "disease_id": "OMIM:612940",
+      "score": 0.33,
+      "explanation": "Features cutis laxa and connective tissue abnormalities, but typically includes developmental delay and more severe skeletal abnormalities not present in this patient."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type IIIA",
+      "disease_id": "OMIM:616603",
+      "score": 0.25,
+      "explanation": "Includes cutis laxa and some connective tissue features, but usually presents with more severe neurological manifestations and intellectual disability."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, kyphoscoliotic type 1",
+      "disease_id": "OMIM:225400",
+      "score": 0.2,
+      "explanation": "Features joint hypermobility, hypotonia, thin translucent skin, and bruising susceptibility. However, typically includes progressive scoliosis and ocular fragility which are not reported."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.17,
+      "explanation": "Shares skin hyperextensibility, joint hypermobility, and bruising susceptibility, but classic EDS typically has more prominent skin hyperextensibility rather than cutis laxa."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.14,
+      "explanation": "Some overlapping features include long face, joint hypermobility, and hernias. However, lacks typical cardiovascular and ocular manifestations of Marfan syndrome."
+    }
+  ]
+}

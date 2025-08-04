@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Exact match with Case 1 reference showing all three features (short stature, short metacarpal, intellectual disability). PHP1A is characterized by Albright hereditary osteodystrophy features including these symptoms."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "Strong match with Case 2 reference, sharing all three core features. PPHP presents with Albright hereditary osteodystrophy phenotype without hormone resistance."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1C",
+      "disease_id": "OMIM:612462",
+      "score": 0.33,
+      "explanation": "PHP1C presents with similar features to PHP1A including short stature, brachydactyly, and intellectual disability, but with different molecular etiology."
+    },
+    {
+      "disease_name": "Acrodysostosis 1",
+      "disease_id": "OMIM:101800",
+      "score": 0.25,
+      "explanation": "Presents with short stature, brachydactyly (short metacarpals), and intellectual disability. Often confused with pseudohypoparathyroidism due to overlapping features."
+    },
+    {
+      "disease_name": "Acrodysostosis 2",
+      "disease_id": "OMIM:614613",
+      "score": 0.2,
+      "explanation": "Similar to Acrodysostosis 1 with short stature, short metacarpals, and variable intellectual disability, caused by PDE4D mutations."
+    },
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.17,
+      "explanation": "The phenotypic spectrum that includes short stature, brachydactyly, and intellectual disability, encompassing both PHP and PPHP."
+    },
+    {
+      "disease_name": "Brachydactyly-mental retardation syndrome",
+      "disease_id": "OMIM:600430",
+      "score": 0.14,
+      "explanation": "Characterized by brachydactyly (including short metacarpals), intellectual disability, and short stature as key features."
+    },
+    {
+      "disease_name": "2q37 deletion syndrome",
+      "disease_id": "OMIM:600430",
+      "score": 0.125,
+      "explanation": "Presents with brachydactyly type E (short metacarpals), intellectual disability, and short stature, phenotypically similar to AHO."
+    }
+  ]
+}

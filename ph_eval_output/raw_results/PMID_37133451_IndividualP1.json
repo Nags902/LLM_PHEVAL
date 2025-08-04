@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Combined oxidative phosphorylation deficiency 59",
+      "disease_id": "OMIM:620193",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases 1 and 2, sharing critical features including decreased mitochondrial complex I/IV activity, decreased pyruvate dehydrogenase complex activity, apnea, retinal degeneration, congestive heart failure, CNS demyelination, cerebral edema, and developmental regression in an infant."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.5,
+      "explanation": "Matches decreased complex I activity, developmental delay, failure to thrive, and cardiac involvement, but doesn't fully explain the combined complex deficiencies and pyruvate dehydrogenase involvement seen in this patient."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.33,
+      "explanation": "Explains decreased pyruvate dehydrogenase activity, developmental delay, and CNS involvement including cerebral edema, but doesn't account for the multiple respiratory chain complex deficiencies."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.25,
+      "explanation": "Classic mitochondrial disorder with developmental regression, failure to thrive, and respiratory/cardiac involvement, but typically shows more prominent basal ganglia changes and doesn't specifically explain the combination of deficiencies."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A (Alpers type)",
+      "disease_id": "OMIM:203700",
+      "score": 0.2,
+      "explanation": "Can present with developmental regression, failure to thrive, and multiple organ involvement, but typically has more prominent hepatic involvement and seizures which are not reported in this patient."
+    },
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 1",
+      "disease_id": "OMIM:220110",
+      "score": 0.17,
+      "explanation": "Matches decreased complex IV activity and some clinical features, but doesn't explain the broader spectrum of enzyme deficiencies including complex I and pyruvate dehydrogenase."
+    }
+  ]
+}

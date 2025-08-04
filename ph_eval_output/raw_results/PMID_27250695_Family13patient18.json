@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:611091",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotype constellation (intellectual disability, short stature, microcephaly) were diagnosed with this condition. Patient shares 3/5 features seen in reference cases."
+    },
+    {
+      "disease_name": "Microcephalic osteodysplastic primordial dwarfism, type II",
+      "disease_id": "OMIM:210720",
+      "score": 0.5,
+      "explanation": "Classic triad of severe microcephaly, profound short stature, and intellectual disability. MOPDII is characterized by extreme growth restriction and microcephaly."
+    },
+    {
+      "disease_name": "Seckel syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 0.33,
+      "explanation": "Features microcephaly, severe proportionate short stature, and intellectual disability as cardinal features. Missing typical bird-like facial features but core triad is present."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, growth retardation, and microcephaly. Missing characteristic facial features and limb abnormalities but core features overlap."
+    },
+    {
+      "disease_name": "Meier-Gorlin syndrome 1",
+      "disease_id": "OMIM:224690",
+      "score": 0.2,
+      "explanation": "Features microcephaly and short stature as primary characteristics. Intellectual disability is variable. Missing typical ear abnormalities and absent patellae."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.17,
+      "explanation": "Can present with intellectual disability and acquired microcephaly. Patient is male (gender 1) making classic Rett less likely, but severe variants possible. Missing regression phase."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.14,
+      "explanation": "Features intellectual disability and can have microcephaly. Short stature less common. Missing characteristic happy demeanor, ataxia, and seizures seen in reference cases."
+    }
+  ]
+}

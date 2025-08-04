@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Patient presents with 4/5 major features of BBS (retinal dystrophy with myopia/nyctalopia/reduced visual acuity, obesity, intellectual disability). All three reference cases with identical phenotypes were diagnosed with BBS1. Missing polydactyly but this is not present in all BBS patients."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.5,
+      "explanation": "BBS2 presents with similar clinical features as BBS1 including retinal dystrophy, obesity, and intellectual disability. Different genetic cause but phenotypically very similar to BBS1."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.33,
+      "explanation": "Shares obesity, visual impairment (cone-rod dystrophy), and nyctalopia with the patient. However, typically presents with sensorineural hearing loss and cardiomyopathy which are not mentioned. Intellectual disability is less common in Alstr\u00f6m."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, obesity (truncal), and progressive myopia/night blindness. However, typically includes characteristic facial features, microcephaly, and neutropenia which are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Laurence-Moon syndrome",
+      "disease_id": "OMIM:245800",
+      "score": 0.2,
+      "explanation": "Historical condition sharing features with BBS including retinal dystrophy, intellectual disability, and obesity. Now often considered part of the BBS spectrum but may represent a distinct entity with additional neurological features."
+    }
+  ]
+}

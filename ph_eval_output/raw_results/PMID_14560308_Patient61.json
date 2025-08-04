@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 1.0,
+      "explanation": "Patient presents with all core features of Aarskog-Scott syndrome including hypertelorism, ptosis, brachydactyly, camptodactyly, joint hypermobility, syndactyly, short stature, intellectual disability, and shawl scrotum. All three reference cases with identical phenotypes were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Robinow syndrome",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "Shares several features including hypertelorism, brachydactyly, short stature, and genital abnormalities. However, lacks the characteristic facial features like frontal bossing and anteverted nares seen in most Robinow cases."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.33,
+      "explanation": "Presents with ptosis, short stature, and intellectual disability which are common in Noonan syndrome. However, the specific combination of skeletal abnormalities and shawl scrotum is more typical of Aarskog-Scott syndrome."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.25,
+      "explanation": "Shows intellectual disability, short stature, and hypertelorism. However, lacks the characteristic coarse facial features and severe skeletal deformities typical of Coffin-Lowry syndrome."
+    },
+    {
+      "disease_name": "FG syndrome 1",
+      "disease_id": "OMIM:305450",
+      "score": 0.2,
+      "explanation": "X-linked condition with intellectual disability, joint hypermobility, and some facial features. However, the specific combination of brachydactyly, syndactyly, and shawl scrotum is more characteristic of Aarskog-Scott syndrome."
+    }
+  ]
+}

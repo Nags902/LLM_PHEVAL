@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 5",
+      "disease_id": "OMIM:617432",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases 1 and 2, showing identical key features: renal insufficiency, hepatic amyloidosis, and renal amyloidosis. The anemia in this patient is consistent with chronic kidney disease secondary to renal amyloidosis."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 3",
+      "disease_id": "OMIM:107680",
+      "score": 0.5,
+      "explanation": "Shows overlap with hepatic and renal amyloidosis as seen in reference case 3. However, lacks cardiac involvement seen in that case, and the specific renal insufficiency pattern better matches type 5."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 1",
+      "disease_id": "OMIM:105200",
+      "score": 0.33,
+      "explanation": "Classic hereditary amyloidosis that can present with renal and hepatic involvement. Anemia is consistent with chronic kidney disease, but specific phenotype pattern less closely matches reference cases."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 2",
+      "disease_id": "OMIM:105200",
+      "score": 0.25,
+      "explanation": "Another form of hereditary systemic amyloidosis that can involve kidneys and liver. However, typically presents with more prominent neurological features not seen in this patient."
+    },
+    {
+      "disease_name": "AL amyloidosis",
+      "disease_id": "OMIM:254500",
+      "score": 0.2,
+      "explanation": "Light chain amyloidosis can cause renal and hepatic involvement with associated anemia. However, the hereditary forms are more likely given the reference case patterns and systematic organ involvement."
+    }
+  ]
+}

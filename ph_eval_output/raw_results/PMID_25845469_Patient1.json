@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy",
+      "disease_id": "OMIM:615356",
+      "score": 1.0,
+      "explanation": "Nearly perfect phenotypic match with Case 1, sharing 14/16 features including irritability, feeding difficulties, profound intellectual disability, nonprogressive encephalopathy, EEG abnormality, dystonia, spasticity, hypoplasia of pons, absent speech, VSD, and axial hypotonia."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2D",
+      "disease_id": "OMIM:613811",
+      "score": 0.5,
+      "explanation": "Classic presentation with pontine hypoplasia, profound intellectual disability, dystonia, spasticity, and absent speech. PCH2D commonly presents with these neurological features and structural brain abnormalities."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:619012",
+      "score": 0.33,
+      "explanation": "Shares several key features with Cases 2 and 3 including absent speech, hypoplasia of pons, and hypotonia. However, lacks some typical features like constipation and cerebellar involvement."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "Another PCH variant that presents with pontine hypoplasia, profound intellectual disability, and movement disorders. The dystonia and spasticity fit this diagnosis."
+    },
+    {
+      "disease_name": "PURA-related neurodevelopmental disorder",
+      "disease_id": "OMIM:616158",
+      "score": 0.2,
+      "explanation": "Features profound intellectual disability, absent speech, hypotonia, feeding difficulties, and EEG abnormalities. The pontine hypoplasia is less common but has been reported."
+    }
+  ]
+}

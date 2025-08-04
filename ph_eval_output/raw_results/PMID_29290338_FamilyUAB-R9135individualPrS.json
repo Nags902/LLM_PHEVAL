@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibromas are pathognomonic for NF1 and occur in 25-30% of patients. All reference cases with plexiform neurofibroma were diagnosed with NF1. This is the most likely diagnosis despite having only one documented feature."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 3",
+      "disease_id": "OMIM:162260",
+      "score": 0.5,
+      "explanation": "Also known as schwannomatosis, can rarely present with plexiform neurofibromas, though typically presents with schwannomas. Less common than NF1 but should be considered."
+    },
+    {
+      "disease_name": "Segmental neurofibromatosis",
+      "disease_id": "OMIM:162210",
+      "score": 0.33,
+      "explanation": "A localized form of NF1 that can present with plexiform neurofibromas limited to one body segment. Possible if the neurofibroma is localized, though full NF1 is more common."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "Formerly LEOPARD syndrome, can rarely present with neurofibromas as part of its phenotypic spectrum, though cardiac and other features are more typical."
+    },
+    {
+      "disease_name": "Watson syndrome",
+      "disease_id": "OMIM:193520",
+      "score": 0.2,
+      "explanation": "An allelic variant of NF1 that can present with cafe-au-lait spots and neurofibromas, typically with pulmonary stenosis. Less likely without documented cardiac findings."
+    }
+  ]
+}

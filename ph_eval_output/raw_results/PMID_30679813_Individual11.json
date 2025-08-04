@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616900",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases 1 and 3, sharing hypotonia, global developmental delay, and deeply set eyes. Age and presentation are consistent."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Classic features include short stature, brachycephaly, deeply set eyes, developmental delay, and hypotonia. The facial dysmorphism pattern fits well."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.33,
+      "explanation": "X-linked form with similar features to CdLS1 but typically milder. Compatible with the phenotype presented."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Features short stature, developmental delay, and characteristic facial features including deeply set eyes. Brachycephaly can be present."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Presents with developmental delay, short stature, hypotonia, and brachycephaly. Deeply set eyes are part of the facial phenotype."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features severe developmental delay, hypotonia, and brachycephaly. Deeply set eyes are less typical but can occur."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.14,
+      "explanation": "Characterized by developmental delay, hypotonia, and distinctive facial features that can include deeply set eyes."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.125,
+      "explanation": "Features developmental delay, hypotonia, short stature, and coarse facial features. Deeply set eyes can be part of the phenotype."
+    }
+  ]
+}

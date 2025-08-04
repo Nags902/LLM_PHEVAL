@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "Patient presents with all five key features seen in reference cases: anemia, short stature, increased MCV, elevated red cell ADA activity, and persistence of HbF. These are classic hallmarks of DBA1, caused by RPS19 mutations."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 3",
+      "disease_id": "OMIM:610629",
+      "score": 0.5,
+      "explanation": "DBA3 (RPS24 mutations) can present with identical hematological findings including macrocytic anemia, elevated ADA, and HbF persistence. Short stature is also common. Clinical presentation overlaps significantly with DBA1."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 4",
+      "disease_id": "OMIM:612527",
+      "score": 0.33,
+      "explanation": "DBA4 (RPS17 mutations) shares the core hematological phenotype with macrocytic anemia, elevated ADA, and persistent HbF. Short stature occurs in approximately 40% of DBA patients regardless of subtype."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 5",
+      "disease_id": "OMIM:612528",
+      "score": 0.25,
+      "explanation": "DBA5 (RPL35A mutations) presents with the characteristic DBA triad of macrocytic anemia, elevated red cell ADA, and increased HbF. Growth retardation is a common associated feature."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 2",
+      "disease_id": "OMIM:606129",
+      "score": 0.2,
+      "explanation": "DBA2 (8p23.3-p22 deletion) can present with the classic DBA hematological features. However, it often has more severe associated malformations which are not present in this patient."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.17,
+      "explanation": "FA can present with macrocytic anemia and short stature. However, elevated ADA and persistent HbF are not typical features, and the age of presentation (55 years) without bone marrow failure makes this less likely."
+    },
+    {
+      "disease_name": "Congenital dyserythropoietic anemia, type I",
+      "disease_id": "OMIM:224120",
+      "score": 0.14,
+      "explanation": "CDA I can cause macrocytic anemia and mild short stature. However, elevated red cell ADA activity and persistent HbF are not characteristic features of this condition."
+    }
+  ]
+}

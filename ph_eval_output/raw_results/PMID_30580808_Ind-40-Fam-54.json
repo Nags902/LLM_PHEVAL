@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with thick eyebrows, long eyelashes, wide nose, anteverted nares, thick lower lip, wide mouth, brachydactyly, intellectual disability, and developmental delay. CSS is characterized by distinctive facial features and limb abnormalities."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Matches well with thick eyebrows, long eyelashes, downslanted palpebral fissures, anteverted nares, thin upper lip, downturned mouth corners, brachydactyly, and intellectual disability. Classic syndrome with similar facial gestalt."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Consistent with long eyelashes, wide nose, anteverted nares, thin upper lip, intellectual disability, joint hypermobility, and autistic behavior. Kabuki syndrome features distinctive facial appearance with these characteristics."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.25,
+      "explanation": "Matches thick eyebrows, long eyelashes, wide nose, short philtrum, thin upper lip, thick lower lip, intellectual disability, and developmental delay. WSS presents with hypertrichosis and distinctive facial features."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Fits with wide mouth, thick lips, anteverted nares, intellectual disability, and joint hypermobility. WBS has characteristic facial features including wide mouth and full lips."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Consistent with downslanted palpebral fissures, anteverted nares, wide mouth, brachydactyly, intellectual disability, and autistic behavior. RTS features broad thumbs and distinctive facial appearance."
+    }
+  ]
+}

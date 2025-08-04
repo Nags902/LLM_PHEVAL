@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases 1 and 2, showing identical phenotype including infantile spasms, hypsarrhythmia, global developmental delay, inability to walk, and absent speech. The focal motor seizures and EEG findings are consistent with case 2."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental regression/delay present. However, this is more a clinical syndrome that can be caused by various etiologies including DEE4."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "ARX-related disorder presenting with infantile spasms, hypsarrhythmia, and severe developmental impairment. Gender (assuming male from code 2) increases likelihood of X-linked condition."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "CDKL5-related disorder can present with infantile spasms, hypsarrhythmia, and severe developmental delay, though typically includes additional features not mentioned in this case."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.2,
+      "explanation": "KCNQ2-related disorder can present with infantile spasms and developmental delay, though hypsarrhythmia is less common and onset is typically neonatal."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.17,
+      "explanation": "PCDH19-related epilepsy can cause infantile spasms and developmental delay, but typically affects females and has different EEG patterns."
+    }
+  ]
+}

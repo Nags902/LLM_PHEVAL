@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiGeorge syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "Classic triad of hypoparathyroidism, thymic aplasia/hypoplasia, and T-cell lymphocytopenia matches perfectly with patient presentation. All three reference cases with similar features were diagnosed with DiGeorge syndrome."
+    },
+    {
+      "disease_name": "Chromosome 22q11.2 deletion syndrome",
+      "disease_id": "OMIM:192430",
+      "score": 0.5,
+      "explanation": "Overlaps significantly with DiGeorge syndrome as most cases are caused by 22q11.2 deletion. Presents with the same core features of thymic hypoplasia, hypoparathyroidism, and immunodeficiency."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.33,
+      "explanation": "Can present with thymic hypoplasia and immunodeficiency, though hypoparathyroidism is less common. Missing other typical features like coloboma, heart defects, and choanal atresia."
+    },
+    {
+      "disease_name": "Chromosome 10p13-p14 deletion syndrome",
+      "disease_id": "OMIM:601362",
+      "score": 0.25,
+      "explanation": "Rare cause of DiGeorge-like phenotype with hypoparathyroidism and thymic hypoplasia, but typically includes additional features not present in this patient."
+    },
+    {
+      "disease_name": "Zellweger syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "Can rarely present with thymic hypoplasia and immunodeficiency, but typically has severe neurological manifestations and hepatomegaly which are not reported here."
+    }
+  ]
+}

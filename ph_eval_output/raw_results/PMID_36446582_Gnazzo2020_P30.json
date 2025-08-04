@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases 2 and 3. Patient presents with all core features: intellectual disability, global developmental delay, macrodontia, thick eyebrow, abnormality of the hand, short stature, delayed speech and language development, and hypertelorism."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Shares many features including intellectual disability, developmental delay, thick eyebrows, short stature, and hand abnormalities. However, lacks some typical features like synophrys and long eyelashes."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.33,
+      "explanation": "X-linked form that could present similarly but typically has milder phenotype. Shares intellectual disability, developmental delay, and facial features."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, developmental delay, and distinctive facial features. However, typical features like elongated palpebral fissures are not mentioned."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.2,
+      "explanation": "X-linked form of Kabuki syndrome with similar features but less likely given the absence of typical facial characteristics."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, short stature, and distinctive facial features. However, lacks mention of broad thumbs/hallux which are hallmark features."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.14,
+      "explanation": "Shares intellectual disability, developmental delay, and coarse facial features including thick eyebrows. However, lacks typical features like hypoplastic fifth fingernails."
+    }
+  ]
+}

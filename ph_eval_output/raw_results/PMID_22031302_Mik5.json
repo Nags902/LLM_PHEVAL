@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:301108",
+      "score": 1.0,
+      "explanation": "Direct match with Case 1 which presented with identical core features of intellectual disability and delayed speech/language development. The patient's phenotype aligns perfectly with this X-linked disorder."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:301109",
+      "score": 0.5,
+      "explanation": "Strong match with Case 2 which includes the patient's features of intellectual disability and delayed speech/language development as core presentations, though Case 2 had additional features not present in this patient."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:619603",
+      "score": 0.33,
+      "explanation": "Partial match with Case 3 sharing delayed speech/language development and intellectual disability, but this patient lacks the hypotonia, microcephaly, and short stature seen in the reference case."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked, syndromic, Claes-Jensen type",
+      "disease_id": "OMIM:300534",
+      "score": 0.25,
+      "explanation": "This X-linked disorder commonly presents with intellectual disability and speech delays, fitting the patient's phenotype, though no direct reference case is provided."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 99",
+      "disease_id": "OMIM:300919",
+      "score": 0.2,
+      "explanation": "Another X-linked intellectual disability syndrome that frequently presents with speech and language delays, consistent with the patient's features."
+    }
+  ]
+}

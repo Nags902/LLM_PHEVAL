@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing continuous spike-wave during sleep, severe intellectual disability, multiple seizure types including generalized tonic and myoclonic seizures, hypotonia, and multifocal epileptiform discharges. The presence of hypsarrhythmia and choreoathetosis fits the phenotypic spectrum."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "Reference case shows continuous spike-wave during sleep and focal tonic seizures matching the patient. However, fewer overlapping features compared to DEE4, though the limited phenotypic data in the reference case may underrepresent the full spectrum."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1 (ARX-related)",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "ARX mutations cause infantile spasms with hypsarrhythmia, severe intellectual disability, and choreoathetosis. The combination of movement disorder with epileptic encephalopathy is characteristic, though continuous spike-wave during sleep is less typical."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7 (KCNQ2-related)",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "Can present with multiple seizure types, severe intellectual disability, and hypotonia. Hypsarrhythmia has been reported in some cases, though continuous spike-wave during sleep and choreoathetosis are less common features."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2 (CDKL5-related)",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "Features early-onset seizures including tonic and myoclonic types, severe intellectual disability, hypotonia, and movement disorders. Hypsarrhythmia can occur, but continuous spike-wave during sleep is atypical."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microphthalmia/coloboma 11",
+      "disease_id": "OMIM:620731",
+      "score": 1.0,
+      "explanation": "Perfect phenotypic match with all reference cases. Patient presents with all six cardinal features (nystagmus, strabismus, microphthalmia, iris coloboma, optic disc coloboma, chorioretinal coloboma) seen in the reference cases diagnosed as Microphthalmia/coloboma 11."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "Classic syndrome featuring colobomas (iris, retinal, optic disc) and microphthalmia as major criteria. However, lacks other typical CHARGE features like choanal atresia, heart defects, or ear anomalies."
+    },
+    {
+      "disease_name": "Microphthalmia, syndromic 3",
+      "disease_id": "OMIM:206900",
+      "score": 0.33,
+      "explanation": "Features microphthalmia and colobomas, but typically includes additional systemic features like intellectual disability and cardiac defects not mentioned in this patient."
+    },
+    {
+      "disease_name": "Microphthalmia with coloboma 1",
+      "disease_id": "OMIM:300345",
+      "score": 0.25,
+      "explanation": "X-linked disorder with microphthalmia and colobomas. Could fit if patient is male, though typically has more severe systemic involvement."
+    },
+    {
+      "disease_name": "Microphthalmia with coloboma 6",
+      "disease_id": "OMIM:613703",
+      "score": 0.2,
+      "explanation": "Features microphthalmia and colobomas but often includes additional ocular anomalies like cataracts or corneal opacity not reported here."
+    },
+    {
+      "disease_name": "Renal coloboma syndrome",
+      "disease_id": "OMIM:120330",
+      "score": 0.17,
+      "explanation": "Features optic nerve colobomas and can include iris colobomas, but typically has renal anomalies as a defining feature which are not mentioned."
+    }
+  ]
+}

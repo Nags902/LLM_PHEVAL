@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Patient presents with key features of BBS including postaxial polydactyly, nyctalopia, reduced visual acuity, and obesity. All three reference cases with similar phenotypes were diagnosed with BBS1. The visual disturbances (nyctalopia, reduced visual acuity, astigmatism) are consistent with the retinal dystrophy seen in BBS."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.5,
+      "explanation": "BBS2 presents with similar clinical features to BBS1 including polydactyly, retinal dystrophy, and obesity. The phenotypic overlap between different BBS subtypes makes this a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 10",
+      "disease_id": "OMIM:615987",
+      "score": 0.33,
+      "explanation": "Another BBS subtype that can present with the same constellation of symptoms. BBS10 is one of the more common forms of BBS and should be considered in the differential."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.25,
+      "explanation": "Shares several features with the patient including obesity, visual impairment (cone-rod dystrophy causing nyctalopia and reduced visual acuity), and can have ptosis. However, lacks polydactyly which is a distinguishing feature."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.2,
+      "explanation": "Can present with obesity, visual problems including nyctalopia and reduced visual acuity due to chorioretinal dystrophy, and ptosis. However, polydactyly is not a typical feature."
+    },
+    {
+      "disease_name": "McKusick-Kaufman syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.17,
+      "explanation": "Presents with postaxial polydactyly and can have some overlapping features with BBS. However, typically lacks the progressive retinal dystrophy and obesity seen in this patient."
+    }
+  ]
+}

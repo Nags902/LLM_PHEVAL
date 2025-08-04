@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases 1 and 2, sharing all major phenotypes including hypsarrhythmia, infantile spasms, severe intellectual disability, autism, EEG abnormalities, hypotonia, and CNS hypomyelination."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "Strong match with reference case 3, sharing hypsarrhythmia, infantile spasms, severe intellectual disability, autism, EEG abnormalities, and hypotonia. CNS myelination delay in reference aligns with patient's hypomyelination."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental delay/intellectual disability are present. Often associated with autism and hypotonia."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "KCNQ2-related disorder can present with infantile spasms, hypsarrhythmia, severe intellectual disability, and hypotonia. EEG abnormalities are common."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 13",
+      "disease_id": "OMIM:614558",
+      "score": 0.2,
+      "explanation": "SCN8A-related disorder can present with infantile spasms, intellectual disability, hypotonia, and autism spectrum disorder. Hypsarrhythmia is less common but possible."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.167,
+      "explanation": "Can present with infantile spasms, hypsarrhythmia, intellectual disability, autism, and white matter abnormalities that could manifest as hypomyelination."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.143,
+      "explanation": "Similar to TSC1, can present with infantile spasms, hypsarrhythmia, intellectual disability, autism, and white matter changes."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.125,
+      "explanation": "ARX-related disorder can present with infantile spasms, hypsarrhythmia, severe intellectual disability, and hypotonia. Autism features are possible."
+    }
+  ]
+}

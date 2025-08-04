@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar presentations were diagnosed with this condition. The patient shows the classic triad of decreased testosterone, increased ACTH, and increased prolactin, which are hallmarks of 21-hydroxylase deficiency causing cortisol deficiency and ACTH elevation."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
+      "score": 0.5,
+      "explanation": "Another form of CAH that can present with similar hormonal abnormalities including increased ACTH due to cortisol deficiency, though less common than 21-hydroxylase deficiency."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.33,
+      "explanation": "This form of CAH can cause decreased sex hormones (including testosterone) and increased ACTH, though the presentation may differ slightly from 21-hydroxylase deficiency."
+    },
+    {
+      "disease_name": "Addison disease",
+      "disease_id": "OMIM:240300",
+      "score": 0.25,
+      "explanation": "Primary adrenal insufficiency can cause increased ACTH and may affect sex hormone production, though the increased prolactin is less typical and the pattern differs from CAH."
+    },
+    {
+      "disease_name": "Pituitary adenoma, prolactin-secreting",
+      "disease_id": "OMIM:600634",
+      "score": 0.2,
+      "explanation": "Prolactinoma could explain increased prolactin and decreased testosterone through hypogonadotropic hypogonadism, but wouldn't typically cause increased ACTH unless there's a mixed adenoma."
+    },
+    {
+      "disease_name": "Multiple endocrine neoplasia type 1",
+      "disease_id": "OMIM:131100",
+      "score": 0.17,
+      "explanation": "MEN1 can involve multiple pituitary adenomas potentially affecting ACTH and prolactin secretion, and could indirectly affect testosterone, though this presentation would be unusual."
+    }
+  ]
+}

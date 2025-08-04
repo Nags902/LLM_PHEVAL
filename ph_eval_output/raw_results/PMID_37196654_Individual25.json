@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Strong match with square face, synophrys, anteverted nares, developmental delays, strabismus, hypermetropia, and feeding difficulties. KBG syndrome classically presents with characteristic facial features including synophrys and anteverted nares."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.5,
+      "explanation": "Features synophrys, developmental delays, feeding difficulties, and hypermetropia. The facial dysmorphism pattern including full cheeks and deeply set eyes is consistent with this syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Presents with synophrys, anteverted nares, developmental delays, feeding difficulties, and anxiety. However, lacks some classic features like limb abnormalities."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.25,
+      "explanation": "X-linked form with similar features to CdLS1 but typically milder presentation, which could explain the absence of severe limb abnormalities."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Features developmental delays, feeding difficulties, and some facial dysmorphism. The coarse facial features with full cheeks and depressed nasal bridge are suggestive."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.17,
+      "explanation": "Characterized by delayed speech development, feeding difficulties, and distinctive facial features. The square face and developmental pattern fit, though lacks typical short stature."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.14,
+      "explanation": "Features drooling, developmental delays, strabismus, and feeding difficulties. However, lacks the characteristic happy demeanor and seizures typically seen."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.125,
+      "explanation": "Can present with developmental delays, feeding difficulties, anxiety, and facial dysmorphism including anteverted nares. However, lacks cardiac and palatal abnormalities commonly seen."
+    }
+  ]
+}

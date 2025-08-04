@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MHC class I deficiency",
+      "disease_id": "OMIM:604571",
+      "score": 1.0,
+      "explanation": "Patient presents with identical phenotypic features (chronic sinusitis, chronic bronchitis, chronic rhinitis, nasal polyposis) to reference cases 1 and 2, both diagnosed with MHC class I deficiency. This immunodeficiency causes recurrent respiratory tract infections."
+    },
+    {
+      "disease_name": "Primary ciliary dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 0.5,
+      "explanation": "The combination of chronic sinusitis, bronchitis, rhinitis, and nasal polyposis is classic for ciliary dysfunction, causing impaired mucociliary clearance and chronic respiratory infections."
+    },
+    {
+      "disease_name": "Cystic fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.33,
+      "explanation": "Can present with chronic sinusitis, nasal polyposis, and chronic bronchitis due to thick mucus secretions, though typically has additional gastrointestinal manifestations not noted here."
+    },
+    {
+      "disease_name": "Common variable immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.25,
+      "explanation": "CVID can cause recurrent sinopulmonary infections leading to chronic sinusitis and bronchitis, though typically presents with additional infections beyond the respiratory tract."
+    },
+    {
+      "disease_name": "Selective IgA deficiency",
+      "disease_id": "OMIM:137100",
+      "score": 0.2,
+      "explanation": "IgA deficiency predisposes to recurrent respiratory tract infections, potentially leading to chronic sinusitis and bronchitis, though nasal polyposis is less typical."
+    }
+  ]
+}

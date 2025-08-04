@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "Patient presents with cardinal features of LDS including patent ductus arteriosus, aortic root aneurysm, and genu valgum. All three reference cases with similar presentations were diagnosed with LDS subtypes. LDS1 is caused by TGFBR1 mutations."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.5,
+      "explanation": "Equally likely as LDS1, sharing the same core features. LDS2 is caused by TGFBR2 mutations. Two of the three reference cases were diagnosed with LDS2. Clinical presentation alone cannot distinguish between LDS subtypes."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.33,
+      "explanation": "Another LDS subtype that presents with similar vascular and skeletal features. Caused by SMAD3 mutations. Less common than LDS1/2 but should be considered in the differential."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.25,
+      "explanation": "LDS4 caused by TGFB2 mutations can present with similar features. All LDS subtypes share overlapping phenotypes including aortic aneurysm and skeletal abnormalities."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.2,
+      "explanation": "LDS5 caused by TGFB3 mutations is another possible diagnosis. The limited phenotypic data matches core LDS features, though additional features may help differentiate subtypes."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.17,
+      "explanation": "Shares aortic root aneurysm and skeletal features with the patient. However, the presence of PDA and the similarity to LDS reference cases makes Marfan less likely than LDS."
+    },
+    {
+      "disease_name": "Arterial tortuosity syndrome",
+      "disease_id": "OMIM:208050",
+      "score": 0.14,
+      "explanation": "Can present with PDA and arterial abnormalities. However, aortic root aneurysm is less typical, and the overall phenotype better fits LDS based on reference cases."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.125,
+      "explanation": "Vascular EDS can cause arterial complications but typically doesn't present with PDA or aortic root aneurysm as primary features. Genu valgum is also not characteristic."
+    }
+  ]
+}

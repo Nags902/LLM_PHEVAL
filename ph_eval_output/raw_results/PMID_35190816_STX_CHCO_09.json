@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "All three reference cases with this diagnosis share the core features seen in this patient: infantile spasms, focal tonic seizures, EEG with generalized slow activity, generalized hypotonia, global developmental delay, and hypsarrhythmia. The patient's phenotype closely matches the reference cases."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia on EEG, and developmental delay/regression is present. However, the presence of focal seizures and specific EEG findings suggest a more specific epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "ARX-related disorder presenting with infantile spasms, developmental delay, and hypotonia. The EEG findings and seizure types are consistent, though less specific match than DEE4."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "KCNQ2-related encephalopathy can present with infantile spasms, focal seizures, and developmental delay. The EEG pattern with temporal spikes is compatible."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "CDKL5-related disorder typically presents with infantile spasms, hypotonia, and severe developmental delay. However, the specific seizure semiology is less typical."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.17,
+      "explanation": "PCDH19-related epilepsy can present with focal seizures and developmental delay, but typically has later onset and different seizure patterns than observed here."
+    }
+  ]
+}

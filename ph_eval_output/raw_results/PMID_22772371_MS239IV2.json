@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Patient presents with classic Marfan features including aortic root aneurysm, mitral valve prolapse, arachnodactyly, tall stature, high palate, pectus deformity, dural ectasia, and emphysema. The constellation of cardiovascular, skeletal, and pulmonary features strongly suggests Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Patient shares many features with LDS including aortic root aneurysm, arterial tortuosity, high palate, arachnodactyly, and skeletal abnormalities. However, lacks the characteristic facial features (hypertelorism, retrognathia) seen in reference cases."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.33,
+      "explanation": "Similar presentation to LDS type 1 with vascular and skeletal features. The arterial tortuosity and aortic root aneurysm are consistent, but missing typical craniofacial features reduces likelihood."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.25,
+      "explanation": "Shares connective tissue features with patient including aortic aneurysm and skeletal abnormalities, but typically presents with early-onset osteoarthritis which is not mentioned in this case."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.2,
+      "explanation": "Reference cases show LDS4 with similar features, but patient lacks the characteristic facial dysmorphism (hypertelorism, retrognathia, malar flattening) seen in both reference cases."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.17,
+      "explanation": "The arterial involvement could suggest vascular EDS, but the presence of tall stature, arachnodactyly, and lack of typical skin fragility or easy bruising makes this less likely."
+    },
+    {
+      "disease_name": "MASS phenotype",
+      "disease_id": "OMIM:604308",
+      "score": 0.14,
+      "explanation": "Shares several features with Marfan syndrome including mitral valve prolapse, arachnodactyly, and striae, but the presence of aortic root aneurysm exceeds the typical MASS phenotype presentation."
+    }
+  ]
+}

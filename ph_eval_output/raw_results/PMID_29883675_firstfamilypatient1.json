@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephaly, short stature, and polymicrogyria with seizures",
+      "disease_id": "OMIM:614833",
+      "score": 1.0,
+      "explanation": "Perfect match with all three reference cases showing identical core features: microcephaly, polymicrogyria, thin corpus callosum, absent speech, intellectual disability, and short stature. This appears to be the same syndrome."
+    },
+    {
+      "disease_name": "RTTN-related primary microcephaly",
+      "disease_id": "OMIM:614851",
+      "score": 0.5,
+      "explanation": "RTTN mutations cause microcephaly with polymicrogyria, intellectual disability, and short stature. The thin corpus callosum and absent speech are also consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Microcephaly with simplified gyration, epilepsy, and permanent neonatal diabetes syndrome",
+      "disease_id": "OMIM:616402",
+      "score": 0.33,
+      "explanation": "Features microcephaly, polymicrogyria, and intellectual disability. However, lacks mention of diabetes which is typically a key feature, making it less likely."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Can present with microcephaly, intellectual disability, short stature, and corpus callosum abnormalities. However, typically includes distinctive facial features and retinopathy not mentioned here."
+    },
+    {
+      "disease_name": "Autosomal recessive primary microcephaly 1",
+      "disease_id": "OMIM:251200",
+      "score": 0.2,
+      "explanation": "ASPM-related microcephaly can cause severe microcephaly and intellectual disability, but polymicrogyria is less common and the combination with short stature is atypical."
+    }
+  ]
+}

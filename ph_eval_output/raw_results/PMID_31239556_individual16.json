@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Strong match with microcephaly, intellectual disability, developmental delays, constipation, hypertonia, and breathing abnormalities. The constellation of neurological and gastrointestinal features is highly characteristic."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, developmental delays, speech impairment, sleep disturbances, and feeding difficulties. However, hypertonia is less typical (usually hypotonia), and constipation is not a primary feature."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.33,
+      "explanation": "Features microcephaly, intellectual disability, hypertonia, and developmental regression. However, patient's gender (assuming male from '1') makes classic Rett less likely, though atypical forms exist."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, microcephaly, constipation (Hirschsprung disease), and distinctive facial features. The chronic constipation is particularly suggestive, though facial features aren't fully described."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Can present with microcephaly, intellectual disability, feeding difficulties, and hypertonia. Recurrent infections may be due to immune dysfunction. Long eyelashes can be a minor feature."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, feeding difficulties, developmental delays, and long eyelashes (hypertrichosis). However, typical facial features and limb abnormalities are not described."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.14,
+      "explanation": "Presents with intellectual disability, feeding difficulties, recurrent infections, and long eyelashes. However, typical facial features and skeletal abnormalities are not mentioned."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.125,
+      "explanation": "Features severe intellectual disability, microcephaly, feeding difficulties, constipation, and sleep disturbances. The severe neurological phenotype with gastrointestinal involvement is consistent."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT syndrome 3",
+      "disease_id": "OMIM:609622",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical phenotypes of shortened QT interval and paroxysmal atrial fibrillation. SQTS3 is caused by KCNJ2 mutations."
+    },
+    {
+      "disease_name": "Short QT syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 0.5,
+      "explanation": "SQTS1 (KCNH2 mutations) presents with shortened QT interval and can have atrial fibrillation, though the specific combination is less commonly reported than in SQTS3."
+    },
+    {
+      "disease_name": "Short QT syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.33,
+      "explanation": "SQTS2 (KCNQ1 mutations) can present with shortened QT interval and arrhythmias, though paroxysmal atrial fibrillation is less typical than in SQTS3."
+    },
+    {
+      "disease_name": "Short QT syndrome 4",
+      "disease_id": "OMIM:114205",
+      "score": 0.25,
+      "explanation": "SQTS4 involves CACNA1C mutations and shortened QT interval, but atrial fibrillation is less commonly associated compared to other SQTS subtypes."
+    },
+    {
+      "disease_name": "Short QT syndrome 5",
+      "disease_id": "OMIM:613693",
+      "score": 0.2,
+      "explanation": "SQTS5 (CACNB2 mutations) presents with shortened QT interval but atrial fibrillation is rarely reported in this subtype."
+    },
+    {
+      "disease_name": "Familial atrial fibrillation 7",
+      "disease_id": "OMIM:612240",
+      "score": 0.17,
+      "explanation": "KCNA5 mutations can cause early-onset atrial fibrillation, though shortened QT interval is not a typical feature, making this less likely."
+    }
+  ]
+}

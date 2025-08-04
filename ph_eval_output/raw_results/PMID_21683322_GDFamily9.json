@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
+      "score": 1.0,
+      "explanation": "Patient presents with nearly identical features to all three reference cases of Geleophysic dysplasia 2, including characteristic facial features (long/smooth philtrum, thin upper lip, hypertelorism, full cheeks, short nose), acromelic dysplasia (short palms/feet), severe short stature, cardiac valve stenosis (mitral and tricuspid), respiratory insufficiency, and joint limitation."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 1",
+      "disease_id": "OMIM:231050",
+      "score": 0.5,
+      "explanation": "Similar clinical presentation to type 2, but caused by ADAMTSL2 mutations rather than FBN1. Features progressive cardiac valvular disease, characteristic facial features, short stature, and joint stiffness. The clinical overlap between types 1 and 2 is significant."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 3",
+      "disease_id": "OMIM:617809",
+      "score": 0.33,
+      "explanation": "Caused by LTBP3 mutations, presents with similar features including 'happy' facial appearance, short stature, cardiac involvement, and joint contractures. Less commonly reported than types 1 and 2 but should be considered in differential."
+    },
+    {
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.25,
+      "explanation": "Shares many features with geleophysic dysplasia including short stature, characteristic facial features, short hands/feet, and joint stiffness. However, cardiac involvement is typically less severe and respiratory issues are less prominent."
+    },
+    {
+      "disease_name": "Weill-Marchesani syndrome 1",
+      "disease_id": "OMIM:277600",
+      "score": 0.2,
+      "explanation": "Presents with short stature, brachydactyly, joint stiffness, and cardiac abnormalities. However, typically includes eye abnormalities (microspherophakia, ectopia lentis) which are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Myhre syndrome",
+      "disease_id": "OMIM:139210",
+      "score": 0.17,
+      "explanation": "Features short stature, characteristic facial features, joint contractures, and cardiac involvement. However, typically includes intellectual disability and more pronounced skin thickening, which are not described in this patient."
+    }
+  ]
+}

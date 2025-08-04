@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Craniofrontonasal dysplasia",
+      "disease_id": "OMIM:304110",
+      "score": 1.0,
+      "explanation": "Patient presents with hypertelorism and orofacial cleft, which are key features of CFND. All three reference cases with similar presentations were diagnosed with this condition. CFND is an X-linked disorder that paradoxically affects females more severely than males, which could explain the presentation in this male patient."
+    },
+    {
+      "disease_name": "Frontonasal dysplasia 1",
+      "disease_id": "OMIM:136760",
+      "score": 0.5,
+      "explanation": "Characterized by hypertelorism and midline facial clefts, matching two of the three patient features. Sleep abnormalities are not typical but the core features align well with this diagnosis."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome, type I",
+      "disease_id": "OMIM:300000",
+      "score": 0.33,
+      "explanation": "X-linked disorder presenting with hypertelorism and cleft lip/palate. Males are typically affected. Sleep disturbances can occur due to respiratory issues from laryngotracheal abnormalities."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.25,
+      "explanation": "Features hypertelorism and orofacial clefts among its characteristics. Sleep disturbances are common due to seizures and developmental delays associated with this chromosomal deletion syndrome."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Can present with cleft palate and mild hypertelorism. Sleep abnormalities may occur due to obstructive sleep apnea, which is relatively common in Kabuki syndrome."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.17,
+      "explanation": "DiGeorge/velocardiofacial syndrome can present with cleft palate and mild hypertelorism. Sleep disorders are reported in some patients, though not a primary feature."
+    }
+  ]
+}

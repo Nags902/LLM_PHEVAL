@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing nearly identical phenotypic profile including hypotonia, autistic behavior, intellectual disability, seizures, thin upper lip vermilion, everted lower lip vermilion, and low-set ears. The facial dysmorphisms and behavioral features align closely."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, seizures, hypotonia, thin upper lip vermilion, low-set ears, microtia, hypertrichosis, and decreased body weight. The facial features and growth parameters are consistent, though lacks some classic features like limb abnormalities."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, hypotonia, developmental delay, seizures, sparse scalp hair, and hypertrichosis. The facial dysmorphisms including everted lower lip and low-set ears are consistent, though typically presents with more severe manifestations."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, seizures, microcephaly (implied by decreased body weight), distinctive facial features including prominent columella, everted lower lip vermilion, and ear abnormalities. The hypertrichosis is less typical but can occur."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Shows intellectual disability, seizures, hypotonia, autistic behavior, and distinctive facial features. The thin upper lip and ear abnormalities are compatible, though breathing abnormalities typical of this syndrome are not mentioned."
+    }
+  ]
+}

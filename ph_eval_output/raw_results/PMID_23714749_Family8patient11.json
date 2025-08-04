@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "Patient shows key features matching all three reference cases: jaundice, feeding difficulties, hypotonia, abnormality of coagulation cascade, and specifically depletion of mitochondrial DNA in liver. The age (15 months) and hepatic involvement are characteristic of this condition."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)",
+      "disease_id": "OMIM:251880",
+      "score": 0.5,
+      "explanation": "Also presents with hepatocerebral involvement, jaundice, coagulation abnormalities, and hypotonia. DGUOK mutations cause this variant with similar presentation but typically earlier onset."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A (Alpers type)",
+      "disease_id": "OMIM:203700",
+      "score": 0.33,
+      "explanation": "Can present with liver involvement, hypotonia, and feeding difficulties. However, typically has more prominent neurological features and later onset of liver disease."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 2 (myopathic type)",
+      "disease_id": "OMIM:609560",
+      "score": 0.25,
+      "explanation": "Shares hypotonia and feeding difficulties but primarily affects muscle rather than liver. Hepatic involvement and jaundice are not typical features."
+    },
+    {
+      "disease_name": "Pearson marrow-pancreas syndrome",
+      "disease_id": "OMIM:557000",
+      "score": 0.2,
+      "explanation": "Can present with liver dysfunction, jaundice, and failure to thrive in infancy. However, typically includes severe anemia and pancreatic insufficiency not mentioned in this case."
+    }
+  ]
+}

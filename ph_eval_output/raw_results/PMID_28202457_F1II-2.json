@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar phenotypes (unsteady gait and nystagmus) were diagnosed with this condition. The patient presents with the core neurological features seen in these cases."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.5,
+      "explanation": "Common autosomal dominant ataxia presenting with gait instability and nystagmus in adults. Age of onset typically in 30s-40s, matching patient's age."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.33,
+      "explanation": "Another common SCA with similar presentation of ataxia and nystagmus. Slightly less likely than SCA1 due to typical slower progression."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 3 (Machado-Joseph disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.25,
+      "explanation": "Most common SCA worldwide, presents with ataxia and nystagmus, though often has additional features not yet seen in this patient."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 6",
+      "disease_id": "OMIM:183086",
+      "score": 0.2,
+      "explanation": "Pure cerebellar ataxia with nystagmus, typically later onset but can present in 30s. Milder progression than other SCAs."
+    },
+    {
+      "disease_name": "Multiple sclerosis",
+      "disease_id": "OMIM:126200",
+      "score": 0.17,
+      "explanation": "Can present with unsteady gait and nystagmus due to cerebellar or brainstem lesions. Common in this age group but typically has relapsing-remitting course."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.14,
+      "explanation": "Classical hereditary ataxia with nystagmus, but typically presents before age 25. Late presentation possible but less likely."
+    },
+    {
+      "disease_name": "Cerebellar ataxia with neuropathy and vestibular areflexia syndrome (CANVAS)",
+      "disease_id": "OMIM:614575",
+      "score": 0.125,
+      "explanation": "Adult-onset ataxia with nystagmus, though typically includes sensory neuropathy and vestibular dysfunction not yet documented."
+    }
+  ]
+}

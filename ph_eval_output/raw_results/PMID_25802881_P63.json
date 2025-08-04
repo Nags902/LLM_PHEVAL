@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism type Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (obesity, short metacarpals, intellectual disability) were diagnosed with PHP Ia. This is the classic Albright hereditary osteodystrophy phenotype."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type Ic",
+      "disease_id": "OMIM:612462",
+      "score": 0.5,
+      "explanation": "PHP Ic presents with similar features to PHP Ia including AHO phenotype (obesity, short metacarpals, intellectual disability) but has different molecular basis involving GNAS mutations."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.33,
+      "explanation": "PPHP presents with AHO features (obesity, short metacarpals, intellectual disability) but without hormone resistance. Cannot exclude without biochemical data."
+    },
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.25,
+      "explanation": "AHO is the phenotypic constellation seen in PHP Ia and related disorders, characterized by the triad of features present in this patient."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "PWS presents with obesity and intellectual disability, and can have small hands/feet which could include short metacarpals, though this is less specific than in PHP."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.17,
+      "explanation": "Cohen syndrome includes obesity and intellectual disability, and can have hand abnormalities, though short metacarpals are not a cardinal feature."
+    }
+  ]
+}

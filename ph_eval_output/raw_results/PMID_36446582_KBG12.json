@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Patient shares multiple key features with the reference KBG syndrome cases including intellectual disability, ADHD, global developmental delay, macrodontia (pathognomonic), thick eyebrows, synophrys, hand abnormalities, short stature, IUGR, motor delay, speech delay, sleep abnormalities, and low anterior hairline. The phenotypic overlap is very strong."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Shares features including intellectual disability, developmental delays, thick eyebrows, synophrys, hand abnormalities, short stature, IUGR, and low anterior hairline. However, lacks typical facial gestalt and limb malformations commonly seen in CdLS."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.33,
+      "explanation": "X-linked form that could explain male gender. Shares similar features to CdLS1 but typically has milder phenotype. Macrodontia is less typical for CdLS."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Shares intellectual disability, developmental delays, short stature, and speech delays. However, lacks characteristic broad thumbs/toes and typical facial features. Macrodontia is not typical."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Shares intellectual disability, developmental delays, thick eyebrows, and coarse facial features. However, lacks typical nail hypoplasia and macrodontia is not characteristic."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.17,
+      "explanation": "Shares intellectual disability, developmental delays, and short stature. However, lacks characteristic facial features (elongated palpebral fissures, eversion of lateral third of lower eyelid). Macrodontia is not typical."
+    }
+  ]
+}

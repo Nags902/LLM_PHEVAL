@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 1.0,
+      "explanation": "Strong match with reference case 2 showing identical features: tube feeding, intellectual disability, global developmental delay, chronic constipation, talipes equinovarus, hypermetropia, depression, anxiety, developmental regression, and microcephaly. This syndrome is caused by EHMT1 gene mutations."
+    },
+    {
+      "disease_name": "Kleefstra syndrome 2",
+      "disease_id": "OMIM:617768",
+      "score": 0.5,
+      "explanation": "Similar phenotype to Kleefstra syndrome 1 but caused by KMT2C mutations. Presents with intellectual disability, developmental delay, microcephaly, and behavioral issues including anxiety and depression."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.33,
+      "explanation": "Features developmental regression, microcephaly, intellectual disability, and constipation which are classic for Rett syndrome. However, patient's male gender makes this less likely unless atypical presentation."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Shows intellectual disability, developmental delay, microcephaly, and constipation. However, lacks typical happy demeanor and seizures often seen in Angelman syndrome."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, developmental delay, constipation, and microcephaly. Caused by TCF4 mutations. Lacks typical breathing abnormalities but phenotype can be variable."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.17,
+      "explanation": "Features severe intellectual disability, microcephaly, developmental delay, and feeding difficulties. However, typically presents with more severe motor impairment and epilepsy."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.14,
+      "explanation": "Shows intellectual disability, microcephaly, constipation (Hirschsprung disease), and developmental delay. Lacks typical facial features but phenotype can vary."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.125,
+      "explanation": "Can present with intellectual disability, microcephaly, feeding difficulties, and foot deformities including talipes equinovarus. However, lacks typical dysmorphic features and cholesterol abnormalities."
+    }
+  ]
+}

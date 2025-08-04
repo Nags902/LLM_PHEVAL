@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing epileptic encephalopathy, focal seizures, autism/autistic behavior, intellectual disability, self-injurious behavior, and global developmental delay. The phenotypic overlap is nearly complete."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 112",
+      "disease_id": "OMIM:620537",
+      "score": 0.5,
+      "explanation": "Good match with reference case 3, sharing epileptic encephalopathy, focal aware seizures, intellectual disability, hypotonia, autistic behavior, and global developmental delay. Some features like motor seizures are not present in our patient."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "X-linked DEE with similar core features including epileptic encephalopathy, intellectual disability, and hypotonia. The gender (2=male) is consistent with X-linked inheritance pattern."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "Another X-linked DEE variant that presents with epileptic encephalopathy, intellectual disability, and developmental delays. The male gender supports this possibility."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:300088",
+      "score": 0.2,
+      "explanation": "X-linked DEE associated with PCDH19 mutations, typically affecting females but can affect males with somatic mosaicism. Shows epileptic encephalopathy, intellectual disability, and autistic features."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features epileptic encephalopathy, intellectual disability, hypotonia, and autistic behaviors. Self-injurious behavior and irritability can occur, though happy demeanor is more typical."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 1.0,
+      "explanation": "Case 3 with similar presentation including astigmatism, delayed speech and language development, and delayed gross motor development. The patient shares 3 out of 4 key features with this reference case."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Often presents with developmental delays, speech delays, and CNS abnormalities including ventriculomegaly. The combination of motor and speech delays with brain structural abnormalities fits this syndrome."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.33,
+      "explanation": "Characterized by developmental delays, particularly in motor and speech domains, and can present with ventriculomegaly. Ocular abnormalities including astigmatism are also reported."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.25,
+      "explanation": "Can present with ventriculomegaly and developmental delays in early childhood. The neurological features and brain abnormalities align with the patient's presentation."
+    },
+    {
+      "disease_name": "L1 syndrome",
+      "disease_id": "OMIM:308840",
+      "score": 0.2,
+      "explanation": "X-linked disorder that commonly presents with ventriculomegaly/hydrocephalus and developmental delays. More common in males, which matches the patient's gender."
+    },
+    {
+      "disease_name": "Dandy-Walker malformation",
+      "disease_id": "OMIM:220200",
+      "score": 0.17,
+      "explanation": "Presents with ventriculomegaly and associated developmental delays. While it typically involves posterior fossa abnormalities, isolated ventriculomegaly with developmental delays can be part of the spectrum."
+    }
+  ]
+}

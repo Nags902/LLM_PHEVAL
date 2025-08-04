@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 1.0,
+      "explanation": "Two reference cases with identical presentation (focal-onset seizure) were diagnosed with this condition, making it the most likely diagnosis based on the available data."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "One reference case with focal-onset seizure (plus additional EEG findings) was diagnosed with this condition, suggesting it's a possible diagnosis for isolated focal seizures."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Another subtype of developmental and epileptic encephalopathy that can present with focal seizures, though not directly referenced in the similar cases."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "This DEE subtype can also present with focal seizures as a primary feature, particularly in early onset cases."
+    },
+    {
+      "disease_name": "Focal cortical dysplasia, type II",
+      "disease_id": "OMIM:607341",
+      "score": 0.2,
+      "explanation": "A structural brain abnormality that commonly presents with focal-onset seizures, particularly in pediatric patients."
+    },
+    {
+      "disease_name": "Autosomal dominant nocturnal frontal lobe epilepsy 1",
+      "disease_id": "OMIM:600513",
+      "score": 0.17,
+      "explanation": "A genetic epilepsy syndrome characterized primarily by focal seizures, typically arising from the frontal lobe."
+    }
+  ]
+}

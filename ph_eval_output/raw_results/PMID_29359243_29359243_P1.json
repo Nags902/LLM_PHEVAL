@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "Classic presentation with early onset (3 months), severe hypotonia, motor regression, respiratory failure, increased CSF lactate, and brain MRI abnormalities including internal capsule involvement. The combination of metabolic, neurological, and respiratory features strongly suggests this mitochondrial disorder."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "Presents with lactic acidosis (elevated CSF lactate), hypotonia, feeding difficulties, and neurological regression. The early onset and severe presentation with respiratory failure are consistent with this metabolic disorder."
+    },
+    {
+      "disease_name": "Multiple mitochondrial dysfunctions syndrome 7",
+      "disease_id": "OMIM:620423",
+      "score": 0.33,
+      "explanation": "Similar to reference case 1 with respiratory failure, hypotonia, hyperreflexia (brisk reflexes), and abnormal brain MRI. The metabolic features and neurological regression support this diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.25,
+      "explanation": "Early-onset mitochondrial disorder with lactic acidosis, severe hypotonia, feeding difficulties, and progressive neurological deterioration. Brain MRI abnormalities and respiratory failure are common features."
+    },
+    {
+      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
+      "disease_id": "OMIM:617668",
+      "score": 0.2,
+      "explanation": "Similar to reference case 3 with lactic acidosis, severe hypotonia, feeding difficulties, and brain abnormalities. The early onset and severe presentation match this condition."
+    },
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 1",
+      "disease_id": "OMIM:220110",
+      "score": 0.17,
+      "explanation": "Can present with early-onset encephalopathy, lactic acidosis, hypotonia, and respiratory failure. The neurological regression and brain MRI abnormalities support this possibility."
+    },
+    {
+      "disease_name": "Pyruvate carboxylase deficiency",
+      "disease_id": "OMIM:266150",
+      "score": 0.14,
+      "explanation": "Metabolic disorder presenting with lactic acidosis, hypotonia, and neurological deterioration. The early onset and severe presentation with respiratory failure can occur in severe forms."
+    },
+    {
+      "disease_name": "SURF1 deficiency",
+      "disease_id": "OMIM:185620",
+      "score": 0.125,
+      "explanation": "A specific cause of Leigh syndrome with early onset, lactic acidosis, hypotonia, and characteristic brain MRI changes. The respiratory failure and neurological regression are consistent features."
+    }
+  ]
+}

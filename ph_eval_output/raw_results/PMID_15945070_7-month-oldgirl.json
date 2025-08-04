@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "Strong match with Type I transferrin isoform profile (pathognomonic for CDG-Ia), plus neurological features (seizures, cerebellar/cerebral atrophy), failure to thrive, and fetal pericardial effusion similar to CDG-Il cases."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Il",
+      "disease_id": "OMIM:608779",
+      "score": 0.5,
+      "explanation": "Reference cases show identical presentation with fetal pericardial effusion, seizures, cerebellar/cerebral atrophy, and failure to thrive. However, CDG-Il typically shows Type II transferrin pattern, not Type I."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ib",
+      "disease_id": "OMIM:602579",
+      "score": 0.33,
+      "explanation": "Another CDG subtype that can present with Type I transferrin pattern, hepatic involvement (hypoalbuminemia), and neurological symptoms, though less commonly with severe brain atrophy."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ic",
+      "disease_id": "OMIM:603147",
+      "score": 0.25,
+      "explanation": "Can present with Type I transferrin pattern and neurological features, but typically has more prominent immunodeficiency and less severe brain atrophy."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.2,
+      "explanation": "Features congenital brain malformations, eye abnormalities (esotropia), and sometimes renal involvement. However, doesn't explain the Type I transferrin pattern."
+    },
+    {
+      "disease_name": "Muscle-eye-brain disease",
+      "disease_id": "OMIM:253280",
+      "score": 0.17,
+      "explanation": "Presents with brain atrophy, eye abnormalities, and hypotonia, but lacks the characteristic transferrin abnormality and typically has more prominent muscular dystrophy."
+    }
+  ]
+}

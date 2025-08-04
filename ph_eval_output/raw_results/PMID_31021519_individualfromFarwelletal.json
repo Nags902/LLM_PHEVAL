@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotype (cleft palate, intellectual disability, global developmental delay) were diagnosed with Glass syndrome, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Features cleft palate, intellectual disability, and developmental delay as core features. Caused by mutations in KMT2D gene."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.33,
+      "explanation": "X-linked form of Kabuki syndrome with similar features including cleft palate and intellectual disability. Caused by KDM6A mutations."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, developmental delay, and cleft palate among other features. Caused by 4p deletion."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Features intellectual disability and developmental delay; cleft palate occurs in approximately 20% of cases."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.17,
+      "explanation": "DiGeorge/velocardiofacial syndrome includes cleft palate, intellectual disability, and developmental delays as common features."
+    },
+    {
+      "disease_name": "Van der Woude syndrome 1",
+      "disease_id": "OMIM:119300",
+      "score": 0.14,
+      "explanation": "Primarily characterized by cleft palate/lip; intellectual disability is less common but can occur with this condition."
+    }
+  ]
+}

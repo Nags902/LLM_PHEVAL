@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, susceptibility to",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "Primary consideration given the presence of self-healing squamous epithelioma as the main phenotypic feature, and all three reference cases with this feature were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Ferguson-Smith disease",
+      "disease_id": "OMIM:132800",
+      "score": 0.5,
+      "explanation": "Alternative name for multiple self-healing squamous epithelioma. This autosomal dominant condition typically presents with keratoacanthoma-like lesions that spontaneously regress."
+    },
+    {
+      "disease_name": "Generalized eruptive keratoacanthoma",
+      "disease_id": "OMIM:148390",
+      "score": 0.33,
+      "explanation": "Can present with multiple self-healing squamous lesions similar to the patient's presentation, though typically more widespread and without the genetic susceptibility pattern."
+    },
+    {
+      "disease_name": "Muir-Torre syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.25,
+      "explanation": "Can include keratoacanthomas among its cutaneous manifestations, though typically associated with sebaceous tumors and internal malignancies which are not mentioned in this case."
+    },
+    {
+      "disease_name": "Xeroderma pigmentosum, complementation group A",
+      "disease_id": "OMIM:278700",
+      "score": 0.2,
+      "explanation": "Can develop multiple squamous cell carcinomas and keratoacanthoma-like lesions, though typically with photosensitivity and other neurological features not mentioned here."
+    }
+  ]
+}

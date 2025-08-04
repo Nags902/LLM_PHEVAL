@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Perfect match with Case 1 reference, sharing all key features: burst suppression EEG, infantile spasms, generalized tonic seizures, global developmental delay, and hypsarrhythmia. The phenotypic overlap is complete for the core features."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "Strong match with Cases 2 and 3, sharing burst suppression EEG, epileptic encephalopathy, focal tonic seizures, generalized tonic seizures, infantile spasms, and severe intellectual disability. Only lacks abnormal brain morphology seen in reference cases."
+    },
+    {
+      "disease_name": "Ohtahara syndrome (Early infantile epileptic encephalopathy)",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Classic features include burst suppression pattern, early-onset seizures including tonic spasms, and severe developmental impairment. The presence of multiple seizure types and progression to hypsarrhythmia is characteristic."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.25,
+      "explanation": "Characterized by the triad of infantile spasms, hypsarrhythmia, and developmental regression/delay. However, burst suppression pattern is more typical of earlier-onset epileptic encephalopathies."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.2,
+      "explanation": "ARX-related disorder presenting with infantile spasms, severe intellectual disability, and epileptic encephalopathy. Can show progression from burst suppression to hypsarrhythmia."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "KCNQ2-related encephalopathy can present with burst suppression, multiple seizure types including tonic seizures, and severe developmental impairment, though myoclonic seizures are less common."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 13",
+      "disease_id": "OMIM:614558",
+      "score": 0.14,
+      "explanation": "SCN8A-related disorder can present with early-onset epileptic encephalopathy, multiple seizure types including tonic and myoclonic seizures, and severe intellectual disability."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoinflammatory disease, multisystem, with immune dysregulation, X-linked",
+      "disease_id": "OMIM:301109",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar phenotypes (autoimmune hemolytic anemia and chronic diarrhea) were diagnosed with this condition. The patient's age and gender (male) are consistent with X-linked inheritance pattern."
+    },
+    {
+      "disease_name": "IPEX syndrome (Immunodysregulation, polyendocrinopathy, enteropathy, X-linked)",
+      "disease_id": "OMIM:304790",
+      "score": 0.5,
+      "explanation": "Classic triad includes chronic diarrhea/enteropathy and autoimmune manifestations including hemolytic anemia. X-linked disorder affecting young males, consistent with patient demographics."
+    },
+    {
+      "disease_name": "Common variable immunodeficiency 1",
+      "disease_id": "OMIM:607594",
+      "score": 0.33,
+      "explanation": "Can present with chronic diarrhea and autoimmune cytopenias including hemolytic anemia. However, typically presents later in life and lacks the full spectrum seen in reference cases."
+    },
+    {
+      "disease_name": "Autoimmune lymphoproliferative syndrome, type Ia",
+      "disease_id": "OMIM:601859",
+      "score": 0.25,
+      "explanation": "Features autoimmune hemolytic anemia as a cardinal manifestation and can have gastrointestinal involvement, though chronic diarrhea is less typical than in IPEX or X-linked autoinflammatory disease."
+    },
+    {
+      "disease_name": "X-linked lymphoproliferative syndrome 2",
+      "disease_id": "OMIM:300635",
+      "score": 0.2,
+      "explanation": "X-linked disorder that can present with inflammatory bowel disease-like symptoms and cytopenias. The specific combination of chronic diarrhea and autoimmune hemolytic anemia is possible but less characteristic."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "Classic presentation with early-onset ataxia, hypotonia, dystonia, and oculomotor abnormalities (strabismus). Age of onset (6 years) fits the typical presentation."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:208920",
+      "score": 0.5,
+      "explanation": "Similar to reference cases 1 and 2, presents with ataxia and oculomotor dysfunction (strabismus). Hypotonia and dystonia can be associated features."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 2",
+      "disease_id": "OMIM:606002",
+      "score": 0.333,
+      "explanation": "Another form of ataxia with oculomotor apraxia that can present with similar features including ataxia, hypotonia, and eye movement abnormalities."
+    },
+    {
+      "disease_name": "Dystonia 37, early-onset, with striatal lesions",
+      "disease_id": "OMIM:620427",
+      "score": 0.25,
+      "explanation": "Similar to reference case 3, presents with dystonia, ataxia, and hypotonia. The patient's phenotype shows overlap with this condition."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.2,
+      "explanation": "Can present in childhood with ataxia, hypotonia, and oculomotor abnormalities. Dystonia can be an associated feature."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.167,
+      "explanation": "Mitochondrial disorder that can present with ataxia, hypotonia, dystonia, and eye movement abnormalities in early childhood."
+    }
+  ]
+}

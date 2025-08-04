@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Distal renal tubular acidosis 1",
+      "disease_id": "OMIM:179800",
+      "score": 1.0,
+      "explanation": "Patient presents with all cardinal features of dRTA type 1: distal RTA, hypokalemia, alkaline urine, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability. All three reference cases with identical phenotypes were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis 2",
+      "disease_id": "OMIM:613642",
+      "score": 0.5,
+      "explanation": "dRTA type 2 (with progressive sensorineural hearing loss) can present with similar renal manifestations including nephrocalcinosis, nephrolithiasis, and distal RTA. The absence of reported hearing loss doesn't exclude this diagnosis in a 27-year-old."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis 3",
+      "disease_id": "OMIM:602722",
+      "score": 0.33,
+      "explanation": "dRTA type 3 (with or without sensorineural hearing loss) shares the core renal phenotype with types 1 and 2. Caused by mutations in CA2 gene, it typically presents earlier but can have variable severity."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis 4",
+      "disease_id": "OMIM:619807",
+      "score": 0.25,
+      "explanation": "dRTA type 4 can present with similar features but is often associated with hyperkalemia rather than hypokalemia. However, some cases can present with hypokalemia depending on concurrent factors."
+    },
+    {
+      "disease_name": "Primary hyperoxaluria type 1",
+      "disease_id": "OMIM:259900",
+      "score": 0.2,
+      "explanation": "Can cause recurrent nephrolithiasis and nephrocalcinosis, but typically doesn't present with distal RTA or hypokalemia. The alkaline urine would be unusual for this condition."
+    },
+    {
+      "disease_name": "Dent disease 1",
+      "disease_id": "OMIM:300009",
+      "score": 0.17,
+      "explanation": "X-linked disorder that can cause nephrocalcinosis and nephrolithiasis, but typically presents with proximal tubular dysfunction rather than distal RTA. The gender (female) makes this less likely but not impossible due to X-inactivation."
+    }
+  ]
+}

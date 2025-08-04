@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:608194",
+      "score": 1.0,
+      "explanation": "Patient presents with all three key features (nystagmus, reduced visual acuity, macular atrophy) that are present in both reference cases 1 and 3 diagnosed with this condition. The phenotypic overlap is highly consistent."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.5,
+      "explanation": "Classic presentation includes early-onset nystagmus, severe visual impairment, and macular atrophy. The triad of symptoms fits well with this severe early-onset retinal dystrophy."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.33,
+      "explanation": "Presents with congenital nystagmus, reduced visual acuity, and can have macular changes. The absence of reported photophobia and color vision defects makes it less likely than cone-rod dystrophy."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.25,
+      "explanation": "Features macular atrophy and reduced visual acuity as primary symptoms. Nystagmus is less common but can occur in early-onset cases. The phenotype partially matches."
+    },
+    {
+      "disease_name": "X-linked retinoschisis 1",
+      "disease_id": "OMIM:312700",
+      "score": 0.2,
+      "explanation": "Can present with nystagmus, reduced visual acuity, and macular changes. However, the absence of reported schisis cavities and the patient's gender (2, likely female) make this X-linked condition less probable."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.17,
+      "explanation": "Can include retinal dystrophy with macular atrophy and visual impairment. Nystagmus may occur. However, the absence of other systemic features (obesity, polydactyly, renal anomalies) makes this less likely as a primary diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 1.0,
+      "explanation": "Classic presentation with both preaxial polydactyly and syndactyly. This syndrome is characterized by the combination of polydactyly (especially preaxial) and cutaneous syndactyly, matching the patient's phenotype perfectly."
+    },
+    {
+      "disease_name": "Acrocallosal syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.5,
+      "explanation": "Features preaxial polydactyly and syndactyly among its hallmark features. However, typically presents with additional CNS abnormalities (agenesis of corpus callosum) not mentioned in this patient."
+    },
+    {
+      "disease_name": "Carpenter syndrome",
+      "disease_id": "OMIM:201000",
+      "score": 0.33,
+      "explanation": "Can present with preaxial polydactyly of feet and syndactyly. However, craniosynostosis is a major feature that is not reported in this patient."
+    },
+    {
+      "disease_name": "Polysyndactyly, uncomplicated",
+      "disease_id": "OMIM:174200",
+      "score": 0.25,
+      "explanation": "Simple combination of polydactyly and syndactyly without additional features. Could explain the patient's presentation if no other anomalies are present."
+    },
+    {
+      "disease_name": "Laurin-Sandrow syndrome",
+      "disease_id": "OMIM:135750",
+      "score": 0.2,
+      "explanation": "Features preaxial polydactyly, particularly of the feet, which can be associated with syndactyly. However, typically involves more severe limb malformations including mirror hand/foot."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Case 1 with identical phenotype (Autism) was diagnosed with this condition. DEE4 is caused by STXBP1 mutations and commonly presents with autism spectrum disorder."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615547",
+      "score": 0.5,
+      "explanation": "Cases 2 and 3 with autism were diagnosed with this condition. While the patient lacks reported macrocephaly or intellectual disability, autism is a core feature of this syndrome."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.333,
+      "explanation": "Caused by SHANK3 mutations/deletions, this syndrome frequently presents with autism spectrum disorder as a primary feature, often with variable intellectual disability."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "One of the most common genetic causes of autism, particularly in males. The patient's gender (0) could indicate male, making this a strong consideration."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "If gender 0 indicates female, Rett syndrome should be considered as it presents with autistic features, though typically with regression and other distinctive features."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.167,
+      "explanation": "TSC1 mutations cause tuberous sclerosis which has a high prevalence of autism spectrum disorder, though typically with additional features like seizures and skin findings."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.143,
+      "explanation": "TSC2 mutations also cause tuberous sclerosis with high rates of autism. Similar presentation to TSC1 but caused by different gene."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.125,
+      "explanation": "Can present with autistic behaviors, though typically includes severe intellectual disability, seizures, and characteristic happy demeanor."
+    }
+  ]
+}

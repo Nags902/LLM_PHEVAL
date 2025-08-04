@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Perfect match with all three phenotypic features (atrial septal defect, absent thumb, upper limb phocomelia). All three reference cases with similar features were diagnosed with Holt-Oram syndrome, making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome presents with upper limb malformations including absent radius and thumb abnormalities, but typically spares the thumb. The presence of absent thumb and cardiac defects makes it less likely than Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.33,
+      "explanation": "Can present with cardiac defects and limb abnormalities including radial ray defects. However, it typically involves multiple organ systems beyond what is described in this patient."
+    },
+    {
+      "disease_name": "Fanconi anemia complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Can present with radial ray defects including absent thumbs and cardiac anomalies. However, it usually includes additional features like growth retardation and bone marrow failure not mentioned here."
+    },
+    {
+      "disease_name": "Roberts syndrome",
+      "disease_id": "OMIM:268300",
+      "score": 0.2,
+      "explanation": "Can present with severe limb reduction defects including phocomelia and cardiac defects. However, it typically includes characteristic facial features and growth retardation not described in this patient."
+    }
+  ]
+}

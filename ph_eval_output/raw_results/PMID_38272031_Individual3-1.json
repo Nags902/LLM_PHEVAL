@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Most common form of juvenile macular dystrophy, presenting with reduced visual acuity and macular changes. Age of onset can vary from childhood to adulthood, fitting the patient's presentation."
+    },
+    {
+      "disease_name": "Best vitelliform macular dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.5,
+      "explanation": "Autosomal dominant macular dystrophy that can present in adulthood with reduced visual acuity and characteristic macular lesions. Compatible with patient's age and phenotype."
+    },
+    {
+      "disease_name": "Pattern dystrophy of retinal pigment epithelium",
+      "disease_id": "OMIM:169150",
+      "score": 0.33,
+      "explanation": "Adult-onset macular dystrophy typically presenting in the 5th-6th decade with reduced visual acuity and various macular patterns. Age matches well with patient."
+    },
+    {
+      "disease_name": "Sorsby fundus dystrophy",
+      "disease_id": "OMIM:136900",
+      "score": 0.25,
+      "explanation": "Autosomal dominant macular dystrophy with typical onset in the 4th-5th decade, presenting with reduced visual acuity and macular changes. Age-appropriate for this patient."
+    },
+    {
+      "disease_name": "Doyne honeycomb retinal dystrophy",
+      "disease_id": "OMIM:126600",
+      "score": 0.2,
+      "explanation": "Adult-onset macular dystrophy with drusen-like deposits, presenting with gradual visual loss. Can manifest in the 5th-6th decade matching patient's age."
+    },
+    {
+      "disease_name": "Macular dystrophy, vitelliform, 3",
+      "disease_id": "OMIM:608161",
+      "score": 0.17,
+      "explanation": "Adult-onset vitelliform macular dystrophy caused by PRPH2 mutations, presenting with reduced visual acuity and macular lesions similar to Best disease."
+    },
+    {
+      "disease_name": "North Carolina macular dystrophy",
+      "disease_id": "OMIM:136550",
+      "score": 0.14,
+      "explanation": "Autosomal dominant macular dystrophy with variable expressivity. Can present with reduced visual acuity, though typically stable and congenital."
+    },
+    {
+      "disease_name": "Macular dystrophy, vitelliform, 2",
+      "disease_id": "OMIM:153840",
+      "score": 0.125,
+      "explanation": "Adult-onset vitelliform macular dystrophy presenting with bilateral macular lesions and reduced visual acuity, typically in the 4th-6th decade."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Case 1 reference shows exact phenotypic match with microcephaly, delayed gross motor development, delayed speech/language, and intellectual disability, making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Classic presentation includes intellectual disability, speech delay, motor delays, and microcephaly, fitting all the patient's features."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.33,
+      "explanation": "Presents with microcephaly, intellectual disability, and motor/speech delays, though more common in females."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+      "disease_id": "OMIM:619012",
+      "score": 0.25,
+      "explanation": "Case 3 reference shows similar features including speech delay, intellectual disability, and microcephaly, though hypotonia is not reported in this patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, growth retardation, microcephaly, and developmental delays matching the patient's presentation."
+    },
+    {
+      "disease_name": "Microcephaly 5, primary, autosomal recessive",
+      "disease_id": "OMIM:608716",
+      "score": 0.17,
+      "explanation": "Primary microcephaly with intellectual disability and developmental delays, though typically more severe."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.14,
+      "explanation": "Includes microcephaly, intellectual disability, and motor delays, though typically has additional distinctive features."
+    }
+  ]
+}

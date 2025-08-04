@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous sclerosis-1",
+      "disease_id": "OMIM:191100",
+      "score": 1.0,
+      "explanation": "Patient presents with the classic triad of cortical tubers, angiofibromas, and renal angiomyolipoma, which are major diagnostic criteria for tuberous sclerosis complex. TSC1 mutations cause this autosomal dominant disorder, and the phenotype matches reference cases 1 and 2."
+    },
+    {
+      "disease_name": "Tuberous sclerosis-2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "TSC2 mutations cause a clinically indistinguishable form of tuberous sclerosis complex. The patient's features match reference case 3. TSC2 mutations are more common than TSC1 and often associated with more severe manifestations."
+    },
+    {
+      "disease_name": "Tuberous sclerosis-3",
+      "disease_id": "OMIM:611524",
+      "score": 0.33,
+      "explanation": "A rare form of tuberous sclerosis complex with similar clinical features but different genetic etiology. Less likely given the typical presentation matching TSC1/TSC2."
+    },
+    {
+      "disease_name": "Tuberous sclerosis-4",
+      "disease_id": "OMIM:615436",
+      "score": 0.25,
+      "explanation": "Another rare genetic subtype of tuberous sclerosis complex. Clinical features overlap with classic TSC but this form is much less common."
+    },
+    {
+      "disease_name": "Birt-Hogg-Dub\u00e9 syndrome",
+      "disease_id": "OMIM:135150",
+      "score": 0.2,
+      "explanation": "Can present with facial papules (fibrofolliculomas) that may be confused with angiofibromas and renal tumors, but cortical tubers are not a feature of this syndrome, making it less likely."
+    }
+  ]
+}

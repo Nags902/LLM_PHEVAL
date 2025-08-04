@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "L1 syndrome (X-linked hydrocephalus spectrum)",
+      "disease_id": "OMIM:308840",
+      "score": 1.0,
+      "explanation": "Strong match with hydrocephalus, intellectual disability, global developmental delay, and upslanted palpebral fissures. L1CAM mutations cause a spectrum including hydrocephalus with mental retardation."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.5,
+      "explanation": "Presents with hydrocephalus, severe intellectual disability, visual impairment including high myopia, and brain malformations. The villous hypertrophy of choroid plexus could be related to the brain abnormalities seen in this condition."
+    },
+    {
+      "disease_name": "Muscle-eye-brain disease",
+      "disease_id": "OMIM:253280",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, visual problems including high myopia, hydrocephalus, and brain abnormalities. Part of the dystroglycanopathy spectrum with overlapping features."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.25,
+      "explanation": "Males with this condition show intellectual disability, global developmental delay, hypotonia (which could explain protruding tongue), and distinctive facial features. Hydrocephalus has been reported."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:618443",
+      "score": 0.2,
+      "explanation": "Similar to reference case 1, this patient shows global developmental delay, intellectual disability, and brain abnormalities (hydrocephalus, villous hypertrophy). Visual impairment is also seen in some cases."
+    },
+    {
+      "disease_name": "Dandy-Walker malformation",
+      "disease_id": "OMIM:220200",
+      "score": 0.17,
+      "explanation": "Can present with hydrocephalus, developmental delay, and intellectual disability. The villous hypertrophy of choroid plexus could be a related finding, though high myopia is less typical."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 0.14,
+      "explanation": "Similar to reference cases 2 and 3 which showed high myopia, intellectual disability, and global developmental delay. However, this patient lacks many of the dysmorphic features seen in those cases."
+    }
+  ]
+}

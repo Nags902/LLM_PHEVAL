@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "Patient presents with exact phenotypic match to reference cases: nystagmus, very low visual acuity, eye poking, and hypermetropia. All reference cases with this phenotype constellation were diagnosed with LCA6."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.5,
+      "explanation": "Classic LCA presentation with severe visual impairment from infancy, nystagmus, and eye poking (oculodigital sign). LCA1 is caused by GUCY2D mutations and presents similarly to LCA6."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 2",
+      "disease_id": "OMIM:204100",
+      "score": 0.33,
+      "explanation": "RPE65-related LCA presenting with severe early-onset retinal dystrophy, nystagmus, and characteristic eye poking behavior. Hypermetropia is common in LCA2."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 10",
+      "disease_id": "OMIM:611755",
+      "score": 0.25,
+      "explanation": "CEP290-related LCA is the most common form, presenting with severe visual impairment, nystagmus, and oculodigital sign. Matches core phenotype but less specific than LCA6 given reference cases."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.2,
+      "explanation": "CNGA3-related achromatopsia presents with nystagmus, severely reduced visual acuity, and hypermetropia. However, typically has better visual function than LCA and lacks eye poking."
+    },
+    {
+      "disease_name": "Albinism, oculocutaneous, type 1A",
+      "disease_id": "OMIM:203100",
+      "score": 0.17,
+      "explanation": "Can present with nystagmus, reduced visual acuity, and hypermetropia. However, eye poking is not typical, and usually has characteristic hypopigmentation features not mentioned."
+    }
+  ]
+}

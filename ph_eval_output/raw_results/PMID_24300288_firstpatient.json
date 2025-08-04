@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyggve-Melchior-Clausen disease",
+      "disease_id": "OMIM:223800",
+      "score": 1.0,
+      "explanation": "Nearly perfect phenotypic match with Case 1, sharing 26 out of 26 features including distinctive skeletal abnormalities (beaking of vertebral bodies, platyspondyly, short metacarpals/metatarsals), intellectual disability with absent speech, coarse facial features, and characteristic gait abnormalities."
+    },
+    {
+      "disease_name": "Smith-McCort dysplasia 1",
+      "disease_id": "OMIM:607326",
+      "score": 0.5,
+      "explanation": "Allelic disorder to Dyggve-Melchior-Clausen disease with similar skeletal features (platyspondyly, beaking of vertebral bodies) but typically without intellectual disability. However, some cases may have mild cognitive involvement."
+    },
+    {
+      "disease_name": "Smith-McCort dysplasia 2",
+      "disease_id": "OMIM:615222",
+      "score": 0.33,
+      "explanation": "Similar skeletal dysplasia phenotype to SMC1 with platyspondyly and vertebral abnormalities, but caused by mutations in a different gene (RAB33B). Less likely due to presence of intellectual disability."
+    },
+    {
+      "disease_name": "Spondyloepimetaphyseal dysplasia, Strudwick type",
+      "disease_id": "OMIM:184250",
+      "score": 0.25,
+      "explanation": "Shares skeletal features including platyspondyly, scoliosis, and genu valgum, but lacks the characteristic beaking of vertebral bodies and intellectual disability typical of this patient."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type IVA (Morquio syndrome A)",
+      "disease_id": "OMIM:253000",
+      "score": 0.2,
+      "explanation": "Features platyspondyly, short neck, waddling gait, and genu valgum, but typically presents with corneal clouding, cardiac involvement, and less severe intellectual disability than observed in this patient."
+    },
+    {
+      "disease_name": "Spondylometaphyseal dysplasia, Kozlowski type",
+      "disease_id": "OMIM:184252",
+      "score": 0.17,
+      "explanation": "Shares platyspondyly and short stature features, but lacks the severe intellectual disability, coarse facial features, and specific pattern of skeletal abnormalities seen in this patient."
+    }
+  ]
+}

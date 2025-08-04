@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "The patient presents with classic features of homocystinuria including arachnodactyly, tall stature, intellectual disability, and hyperhomocystinemia. Case 1 shows a very similar phenotype with the same key features."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Arachnodactyly and tall stature are cardinal features of Marfan syndrome. However, intellectual disability is not typical, and hyperhomocystinemia would be unusual, making this less likely than homocystinuria."
+    },
+    {
+      "disease_name": "Homocystinuria due to defect in methylation (cbl C)",
+      "disease_id": "OMIM:277400",
+      "score": 0.333,
+      "explanation": "This form of homocystinuria can present with hyperhomocystinemia and intellectual disability, but marfanoid features like arachnodactyly and tall stature are less common than in CBS deficiency."
+    },
+    {
+      "disease_name": "Homocystinuria due to defect in methylation (cbl D)",
+      "disease_id": "OMIM:277410",
+      "score": 0.25,
+      "explanation": "Another methylation defect causing homocystinuria with potential intellectual disability, but marfanoid habitus is less characteristic compared to CBS deficiency."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.2,
+      "explanation": "Can present with tall stature and intellectual disability, but arachnodactyly is not typical and hyperhomocystinemia would be unexpected."
+    },
+    {
+      "disease_name": "Lujan-Fryns syndrome",
+      "disease_id": "OMIM:309520",
+      "score": 0.167,
+      "explanation": "X-linked disorder with marfanoid habitus and intellectual disability, but the patient is female and hyperhomocystinemia is not a feature."
+    }
+  ]
+}

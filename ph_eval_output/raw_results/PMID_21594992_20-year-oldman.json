@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan lipodystrophy syndrome",
+      "disease_id": "OMIM:616914",
+      "score": 1.0,
+      "explanation": "Patient shares nearly all key features with reference cases 1 and 2: ectopia lentis, high myopia, arachnodactyly, pectus excavatum, generalized lipodystrophy, progeroid facial appearance, retrognathia, relative macrocephaly, prominent nasal bridge, high palate, IUGR, and bruising susceptibility. The combination of Marfanoid habitus with lipodystrophy is pathognomonic."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Patient has classic Marfanoid features including ectopia lentis, arachnodactyly, pectus excavatum, high myopia, and joint hyperextensibility. However, lipodystrophy and progeroid appearance are not typical of classic Marfan syndrome, making Marfan lipodystrophy syndrome more likely."
+    },
+    {
+      "disease_name": "Beals syndrome (Congenital contractural arachnodactyly)",
+      "disease_id": "OMIM:121050",
+      "score": 0.33,
+      "explanation": "Shares marfanoid habitus features including arachnodactyly and craniofacial abnormalities. However, lacks the characteristic contractures and has atypical features like lipodystrophy and ectopia lentis."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Some overlapping features include arachnodactyly, pectus deformity, and craniofacial abnormalities. However, lacks characteristic features like arterial tortuosity, bifid uvula, and hypertelorism, while having atypical lipodystrophy."
+    },
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 0.2,
+      "explanation": "Shares ectopia lentis, marfanoid habitus, and high myopia. However, lacks intellectual disability and thrombotic events typical of homocystinuria, and has atypical lipodystrophy and progeroid features."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.17,
+      "explanation": "Has some marfanoid features and craniofacial abnormalities. However, lacks the characteristic craniosynostosis and intellectual disability, while having atypical lipodystrophy."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy 2",
+      "disease_id": "OMIM:618940",
+      "score": 1.0,
+      "explanation": "Perfect match with all phenotypic features and all three reference cases diagnosed with this condition. Classic presentation includes ptosis, ophthalmoplegia, dysphagia, and respiratory insufficiency."
+    },
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy 1",
+      "disease_id": "OMIM:164300",
+      "score": 0.5,
+      "explanation": "The more common form of OPMD with identical clinical features. While reference cases point to OPMD2, OPMD1 presents with the same constellation of symptoms and should be considered."
+    },
+    {
+      "disease_name": "Myasthenia gravis",
+      "disease_id": "OMIM:254200",
+      "score": 0.33,
+      "explanation": "Can present with ptosis, ophthalmoplegia, dysphagia, and generalized weakness (asthenia). Respiratory insufficiency can occur in severe cases. However, typically has fluctuating symptoms."
+    },
+    {
+      "disease_name": "Congenital myasthenic syndrome type 5",
+      "disease_id": "OMIM:603034",
+      "score": 0.25,
+      "explanation": "DOK7-related CMS can present with ptosis, ophthalmoplegia, and progressive weakness with respiratory involvement. The age and progressive nature fit, though dysphagia is less common."
+    },
+    {
+      "disease_name": "Mitochondrial myopathy with progressive external ophthalmoplegia",
+      "disease_id": "OMIM:157640",
+      "score": 0.2,
+      "explanation": "Features ptosis and progressive external ophthalmoplegia as cardinal signs. Can include dysphagia and respiratory muscle weakness, though the complete phenotype match is less typical."
+    },
+    {
+      "disease_name": "Myotonic dystrophy type 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.17,
+      "explanation": "Can present with ptosis, dysphagia, respiratory insufficiency, and weakness. However, myotonia and multisystem involvement are typically present, which are not mentioned in this case."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "Patient presents with multiple lentigines, short stature, hypertelorism, and pulmonic stenosis - all cardinal features of LEOPARD syndrome. The reference cases show identical phenotypes. LEOPARD is an acronym for Lentigines, ECG abnormalities, Ocular hypertelorism, Pulmonic stenosis, Abnormal genitalia, Retardation of growth, and Deafness."
+    },
+    {
+      "disease_name": "LEOPARD syndrome 2",
+      "disease_id": "OMIM:611554",
+      "score": 0.5,
+      "explanation": "Caused by RAF1 mutations, presents with similar features to LEOPARD syndrome 1 including multiple lentigines, hypertelorism, short stature, and cardiac defects. Less common than type 1 but should be considered."
+    },
+    {
+      "disease_name": "LEOPARD syndrome 3",
+      "disease_id": "OMIM:613707",
+      "score": 0.33,
+      "explanation": "Caused by BRAF mutations, presents with overlapping features including lentigines, cardiac defects, and facial dysmorphism. Rarer form but phenotypically similar to types 1 and 2."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "Alternative name for LEOPARD syndrome, emphasizing its relationship to Noonan syndrome. Same condition as LEOPARD syndrome 1 but included for completeness."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Shares features with patient including short stature, hypertelorism, and pulmonic stenosis. However, multiple lentigines are more specific to LEOPARD syndrome. Cafe-au-lait spots can occur in Noonan syndrome."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.17,
+      "explanation": "Patient has few cafe-au-lait spots which is a feature of NF1, and reference case 3 shows NF1 with pulmonic stenosis. However, multiple lentigines and hypertelorism are not typical of NF1, making it less likely."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.14,
+      "explanation": "RASopathy that can present with short stature, hypertelorism, and cardiac defects including pulmonic stenosis. However, multiple lentigines are not typical, and skin manifestations usually include different features."
+    }
+  ]
+}

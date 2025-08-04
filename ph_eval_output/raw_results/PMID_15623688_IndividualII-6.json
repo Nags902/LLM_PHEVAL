@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (dysarthria, intellectual disability borderline, impaired tandem gait) were diagnosed with SCA29. The patient's presentation matches the core features of this condition perfectly."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 15",
+      "disease_id": "OMIM:606658",
+      "score": 0.5,
+      "explanation": "SCA15 can present with adult-onset cerebellar ataxia, dysarthria, and gait disturbance. The patient's age (58 years) and cerebellar signs are consistent, though intellectual disability is less common in this form."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 8",
+      "disease_id": "OMIM:608768",
+      "score": 0.33,
+      "explanation": "SCA8 typically presents with adult-onset ataxia, dysarthria, and gait disturbance. The patient's symptoms align, though cognitive impairment is usually mild or absent in this condition."
+    },
+    {
+      "disease_name": "Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1",
+      "disease_id": "OMIM:224050",
+      "score": 0.25,
+      "explanation": "CAMRQ1 presents with cerebellar ataxia, intellectual disability, and gait abnormalities. However, it typically has congenital onset with more severe intellectual disability than borderline."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 13",
+      "disease_id": "OMIM:605259",
+      "score": 0.2,
+      "explanation": "SCA13 can present with cerebellar ataxia and mild cognitive impairment. The adult onset and dysarthria fit, but intellectual disability is not a typical feature."
+    }
+  ]
+}

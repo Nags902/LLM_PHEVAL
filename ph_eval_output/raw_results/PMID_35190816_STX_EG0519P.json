@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases 2 and 3, sharing key features including absent speech, global developmental delay, intellectual disability, broad-based gait, truncal ataxia, and hypotonia. The presence of tremor and torticollis in the patient aligns with the motor stereotypy and torticollis seen in case 3."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 0.5,
+      "explanation": "Matches multiple cerebellar features including truncal ataxia, gait ataxia, dysmetria, broad-based gait, hypotonia, and tremor. The intellectual disability and global developmental delay are also consistent. However, lacks some specific features from reference case 1 like dysarthria and nystagmus."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Classic features include absent speech, intellectual disability, ataxia, tremor, and hypotonia. The broad-based gait and global developmental delay are highly characteristic. Though not mentioned in reference cases, this syndrome strongly matches the patient's profile."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Features absent speech, intellectual disability, tremor, and hypotonia. Can present with ataxia and gait abnormalities. The torticollis could represent dystonic features sometimes seen in Rett syndrome."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.2,
+      "explanation": "Presents with progressive cerebellar ataxia including truncal ataxia, limb ataxia, dysmetria, and gait disturbance. Can have intellectual disability and developmental delays, though typically milder than in this patient."
+    }
+  ]
+}

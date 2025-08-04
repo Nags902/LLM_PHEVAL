@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel syndrome, type 1",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Classic presentation with occipital encephalocele/meningocele, postaxial polydactyly, and cystic renal disease. The lumbosacral meningocele and Chiari II malformation align with the neural tube defects seen in Meckel syndrome."
+    },
+    {
+      "disease_name": "Hydrolethalus syndrome 1",
+      "disease_id": "OMIM:236680",
+      "score": 0.5,
+      "explanation": "Features postaxial polydactyly, CNS malformations including hydrocephalus, and clubfoot. The neural tube defects and polydactyly pattern match well with this patient."
+    },
+    {
+      "disease_name": "Joubert syndrome 2",
+      "disease_id": "OMIM:608091",
+      "score": 0.33,
+      "explanation": "Can present with polydactyly and CNS malformations, though typically features the characteristic molar tooth sign. The Chiari II malformation could represent a CNS anomaly variant."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Features microcephaly, postaxial polydactyly, and clubfoot. While neural tube defects are less common, they can occur in severe cases."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.2,
+      "explanation": "Classically presents with postaxial polydactyly and can have CNS anomalies, though neural tube defects are not typical features."
+    },
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.17,
+      "explanation": "Features postaxial polydactyly and CNS malformations, typically hypothalamic hamartoma. The neural tube defects seen here are atypical but possible."
+    },
+    {
+      "disease_name": "Trisomy 13 (Patau syndrome)",
+      "disease_id": "OMIM:264480",
+      "score": 0.14,
+      "explanation": "Common features include microcephaly, postaxial polydactyly, and neural tube defects. Clubfoot can also occur. Chromosomal analysis would confirm."
+    }
+  ]
+}

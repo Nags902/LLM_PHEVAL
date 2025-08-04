@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
+      "score": 1.0,
+      "explanation": "Patient shares multiple key features with reference cases including thick eyebrows, long eyelashes, microcephaly, feeding difficulties, intellectual disability, sparse scalp hair, abnormal corpus callosum, umbilical hernia, and characteristic facial features (depressed nasal bridge, long philtrum, thin upper lip). The phenotypic overlap is substantial."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Classic Coffin-Siris syndrome presents with similar features including intellectual disability, microcephaly, thick eyebrows, feeding difficulties, and characteristic facial features. Different genetic subtypes can have overlapping phenotypes."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Shares features including short stature, thick eyebrows, long eyelashes, microcephaly, intellectual disability, feeding difficulties, and thin upper lip. However, lacks some characteristic features like limb abnormalities."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, feeding difficulties, and some facial features including long eyelashes. However, lacks the characteristic elongated palpebral fissures and has different facial gestalt."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.2,
+      "explanation": "Features thick eyebrows, long eyelashes, intellectual disability, short stature, and feeding difficulties. However, typically presents with more prominent hypertrichosis and different facial features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Can present with intellectual disability, microcephaly, feeding difficulties, and some overlapping facial features. However, lacks characteristic broad thumbs and great toes."
+    }
+  ]
+}

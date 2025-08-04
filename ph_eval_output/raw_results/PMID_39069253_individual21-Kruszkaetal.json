@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing nearly identical phenotype including global developmental delay, delayed speech, autistic behavior, and highly arched eyebrows. The facial dysmorphisms including broad philtrum align well with this diagnosis."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "Presents with global developmental delay, absent/delayed speech, autistic behavior, and hearing problems. The prominent metopic ridge and facial features could fit, though not all classic features are present."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.33,
+      "explanation": "Features highly arched eyebrows, developmental delay, and autistic behavior. The broad philtrum and other facial dysmorphisms are consistent, though hearing impairment is less common."
+    },
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, severely delayed speech, autistic features, and distinctive facial features including arched eyebrows. Hearing loss can occur but is not typical."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Features developmental delay, speech delay, hearing impairment, and distinctive facial features. The prominent metopic ridge could represent mild craniosynostosis which can occur in this syndrome."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.17,
+      "explanation": "Can present with developmental delays, speech delays, hearing problems, and autistic behaviors. Facial features can be variable, though the described features are less typical."
+    }
+  ]
+}

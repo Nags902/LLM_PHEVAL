@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "Patient presents with classic Fanconi anemia features including pancytopenia, short stature, cafe-au-lait spots, radial ray defects (absent thumb and radius), and positive chromosomal breakage test. Group A is the most common complementation group (60-70% of cases)."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group C",
+      "disease_id": "OMIM:227645",
+      "score": 0.5,
+      "explanation": "All reference cases were diagnosed with FA group C. Patient shares identical phenotypic features including hematologic abnormalities, skeletal defects, and chromosomal instability. Group C accounts for ~10% of FA cases."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group D2",
+      "disease_id": "OMIM:227646",
+      "score": 0.33,
+      "explanation": "Presents with typical FA features. Group D2 is less common but shows similar clinical manifestations including bone marrow failure, radial ray anomalies, and chromosomal fragility."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group G",
+      "disease_id": "OMIM:614082",
+      "score": 0.25,
+      "explanation": "Compatible with FA diagnosis based on hematologic findings and congenital anomalies. Group G is rare but presents with similar phenotype including skeletal abnormalities and pancytopenia."
+    },
+    {
+      "disease_name": "TAR syndrome (Thrombocytopenia-absent radius syndrome)",
+      "disease_id": "OMIM:274000",
+      "score": 0.2,
+      "explanation": "Features absent radius and thrombocytopenia, but TAR syndrome typically spares the thumb. The presence of absent thumb, pancytopenia, and positive chromosomal breakage test makes FA more likely."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.17,
+      "explanation": "Can present with anemia, short stature, and thumb anomalies. However, typically shows isolated red cell aplasia rather than pancytopenia, and lacks chromosomal fragility seen in this patient."
+    }
+  ]
+}

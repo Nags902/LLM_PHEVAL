@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
+      "score": 1.0,
+      "explanation": "Patient presents with key diagnostic triad of EDMD: joint contractures (Achilles tendon), muscle weakness (proximal upper limb, scapuloperoneal pattern), and cardiac involvement (arrhythmia). Spinal rigidity and stiff neck are characteristic. All three reference cases with this diagnosis share these core features."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "Similar clinical presentation to EDMD2 with contractures, muscle weakness, and cardiac involvement. Less likely given patient appears to be female (gender: 2), and X-linked form typically affects males, though female carriers can occasionally be symptomatic."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 3, autosomal recessive",
+      "disease_id": "OMIM:616516",
+      "score": 0.33,
+      "explanation": "Shares core features of EDMD including contractures, muscle weakness, and cardiac involvement. Less common than autosomal dominant form but possible given the clinical presentation."
+    },
+    {
+      "disease_name": "LMNA-related congenital muscular dystrophy",
+      "disease_id": "OMIM:613205",
+      "score": 0.25,
+      "explanation": "LMNA mutations can cause a spectrum including EDMD2. This severe form presents early but some cases have later onset. Shares spinal rigidity, contractures, and muscle weakness pattern."
+    },
+    {
+      "disease_name": "Bethlem myopathy 1",
+      "disease_id": "OMIM:158810",
+      "score": 0.2,
+      "explanation": "Collagen VI-related disorder with contractures and muscle weakness. However, typically has more prominent distal contractures and less severe cardiac involvement than seen in this patient."
+    },
+    {
+      "disease_name": "Rigid spine muscular dystrophy 1",
+      "disease_id": "OMIM:602771",
+      "score": 0.17,
+      "explanation": "Features prominent spinal rigidity as seen in patient, along with muscle weakness. Cardiac involvement is less common but can occur. Pattern of weakness may differ from classic EDMD."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Ia",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypic features (obesity, short metacarpal, intellectual disability) were diagnosed with this condition. The patient presents with the classic triad of Albright hereditary osteodystrophy."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Ib",
+      "disease_id": "OMIM:603233",
+      "score": 0.5,
+      "explanation": "Related form of pseudohypoparathyroidism that can present with similar features, though typically has less prominent skeletal abnormalities than type Ia."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.33,
+      "explanation": "Presents with Albright hereditary osteodystrophy features (obesity, short metacarpals, intellectual disability) but without hormone resistance, making it a differential diagnosis."
+    },
+    {
+      "disease_name": "Acrodysostosis 1",
+      "disease_id": "OMIM:101800",
+      "score": 0.25,
+      "explanation": "Can present with short metacarpals, intellectual disability, and obesity, sharing significant phenotypic overlap with pseudohypoparathyroidism."
+    },
+    {
+      "disease_name": "Acrodysostosis 2",
+      "disease_id": "OMIM:614613",
+      "score": 0.2,
+      "explanation": "Similar to acrodysostosis 1, presents with brachydactyly, intellectual disability, and can include obesity as a feature."
+    },
+    {
+      "disease_name": "Brachydactyly-mental retardation syndrome",
+      "disease_id": "OMIM:600430",
+      "score": 0.17,
+      "explanation": "Characterized by brachydactyly (including short metacarpals), intellectual disability, and variable obesity, though less commonly associated with obesity than pseudohypoparathyroidism."
+    }
+  ]
+}

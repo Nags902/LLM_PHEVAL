@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Perfect match with all four core phenotypic features present in the patient. All three reference cases with identical features were diagnosed with Holt-Oram syndrome. This autosomal dominant disorder classically presents with upper limb malformations (radius hypoplasia, carpal abnormalities) and cardiac defects (ASD, conduction abnormalities)."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome presents with radial hypoplasia and can have cardiac defects including ASD. However, it typically spares the thumb and has thrombocytopenia as a key feature, which is not mentioned in this case. The carpal abnormalities and cardiac conduction defects make Holt-Oram more likely."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.33,
+      "explanation": "VACTERL can include radial ray defects and cardiac anomalies including ASD. However, it typically presents with multiple other features (vertebral, anal, tracheoesophageal, renal anomalies) not mentioned here. The specific combination of features is more consistent with Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with radial ray defects and cardiac anomalies. However, it typically includes other features like growth retardation, microcephaly, and bone marrow failure. The isolated upper limb and cardiac findings are more typical of Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Okihiro syndrome (Duane-radial ray syndrome)",
+      "disease_id": "OMIM:607323",
+      "score": 0.2,
+      "explanation": "This syndrome includes radial ray defects and can have cardiac anomalies. However, the hallmark feature is Duane anomaly (eye movement disorder), which is not mentioned. The cardiac conduction abnormalities are more characteristic of Holt-Oram syndrome."
+    }
+  ]
+}

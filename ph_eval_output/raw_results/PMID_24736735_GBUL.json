@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 1.0,
+      "explanation": "Presents with hypothalamic hamartoma (pathognomonic), postaxial polydactyly, Y-shaped metacarpals, anal atresia, nail dysplasia, and intellectual disability - matching almost all patient features."
+    },
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "Features postaxial polydactyly, intellectual disability, and growth delay. However, typically presents with preaxial polydactyly and macrocephaly which are absent in this patient."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.33,
+      "explanation": "Includes postaxial polydactyly, intellectual disability, and growth delay. Missing typical features like retinal dystrophy and obesity, but early presentation may not show all features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Can present with postaxial polydactyly, growth delay, intellectual disability, and Y-shaped metacarpals. Anal anomalies are possible but less common."
+    },
+    {
+      "disease_name": "McKusick-Kaufman syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.2,
+      "explanation": "Features postaxial polydactyly and can have anal anomalies. However, typically presents with hydrometrocolpos in females and lacks the skeletal anomalies seen here."
+    },
+    {
+      "disease_name": "Ellis-van Creveld syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.17,
+      "explanation": "Includes postaxial polydactyly and nail dysplasia. However, typically presents with short limbs and cardiac defects which are not mentioned in this patient."
+    }
+  ]
+}

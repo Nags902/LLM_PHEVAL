@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 1.0,
+      "explanation": "Perfect match with Case 2 showing all four patient phenotypes (nystagmus, reduced visual acuity, peripheral retinal atrophy, and Bull's eye maculopathy). LCA6 is caused by RPGRIP1 mutations and commonly presents with these exact features."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 13",
+      "disease_id": "OMIM:608194",
+      "score": 0.5,
+      "explanation": "Cases 1 and 3 show nystagmus and reduced visual acuity, but lack the specific peripheral retinal atrophy and Bull's eye maculopathy seen in our patient. CRD13 typically presents with more central retinal involvement."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.33,
+      "explanation": "Classic presentation includes Bull's eye maculopathy and reduced visual acuity. While nystagmus is less common in Stargardt, it can occur in early-onset cases. Peripheral retinal atrophy is atypical but possible in advanced cases."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.25,
+      "explanation": "LCA1 (GUCY2D mutations) can present with nystagmus and severely reduced visual acuity from birth. While Bull's eye maculopathy is less typical, the overall retinal degeneration pattern could fit."
+    },
+    {
+      "disease_name": "Cone dystrophy 3",
+      "disease_id": "OMIM:602093",
+      "score": 0.2,
+      "explanation": "GUCA1A mutations cause progressive cone dysfunction with Bull's eye maculopathy and reduced visual acuity. Nystagmus can occur in severe early-onset cases, though peripheral involvement is less common."
+    }
+  ]
+}

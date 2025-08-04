@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Branchiooculofacial syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 1.0,
+      "explanation": "Patient shares multiple key features with all three reference cases including iris coloboma, retinal coloboma, microphthalmia, nasolacrimal duct obstruction, and conductive hearing impairment. The median pseudocleft lip is a variant of the cleft lip seen in reference cases. Aplasia cutis congenita is a known feature of BOFS."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "Shares colobomas (iris and retinal), hearing impairment, and can have facial anomalies. However, lacks typical CHARGE features like choanal atresia, heart defects, and growth retardation seen in the syndrome."
+    },
+    {
+      "disease_name": "Oculoauriculovertebral spectrum (Goldenhar syndrome)",
+      "disease_id": "OMIM:164210",
+      "score": 0.33,
+      "explanation": "Can present with ocular anomalies including microphthalmia and colobomas, hearing impairment, and facial clefts. However, typically has more prominent ear anomalies and vertebral defects not mentioned in this case."
+    },
+    {
+      "disease_name": "TFAP2A-related disorders",
+      "disease_id": "OMIM:189800",
+      "score": 0.25,
+      "explanation": "TFAP2A mutations cause branchiooculofacial syndrome and related phenotypes. The combination of ocular, facial, and cutaneous features fits this spectrum, though this would be the same as BOFS listed first."
+    },
+    {
+      "disease_name": "Treacher Collins syndrome",
+      "disease_id": "OMIM:154500",
+      "score": 0.2,
+      "explanation": "Can have conductive hearing loss and facial anomalies, but typically lacks the severe ocular involvement (colobomas, microphthalmia) seen in this patient. The pattern doesn't fit classic TCS."
+    }
+  ]
+}

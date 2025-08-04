@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Most likely diagnosis given that freckling (especially axillary/inguinal) is a major diagnostic criterion for NF1, and all reference cases with freckling were diagnosed with NF1. Patient's age is consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "NF1-like syndrome caused by SPRED1 mutations that can present with freckling and cafe-au-lait spots but without neurofibromas. Should be considered as differential diagnosis."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.33,
+      "explanation": "Can present with cafe-au-lait spots and hyperpigmentation, though freckling is less typical. The spots in MAS typically have irregular borders unlike NF1."
+    },
+    {
+      "disease_name": "Carney complex, type 1",
+      "disease_id": "OMIM:160980",
+      "score": 0.25,
+      "explanation": "Can present with spotty skin pigmentation and freckling, particularly in sun-exposed areas. However, other features like myxomas are usually present."
+    },
+    {
+      "disease_name": "Peutz-Jeghers syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.2,
+      "explanation": "Characterized by mucocutaneous pigmentation that can resemble freckling, particularly around lips and oral mucosa. Less likely given typical distribution differs from axillary/inguinal freckling."
+    }
+  ]
+}

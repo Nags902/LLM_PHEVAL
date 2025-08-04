@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing aniridia, cerebellar atrophy, ataxia, hypotonia, delayed motor milestones, nystagmus, and speech difficulties. All three reference cases with this diagnosis share the unique combination of aniridia with cerebellar features."
+    },
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 0.5,
+      "explanation": "Classic triad of aniridia, cerebellar ataxia, and intellectual disability. Features hypoplasia of iris, cerebellar atrophy, hypotonia, and delayed motor development. The presentation closely matches the patient's phenotype."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.33,
+      "explanation": "Features aniridia as a cardinal sign, but typically includes Wilms tumor, genitourinary anomalies, and intellectual disability. The cerebellar features and ataxia are less typical, making it less likely than the above conditions."
+    },
+    {
+      "disease_name": "Aniridia 1",
+      "disease_id": "OMIM:106210",
+      "score": 0.25,
+      "explanation": "Isolated aniridia caused by PAX6 mutations. While it explains the aniridia and iris hypoplasia, it doesn't typically present with cerebellar atrophy, ataxia, or the extensive neurological features seen in this patient."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.2,
+      "explanation": "Features cerebellar atrophy, ataxia, and can have visual problems, but typically presents with retinal degeneration rather than aniridia. The age of onset can be variable but aniridia is not a typical feature."
+    }
+  ]
+}

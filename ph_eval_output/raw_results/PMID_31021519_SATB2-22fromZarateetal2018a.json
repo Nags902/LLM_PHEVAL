@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "Patient presents with 7/7 core features seen in all reference Glass syndrome cases: feeding difficulties in infancy, abnormality of dentition, intellectual disability, global developmental delay, growth delay, delayed ability to walk, and reduced bone mineral density. The phenotypic match is nearly complete with the reference cases."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "X-linked disorder affecting males that presents with intellectual disability, growth delay, developmental delays, dental abnormalities, and reduced bone density. However, lacks the typical facial dysmorphism and skeletal deformities not mentioned in this patient."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, feeding difficulties, growth delay, dental abnormalities, and developmental delays. However, lacks the characteristic facial features and other systemic involvement typically seen in Kabuki syndrome."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, growth delay, delayed bone age (which could relate to reduced bone mineral density), and dental abnormalities. However, lacks the typical triangular face and delayed speech which is usually more prominent."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Can present with feeding difficulties, dental abnormalities, intellectual disability, and developmental delays. However, typically has hypercalcemia rather than reduced bone density, and lacks the characteristic cardiovascular and facial features."
+    }
+  ]
+}

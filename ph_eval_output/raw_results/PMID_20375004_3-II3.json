@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff skin syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "Perfect match with all patient's phenotypic features and all three reference cases diagnosed with this condition. The patient presents with the cardinal features: stiff skin, multiple joint contractures (knee, elbow, camptodactyly), limited shoulder flexion, and myopia."
+    },
+    {
+      "disease_name": "Beals syndrome (Congenital contractural arachnodactyly)",
+      "disease_id": "OMIM:121050",
+      "score": 0.5,
+      "explanation": "Shares multiple features including joint contractures (elbow, knee), camptodactyly, and myopia. However, lacks the characteristic arachnodactyly and marfanoid habitus typically seen in this condition."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.33,
+      "explanation": "Presents with some overlapping features like myopia and joint contractures. However, lacks major cardiovascular manifestations (aortic aneurysm) and skeletal features (tall stature, arachnodactyly) seen in the reference cases."
+    },
+    {
+      "disease_name": "Freeman-Sheldon syndrome",
+      "disease_id": "OMIM:193700",
+      "score": 0.25,
+      "explanation": "Features camptodactyly and joint contractures which overlap with patient presentation. However, lacks the characteristic facial features and whistling face appearance typical of this syndrome."
+    },
+    {
+      "disease_name": "Arthrogryposis multiplex congenita type 2A",
+      "disease_id": "OMIM:617146",
+      "score": 0.2,
+      "explanation": "Shares multiple joint contractures including elbow, knee, and camptodactyly. However, stiff skin is not a typical feature of arthrogryposis, and the pattern doesn't fully match."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne muscular dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "Classic presentation in 5-year-old male with proximal muscle weakness, calf pseudohypertrophy, Gowers sign, highly elevated CK, motor delay, and respiratory insufficiency. Age and gender strongly support DMD over Becker MD."
+    },
+    {
+      "disease_name": "Becker muscular dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Similar dystrophinopathy presentation but typically milder and later onset than observed. The early age (5 years) with significant weakness and respiratory involvement suggests DMD over BMD."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:619045",
+      "score": 0.33,
+      "explanation": "Reference cases show very similar phenotype including all major features. However, LGMD29 typically includes additional features like developmental cataract and microcephaly not present in this patient."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 5",
+      "disease_id": "OMIM:253700",
+      "score": 0.25,
+      "explanation": "Gamma-sarcoglycanopathy can present similarly with early onset, high CK, calf hypertrophy, and respiratory involvement, but typically has more prominent distal weakness."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 3",
+      "disease_id": "OMIM:608099",
+      "score": 0.2,
+      "explanation": "Alpha-sarcoglycanopathy presents with similar features but usually has more severe progression and earlier loss of ambulation than currently observed."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 4",
+      "disease_id": "OMIM:604286",
+      "score": 0.17,
+      "explanation": "Beta-sarcoglycanopathy can present similarly but typically has more cardiac involvement at this age, which is not reported in this patient."
+    },
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 2",
+      "disease_id": "OMIM:253601",
+      "score": 0.14,
+      "explanation": "Dysferlinopathy typically presents later in adolescence or adulthood, making it less likely given the early childhood onset in this 5-year-old patient."
+    }
+  ]
+}

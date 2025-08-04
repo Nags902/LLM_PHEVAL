@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, macrocephaly, obesity, and high forehead. This overgrowth syndrome typically presents in childhood with these exact features."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Another overgrowth syndrome with macrocephaly, tall stature, and characteristic facial features including high forehead. Often associated with accelerated growth and obesity."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:605309",
+      "score": 0.33,
+      "explanation": "Similar to reference cases 1 and 2, though patient lacks reported neurodevelopmental features. Macrocephaly and tall stature are consistent."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.25,
+      "explanation": "Overgrowth syndrome that can present with macrocephaly and tall stature, though typically has additional features like macroglossia not reported here."
+    },
+    {
+      "disease_name": "Malan syndrome",
+      "disease_id": "OMIM:614753",
+      "score": 0.2,
+      "explanation": "Overgrowth syndrome with macrocephaly, tall stature, and high forehead. Often includes intellectual disability which is not reported in this case."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.17,
+      "explanation": "X-linked overgrowth syndrome that can present with macrocephaly, tall stature, and obesity, though typically has more severe features."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.14,
+      "explanation": "Can present with macrocephaly and overgrowth, though typically includes additional features like skin findings not reported here."
+    }
+  ]
+}

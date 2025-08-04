@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "SLOS presents with intellectual disability, postaxial polydactyly (both hands and feet), and increased susceptibility to infections due to immune dysfunction. The combination of severe intellectual disability with bilateral postaxial polydactyly and recurrent infections strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "BBS commonly presents with postaxial polydactyly, intellectual disability, and can have immune dysfunction leading to recurrent infections. Multiple subtypes exist (BBS1-BBS21), but the core features match well with this patient's presentation."
+    },
+    {
+      "disease_name": "Joubert syndrome 7",
+      "disease_id": "OMIM:611560",
+      "score": 0.33,
+      "explanation": "Joubert syndrome can present with intellectual disability and postaxial polydactyly. While recurrent infections are less typical, some subtypes have been associated with immunodeficiency. Multiple subtypes should be considered."
+    },
+    {
+      "disease_name": "Meckel syndrome 1",
+      "disease_id": "OMIM:249000",
+      "score": 0.25,
+      "explanation": "Meckel syndrome presents with postaxial polydactyly and severe developmental abnormalities. While typically lethal in infancy, milder variants exist. The intellectual disability and polydactyly fit, though recurrent infections are not a primary feature."
+    },
+    {
+      "disease_name": "Hydrolethalus syndrome 1",
+      "disease_id": "OMIM:236680",
+      "score": 0.2,
+      "explanation": "This syndrome includes postaxial polydactyly and severe developmental abnormalities. While usually lethal, the polydactyly pattern matches. Recurrent infections could be secondary to overall poor health status."
+    },
+    {
+      "disease_name": "Ellis-van Creveld syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.17,
+      "explanation": "EVC syndrome features postaxial polydactyly of hands and sometimes feet. Intellectual disability is less common but can occur. Immune deficiency with recurrent infections has been reported in some cases."
+    }
+  ]
+}

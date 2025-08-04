@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 1.0,
+      "explanation": "Classic presentation with ataxia, loss of ambulation, sensorimotor neuropathy, optic atrophy, cerebellar atrophy, and spastic paraparesis. Age of onset and progression pattern fits well."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.5,
+      "explanation": "Features progressive visual loss, optic atrophy, cerebellar atrophy, ataxia, and cognitive impairment. The combination of visual and cerebellar symptoms is characteristic."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.33,
+      "explanation": "Increased CSF lactate suggests mitochondrial dysfunction. Presents with optic atrophy, ataxia, cognitive impairment, and neuropathy which align with the patient's phenotype."
+    },
+    {
+      "disease_name": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay",
+      "disease_id": "OMIM:270550",
+      "score": 0.25,
+      "explanation": "Features spastic paraparesis, ataxia, nystagmus, sensorimotor neuropathy, and delayed walking. The combination of spasticity and ataxia is characteristic."
+    },
+    {
+      "disease_name": "Hereditary motor and sensory neuropathy type VI",
+      "disease_id": "OMIM:601152",
+      "score": 0.2,
+      "explanation": "Presents with sensorimotor neuropathy, optic atrophy, and spastic paraparesis. The optic atrophy with neuropathy combination is notable."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.17,
+      "explanation": "Adult-onset progressive ataxia with cerebellar atrophy, nystagmus, and cognitive impairment. Sensorimotor neuropathy can occur in advanced cases."
+    },
+    {
+      "disease_name": "Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation",
+      "disease_id": "OMIM:611105",
+      "score": 0.14,
+      "explanation": "Features increased CSF lactate, spastic paraparesis, ataxia, and cognitive impairment. Similar to reference cases with leukoencephalopathy."
+    }
+  ]
+}

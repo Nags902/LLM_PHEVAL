@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Arthrogryposis, distal, type 2A (Freeman-Sheldon syndrome)",
+      "disease_id": "OMIM:193700",
+      "score": 1.0,
+      "explanation": "Strong phenotypic overlap including camptodactyly, talipes equinovarus, cleft ala nasi, and depressed nasal bridge. Reference case 1 with identical diagnosis shares multiple key features with this patient."
+    },
+    {
+      "disease_name": "Fetal akinesia deformation sequence 1",
+      "disease_id": "OMIM:208150",
+      "score": 0.5,
+      "explanation": "Presents with multiple contractures including camptodactyly and talipes equinovarus, along with facial dysmorphisms. The combination of limb deformities and facial features fits this diagnosis."
+    },
+    {
+      "disease_name": "Popliteal pterygium syndrome",
+      "disease_id": "OMIM:119500",
+      "score": 0.33,
+      "explanation": "Can present with cleft features, limb anomalies including talipes, and facial dysmorphisms. The cleft ala nasi and limb deformities are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Escobar syndrome (Multiple pterygium syndrome)",
+      "disease_id": "OMIM:265000",
+      "score": 0.25,
+      "explanation": "Features short neck, facial dysmorphisms, and limb contractures including camptodactyly and talipes. The constellation of features matches well with this patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Presents with characteristic facial features including depressed nasal bridge, long philtrum, and limb anomalies. The facial gestalt and limb involvement are suggestive."
+    },
+    {
+      "disease_name": "Neu-Laxova syndrome 1",
+      "disease_id": "OMIM:256520",
+      "score": 0.17,
+      "explanation": "Severe disorder with facial dysmorphisms, limb contractures, and growth restriction. The facial features and contractures could fit, though typically more severe."
+    },
+    {
+      "disease_name": "Arthrogryposis, distal, type 1A",
+      "disease_id": "OMIM:108120",
+      "score": 0.14,
+      "explanation": "Primarily affects distal joints with camptodactyly and talipes, but typically has fewer facial features than seen in this patient."
+    }
+  ]
+}

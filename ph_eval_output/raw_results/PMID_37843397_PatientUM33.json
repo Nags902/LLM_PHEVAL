@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 2",
+      "disease_id": "OMIM:151660",
+      "score": 1.0,
+      "explanation": "Perfect match with all three reference cases. Patient shows all core features: lipodystrophy affecting limbs and trunk, type II diabetes, pancreatitis, hypertriglyceridemia, hypercholesterolemia, and hepatic steatosis. Age of presentation (21 years) is typical for FPLD2."
+    },
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 3",
+      "disease_id": "OMIM:604367",
+      "score": 0.5,
+      "explanation": "Similar phenotype to FPLD2 with partial lipodystrophy, metabolic complications including diabetes and dyslipidemia. However, FPLD3 typically has more prominent facial sparing which is not specified in this patient."
+    },
+    {
+      "disease_name": "Lipodystrophy, familial partial, type 4",
+      "disease_id": "OMIM:613877",
+      "score": 0.33,
+      "explanation": "Shares features of partial lipodystrophy and metabolic syndrome, but typically presents with additional muscular symptoms and myopathy which are not reported in this patient."
+    },
+    {
+      "disease_name": "Lipodystrophy, congenital generalized, type 1",
+      "disease_id": "OMIM:608594",
+      "score": 0.25,
+      "explanation": "While it shares metabolic features, CGL1 typically presents from birth with more severe, generalized lipodystrophy rather than the partial pattern seen in this patient."
+    },
+    {
+      "disease_name": "Lipodystrophy, congenital generalized, type 2",
+      "disease_id": "OMIM:269700",
+      "score": 0.2,
+      "explanation": "Similar to CGL1, this condition presents with congenital onset and generalized lipodystrophy, making it less likely given the partial pattern and likely later onset in this patient."
+    },
+    {
+      "disease_name": "Acquired partial lipodystrophy",
+      "disease_id": "OMIM:608709",
+      "score": 0.17,
+      "explanation": "Can present with similar metabolic complications but typically shows a cephalocaudal pattern of fat loss and is often associated with autoimmune features or complement abnormalities not mentioned here."
+    }
+  ]
+}

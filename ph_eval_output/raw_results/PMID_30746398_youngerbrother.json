@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Parkinson disease 15, autosomal recessive",
+      "disease_id": "OMIM:260300",
+      "score": 1.0,
+      "explanation": "Young-onset parkinsonism with pyramidal signs (Babinski, hyperreflexia) closely matches reference cases 2 and 3. The combination of parkinsonism, bradykinesia, rigidity with upper motor neuron signs is characteristic of PARK15."
+    },
+    {
+      "disease_name": "Spastic paraplegia 78, autosomal recessive",
+      "disease_id": "OMIM:617225",
+      "score": 0.5,
+      "explanation": "Shows similar pyramidal signs and parkinsonism as reference case 1, with cerebellar atrophy. However, lacks many features present in the reference case like dementia, dystonia, and spastic paraplegia."
+    },
+    {
+      "disease_name": "Kufor-Rakeb syndrome",
+      "disease_id": "OMIM:606693",
+      "score": 0.33,
+      "explanation": "Early-onset parkinsonism with pyramidal signs is characteristic. This autosomal recessive parkinsonian syndrome presents with rigidity, bradykinesia, and upper motor neuron signs in young adults."
+    },
+    {
+      "disease_name": "Perry syndrome",
+      "disease_id": "OMIM:168605",
+      "score": 0.25,
+      "explanation": "Can present with parkinsonism and pyramidal signs, though typically has later onset and includes respiratory symptoms and psychiatric features not mentioned in this case."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.2,
+      "explanation": "Can present with parkinsonism, cerebellar atrophy, and pyramidal signs. The positive Romberg sign suggests proprioceptive dysfunction which can occur in SCA2."
+    },
+    {
+      "disease_name": "Multiple system atrophy",
+      "disease_id": "OMIM:146500",
+      "score": 0.17,
+      "explanation": "Presents with parkinsonism, cerebellar atrophy, and pyramidal signs, but typically has later onset than 27 years and includes autonomic dysfunction not mentioned here."
+    }
+  ]
+}

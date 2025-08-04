@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "COL4A1-related brain small vessel disease with hemorrhage",
+      "disease_id": "OMIM:175780",
+      "score": 1.0,
+      "explanation": "Strong match with cerebral hemorrhage, porencephalic cysts, hydrocephalus, dilated ventricles, and white matter abnormalities. COL4A1 mutations cause basement membrane defects leading to intracerebral hemorrhages and porencephaly."
+    },
+    {
+      "disease_name": "COL4A2-related brain small vessel disease",
+      "disease_id": "OMIM:614519",
+      "score": 0.5,
+      "explanation": "Similar to COL4A1, presents with intracerebral hemorrhage, porencephalic cysts, and white matter changes. COL4A2 mutations affect the same collagen IV network in blood vessels."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.33,
+      "explanation": "Features basal ganglia calcification, white matter abnormalities, and cerebral atrophy. However, hemorrhage and porencephalic cysts are less typical."
+    },
+    {
+      "disease_name": "Pseudo-TORCH syndrome 1",
+      "disease_id": "OMIM:251290",
+      "score": 0.25,
+      "explanation": "Presents with intracranial calcifications, hydrocephalus, and white matter abnormalities mimicking congenital infections. Hemorrhage is possible but less prominent."
+    },
+    {
+      "disease_name": "Primary familial brain calcification 1 (Fahr disease)",
+      "disease_id": "OMIM:213600",
+      "score": 0.2,
+      "explanation": "Characterized by basal ganglia calcification and can have associated neurological symptoms. However, lacks the hemorrhagic and cystic features seen in this patient."
+    },
+    {
+      "disease_name": "Cockayne syndrome A",
+      "disease_id": "OMIM:216400",
+      "score": 0.17,
+      "explanation": "Features cerebral calcifications, white matter abnormalities, and brain atrophy. Porencephalic cysts and hemorrhage are not typical features."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia",
+      "disease_id": "OMIM:619330",
+      "score": 1.0,
+      "explanation": "Closely matches patient's phenotype with combination of spastic paraplegia (upper and lower limb spasticity), cerebellar features (ataxia, dysmetria, cerebellar vermis atrophy), and neurological symptoms (dysarthria, gait imbalance). Reference case 1 shows similar pattern."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 15",
+      "disease_id": "OMIM:606658",
+      "score": 0.5,
+      "explanation": "Good match with cerebellar vermis atrophy, dysarthria, and ataxic features. However, lacks the prominent spasticity seen in this patient. Reference cases 2 and 3 show primarily cerebellar features."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.33,
+      "explanation": "Can present with cerebellar ataxia, dysarthria, and spasticity. The combination of cerebellar and pyramidal signs fits, though typically has earlier onset and retinal involvement not mentioned here."
+    },
+    {
+      "disease_name": "Hereditary spastic paraplegia 7",
+      "disease_id": "OMIM:607259",
+      "score": 0.25,
+      "explanation": "SPG7 can present with spastic paraplegia and cerebellar ataxia. The cerebellar atrophy and combined upper motor neuron signs are characteristic, though onset is typically earlier."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.2,
+      "explanation": "Can present with cerebellar ataxia, dysarthria, and late-onset spasticity. The cerebellar vermis atrophy and mixed cerebellar-pyramidal syndrome are compatible, though typically has slower progression."
+    },
+    {
+      "disease_name": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay",
+      "disease_id": "OMIM:270550",
+      "score": 0.17,
+      "explanation": "Features spastic ataxia with cerebellar atrophy, but typically has early childhood onset and additional features like peripheral neuropathy not mentioned in this patient."
+    }
+  ]
+}

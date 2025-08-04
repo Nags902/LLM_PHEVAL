@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Camurati-Engelmann disease",
+      "disease_id": "OMIM:131300",
+      "score": 1.0,
+      "explanation": "Best match with cortical thickening of long bones, narrowing of medullary canal, bone pain, waddling gait, elevated alkaline phosphatase, and hyperostosis. Classic presentation of progressive diaphyseal dysplasia."
+    },
+    {
+      "disease_name": "Van Buchem disease",
+      "disease_id": "OMIM:239100",
+      "score": 0.5,
+      "explanation": "Matches hyperostosis, cortical thickening, and elevated alkaline phosphatase. However, lacks typical cranial nerve involvement and mandibular overgrowth seen in Van Buchem."
+    },
+    {
+      "disease_name": "Sclerosteosis 1",
+      "disease_id": "OMIM:269500",
+      "score": 0.33,
+      "explanation": "Features hyperostosis and cortical thickening, but typically presents with more severe cranial involvement, syndactyly, and tall stature which are not mentioned."
+    },
+    {
+      "disease_name": "Hyperostosis corticalis generalisata",
+      "disease_id": "OMIM:144750",
+      "score": 0.25,
+      "explanation": "Matches cortical thickening and hyperostosis pattern, but typically has more prominent cranial involvement and lacks some of the systemic features like hypocalcemia."
+    },
+    {
+      "disease_name": "Craniometaphyseal dysplasia, autosomal dominant",
+      "disease_id": "OMIM:123000",
+      "score": 0.2,
+      "explanation": "Similar cases show this diagnosis, but patient lacks characteristic craniofacial features like macrocephaly, hypertelorism, and metaphyseal flaring."
+    },
+    {
+      "disease_name": "Paget disease of bone",
+      "disease_id": "OMIM:167250",
+      "score": 0.17,
+      "explanation": "Elevated alkaline phosphatase and bone pain are consistent, but age of onset is young for Paget's, and cortical thickening pattern is more diffuse than typical pagetic changes."
+    }
+  ]
+}

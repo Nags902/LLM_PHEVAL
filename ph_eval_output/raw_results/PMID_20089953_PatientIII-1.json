@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteogenesis imperfecta, type III",
+      "disease_id": "OMIM:259420",
+      "score": 1.0,
+      "explanation": "Most severe survivable form of OI with recurrent fractures, osteopenia, delayed motor development, and skeletal deformities. The narrow chest and flat occiput are consistent with severe OI phenotypes."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type IX",
+      "disease_id": "OMIM:259440",
+      "score": 0.5,
+      "explanation": "Reference case 1 shows identical features including recurrent fractures, osteopenia, delayed motor development, pes planus, diaphyseal undertubulation, and proptosis. This is a recessive form of OI."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type IV",
+      "disease_id": "OMIM:166220",
+      "score": 0.33,
+      "explanation": "Moderate form of OI with recurrent fractures, osteopenia, and variable skeletal deformities. Compatible with the patient's age and presentation without mention of severe short stature."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type XV",
+      "disease_id": "OMIM:615220",
+      "score": 0.25,
+      "explanation": "Reference case 2 shows similar bone fragility features. However, the patient lacks some characteristic features like blue sclerae and developmental delay mentioned in the reference."
+    },
+    {
+      "disease_name": "Osteogenesis imperfecta, type V",
+      "disease_id": "OMIM:610967",
+      "score": 0.2,
+      "explanation": "Characterized by recurrent fractures and osteopenia without blue sclerae. The diaphyseal undertubulation could be consistent, though hyperplastic callus formation is not mentioned."
+    },
+    {
+      "disease_name": "Cole-Carpenter syndrome 1",
+      "disease_id": "OMIM:112240",
+      "score": 0.17,
+      "explanation": "Features bone fragility with ocular proptosis, which matches the patient. However, typically includes craniosynostosis and hydrocephalus which are not mentioned."
+    },
+    {
+      "disease_name": "Bruck syndrome 1",
+      "disease_id": "OMIM:259450",
+      "score": 0.14,
+      "explanation": "Combines features of OI with congenital contractures. The recurrent fractures and osteopenia fit, but no mention of joint contractures in this patient."
+    }
+  ]
+}

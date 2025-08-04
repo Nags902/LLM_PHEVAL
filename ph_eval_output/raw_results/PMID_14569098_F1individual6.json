@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "Perfect match with all three reference cases showing identical phenotype (Stage 5 CKD + Gout). This disease is characterized by hyperuricemia, gout, and progressive kidney failure."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:174000",
+      "score": 0.5,
+      "explanation": "Another form of autosomal dominant tubulointerstitial kidney disease that can present with CKD and hyperuricemia/gout, though less commonly reported than type 1."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.33,
+      "explanation": "Same as ADTKD1, alternative name for the condition characterized by early hyperuricemia, gout, and progressive kidney disease leading to ESRD."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613092",
+      "score": 0.25,
+      "explanation": "Can present with progressive CKD but less commonly associated with gout compared to types 1 and 2."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease 2",
+      "disease_id": "OMIM:603860",
+      "score": 0.2,
+      "explanation": "Can cause progressive kidney failure and may have hyperuricemia, though gout is less characteristic than in ADTKD1."
+    },
+    {
+      "disease_name": "Chronic kidney disease due to polycystic kidney disease",
+      "disease_id": "OMIM:173900",
+      "score": 0.17,
+      "explanation": "Autosomal dominant polycystic kidney disease can lead to Stage 5 CKD, and secondary hyperuricemia from kidney dysfunction can cause gout."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 4",
+      "disease_id": "OMIM:616632",
+      "score": 0.14,
+      "explanation": "Another variant of ADTKD that can cause progressive CKD, though gout is not a primary feature."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 5",
+      "disease_id": "OMIM:617056",
+      "score": 0.125,
+      "explanation": "Recently described form of ADTKD with progressive kidney failure, but gout association is less established."
+    }
+  ]
+}

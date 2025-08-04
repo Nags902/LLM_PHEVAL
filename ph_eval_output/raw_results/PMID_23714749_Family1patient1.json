@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "Case 1 with identical diagnosis shares 4/5 of patient's phenotypes (global developmental delay, increased lactate, hypoglycemia, coagulation abnormality, hypotonia) and is in similar age group. This syndrome typically presents in infancy with hepatic and neurological symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)",
+      "disease_id": "OMIM:251880",
+      "score": 0.5,
+      "explanation": "Another hepatocerebral mitochondrial depletion syndrome that presents with similar features including hypoglycemia, lactic acidosis, developmental delay, and liver dysfunction with coagulation abnormalities in infancy."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A (Alpers type)",
+      "disease_id": "OMIM:203700",
+      "score": 0.33,
+      "explanation": "Presents with developmental delay, hypotonia, and elevated lactate. While liver involvement can occur, it's less prominent than in hepatocerebral types, making it less likely but still possible."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "Can present with lactic acidosis, hypotonia, and developmental delay. Hypoglycemia can occur but coagulation abnormalities are less typical, making it a lower probability."
+    },
+    {
+      "disease_name": "Glycogen storage disease type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.2,
+      "explanation": "Presents with hypoglycemia and lactic acidosis, can have mild developmental delays and bleeding tendency. However, hypotonia is not a primary feature, making it less likely."
+    },
+    {
+      "disease_name": "Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities",
+      "disease_id": "OMIM:617668",
+      "score": 0.17,
+      "explanation": "Cases 2 and 3 share hypotonia, developmental delay, and increased lactate with the patient. However, they lack hypoglycemia and coagulation abnormalities, and have additional severe brain abnormalities not reported in this patient."
+    }
+  ]
+}

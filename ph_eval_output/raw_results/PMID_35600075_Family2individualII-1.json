@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Genetic epilepsy with febrile seizures plus",
+      "disease_id": "OMIM:604233",
+      "score": 1.0,
+      "explanation": "Most likely diagnosis given the isolated presentation of febrile seizures. This condition presents with febrile seizures that may persist beyond age 6 and can occur in isolation without other neurological features."
+    },
+    {
+      "disease_name": "Seizures, benign familial infantile, 3",
+      "disease_id": "OMIM:607745",
+      "score": 0.5,
+      "explanation": "Similar to reference case 1, though that case had additional features. This condition can present with febrile seizures in the specified age range and may have variable expressivity."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.33,
+      "explanation": "Less likely as reference cases 2 and 3 show this typically presents with additional seizure types beyond febrile seizures, though incomplete penetrance is possible."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Should be considered as it often begins with febrile seizures in infancy, though typically progresses to include afebrile seizures and developmental delays not yet evident in this patient."
+    },
+    {
+      "disease_name": "Generalized epilepsy with febrile seizures plus, type 2",
+      "disease_id": "OMIM:604236",
+      "score": 0.2,
+      "explanation": "Another subtype of GEFS+ that presents with febrile seizures, though less common than type 1. May have similar presentation but different genetic basis."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with language delay and variable cognitive abnormalities",
+      "disease_id": "OMIM:619061",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar phenotypes were diagnosed with this condition. Patient shares key features including delayed speech/language, ADHD, autistic behavior, and seizures."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "Characterized by delayed speech, autistic behavior, seizures, and ADHD. The combination of neurodevelopmental features with seizures fits well."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.33,
+      "explanation": "Common cause of intellectual disability with autistic behavior, ADHD, seizures, and strabismus. Male patient fits X-linked pattern."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Features severe speech delay, seizures, strabismus, and behavioral issues. However, typical happy demeanor contrasts with reported depression."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Presents with severe speech delay, autistic behavior, seizures, and strabismus. Typically more severe than presented phenotype."
+    },
+    {
+      "disease_name": "ADNP syndrome",
+      "disease_id": "OMIM:615873",
+      "score": 0.17,
+      "explanation": "Features autistic behavior, speech delay, seizures, and strabismus. Often includes additional features not present in this patient."
+    },
+    {
+      "disease_name": "SYNGAP1-related intellectual disability",
+      "disease_id": "OMIM:612621",
+      "score": 0.14,
+      "explanation": "Characterized by speech delay, autistic behavior, seizures, and ADHD. Behavioral phenotype matches well with patient presentation."
+    }
+  ]
+}

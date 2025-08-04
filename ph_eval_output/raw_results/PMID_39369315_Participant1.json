@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ReNU syndrome",
+      "disease_id": "OMIM:620854",
+      "score": 1.0,
+      "explanation": "The patient shares numerous overlapping features with both reference cases of ReNU syndrome, including progressive microcephaly, global developmental delay, intellectual disability, absent speech, motor stereotypy, autistic behavior, hypoplasia of corpus callosum, distinctive facial features (tented upper lip vermilion, tented philtrum, triangular face, epicanthus, blepharophimosis, blue sclerae), and multiple other features matching the reference cases."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Characterized by intellectual disability, absent speech, motor delay, microcephaly, distinctive facial features including tented upper lip, and autistic behaviors. However, lacks some key features like intermittent hyperventilation and constipation that are typical."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Features absent speech, intellectual disability, motor delay, microcephaly, drooling, open mouth appearance, and autistic behaviors. However, lacks typical happy demeanor and seizures, and facial features don't match as closely."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, microcephaly, absent speech, distinctive facial features, and corpus callosum abnormalities. However, lacks typical Hirschsprung disease and the facial gestalt differs somewhat from this patient."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Shows progressive microcephaly, motor stereotypy, autistic behavior, and developmental regression. However, the patient appears to be male (gender 2), making classic Rett syndrome unlikely, and lacks characteristic hand-wringing movements."
+    }
+  ]
+}

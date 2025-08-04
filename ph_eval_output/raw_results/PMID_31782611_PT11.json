@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1A",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "Strong match with cerebellar hypoplasia, microcephaly, intellectual disability, motor delays, and sensorineural hearing loss. PCH1A specifically presents with these features plus strabismus."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "Presents with cerebellar hypoplasia, microcephaly, severe developmental delays, and motor impairment. Less common to have hearing loss but can occur."
+    },
+    {
+      "disease_name": "CASK-Related Disorders",
+      "disease_id": "OMIM:300749",
+      "score": 0.33,
+      "explanation": "Features cerebellar hypoplasia, microcephaly, intellectual disability, and strabismus. Particularly relevant given the gender (female) and constellation of symptoms."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 6",
+      "disease_id": "OMIM:611523",
+      "score": 0.25,
+      "explanation": "Characterized by cerebellar hypoplasia, severe developmental delay, microcephaly, and seizures. Hearing loss is less typical but possible."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia with Sensorineural Deafness",
+      "disease_id": "OMIM:271250",
+      "score": 0.2,
+      "explanation": "Features sensorineural hearing loss with cerebellar abnormalities and developmental delays, though typically presents with ataxia rather than hypoplasia."
+    },
+    {
+      "disease_name": "Joubert Syndrome Type 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.17,
+      "explanation": "Can present with cerebellar hypoplasia (vermis), developmental delays, strabismus, and intellectual disability. Hearing loss is uncommon but reported."
+    },
+    {
+      "disease_name": "Dandy-Walker Malformation",
+      "disease_id": "OMIM:220200",
+      "score": 0.14,
+      "explanation": "Features cerebellar hypoplasia/vermis aplasia, developmental delays, and can have associated strabismus. Hearing loss is less typical."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.125,
+      "explanation": "Presents with microcephaly, intellectual disability, developmental delays, and ophthalmologic abnormalities including strabismus. Hearing loss can occur."
+    }
+  ]
+}

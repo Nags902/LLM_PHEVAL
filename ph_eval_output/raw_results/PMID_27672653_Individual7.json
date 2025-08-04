@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaricaciduria, type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "Perfect match with all key features: elevated 3-hydroxyglutaric acid, glutaric aciduria, elevated glutarylcarnitine, macrocephaly, subdural hemorrhage, cerebral atrophy, and developmental regression. All three reference cases with identical diagnoses share these same features."
+    },
+    {
+      "disease_name": "Glutaricaciduria, type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Can present with glutaric aciduria and developmental issues, but typically has multiple acyl-CoA dehydrogenase deficiency with different metabolic profile, hypoglycemia, and metabolic acidosis not mentioned in this case."
+    },
+    {
+      "disease_name": "Glutaricaciduria, type III",
+      "disease_id": "OMIM:231690",
+      "score": 0.33,
+      "explanation": "Rare variant with glutaric aciduria but usually without neurological symptoms. The presence of cerebral atrophy, macrocephaly, and developmental regression makes this less likely than type I."
+    },
+    {
+      "disease_name": "3-Hydroxyglutaric aciduria",
+      "disease_id": "OMIM:231530",
+      "score": 0.25,
+      "explanation": "Features elevated 3-hydroxyglutaric acid but typically without the full constellation of symptoms seen here including subdural hemorrhage and macrocephaly characteristic of GA-I."
+    },
+    {
+      "disease_name": "Nonketotic hyperglycinemia",
+      "disease_id": "OMIM:605899",
+      "score": 0.2,
+      "explanation": "Can present with developmental regression and cerebral atrophy in early childhood, but lacks the specific organic aciduria pattern and macrocephaly seen in this patient."
+    }
+  ]
+}

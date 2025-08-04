@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 8",
+      "disease_id": "OMIM:620365",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical pulmonary features (UIP, pulmonary fibrosis, decreased DLCO, inspiratory crackles, clubbing) and short telomeres. Patient also has hepatic failure which is seen in Case 1."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 1",
+      "disease_id": "OMIM:614742",
+      "score": 0.5,
+      "explanation": "TERT-related telomeropathy presenting with classic pulmonary fibrosis features and short telomeres. Can present with liver disease and thrombocytopenia as seen in this patient."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 2",
+      "disease_id": "OMIM:614743",
+      "score": 0.33,
+      "explanation": "TERC-related telomeropathy with similar pulmonary manifestations and potential for hepatic involvement, though liver disease is less common than in TERT mutations."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 3",
+      "disease_id": "OMIM:616371",
+      "score": 0.25,
+      "explanation": "RTEL1-related telomeropathy can present with pulmonary fibrosis and hepatic complications including nodular regenerative hyperplasia, matching this patient's presentation."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.2,
+      "explanation": "TERC-related dyskeratosis congenita can present with pulmonary fibrosis, liver disease, and cytopenias in adults, though classic mucocutaneous features are not reported here."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 4",
+      "disease_id": "OMIM:616372",
+      "score": 0.17,
+      "explanation": "PARN-related telomeropathy with potential for pulmonary fibrosis and hepatic involvement, though the specific pattern of portal hypertension is less typical."
+    },
+    {
+      "disease_name": "Hoyeraal-Hreidarsson syndrome",
+      "disease_id": "OMIM:300240",
+      "score": 0.14,
+      "explanation": "Severe telomeropathy that can present with pulmonary fibrosis and liver disease, though typically has earlier onset and additional features not seen in this patient."
+    }
+  ]
+}

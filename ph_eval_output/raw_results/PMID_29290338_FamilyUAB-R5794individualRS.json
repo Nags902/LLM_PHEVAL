@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Patient presents with all classic diagnostic criteria for NF1: multiple cafe-au-lait spots, axillary and inguinal freckling, Lisch nodules, and plexiform neurofibroma. This matches perfectly with all three reference cases."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 3",
+      "disease_id": "OMIM:162260",
+      "score": 0.5,
+      "explanation": "A rare variant of neurofibromatosis that can present with cafe-au-lait spots and neurofibromas, but typically has fewer cutaneous manifestations and no Lisch nodules, making it less likely than NF1."
+    },
+    {
+      "disease_name": "Watson syndrome",
+      "disease_id": "OMIM:193520",
+      "score": 0.33,
+      "explanation": "An allelic variant of NF1 that presents with cafe-au-lait spots and axillary freckling, but typically includes pulmonary stenosis and short stature, which are not reported in this patient."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.25,
+      "explanation": "Presents with cafe-au-lait spots and freckling similar to NF1, but lacks neurofibromas and Lisch nodules, making it inconsistent with this patient's presentation."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.2,
+      "explanation": "Can present with cafe-au-lait spots, but these typically have irregular borders and are associated with fibrous dysplasia and endocrine abnormalities, not the NF1-specific features seen here."
+    }
+  ]
+}

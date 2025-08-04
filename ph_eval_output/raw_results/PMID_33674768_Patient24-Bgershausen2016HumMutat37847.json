@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Russell-Silver Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 1.0,
+      "explanation": "Strong match with intrauterine growth retardation, feeding difficulties, prominent fingertip pads, clinodactyly, and facial abnormalities. Neonatal hypoglycemia is a classic feature of RSS."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "Matches intellectual disability, prominent fingertip pads, clinodactyly, narrow palate, and abnormal facial shape. IUGR and feeding difficulties are also consistent."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.333,
+      "explanation": "Similar phenotype to RTS1 with intellectual disability, prominent fingertip pads, clinodactyly, and facial abnormalities, but caused by EP300 mutations."
+    },
+    {
+      "disease_name": "3-M Syndrome 1",
+      "disease_id": "OMIM:273750",
+      "score": 0.25,
+      "explanation": "Characterized by severe IUGR, feeding difficulties, and facial dysmorphism. Horseshoe kidney can occur, though intellectual disability is less common."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Features IUGR, intellectual disability, narrow palate, and distinctive facial features. Feeding difficulties in infancy are common."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.167,
+      "explanation": "Includes IUGR, intellectual disability, feeding difficulties, clinodactyly, and facial dysmorphism. Horseshoe kidney can occur as a renal anomaly."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.143,
+      "explanation": "Features intellectual disability, feeding difficulties, prominent fingertip pads, and renal anomalies including horseshoe kidney. Hypoglycemia can occur."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.125,
+      "explanation": "X-linked form with similar features to Kabuki Syndrome 1, including intellectual disability, feeding issues, and renal anomalies."
+    }
+  ]
+}

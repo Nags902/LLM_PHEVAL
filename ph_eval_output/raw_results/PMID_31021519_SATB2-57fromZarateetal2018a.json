@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glass syndrome",
+      "disease_id": "OMIM:612313",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar phenotypes were diagnosed with Glass syndrome. The patient shares key features including abnormality of dentition, delayed speech and language development, global developmental delay, and delayed ability to walk, making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Characterized by developmental delay, speech delay, dental abnormalities, and motor delays. The phenotypic overlap is significant, though less specific than Glass syndrome based on the reference cases."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Features severe speech impairment, global developmental delay, and delayed motor milestones. Dental problems can occur, though are less prominent. The absence of typical features like seizures makes it less likely."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Presents with developmental delay, speech delay, and dental anomalies. The pattern matches but lacks some distinctive features typically seen in Kabuki syndrome."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Characterized by severe intellectual disability, absent speech, motor delays, and can have dental abnormalities. The severity profile may be more pronounced than observed in this patient."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, delayed motor development, speech delay, and can include dental anomalies. However, typical facial features and other manifestations are not mentioned."
+    }
+  ]
+}

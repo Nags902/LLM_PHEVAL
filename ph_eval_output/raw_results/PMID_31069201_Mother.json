@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency, common variable, 13",
+      "disease_id": "OMIM:616576",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical immunological profile: decreased CD4:CD8 ratio, B lymphocytopenia, decreased memory B cells, low IgA and IgM. All three reference cases had this diagnosis with similar presentations."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 1",
+      "disease_id": "OMIM:607594",
+      "score": 0.5,
+      "explanation": "Another CVID subtype that presents with B cell defects, hypogammaglobulinemia, and can have associated thrombocytopenia. The immunological profile matches but specific genetic variant differs."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 8",
+      "disease_id": "OMIM:614700",
+      "score": 0.33,
+      "explanation": "CVID subtype with B lymphocytopenia, decreased immunoglobulins, and memory B cell defects. Can present with autoimmune manifestations including thrombocytopenia."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 2",
+      "disease_id": "OMIM:240500",
+      "score": 0.25,
+      "explanation": "Classic CVID presentation with hypogammaglobulinemia, B cell abnormalities, and potential autoimmune complications. Less specific match than CVID-13."
+    },
+    {
+      "disease_name": "Activated PI3K-delta syndrome",
+      "disease_id": "OMIM:615513",
+      "score": 0.2,
+      "explanation": "Can present with B lymphocytopenia, decreased class-switched memory B cells, and autoimmune cytopenias including thrombocytopenia. The CD4:CD8 ratio changes support this."
+    },
+    {
+      "disease_name": "CD19 deficiency",
+      "disease_id": "OMIM:613493",
+      "score": 0.17,
+      "explanation": "Causes decreased memory B cells, hypogammaglobulinemia with low IgA and IgM, and B lymphocytopenia. However, CD4:CD8 ratio changes are less typical."
+    },
+    {
+      "disease_name": "IKAROS deficiency",
+      "disease_id": "OMIM:616873",
+      "score": 0.14,
+      "explanation": "Can cause B cell defects, hypogammaglobulinemia, and immune dysregulation with cytopenias. The B cell phenotype matches but is less specific than CVID."
+    },
+    {
+      "disease_name": "CTLA4 haploinsufficiency",
+      "disease_id": "OMIM:616100",
+      "score": 0.125,
+      "explanation": "Presents with hypogammaglobulinemia, B cell defects, and autoimmune cytopenias including thrombocytopenia. T cell abnormalities also occur."
+    }
+  ]
+}

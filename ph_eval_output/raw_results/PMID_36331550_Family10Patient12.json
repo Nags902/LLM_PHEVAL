@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300928",
+      "score": 1.0,
+      "explanation": "Reference case 2 with this diagnosis shows overlapping features including intellectual disability, delayed speech and language development, and notably short attention span which aligns with ADHD. The X-linked inheritance pattern is consistent with male patient."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 82",
+      "disease_id": "OMIM:620200",
+      "score": 0.5,
+      "explanation": "Reference case 3 demonstrates exact match for all three core features: intellectual disability, delayed speech and language development, and ADHD. Though this case had additional features not present in our patient, the core phenotype matches well."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 113",
+      "disease_id": "OMIM:301058",
+      "score": 0.33,
+      "explanation": "Reference case 1 shows intellectual disability and delayed speech/language development matching our patient. However, lacks ADHD component. X-linked inheritance consistent with male patient."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Classic X-linked intellectual disability syndrome frequently presenting with ADHD, speech delays, and cognitive impairment in males. One of the most common genetic causes of this phenotypic triad."
+    },
+    {
+      "disease_name": "ADHD, susceptibility to, 7",
+      "disease_id": "OMIM:613003",
+      "score": 0.2,
+      "explanation": "While primarily an ADHD susceptibility locus, some forms can present with comorbid intellectual disability and language delays, particularly when severe."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "Strong match with patient's phenotype including EEG with occipital slowing, truncal ataxia, delayed speech, strabismus, generalized hypotonia, and global developmental delay. Two reference cases with this diagnosis show highly overlapping features."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "Shows significant overlap with delayed speech and language development, global developmental delay, and hypotonia as seen in reference case 2, though lacks the specific EEG findings and ataxia."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Classic features include developmental delay, absent/delayed speech, ataxia, hypotonia, and strabismus. EEG abnormalities are common though occipital slowing specifically is less typical."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Can present with global developmental delay, hypotonia, ataxia, and EEG abnormalities. However, typically affects females and has characteristic hand stereotypies not mentioned here."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Features developmental delay, absent speech, hypotonia, and strabismus. Can have EEG abnormalities and movement disorders including ataxia."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.17,
+      "explanation": "Characterized by developmental delay, absent speech, hypotonia, and ataxia. EEG abnormalities can occur but occipital slowing is not typical."
+    }
+  ]
+}

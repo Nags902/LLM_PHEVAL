@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency 103, susceptibility to fungal infection",
+      "disease_id": "OMIM:212050",
+      "score": 1.0,
+      "explanation": "All three reference cases with chronic oral candidiasis were diagnosed with this condition. This primary immunodeficiency specifically predisposes to fungal infections including chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Chronic mucocutaneous candidiasis",
+      "disease_id": "OMIM:114580",
+      "score": 0.5,
+      "explanation": "Classic presentation with chronic oral candidiasis as a primary feature. This autosomal dominant disorder specifically affects mucosal immunity against Candida species."
+    },
+    {
+      "disease_name": "Immunodeficiency 51",
+      "disease_id": "OMIM:613953",
+      "score": 0.33,
+      "explanation": "Associated with IL17RC deficiency, presents with chronic mucocutaneous candidiasis. The isolated oral candidiasis in this patient could represent an early or mild phenotype."
+    },
+    {
+      "disease_name": "Immunodeficiency 49",
+      "disease_id": "OMIM:617237",
+      "score": 0.25,
+      "explanation": "Caused by IL17RA deficiency, presents with chronic mucocutaneous candidiasis. Similar to other IL-17 pathway defects but with variable severity."
+    },
+    {
+      "disease_name": "CARD9 immunodeficiency",
+      "disease_id": "OMIM:614165",
+      "score": 0.2,
+      "explanation": "CARD9 deficiency causes susceptibility to fungal infections including chronic oral candidiasis. Often presents with more severe systemic fungal infections."
+    },
+    {
+      "disease_name": "Immunodeficiency 73C with defective neutrophil chemotaxis and hypogammaglobulinemia",
+      "disease_id": "OMIM:618987",
+      "score": 0.17,
+      "explanation": "Can present with recurrent fungal infections including oral candidiasis due to neutrophil dysfunction and antibody deficiency."
+    },
+    {
+      "disease_name": "STAT1 gain-of-function immunodeficiency",
+      "disease_id": "OMIM:614162",
+      "score": 0.14,
+      "explanation": "Gain-of-function mutations in STAT1 cause chronic mucocutaneous candidiasis along with other infections. Often has broader infectious susceptibility."
+    },
+    {
+      "disease_name": "Immunodeficiency 31C",
+      "disease_id": "OMIM:614162",
+      "score": 0.125,
+      "explanation": "Associated with STAT1 deficiency, presents with chronic mucocutaneous candidiasis as a prominent feature along with mycobacterial susceptibility."
+    }
+  ]
+}

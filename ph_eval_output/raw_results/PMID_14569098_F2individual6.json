@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "Perfect match with all patient phenotypes (chronic kidney disease, gout, renal cyst, renal interstitial fibrosis). Two reference cases with identical presentation were diagnosed with this condition."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613092",
+      "score": 0.5,
+      "explanation": "Matches all patient phenotypes. Reference case 1 had identical features plus Stage 5 CKD. The patient may have an earlier stage of this condition."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:174000",
+      "score": 0.33,
+      "explanation": "Part of the ADTKD spectrum that includes renal cysts, chronic kidney disease, and gout. Not seen in reference cases but phenotypically consistent."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 4",
+      "disease_id": "OMIM:617056",
+      "score": 0.25,
+      "explanation": "Another ADTKD subtype that can present with similar features including CKD and renal cysts, though gout is less common in this form."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 5",
+      "disease_id": "OMIM:617056",
+      "score": 0.2,
+      "explanation": "Recently described ADTKD subtype that can present with CKD and tubulointerstitial fibrosis, though renal cysts and gout are less typical."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease 1",
+      "disease_id": "OMIM:174000",
+      "score": 0.17,
+      "explanation": "Historic name for ADTKD2, presents with renal cysts, chronic kidney disease, and can have hyperuricemia/gout."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy",
+      "disease_id": "OMIM:162000",
+      "score": 0.14,
+      "explanation": "Alternative name for ADTKD1, characterized by early-onset gout, chronic kidney disease, and tubulointerstitial nephritis."
+    }
+  ]
+}

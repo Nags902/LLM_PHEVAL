@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia 29, congenital nonprogressive",
+      "disease_id": "OMIM:117360",
+      "score": 1.0,
+      "explanation": "Strong match with patient's phenotype including gait ataxia, delayed ability to walk, borderline intellectual disability, global developmental delay, and delayed speech. Cases 1 and 3 with this diagnosis share most of these features."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 114",
+      "disease_id": "OMIM:300534",
+      "score": 0.5,
+      "explanation": "Good match for developmental and intellectual features (borderline intellectual disability, global developmental delay, delayed speech), but lacks the ataxia component. Patient is male which fits X-linked inheritance."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Features ataxic gait, global developmental delay, delayed/absent speech, and intellectual disability. Common neurodevelopmental disorder that should be considered in differential."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Can present with gait ataxia, global developmental delay, and speech problems. However, more common in females and usually involves regression which is not mentioned in this case."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.2,
+      "explanation": "Features progressive cerebellar ataxia with onset in early childhood, delayed motor milestones. However, intellectual disability is usually mild and telangiectasias are not mentioned."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.17,
+      "explanation": "Common cause of intellectual disability in males with developmental delays and speech problems. Ataxia is less typical but can occur. Should be considered given male gender."
+    }
+  ]
+}

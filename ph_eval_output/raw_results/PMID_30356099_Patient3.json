@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 28",
+      "disease_id": "OMIM:616211",
+      "score": 1.0,
+      "explanation": "Patient's phenotype matches all core features seen in the reference cases: thin corpus callosum, cerebral atrophy, epileptic spasms, epileptic encephalopathy, hypokinesia, global developmental delay, and EEG abnormality. All three reference cases were diagnosed with DEE28."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Classic triad of infantile spasms (epileptic spasms), developmental delay, and EEG abnormality (hypsarrhythmia). Age of onset (15 months) is typical. However, specific brain malformations like thin corpus callosum are less characteristic."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Early-onset epileptic encephalopathy with spasms and developmental delay fits, but typically presents earlier (neonatal period) and has different EEG patterns. Brain atrophy can occur but thin corpus callosum is less specific."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "STXBP1-related encephalopathy can present with epileptic spasms, developmental delay, and movement disorders including hypokinesia. Brain atrophy is possible but thin corpus callosum is not a cardinal feature."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.2,
+      "explanation": "Features corpus callosum abnormalities (though typically agenesis rather than thinning), infantile spasms, and developmental delay. However, patient is male (Aicardi affects females) and lacks characteristic chorioretinal lacunae."
+    }
+  ]
+}

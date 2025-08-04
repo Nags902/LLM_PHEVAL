@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinitis pigmentosa 11",
+      "disease_id": "OMIM:600138",
+      "score": 1.0,
+      "explanation": "Patient presents with all three core features seen in RP11 from Case 2: reduced visual acuity, abnormal ERG, and retinal pigment epithelial changes. Age of presentation (26Y) is consistent with typical RP onset."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 6",
+      "disease_id": "OMIM:613826",
+      "score": 0.5,
+      "explanation": "Shows 3/4 features from Case 1 (reduced visual acuity, abnormal ERG, retinal pigment epithelial mottling). However, lacks nystagmus and severe visual reduction, and LCA typically presents in infancy, not at 26 years."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.33,
+      "explanation": "Common cause of juvenile/young adult macular dystrophy with reduced visual acuity and retinal pigment changes. ERG abnormalities can occur in advanced cases. Age of presentation fits well."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 2",
+      "disease_id": "OMIM:120970",
+      "score": 0.25,
+      "explanation": "Presents with reduced visual acuity and abnormal ERG. Retinal pigment epithelial changes are common. Typically manifests in young adulthood, consistent with patient's age."
+    },
+    {
+      "disease_name": "Pattern dystrophy of the retinal pigment epithelium",
+      "disease_id": "OMIM:169150",
+      "score": 0.2,
+      "explanation": "Characterized by retinal pigment epithelial mottling and mild visual acuity reduction. ERG is often normal but can show mild abnormalities. Adult onset fits patient's age."
+    }
+  ]
+}

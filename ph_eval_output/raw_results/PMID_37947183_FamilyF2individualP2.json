@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 1.0,
+      "explanation": "Strong match with status epilepticus, myoclonus, global developmental delay, and hypotonia. Dravet syndrome typically presents in infancy with seizures progressing to status epilepticus and myoclonic seizures, along with developmental regression."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.5,
+      "explanation": "Features multiple seizure types including myoclonic seizures, developmental delay, and hypotonia. The reference cases show similar patterns with various seizure types and developmental issues."
+    },
+    {
+      "disease_name": "Myoclonic-astatic epilepsy",
+      "disease_id": "OMIM:616421",
+      "score": 0.33,
+      "explanation": "Characterized by myoclonic seizures, developmental delay, and hypotonia. The age of onset and seizure pattern are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "Presents with early-onset epilepsy, myoclonus, severe developmental delay, hypotonia, and nystagmus. All features match the patient's presentation."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "Features early-onset seizures, myoclonus, severe developmental delay, hypotonia, and visual abnormalities including nystagmus. More common in females."
+    },
+    {
+      "disease_name": "SCN2A-related disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.17,
+      "explanation": "Can present with early-onset epilepsy including status epilepticus, developmental delay, hypotonia, and movement disorders. Variable phenotype matches patient presentation."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.14,
+      "explanation": "Features developmental delay, speech impairment, hypotonia, seizures including myoclonic, and characteristic movement abnormalities. Nystagmus can occur."
+    },
+    {
+      "disease_name": "KCNQ2 developmental and epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.125,
+      "explanation": "Early-onset epilepsy with status epilepticus, myoclonus, severe developmental delay, and hypotonia are characteristic features."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Senior-Loken syndrome 1",
+      "disease_id": "OMIM:266900",
+      "score": 1.0,
+      "explanation": "Matches rod-cone dystrophy with skeletal anomalies (brachydactyly, short stature), intellectual disability, and developmental delays. The reference cases diagnosed as 'Retinitis pigmentosa with or without skeletal anomalies' strongly suggest this ciliopathy syndrome."
+    },
+    {
+      "disease_name": "Senior-Loken syndrome 4",
+      "disease_id": "OMIM:606996",
+      "score": 0.5,
+      "explanation": "Another form of Senior-Loken syndrome that presents with similar features including rod-cone dystrophy, skeletal anomalies, and developmental issues. Different genetic cause but similar phenotype."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.33,
+      "explanation": "Ciliopathy with rod-cone dystrophy, brachydactyly, intellectual disability, and developmental delays. However, lacks obesity which is typically present in BBS."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Features rod-cone dystrophy, intellectual disability, facial dysmorphism (micrognathia, frontal bossing), and short stature. Matches many features but typically has more severe intellectual disability."
+    },
+    {
+      "disease_name": "Alstr\u00f6m syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Ciliopathy with rod-cone dystrophy and developmental delays, but typically includes obesity and hearing loss which are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.17,
+      "explanation": "Ciliopathy that can present with intellectual disability, developmental delays, and sometimes retinal dystrophy. The Chiari malformation could represent cerebellar involvement."
+    },
+    {
+      "disease_name": "RHYNS syndrome",
+      "disease_id": "OMIM:602152",
+      "score": 0.14,
+      "explanation": "Retinitis pigmentosa, hypopituitarism, nephronophthisis, and skeletal dysplasia syndrome. Matches retinal dystrophy and skeletal features but lacks clear evidence of renal involvement."
+    }
+  ]
+}

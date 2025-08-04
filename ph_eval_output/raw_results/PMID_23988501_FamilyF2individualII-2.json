@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical presentation (Stage 5 CKD) were diagnosed with this condition. ADTKD-UMOD is caused by UMOD mutations and typically presents with progressive CKD in adulthood."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:174000",
+      "score": 0.5,
+      "explanation": "ADTKD-MUC1 is another form of autosomal dominant tubulointerstitial kidney disease that presents similarly to ADTKD-UMOD with progressive CKD in adults."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:613092",
+      "score": 0.33,
+      "explanation": "ADTKD-REN is a rarer form of ADTKD that can present with CKD, though often has earlier onset and may include hyperuricemia and anemia."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 4",
+      "disease_id": "OMIM:617056",
+      "score": 0.25,
+      "explanation": "ADTKD-SEC61A1 is another form of ADTKD that presents with progressive CKD, though less common than UMOD and MUC1 variants."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 5",
+      "disease_id": "OMIM:617057",
+      "score": 0.2,
+      "explanation": "ADTKD-DNAJB11 is a recently identified form of ADTKD that can present with CKD in adulthood, similar to other ADTKD subtypes."
+    },
+    {
+      "disease_name": "Polycystic kidney disease 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.17,
+      "explanation": "ADPKD typically presents with bilateral kidney cysts and can progress to ESRD by age 50, though cysts are not mentioned in this case."
+    },
+    {
+      "disease_name": "Polycystic kidney disease 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.14,
+      "explanation": "PKD2 has a milder phenotype than PKD1 but can still lead to ESRD in middle age. Absence of cyst description makes this less likely."
+    },
+    {
+      "disease_name": "Nephronophthisis 1",
+      "disease_id": "OMIM:256100",
+      "score": 0.125,
+      "explanation": "While typically presenting in childhood, some cases of NPHP1 can have later onset and present with tubulointerstitial nephritis leading to ESRD."
+    },
+    {
+      "disease_name": "Alport syndrome, autosomal dominant",
+      "disease_id": "OMIM:104200",
+      "score": 0.11,
+      "explanation": "Autosomal dominant Alport syndrome can present with progressive CKD, though typically includes hematuria and hearing loss which are not mentioned."
+    },
+    {
+      "disease_name": "IgA nephropathy, susceptibility to",
+      "disease_id": "OMIM:161950",
+      "score": 0.1,
+      "explanation": "IgA nephropathy is a common cause of CKD that can progress to ESRD, though typically presents with hematuria and proteinuria earlier in disease course."
+    }
+  ]
+}

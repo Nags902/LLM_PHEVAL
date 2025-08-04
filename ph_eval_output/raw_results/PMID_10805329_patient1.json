@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 2",
+      "disease_id": "OMIM:604377",
+      "score": 1.0,
+      "explanation": "Perfect phenotypic match with reference cases 1 and 2, including all 13 features: myopathic EMG, congestive heart failure, respiratory failure, hypotonia, hypertrophic cardiomyopathy, metabolic acidosis, and neurological signs. Early onset (5 months) is consistent with this severe mitochondrial disorder."
+    },
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 1",
+      "disease_id": "OMIM:220110",
+      "score": 0.5,
+      "explanation": "Another subtype of COX deficiency that presents with similar features including cardiomyopathy, metabolic acidosis, hypotonia, and respiratory failure. The phenotypic overlap is significant though specific mutations differ."
+    },
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 4",
+      "disease_id": "OMIM:619048",
+      "score": 0.33,
+      "explanation": "SCO1-related COX deficiency presents with hypertrophic cardiomyopathy, metabolic acidosis, and hypotonia. The neurological features and early onset are consistent, though this form may have more prominent hepatic involvement."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.25,
+      "explanation": "Presents with similar features including lactic acidosis, hypotonia, respiratory failure, and cardiomyopathy. The myopathic changes and neurological signs overlap, though complex I deficiency may have more prominent CNS involvement."
+    },
+    {
+      "disease_name": "Barth syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.2,
+      "explanation": "X-linked disorder (patient is male) with dilated/hypertrophic cardiomyopathy, metabolic acidosis, hypotonia, and myopathy. The facial dysmorphism and early cardiac manifestations are consistent, though neutropenia is typically present."
+    },
+    {
+      "disease_name": "Pompe disease, infantile",
+      "disease_id": "OMIM:232300",
+      "score": 0.17,
+      "explanation": "Presents with hypertrophic cardiomyopathy, hypotonia, respiratory failure, and myopathic EMG changes. The age of onset fits, but typically lacks the peripheral neuropathy and metabolic acidosis seen in this patient."
+    }
+  ]
+}

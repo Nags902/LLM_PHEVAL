@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 6",
+      "disease_id": "OMIM:619111",
+      "score": 1.0,
+      "explanation": "All three reference cases with similar phenotypes (amyloidosis of peripheral nerves and chronic diarrhea) were diagnosed with this condition. The patient's presentation closely matches these cases."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary, transthyretin-related",
+      "disease_id": "OMIM:105210",
+      "score": 0.5,
+      "explanation": "TTR-related hereditary amyloidosis commonly presents with peripheral nerve involvement and gastrointestinal symptoms including diarrhea and constipation. Age of onset fits with late-onset variant."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 1",
+      "disease_id": "OMIM:105200",
+      "score": 0.33,
+      "explanation": "Another form of hereditary amyloidosis that can present with peripheral neuropathy and autonomic dysfunction affecting the GI tract, though less specific match to reference cases."
+    },
+    {
+      "disease_name": "Amyloidosis, hereditary systemic 2",
+      "disease_id": "OMIM:105200",
+      "score": 0.25,
+      "explanation": "Apolipoprotein A1-related amyloidosis can involve peripheral nerves and cause GI symptoms, though typically has more prominent renal or hepatic involvement."
+    },
+    {
+      "disease_name": "Primary systemic amyloidosis",
+      "disease_id": "OMIM:254500",
+      "score": 0.2,
+      "explanation": "AL amyloidosis can present with peripheral neuropathy and GI involvement, though the hereditary forms seem more likely given the reference cases and specific phenotype combination."
+    }
+  ]
+}

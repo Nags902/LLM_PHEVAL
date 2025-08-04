@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Strong match with key features including intellectual disability, developmental delay, thick eyebrows, synophrys, long philtrum, anteverted nares, bulbous nose, microcephaly, low anterior hairline, and feeding difficulties. Case 1 shows very similar presentation."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Matches many features including intellectual disability, developmental delay, thick eyebrows, synophrys, long philtrum, low anterior hairline, anteverted nares, microcephaly, and feeding difficulties. Classic syndrome with similar facial dysmorphisms."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.33,
+      "explanation": "X-linked form of CdLS with similar features but typically milder presentation. Shares intellectual disability, facial dysmorphisms, and developmental delays."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.25,
+      "explanation": "Another genetic subtype of CdLS with overlapping features including intellectual disability, characteristic facial features, and developmental delays."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 4",
+      "disease_id": "OMIM:614701",
+      "score": 0.2,
+      "explanation": "RAD21-related CdLS with similar phenotype including intellectual disability, facial dysmorphisms, and growth retardation."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 5",
+      "disease_id": "OMIM:300882",
+      "score": 0.17,
+      "explanation": "HDAC8-related CdLS, X-linked form with intellectual disability and characteristic facial features, though often with distinct features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.14,
+      "explanation": "Shares intellectual disability, microcephaly, and some facial features including bulbous nose and anteverted nares, though hand abnormalities are not specified as typical broad thumbs."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.125,
+      "explanation": "Features intellectual disability, developmental delays, feeding difficulties, and coarse facial features with thick eyebrows, though missing some specific facial characteristics."
+    }
+  ]
+}

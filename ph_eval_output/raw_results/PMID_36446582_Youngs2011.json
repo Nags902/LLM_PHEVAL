@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic features include intellectual disability, autism, ADHD, developmental delays, triangular face, short stature, microcephaly, and anteverted nares - matching most of the patient's phenotype."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.5,
+      "explanation": "Characterized by short stature, triangular face, intellectual disability, delayed speech/language, and distinctive facial features including anteverted nares."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, autistic behavior, short stature, microcephaly, and distinctive facial features, though triangular face is less typical."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, autism, microcephaly, short stature, and anteverted nares, though triangular face is not a classic feature."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, developmental delays, short stature, and distinctive facial features, though autism and ADHD are less commonly reported."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Characterized by intellectual disability, autistic behaviors, developmental delays, and microcephaly, but triangular face and short stature are not typical."
+    }
+  ]
+}

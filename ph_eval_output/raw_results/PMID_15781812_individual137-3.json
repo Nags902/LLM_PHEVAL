@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Myoclonic epilepsy of Lafora 2",
+      "disease_id": "OMIM:608072",
+      "score": 1.0,
+      "explanation": "Perfect match with all three reference cases. Patient presents with all core features: myoclonic seizures, absence seizures, bilateral tonic-clonic seizures, dementia, progressive neurologic deterioration, gait disturbance, and myoclonus. Age of onset (20 years) is consistent with Lafora disease which typically begins in adolescence."
+    },
+    {
+      "disease_name": "Myoclonic epilepsy of Lafora 1",
+      "disease_id": "OMIM:254780",
+      "score": 0.5,
+      "explanation": "The classic form of Lafora disease with identical clinical presentation to type 2. Both types present with progressive myoclonic epilepsy, dementia, and neurologic deterioration beginning in adolescence or early adulthood."
+    },
+    {
+      "disease_name": "Progressive myoclonic epilepsy type 1A (Unverricht-Lundborg disease)",
+      "disease_id": "OMIM:254800",
+      "score": 0.333,
+      "explanation": "Shares many features including myoclonic seizures, tonic-clonic seizures, progressive course, and gait disturbance. However, dementia is less prominent in EPM1A compared to Lafora disease, and absence seizures are not typical."
+    },
+    {
+      "disease_name": "Progressive myoclonic epilepsy type 1B",
+      "disease_id": "OMIM:612437",
+      "score": 0.25,
+      "explanation": "Similar presentation to EPM1A with myoclonic and tonic-clonic seizures, progressive course. Less likely due to absence of prominent dementia and typical absence seizures in most cases."
+    },
+    {
+      "disease_name": "Juvenile myoclonic epilepsy",
+      "disease_id": "OMIM:606904",
+      "score": 0.2,
+      "explanation": "Features myoclonic seizures, absence seizures, and generalized tonic-clonic seizures. However, JME is not progressive and does not cause dementia or neurologic deterioration, making it less likely."
+    },
+    {
+      "disease_name": "Progressive myoclonic epilepsy type 3",
+      "disease_id": "OMIM:611726",
+      "score": 0.167,
+      "explanation": "Can present with myoclonic seizures, tonic-clonic seizures, and progressive neurologic decline. However, the specific combination with absence seizures and early dementia is less typical."
+    },
+    {
+      "disease_name": "Progressive myoclonic epilepsy type 5",
+      "disease_id": "OMIM:613832",
+      "score": 0.143,
+      "explanation": "Presents with myoclonic epilepsy and progressive neurologic deterioration, but typically has later onset and different seizure pattern compared to the patient's presentation."
+    }
+  ]
+}

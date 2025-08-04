@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal recessive 5",
+      "disease_id": "OMIM:611091",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (intellectual disability and hypertonia) were diagnosed with this condition. The patient shares these core features, making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Cerebral palsy, spastic quadriplegic, 1",
+      "disease_id": "OMIM:603513",
+      "score": 0.5,
+      "explanation": "Hypertonia and intellectual disability are common features in spastic cerebral palsy. The absence of reported motor impairments doesn't exclude this diagnosis as the patient may have milder involvement."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 1",
+      "disease_id": "OMIM:156200",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability and can have associated neurological features including hypertonia, though less commonly than in recessive forms."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Features intellectual disability and can present with increased muscle tone (hypertonia), though more commonly presents with ataxia and happy demeanor."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Can present with intellectual disability and hypertonia, though typically occurs in females and has additional features like hand stereotypies and regression."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, X-linked 1",
+      "disease_id": "OMIM:309530",
+      "score": 0.17,
+      "explanation": "X-linked intellectual disability that can present with hypertonia, though less specific match than the autosomal recessive forms seen in reference cases."
+    }
+  ]
+}

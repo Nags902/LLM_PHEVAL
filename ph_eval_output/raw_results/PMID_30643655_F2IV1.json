@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type IIB",
+      "disease_id": "OMIM:201300",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes were diagnosed with HSAN IIB. Patient shares key features: peripheral axonal neuropathy, acral ulceration, hyperactive reflexes, frequent falls, and spasticity."
+    },
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type IIA",
+      "disease_id": "OMIM:201300",
+      "score": 0.5,
+      "explanation": "HSAN IIA is a closely related subtype with similar peripheral neuropathy and acral ulceration, but typically has less prominent spasticity and hyperreflexia than type IIB."
+    },
+    {
+      "disease_name": "Hereditary spastic paraplegia 10",
+      "disease_id": "OMIM:604187",
+      "score": 0.33,
+      "explanation": "HSP10 presents with spasticity, hyperreflexia, and peripheral neuropathy. However, acral ulceration is not typical, making it less likely than HSAN."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2B",
+      "disease_id": "OMIM:600882",
+      "score": 0.25,
+      "explanation": "CMT2B can present with axonal neuropathy and acral ulceration, but typically lacks the prominent spasticity and hyperreflexia seen in this patient."
+    },
+    {
+      "disease_name": "Neuropathy, hereditary sensory and autonomic, type IV",
+      "disease_id": "OMIM:256800",
+      "score": 0.2,
+      "explanation": "HSAN IV can cause peripheral neuropathy and acral injuries, but typically presents with anhidrosis and insensitivity to pain from birth, with less prominent spasticity."
+    }
+  ]
+}

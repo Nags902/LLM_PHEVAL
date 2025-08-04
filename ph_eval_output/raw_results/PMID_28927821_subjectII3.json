@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Immunodeficiency, common variable, 13",
+      "disease_id": "OMIM:616873",
+      "score": 1.0,
+      "explanation": "All three reference cases with nearly identical phenotypic features (B lymphocytopenia, decreased class-switched memory B cells, hypogammaglobulinemia, recurrent sinusitis, poor vaccine response) were diagnosed with CVID13. The patient's phenotype matches perfectly with the core features."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 1",
+      "disease_id": "OMIM:607594",
+      "score": 0.5,
+      "explanation": "CVID1 presents with similar humoral immunodeficiency features including hypogammaglobulinemia, B cell abnormalities, and recurrent sinopulmonary infections. The phenotype is consistent though less specific than CVID13."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 2",
+      "disease_id": "OMIM:240500",
+      "score": 0.33,
+      "explanation": "CVID2 shares the core features of B cell dysfunction, reduced immunoglobulins, and recurrent infections. The specific pattern of decreased class-switched memory B cells is characteristic of various CVID subtypes."
+    },
+    {
+      "disease_name": "Immunodeficiency, common variable, 8",
+      "disease_id": "OMIM:614700",
+      "score": 0.25,
+      "explanation": "CVID8 (LRBA deficiency) can present with similar B cell abnormalities and hypogammaglobulinemia, though often has additional autoimmune features not present in this patient."
+    },
+    {
+      "disease_name": "Agammaglobulinemia 7, autosomal recessive",
+      "disease_id": "OMIM:615214",
+      "score": 0.2,
+      "explanation": "PIK3R1 deficiency causes B cell lymphopenia and agammaglobulinemia with recurrent infections. However, the presence of some immunoglobulin production makes this less likely than CVID."
+    },
+    {
+      "disease_name": "Immunodeficiency 9",
+      "disease_id": "OMIM:612782",
+      "score": 0.17,
+      "explanation": "ORAI1 deficiency can cause combined immunodeficiency with B cell dysfunction and hypogammaglobulinemia, though typically presents earlier in life with more severe manifestations."
+    }
+  ]
+}

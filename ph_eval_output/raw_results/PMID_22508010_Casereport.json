@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "Strong match with all three reference cases showing peripheral neuropathy, hepatomegaly, white matter changes, and multiple mtDNA deletions. Patient has key features including peripheral axonal neuropathy, hepatic involvement, and the pathognomonic multiple mtDNA deletions."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)",
+      "disease_id": "OMIM:251880",
+      "score": 0.5,
+      "explanation": "Another hepatocerebral mtDNA depletion syndrome with similar presentation including neuropathy and hepatic involvement, but less commonly associated with multiple mtDNA deletions compared to type 6."
+    },
+    {
+      "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy (MNGIE)",
+      "disease_id": "OMIM:603041",
+      "score": 0.33,
+      "explanation": "Features peripheral neuropathy, white matter changes, and multiple mtDNA deletions. However, typically presents with prominent gastrointestinal symptoms which are not reported in this patient."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2A2A",
+      "disease_id": "OMIM:609260",
+      "score": 0.25,
+      "explanation": "MFN2-related CMT can present with peripheral axonal neuropathy and distal weakness/atrophy. However, does not explain hepatic involvement, white matter changes, or mtDNA deletions."
+    },
+    {
+      "disease_name": "Polymerase gamma-related disorders (POLG-related ataxia neuropathy spectrum)",
+      "disease_id": "OMIM:607459",
+      "score": 0.2,
+      "explanation": "POLG mutations can cause peripheral neuropathy, hepatic dysfunction, and mtDNA deletions. However, typically presents with more prominent ataxia and seizures which are not reported here."
+    }
+  ]
+}

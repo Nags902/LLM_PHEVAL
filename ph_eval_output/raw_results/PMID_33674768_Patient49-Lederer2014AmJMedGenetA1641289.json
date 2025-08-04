@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 1.0,
+      "explanation": "Perfect phenotypic match with reference Case 1, presenting with both clinodactyly and abnormal facial shape. Kabuki syndrome 2 is X-linked, consistent with male patient."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Also presents with clinodactyly and characteristic facial features. More common than type 2, autosomal dominant inheritance pattern."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Features clinodactyly (especially of 5th fingers) and distinctive facial features including downslanting palpebral fissures and broad nasal bridge."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.25,
+      "explanation": "Similar presentation to RTS1 with clinodactyly and facial dysmorphism, caused by EP300 mutations rather than CREBBP."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Can present with fifth finger clinodactyly and coarse facial features, though typically has more severe intellectual disability."
+    },
+    {
+      "disease_name": "Down syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.17,
+      "explanation": "Common cause of clinodactyly (5th finger) and characteristic facial features including upslanting palpebral fissures and flat facial profile."
+    },
+    {
+      "disease_name": "Silver-Russell syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.14,
+      "explanation": "Can present with clinodactyly of 5th fingers and triangular facial shape, though growth restriction is typically prominent."
+    },
+    {
+      "disease_name": "DiGeorge syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.125,
+      "explanation": "While reference cases show facial abnormalities, typical features include cardiac defects and immunodeficiency not present in this patient."
+    }
+  ]
+}

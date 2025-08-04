@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 5",
+      "disease_id": "OMIM:613477",
+      "score": 1.0,
+      "explanation": "Strong match with reference case 1, sharing key features including infantile spasms, hypsarrhythmia, multiple seizure types (tonic, bilateral tonic-clonic), severe intellectual disability, brain atrophy, cerebellar atrophy, and spasticity. The hypomyelination and combination of seizure types strongly suggest this diagnosis."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and severe intellectual disability is present. However, the additional features of brain atrophy, hypomyelination, and multiple seizure types suggest a more specific underlying etiology."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "Shares the core features of infantile spasms, severe intellectual disability, and multiple seizure types. The presence of hypsarrhythmia and multifocal epileptiform discharges supports this diagnosis, though the specific pattern suggests DEE5 is more likely."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.25,
+      "explanation": "The CNS hypomyelination is a key feature of this leukodystrophy. Additional supportive features include spasticity, intellectual disability, and cerebellar atrophy. However, the prominent epileptic phenotype with infantile spasms is less typical."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.2,
+      "explanation": "Features multiple seizure types including tonic and tonic-clonic seizures with severe intellectual disability. The brain atrophy and spasticity are consistent, though the specific pattern of infantile spasms with hypsarrhythmia is less characteristic."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "Can present with infantile spasms, multiple seizure types, and severe intellectual disability. The multifocal epileptiform discharges and brain atrophy are supportive, though the hypomyelination pattern is less typical."
+    }
+  ]
+}

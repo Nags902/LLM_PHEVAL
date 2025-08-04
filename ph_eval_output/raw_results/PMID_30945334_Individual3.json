@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with or without variable brain abnormalities",
+      "disease_id": "OMIM:618443",
+      "score": 1.0,
+      "explanation": "All three reference cases with nearly identical phenotypes were diagnosed with this condition. The patient shares key features including inability to walk, global developmental delay, intellectual disability, thin corpus callosum, cerebral atrophy, seizures, spastic diplegia, prominent nasal bridge, thin upper lip vermilion, short stature, and obesity."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.5,
+      "explanation": "Presents with severe intellectual disability, inability to walk, thin corpus callosum, cerebral atrophy, and seizures. The combination of brain abnormalities with severe motor and cognitive impairment fits well, though lacks some specific facial features."
+    },
+    {
+      "disease_name": "ARID1B-related intellectual disability syndrome",
+      "disease_id": "OMIM:614556",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, developmental delay, thin corpus callosum, seizures, short stature, and characteristic facial features including prominent nasal bridge. The obesity and spastic diplegia are less typical but can occur."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, absent/delayed speech, seizures, and distinctive facial features. While it matches several features, the thin corpus callosum and spastic diplegia are less characteristic of this syndrome."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Features severe intellectual disability, absent speech, seizures, and movement disorders. However, the spastic diplegia pattern and structural brain abnormalities (thin corpus callosum, cerebral atrophy) are not typical features."
+    }
+  ]
+}

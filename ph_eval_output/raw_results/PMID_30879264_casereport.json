@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "White-Sutton syndrome",
+      "disease_id": "OMIM:616364",
+      "score": 1.0,
+      "explanation": "The patient's phenotype shows remarkable overlap with all three reference cases of White-Sutton syndrome, including key features like facial dysmorphisms (short philtrum, wide mouth, exaggerated cupid's bow, thin upper lip vermilion, pointed chin, hypertelorism), neurological abnormalities (hypotonia, Dandy-Walker malformation, brainstem hypoplasia, global developmental delay, seizures), and associated features (autistic behavior, low frustration tolerance, feeding difficulties, sensorineural hearing impairment, recurrent infections)."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Shows significant overlap with facial features (hypertelorism, broad nasal tip, wide mouth), developmental delay, hypotonia, Dandy-Walker malformation, and feeding difficulties. However, lacks some cardinal features like fifth digit/nail hypoplasia and coarse facial features."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.33,
+      "explanation": "Shares several features including hypertelorism, pointed chin, cupid's bow abnormalities, developmental delay, seizures, and Dandy-Walker malformation. However, lacks characteristic features like Hirschsprung disease and typical ear anomalies."
+    },
+    {
+      "disease_name": "3q29 microdeletion syndrome",
+      "disease_id": "OMIM:609425",
+      "score": 0.25,
+      "explanation": "Presents with similar intellectual disability, autistic behavior, feeding difficulties, and some facial features. However, the specific constellation of facial dysmorphisms and brain malformations in this patient are less typical for 3q29 deletion."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.2,
+      "explanation": "Shows overlap with developmental delay, short stature, hypertelorism, and some facial features. However, lacks characteristic features like hypertrichosis and thick eyebrows, and the brain malformations are not typical."
+    }
+  ]
+}

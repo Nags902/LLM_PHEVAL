@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 20",
+      "disease_id": "OMIM:616354",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing ataxia, cerebellar atrophy, intellectual disability, hypotonia, delayed motor milestones, and scoliosis. The patient shares most core features with all three reference cases."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Cerebellar hypoplasia, hypotonia, ataxia, intellectual disability, and ocular abnormalities (hypoplasia of iris and fovea) are characteristic. The molar tooth sign would need to be confirmed on MRI."
+    },
+    {
+      "disease_name": "Joubert syndrome 2",
+      "disease_id": "OMIM:608091",
+      "score": 0.33,
+      "explanation": "Similar presentation to Joubert syndrome 1 with cerebellar malformation, hypotonia, ataxia, and ocular involvement. Different genetic cause but similar phenotype."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "Features cerebellar hypoplasia/atrophy, severe motor delays, intellectual disability, and visual impairment. However, typically presents with more severe microcephaly and dystonia."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 0.2,
+      "explanation": "Can present with cerebellar hypoplasia, hypotonia, developmental delays, and ataxia. Ocular abnormalities are also possible. Would need biochemical testing for confirmation."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 7",
+      "disease_id": "OMIM:609270",
+      "score": 0.17,
+      "explanation": "Features cerebellar atrophy, ataxia, and developmental delays. The ocular findings (iris and foveal hypoplasia) are less typical but could be coincidental."
+    }
+  ]
+}

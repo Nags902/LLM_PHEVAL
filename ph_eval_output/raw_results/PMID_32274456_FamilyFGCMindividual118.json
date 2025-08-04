@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 1",
+      "disease_id": "OMIM:174000",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (chronic kidney disease and proteinuria) were diagnosed with this condition. The patient's presentation matches perfectly with the reference cases."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 2",
+      "disease_id": "OMIM:613092",
+      "score": 0.5,
+      "explanation": "Another subtype of autosomal dominant tubulointerstitial kidney disease that presents with similar features of chronic kidney disease and proteinuria."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 3",
+      "disease_id": "OMIM:617056",
+      "score": 0.33,
+      "explanation": "Additional subtype of ADTKD presenting with chronic kidney disease and proteinuria, though less common than types 1 and 2."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 4",
+      "disease_id": "OMIM:618124",
+      "score": 0.25,
+      "explanation": "Another ADTKD subtype with similar presentation but rarer occurrence compared to earlier subtypes."
+    },
+    {
+      "disease_name": "Tubulointerstitial kidney disease, autosomal dominant, 5",
+      "disease_id": "OMIM:617303",
+      "score": 0.2,
+      "explanation": "Fifth subtype of ADTKD that can present with chronic kidney disease and proteinuria."
+    },
+    {
+      "disease_name": "Focal segmental glomerulosclerosis 1",
+      "disease_id": "OMIM:603278",
+      "score": 0.167,
+      "explanation": "Common cause of proteinuria and chronic kidney disease in adults, though reference cases suggest tubulointerstitial disease is more likely."
+    },
+    {
+      "disease_name": "IgA nephropathy",
+      "disease_id": "OMIM:161950",
+      "score": 0.143,
+      "explanation": "Common glomerular disease causing proteinuria and progressive chronic kidney disease, though typically also presents with hematuria which is not mentioned here."
+    },
+    {
+      "disease_name": "Alport syndrome 1",
+      "disease_id": "OMIM:301050",
+      "score": 0.125,
+      "explanation": "Hereditary nephritis that can present with proteinuria and progressive kidney disease, though usually has additional features like hearing loss."
+    }
+  ]
+}

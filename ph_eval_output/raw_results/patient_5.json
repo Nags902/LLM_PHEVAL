@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric acidemia type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases. Patient presents with all key features: glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and dystonia. This autosomal recessive disorder caused by glutaryl-CoA dehydrogenase deficiency is the most likely diagnosis."
+    },
+    {
+      "disease_name": "Glutaric acidemia type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Also presents with glutaric aciduria but typically has more systemic involvement including hypoglycemia, metabolic acidosis, and cardiomyopathy. The specific pattern of macrocephaly and subdural hemorrhage is less typical for type II."
+    },
+    {
+      "disease_name": "L-2-hydroxyglutaric aciduria",
+      "disease_id": "OMIM:236792",
+      "score": 0.33,
+      "explanation": "Can present with macrocephaly, cerebral atrophy, and dystonia, but glutaric aciduria is not a typical feature. This organic aciduria affects different metabolic pathways."
+    },
+    {
+      "disease_name": "Canavan disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.25,
+      "explanation": "Presents with macrocephaly and progressive cerebral white matter degeneration, but glutaric aciduria and subdural hemorrhage are not typical features. Caused by aspartoacylase deficiency."
+    },
+    {
+      "disease_name": "Alexander disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.2,
+      "explanation": "Can present with macrocephaly and progressive neurodegeneration, but glutaric aciduria is not a feature. Caused by GFAP mutations affecting astrocytes."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 3",
+      "disease_id": "OMIM:616900",
+      "score": 1.0,
+      "explanation": "Patient shares nearly all key features with the three reference cases including tented upper lip vermilion, highly arched eyebrow, hirsutism, absent speech, profound intellectual disability, hypotonia, seizures, cerebral visual impairment, hypercholesterolemia, and hypertriglyceridemia. The phenotypic overlap is extremely high."
+    },
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 1",
+      "disease_id": "OMIM:615419",
+      "score": 0.5,
+      "explanation": "Related disorder in the same disease family with similar core features of infantile hypotonia, psychomotor retardation, and characteristic facial features, though specific facial dysmorphisms may vary slightly from type 3."
+    },
+    {
+      "disease_name": "Hypotonia, infantile, with psychomotor retardation and characteristic facies 2",
+      "disease_id": "OMIM:616801",
+      "score": 0.33,
+      "explanation": "Another variant in the same disease spectrum sharing the core triad of hypotonia, developmental delay, and facial dysmorphism, but with potentially different genetic etiology and some phenotypic variations."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Shares several features including profound intellectual disability, absent speech, seizures, hypotonia, and characteristic facial features (tented upper lip), though lacks the metabolic abnormalities (hypercholesterolemia/hypertriglyceridemia)."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, seizures, absent speech, characteristic facial features including highly arched eyebrows, and hypotonia, but typically includes Hirschsprung disease which is not reported here."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features profound intellectual disability, absent speech, seizures, and hypotonia, but typically presents with a happy demeanor and specific EEG pattern rather than the facial dysmorphisms and metabolic abnormalities seen in this patient."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Geleophysic dysplasia 2",
+      "disease_id": "OMIM:614185",
+      "score": 1.0,
+      "explanation": "Case 2 shares 9/10 of the patient's phenotypic features including long philtrum, smooth philtrum, thin upper lip vermilion, hypertelorism, full cheeks, short palm, short foot, short nose, and limitation of joint mobility. The moderate short stature is also consistent."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 1",
+      "disease_id": "OMIM:231050",
+      "score": 0.5,
+      "explanation": "Similar to type 2, this condition presents with the same characteristic facial features, short extremities, joint limitations, and short stature, but is caused by mutations in ADAMTSL2 rather than FBN1."
+    },
+    {
+      "disease_name": "Geleophysic dysplasia 3",
+      "disease_id": "OMIM:617809",
+      "score": 0.33,
+      "explanation": "Another subtype of geleophysic dysplasia with similar clinical features but caused by mutations in LTBP3. The facial gestalt and skeletal abnormalities match the patient's presentation."
+    },
+    {
+      "disease_name": "Myhre syndrome",
+      "disease_id": "OMIM:139210",
+      "score": 0.25,
+      "explanation": "Shares several features including short stature, limitation of joint mobility, short hands and feet, and characteristic facial features, though the facial gestalt differs slightly from the patient's presentation."
+    },
+    {
+      "disease_name": "Acromicric dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.2,
+      "explanation": "Presents with short stature, short hands and feet, joint stiffness, and characteristic facial features. While there is overlap, the specific facial features described are less consistent with this patient."
+    },
+    {
+      "disease_name": "Moore-Federman syndrome",
+      "disease_id": "OMIM:619479",
+      "score": 0.17,
+      "explanation": "A recently described syndrome with overlapping features including short stature, joint contractures, and facial dysmorphism, though less well-characterized than geleophysic dysplasia."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Muscular dystrophy, limb-girdle, autosomal recessive 29",
+      "disease_id": "OMIM:619045",
+      "score": 1.0,
+      "explanation": "Patient's phenotype matches nearly perfectly with all three reference cases of LGMDR29, including key features: proximal and distal muscle weakness in all limbs, highly elevated CK, Gowers sign, calf pseudohypertrophy, increased endomysial connective tissue, motor delay, scoliosis, limb contractures, and myopathic EMG changes."
+    },
+    {
+      "disease_name": "Duchenne muscular dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 0.5,
+      "explanation": "Classic features present include male gender, age of onset, proximal muscle weakness, highly elevated CK, Gowers sign, calf pseudohypertrophy, and progressive weakness. However, pain insensitivity is not typical of DMD, and the pattern matches LGMDR29 more closely."
+    },
+    {
+      "disease_name": "Becker muscular dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.33,
+      "explanation": "Similar dystrophinopathy features as DMD but typically milder. Patient shows significant weakness by age 9 which could fit BMD spectrum. Highly elevated CK, calf pseudohypertrophy, and Gowers sign are consistent, but overall phenotype severity suggests other diagnoses."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy, autosomal recessive 1",
+      "disease_id": "OMIM:253600",
+      "score": 0.25,
+      "explanation": "LGMDR1 (calpainopathy) can present with similar proximal weakness pattern, highly elevated CK, and contractures. However, pain insensitivity is unusual, and the specific combination of features better matches LGMDR29."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy, autosomal recessive 2A",
+      "disease_id": "OMIM:253600",
+      "score": 0.2,
+      "explanation": "Another form of calpainopathy with similar muscle weakness pattern and elevated CK. The presence of both proximal and distal weakness is consistent, but the full phenotypic spectrum including pain insensitivity is more suggestive of LGMDR29."
+    },
+    {
+      "disease_name": "Congenital muscular dystrophy type 1A",
+      "disease_id": "OMIM:607855",
+      "score": 0.17,
+      "explanation": "CMD1A (merosin-deficient) can present with muscle weakness, contractures, and elevated CK. However, onset is typically earlier, and the combination of features including pain insensitivity better fits LGMDR29."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1",
+      "disease_id": "OMIM:310300",
+      "score": 0.14,
+      "explanation": "EDMD features joint contractures prominently, which this patient has. However, the pattern of weakness (typically humeroperoneal), less dramatic CK elevation, and absence of cardiac involvement at this age make it less likely than other diagnoses."
+    }
+  ]
+}

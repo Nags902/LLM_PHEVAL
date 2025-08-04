@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with autism and macrocephaly",
+      "disease_id": "OMIM:615574",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical core features: macrocephaly, autism, ADHD, sleep disturbance, intellectual disability, motor delay, seizures, ventriculomegaly, prominent supraorbital ridges, and tall stature."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.5,
+      "explanation": "Presents with macrocephaly, autism spectrum disorder, intellectual disability, and ventriculomegaly. PTEN mutations are a known cause of macrocephaly-autism syndrome."
+    },
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.33,
+      "explanation": "Features macrocephaly, tall stature, intellectual disability, prominent forehead, and seizures. However, autism is less common and ADHD/sleep issues are not typical."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Common cause of autism with intellectual disability, ADHD, and seizures. Macrocephaly can occur but tall stature and prominent supraorbital ridges are less typical."
+    },
+    {
+      "disease_name": "Malan syndrome",
+      "disease_id": "OMIM:614753",
+      "score": 0.2,
+      "explanation": "Features macrocephaly, tall stature, intellectual disability, and prominent forehead. Autism and ADHD can occur but are less consistent features."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.17,
+      "explanation": "Presents with macrocephaly, tall stature, intellectual disability, and prominent forehead. Autism spectrum features possible but sleep disturbance and ADHD less typical."
+    }
+  ]
+}

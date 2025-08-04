@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Perfect match with all phenotypic features including cardiac septal defects (ASD, VSD, AVCD) and upper limb abnormalities (absent thumb, absent radius). All three reference cases with identical presentations were diagnosed with Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR syndrome presents with absent radius but typically preserves the thumb, which contradicts this patient's absent thumb. However, the combination of radial aplasia and cardiac defects warrants consideration."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.33,
+      "explanation": "Features cardiac defects and radial ray anomalies which are part of VACTERL spectrum, but the specific combination of absent radius and thumb with multiple cardiac septal defects is more characteristic of Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Can present with radial ray defects and congenital heart disease, but typically includes additional features like growth retardation, microcephaly, and bone marrow failure not mentioned in this case."
+    },
+    {
+      "disease_name": "Townes-Brocks syndrome",
+      "disease_id": "OMIM:107480",
+      "score": 0.2,
+      "explanation": "Can present with thumb anomalies and cardiac defects, but typically includes anal, ear, and renal anomalies not described here. The radial aplasia is also less typical for this syndrome."
+    }
+  ]
+}

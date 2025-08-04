@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ARID1B-related intellectual disability syndrome",
+      "disease_id": "OMIM:614556",
+      "score": 1.0,
+      "explanation": "Strong match with key features including intellectual disability, hypotonia, corpus callosum hypoplasia, growth retardation, feeding difficulties, autism, hyperactivity, and characteristic facial features (low-set ears, hypertelorism, short philtrum). The constellation of neurodevelopmental and dysmorphic features closely aligns with this syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, hypotonia, growth retardation, feeding difficulties, corpus callosum abnormalities, and facial dysmorphism including low-set ears and hypertelorism. However, lacks some typical features like coarse facial features and fifth digit abnormalities."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, hypotonia, autistic behavior, hyperactivity, and breathing abnormalities (which could relate to sleep disturbances). Facial features can include hypertelorism. However, typically presents with more severe breathing abnormalities and distinctive facial gestalt."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, corpus callosum agenesis/hypoplasia, growth retardation, and distinctive facial features. However, typically includes Hirschsprung disease and more pronounced facial features not fully described in this patient."
+    },
+    {
+      "disease_name": "FG syndrome 1",
+      "disease_id": "OMIM:305450",
+      "score": 0.2,
+      "explanation": "X-linked condition fitting the male patient, featuring intellectual disability, hypotonia, corpus callosum abnormalities, hyperactivity, and behavioral issues. However, typically includes constipation and more specific facial features not all present here."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Presents with intellectual disability, motor delays, speech impairment, hyperactivity, sleep disturbances, and autistic behaviors. However, typically includes characteristic happy demeanor, seizures, and specific gait abnormalities not described in this case."
+    }
+  ]
+}

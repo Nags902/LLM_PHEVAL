@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities",
+      "disease_id": "OMIM:618089",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases 1 and 3 showing identical diagnosis. Patient shares key features including intellectual disability, developmental delay, microcephaly, seizures, short stature, delayed speech, and craniofacial dysmorphisms (tented philtrum, prominent metopic ridge, high forehead). Gastroesophageal reflux is also present in the reference cases."
+    },
+    {
+      "disease_name": "Intellectual developmental disorder, autosomal dominant 21",
+      "disease_id": "OMIM:615502",
+      "score": 0.5,
+      "explanation": "Reference case 2 shows overlapping features including intellectual disability, global developmental delay, microcephaly, delayed speech, delayed walking, gastroesophageal reflux, and high forehead. However, the patient lacks some of the more severe neurological features seen in case 2 like spasticity and dystonia."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Classic features include intellectual disability, growth retardation, microcephaly, gastroesophageal reflux, and distinctive facial features. The tented philtrum and developmental delays are consistent, though the patient lacks some typical features like synophrys and limb abnormalities."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Shares intellectual disability, developmental delays, microcephaly, and some craniofacial features. The cavum septum pellucidum could represent a brain malformation seen in this syndrome. However, lacks the typical hypoplastic fifth fingernails/toenails."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, microcephaly, seizures, and distinctive facial features including high forehead. Gastroesophageal reflux is common. However, the patient lacks the typical Hirschsprung disease and more severe facial dysmorphisms."
+    }
+  ]
+}

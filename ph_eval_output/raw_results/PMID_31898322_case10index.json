@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, dural ectasia, mitral regurgitation, scoliosis, and downslanted palpebral fissures. These are cardinal features of Marfan syndrome, a connective tissue disorder affecting the cardiovascular, skeletal, and ocular systems."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Shares several features with the patient including mitral regurgitation, scoliosis, and dural ectasia. The reference cases show similar phenotypes, though the patient lacks some characteristic features like arterial tortuosity and hypertelorism."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.33,
+      "explanation": "Another subtype of Loeys-Dietz syndrome that could present with similar features. The overlapping phenotypes with type 1 make this a consideration, though specific distinguishing features are not clearly present."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.25,
+      "explanation": "Could explain some features like mitral regurgitation and potentially the connective tissue involvement, though the patient lacks typical features like skin hyperextensibility and bruising susceptibility."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.2,
+      "explanation": "Shares marfanoid habitus features including tall stature, scoliosis, and mitral valve involvement. The downslanted palpebral fissures and exotropia could fit, though craniosynostosis is not mentioned."
+    },
+    {
+      "disease_name": "MASS phenotype",
+      "disease_id": "OMIM:604308",
+      "score": 0.17,
+      "explanation": "A milder connective tissue disorder with mitral valve prolapse, aortic enlargement, skin and skeletal features. Could explain the mitral regurgitation, scoliosis, and tall stature, though dural ectasia is less common."
+    }
+  ]
+}

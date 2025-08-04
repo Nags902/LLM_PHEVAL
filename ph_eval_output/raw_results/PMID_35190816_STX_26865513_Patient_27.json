@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:609304",
+      "score": 1.0,
+      "explanation": "The patient's phenotype closely matches all three reference cases with this diagnosis, sharing key features including bilateral tonic-clonic seizures with focal onset, focal impaired awareness seizures, global developmental delay, intellectual disability, autistic behavior, and EEG abnormalities."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1 (DEE1)",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "The combination of early-onset seizures, developmental delay, intellectual disability, and EEG abnormalities including hemihypsarrhythmia suggests a developmental and epileptic encephalopathy. DEE1 is X-linked and fits with the male patient."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2 (DEE2)",
+      "disease_id": "OMIM:300672",
+      "score": 0.33,
+      "explanation": "Another X-linked DEE that presents with seizures, intellectual disability, and developmental delays. The presence of gray matter heterotopia could be consistent with CDKL5-related disorder."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7 (DEE7)",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "KCNQ2-related DEE presents with early-onset seizures, developmental delay, and various seizure types including focal seizures. The EEG abnormalities and intellectual disability are consistent."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9 (DEE9)",
+      "disease_id": "OMIM:300088",
+      "score": 0.2,
+      "explanation": "PCDH19-related epilepsy typically affects females but can affect males with somatic mosaicism. Features include focal seizures, intellectual disability, and autistic behaviors."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1 (TSC1)",
+      "disease_id": "OMIM:191100",
+      "score": 0.17,
+      "explanation": "TSC can present with seizures, intellectual disability, autistic behavior, and cortical malformations including heterotopia. The occipital cortical atrophy could represent cortical tubers."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2 (TSC2)",
+      "disease_id": "OMIM:613254",
+      "score": 0.14,
+      "explanation": "Similar to TSC1, TSC2 presents with epilepsy, developmental delays, autism, and brain malformations. TSC2 mutations tend to cause more severe phenotypes."
+    },
+    {
+      "disease_name": "Lissencephaly 1 (LIS1)",
+      "disease_id": "OMIM:607432",
+      "score": 0.125,
+      "explanation": "Gray matter heterotopia is a key feature of lissencephaly spectrum disorders. The seizures, developmental delay, and intellectual disability are consistent with this diagnosis."
+    }
+  ]
+}

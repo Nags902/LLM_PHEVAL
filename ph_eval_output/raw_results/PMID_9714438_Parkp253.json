@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital contractural arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "Perfect match with all three reference cases. Patient presents with all key features: crumpled ear, arachnodactyly, camptodactyly of fingers and toes, elbow contracture, scoliosis, aortic root aneurysm, and mitral valve prolapse. This is a classic presentation of CCA (Beals syndrome)."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Shares several features including arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse. However, lacks the characteristic crumpled ear and multiple contractures that are hallmarks of CCA, making it less likely than CCA."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.33,
+      "explanation": "Can present with aortic root aneurysm, scoliosis, and some skeletal features. However, the presence of crumpled ear and multiple contractures with camptodactyly is more specific to CCA. LDS typically has other vascular features not mentioned here."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.25,
+      "explanation": "Can present with marfanoid features including arachnodactyly and scoliosis, plus some contractures. However, typically includes craniosynostosis and intellectual disability, which are not mentioned. The crumpled ear is more specific to CCA."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, arthrochalasia type",
+      "disease_id": "OMIM:130060",
+      "score": 0.2,
+      "explanation": "Can present with scoliosis and some joint contractures, but typically features joint hypermobility rather than contractures. The combination of crumpled ear, arachnodactyly, and cardiovascular features strongly favors CCA over EDS."
+    }
+  ]
+}

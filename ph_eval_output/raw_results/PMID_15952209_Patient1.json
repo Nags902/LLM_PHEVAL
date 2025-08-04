@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow syndrome, autosomal recessive",
+      "disease_id": "OMIM:268310",
+      "score": 1.0,
+      "explanation": "Patient shares 12/14 key features with reference cases including brachydactyly, mesomelia, small nails, symphalangism of 5th finger, broad thumb, hypertelorism, triangular mouth, short nose, anteverted nares, micropenis, short stature, and joint hypermobility. Missing only hemivertebrae and rib fusion seen in reference cases."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant 1",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "Dominant form of Robinow syndrome shares most phenotypic features but typically has milder skeletal findings. Patient's presentation with mesomelia and symphalangism suggests the more severe recessive form, though dominant form cannot be excluded."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant 2",
+      "disease_id": "OMIM:616331",
+      "score": 0.33,
+      "explanation": "Another dominant form caused by DVL1 mutations with similar but generally milder features compared to recessive form. The presence of mesomelia and multiple skeletal abnormalities makes this less likely than recessive form."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant 3",
+      "disease_id": "OMIM:616894",
+      "score": 0.25,
+      "explanation": "Caused by DVL3 mutations with overlapping features but typically milder presentation. The severity of skeletal findings in this patient favors recessive form over this dominant variant."
+    },
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "X-linked disorder with hypertelorism, short stature, brachydactyly, and genital abnormalities. However, lacks the characteristic mesomelia and symphalangism seen in this patient, and facial features don't fully match."
+    },
+    {
+      "disease_name": "Acromesomelic dysplasia, Maroteaux type",
+      "disease_id": "OMIM:602875",
+      "score": 0.17,
+      "explanation": "Features mesomelia and brachydactyly but lacks the characteristic facial dysmorphism (hypertelorism, frontal bossing, triangular mouth) and genital abnormalities seen in this patient."
+    }
+  ]
+}

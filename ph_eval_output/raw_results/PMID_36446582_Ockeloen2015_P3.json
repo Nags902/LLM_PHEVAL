@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical phenotype constellation: intellectual disability, autistic behavior, macrodontia, and hand abnormalities. All three reference cases confirm this diagnosis."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Features intellectual disability, autistic behavior, and hand abnormalities (particularly hypoplastic fifth digits). Lacks typical macrodontia but shares significant overlap with presented phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, autistic behavior, and limb abnormalities. Macrodontia is not typical but dental anomalies can occur. Strong behavioral phenotype overlap."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, autistic behaviors, and characteristic hand abnormalities (broad thumbs/hallux). Dental anomalies including talon cusps occur but macrodontia is less common."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.2,
+      "explanation": "Includes intellectual disability, autism spectrum behaviors, and skeletal abnormalities of hands. Dental anomalies are reported but macrodontia specifically is rare."
+    }
+  ]
+}

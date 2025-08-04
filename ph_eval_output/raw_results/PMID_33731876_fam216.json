@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
+      "disease_id": "OMIM:617527",
+      "score": 1.0,
+      "explanation": "Perfect match with Case 3 which shares 4/5 key features: progressive microcephaly, seizures, global developmental delay, corpus callosum abnormality, and edema. This syndrome specifically features progressive microcephaly which is rare and distinctive."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 4",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "Strong match with Case 1, sharing seizures, hypoplasia of corpus callosum, and severe developmental delay. DEE4 is caused by STXBP1 mutations and commonly presents with early-onset seizures and developmental delays."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.33,
+      "explanation": "Classic triad includes corpus callosum agenesis/hypoplasia, seizures, and developmental delay. Typically affects females (gender 0 suggests female). Progressive microcephaly can occur, though edema is less typical."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.25,
+      "explanation": "Features progressive microcephaly, corpus callosum hypoplasia, seizures, and severe developmental delay. The combination of progressive microcephaly with brain malformations is characteristic."
+    },
+    {
+      "disease_name": "Developmental delay, dysmorphic facies, and brain anomalies",
+      "disease_id": "OMIM:619797",
+      "score": 0.2,
+      "explanation": "Matches Case 2 with global developmental delay, seizures, corpus callosum hypoplasia, and microcephaly. However, lacks the extensive dysmorphic features described in the reference case."
+    },
+    {
+      "disease_name": "CASK-related disorders",
+      "disease_id": "OMIM:300749",
+      "score": 0.17,
+      "explanation": "Includes microcephaly with pontine and cerebellar hypoplasia. Features progressive microcephaly, developmental delay, and seizures. Corpus callosum abnormalities are common."
+    }
+  ]
+}

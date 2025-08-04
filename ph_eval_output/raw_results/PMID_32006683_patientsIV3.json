@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cutis laxa, autosomal recessive, type ID",
+      "disease_id": "OMIM:619222",
+      "score": 1.0,
+      "explanation": "Patient shares nearly all features with reference cases 1 and 2, including tall stature, accelerated skeletal maturation, characteristic facial features (downslanted palpebral fissures, ectropion), multiple diverticula (bladder, colonic, gastric), hernias, and connective tissue abnormalities. The extensive GI involvement with volvulus and diverticula is particularly characteristic."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Patient has several marfanoid features including tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, and pes planus. However, lacks typical cardiovascular manifestations and the multiple diverticula are not typical of Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.33,
+      "explanation": "Some overlapping features include tall stature, joint hypermobility, scoliosis, and hernias. The facial features (telecanthus, downslanted palpebral fissures) could fit, but lacks typical vascular manifestations and the GI diverticula pattern is more suggestive of cutis laxa."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.25,
+      "explanation": "Joint hypermobility, hernias, and some connective tissue features are present. However, the tall stature, accelerated skeletal maturation, specific facial features, and multiple organ diverticula are not typical of classic EDS."
+    },
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 0.2,
+      "explanation": "Shares marfanoid habitus with tall stature, arachnodactyly, and high myopia. However, lacks intellectual disability and thrombotic events, and the multiple diverticula and specific facial features are not characteristic of homocystinuria."
+    }
+  ]
+}

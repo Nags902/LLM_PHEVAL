@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 9",
+      "disease_id": "OMIM:609304",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases 2 and 3 showing identical phenotypes including bilateral tonic-clonic seizures, delayed speech and language development, and intellectual disability. Aggressive behavior is often associated with severe intellectual disability in DEE syndromes."
+    },
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:609304",
+      "score": 0.5,
+      "explanation": "Reference case 1 shows similar core features including bilateral tonic-clonic seizures with focal onset, intellectual disability, delayed speech development, and aggressive behavior. This epileptic encephalopathy presents with variable severity."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.33,
+      "explanation": "X-linked disorder that can affect females with milder phenotypes. Presents with early-onset seizures, intellectual disability, and behavioral problems including aggression."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "CDKL5-related disorder affecting females, characterized by early-onset seizures, severe intellectual disability, and behavioral issues. The phenotype matches but typically presents earlier in infancy."
+    },
+    {
+      "disease_name": "Developmental and epileptic encephalopathy 7",
+      "disease_id": "OMIM:613720",
+      "score": 0.2,
+      "explanation": "KCNQ2-related encephalopathy presenting with neonatal or early infantile seizures, intellectual disability, and developmental delays. Behavioral problems are common but seizures typically start earlier."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features severe intellectual disability, absent or minimal speech, seizures, and behavioral characteristics. However, typically includes happy demeanor rather than aggression, though behavioral outbursts can occur."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prolonged electroretinal response suppression 1",
+      "disease_id": "OMIM:616414",
+      "score": 1.0,
+      "explanation": "All three reference cases with identical phenotypes (bradyopsia, difficulty adjusting to luminance changes, reduced visual acuity, and photophobia) were diagnosed with this condition. The patient presents with the exact same four core symptoms."
+    },
+    {
+      "disease_name": "Bradyopsia",
+      "disease_id": "OMIM:608415",
+      "score": 0.5,
+      "explanation": "This condition is characterized by delayed adaptation to changes in luminance levels and is caused by mutations in RGS9 or R9AP genes. The patient's primary symptom of bradyopsia along with difficulty adjusting to luminance changes strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Cone dystrophy 3",
+      "disease_id": "OMIM:602093",
+      "score": 0.333,
+      "explanation": "Cone dystrophies can present with photophobia, reduced visual acuity, and difficulties with light adaptation. However, bradyopsia is not a typical primary feature, making this less likely than the above conditions."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.25,
+      "explanation": "This condition presents with severe photophobia and reduced visual acuity, but typically includes complete color blindness and nystagmus. The absence of reported color vision defects makes this less likely."
+    },
+    {
+      "disease_name": "Enhanced S-cone syndrome",
+      "disease_id": "OMIM:268100",
+      "score": 0.2,
+      "explanation": "This retinal dystrophy can cause photophobia and reduced visual acuity with abnormal light adaptation, but typically presents with more severe night blindness and specific ERG findings not mentioned in this case."
+    }
+  ]
+}

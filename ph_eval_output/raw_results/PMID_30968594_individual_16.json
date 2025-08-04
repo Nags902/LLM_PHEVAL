@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases. Classic presentation with decreased cortisol, increased ACTH (due to lack of negative feedback), altered sex hormones (decreased testosterone, increased estradiol), and increased prolactin. This is the non-classic form of CAH."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
+      "score": 0.5,
+      "explanation": "Another form of CAH that can present with similar hormonal abnormalities including low cortisol, high ACTH, and altered sex hormones. Less common than 21-hydroxylase deficiency but should be considered."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.33,
+      "explanation": "Can cause decreased cortisol and testosterone with increased ACTH. The increased estradiol and prolactin are also consistent, though this form typically presents with hypertension due to mineralocorticoid excess."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency",
+      "disease_id": "OMIM:201810",
+      "score": 0.25,
+      "explanation": "Rare form of CAH affecting both adrenal and gonadal steroidogenesis. Can present with low cortisol, high ACTH, and abnormal sex steroids, though the specific pattern may differ slightly from the patient's presentation."
+    },
+    {
+      "disease_name": "Aromatase excess syndrome",
+      "disease_id": "OMIM:139300",
+      "score": 0.2,
+      "explanation": "Could explain the increased estradiol and decreased testosterone, and secondary increases in prolactin. However, it doesn't typically cause the adrenal insufficiency pattern (low cortisol, high ACTH) seen in this patient."
+    }
+  ]
+}

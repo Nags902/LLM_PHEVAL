@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, developmental delay, hypertelorism, thick eyebrows, bulbous nose, long philtrum, and delayed speech. Macrodontia is also a recognized feature. KMT2D mutations cause this syndrome."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "X-linked form caused by KDM6A mutations. Similar features to Kabuki syndrome 1 but less common. Compatible with male patient and similar facial dysmorphisms."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "Features thick eyebrows, bulbous nose, intellectual disability, and developmental delays. However, typically includes more severe hand/foot abnormalities not mentioned in this patient."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, thick eyebrows, hypertelorism, and developmental delays. Caused by KMT2A mutations. Dental abnormalities can occur."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, thick eyebrows, long philtrum, and developmental delays. However, typically includes limb abnormalities and more severe growth restriction."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.17,
+      "explanation": "Can present with intellectual disability, bulbous nose, and speech delays. However, typically includes short stature and triangular face which aren't mentioned."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-pancytopenia syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 1.0,
+      "explanation": "Perfect match with reference cases showing identical combination of pancytopenia (neutropenia, thrombocytopenia, anemia) and cerebellar signs (unsteady gait, nystagmus, dysarthria, dysmetria) plus pyramidal signs (Babinski sign, ankle clonus). Patient's presentation matches all three reference cases."
+    },
+    {
+      "disease_name": "Hoyeraal-Hreidarsson syndrome",
+      "disease_id": "OMIM:300240",
+      "score": 0.5,
+      "explanation": "Severe variant of dyskeratosis congenita presenting with bone marrow failure/pancytopenia and can have cerebellar hypoplasia with ataxia. However, typically presents earlier in life and includes additional features like intrauterine growth retardation and immunodeficiency not mentioned here."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.33,
+      "explanation": "Can present with bone marrow failure and pancytopenia. Neurological features are less common but can occur. Missing typical mucocutaneous features (nail dystrophy, oral leukoplakia, skin hyperpigmentation) makes this less likely."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:607139",
+      "score": 0.25,
+      "explanation": "Presents with pancytopenia and bone marrow failure. While neurological abnormalities can occur, the specific combination of cerebellar signs seen here is atypical. Usually presents earlier with congenital anomalies."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 0.2,
+      "explanation": "Can cause anemia and occasionally pancytopenia, but typically presents in infancy with pure red cell aplasia. The prominent neurological features and adult presentation make this unlikely."
+    },
+    {
+      "disease_name": "Shwachman-Diamond syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.17,
+      "explanation": "Can present with pancytopenia and bone marrow failure. However, typically includes exocrine pancreatic insufficiency and skeletal abnormalities. The cerebellar signs seen here are not typical features."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, early-onset, 3, with or without developmental delay",
+      "disease_id": "OMIM:611409",
+      "score": 1.0,
+      "explanation": "Strong match with reference cases showing identical seizure types (infantile spasms, bilateral tonic-clonic, focal-onset), severe intellectual disability, absent speech, global developmental delay, and microcephaly. The motor stereotypy and tremor are also consistent with the reference cases."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Classic triad of infantile spasms, developmental delay, and EEG abnormalities. The patient's severe intellectual disability, microcephaly, and absent speech are typical. However, the additional focal seizures and bilateral tonic-clonic seizures suggest a broader epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.33,
+      "explanation": "Multiple seizure types including tonic-clonic and focal seizures with severe intellectual disability. The broad-based gait and poor coordination fit the motor impairments seen in LGS. However, infantile spasms are not typical of LGS, suggesting evolution from West syndrome."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "Early-onset seizures including infantile spasms, severe intellectual disability, absent speech, and motor stereotypies are characteristic. The female patient with precocious puberty could suggest X-linked inheritance pattern. However, hearing impairment is less common in CDKL5."
+    },
+    {
+      "disease_name": "SCN1A-related epileptic encephalopathy",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "Multiple seizure types beginning in infancy with severe developmental delay. The motor coordination problems and intellectual disability fit. However, the combination of infantile spasms with hearing impairment and precocious puberty is atypical for SCN1A mutations."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.17,
+      "explanation": "Female patient with severe intellectual disability, absent speech, motor stereotypies, and microcephaly are consistent. The broad-based gait and poor coordination match the motor dysfunction. However, typical hand-wringing stereotypies and regression pattern are not specifically mentioned."
+    }
+  ]
+}
