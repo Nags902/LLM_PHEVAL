@@ -26,9 +26,9 @@
 #     precision_recall_title: 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-benchmark_name: llm_rag_DEEPSEEK_VS_GPT_benchmark
+benchmark_name: LLMs_RAG_Benchmark
 runs:
-  - run_identifier: llm_rag_DEEPSEEK_VS_GPT_benchmark_V1_deepseek
+  - run_identifier: DeepSeek-R1
     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
     gene_analysis: False
@@ -36,7 +36,15 @@ runs:
     disease_analysis: True
     threshold:
     score_order: descending
-  - run_identifier: llm_rag_DEEPSEEK_VS_GPT_benchmark_V1_GPT
+  - run_identifier: GPT-4o
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI/
+    phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+    gene_analysis: False
+    variant_analysis: False
+    disease_analysis: True
+    threshold:
+    score_order: descending
+  - run_identifier: Gemini-2.5-Flash
     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/pheval_disease_results/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
     gene_analysis: False
