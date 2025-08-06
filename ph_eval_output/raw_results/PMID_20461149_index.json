@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is characterized by coloboma (iris and retinal), hearing impairment, and multiple congenital anomalies. The patient's ocular colobomas, conductive hearing loss, and facial anomalies (median pseudocleft lip) strongly suggest this diagnosis."
+    },
+    {
+      "disease_name": "Branchio-oculo-facial syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 0.5,
+      "explanation": "BOFS features include ocular anomalies (microphthalmia, coloboma, cataract), hearing loss, and characteristic facial features including pseudocleft of the upper lip. The patient's aplasia cutis congenita is also a recognized feature."
+    },
+    {
+      "disease_name": "Oculo-auriculo-vertebral spectrum (Goldenhar syndrome)",
+      "disease_id": "OMIM:164210",
+      "score": 0.33,
+      "explanation": "OAVS can present with ocular anomalies including microphthalmia and coloboma, conductive hearing loss, and facial anomalies. However, the specific pattern of median pseudocleft lip is less typical."
+    },
+    {
+      "disease_name": "Matthew-Wood syndrome (Anophthalmia-esophageal-genital syndrome)",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "This syndrome includes severe ocular malformations (anophthalmia/severe microphthalmia), but the presence of colobomas and the specific facial features make it less likely than the above conditions."
+    },
+    {
+      "disease_name": "Treacher Collins syndrome",
+      "disease_id": "OMIM:154500",
+      "score": 0.2,
+      "explanation": "TCS typically presents with conductive hearing loss and facial anomalies, but severe ocular malformations with colobomas are not characteristic features, making this diagnosis less likely."
+    }
+  ]
+}

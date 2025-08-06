@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Classic triad of short stature, shortened metacarpals (particularly 4th and 5th), and intellectual disability. This is the prototypical disorder for this combination of features."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Presents with Albright hereditary osteodystrophy phenotype including short stature, brachydactyly with short metacarpals, and cognitive impairment. Associated with GNAS mutations."
+    },
+    {
+      "disease_name": "Brachydactyly-Mental Retardation Syndrome",
+      "disease_id": "OMIM:600430",
+      "score": 0.333,
+      "explanation": "Characterized by brachydactyly (including short metacarpals), intellectual disability, and often short stature. Caused by deletions at 2q37."
+    },
+    {
+      "disease_name": "Acrodysostosis 1",
+      "disease_id": "OMIM:101800",
+      "score": 0.25,
+      "explanation": "Features severe brachydactyly with markedly short metacarpals, short stature, and mild to moderate intellectual disability. Caused by PRKAR1A mutations."
+    },
+    {
+      "disease_name": "Acrodysostosis 2",
+      "disease_id": "OMIM:614613",
+      "score": 0.2,
+      "explanation": "Similar to type 1 with brachydactyly, short stature, and intellectual disability but caused by PDE4D mutations. May have more severe cognitive impairment."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:300082",
+      "score": 0.167,
+      "explanation": "Common cause of short stature with possible short metacarpals (especially 4th) and mild intellectual difficulties. However, typically affects females (patient gender listed as 1)."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.143,
+      "explanation": "Includes short stature, intellectual disability, and skeletal abnormalities that can include brachydactyly. Caused by KMT2D mutations."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.125,
+      "explanation": "Features intellectual disability, short stature, and broad thumbs/hallux, though metacarpal shortening is less typical. Caused by CREBBP mutations."
+    }
+  ]
+}

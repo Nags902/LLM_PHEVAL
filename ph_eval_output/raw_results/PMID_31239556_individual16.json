@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Strong match with key features including intellectual disability, global developmental delay, microcephaly, delayed speech (often severe/absent), delayed walking, feeding difficulties, constipation, sleep abnormalities, and recurrent infections. The combination is highly characteristic."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Matches with intellectual disability, microcephaly (acquired), developmental delay, hypertonia, feeding difficulties, and constipation. However, typically affects females and has characteristic hand movements not mentioned."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.333,
+      "explanation": "Consistent with intellectual disability, microcephaly, severe speech delay, constipation, and recurrent respiratory infections. However, typically includes distinctive facial features and breathing abnormalities not noted."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Matches intellectual disability, microcephaly, delayed motor milestones, speech delay, chronic constipation (Hirschsprung disease), and long eyelashes. Missing typical facial features description."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Consistent with severe intellectual disability, microcephaly, global developmental delay, feeding difficulties, constipation, sleep disturbances, and hypertonia. Movement disorders typically present but not mentioned."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.167,
+      "explanation": "Matches intellectual disability, developmental delay, hypertonia, recurrent infections (particularly respiratory), feeding difficulties, and constipation. Typically affects males, which fits the patient gender."
+    },
+    {
+      "disease_name": "Christianson syndrome",
+      "disease_id": "OMIM:300243",
+      "score": 0.143,
+      "explanation": "X-linked disorder affecting males with intellectual disability, microcephaly, delayed motor milestones, absent speech, and recurrent infections. Missing typical features like seizures and progressive cerebellar atrophy."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.125,
+      "explanation": "Features intellectual disability, developmental delay, feeding difficulties, and long eyelashes. However, typically includes characteristic facial features and fifth digit/nail hypoplasia not mentioned."
+    }
+  ]
+}

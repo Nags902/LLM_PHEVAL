@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 1.0,
+      "explanation": "X-linked disorder affecting males with intellectual disability, characteristic facial features including hypertelorism, bulbous nose, thick eyebrows, and dental abnormalities. The combination of facial dysmorphism and developmental delays strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Features intellectual disability, distinctive facial features including long philtrum, hypertelorism, and thick eyebrows. While dental abnormalities can occur, macrodontia is less typical than in Coffin-Lowry."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.33,
+      "explanation": "X-linked form of Kabuki syndrome with similar features to type 1, including intellectual disability and facial dysmorphism. The male patient could have this X-linked variant."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, thick eyebrows, and facial dysmorphism including long philtrum. However, hypertelorism and bulbous nose are less characteristic, and macrodontia is not typical."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.2,
+      "explanation": "Features macrodontia as a key finding along with intellectual disability and facial dysmorphism. The thick eyebrows and bulbous nose fit, though hypertelorism is less common."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.17,
+      "explanation": "Characterized by intellectual disability, delayed speech, and distinctive facial features including bulbous nose and long philtrum. However, thick eyebrows and macrodontia are less typical."
+    }
+  ]
+}

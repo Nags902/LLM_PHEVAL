@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Caf\u00e9-au-lait macules and freckling, particularly in axillary and inguinal regions, are hallmark features of NF1. This is the most common disorder presenting with freckling as a primary feature."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Also known as NF1-like syndrome, presents with caf\u00e9-au-lait spots and freckling similar to NF1 but without neurofibromas. Caused by SPRED1 mutations."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.33,
+      "explanation": "Can present with caf\u00e9-au-lait spots that may be mistaken for freckling, though typically larger and with irregular borders. Less likely given isolated freckling."
+    },
+    {
+      "disease_name": "Peutz-Jeghers syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.25,
+      "explanation": "Characterized by mucocutaneous pigmentation (freckling) particularly around lips, oral mucosa, and fingers. Less likely without mention of specific distribution or polyps."
+    },
+    {
+      "disease_name": "Carney complex, type 1",
+      "disease_id": "OMIM:160980",
+      "score": 0.2,
+      "explanation": "Can present with lentigines (freckling), particularly on face and lips. Less likely without other features like myxomas or endocrine tumors."
+    },
+    {
+      "disease_name": "LEOPARD syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 0.17,
+      "explanation": "Now called Noonan syndrome with multiple lentigines. Presents with multiple lentigines (freckling) but typically with other features like cardiac abnormalities."
+    },
+    {
+      "disease_name": "Xeroderma pigmentosum, complementation group A",
+      "disease_id": "OMIM:278700",
+      "score": 0.14,
+      "explanation": "Can present with freckling and pigmentary changes, especially in sun-exposed areas. Less likely without photosensitivity history."
+    }
+  ]
+}

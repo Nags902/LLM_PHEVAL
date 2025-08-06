@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Usher syndrome type 1B",
+      "disease_id": "OMIM:276900",
+      "score": 1.0,
+      "explanation": "Most common form of Usher syndrome with congenital profound sensorineural hearing loss, typically diagnosed in young adults when retinitis pigmentosa becomes apparent."
+    },
+    {
+      "disease_name": "Usher syndrome type 2A",
+      "disease_id": "OMIM:276901",
+      "score": 0.5,
+      "explanation": "Characterized by moderate to severe sensorineural hearing loss from birth, with retinitis pigmentosa developing later in adolescence or young adulthood."
+    },
+    {
+      "disease_name": "Pendred syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.333,
+      "explanation": "Autosomal recessive disorder with sensorineural hearing loss and thyroid goiter, though goiter may not develop until late childhood or early adulthood."
+    },
+    {
+      "disease_name": "Waardenburg syndrome type 1",
+      "disease_id": "OMIM:193500",
+      "score": 0.25,
+      "explanation": "Autosomal dominant condition with sensorineural hearing loss in 20-25% of cases, often associated with pigmentary abnormalities not mentioned in this case."
+    },
+    {
+      "disease_name": "Branchio-oto-renal syndrome 1",
+      "disease_id": "OMIM:113650",
+      "score": 0.2,
+      "explanation": "Characterized by sensorineural, conductive, or mixed hearing loss, though typically presents with additional features like branchial anomalies and renal malformations."
+    },
+    {
+      "disease_name": "Alport syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.167,
+      "explanation": "X-linked disorder with progressive sensorineural hearing loss, though typically associated with progressive kidney disease and ocular abnormalities."
+    },
+    {
+      "disease_name": "Nonsyndromic hearing loss, DFNA3A",
+      "disease_id": "OMIM:601544",
+      "score": 0.143,
+      "explanation": "Autosomal dominant progressive sensorineural hearing loss without other systemic features, caused by GJB2 mutations."
+    },
+    {
+      "disease_name": "Nonsyndromic hearing loss, DFNB1A",
+      "disease_id": "OMIM:220290",
+      "score": 0.125,
+      "explanation": "Most common form of autosomal recessive nonsyndromic hearing loss, caused by GJB2 mutations, presenting with isolated sensorineural hearing impairment."
+    }
+  ]
+}

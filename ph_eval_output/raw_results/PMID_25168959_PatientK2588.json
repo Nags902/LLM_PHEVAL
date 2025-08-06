@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic features include thick eyebrows, long eyelashes, depressed nasal bridge, thin upper lip, long philtrum, microcephaly, intellectual disability, feeding difficulties, and growth retardation. The facial dysmorphisms are highly characteristic."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "X-linked form with similar features to CdLS1 including distinctive facial features, microcephaly, intellectual disability, and growth retardation, though typically milder presentation."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.33,
+      "explanation": "Another subtype with characteristic facial features, developmental delay, and growth retardation, caused by mutations in SMC3 gene."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Features overlap including thick eyebrows, long eyelashes, feeding difficulties, developmental delay, and corpus callosum abnormalities, though typically includes hypoplastic fifth digits not mentioned here."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.2,
+      "explanation": "Shares microcephaly, intellectual disability, corpus callosum abnormalities, and some facial features, though typically includes Hirschsprung disease and more specific facial gestalt."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Features include intellectual disability, microcephaly, and distinctive facial features, though typically includes broad thumbs/toes not mentioned in this case."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.14,
+      "explanation": "Can present with microcephaly, feeding difficulties, developmental delay, and some overlapping facial features, though typically includes 2-3 toe syndactyly and cholesterol abnormalities."
+    }
+  ]
+}

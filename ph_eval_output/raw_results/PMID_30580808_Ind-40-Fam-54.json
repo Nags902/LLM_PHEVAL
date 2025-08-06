@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with characteristic facial features including thick eyebrows, long eyelashes, wide nose, anteverted nares, thick lower lip, wide mouth, and downturned corners. Also consistent with brachydactyly, hypermobility, intellectual disability, and developmental delay."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Good match with long eyelashes, downslanted palpebral fissures, anteverted nares, intellectual disability, and joint hypermobility. However, typically presents with arched eyebrows rather than thick, and prominent lower lip eversion."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Consistent with thick eyebrows, long eyelashes, anteverted nares, thin upper lip, downturned mouth corners, brachydactyly, intellectual disability, and autistic behavior. However, typically has synophrys and more severe limb abnormalities."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Matches with wide nose, anteverted nares, wide mouth, thick lower lip, intellectual disability, and developmental delay. However, typically has stellate iris pattern and more prominent cardiovascular features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Consistent with downslanted palpebral fissures, intellectual disability, autistic behavior, and brachydactyly. However, typically has broad thumbs/toes and beaked nose rather than wide nose."
+    }
+  ]
+}

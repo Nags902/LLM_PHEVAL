@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "COL4A1-related brain small vessel disease",
+      "disease_id": "OMIM:175780",
+      "score": 1.0,
+      "explanation": "This disorder strongly matches the patient's presentation with porencephalic cysts, cerebral hemorrhage, hydrocephalus, basal ganglia calcification, and white matter abnormalities. COL4A1 mutations cause fragile cerebral vessels leading to hemorrhage and subsequent porencephaly."
+    },
+    {
+      "disease_name": "COL4A2-related disorder",
+      "disease_id": "OMIM:614483",
+      "score": 0.5,
+      "explanation": "Similar to COL4A1, COL4A2 mutations cause cerebral small vessel disease with porencephalic cysts, intracerebral hemorrhage, and white matter changes. The phenotypic overlap is substantial with the patient's features."
+    },
+    {
+      "disease_name": "Pseudo-TORCH syndrome 1",
+      "disease_id": "OMIM:251290",
+      "score": 0.33,
+      "explanation": "Features intracranial calcifications, microcephaly, and brain abnormalities. While it matches basal ganglia calcification and some structural abnormalities, it typically presents with more severe developmental issues."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.25,
+      "explanation": "Presents with basal ganglia calcification, white matter abnormalities, and cerebral atrophy. However, it typically includes more inflammatory features and doesn't commonly cause porencephalic cysts."
+    },
+    {
+      "disease_name": "Fahr disease",
+      "disease_id": "OMIM:213600",
+      "score": 0.2,
+      "explanation": "Primarily characterized by basal ganglia calcification, which matches the patient. However, it doesn't typically present with porencephalic cysts, hemorrhage, or the extensive structural abnormalities seen here."
+    },
+    {
+      "disease_name": "Megalencephalic leukoencephalopathy with subcortical cysts 1",
+      "disease_id": "OMIM:604004",
+      "score": 0.17,
+      "explanation": "Features white matter abnormalities and cysts, matching some patient features. However, it typically presents with megalencephaly rather than the hemorrhagic and calcification features seen here."
+    }
+  ]
+}

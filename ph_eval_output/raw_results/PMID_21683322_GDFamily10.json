@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fetal Alcohol Spectrum Disorder",
+      "disease_id": "OMIM:601573",
+      "score": 1.0,
+      "explanation": "Classic triad of smooth philtrum, thin upper lip vermilion, and long philtrum are pathognomonic for FASD. Additional features of short stature, hypertelorism, and short extremities strongly support this diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Features thin upper lip vermilion, short stature, limitation of joint mobility, and short extremities. However, lacks the typical synophrys and hirsutism commonly seen in CdLS."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.33,
+      "explanation": "X-linked form of CdLS with similar features to type 1 but typically milder. The facial features and growth restriction are consistent, though less specific facial characteristics are present."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.25,
+      "explanation": "Another subtype of CdLS with overlapping features including growth restriction and facial dysmorphism, though this form often has less severe limb abnormalities."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Characterized by short stature, characteristic facial features including short nose, and joint limitations. However, typically presents with more prominent intellectual disability."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.17,
+      "explanation": "Features full cheeks and short stature, but lacks the typical elfin facies, stellate iris pattern, and cardiovascular abnormalities usually seen in Williams syndrome."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.14,
+      "explanation": "X-linked disorder with hypertelorism, short stature, and short hands/feet. However, typically presents with more prominent genital abnormalities and widow's peak."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.125,
+      "explanation": "Features hypertelorism and short stature are consistent, but lacks the typical cardiac defects, webbed neck, and chest deformities commonly seen in Noonan syndrome."
+    }
+  ]
+}

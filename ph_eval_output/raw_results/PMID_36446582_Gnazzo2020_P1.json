@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, global developmental delay, feeding difficulties, bulbous nose, and hand abnormalities. CSS1 is caused by ARID1B mutations and presents with characteristic facial features including hypertelorism and bulbous nose."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, developmental delay, feeding difficulties, hypertelorism, and distinctive facial features. Hand abnormalities are common. Long philtrum is a characteristic feature."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 2",
+      "disease_id": "OMIM:614607",
+      "score": 0.33,
+      "explanation": "Similar presentation to CSS1 with intellectual disability, developmental delay, and characteristic facial features. Caused by ARID1A mutations. Bulbous nose and feeding difficulties are common."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.25,
+      "explanation": "Features macrodontia as a cardinal sign along with intellectual disability, developmental delay, and distinctive facial features including hypertelorism and bulbous nose. Hand abnormalities can occur."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, delayed speech and language development, and distinctive facial features including bulbous nose and long philtrum. Hand abnormalities are less common but possible."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 3",
+      "disease_id": "OMIM:614608",
+      "score": 0.17,
+      "explanation": "Another subtype of CSS caused by SMARCB1 mutations. Similar phenotype with intellectual disability, developmental delay, feeding difficulties, and characteristic facial features."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.14,
+      "explanation": "Features intellectual disability, developmental delay, hypertelorism, and feeding difficulties. Long philtrum can be present. Hand abnormalities are less specific but may occur."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.125,
+      "explanation": "X-linked form caused by SMC1A mutations. Similar features to CdLS1 including intellectual disability, feeding difficulties, and distinctive facial features with long philtrum."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-Pancytopenia Syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 1.0,
+      "explanation": "This rare syndrome presents with cerebellar ataxia, pancytopenia, and predisposition to myelodysplasia, matching the patient's key features of cerebellar atrophy, dysmetria, nystagmus, pancytopenia, and myelodysplasia."
+    },
+    {
+      "disease_name": "Hoyeraal-Hreidarsson Syndrome",
+      "disease_id": "OMIM:300240",
+      "score": 0.5,
+      "explanation": "A severe variant of dyskeratosis congenita presenting with cerebellar hypoplasia, progressive pancytopenia, immunodeficiency, and developmental delays. The patient's cerebellar atrophy, pancytopenia, and immunoglobulin deficiencies align well with this diagnosis."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, X-linked",
+      "disease_id": "OMIM:305000",
+      "score": 0.33,
+      "explanation": "Features bone marrow failure with pancytopenia and increased risk of myelodysplasia. While it matches the hematologic findings, classic mucocutaneous features are not mentioned, and cerebellar involvement is less typical."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.25,
+      "explanation": "Another form of dyskeratosis congenita with bone marrow failure and myelodysplasia risk, but cerebellar involvement and immunodeficiency are less characteristic of this subtype."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.2,
+      "explanation": "Presents with bone marrow failure, myelodysplasia risk, and increased mean corpuscular volume. However, cerebellar atrophy and immunoglobulin deficiencies are not typical features, and characteristic physical anomalies are not described."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.17,
+      "explanation": "Features bone marrow dysfunction with neutropenia and risk of myelodysplasia. While it can have neurological involvement, cerebellar atrophy is not typical, and pancreatic insufficiency (a hallmark feature) is not mentioned."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.14,
+      "explanation": "Presents with cerebellar ataxia and immunodeficiency with low immunoglobulins and recurrent infections. However, pancytopenia and myelodysplasia are not typical features, and characteristic telangiectasias are not mentioned."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hajdu-Cheney Syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 1.0,
+      "explanation": "Strong match with osteolytic defects of phalanges, vertebral osteoporosis, compression fractures, short stature, micrognathia, and thick eyebrows. This rare skeletal disorder is characterized by progressive bone loss."
+    },
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.5,
+      "explanation": "Features short stature, micrognathia, and bone abnormalities. However, typically presents with increased bone density rather than osteoporosis, making it less likely than Hajdu-Cheney."
+    },
+    {
+      "disease_name": "Geroderma Osteodysplastica",
+      "disease_id": "OMIM:231070",
+      "score": 0.33,
+      "explanation": "Matches with osteoporosis, vertebral compression fractures, and facial features including micrognathia. The large earlobes could fit with the skin laxity seen in this condition."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta Type I",
+      "disease_id": "OMIM:166200",
+      "score": 0.25,
+      "explanation": "Explains vertebral osteoporosis, compression fractures, and short stature. However, lacks typical features like blue sclerae and doesn't explain the facial dysmorphism or phalangeal osteolysis."
+    },
+    {
+      "disease_name": "Trichorhinophalangeal Syndrome Type I",
+      "disease_id": "OMIM:190350",
+      "score": 0.2,
+      "explanation": "Can present with thick eyebrows, short stature, and phalangeal abnormalities. However, the osteolytic defects and severe osteoporosis are less typical for this condition."
+    },
+    {
+      "disease_name": "Singleton-Merten Syndrome 1",
+      "disease_id": "OMIM:182250",
+      "score": 0.17,
+      "explanation": "Can cause osteoporosis and skeletal abnormalities. However, typically presents with dental anomalies and calcifications not mentioned in this case."
+    }
+  ]
+}

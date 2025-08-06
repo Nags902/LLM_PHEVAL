@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency, Nuclear Type 1",
+      "disease_id": "OMIM:252010",
+      "score": 1.0,
+      "explanation": "Presents in infancy with hypotonia, developmental delay, increased lactate, and hypoglycemia. The combination of lactic acidosis with neurological symptoms strongly suggests mitochondrial disease."
+    },
+    {
+      "disease_name": "Pyruvate Carboxylase Deficiency",
+      "disease_id": "OMIM:266150",
+      "score": 0.5,
+      "explanation": "Classic presentation includes lactic acidosis, hypoglycemia, hypotonia, and developmental delay in infancy. Coagulation abnormalities can occur due to liver dysfunction."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.33,
+      "explanation": "Presents with severe hypoglycemia, lactic acidosis, and hypotonia in infancy. Coagulation defects occur due to platelet dysfunction. Developmental delay is less common but possible."
+    },
+    {
+      "disease_name": "Mitochondrial Complex IV Deficiency, Nuclear Type 1",
+      "disease_id": "OMIM:220110",
+      "score": 0.25,
+      "explanation": "Another mitochondrial disorder presenting with lactic acidosis, hypotonia, and developmental delay in infancy. Hypoglycemia and coagulopathy can occur as secondary features."
+    },
+    {
+      "disease_name": "Fructose-1,6-Bisphosphatase Deficiency",
+      "disease_id": "OMIM:229700",
+      "score": 0.2,
+      "explanation": "Presents with hypoglycemia, lactic acidosis, and hypotonia during metabolic stress. Developmental delay is not typical but can occur with severe episodes."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 1 (MNGIE Type)",
+      "disease_id": "OMIM:603041",
+      "score": 0.17,
+      "explanation": "Can present in infancy with lactic acidosis, hypotonia, and developmental delay. Hypoglycemia and coagulopathy may occur with liver involvement."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase E1-Alpha Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.14,
+      "explanation": "X-linked disorder that can affect males severely, presenting with lactic acidosis, hypotonia, and developmental delay. Hypoglycemia is less common but possible."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type III",
+      "disease_id": "OMIM:232400",
+      "score": 0.125,
+      "explanation": "Can present with hypoglycemia, mild lactic acidosis, hypotonia, and developmental delay. Coagulation abnormalities are less common but may occur with liver involvement."
+    }
+  ]
+}

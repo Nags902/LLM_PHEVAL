@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cardio-facio-cutaneous syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 1.0,
+      "explanation": "CFC syndrome presents with characteristic facial features (hypertelorism, short nose), cardiac defects (though typically different valvular issues), short stature, and limb abnormalities. The facial dysmorphisms align well with this patient's presentation."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Features hypertelorism, short stature, and cardiac involvement (though pulmonary stenosis is more common than mitral/tricuspid). The facial features and limb findings are consistent, though the specific cardiac lesions are atypical."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "Presents with facial dysmorphisms including full cheeks and hypertelorism, short stature, and limb abnormalities. Joint limitations and respiratory issues can occur, though the specific cardiac findings are less typical."
+    },
+    {
+      "disease_name": "Costello syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.25,
+      "explanation": "Features full cheeks, short nose, cardiac abnormalities, short stature, and joint problems. The facial features match well, though hypertrophic cardiomyopathy is more typical than valvular stenosis."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type VI",
+      "disease_id": "OMIM:253200",
+      "score": 0.2,
+      "explanation": "MPS VI can present with valvular heart disease (including mitral and tricuspid involvement), joint stiffness, short stature, and respiratory issues. The facial features could represent early coarsening, though classic MPS features aren't fully described."
+    },
+    {
+      "disease_name": "3M syndrome 1",
+      "disease_id": "OMIM:273750",
+      "score": 0.17,
+      "explanation": "Characterized by severe short stature, facial dysmorphisms including full cheeks and long philtrum, and short hands/feet. Cardiac involvement is not typical, making this less likely despite good phenotypic overlap otherwise."
+    }
+  ]
+}

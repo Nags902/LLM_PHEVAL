@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis 2 (CLN2)",
+      "disease_id": "OMIM:204500",
+      "score": 1.0,
+      "explanation": "CLN2 presents with epileptic encephalopathy, developmental delay, ataxia, spasticity, visual deterioration (abnormal ERG), and cerebral atrophy. The age of onset (3 years) and combination of progressive neurodegeneration with epilepsy and visual impairment strongly suggest this diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.5,
+      "explanation": "MELAS can present with epileptic encephalopathy, developmental delay, cerebral atrophy, and spasticity. The early onset and progressive neurological deterioration with epilepsy are consistent, though visual symptoms are less typical."
+    },
+    {
+      "disease_name": "Infantile Neuroaxonal Dystrophy (INAD)",
+      "disease_id": "OMIM:256600",
+      "score": 0.33,
+      "explanation": "INAD presents with progressive neurodegeneration, hypotonia progressing to spasticity, visual impairment (abnormal ERG), and developmental regression. The mixed tone abnormalities and visual involvement support this diagnosis."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.25,
+      "explanation": "This mitochondrial disorder presents with intractable epilepsy, developmental delay, and progressive neurodegeneration. The epileptic encephalopathy and sudden death are particularly suggestive, though visual symptoms are less common."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "Dravet syndrome presents with epileptic encephalopathy, developmental delay, and high risk of SUDEP. However, the visual involvement and progressive cerebral atrophy are less typical features."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis 1 (CLN1)",
+      "disease_id": "OMIM:256730",
+      "score": 0.17,
+      "explanation": "CLN1 typically presents earlier than this patient's age, but can have later onset variants. Features include visual loss, epilepsy, developmental regression, and cerebral atrophy."
+    }
+  ]
+}

@@ -7,46 +7,46 @@
       "explanation": "Classic presentation with congenital sensorineural hearing loss and delayed speech/language development. Most common syndromic cause of hearing loss."
     },
     {
-      "disease_name": "Usher Syndrome Type 1",
-      "disease_id": "OMIM:276900",
-      "score": 0.5,
-      "explanation": "Presents with congenital profound sensorineural hearing loss and delayed motor/speech milestones. Would need ophthalmologic evaluation to confirm."
-    },
-    {
       "disease_name": "Waardenburg Syndrome Type 1",
       "disease_id": "OMIM:193500",
-      "score": 0.33,
-      "explanation": "Can present with sensorineural hearing loss and secondary speech delays. Would typically have additional features like heterochromia or white forelock."
+      "score": 0.5,
+      "explanation": "Presents with sensorineural hearing loss in ~20% of cases, which can lead to speech delays. Additional features like pigmentary abnormalities would help confirm."
     },
     {
       "disease_name": "Waardenburg Syndrome Type 2",
       "disease_id": "OMIM:193510",
+      "score": 0.33,
+      "explanation": "Higher frequency of hearing loss (~50%) compared to Type 1, leading to speech delays. Lacks dystopia canthorum seen in Type 1."
+    },
+    {
+      "disease_name": "Usher Syndrome Type 1",
+      "disease_id": "OMIM:276900",
       "score": 0.25,
-      "explanation": "Similar to Type 1 but without dystopia canthorum. Hearing loss is the primary feature with secondary speech delays."
+      "explanation": "Congenital profound sensorineural hearing loss with speech delays. Progressive retinitis pigmentosa typically manifests later in childhood."
     },
     {
       "disease_name": "Jervell and Lange-Nielsen Syndrome",
       "disease_id": "OMIM:220400",
       "score": 0.2,
-      "explanation": "Presents with congenital profound sensorineural deafness and speech delays. Associated with long QT syndrome - cardiac evaluation needed."
-    },
-    {
-      "disease_name": "Branchio-Oto-Renal Syndrome",
-      "disease_id": "OMIM:113650",
-      "score": 0.17,
-      "explanation": "Can present with sensorineural or mixed hearing loss and speech delays. Would typically have branchial or renal anomalies."
+      "explanation": "Congenital profound bilateral sensorineural hearing loss with speech delays. Associated with long QT syndrome - ECG screening would be critical."
     },
     {
       "disease_name": "CHARGE Syndrome",
       "disease_id": "OMIM:214800",
+      "score": 0.17,
+      "explanation": "Can present with hearing loss and developmental delays. Typically has multiple congenital anomalies that would be apparent."
+    },
+    {
+      "disease_name": "Branchio-Oto-Renal Syndrome",
+      "disease_id": "OMIM:113650",
       "score": 0.14,
-      "explanation": "Can include sensorineural hearing loss and developmental delays. Would expect multiple other anomalies (coloboma, choanal atresia, etc.)."
+      "explanation": "Sensorineural, conductive, or mixed hearing loss with speech delays. Often has branchial and renal anomalies."
     },
     {
       "disease_name": "Alport Syndrome",
       "disease_id": "OMIM:301050",
       "score": 0.125,
-      "explanation": "Progressive sensorineural hearing loss can occur, though typically later onset. Would need renal and ophthalmologic evaluation."
+      "explanation": "Progressive sensorineural hearing loss can occur, though typically later onset. Renal involvement would be expected."
     }
   ]
 }

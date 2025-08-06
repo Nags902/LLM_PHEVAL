@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, hypotonia, seizures, sparse scalp hair, hypertrichosis, and distinctive facial features including low-set ears and thin upper lip vermilion. The prominent interphalangeal joints are also characteristic."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Good match with intellectual disability, developmental delay, autistic behavior, distinctive facial features (thin upper lip, low-set ears), hypertrichosis, and decreased body weight. Seizures are less common but can occur."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Matches with intellectual disability, hypotonia, seizures, low-set ears, prominent ear abnormalities, and distinctive facial features. The everted lower lip vermilion is particularly characteristic of Kabuki syndrome."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.25,
+      "explanation": "Consistent with intellectual disability, developmental delay, hypotonia, hypertrichosis, and distinctive facial features. Seizures and autistic behaviors are also reported in this syndrome."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Matches with intellectual disability, developmental delay, decreased body weight, distinctive facial features including thin upper lip vermilion and low-set ears. However, lacks some key features like triangular face."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Consistent with intellectual disability, developmental delay, seizures, and some facial features. However, missing characteristic broad thumbs and toes, though prominent interphalangeal joints could be related."
+    }
+  ]
+}

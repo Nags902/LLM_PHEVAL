@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteogenesis Imperfecta Type III",
+      "disease_id": "OMIM:259420",
+      "score": 1.0,
+      "explanation": "Most features align: recurrent fractures, osteopenia, delayed motor development, narrow chest, and skeletal abnormalities. Type III is the severe progressive deforming type with these characteristics."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta Type IV",
+      "disease_id": "OMIM:166220",
+      "score": 0.5,
+      "explanation": "Moderate form of OI with recurrent fractures, osteopenia, and variable skeletal deformities. Less severe than Type III but still consistent with most features."
+    },
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.33,
+      "explanation": "Features osteosclerosis with fractures, delayed closure of fontanelles (consistent with flat occiput), and proptosis. However, typically shows increased bone density rather than osteopenia."
+    },
+    {
+      "disease_name": "Hajdu-Cheney Syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 0.25,
+      "explanation": "Progressive focal bone resorption with osteopenia and fractures, distinctive craniofacial features. Some overlap but less typical presentation."
+    },
+    {
+      "disease_name": "Juvenile Paget Disease",
+      "disease_id": "OMIM:239000",
+      "score": 0.2,
+      "explanation": "Features increased bone turnover with fractures and skeletal deformities. Diaphyseal undertubulation can occur, but typically shows increased bone density areas."
+    },
+    {
+      "disease_name": "Idiopathic Juvenile Osteoporosis",
+      "disease_id": "OMIM:259750",
+      "score": 0.17,
+      "explanation": "Presents with osteopenia and fractures in childhood, but typically lacks the other skeletal abnormalities and craniofacial features seen in this patient."
+    }
+  ]
+}

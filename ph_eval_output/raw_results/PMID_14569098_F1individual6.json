@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy type 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "FJHN1 presents with hyperuricemia, gout, and progressive chronic kidney disease leading to ESRD, matching both key features in this patient."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy type 2",
+      "disease_id": "OMIM:613092",
+      "score": 0.5,
+      "explanation": "FJHN2 (due to REN mutations) also causes hyperuricemia, gout, and progressive kidney disease, though typically with earlier onset."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease type 2",
+      "disease_id": "OMIM:603860",
+      "score": 0.33,
+      "explanation": "MCKD2 is allelic with FJHN1, presenting with chronic kidney disease and hyperuricemia/gout, typically in adulthood."
+    },
+    {
+      "disease_name": "Chronic kidney disease due to uromodulin mutations",
+      "disease_id": "OMIM:191845",
+      "score": 0.25,
+      "explanation": "Uromodulin-associated kidney disease causes progressive CKD and hyperuricemia with gout, consistent with this presentation."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease",
+      "disease_id": "OMIM:174000",
+      "score": 0.2,
+      "explanation": "ADTKD can present with progressive CKD and hyperuricemia, though gout is less consistently reported."
+    },
+    {
+      "disease_name": "Polycystic kidney disease type 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.17,
+      "explanation": "PKD1 can lead to ESRD and secondary hyperuricemia/gout, though cysts are usually the primary feature."
+    },
+    {
+      "disease_name": "Polycystic kidney disease type 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.14,
+      "explanation": "PKD2 presents similarly to PKD1 with ESRD and potential secondary gout, but typically later onset."
+    },
+    {
+      "disease_name": "Alport syndrome, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.125,
+      "explanation": "X-linked Alport syndrome can cause progressive CKD to ESRD; gout may occur secondarily to renal dysfunction."
+    }
+  ]
+}

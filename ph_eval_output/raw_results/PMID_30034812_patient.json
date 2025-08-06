@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Camurati-Engelmann disease",
+      "disease_id": "OMIM:131300",
+      "score": 1.0,
+      "explanation": "Classic presentation with cortical thickening of long bones, narrowing of medullary canal, hyperostosis, bone pain, waddling gait, and elevated alkaline phosphatase. The prominent forehead and proptosis are also consistent with cranial hyperostosis seen in this condition."
+    },
+    {
+      "disease_name": "Van Buchem disease",
+      "disease_id": "OMIM:239100",
+      "score": 0.5,
+      "explanation": "Features hyperostosis, cortical thickening, and narrowing of medullary canal. Proptosis and prominent forehead fit with cranial hyperostosis. However, hypocalcemia is less typical, and the distribution of bone involvement may differ."
+    },
+    {
+      "disease_name": "Sclerosteosis 1",
+      "disease_id": "OMIM:269500",
+      "score": 0.33,
+      "explanation": "Presents with generalized hyperostosis and cortical thickening. The prominent forehead is consistent, but typically presents earlier in life and has more severe skeletal overgrowth. Hypocalcemia is not a typical feature."
+    },
+    {
+      "disease_name": "Paget disease of bone",
+      "disease_id": "OMIM:167250",
+      "score": 0.25,
+      "explanation": "Can present with elevated alkaline phosphatase, bone pain, and cortical thickening. However, the pattern of narrowed medullary canals and the patient's relatively young age make this less likely. Hypocalcemia can occur but is not typical."
+    },
+    {
+      "disease_name": "Hyperphosphatasia with mental retardation syndrome 1",
+      "disease_id": "OMIM:239300",
+      "score": 0.2,
+      "explanation": "Features elevated alkaline phosphatase and can have hyperostosis. However, the absence of reported intellectual disability and the specific pattern of cortical thickening make this less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "Presents with macrocytic anemia, elevated adenosine deaminase activity, and skeletal abnormalities including thumb anomalies (small thenar eminence). Increased cancer risk, including solid tumors like colon cancer, is a known complication."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Features macrocytic anemia, thumb/radial ray abnormalities (explaining small thenar eminence), and significantly increased cancer risk including gastrointestinal cancers. The elevated ADA activity is less typical but can occur."
+    },
+    {
+      "disease_name": "Adenosine Deaminase Excess",
+      "disease_id": "OMIM:102700",
+      "score": 0.33,
+      "explanation": "Directly explains the elevated red cell adenosine deaminase activity and can cause hemolytic anemia. The macrocytosis could be secondary to hemolysis. The colon cancer and thumb abnormality are not typical features."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.25,
+      "explanation": "Can present with macrocytic anemia and skeletal abnormalities. Has increased risk of malignancies including solid tumors. The elevated ADA activity and specific thumb abnormality are less characteristic."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.2,
+      "explanation": "Features bone marrow failure with macrocytic anemia and increased cancer risk including gastrointestinal tumors. Can have skeletal abnormalities. The elevated ADA activity is not typical."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aplastic Anemia",
+      "disease_id": "OMIM:609135",
+      "score": 1.0,
+      "explanation": "Perfect match for hematologic features including bone marrow hypocellularity, pancytopenia (anemia, neutropenia, thrombocytopenia), and purpura. The neurological symptoms could be secondary to chronic anemia or represent a coincidental neurological disorder."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Presents with bone marrow failure and pancytopenia, though typically diagnosed earlier in life. Some subtypes can present in adulthood. Neurological symptoms are less typical but can occur in some cases."
+    },
+    {
+      "disease_name": "Paroxysmal Nocturnal Hemoglobinuria",
+      "disease_id": "OMIM:300818",
+      "score": 0.33,
+      "explanation": "Can cause pancytopenia and bone marrow failure, though typically with hemolysis. The neurological symptoms are atypical but thrombosis (including CNS) can occur in PNH."
+    },
+    {
+      "disease_name": "Ataxia-Pancytopenia Syndrome",
+      "disease_id": "OMIM:159550",
+      "score": 0.25,
+      "explanation": "Rare syndrome combining cerebellar ataxia (explaining dysmetria, nystagmus, dysarthria, unsteady gait) with pancytopenia. The combination of neurological and hematological features makes this a strong consideration."
+    },
+    {
+      "disease_name": "Myelodysplastic Syndrome",
+      "disease_id": "OMIM:614286",
+      "score": 0.2,
+      "explanation": "Can present with pancytopenia and bone marrow abnormalities. The neurological symptoms would be unexplained unless there's CNS involvement or a paraneoplastic syndrome."
+    },
+    {
+      "disease_name": "Vitamin B12 Deficiency",
+      "disease_id": "OMIM:261100",
+      "score": 0.17,
+      "explanation": "Can cause both hematological (pancytopenia, bone marrow changes) and neurological manifestations (ataxia, pyramidal signs like Babinski and ankle clonus). Though not a genetic disease per se, severe B12 deficiency can mimic rare diseases."
+    },
+    {
+      "disease_name": "Copper Deficiency Myeloneuropathy",
+      "disease_id": "OMIM:121270",
+      "score": 0.14,
+      "explanation": "Can cause both cytopenias (especially neutropenia and anemia) and neurological symptoms including ataxia and myelopathy with pyramidal signs. Less likely to cause thrombocytopenia."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "Classic presentation with early-onset ataxia, hypotonia, and oculomotor abnormalities (strabismus). Dystonia can develop as the disease progresses."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Mitochondrial disorder presenting with ataxia, hypotonia, dystonia, and eye movement abnormalities. Age of onset and symptom combination are consistent."
+    },
+    {
+      "disease_name": "Ataxia with Oculomotor Apraxia Type 1",
+      "disease_id": "OMIM:208920",
+      "score": 0.33,
+      "explanation": "Features ataxia and oculomotor dysfunction (strabismus), though dystonia is less common. Hypotonia can be present in early stages."
+    },
+    {
+      "disease_name": "Glutaric Aciduria Type I",
+      "disease_id": "OMIM:231670",
+      "score": 0.25,
+      "explanation": "Can present with dystonia as a prominent feature, along with hypotonia and movement disorders. Ataxia and strabismus may develop."
+    },
+    {
+      "disease_name": "Infantile Neuroaxonal Dystrophy",
+      "disease_id": "OMIM:256600",
+      "score": 0.2,
+      "explanation": "Progressive disorder with hypotonia, ataxia, and dystonia. Strabismus can occur due to visual pathway involvement."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase E1-Alpha Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.17,
+      "explanation": "Metabolic disorder presenting with hypotonia, ataxia, and dystonia. Eye abnormalities including strabismus are common."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.14,
+      "explanation": "Leukodystrophy with hypotonia, ataxia, and abnormal eye movements. Dystonia can develop in later stages."
+    },
+    {
+      "disease_name": "Aromatic L-Amino Acid Decarboxylase Deficiency",
+      "disease_id": "OMIM:608643",
+      "score": 0.125,
+      "explanation": "Neurotransmitter disorder with hypotonia, dystonia, and oculogyric crises that could manifest as strabismus. Ataxia is less prominent."
+    }
+  ]
+}

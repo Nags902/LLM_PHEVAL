@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Paris-Trousseau Syndrome",
+      "disease_id": "OMIM:188025",
+      "score": 1.0,
+      "explanation": "Strong match with thrombocytopenia, platelet anisocytosis, increased mean platelet volume (pathognomonic platelet abnormalities), plus developmental delay and dysmorphic facial features including telecanthus, upslanted palpebral fissures, and bulbous nose."
+    },
+    {
+      "disease_name": "Jacobsen Syndrome",
+      "disease_id": "OMIM:147791",
+      "score": 0.5,
+      "explanation": "Features thrombocytopenia with platelet dysfunction (Paris-Trousseau platelets), developmental delay, and characteristic facial dysmorphism including telecanthus, broad nasal bridge, and thin upper lip. Many features overlap with this patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Presents with synophrys, deeply set eyes, thin upper lip, developmental delay, and occasionally thrombocytopenia. The facial gestalt partially matches, though platelet abnormalities are less specific."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.25,
+      "explanation": "X-linked form with similar features to CdLS1 including synophrys, facial dysmorphism, and developmental delay. Platelet abnormalities are possible but less common."
+    },
+    {
+      "disease_name": "Noonan Syndrome with Multiple Lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.2,
+      "explanation": "Can present with telecanthus, deeply set eyes, mandibular prognathia, and mild developmental delay. Thrombocytopenia occurs in some cases, though the specific platelet morphology described is atypical."
+    },
+    {
+      "disease_name": "3q29 Microdeletion Syndrome",
+      "disease_id": "OMIM:609425",
+      "score": 0.17,
+      "explanation": "Features developmental delay, distinctive facial features including upslanted palpebral fissures and bulbous nose. Thrombocytopenia has been reported but the specific platelet abnormalities seen here are not typical."
+    }
+  ]
+}

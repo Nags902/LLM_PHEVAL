@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, delayed speech/language, aggressive behavior, and seizures. Most common inherited cause of intellectual disability and autism spectrum behaviors."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Features intellectual disability, severe speech impairment, and seizures. Aggressive behavior can occur, though happy demeanor is more typical."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.33,
+      "explanation": "Severe epilepsy syndrome with intellectual disability and behavioral problems. Seizures often begin as focal and generalize, matching the bilateral tonic-clonic with focal onset pattern."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Progressive disorder with intellectual disability, loss of speech, and seizures. Aggressive behaviors can manifest as irritability and screaming episodes."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Characterized by intellectual disability, speech delay, aggressive/self-injurious behaviors. Seizures occur in about 30% of cases."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.17,
+      "explanation": "Severe epileptic encephalopathy with intellectual disability, behavioral problems, and multiple seizure types including tonic-clonic seizures."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.14,
+      "explanation": "X-linked disorder with severe intellectual disability, absent or limited speech, and seizures in about 50% of cases. Behavioral issues are common."
+    },
+    {
+      "disease_name": "PCDH19-Related Epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 0.125,
+      "explanation": "X-linked disorder affecting females with intellectual disability, behavioral problems including aggression, and focal seizures that can generalize."
+    }
+  ]
+}

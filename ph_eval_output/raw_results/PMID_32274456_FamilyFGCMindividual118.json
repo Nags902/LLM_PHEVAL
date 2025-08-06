@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Focal segmental glomerulosclerosis 1",
+      "disease_id": "OMIM:603278",
+      "score": 1.0,
+      "explanation": "FSGS is a primary glomerular disease that commonly presents with proteinuria and progressive chronic kidney disease, matching both key features in this patient."
+    },
+    {
+      "disease_name": "IgA nephropathy",
+      "disease_id": "OMIM:161950",
+      "score": 0.5,
+      "explanation": "Common cause of chronic kidney disease in adults, typically presents with proteinuria and progressive renal dysfunction, though often has hematuria as well."
+    },
+    {
+      "disease_name": "Alport syndrome 1, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.33,
+      "explanation": "Hereditary nephritis that can present with proteinuria and progressive CKD, though typically has earlier onset and often includes hearing loss and ocular abnormalities."
+    },
+    {
+      "disease_name": "Membranous nephropathy",
+      "disease_id": "OMIM:618868",
+      "score": 0.25,
+      "explanation": "Primary glomerular disease that commonly presents with nephrotic-range proteinuria and can lead to CKD, particularly common in adults."
+    },
+    {
+      "disease_name": "Fabry disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.2,
+      "explanation": "X-linked lysosomal storage disorder that can present with proteinuria and progressive CKD, though typically has multisystem involvement including cardiac and neurological features."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease",
+      "disease_id": "OMIM:173900",
+      "score": 0.17,
+      "explanation": "Common genetic cause of CKD that can present with proteinuria, though typically has characteristic imaging findings of multiple bilateral renal cysts."
+    },
+    {
+      "disease_name": "Lupus nephritis",
+      "disease_id": "OMIM:152700",
+      "score": 0.14,
+      "explanation": "Systemic lupus erythematosus with renal involvement can cause proteinuria and CKD, though typically has other systemic features and positive autoantibodies."
+    }
+  ]
+}

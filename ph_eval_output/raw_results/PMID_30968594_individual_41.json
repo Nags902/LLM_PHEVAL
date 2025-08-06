@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypopituitarism",
+      "disease_id": "OMIM:262600",
+      "score": 1.0,
+      "explanation": "The combination of decreased testosterone, increased ACTH, and increased prolactin strongly suggests pituitary dysfunction. Hypopituitarism can cause secondary hypogonadism (low testosterone) and disrupted feedback loops leading to elevated ACTH and prolactin."
+    },
+    {
+      "disease_name": "Pituitary adenoma, prolactin-secreting",
+      "disease_id": "OMIM:600634",
+      "score": 0.5,
+      "explanation": "Prolactinoma can cause hyperprolactinemia and secondary hypogonadism (low testosterone). The elevated ACTH could indicate a mixed secreting adenoma or compression effects on normal pituitary tissue."
+    },
+    {
+      "disease_name": "Multiple endocrine neoplasia type 1",
+      "disease_id": "OMIM:131100",
+      "score": 0.33,
+      "explanation": "MEN1 can cause pituitary adenomas leading to hormonal imbalances including hyperprolactinemia and secondary hypogonadism. The elevated ACTH could suggest multiple pituitary hormone abnormalities."
+    },
+    {
+      "disease_name": "Empty sella syndrome",
+      "disease_id": "OMIM:615475",
+      "score": 0.25,
+      "explanation": "Empty sella can cause pituitary dysfunction with variable hormone deficiencies and excesses, potentially explaining the combination of low testosterone, high prolactin, and elevated ACTH."
+    },
+    {
+      "disease_name": "Cushing disease",
+      "disease_id": "OMIM:219090",
+      "score": 0.2,
+      "explanation": "ACTH-secreting pituitary adenoma causes elevated ACTH. The hypercortisolism can suppress gonadotropins leading to low testosterone, and mass effects could cause hyperprolactinemia."
+    },
+    {
+      "disease_name": "Klinefelter syndrome",
+      "disease_id": "OMIM:300068",
+      "score": 0.17,
+      "explanation": "Primary hypogonadism in Klinefelter syndrome causes low testosterone. While this doesn't directly explain elevated ACTH and prolactin, these could be secondary findings or coincidental pituitary abnormalities."
+    },
+    {
+      "disease_name": "Hemochromatosis",
+      "disease_id": "OMIM:235200",
+      "score": 0.14,
+      "explanation": "Iron overload can affect the pituitary gland causing hypogonadotropic hypogonadism (low testosterone) and other pituitary hormone abnormalities including elevated prolactin and ACTH dysfunction."
+    }
+  ]
+}

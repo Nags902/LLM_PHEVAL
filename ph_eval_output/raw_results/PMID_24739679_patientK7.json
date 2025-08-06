@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 1.0,
+      "explanation": "Classic presentation with aortic valve stenosis, developmental delay, hypotonia, characteristic facial features (wide nasal bridge, long palpebral fissures, eversion of lateral eyelids), and recurrent infections. The prominent fingertip pads are also consistent."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Features prominent fingertip pads (pathognomonic), hypotonia, developmental delay, hearing impairment, and characteristic facial features including eversion of lateral lower eyelids. Cardiac anomalies are common but aortic stenosis is less typical."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.33,
+      "explanation": "Presents with developmental delay, hypotonia, cardiac defects (though pulmonary stenosis more common than aortic), hearing impairment, and some facial features. Macrotia and wide nasal bridge can occur but other features less consistent."
+    },
+    {
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.25,
+      "explanation": "Features hypotonia, developmental delay, cardiac abnormalities, and macrotia. However, typical features like coarse facial features, papillomata, and loose skin are not mentioned. Prominent fingertip pads less typical."
+    },
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.2,
+      "explanation": "Can present with cardiac defects, developmental delay, recurrent infections (due to immunodeficiency), and hearing problems. However, the specific facial features described are less typical, and aortic stenosis is not the most common cardiac anomaly."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous Syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.17,
+      "explanation": "Features developmental delay, hypotonia, cardiac defects, and some facial dysmorphism. However, the characteristic ectodermal abnormalities (sparse hair, hyperkeratosis) are not mentioned, and the specific facial features differ."
+    }
+  ]
+}

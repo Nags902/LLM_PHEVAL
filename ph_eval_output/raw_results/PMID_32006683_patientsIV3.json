@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, arachnodactyly, pectus excavatum, scoliosis, high myopia, ectopia lentis features, joint hypermobility, and multiple hernias/diverticula suggesting connective tissue disorder."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Shares marfanoid habitus with hypertelorism/telecanthus, high palate, scoliosis, and vascular/connective tissue features including hernias and diverticula."
+    },
+    {
+      "disease_name": "Congenital contractural arachnodactyly (Beals syndrome)",
+      "disease_id": "OMIM:121050",
+      "score": 0.333,
+      "explanation": "Features marfanoid habitus with arachnodactyly, scoliosis, and crumpled ears (macrotia), though lacks typical contractures."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.25,
+      "explanation": "Marfanoid features with craniosynostosis-like facial features (downslanted palpebrae, long narrow face), skeletal abnormalities, and hernias."
+    },
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 0.2,
+      "explanation": "Can present with marfanoid habitus, ectopia lentis, skeletal abnormalities, though typically includes intellectual disability not mentioned here."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classic type",
+      "disease_id": "OMIM:130000",
+      "score": 0.167,
+      "explanation": "Joint hypermobility, hernias, and tissue fragility features present, though lacks typical skin hyperextensibility and scarring."
+    }
+  ]
+}

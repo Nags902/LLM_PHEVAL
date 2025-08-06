@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy 1",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "FJHN1 perfectly matches all phenotypes: chronic kidney disease with interstitial fibrosis, hyperuricemia/gout, and renal cysts. The age of presentation (45 years) fits the adult-onset pattern of this autosomal dominant disease caused by UMOD mutations."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy 2",
+      "disease_id": "OMIM:613092",
+      "score": 0.5,
+      "explanation": "FJHN2 (REN gene mutations) presents similarly to FJHN1 with hyperuricemia, gout, and chronic kidney disease with interstitial fibrosis. Renal cysts are less commonly reported but can occur. The clinical presentation is nearly identical to FJHN1."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease 2",
+      "disease_id": "OMIM:603860",
+      "score": 0.33,
+      "explanation": "MCKD2 is allelic to FJHN1 (both caused by UMOD mutations) and presents with chronic kidney disease, interstitial fibrosis, and can have hyperuricemia/gout. The presence of cysts and all four phenotypes makes this highly likely."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease, MUC1-related",
+      "disease_id": "OMIM:174000",
+      "score": 0.25,
+      "explanation": "ADTKD-MUC1 causes chronic kidney disease with interstitial fibrosis and can present with hyperuricemia. Renal cysts are less common but reported. The adult onset and autosomal dominant pattern fit the presentation."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease 1",
+      "disease_id": "OMIM:174000",
+      "score": 0.2,
+      "explanation": "MCKD1 presents with chronic kidney disease, renal cysts, and interstitial fibrosis. Hyperuricemia/gout can occur but is less prominent than in FJHN. The age of presentation typically ranges from adolescence to adulthood."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.17,
+      "explanation": "ADPKD1 causes multiple renal cysts and chronic kidney disease. While interstitial fibrosis occurs and hyperuricemia can develop secondary to renal dysfunction, gout is not a primary feature, making it less likely than the hyperuricemic nephropathies."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.14,
+      "explanation": "ADPKD2 has similar features to ADPKD1 with renal cysts and chronic kidney disease. Gout can occur secondary to renal dysfunction but is not a primary feature. Generally has milder and later onset than ADPKD1."
+    }
+  ]
+}

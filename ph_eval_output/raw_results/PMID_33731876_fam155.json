@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ohtahara syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "Early infantile epileptic encephalopathy characterized by burst suppression on EEG, tonic spasms, severe intellectual disability, and cerebral atrophy. The phenotype matches perfectly with the patient's presentation."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 4 (STXBP1-related)",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 mutations cause epileptic encephalopathy with infantile spasms, burst suppression, severe intellectual disability, and cerebral atrophy. Very similar to Ohtahara syndrome phenotype."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 2 (CDKL5-related)",
+      "disease_id": "OMIM:300672",
+      "score": 0.333,
+      "explanation": "CDKL5 deficiency causes early-onset seizures including infantile spasms, myoclonic seizures, severe intellectual disability, though burst suppression is less common."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 9 (PCDH19-related)",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19-related epilepsy can present with epileptic encephalopathy, infantile spasms, and intellectual disability, though typically affects females and burst suppression is rare."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 1 (ARX-related)",
+      "disease_id": "OMIM:308350",
+      "score": 0.2,
+      "explanation": "ARX mutations can cause infantile spasms, epileptic encephalopathy with burst suppression, and severe intellectual disability, particularly in males."
+    },
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.167,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental regression. While burst suppression is not typical, it can evolve from Ohtahara syndrome."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.143,
+      "explanation": "SCN1A-related severe epilepsy with myoclonic seizures and intellectual disability, though onset is typically later and burst suppression is uncommon."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 7 (KCNQ2-related)",
+      "disease_id": "OMIM:613720",
+      "score": 0.125,
+      "explanation": "KCNQ2 encephalopathy can present with neonatal seizures, burst suppression, and severe developmental impairment, though infantile spasms are less common."
+    }
+  ]
+}

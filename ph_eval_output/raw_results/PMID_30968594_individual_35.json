@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "Classic presentation with virilization (clitoral hypertrophy) in females and hyperpigmentation due to elevated ACTH. This is the most common form of CAH."
+    },
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
+      "score": 0.5,
+      "explanation": "Also presents with virilization and hyperpigmentation, but less common than 21-hydroxylase deficiency. May have associated hypertension."
+    },
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency",
+      "disease_id": "OMIM:201810",
+      "score": 0.33,
+      "explanation": "Can cause mild virilization in females and hyperpigmentation, though typically presents with salt-wasting crisis early in life."
+    },
+    {
+      "disease_name": "Aromatase deficiency",
+      "disease_id": "OMIM:613546",
+      "score": 0.25,
+      "explanation": "Causes virilization in females due to inability to convert androgens to estrogens. Hyperpigmentation is less typical but possible."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.2,
+      "explanation": "Can cause precocious puberty with virilization and caf\u00e9-au-lait spots (hyperpigmentation), though the pigmentation pattern is usually more specific."
+    },
+    {
+      "disease_name": "Glucocorticoid resistance",
+      "disease_id": "OMIM:615962",
+      "score": 0.17,
+      "explanation": "Can cause elevated ACTH leading to hyperpigmentation and androgen excess causing virilization, though this is a rare condition."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow syndrome",
+      "disease_id": "OMIM:268310",
+      "score": 1.0,
+      "explanation": "Classic match with mesomelia, brachydactyly, triangular mouth, hypertelorism, short nose, anteverted nares, frontal bossing, micropenis, and short stature - all cardinal features of Robinow syndrome."
+    },
+    {
+      "disease_name": "Dominant Robinow syndrome",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "Autosomal dominant form of Robinow syndrome with similar features but typically milder presentation. The severe micropenis and mesomelia suggest the recessive form may be more likely."
+    },
+    {
+      "disease_name": "Brachydactyly-mesomelia-intellectual disability-heart defects syndrome",
+      "disease_id": "OMIM:618870",
+      "score": 0.33,
+      "explanation": "Features brachydactyly and mesomelia as key components, along with facial dysmorphism. However, lacks specific mention of triangular mouth and micropenis which are prominent in this case."
+    },
+    {
+      "disease_name": "Acromesomelic dysplasia, Hunter-Thompson type",
+      "disease_id": "OMIM:201250",
+      "score": 0.25,
+      "explanation": "Shows mesomelia and severe brachydactyly with short stature, but lacks the characteristic facial features and genital abnormalities seen in this patient."
+    },
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "Features hypertelorism, anteverted nares, long philtrum, brachydactyly, joint hypermobility, and genital abnormalities, but lacks mesomelia and triangular mouth which are prominent here."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.17,
+      "explanation": "Shows hypertelorism, short nose, and short stature with possible genital abnormalities, but lacks the specific skeletal features like mesomelia and symphalangism seen in this case."
+    }
+  ]
+}

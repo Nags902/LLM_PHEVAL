@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial Neurogastrointestinal Encephalopathy Disease (MNGIE)",
+      "disease_id": "OMIM:603041",
+      "score": 1.0,
+      "explanation": "MNGIE presents with peripheral neuropathy, white matter changes on MRI, hepatic involvement, and multiple mitochondrial DNA deletions. The combination of neurological symptoms with gastrointestinal/hepatic manifestations and mitochondrial DNA deletions strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Sensory Ataxic Neuropathy, Dysarthria, and Ophthalmoparesis (SANDO)",
+      "disease_id": "OMIM:607459",
+      "score": 0.5,
+      "explanation": "SANDO is characterized by sensory ataxic neuropathy with multiple mitochondrial DNA deletions. The patient's impaired proprioception, vibration sense, and peripheral neuropathy fit well, though ophthalmoparesis is not reported."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth Disease Type 2A2A",
+      "disease_id": "OMIM:609260",
+      "score": 0.33,
+      "explanation": "CMT2A2A caused by MFN2 mutations can present with axonal neuropathy, distal muscle weakness, and atrophy. The white matter changes and mitochondrial DNA deletions are less typical but MFN2 is involved in mitochondrial dynamics."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6 (Hepatocerebral Type)",
+      "disease_id": "OMIM:256810",
+      "score": 0.25,
+      "explanation": "This condition presents with hepatic involvement and neurological symptoms. The multiple mitochondrial DNA deletions, hepatomegaly, and white matter changes support this diagnosis, though onset is typically earlier."
+    },
+    {
+      "disease_name": "Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant 1",
+      "disease_id": "OMIM:157640",
+      "score": 0.2,
+      "explanation": "PEO can present with peripheral neuropathy and multiple mitochondrial DNA deletions. However, the absence of reported ophthalmoplegia and the prominent hepatic involvement make this less likely."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.17,
+      "explanation": "Alpers syndrome can present with hepatic involvement and neurological symptoms with mitochondrial dysfunction. However, the typical presentation includes seizures and more severe encephalopathy, which are not reported here."
+    }
+  ]
+}

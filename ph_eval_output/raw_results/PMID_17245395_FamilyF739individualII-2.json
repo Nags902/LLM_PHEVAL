@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lesch-Nyhan syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 1.0,
+      "explanation": "X-linked disorder causing severe hyperuricemia due to HPRT1 deficiency. The patient's male gender (1) and age are consistent. This is the classic cause of hyperuricemia in young males."
+    },
+    {
+      "disease_name": "Phosphoribosylpyrophosphate synthetase superactivity",
+      "disease_id": "OMIM:300661",
+      "score": 0.5,
+      "explanation": "X-linked disorder causing overproduction of uric acid due to PRPS1 gene mutations. Presents with hyperuricemia in males, typically in adolescence or young adulthood."
+    },
+    {
+      "disease_name": "Glycogen storage disease type I",
+      "disease_id": "OMIM:232200",
+      "score": 0.33,
+      "explanation": "Autosomal recessive disorder that can present with hyperuricemia due to increased production and decreased excretion of uric acid. However, typically has additional features like hepatomegaly and hypoglycemia."
+    },
+    {
+      "disease_name": "Familial juvenile hyperuricemic nephropathy type 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.25,
+      "explanation": "Autosomal dominant disorder causing hyperuricemia and progressive kidney disease. Usually presents in adolescence or young adulthood with hyperuricemia preceding renal dysfunction."
+    },
+    {
+      "disease_name": "Hereditary xanthinuria type I",
+      "disease_id": "OMIM:278300",
+      "score": 0.2,
+      "explanation": "Actually causes hypouricemia rather than hyperuricemia, but included as differential. Caused by xanthine dehydrogenase deficiency."
+    },
+    {
+      "disease_name": "Medullary cystic kidney disease type 2",
+      "disease_id": "OMIM:603860",
+      "score": 0.17,
+      "explanation": "Autosomal dominant disorder associated with hyperuricemia and progressive kidney disease. The hyperuricemia can precede renal symptoms."
+    }
+  ]
+}

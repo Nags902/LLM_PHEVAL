@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hutchinson-Gilford Progeria Syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 1.0,
+      "explanation": "Classic presentation with lipodystrophy, reduced subcutaneous adipose tissue, prominent superficial vessels, alopecia, micrognathia, delayed tooth eruption, failure to thrive, short stature, and reduced bone density. The age (10 years) and constellation of features strongly suggest this accelerated aging disorder."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia with Type A Lipodystrophy",
+      "disease_id": "OMIM:248370",
+      "score": 0.5,
+      "explanation": "Shares key features including lipodystrophy, micrognathia, dental anomalies, short stature, alopecia, and skin changes. The mandibular hypoplasia and lipodystrophy pattern are characteristic, though some features like proptosis are less typical."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia with Type B Lipodystrophy",
+      "disease_id": "OMIM:608612",
+      "score": 0.33,
+      "explanation": "Similar to type A but with a different pattern of lipodystrophy. Presents with mandibular hypoplasia, skeletal abnormalities, and metabolic complications. The clinical overlap is significant but some features are less consistent."
+    },
+    {
+      "disease_name": "Berardinelli-Seip Congenital Lipodystrophy Type 1",
+      "disease_id": "OMIM:608594",
+      "score": 0.25,
+      "explanation": "Characterized by generalized lipodystrophy, prominent superficial vessels, and metabolic complications. However, lacks the typical craniofacial dysmorphism and dental anomalies seen in this patient."
+    },
+    {
+      "disease_name": "Berardinelli-Seip Congenital Lipodystrophy Type 2",
+      "disease_id": "OMIM:269700",
+      "score": 0.2,
+      "explanation": "Similar lipodystrophy pattern to type 1 but may have additional features. The absence of intellectual disability and the presence of specific craniofacial features make this less likely than progeria syndromes."
+    },
+    {
+      "disease_name": "SHORT Syndrome",
+      "disease_id": "OMIM:269880",
+      "score": 0.17,
+      "explanation": "Accounts for short stature, hypermetropia, dental anomalies, and lipodystrophy. However, the severity of skin changes, alopecia, and vascular prominence are not typical features."
+    },
+    {
+      "disease_name": "Werner Syndrome",
+      "disease_id": "OMIM:277700",
+      "score": 0.14,
+      "explanation": "A progeroid syndrome with some overlapping features including short stature, alopecia, and skin changes. However, typically presents later in life and lacks the severe lipodystrophy and childhood onset seen here."
+    }
+  ]
+}

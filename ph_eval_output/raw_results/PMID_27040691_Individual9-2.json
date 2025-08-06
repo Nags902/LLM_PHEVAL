@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 1.0,
+      "explanation": "Strong match with coarse facial features, developmental delay, hypotonia, absent speech, and characteristic facial dysmorphisms including tented upper lip. The skeletal anomaly (11 ribs) also fits."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.5,
+      "explanation": "Presents with hirsutism, coarse facial features, developmental delays, hypotonia, and speech delays. Long philtrum and epicanthus are common features."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.33,
+      "explanation": "Characterized by severe intellectual disability, absent speech, hypotonia, and distinctive facial features including tented upper lip vermilion. Motor delays are typical."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Features hirsutism, developmental delays, distinctive facial features including long philtrum, and limb abnormalities. Speech delays and hypotonia are common."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Presents with distinctive facial features, developmental delays, and speech problems. Some patients have skeletal anomalies and hirsutism."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.17,
+      "explanation": "Features include distinctive facial appearance with epicanthus, developmental delays, hypotonia, and skeletal anomalies. Speech delays are common."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.14,
+      "explanation": "Can present with coloboma, heart defects, choanal atresia, growth retardation, genital abnormalities, and ear anomalies. Developmental delays and facial dysmorphisms including epicanthus can occur."
+    }
+  ]
+}

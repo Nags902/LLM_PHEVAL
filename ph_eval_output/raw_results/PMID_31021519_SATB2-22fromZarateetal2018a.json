@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Presents with intellectual disability, feeding difficulties in infancy, growth delay, dental abnormalities, and developmental delays. The combination of facial features with dental abnormalities and global developmental delay is characteristic."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "Features intellectual disability, growth delay, dental abnormalities, and reduced bone density. The skeletal abnormalities including osteopenia align with the patient's reduced bone mineral density."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.33,
+      "explanation": "Characterized by intellectual disability, feeding difficulties in infancy, delayed motor milestones, and dental abnormalities. Growth parameters are often affected with microcephaly being common."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Presents with intellectual disability, growth delay, feeding difficulties, and dental abnormalities including talon cusps. The broad thumbs and toes are pathognomonic but not mentioned in this case."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, feeding difficulties in infancy, growth delay, dental abnormalities (small teeth), and can have reduced bone density. The characteristic cardiovascular involvement is not mentioned."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Presents with severe intellectual disability, delayed walking, feeding difficulties in infancy, and global developmental delay. The characteristic happy demeanor and seizures are not mentioned in this case."
+    }
+  ]
+}

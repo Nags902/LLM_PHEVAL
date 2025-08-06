@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, autistic behavior, ADHD, global developmental delay, triangular face, short stature, microcephaly, and anteverted nares. Motor and speech delays are characteristic."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "X-linked form presenting with similar features including intellectual disability, developmental delays, facial dysmorphism, and growth retardation."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.33,
+      "explanation": "Another subtype with overlapping features of intellectual disability, growth retardation, and characteristic facial features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, microcephaly, short stature, and developmental delays. Facial features can include anteverted nares, though triangular face is less typical."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.2,
+      "explanation": "Characterized by short stature, triangular face, intellectual disability, and speech delays. Microcephaly is less common but can occur."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, autistic behaviors, speech delays, and microcephaly. Short stature and triangular face are less typical but can occur."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.14,
+      "explanation": "Includes intellectual disability, autistic behaviors, microcephaly, and growth retardation. Anteverted nares can be present in facial dysmorphism."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.125,
+      "explanation": "Features intellectual disability, ADHD, developmental delays, and short stature. Facial features differ but can include anteverted nares. Recurrent otitis media is common."
+    }
+  ]
+}

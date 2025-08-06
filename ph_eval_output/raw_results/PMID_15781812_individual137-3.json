@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Unverricht-Lundborg Disease (Progressive Myoclonic Epilepsy Type 1)",
+      "disease_id": "OMIM:254800",
+      "score": 1.0,
+      "explanation": "Classic presentation with myoclonic seizures, tonic-clonic seizures, progressive neurologic deterioration, myoclonus, and gait disturbance. Early-onset dementia fits the progressive cognitive decline seen in this condition."
+    },
+    {
+      "disease_name": "Lafora Disease (Progressive Myoclonic Epilepsy Type 2)",
+      "disease_id": "OMIM:254780",
+      "score": 0.5,
+      "explanation": "Features myoclonic and tonic-clonic seizures with rapid cognitive decline and dementia. The absence seizures are less typical but can occur. Usually more rapid progression than observed."
+    },
+    {
+      "disease_name": "Juvenile Myoclonic Epilepsy",
+      "disease_id": "OMIM:606904",
+      "score": 0.33,
+      "explanation": "Presents with myoclonic seizures, absence seizures, and tonic-clonic seizures. However, progressive deterioration and dementia are not typical features, making this less likely."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis 3 (Juvenile)",
+      "disease_id": "OMIM:204200",
+      "score": 0.25,
+      "explanation": "Progressive neurodegenerative disorder with seizures (including myoclonic), cognitive decline, and motor deterioration. The seizure types match well, though visual symptoms are usually prominent."
+    },
+    {
+      "disease_name": "MERRF Syndrome (Myoclonic Epilepsy with Ragged Red Fibers)",
+      "disease_id": "OMIM:545000",
+      "score": 0.2,
+      "explanation": "Mitochondrial disorder featuring myoclonus, seizures, progressive neurologic deterioration, and ataxia. Dementia can occur but is less prominent. Additional features like hearing loss are typically present."
+    },
+    {
+      "disease_name": "Sialidosis Type 1",
+      "disease_id": "OMIM:256550",
+      "score": 0.17,
+      "explanation": "Features myoclonus, seizures, and progressive neurologic deterioration. Gait ataxia is common. However, cherry-red spots and visual symptoms are usually prominent features not mentioned here."
+    }
+  ]
+}

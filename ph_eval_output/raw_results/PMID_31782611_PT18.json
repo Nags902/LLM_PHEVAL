@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dandy-Walker Malformation",
+      "disease_id": "OMIM:220200",
+      "score": 1.0,
+      "explanation": "Presents with ventriculomegaly as a primary feature, along with developmental delays in motor and speech domains. The age of presentation and combination of CNS malformation with developmental delays is highly consistent."
+    },
+    {
+      "disease_name": "L1 Syndrome (X-linked Hydrocephalus)",
+      "disease_id": "OMIM:307000",
+      "score": 0.5,
+      "explanation": "Features ventriculomegaly/hydrocephalus as a cardinal sign with associated developmental delays. The patient's gender (assuming 2 = male) makes this X-linked condition possible."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.33,
+      "explanation": "Characterized by developmental delays in motor and speech domains, and can present with ventriculomegaly. Astigmatism and other ocular abnormalities are also reported."
+    },
+    {
+      "disease_name": "Megalencephaly-Capillary Malformation-Polymicrogyria Syndrome",
+      "disease_id": "OMIM:602501",
+      "score": 0.25,
+      "explanation": "Features ventriculomegaly, developmental delays, and can include ocular abnormalities. The presentation in early childhood is consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.2,
+      "explanation": "Can present with ventriculomegaly and progressive developmental delays. The infantile form typically manifests before age 2, consistent with patient's age."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.17,
+      "explanation": "Common cause of developmental delays in speech and motor domains. While ventriculomegaly is less common, mild ventricular enlargement can occur. Ocular abnormalities including refractive errors are reported."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type II (Hunter Syndrome)",
+      "disease_id": "OMIM:309900",
+      "score": 0.14,
+      "explanation": "Can present with developmental delays, mild ventriculomegaly, and ocular abnormalities. The age of presentation is consistent with the attenuated form."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.125,
+      "explanation": "Features developmental delays and can have associated ventriculomegaly. Ocular abnormalities including refractive errors are common. The molar tooth sign would need to be evaluated on imaging."
+    }
+  ]
+}

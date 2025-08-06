@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2A",
+      "disease_id": "OMIM:609260",
+      "score": 1.0,
+      "explanation": "CMT2A presents with motor axonal neuropathy, lower limb muscle weakness and amyotrophy, unsteady gait, and frequent falls. The age of onset in the 20s fits with adult-onset forms of CMT2A."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2B",
+      "disease_id": "OMIM:600882",
+      "score": 0.5,
+      "explanation": "CMT2B is characterized by axonal motor neuropathy with prominent sensory involvement including impaired vibratory sensation. Lower limb weakness and muscle atrophy are typical features."
+    },
+    {
+      "disease_name": "Distal hereditary motor neuropathy type II",
+      "disease_id": "OMIM:608634",
+      "score": 0.33,
+      "explanation": "dHMN II presents with distal motor axonal neuropathy, lower limb muscle weakness and atrophy, and gait difficulties. However, sensory involvement is less typical."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2D",
+      "disease_id": "OMIM:601472",
+      "score": 0.25,
+      "explanation": "CMT2D features motor axonal neuropathy with distal muscle weakness and atrophy. The presentation often begins in upper limbs, making it less likely given the lower limb predominance."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type I",
+      "disease_id": "OMIM:162400",
+      "score": 0.2,
+      "explanation": "HSAN I can present with sensory loss including vibratory sensation and secondary motor involvement. However, primary motor axonal neuropathy is less typical."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.17,
+      "explanation": "SCA3 can present with peripheral neuropathy, gait ataxia, and muscle atrophy. Age of onset fits, but cerebellar signs are typically more prominent than described."
+    }
+  ]
+}

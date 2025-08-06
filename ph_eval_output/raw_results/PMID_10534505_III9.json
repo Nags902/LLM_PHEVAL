@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial Mediterranean Fever",
+      "disease_id": "OMIM:249100",
+      "score": 1.0,
+      "explanation": "FMF can cause AA amyloidosis leading to renal and hepatic amyloidosis, renal insufficiency, and anemia. It's one of the most common causes of systemic amyloidosis."
+    },
+    {
+      "disease_name": "Amyloidosis, Finnish Type",
+      "disease_id": "OMIM:105120",
+      "score": 0.5,
+      "explanation": "Hereditary gelsolin amyloidosis can cause systemic amyloidosis affecting kidneys and liver, though renal involvement is less prominent than in other forms."
+    },
+    {
+      "disease_name": "Amyloidosis, Hereditary, Transthyretin-Related",
+      "disease_id": "OMIM:105210",
+      "score": 0.33,
+      "explanation": "ATTR amyloidosis can cause multi-organ involvement including kidneys and liver, leading to renal insufficiency and anemia, though cardiac involvement is more common."
+    },
+    {
+      "disease_name": "Immunoglobulin Light Chain Amyloidosis",
+      "disease_id": "OMIM:254500",
+      "score": 0.25,
+      "explanation": "AL amyloidosis commonly affects kidneys and liver, causing renal insufficiency and anemia. Most common form of systemic amyloidosis."
+    },
+    {
+      "disease_name": "Tumor Necrosis Factor Receptor-Associated Periodic Syndrome",
+      "disease_id": "OMIM:142680",
+      "score": 0.2,
+      "explanation": "TRAPS can lead to AA amyloidosis with renal and hepatic involvement, though less commonly than FMF."
+    },
+    {
+      "disease_name": "Cryopyrin-Associated Periodic Syndrome 1",
+      "disease_id": "OMIM:120100",
+      "score": 0.167,
+      "explanation": "CAPS can cause secondary AA amyloidosis affecting kidneys and liver, leading to renal insufficiency and anemia."
+    },
+    {
+      "disease_name": "Muckle-Wells Syndrome",
+      "disease_id": "OMIM:191900",
+      "score": 0.143,
+      "explanation": "MWS is a form of CAPS that can lead to AA amyloidosis with renal involvement, hepatic amyloidosis is possible but less common."
+    },
+    {
+      "disease_name": "Mevalonate Kinase Deficiency",
+      "disease_id": "OMIM:610377",
+      "score": 0.125,
+      "explanation": "MKD/HIDS can rarely lead to AA amyloidosis affecting multiple organs including kidneys and liver."
+    }
+  ]
+}

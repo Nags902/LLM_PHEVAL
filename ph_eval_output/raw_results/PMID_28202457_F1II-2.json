@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia type 6",
+      "disease_id": "OMIM:183086",
+      "score": 1.0,
+      "explanation": "Classic adult-onset cerebellar ataxia presenting with unsteady gait and nystagmus. Age of onset typically in 30s-40s, matching patient's age."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "Common SCA subtype with cerebellar ataxia and nystagmus. Typically presents in 30s-40s with progressive gait ataxia."
+    },
+    {
+      "disease_name": "Multiple sclerosis",
+      "disease_id": "OMIM:126200",
+      "score": 0.33,
+      "explanation": "Common demyelinating disease presenting in young adults with cerebellar signs including ataxia and nystagmus. Age and symptoms fit well."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.25,
+      "explanation": "Most common hereditary ataxia, though typically presents earlier. Late-onset forms can present in 30s with gait ataxia and nystagmus."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.2,
+      "explanation": "Autosomal dominant ataxia with typical onset in 30s-40s. Presents with progressive cerebellar ataxia and eye movement abnormalities."
+    },
+    {
+      "disease_name": "Episodic ataxia type 2",
+      "disease_id": "OMIM:108500",
+      "score": 0.17,
+      "explanation": "Characterized by episodic ataxia and interictal nystagmus. Can present in adulthood with gait difficulties between episodes."
+    },
+    {
+      "disease_name": "Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1",
+      "disease_id": "OMIM:224050",
+      "score": 0.14,
+      "explanation": "Congenital ataxia syndrome with nystagmus and gait abnormalities, though typically presents from birth. Milder forms possible."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.13,
+      "explanation": "Machado-Joseph disease. Common SCA with typical onset in 30s-40s, presenting with ataxia and eye movement abnormalities."
+    }
+  ]
+}

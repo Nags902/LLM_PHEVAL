@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Classic triad of intellectual disability, delayed speech/language, and ADHD. Most common inherited cause of intellectual disability in males."
+    },
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.5,
+      "explanation": "Frequently presents with intellectual disability, speech delays, and ADHD as part of the neurodevelopmental phenotype."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.333,
+      "explanation": "Common microdeletion syndrome with intellectual disability, speech delays, and high rates of ADHD."
+    },
+    {
+      "disease_name": "Klinefelter Syndrome",
+      "disease_id": "OMIM:300300",
+      "score": 0.25,
+      "explanation": "XXY syndrome in males often presents with mild intellectual disability, language delays, and attention problems."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Characterized by mild intellectual disability, delayed language (despite relative verbal strengths later), and ADHD."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.167,
+      "explanation": "Overgrowth syndrome with intellectual disability, speech delays, and behavioral issues including ADHD."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.143,
+      "explanation": "Presents with intellectual disability and speech delays; behavioral problems including hyperactivity are common."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.125,
+      "explanation": "X-linked condition affecting males with intellectual disability, severe speech delays, and hyperactive behavior."
+    }
+  ]
+}

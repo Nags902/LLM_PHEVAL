@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Distal renal tubular acidosis type 1",
+      "disease_id": "OMIM:179800",
+      "score": 1.0,
+      "explanation": "Perfect match with all major features: distal RTA, nephrocalcinosis, nephrolithiasis, alkaline urine, hypokalemia, and impaired concentrating ability. This is the classic presentation of Type 1 RTA."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis with progressive nerve deafness",
+      "disease_id": "OMIM:267300",
+      "score": 0.5,
+      "explanation": "Autosomal recessive form of distal RTA that presents with all the renal features seen in this patient. Deafness typically develops later, so its absence doesn't exclude this diagnosis in a 27-year-old."
+    },
+    {
+      "disease_name": "Primary hyperparathyroidism",
+      "disease_id": "OMIM:145000",
+      "score": 0.33,
+      "explanation": "Can cause nephrocalcinosis, nephrolithiasis, and impaired concentrating ability. However, would typically cause hypercalcemia rather than RTA, and doesn't explain the alkaline urine or hypokalemia."
+    },
+    {
+      "disease_name": "Dent disease 1",
+      "disease_id": "OMIM:300009",
+      "score": 0.25,
+      "explanation": "X-linked disorder that can present with nephrocalcinosis and nephrolithiasis. However, typically presents with proximal tubular dysfunction, proteinuria, and hypercalciuria rather than distal RTA."
+    },
+    {
+      "disease_name": "Sj\u00f6gren syndrome",
+      "disease_id": "OMIM:270150",
+      "score": 0.2,
+      "explanation": "Can cause acquired distal RTA with hypokalemia and nephrocalcinosis. However, typically presents with sicca symptoms and autoimmune features not mentioned in this case."
+    },
+    {
+      "disease_name": "Medullary sponge kidney",
+      "disease_id": "OMIM:167000",
+      "score": 0.17,
+      "explanation": "Can cause nephrocalcinosis, nephrolithiasis, and impaired concentrating ability. However, doesn't typically cause distal RTA or hypokalemia, making it less likely."
+    }
+  ]
+}

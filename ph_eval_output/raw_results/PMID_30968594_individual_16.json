@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-Hydroxylase Deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "Classic CAH presents with decreased cortisol and increased ACTH due to enzyme deficiency. In males, it can cause decreased testosterone and increased estradiol through peripheral aromatization of excess androgens. Hyperprolactinemia can occur secondary to stress response."
+    },
+    {
+      "disease_name": "Primary Adrenal Insufficiency (Addison Disease)",
+      "disease_id": "OMIM:240300",
+      "score": 0.5,
+      "explanation": "Shows decreased cortisol with compensatory increased ACTH. The hormonal imbalances can lead to secondary effects on sex hormones and prolactin, though the specific pattern of increased estradiol and decreased testosterone is less typical."
+    },
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 11-Beta-Hydroxylase Deficiency",
+      "disease_id": "OMIM:202010",
+      "score": 0.33,
+      "explanation": "Another form of CAH with similar cortisol deficiency and ACTH elevation. Can affect sex hormone production, though the specific pattern may vary from 21-hydroxylase deficiency."
+    },
+    {
+      "disease_name": "X-linked Adrenal Hypoplasia Congenita",
+      "disease_id": "OMIM:300200",
+      "score": 0.25,
+      "explanation": "Causes primary adrenal insufficiency with low cortisol and high ACTH. Associated with hypogonadotropic hypogonadism which could explain low testosterone, though increased estradiol is less typical."
+    },
+    {
+      "disease_name": "Multiple Endocrine Neoplasia Type 1",
+      "disease_id": "OMIM:131100",
+      "score": 0.2,
+      "explanation": "Can involve pituitary adenomas causing hyperprolactinemia and potentially affecting other hormonal axes. However, the specific pattern of low cortisol with high ACTH suggests primary adrenal pathology is less likely."
+    },
+    {
+      "disease_name": "Aromatase Excess Syndrome",
+      "disease_id": "OMIM:139300",
+      "score": 0.17,
+      "explanation": "Explains increased estradiol and decreased testosterone through excessive aromatization. However, doesn't directly explain the adrenal axis abnormalities (low cortisol, high ACTH) or hyperprolactinemia."
+    }
+  ]
+}

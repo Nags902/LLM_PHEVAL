@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "Classic presentation with infantile spasms, hypsarrhythmia on EEG, and developmental regression. The combination of these three features forms the diagnostic triad of West syndrome."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "Early-onset epileptic encephalopathy with infantile spasms, multiple seizure types (focal tonic, focal myoclonic), severe developmental delay, and hypotonia. Common in females."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.333,
+      "explanation": "Early infantile epileptic encephalopathy with multiple seizure types including infantile spasms, focal seizures, severe developmental delay, and hypotonia."
+    },
+    {
+      "disease_name": "SCN2A-related disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "Can present with infantile spasms, focal seizures, developmental delay, and encephalopathy. EEG abnormalities including hypsarrhythmia are common."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "Common cause of infantile spasms with focal seizures, developmental delay, and hypotonia. Would need additional features like skin findings or brain imaging to confirm."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.167,
+      "explanation": "Similar presentation to TSC1 with infantile spasms, focal seizures, and developmental issues. Caused by TSC2 gene mutations."
+    },
+    {
+      "disease_name": "ARX-related disorders",
+      "disease_id": "OMIM:308350",
+      "score": 0.143,
+      "explanation": "X-linked disorder causing infantile spasms, severe developmental delay, and hypotonia. More common in males but can affect females."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.125,
+      "explanation": "Can present with early-onset seizures including focal seizures, encephalopathy, and developmental delay, though infantile spasms are less typical."
+    }
+  ]
+}

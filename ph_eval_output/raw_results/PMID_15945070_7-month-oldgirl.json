@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "Type I transferrin isoform profile is pathognomonic for CDG-Ia. The patient shows classic features including cerebellar atrophy, failure to thrive, hypotonia, seizures, and hypoalbuminemia. Polycystic kidney disease and pericardial effusion are also reported in CDG-Ia."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type Ib",
+      "disease_id": "OMIM:602579",
+      "score": 0.5,
+      "explanation": "CDG-Ib also presents with Type I transferrin pattern and can have similar neurological features. However, it typically has more prominent hepatic and gastrointestinal involvement rather than the cerebellar atrophy seen here."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type Ic",
+      "disease_id": "OMIM:603147",
+      "score": 0.33,
+      "explanation": "CDG-Ic shows Type I transferrin pattern with seizures and developmental delay, but typically has less severe cerebellar involvement and doesn't commonly present with renal cysts."
+    },
+    {
+      "disease_name": "Carbohydrate-Deficient Glycoprotein Syndrome Type IV",
+      "disease_id": "OMIM:607143",
+      "score": 0.25,
+      "explanation": "CDG-IV can present with similar neurological features and Type I transferrin pattern, but the specific combination of polycystic kidneys and pericardial effusion is less typical."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "Presents with hypotonia, seizures, failure to thrive, and can have renal cysts. However, it doesn't explain the Type I transferrin pattern, which is specific to CDG disorders."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.17,
+      "explanation": "Can present with cerebellar atrophy, hypotonia, and renal cysts. However, it doesn't explain the Type I transferrin pattern or hypoalbuminemia, and typically has characteristic molar tooth sign on MRI."
+    }
+  ]
+}

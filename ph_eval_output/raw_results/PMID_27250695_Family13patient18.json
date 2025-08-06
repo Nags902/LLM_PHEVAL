@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic triad of intellectual disability, microcephaly, and growth retardation (short stature) with early onset. NIPBL mutations cause the most common form."
+    },
+    {
+      "disease_name": "Seckel syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 0.5,
+      "explanation": "Characterized by severe microcephaly, intellectual disability, and proportionate short stature. Primary microcephaly with dwarfism presentation fits well."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Progressive disorder with microcephaly, intellectual disability, and growth failure. More common in females, which matches patient gender."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, microcephaly, and growth retardation. CREBBP mutations cause this form, though typically has additional dysmorphic features."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Presents with severe intellectual disability, microcephaly, and growth delay. Typically has additional features like seizures and ataxia not mentioned here."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.167,
+      "explanation": "Intellectual disability with microcephaly and growth retardation are core features. ARID1B mutations are most common cause."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.143,
+      "explanation": "Metabolic disorder with intellectual disability, microcephaly, and growth retardation. Usually has additional malformations not described here."
+    },
+    {
+      "disease_name": "Meier-Gorlin syndrome 1",
+      "disease_id": "OMIM:224690",
+      "score": 0.125,
+      "explanation": "Features microcephaly and severe growth retardation with variable intellectual disability. ORC1 mutations cause this form."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Classic triad of obesity, short metacarpals (especially 4th and 5th), and intellectual disability. This is the hallmark presentation of AHO/PHP1A."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Same as AHO, presenting with Albright hereditary osteodystrophy phenotype including obesity, brachydactyly, and cognitive impairment."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.33,
+      "explanation": "Features of AHO (obesity, short metacarpals, mild intellectual disability) but without hormone resistance. Related to PHP1A."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Presents with obesity and intellectual disability, but short metacarpals are not typical. Small hands/feet are more common than specific metacarpal shortening."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.2,
+      "explanation": "Features obesity and intellectual disability. Brachydactyly can occur but is usually postaxial polydactyly rather than short metacarpals."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.17,
+      "explanation": "Presents with obesity (truncal) and intellectual disability. Can have small hands but specific metacarpal shortening is less characteristic."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.14,
+      "explanation": "Features childhood obesity and intellectual disability, but short metacarpals are not typical. More associated with sensory deficits."
+    }
+  ]
+}

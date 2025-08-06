@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Lymphoproliferative Syndrome, Type IA",
+      "disease_id": "OMIM:601859",
+      "score": 1.0,
+      "explanation": "ALPS presents with autoimmune cytopenias including hemolytic anemia, and can have gastrointestinal manifestations including chronic diarrhea. Age of onset is typically in early childhood."
+    },
+    {
+      "disease_name": "Autoimmune Lymphoproliferative Syndrome, Type IB",
+      "disease_id": "OMIM:601859",
+      "score": 0.5,
+      "explanation": "Similar to Type IA ALPS with autoimmune hemolytic anemia and potential GI involvement, but with different genetic basis."
+    },
+    {
+      "disease_name": "Immunodysregulation, Polyendocrinopathy, and Enteropathy, X-Linked",
+      "disease_id": "OMIM:304790",
+      "score": 0.33,
+      "explanation": "IPEX syndrome classically presents with chronic diarrhea/enteropathy and autoimmune manifestations including hemolytic anemia in male patients during infancy/early childhood."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency 1",
+      "disease_id": "OMIM:607594",
+      "score": 0.25,
+      "explanation": "CVID can present with autoimmune cytopenias including hemolytic anemia and chronic diarrhea due to infections or inflammatory bowel disease-like symptoms."
+    },
+    {
+      "disease_name": "Autoimmune Enteropathy, Type 1",
+      "disease_id": "OMIM:243600",
+      "score": 0.2,
+      "explanation": "Primary autoimmune enteropathy causes chronic diarrhea and can be associated with other autoimmune manifestations including hemolytic anemia."
+    },
+    {
+      "disease_name": "Inflammatory Bowel Disease 28",
+      "disease_id": "OMIM:613148",
+      "score": 0.17,
+      "explanation": "Very early onset IBD can present with chronic diarrhea and extraintestinal manifestations including autoimmune hemolytic anemia."
+    },
+    {
+      "disease_name": "Systemic Lupus Erythematosus",
+      "disease_id": "OMIM:152700",
+      "score": 0.14,
+      "explanation": "Pediatric SLE can present with autoimmune hemolytic anemia and gastrointestinal involvement including chronic diarrhea, though other features are usually present."
+    }
+  ]
+}

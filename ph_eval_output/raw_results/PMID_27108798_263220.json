@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Classic triad of cerebellar ataxia, partial aniridia/iris hypoplasia, and intellectual disability matches perfectly. The cerebellar hypoplasia/atrophy, hypotonia, and motor delays are characteristic features."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Cerebellar hypoplasia, ataxia, hypotonia, intellectual disability, and visual impairment are core features. However, iris hypoplasia is not typical, and molar tooth sign on MRI would be expected."
+    },
+    {
+      "disease_name": "Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome",
+      "disease_id": "OMIM:614575",
+      "score": 0.33,
+      "explanation": "Cerebellar atrophy and ataxia are present, but onset is typically later, and peripheral neuropathy features are not described. The ocular findings also don't fit."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "Severe motor delays, cerebellar hypoplasia, and intellectual disability fit, but typically more severe with microcephaly and dystonia. Iris hypoplasia is not a feature."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.2,
+      "explanation": "Cerebellar atrophy, ataxia, and visual impairment (due to retinal degeneration) can occur, but onset is typically later and progressive. Iris hypoplasia is not a feature."
+    },
+    {
+      "disease_name": "COACH syndrome",
+      "disease_id": "OMIM:216360",
+      "score": 0.17,
+      "explanation": "Cerebellar vermis hypoplasia, ataxia, and developmental delays fit, but hepatic fibrosis and colobomas are typical features not described here."
+    }
+  ]
+}

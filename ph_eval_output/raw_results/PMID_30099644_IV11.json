@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Classic presentation with reduced visual acuity in young adult, retinal pigment epithelial mottling, and abnormal ERG. Most common inherited macular dystrophy affecting young adults."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 2",
+      "disease_id": "OMIM:120970",
+      "score": 0.5,
+      "explanation": "Presents with reduced visual acuity and abnormal ERG, though typically shows more severe cone dysfunction. RPE changes are common but may be less prominent than in Stargardt."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa 1",
+      "disease_id": "OMIM:180100",
+      "score": 0.33,
+      "explanation": "Shows RPE mottling and abnormal ERG, but typically presents with night blindness first and peripheral vision loss before central acuity is affected."
+    },
+    {
+      "disease_name": "Best Vitelliform Macular Dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.25,
+      "explanation": "Can present with reduced visual acuity and RPE changes, though typically shows characteristic vitelliform lesions. ERG may be normal or show reduced EOG."
+    },
+    {
+      "disease_name": "Pattern Dystrophy of Retinal Pigment Epithelium",
+      "disease_id": "OMIM:169150",
+      "score": 0.2,
+      "explanation": "Shows RPE mottling patterns and can affect visual acuity, though typically presents later in life and ERG changes are usually mild."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.17,
+      "explanation": "Shows severely abnormal ERG and vision loss, but typically presents in infancy with severe visual impairment, making it less likely given the patient's age."
+    }
+  ]
+}

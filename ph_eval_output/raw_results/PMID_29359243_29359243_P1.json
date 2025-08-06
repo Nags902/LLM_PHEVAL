@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "Classic presentation with increased CSF lactate, brain MRI abnormalities affecting internal capsule and cortex, severe hypotonia, motor regression, and respiratory failure in an infant. The constellation of neurometabolic features strongly suggests mitochondrial disease."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "Presents with increased lactate, severe hypotonia, feeding difficulties, and abnormal brain imaging in infancy. The motor regression and respiratory failure are consistent with severe forms of PDH deficiency."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.33,
+      "explanation": "Early-onset mitochondrial disorder with increased lactate, severe hypotonia, feeding difficulties, and progressive neurological deterioration including motor regression and respiratory failure."
+    },
+    {
+      "disease_name": "Pyruvate carboxylase deficiency",
+      "disease_id": "OMIM:266150",
+      "score": 0.25,
+      "explanation": "Can present with lactic acidosis, severe hypotonia, and neurological deterioration in infancy. The brain imaging abnormalities and respiratory failure fit the severe infantile form."
+    },
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 1",
+      "disease_id": "OMIM:220110",
+      "score": 0.2,
+      "explanation": "Another mitochondrial disorder presenting with increased lactate, hypotonia, feeding difficulties, and progressive neurological symptoms including respiratory failure in infancy."
+    },
+    {
+      "disease_name": "Canavan disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.17,
+      "explanation": "Leukodystrophy presenting with hypotonia, feeding difficulties, nystagmus, and abnormal brain imaging in early infancy. Motor regression is typical, though lactate elevation is less common."
+    },
+    {
+      "disease_name": "Alexander disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.14,
+      "explanation": "Infantile form presents with feeding difficulties, hypotonia, and characteristic MRI abnormalities. Motor regression and respiratory complications can occur, though increased lactate is atypical."
+    }
+  ]
+}

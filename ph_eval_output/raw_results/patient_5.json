@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Acidemia Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "Perfect match for all key features: glutaric aciduria, macrocephaly, cerebral atrophy, subdural hemorrhage, and dystonia. This is the classic presentation of GA-I in a teenager."
+    },
+    {
+      "disease_name": "Glutaric Acidemia Type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Can present with glutaric aciduria but typically has more systemic features and different neurological manifestations. Less likely given the specific pattern of macrocephaly and subdural hemorrhage."
+    },
+    {
+      "disease_name": "L-2-Hydroxyglutaric Aciduria",
+      "disease_id": "OMIM:236792",
+      "score": 0.33,
+      "explanation": "Can present with macrocephaly, cerebral atrophy, and dystonia, but glutaric aciduria is not a typical feature. Subdural hemorrhage is also uncommon."
+    },
+    {
+      "disease_name": "Methylmalonic Aciduria and Homocystinuria, cblC Type",
+      "disease_id": "OMIM:277400",
+      "score": 0.25,
+      "explanation": "Can present with cerebral atrophy and subdural hemorrhage, but glutaric aciduria and macrocephaly are not typical features. Movement disorders can occur but are usually different from dystonia."
+    },
+    {
+      "disease_name": "3-Methylglutaconic Aciduria Type I",
+      "disease_id": "OMIM:250950",
+      "score": 0.2,
+      "explanation": "An organic aciduria that can present with neurological features, but the specific pattern of macrocephaly, subdural hemorrhage, and dystonia is not typical. Glutaric aciduria would be secondary."
+    }
+  ]
+}

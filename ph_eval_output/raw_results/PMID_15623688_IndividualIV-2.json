@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Classic presentation with gait ataxia, delayed walking, intellectual disability, global developmental delay, and severe speech/language impairment. The combination of ataxia with developmental delays is highly characteristic."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Progressive cerebellar ataxia with delayed motor milestones and mild intellectual disability. However, typically presents with more severe neurological deterioration and immunodeficiency."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Features developmental regression, gait ataxia, and intellectual disability. However, this is X-linked dominant and more common in females, making it less likely in this male patient."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Common cause of intellectual disability in males with speech delays and mild motor delays. Ataxia is not a primary feature but can occur with cerebellar involvement."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.2,
+      "explanation": "Characterized by ataxia, developmental delays, and intellectual disability. Would expect to see characteristic molar tooth sign on MRI and potentially breathing abnormalities."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 29",
+      "disease_id": "OMIM:117360",
+      "score": 0.167,
+      "explanation": "Early-onset ataxia with developmental delays. However, SCA29 typically presents in infancy with more severe motor impairment and is autosomal dominant."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1B",
+      "disease_id": "OMIM:614678",
+      "score": 0.143,
+      "explanation": "Features developmental delay, intellectual disability, and ataxia. However, typically presents with more severe neurological impairment and muscle weakness."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.125,
+      "explanation": "Severe developmental delays, absent speech, and movement disorders including ataxia. However, typically presents with more severe microcephaly and epilepsy."
+    }
+  ]
+}

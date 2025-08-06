@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, microcephaly, synophrys, thick eyebrows, long philtrum, anteverted nares, feeding difficulties, and limb abnormalities. The facial dysmorphisms are highly characteristic."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "X-linked form with similar features to CdLS1 including intellectual disability, facial dysmorphisms (synophrys, anteverted nares), and limb abnormalities, though typically milder."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.333,
+      "explanation": "Another form of CdLS with overlapping features including intellectual disability, characteristic facial features, and developmental delays."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Shares intellectual disability, developmental delays, feeding difficulties, and some facial features (thick eyebrows, bulbous nose), though lacks the classic synophrys."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, thick eyebrows, long philtrum, and developmental delays. Facial gestalt overlaps but is less specific for synophrys."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.167,
+      "explanation": "Presents with intellectual disability, microcephaly, and hand abnormalities. Some facial features overlap (bulbous nose) but lacks synophrys."
+    },
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.143,
+      "explanation": "Features intellectual disability, developmental delays, and some overlapping facial features including thick eyebrows, though the overall gestalt differs."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.125,
+      "explanation": "Shares intellectual disability, speech delays, and low anterior hairline, but facial features are less consistent with the presented phenotype."
+    }
+  ]
+}

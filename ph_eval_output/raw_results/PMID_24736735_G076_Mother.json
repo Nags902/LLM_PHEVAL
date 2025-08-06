@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 1.0,
+      "explanation": "Classic presentation with both preaxial polydactyly and syndactyly. Caused by GLI3 mutations and frequently presents with these exact limb malformations."
+    },
+    {
+      "disease_name": "Acrocallosal syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.5,
+      "explanation": "Features preaxial polydactyly and syndactyly as major manifestations, though typically includes additional CNS abnormalities not mentioned here."
+    },
+    {
+      "disease_name": "Polysyndactyly, type IV",
+      "disease_id": "OMIM:174700",
+      "score": 0.333,
+      "explanation": "Specifically characterized by the combination of polydactyly and syndactyly, though typically involves postaxial rather than preaxial polydactyly."
+    },
+    {
+      "disease_name": "Carpenter syndrome",
+      "disease_id": "OMIM:201000",
+      "score": 0.25,
+      "explanation": "Can present with preaxial polydactyly and syndactyly, but usually accompanied by craniosynostosis and other features not reported here."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.2,
+      "explanation": "Can include polydactyly (usually postaxial) and occasionally syndactyly, but typically presents with additional systemic features like obesity and retinal dystrophy."
+    },
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.167,
+      "explanation": "Associated with GLI3 mutations and can present with polydactyly and syndactyly, though usually includes hypothalamic hamartoma and other features."
+    }
+  ]
+}

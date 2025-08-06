@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia with vitamin E deficiency",
+      "disease_id": "OMIM:277460",
+      "score": 1.0,
+      "explanation": "Presents with ataxia, hyporeflexia, and dysarthria. Hypoalbuminemia can occur due to malabsorption. The neurological features match well with this treatable condition."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "Features ataxia, hyporeflexia, dysarthria, and slow saccades (related to supranuclear gaze palsy). Age of onset fits. Athetosis less common but can occur."
+    },
+    {
+      "disease_name": "Niemann-Pick disease type C",
+      "disease_id": "OMIM:257220",
+      "score": 0.33,
+      "explanation": "Classic features include supranuclear vertical gaze palsy, ataxia, dysarthria, and movement disorders. Can present in adults. Hypoalbuminemia less typical."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 3 (Machado-Joseph disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.25,
+      "explanation": "Presents with ataxia, dysarthria, and ophthalmoplegia. Can have dystonia/athetosis. Hyporeflexia and hypoalbuminemia less typical but possible."
+    },
+    {
+      "disease_name": "Progressive supranuclear palsy",
+      "disease_id": "OMIM:601104",
+      "score": 0.2,
+      "explanation": "Features supranuclear gaze palsy, dysarthria, and ataxia. Typically presents later in life. Athetosis and hypoalbuminemia are atypical."
+    },
+    {
+      "disease_name": "Abetalipoproteinemia",
+      "disease_id": "OMIM:200100",
+      "score": 0.17,
+      "explanation": "Can present with ataxia, hyporeflexia, and hypoalbuminemia due to fat malabsorption. Ophthalmoplegia possible. Movement disorders less common."
+    }
+  ]
+}

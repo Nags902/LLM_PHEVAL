@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 1.0,
+      "explanation": "Strong match with characteristic facial features (thick eyebrows, wide nose, broad philtrum, thin upper lip), ear abnormalities, intellectual disability, seizures, and corpus callosum hypoplasia. The constellation of features is highly suggestive of this syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, thick eyebrows, wide nose, and corpus callosum abnormalities. However, doesn't typically include orofacial clefts, making it less likely than Mowat-Wilson."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.33,
+      "explanation": "Features corpus callosum hypoplasia, seizures, and intellectual disability. However, primarily affects females and the facial dysmorphisms don't match as well as other candidates."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.25,
+      "explanation": "Includes intellectual disability, seizures, facial dysmorphisms, and orofacial clefts. However, the specific facial features described are less typical for this syndrome."
+    },
+    {
+      "disease_name": "1p36 deletion syndrome",
+      "disease_id": "OMIM:607872",
+      "score": 0.2,
+      "explanation": "Can present with intellectual disability, seizures, orofacial clefts, and various facial dysmorphisms. The corpus callosum involvement and specific facial features make it less likely."
+    }
+  ]
+}

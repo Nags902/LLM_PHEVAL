@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Classic presentation with absent speech, intellectual disability, ataxia (truncal, limb, gait), broad-based gait, tremor, and hypotonia. The combination of severe speech impairment with ataxia is highly characteristic."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Progressive cerebellar ataxia with truncal ataxia, dysmetria, and gait disturbance. However, telangiectasias and immunodeficiency are not mentioned, and speech is typically present though dysarthric."
+    },
+    {
+      "disease_name": "Joubert Syndrome Type 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.33,
+      "explanation": "Features hypotonia, developmental delay, ataxia, and intellectual disability. The absence of reported breathing abnormalities or eye movement disorders makes this less likely."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "Severe developmental delay, absent speech, hypotonia, and movement disorders including dystonia (torticollis) and ataxia. Progressive microcephaly not mentioned reduces likelihood."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Severe intellectual disability, absent speech, hypotonia, and movement disorders. The prominent ataxia and tremor are less typical, and microcephaly is usually present."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, absent speech, hypotonia, ataxia, and tremor. However, typical hand stereotypies and regression period are not mentioned, and torticollis is uncommon."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 12",
+      "disease_id": "OMIM:604326",
+      "score": 0.14,
+      "explanation": "Presents with tremor, cerebellar ataxia, and cognitive decline. However, adult onset is typical, making this unlikely given the developmental delay and absent speech suggesting early onset."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.125,
+      "explanation": "Severe intellectual disability, absent speech, hypotonia, and ataxia. The lack of reported breathing abnormalities and distinctive facial features makes this less likely."
+    }
+  ]
+}

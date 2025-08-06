@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 1.0,
+      "explanation": "AGS1 presents with severe neurological dysfunction including seizures, intellectual disability, brain atrophy, and white matter abnormalities (hypomyelination). The combination of severe epilepsy with brain structural changes is characteristic."
+    },
+    {
+      "disease_name": "Infantile or early childhood epileptic encephalopathy",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "This X-linked disorder presents with infantile spasms, hypsarrhythmia, severe intellectual disability, and various seizure types. The presence of precocious puberty could be related to hypothalamic dysfunction."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.33,
+      "explanation": "PMD is characterized by CNS hypomyelination, cerebellar atrophy, spasticity, and intellectual disability. While seizures are less common, the white matter abnormalities and motor findings fit well."
+    },
+    {
+      "disease_name": "Neuronal ceroid lipofuscinosis 2",
+      "disease_id": "OMIM:204500",
+      "score": 0.25,
+      "explanation": "Late infantile NCL presents with seizures (including myoclonic and tonic-clonic), progressive brain atrophy, intellectual decline, and motor deterioration. The epilepsy pattern and neurodegeneration are consistent."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.2,
+      "explanation": "This X-linked disorder presents with early-onset seizures including infantile spasms, severe intellectual disability, and various seizure types. The combination of epileptic encephalopathy features is highly suggestive."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.17,
+      "explanation": "Severe myoclonic epilepsy of infancy with multiple seizure types, intellectual disability, and EEG abnormalities. While brain atrophy can occur, hypomyelination is less typical."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.14,
+      "explanation": "TSC can present with infantile spasms, various seizure types, intellectual disability, and brain abnormalities. Precocious puberty can occur due to hypothalamic hamartomas."
+    }
+  ]
+}

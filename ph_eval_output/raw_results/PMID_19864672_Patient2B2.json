@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Chronic mucocutaneous candidiasis",
+      "disease_id": "OMIM:607644",
+      "score": 1.0,
+      "explanation": "Primary immunodeficiency specifically characterized by chronic oral candidiasis as a defining feature, directly matching the patient's phenotype."
+    },
+    {
+      "disease_name": "STAT1 gain-of-function immunodeficiency",
+      "disease_id": "OMIM:614162",
+      "score": 0.5,
+      "explanation": "Autosomal dominant disorder frequently presenting with chronic mucocutaneous candidiasis, including oral candidiasis as a major feature."
+    },
+    {
+      "disease_name": "Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)",
+      "disease_id": "OMIM:240300",
+      "score": 0.333,
+      "explanation": "Classic triad includes chronic mucocutaneous candidiasis; however, typically presents with additional features like hypoparathyroidism and adrenal insufficiency."
+    },
+    {
+      "disease_name": "CARD9 deficiency",
+      "disease_id": "OMIM:212050",
+      "score": 0.25,
+      "explanation": "Primary immunodeficiency causing susceptibility to fungal infections including chronic oral candidiasis, though often presents with more severe invasive fungal infections."
+    },
+    {
+      "disease_name": "IL17RC deficiency",
+      "disease_id": "OMIM:613953",
+      "score": 0.2,
+      "explanation": "Rare immunodeficiency specifically affecting IL-17 signaling pathway, leading to chronic mucocutaneous candidiasis including oral manifestations."
+    },
+    {
+      "disease_name": "DiGeorge syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.167,
+      "explanation": "T-cell immunodeficiency that can present with recurrent candidiasis, though typically has additional features like cardiac anomalies and hypocalcemia."
+    },
+    {
+      "disease_name": "Hyper-IgE syndrome",
+      "disease_id": "OMIM:147060",
+      "score": 0.143,
+      "explanation": "Primary immunodeficiency that can include chronic mucocutaneous candidiasis, though usually presents with eczema, recurrent infections, and elevated IgE."
+    }
+  ]
+}

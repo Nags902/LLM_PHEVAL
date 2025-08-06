@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic CdLS presents with distinctive facial features including highly arched eyebrows, broad philtrum, and prominent metopic ridge. Global developmental delay, motor delay, speech delay, hearing impairment, and autistic behaviors are all common features."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "X-linked form of CdLS with similar phenotype to CdLS1, including developmental delays, autistic behavior, and characteristic facial features. May present with milder phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.33,
+      "explanation": "Another subtype of CdLS with overlapping features including developmental delays, speech delay, and facial dysmorphisms, though typically milder than CdLS1."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Features highly arched eyebrows, developmental delays, speech delay, hearing problems, and autistic behaviors. Exaggerated cupid's bow can be seen in some patients."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.2,
+      "explanation": "X-linked form of Kabuki syndrome with similar features to Kabuki syndrome 1, including developmental delays and characteristic facial features."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.17,
+      "explanation": "Presents with developmental delays, speech delay, autistic behaviors, hearing problems, and distinctive facial features including broad face and prominent forehead."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.14,
+      "explanation": "Features global developmental delay, speech delay, autistic behavior, hearing impairment, and distinctive facial features including broad philtrum."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.125,
+      "explanation": "Can present with developmental delays, speech delay, autistic behaviors, hearing problems, and variable facial dysmorphisms including cupid's bow abnormalities."
+    }
+  ]
+}

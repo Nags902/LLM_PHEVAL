@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental delay. The presence of epileptic encephalopathy and progression to continuous spike-wave during sleep suggests evolution to Lennox-Gastaut syndrome."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Severe epileptic encephalopathy with developmental delay and multiple seizure types. While infantile spasms and hypsarrhythmia are less typical, they can occur. CSWS can develop in later stages."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.33,
+      "explanation": "Early-onset epileptic encephalopathy with infantile spasms, hypsarrhythmia, and severe developmental delay. Various seizure types including tonic seizures are common."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "Early-onset epileptic encephalopathy with infantile spasms, hypsarrhythmia, and severe developmental delay. Multiple seizure types including focal tonic seizures can occur."
+    },
+    {
+      "disease_name": "SCN2A-related Disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.2,
+      "explanation": "Can present with infantile spasms, hypsarrhythmia, and epileptic encephalopathy. Various seizure types and evolution to CSWS pattern have been reported."
+    },
+    {
+      "disease_name": "Electrical Status Epilepticus in Sleep (ESES)",
+      "disease_id": "OMIM:245570",
+      "score": 0.17,
+      "explanation": "Characterized by continuous spike-wave during slow sleep with epileptic encephalopathy and developmental regression. The early features of infantile spasms and hypsarrhythmia suggest this may be secondary ESES."
+    },
+    {
+      "disease_name": "ARX-related Disorders",
+      "disease_id": "OMIM:308350",
+      "score": 0.14,
+      "explanation": "X-linked disorder (patient gender 0 suggests male) causing infantile spasms, hypsarrhythmia, and severe developmental delay. Can evolve to various epilepsy syndromes."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.125,
+      "explanation": "Often evolves from West syndrome. Features tonic seizures, developmental delay, and can show CSWS pattern. The presence of hypsarrhythmia suggests earlier West syndrome."
+    }
+  ]
+}

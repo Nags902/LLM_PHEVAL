@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephaly-capillary malformation syndrome",
+      "disease_id": "OMIM:614261",
+      "score": 1.0,
+      "explanation": "This syndrome presents with microcephaly, polymicrogyria, intellectual disability, and short stature - matching most of the patient's key features. The brain malformations including polymicrogyria are characteristic."
+    },
+    {
+      "disease_name": "Microcephaly, short stature, and polymicrogyria with or without seizures",
+      "disease_id": "OMIM:614833",
+      "score": 0.5,
+      "explanation": "This condition specifically includes the triad of microcephaly, short stature, and polymicrogyria seen in this patient, along with intellectual disability. The phenotypic match is very strong."
+    },
+    {
+      "disease_name": "Microcephaly 5, primary, autosomal recessive",
+      "disease_id": "OMIM:608716",
+      "score": 0.333,
+      "explanation": "Primary microcephaly type 5 can present with microcephaly, intellectual disability, and absent speech. While it doesn't typically include polymicrogyria, the severity of brain abnormalities can vary."
+    },
+    {
+      "disease_name": "Microcephaly 17, primary, autosomal recessive",
+      "disease_id": "OMIM:617090",
+      "score": 0.25,
+      "explanation": "This form of primary microcephaly can present with severe intellectual disability, absent speech, and corpus callosum abnormalities. Short stature may also occur."
+    },
+    {
+      "disease_name": "Asparagine synthetase deficiency",
+      "disease_id": "OMIM:615574",
+      "score": 0.2,
+      "explanation": "This condition presents with congenital microcephaly, severe intellectual disability, absent speech, and progressive cerebral atrophy that can include corpus callosum thinning."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.167,
+      "explanation": "Cohen syndrome includes microcephaly, intellectual disability, and short stature. While polymicrogyria is not typical, the overall phenotypic overlap is significant."
+    },
+    {
+      "disease_name": "Microcephaly-micromelia syndrome",
+      "disease_id": "OMIM:251230",
+      "score": 0.143,
+      "explanation": "This syndrome includes severe microcephaly, intellectual disability, and growth retardation. Brain malformations can occur, though polymicrogyria is not the most common."
+    }
+  ]
+}

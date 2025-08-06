@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 1.0,
+      "explanation": "Strong match with prominent fingertip pads (pathognomonic feature), intellectual disability, abnormal facial shape, clinodactyly, and feeding difficulties. IUGR and narrow palate are also consistent."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.5,
+      "explanation": "Similar phenotype to RTS1 with prominent fingertip pads, intellectual disability, and facial abnormalities. Caused by EP300 mutations rather than CREBBP."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, feeding difficulties, abnormal facial shape, and prominent fingertip pads. Horseshoe kidney and neonatal hypoglycemia can occur."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.25,
+      "explanation": "X-linked form of Kabuki syndrome with similar features including intellectual disability, feeding difficulties, and distinctive facial features."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Matches IUGR, feeding difficulties, intellectual disability, clinodactyly, and abnormal facial shape. Horseshoe kidney is rare but reported."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.17,
+      "explanation": "Features IUGR, intellectual disability, feeding difficulties, abnormal facial shape, and clinodactyly. Renal anomalies including horseshoe kidney can occur."
+    },
+    {
+      "disease_name": "3q29 microdeletion syndrome",
+      "disease_id": "OMIM:609425",
+      "score": 0.14,
+      "explanation": "Can present with intellectual disability, feeding difficulties, abnormal facial features, and renal anomalies including horseshoe kidney."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.125,
+      "explanation": "Features feeding difficulties, intellectual disability, abnormal facial shape, and can have renal anomalies. Neonatal hypoglycemia possible with endocrine involvement."
+    }
+  ]
+}

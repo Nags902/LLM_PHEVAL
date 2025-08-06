@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone Dystrophy",
+      "disease_id": "OMIM:602093",
+      "score": 1.0,
+      "explanation": "Presents with all four features: photophobia, reduced visual acuity, and difficulties with light adaptation including bradyopsia. Primary cone dysfunction explains the complete phenotype."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy",
+      "disease_id": "OMIM:120970",
+      "score": 0.5,
+      "explanation": "Shows photophobia, reduced visual acuity, and light adaptation problems. The cone involvement explains bradyopsia, though rod involvement may cause additional features not mentioned."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.333,
+      "explanation": "Complete color blindness with severe photophobia, reduced visual acuity, and adaptation difficulties. Bradyopsia can occur due to reliance on rod vision."
+    },
+    {
+      "disease_name": "Achromatopsia 3",
+      "disease_id": "OMIM:262300",
+      "score": 0.25,
+      "explanation": "Similar to Achromatopsia 2, caused by mutations in different genes but presenting with comparable features including photophobia and adaptation difficulties."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.2,
+      "explanation": "Can present with photophobia and severely reduced visual acuity. Light adaptation problems including bradyopsia may occur, though typically more severe vision loss."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa",
+      "disease_id": "OMIM:268000",
+      "score": 0.167,
+      "explanation": "Can show photophobia and reduced visual acuity. Bradyopsia may occur due to rod dysfunction, though night blindness is more typical than the described phenotype."
+    },
+    {
+      "disease_name": "Oguchi Disease",
+      "disease_id": "OMIM:258100",
+      "score": 0.143,
+      "explanation": "Specifically features very prolonged dark adaptation (extreme bradyopsia). However, photophobia is less common and visual acuity is often normal."
+    }
+  ]
+}

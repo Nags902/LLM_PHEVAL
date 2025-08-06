@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 1.0,
+      "explanation": "SQTS1 is characterized by shortened QT interval and increased risk of atrial fibrillation, matching both key features. Caused by gain-of-function mutations in KCNH2."
+    },
+    {
+      "disease_name": "Short QT syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.5,
+      "explanation": "SQTS2 also presents with shortened QT interval and arrhythmias including atrial fibrillation. Caused by mutations in KCNQ1."
+    },
+    {
+      "disease_name": "Short QT syndrome 3",
+      "disease_id": "OMIM:609622",
+      "score": 0.33,
+      "explanation": "SQTS3 features shortened QT interval and various arrhythmias. Atrial fibrillation is less commonly reported but possible. Caused by KCNJ2 mutations."
+    },
+    {
+      "disease_name": "Hypercalcemia, familial hypocalciuric 1",
+      "disease_id": "OMIM:145980",
+      "score": 0.25,
+      "explanation": "FHH can cause hypercalcemia leading to shortened QT interval. Arrhythmias including atrial fibrillation can occur secondary to electrolyte imbalance."
+    },
+    {
+      "disease_name": "Hypercalcemia, familial hypocalciuric 2",
+      "disease_id": "OMIM:145981",
+      "score": 0.2,
+      "explanation": "Similar to FHH1, can cause hypercalcemia with shortened QT interval and potential arrhythmias. Caused by GNA11 mutations."
+    },
+    {
+      "disease_name": "Hypercalcemia, familial hypocalciuric 3",
+      "disease_id": "OMIM:600740",
+      "score": 0.17,
+      "explanation": "Another form of FHH that can lead to hypercalcemia, shortened QT interval, and cardiac complications. Caused by AP2S1 mutations."
+    },
+    {
+      "disease_name": "Hyperparathyroidism, neonatal severe",
+      "disease_id": "OMIM:239200",
+      "score": 0.14,
+      "explanation": "Can cause severe hypercalcemia leading to shortened QT interval. Cardiac arrhythmias are possible complications, though typically presents earlier than 8 years."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.125,
+      "explanation": "Can have hypercalcemia with shortened QT interval and various cardiac abnormalities. Atrial fibrillation is uncommon but possible in this syndrome."
+    }
+  ]
+}

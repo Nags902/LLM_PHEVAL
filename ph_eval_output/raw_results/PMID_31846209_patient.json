@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "SLOS presents with microcephaly, hypotelorism, holoprosencephaly spectrum, seizures, feeding difficulties, hypotonia, and distinctive facial features including depressed nasal tip. The prominent fingertip pads are a characteristic finding."
+    },
+    {
+      "disease_name": "Holoprosencephaly 3",
+      "disease_id": "OMIM:142945",
+      "score": 0.5,
+      "explanation": "HPE3 caused by SHH mutations presents with lobar holoprosencephaly, microcephaly, hypotelorism, and seizures. The facial dysmorphisms and feeding difficulties are consistent, though some features like prominent fingertip pads are less typical."
+    },
+    {
+      "disease_name": "Holoprosencephaly 2",
+      "disease_id": "OMIM:157170",
+      "score": 0.33,
+      "explanation": "HPE2 due to SIX3 mutations can present with lobar holoprosencephaly, microcephaly, and hypotelorism. The additional dysmorphic features and systemic findings make this less likely than HPE3."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "RTS1 features microcephaly, highly arched eyebrows, long palpebral fissures, prominent fingertip pads, feeding difficulties, and recurrent respiratory infections. However, holoprosencephaly is not typical."
+    },
+    {
+      "disease_name": "Holoprosencephaly 4",
+      "disease_id": "OMIM:142946",
+      "score": 0.2,
+      "explanation": "HPE4 caused by TGIF mutations can present with holoprosencephaly and associated facial features. The broader phenotypic spectrum in this patient makes it less likely than other HPE forms."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.17,
+      "explanation": "PHS can present with hypothalamic hamartoma, seizures, and dysmorphic features. While some features overlap, holoprosencephaly is not typical, and the facial features don't fully match."
+    }
+  ]
+}

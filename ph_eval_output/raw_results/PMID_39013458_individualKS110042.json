@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, intellectual disability, global developmental delay, and hypotonia. The constellation of overgrowth with neurodevelopmental delay is highly characteristic of Sotos syndrome."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Another overgrowth syndrome presenting with tall stature, intellectual disability, and developmental delay. Similar to Sotos but typically has more pronounced skeletal abnormalities."
+    },
+    {
+      "disease_name": "Malan syndrome",
+      "disease_id": "OMIM:614753",
+      "score": 0.33,
+      "explanation": "Overgrowth syndrome with intellectual disability and tall stature caused by NFIX mutations. Shares many features with Sotos syndrome but is less common."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Common cause of intellectual disability with hypotonia and developmental delay. While not typically associated with tall stature, some patients can have accelerated growth in early childhood."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.2,
+      "explanation": "Overgrowth syndrome that can present with tall stature and hypotonia. However, intellectual disability is less common, and other features like macroglossia are usually present."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.17,
+      "explanation": "Can present with developmental delay, hypotonia, and recurrent infections due to immunodeficiency. Tall stature is less typical but possible. Hypermetropia can occur with ocular abnormalities."
+    },
+    {
+      "disease_name": "Klinefelter syndrome",
+      "disease_id": "OMIM:400000",
+      "score": 0.14,
+      "explanation": "In males, can cause tall stature and mild intellectual disability. However, the severe presentation with hypotonia and global delay in a 2-year-old is less typical."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.13,
+      "explanation": "Can cause tall stature and hypotonia, with ocular abnormalities including hypermetropia. However, intellectual disability is not a typical feature, making this less likely."
+    }
+  ]
+}

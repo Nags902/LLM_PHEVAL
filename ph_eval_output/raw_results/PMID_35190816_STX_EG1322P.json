@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "Presents with early-onset epileptic encephalopathy, intellectual disability, autism, hypotonia, and self-injurious behavior. The combination of severe epilepsy with autistic features is characteristic."
+    },
+    {
+      "disease_name": "SCN1A-related disorders (Dravet syndrome)",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Features epileptic encephalopathy with focal seizures, intellectual disability, and autistic behaviors. However, self-injurious behavior is less common than in CDKL5 deficiency."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300815",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, autism, epilepsy, and hypotonia in males. The presence of epileptic encephalopathy and self-injurious behavior supports this diagnosis."
+    },
+    {
+      "disease_name": "SCN2A-related disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "Can cause epileptic encephalopathy with autism, intellectual disability, and hypotonia. The phenotypic spectrum matches well, though self-injury is less typical."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.2,
+      "explanation": "Features early-onset epileptic encephalopathy, intellectual disability, and hypotonia. Autism and self-injurious behavior can occur but are less prominent features."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "Presents with neonatal-onset epileptic encephalopathy and intellectual disability. Hypotonia is common, but autism and self-injury are less frequently reported."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.14,
+      "explanation": "Features intellectual disability, autism, hypotonia, and sometimes epilepsy. Self-injurious behavior can occur. The epileptic encephalopathy is less typical but possible."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.125,
+      "explanation": "Presents with intellectual disability, epilepsy, autism-like features, and hypotonia. Self-injurious behavior and irritability can occur, though happy demeanor is more typical."
+    }
+  ]
+}

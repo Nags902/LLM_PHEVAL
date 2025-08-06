@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "CCA presents with all major features: arachnodactyly, multiple contractures (camptodactyly, elbow), crumpled ears, scoliosis, and mild cardiovascular involvement including mitral valve prolapse and aortic root dilatation."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Classic connective tissue disorder with arachnodactyly, scoliosis, mitral valve prolapse, and aortic root aneurysm. However, crumpled ears and multiple contractures are not typical features."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.33,
+      "explanation": "Features arachnodactyly, scoliosis, and aortic root aneurysm. Contractures can occur but are less common. Crumpled ears are not a typical feature."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.25,
+      "explanation": "Marfanoid habitus with arachnodactyly, scoliosis, mitral valve prolapse, and potential aortic dilatation. Can have contractures but crumpled ears are not characteristic."
+    },
+    {
+      "disease_name": "Ectopia Lentis, Familial",
+      "disease_id": "OMIM:129600",
+      "score": 0.2,
+      "explanation": "Can present with marfanoid features including arachnodactyly and cardiovascular manifestations. However, lacks the contractures and crumpled ears seen in this patient."
+    }
+  ]
+}

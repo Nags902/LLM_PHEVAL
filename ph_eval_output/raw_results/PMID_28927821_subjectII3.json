@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Common Variable Immunodeficiency 1",
+      "disease_id": "OMIM:607594",
+      "score": 1.0,
+      "explanation": "CVID1 perfectly matches the patient's profile with B lymphocytopenia, decreased class-switched memory B cells, low IgA and IgM, recurrent sinusitis, and poor polysaccharide vaccine response. Age of presentation (17 years) is typical for CVID."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency 2",
+      "disease_id": "OMIM:240500",
+      "score": 0.5,
+      "explanation": "CVID2 (ICOS deficiency) presents with similar features including B cell abnormalities, hypogammaglobulinemia, and recurrent infections. The decreased class-switched memory B cells are particularly characteristic of this subtype."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency 8",
+      "disease_id": "OMIM:614700",
+      "score": 0.333,
+      "explanation": "CVID8 (LRBA deficiency) can present with hypogammaglobulinemia, B cell defects, and recurrent infections. However, it often has additional autoimmune features not mentioned in this case."
+    },
+    {
+      "disease_name": "Immunodeficiency, Common Variable, 13",
+      "disease_id": "OMIM:616576",
+      "score": 0.25,
+      "explanation": "CVID13 (IKZF1 deficiency) presents with B cell lymphopenia, hypogammaglobulinemia, and recurrent infections. The specific defect in class-switched memory B cells aligns with this diagnosis."
+    },
+    {
+      "disease_name": "Activated PI3K-delta Syndrome",
+      "disease_id": "OMIM:615513",
+      "score": 0.2,
+      "explanation": "APDS can present with B lymphocytopenia, decreased class-switched memory B cells, and recurrent sinopulmonary infections. However, it typically has more prominent lymphoproliferation."
+    },
+    {
+      "disease_name": "X-linked Agammaglobulinemia",
+      "disease_id": "OMIM:300755",
+      "score": 0.167,
+      "explanation": "XLA presents with severe B cell deficiency and hypogammaglobulinemia, but typically manifests much earlier in life (infancy). The patient's age and gender make this less likely but not impossible."
+    },
+    {
+      "disease_name": "Immunodeficiency 36",
+      "disease_id": "OMIM:616005",
+      "score": 0.143,
+      "explanation": "IMD36 (BCL10 deficiency) can present with combined immunodeficiency including B cell abnormalities and hypogammaglobulinemia, though it often has more severe manifestations."
+    },
+    {
+      "disease_name": "Hyper-IgM Syndrome Type 2",
+      "disease_id": "OMIM:605258",
+      "score": 0.125,
+      "explanation": "HIGM2 presents with decreased IgA and normal/elevated IgM (opposite to this case), but the class-switching defect and recurrent infections are consistent. The low IgM makes this less likely."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Primary Ciliary Dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 1.0,
+      "explanation": "Classic presentation with chronic sinusitis, bronchitis, and rhinitis due to impaired mucociliary clearance. Nasal polyps are common in PCD patients."
+    },
+    {
+      "disease_name": "Cystic Fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.5,
+      "explanation": "CF commonly presents with chronic sinusitis, nasal polyps, and chronic bronchitis due to thick mucus secretions, though typically has additional GI symptoms."
+    },
+    {
+      "disease_name": "Young Syndrome",
+      "disease_id": "OMIM:279000",
+      "score": 0.33,
+      "explanation": "Characterized by chronic sinusitis, bronchiectasis, and rhinitis. Often associated with nasal polyps and abnormal mucus consistency."
+    },
+    {
+      "disease_name": "Aspirin-Exacerbated Respiratory Disease (Samter's Triad)",
+      "disease_id": "OMIM:208550",
+      "score": 0.25,
+      "explanation": "Classic triad includes nasal polyps, chronic rhinosinusitis, and asthma/bronchitis, though aspirin sensitivity is a key feature not mentioned."
+    },
+    {
+      "disease_name": "Immune Deficiency with Hyper-IgE",
+      "disease_id": "OMIM:147060",
+      "score": 0.2,
+      "explanation": "Can present with recurrent sinusitis and bronchitis, though typically includes skin manifestations and elevated IgE levels."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.17,
+      "explanation": "Presents with recurrent sinopulmonary infections including chronic sinusitis and bronchitis, though usually has broader immune dysfunction."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Classic presentation with multiple cafe-au-lait spots, freckling, skeletal abnormalities (pectus excavatum, kyphosis, scoliosis), and astrocytoma. NF1 is strongly associated with optic pathway gliomas and other astrocytomas."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Presents with cafe-au-lait spots and freckling similar to NF1, but typically lacks neurofibromas. However, the presence of astrocytoma and skeletal abnormalities makes this less likely than NF1."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.33,
+      "explanation": "Can present with cafe-au-lait spots, pectus excavatum, and spinal abnormalities. However, astrocytomas are not typical, and other characteristic features like short stature and facial dysmorphism are not mentioned."
+    },
+    {
+      "disease_name": "Constitutional mismatch repair deficiency syndrome",
+      "disease_id": "OMIM:276300",
+      "score": 0.25,
+      "explanation": "Can present with cafe-au-lait spots and early-onset brain tumors including gliomas. However, would typically have additional features like colorectal polyps and other malignancies."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.2,
+      "explanation": "Presents with cafe-au-lait spots and skeletal abnormalities, but the spots typically have irregular borders and follow Blaschko's lines. Polyostotic fibrous dysplasia rather than the described skeletal features would be expected."
+    }
+  ]
+}

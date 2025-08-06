@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Barth Syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 1.0,
+      "explanation": "Classic presentation with early-onset cardiomyopathy (hypertrophic), myopathy, hypotonia, respiratory distress, and metabolic acidosis. The combination of cardiac and skeletal muscle involvement with metabolic features in an infant strongly suggests this X-linked mitochondrial disorder."
+    },
+    {
+      "disease_name": "Pompe Disease, Infantile-Onset",
+      "disease_id": "OMIM:232300",
+      "score": 0.5,
+      "explanation": "Presents with hypertrophic cardiomyopathy, profound hypotonia, respiratory failure, and myopathic changes on EMG in infancy. However, peripheral neuropathy and nystagmus are less typical, and metabolic acidosis is not a primary feature."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.333,
+      "explanation": "Can present with cardiomyopathy, hypotonia, respiratory failure, metabolic acidosis, and neurological features including nystagmus and dystonia. The multi-system involvement fits a mitochondrial disorder pattern."
+    },
+    {
+      "disease_name": "Mitochondrial Complex IV Deficiency",
+      "disease_id": "OMIM:220110",
+      "score": 0.25,
+      "explanation": "Presents with hypertrophic cardiomyopathy, hypotonia, metabolic acidosis, and respiratory insufficiency in infancy. The neurological features and myopathy are also consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Danon Disease",
+      "disease_id": "OMIM:300257",
+      "score": 0.2,
+      "explanation": "X-linked disorder with hypertrophic cardiomyopathy and myopathy. However, typically presents later in childhood or adolescence, making it less likely in a 5-month-old, though early-onset cases exist."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome",
+      "disease_id": "OMIM:608931",
+      "score": 0.167,
+      "explanation": "Can present with hypotonia, respiratory distress, and hyporeflexia in infancy. However, cardiomyopathy is not typical, and the EMG would usually show neuromuscular junction abnormalities rather than myopathic changes."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy Type 1",
+      "disease_id": "OMIM:253300",
+      "score": 0.143,
+      "explanation": "Presents with severe hypotonia, respiratory failure, and hyporeflexia in infancy. However, cardiomyopathy is not a feature, EMG typically shows neurogenic rather than myopathic changes, and metabolic acidosis is not expected."
+    }
+  ]
+}

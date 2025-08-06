@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Classic presentation with tall stature, mitral regurgitation, dural ectasia, scoliosis, and ocular features. Dural ectasia is particularly specific for Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Shares connective tissue features with Marfan including scoliosis, tall stature, and cardiac involvement. Downslanted palpebral fissures are characteristic."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.33,
+      "explanation": "Similar to LDS type 1 but caused by TGFBR2 mutations. Presents with overlapping features including skeletal and cardiovascular abnormalities."
+    },
+    {
+      "disease_name": "Congenital contractural arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 0.25,
+      "explanation": "FBN2-related disorder with marfanoid habitus, tall stature, and scoliosis. Less likely due to absence of contractures and presence of dural ectasia."
+    },
+    {
+      "disease_name": "MASS phenotype",
+      "disease_id": "OMIM:604308",
+      "score": 0.2,
+      "explanation": "Milder FBN1-related disorder with mitral valve prolapse, mild aortic dilatation, skin striae, and skeletal features. Dural ectasia can occur."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.17,
+      "explanation": "Can present with mitral valve issues and scoliosis, but lacks typical vascular fragility signs. Tall stature is less common."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.14,
+      "explanation": "Rare marfanoid disorder with skeletal abnormalities, scoliosis, and distinctive facial features. Less likely due to absence of craniosynostosis."
+    }
+  ]
+}

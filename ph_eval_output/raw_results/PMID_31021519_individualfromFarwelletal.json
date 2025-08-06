@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Velocardiofacial syndrome",
+      "disease_id": "OMIM:192430",
+      "score": 1.0,
+      "explanation": "Classic triad of cleft palate, intellectual disability, and developmental delay. Most common genetic cause of cleft palate with ID."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Frequently presents with cleft palate (35-40% of cases), intellectual disability, and global developmental delay."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.33,
+      "explanation": "X-linked form of Kabuki syndrome with similar features including cleft palate, ID, and developmental delay."
+    },
+    {
+      "disease_name": "Stickler syndrome type I",
+      "disease_id": "OMIM:108300",
+      "score": 0.25,
+      "explanation": "Cleft palate is common (30-40%), though intellectual disability is less typical unless with complications."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.2,
+      "explanation": "Features include cleft palate (30% of cases), severe intellectual disability, and global developmental delay."
+    },
+    {
+      "disease_name": "Van der Woude syndrome 1",
+      "disease_id": "OMIM:119300",
+      "score": 0.17,
+      "explanation": "Most common syndromic cause of cleft palate, though intellectual disability is not typical without other complications."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome type I",
+      "disease_id": "OMIM:300000",
+      "score": 0.14,
+      "explanation": "X-linked disorder with cleft palate, intellectual disability, and developmental delays as common features."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.125,
+      "explanation": "Features intellectual disability and developmental delay; cleft palate occurs in 20-30% of cases."
+    }
+  ]
+}

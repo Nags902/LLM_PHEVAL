@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "3C syndrome",
+      "disease_id": "OMIM:220210",
+      "score": 1.0,
+      "explanation": "Strong match with characteristic triad of craniofacial anomalies (hypertelorism, cleft palate, pointed chin), cerebellar abnormalities (Dandy-Walker malformation, hypoplasia of brainstem), and cardiac defects. Also matches hypotonia, developmental delays, and distinctive facial features."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Matches many features including distinctive facial features (hypertelorism, pointed chin, wide mouth, cupid's bow), Dandy-Walker malformation, developmental delay, seizures, and feeding difficulties. However, lacks some characteristic features like Hirschsprung disease."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome (DiGeorge syndrome/Velocardiofacial syndrome)",
+      "disease_id": "OMIM:188400",
+      "score": 0.333,
+      "explanation": "Consistent with cleft palate, characteristic facial features, developmental delays, hearing impairment, recurrent infections, and feeding difficulties. However, Dandy-Walker malformation is less typical."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Matches several features including distinctive facial features (arched eyebrows, epicanthus, ptosis), cleft palate, developmental delays, hypotonia, and recurrent infections. However, Dandy-Walker malformation is not typical."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Some overlapping features including cleft palate, ptosis, developmental delays, hypotonia, and feeding difficulties. However, lacks characteristic 2-3 toe syndactyly and Dandy-Walker malformation is uncommon."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.167,
+      "explanation": "Consistent with cerebellar abnormalities, hypotonia, developmental delays, and some facial features. However, lacks the characteristic molar tooth sign and has additional features not typical of Joubert syndrome."
+    }
+  ]
+}

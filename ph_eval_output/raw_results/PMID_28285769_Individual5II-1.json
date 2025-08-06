@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Strong match with rod-cone dystrophy, intellectual disability, brachydactyly, and developmental delays. BBS1 is the most common form and presents with this constellation of features."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, developmental delays, characteristic facial features (downslanted palpebral fissures, micrognathia, low-set ears), short stature, and retinal dystrophy."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.333,
+      "explanation": "Features rod-cone dystrophy, short stature, and developmental delays, though typically includes obesity and hearing loss which are not mentioned in this case."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.25,
+      "explanation": "Another subtype of BBS with similar features including retinal dystrophy, intellectual disability, and skeletal abnormalities, though less common than BBS1."
+    },
+    {
+      "disease_name": "Senior-Loken Syndrome 1",
+      "disease_id": "OMIM:266900",
+      "score": 0.2,
+      "explanation": "Presents with rod-cone dystrophy and can have developmental delays, but typically includes nephronophthisis which is not mentioned here."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.167,
+      "explanation": "Can present with intellectual disability, developmental delays, and eye abnormalities. The Chiari malformation could represent cerebellar involvement typical of Joubert syndrome."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 10",
+      "disease_id": "OMIM:615987",
+      "score": 0.143,
+      "explanation": "Another BBS subtype with similar clinical features but less frequently reported, includes retinal dystrophy and developmental abnormalities."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.125,
+      "explanation": "Shares some features with BBS including brachydactyly and developmental delays, though typically presents with hydrometrocolpos in females."
+    }
+  ]
+}

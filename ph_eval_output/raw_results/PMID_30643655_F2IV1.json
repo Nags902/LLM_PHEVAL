@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type 1A",
+      "disease_id": "OMIM:162400",
+      "score": 1.0,
+      "explanation": "HSAN1A presents with peripheral axonal neuropathy and acral ulcerations as cardinal features. The spasticity and hyperreflexia suggest concurrent upper motor neuron involvement, which can occur in some HSAN variants."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type 1C",
+      "disease_id": "OMIM:613640",
+      "score": 0.5,
+      "explanation": "HSAN1C shows peripheral neuropathy with acral ulcerations. The presence of spasticity is less typical but can occur with central nervous system involvement in some cases."
+    },
+    {
+      "disease_name": "Hereditary spastic paraplegia 10",
+      "disease_id": "OMIM:604187",
+      "score": 0.33,
+      "explanation": "HSP10 presents with spasticity, hyperreflexia, and frequent falls due to gait disturbance. Some forms include peripheral neuropathy. Acral ulceration is less common but can occur secondary to neuropathy."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2B",
+      "disease_id": "OMIM:600882",
+      "score": 0.25,
+      "explanation": "CMT2B features peripheral axonal neuropathy with prominent acral ulcerations. The spasticity and hyperreflexia are atypical but could represent concurrent pathology or a variant presentation."
+    },
+    {
+      "disease_name": "Hereditary spastic paraplegia 17",
+      "disease_id": "OMIM:270685",
+      "score": 0.2,
+      "explanation": "HSP17 (Silver syndrome) combines spasticity with peripheral neuropathy. Falls are common due to combined upper and lower motor neuron dysfunction. Acral ulceration is not typical but could be secondary."
+    },
+    {
+      "disease_name": "Adrenomyeloneuropathy",
+      "disease_id": "OMIM:300100",
+      "score": 0.17,
+      "explanation": "AMN presents with spastic paraparesis, hyperreflexia, and peripheral neuropathy. Onset in childhood is possible. Acral ulceration is not typical but neuropathy can predispose to skin breakdown."
+    }
+  ]
+}

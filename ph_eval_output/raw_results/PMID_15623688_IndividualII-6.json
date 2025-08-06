@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 1.0,
+      "explanation": "Adult-onset neurodegenerative disorder characterized by progressive ataxia, dysarthria, and impaired tandem gait. The cognitive impairment can manifest as mild intellectual disability or borderline functioning."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "Similar to SCA1 with adult onset, presents with cerebellar ataxia, dysarthria, and gait disturbances. Cognitive decline can occur but is typically less prominent than motor symptoms."
+    },
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.33,
+      "explanation": "Though typically earlier onset, some cases present in adulthood with progressive ataxia, dysarthria, and gait disturbances. Cognitive function is usually preserved but mild impairment can occur."
+    },
+    {
+      "disease_name": "Multiple System Atrophy",
+      "disease_id": "OMIM:146500",
+      "score": 0.25,
+      "explanation": "Adult-onset neurodegenerative disorder with cerebellar features including ataxia, dysarthria, and gait impairment. Cognitive dysfunction is usually mild when present."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome 1",
+      "disease_id": "OMIM:224050",
+      "score": 0.2,
+      "explanation": "Characterized by cerebellar ataxia, intellectual disability, and gait abnormalities including impaired tandem walking. However, typically presents from birth or early childhood."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.17,
+      "explanation": "Adult-onset disorder with progressive ataxia, dysarthria, and gait disturbances. Cognitive impairment is less common but can occur in some patients."
+    }
+  ]
+}

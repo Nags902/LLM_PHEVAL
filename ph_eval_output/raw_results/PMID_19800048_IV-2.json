@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "SLOS presents with intellectual disability, postaxial polydactyly (both hands and feet), and recurrent infections due to immunodeficiency. The combination of bilateral postaxial polydactyly with severe intellectual disability is highly suggestive."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "BBS commonly features postaxial polydactyly, intellectual disability, and can have recurrent infections. However, obesity and retinal dystrophy are also cardinal features not mentioned here."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.33,
+      "explanation": "Features postaxial polydactyly and can have intellectual disability. Hypothalamic hamartoma is a key feature not mentioned, and recurrent infections are less typical."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.25,
+      "explanation": "Presents with postaxial polydactyly but typically does not include severe intellectual disability. Hydrometrocolpos in females is a key feature. Recurrent infections are not typical."
+    },
+    {
+      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.2,
+      "explanation": "Features postaxial polydactyly of hands and sometimes feet. However, short stature and cardiac defects are more prominent features, and severe intellectual disability is uncommon."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.17,
+      "explanation": "Can present with polydactyly, though typically preaxial rather than postaxial. Intellectual disability can occur but is usually mild. Recurrent infections are not typical."
+    }
+  ]
+}

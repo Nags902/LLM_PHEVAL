@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ferguson-Smith disease (Multiple self-healing squamous epithelioma)",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "This is the classic disease characterized by self-healing squamous epitheliomas. It's an autosomal dominant condition caused by TGFBR1 mutations, presenting with multiple keratoacanthoma-like lesions that spontaneously regress."
+    },
+    {
+      "disease_name": "Generalized eruptive keratoacanthoma of Grzybowski",
+      "disease_id": "OMIM:148390",
+      "score": 0.5,
+      "explanation": "A rare variant featuring multiple small keratoacanthomas that can show self-healing behavior. While distinct from Ferguson-Smith disease, it shares the key feature of self-healing squamous lesions."
+    },
+    {
+      "disease_name": "Muir-Torre syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.33,
+      "explanation": "Associated with sebaceous tumors and keratoacanthomas which can occasionally self-heal. Part of Lynch syndrome spectrum with MSH2/MLH1 mutations."
+    },
+    {
+      "disease_name": "Incontinentia pigmenti",
+      "disease_id": "OMIM:308300",
+      "score": 0.25,
+      "explanation": "X-linked dominant disorder that can present with verrucous lesions in stage 2 that may resemble squamous epitheliomas and show some regression, though not typically described as self-healing squamous epitheliomas."
+    },
+    {
+      "disease_name": "Bazex-Dupr\u00e9-Christol syndrome",
+      "disease_id": "OMIM:301845",
+      "score": 0.2,
+      "explanation": "X-linked dominant disorder with follicular atrophoderma, hypotrichosis, and basal cell carcinomas. While not typically featuring self-healing squamous epitheliomas, it can present with various epithelial tumors."
+    }
+  ]
+}

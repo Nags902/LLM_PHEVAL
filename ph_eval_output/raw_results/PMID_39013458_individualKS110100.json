@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Classic presentation with developmental regression, microcephaly, intellectual disability, and feeding difficulties. The chronic constipation and anxiety are common features. Age and developmental trajectory fit well."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Presents with severe intellectual disability, microcephaly, developmental delay, and constipation. However, developmental regression is less typical, and the depression/anxiety profile is less common."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.333,
+      "explanation": "Features intellectual disability, developmental regression, constipation, and feeding difficulties. Microcephaly is less common but possible. The psychiatric features fit."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, microcephaly, constipation, and developmental delay. Talipes can occur. However, developmental regression is not typical."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Features severe intellectual disability, microcephaly, and feeding difficulties. Developmental regression can occur. The talipes and constipation are supportive features."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.167,
+      "explanation": "Presents with developmental delay, intellectual disability, and potential regression. Feeding difficulties are common. Microcephaly is less typical but possible."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis Type 2",
+      "disease_id": "OMIM:204500",
+      "score": 0.143,
+      "explanation": "Progressive neurodegenerative disorder with developmental regression, intellectual disability, and feeding difficulties. The age of onset and progression could fit."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalopathy",
+      "disease_id": "OMIM:500001",
+      "score": 0.125,
+      "explanation": "Can present with developmental regression, intellectual disability, feeding difficulties, and constipation. The variable presentation could explain the phenotypic features."
+    }
+  ]
+}

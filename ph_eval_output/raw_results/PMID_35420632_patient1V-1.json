@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 1.0,
+      "explanation": "Classic telomeropathy presenting with short telomeres, pulmonary fibrosis (UIP pattern), hepatic complications including nodular regenerative hyperplasia, and portal hypertension. The combination of lung and liver involvement with short telomeres is pathognomonic."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 2",
+      "disease_id": "OMIM:613989",
+      "score": 0.5,
+      "explanation": "TERT mutation-related telomeropathy with similar presentation to DC1, including pulmonary fibrosis and hepatic disease. The age of onset (32 years) fits with adult-onset telomeropathy."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 3",
+      "disease_id": "OMIM:613990",
+      "score": 0.33,
+      "explanation": "TINF2 mutation-related telomeropathy, though typically presents earlier in life. Can cause severe pulmonary fibrosis and liver disease with short telomeres."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure, telomere-related, 1",
+      "disease_id": "OMIM:614742",
+      "score": 0.25,
+      "explanation": "TERT-related adult-onset telomeropathy with prominent pulmonary fibrosis. The thrombocytopenia suggests bone marrow involvement, though liver disease is less common."
+    },
+    {
+      "disease_name": "Pulmonary fibrosis and/or bone marrow failure, telomere-related, 2",
+      "disease_id": "OMIM:614743",
+      "score": 0.2,
+      "explanation": "RTEL1-related telomeropathy that can present with pulmonary fibrosis and cytopenias. Liver involvement is possible but less typical than in TERC/TERT mutations."
+    },
+    {
+      "disease_name": "Hepatopulmonary syndrome",
+      "disease_id": "OMIM:265380",
+      "score": 0.17,
+      "explanation": "Can present with liver disease, portal hypertension, and pulmonary complications, but doesn't explain the short telomeres or typical UIP pattern seen in this patient."
+    },
+    {
+      "disease_name": "Idiopathic pulmonary fibrosis, familial",
+      "disease_id": "OMIM:178500",
+      "score": 0.14,
+      "explanation": "Could explain the UIP pattern and decreased DLCO, but doesn't account for the short telomeres, liver disease, or portal hypertension seen in this patient."
+    }
+  ]
+}

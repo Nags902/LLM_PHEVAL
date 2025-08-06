@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Classic presentation with global developmental delay, severely delayed speech (often absent), delayed walking, and dental abnormalities (widely spaced teeth, prognathism) are characteristic features."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Features global developmental delay, speech delay, motor delays, and dental abnormalities (missing teeth, malocclusion) as common manifestations."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.333,
+      "explanation": "X-linked disorder affecting males with intellectual disability, delayed motor milestones, speech delay, and characteristic dental anomalies (hypodontia, wide-spaced teeth)."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Most common inherited cause of intellectual disability in males, presenting with global developmental delay, significant speech delay, motor delays, and dental crowding/malocclusion."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Characterized by developmental delays, delayed motor milestones, language delays (though relative strength later), and dental abnormalities including small teeth and malocclusion."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.167,
+      "explanation": "Features moderate intellectual disability, delayed motor development, speech delays, and dental anomalies including crowded teeth and high palate."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.143,
+      "explanation": "Presents with intellectual disability, speech and language delays, motor delays, and dental problems including premature tooth eruption and dental caries."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.125,
+      "explanation": "Characterized by intellectual disability, severe speech delays, motor delays, and dental abnormalities including delayed tooth eruption and widely spaced teeth."
+    }
+  ]
+}

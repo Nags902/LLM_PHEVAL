@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple System Atrophy",
+      "disease_id": "OMIM:146500",
+      "score": 1.0,
+      "explanation": "Early-onset parkinsonism with cerebellar atrophy, pyramidal signs (hyperreflexia, Babinski), and autonomic features. The combination of parkinsonian, cerebellar, and pyramidal signs is classic for MSA."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "Can present with parkinsonism, cerebellar atrophy, and pyramidal signs. The young age of onset and combination of features fits, though parkinsonism is less prominent than in MSA."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.33,
+      "explanation": "Can present with parkinsonism, pyramidal signs, and cerebellar involvement. The phenotypic variability includes parkinsonian presentations with pyramidal features."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 17",
+      "disease_id": "OMIM:607136",
+      "score": 0.25,
+      "explanation": "Known for parkinsonism, cerebellar signs, and pyramidal tract involvement. Can present in young adults with a combination of movement disorders."
+    },
+    {
+      "disease_name": "Wilson Disease",
+      "disease_id": "OMIM:277900",
+      "score": 0.2,
+      "explanation": "Can present with early-onset parkinsonism and neurological signs. While cerebellar atrophy is less typical, the young age and movement disorder warrant consideration."
+    },
+    {
+      "disease_name": "Neurodegeneration with Brain Iron Accumulation Type 1 (PANK2-associated)",
+      "disease_id": "OMIM:234200",
+      "score": 0.17,
+      "explanation": "Can present with parkinsonism, pyramidal signs, and dystonia in young adults. Cerebellar involvement is less common but possible."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.14,
+      "explanation": "Can present with cerebellar atrophy, pyramidal signs, and occasionally parkinsonism. The combination of features is possible though less typical."
+    },
+    {
+      "disease_name": "Dentatorubral-Pallidoluysian Atrophy",
+      "disease_id": "OMIM:125370",
+      "score": 0.125,
+      "explanation": "Can present with parkinsonism, cerebellar ataxia, and pyramidal signs. The age of onset and combination of features make it a consideration."
+    }
+  ]
+}

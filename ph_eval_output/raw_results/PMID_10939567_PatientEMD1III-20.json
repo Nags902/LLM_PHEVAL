@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Limb-girdle muscular dystrophy type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 1.0,
+      "explanation": "LGMD1B presents with proximal muscle weakness, contractures, spinal rigidity, cardiac arrhythmias, and elevated CK. The combination of scapuloperoneal distribution, cardiac involvement, and contractures strongly suggests this laminopathy."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2",
+      "disease_id": "OMIM:181350",
+      "score": 0.5,
+      "explanation": "EDMD2 (autosomal dominant) classically presents with the triad of contractures (elbow, Achilles, spine), muscle weakness in scapuloperoneal distribution, and cardiac conduction defects/arrhythmias. All features match this patient."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1",
+      "disease_id": "OMIM:310300",
+      "score": 0.33,
+      "explanation": "X-linked EDMD presents similarly to EDMD2 with contractures, scapuloperoneal weakness, and cardiac involvement. Less likely in a 61-year-old presenting patient, but possible with mild phenotype."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy type 2A",
+      "disease_id": "OMIM:253600",
+      "score": 0.25,
+      "explanation": "Calpainopathy can present with scapuloperoneal weakness, contractures, and elevated CK. However, cardiac involvement is less common and spinal rigidity is not typical, making it less likely."
+    },
+    {
+      "disease_name": "Myotonic dystrophy type 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.2,
+      "explanation": "DM1 can cause muscle weakness, cardiac arrhythmias, and stiffness. However, the pattern of weakness and contractures is less typical, and myotonia is not mentioned in the phenotype."
+    },
+    {
+      "disease_name": "Facioscapulohumeral muscular dystrophy 1",
+      "disease_id": "OMIM:158900",
+      "score": 0.17,
+      "explanation": "FSHD can present with scapular weakness and mild contractures. However, cardiac involvement is rare, spinal rigidity is atypical, and facial weakness is not mentioned, making it less likely."
+    }
+  ]
+}

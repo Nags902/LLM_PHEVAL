@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "Perfect match with all major features: pancytopenia, chromosomal breakage with crosslinking agents (diagnostic hallmark), radial ray defects (absent radius/thumb), short stature, and cafe-au-lait spots. FANCA is the most common complementation group."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group C",
+      "disease_id": "OMIM:227645",
+      "score": 0.5,
+      "explanation": "Matches all hematologic features and chromosomal instability, but FANCC typically has milder skeletal abnormalities. However, severe radial ray defects can occur in some cases."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group D2",
+      "disease_id": "OMIM:227646",
+      "score": 0.33,
+      "explanation": "Consistent with pancytopenia and chromosomal breakage, but FANCD2 patients often have less severe skeletal malformations. The bilateral radial ray defects make this less likely."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.25,
+      "explanation": "TAR syndrome features bilateral absent radii but characteristically preserves thumbs, opposite to this patient. Also lacks chromosomal instability and typically has isolated thrombocytopenia rather than pancytopenia."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.2,
+      "explanation": "Can present with anemia, short stature, and thumb abnormalities, but typically features pure red cell aplasia rather than pancytopenia. Lacks chromosomal instability and radius defects are uncommon."
+    },
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 0.17,
+      "explanation": "Features upper limb malformations including radial ray defects, but lacks hematologic abnormalities, chromosomal instability, and skin findings. Primarily a cardiac-limb syndrome."
+    }
+  ]
+}

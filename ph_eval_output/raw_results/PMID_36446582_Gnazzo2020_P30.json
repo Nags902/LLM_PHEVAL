@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, developmental delay, thick eyebrows, hypertelorism, short stature, and hand abnormalities. Macrodontia is less common but can occur."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Features intellectual disability, developmental delay, hypertelorism, and short stature. Thick eyebrows and dental anomalies including macrodontia have been reported."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, developmental delay, thick eyebrows, and hand abnormalities. Dental anomalies and short stature are common features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Characterized by intellectual disability, developmental delay, hypertelorism, and distinctive hand abnormalities. Dental anomalies and short stature are typical."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.2,
+      "explanation": "Features macrodontia as a cardinal sign, along with intellectual disability, developmental delay, short stature, and hypertelorism. Hand abnormalities less prominent."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.17,
+      "explanation": "Presents with intellectual disability, developmental delay, thick eyebrows, short stature, and hypertelorism. Hand abnormalities and dental issues can occur."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.14,
+      "explanation": "Characterized by short stature, intellectual disability, delayed speech, and distinctive facial features. Hand abnormalities and dental anomalies are less common."
+    }
+  ]
+}

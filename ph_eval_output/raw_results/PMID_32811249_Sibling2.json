@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Classic presentation with postaxial polydactyly, brachydactyly, retinal dystrophy (nyctalopia, reduced visual acuity), and mild intellectual disability. BBS1 is the most common form."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.5,
+      "explanation": "Another form of BBS with similar features including polydactyly, brachydactyly, retinal degeneration, and cognitive impairment. BBS2 mutations are the second most common."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.33,
+      "explanation": "Presents with postaxial polydactyly and can have overlap with BBS. However, retinal dystrophy and intellectual disability are less common, making it less likely."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.25,
+      "explanation": "Features retinal dystrophy with nyctalopia and reduced vision, but polydactyly is not typical. Brachydactyly can occur. Less likely due to absence of polydactyly as cardinal feature."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.2,
+      "explanation": "Can present with polydactyly and intellectual disability, but retinal dystrophy is less common. The combination of features is less typical than BBS."
+    },
+    {
+      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.17,
+      "explanation": "Features postaxial polydactyly and brachydactyly, but retinal dystrophy and intellectual disability are not typical features, making it less likely."
+    }
+  ]
+}

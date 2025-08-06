@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Strong match with multiple key features including intellectual disability, ADHD, global developmental delay, triangular face, thick eyebrows, long philtrum, short stature, IUGR, microcephaly, and feeding difficulties. This syndrome classically presents with distinctive facial features and growth/developmental issues."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "Good match with intellectual disability, ADHD, motor delay, short stature, microcephaly, and feeding difficulties. Thick eyebrows are also characteristic. However, macrodontia is less typical, and the facial shape description doesn't perfectly match."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.33,
+      "explanation": "Matches well with short stature, triangular face, intellectual disability, and delayed development. The long philtrum and IUGR are also consistent. However, thick eyebrows and macrodontia are less characteristic of this syndrome."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, short stature, feeding difficulties, and recurrent otitis media which are common in Kabuki syndrome. However, the facial features described (triangular face, long philtrum) differ from the typical Kabuki facies."
+    },
+    {
+      "disease_name": "3M Syndrome 1",
+      "disease_id": "OMIM:273750",
+      "score": 0.2,
+      "explanation": "Strong match for IUGR, short stature, and triangular face which are hallmark features. Also shows long philtrum. However, intellectual disability and ADHD are not typical features of 3M syndrome, making it less likely."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.17,
+      "explanation": "Presents with intellectual disability, microcephaly, IUGR, feeding difficulties, and developmental delays. However, the specific facial features and macrodontia are not typical, and there's no mention of other characteristic features like syndactyly."
+    }
+  ]
+}

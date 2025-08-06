@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Classic presentation with axillary and inguinal freckling (pathognomonic signs) plus cafe-au-lait spots. These features together are highly specific for NF1."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Presents with cafe-au-lait spots and freckling similar to NF1 but typically milder phenotype. Caused by SPRED1 mutations."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.333,
+      "explanation": "Less likely as cutaneous features are less prominent in NF2, which typically presents with schwannomas rather than freckling."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.25,
+      "explanation": "Can have cafe-au-lait spots but typically larger and irregular with jagged borders. Freckling is not a typical feature."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.2,
+      "explanation": "Previously called LEOPARD syndrome. Has multiple lentigines but these typically appear later and have different distribution than axillary/inguinal freckling."
+    },
+    {
+      "disease_name": "Constitutional mismatch repair deficiency syndrome",
+      "disease_id": "OMIM:276300",
+      "score": 0.167,
+      "explanation": "Can present with cafe-au-lait spots resembling NF1, but freckling is less common and other features like early-onset cancers would be expected."
+    }
+  ]
+}

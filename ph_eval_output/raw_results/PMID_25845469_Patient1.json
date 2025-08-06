@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 1.0,
+      "explanation": "Strong match with hypoplasia of the pons, profound intellectual disability, dystonia, spasticity, absent speech, and feeding difficulties. The nonprogressive encephalopathy and EEG abnormalities are also consistent."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2B",
+      "disease_id": "OMIM:612389",
+      "score": 0.5,
+      "explanation": "Similar to PCH2A with pontine hypoplasia, severe developmental delay, dystonia, and spasticity. The clinical presentation closely matches the patient's phenotype."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2D",
+      "disease_id": "OMIM:613811",
+      "score": 0.33,
+      "explanation": "Another PCH2 variant presenting with pontine hypoplasia, profound intellectual disability, dystonia, and feeding difficulties. The movement disorder features align well."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 10",
+      "disease_id": "OMIM:615803",
+      "score": 0.25,
+      "explanation": "Features pontine hypoplasia with severe developmental delay, spasticity, and feeding difficulties. The overall neurological picture fits the patient's presentation."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Characterized by profound intellectual disability, absent speech, dystonia, EEG abnormalities, and feeding difficulties. While pontine hypoplasia is less common, the overall phenotype shows significant overlap."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.17,
+      "explanation": "Features absent speech, profound intellectual disability, EEG abnormalities, feeding difficulties in infancy, and hypotonia. Dystonia can occur but pontine hypoplasia is not typical."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.14,
+      "explanation": "Presents with profound intellectual disability, dystonia, spasticity, feeding difficulties, and absent speech. However, typically affects females and pontine hypoplasia is not characteristic."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.125,
+      "explanation": "Shows profound intellectual disability, absent speech, dystonia, and EEG abnormalities. The movement disorder and developmental features align, though pontine hypoplasia is not typical."
+    }
+  ]
+}

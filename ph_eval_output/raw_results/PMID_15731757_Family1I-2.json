@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "Classic presentation with aortic root aneurysm as a cardinal feature, plus vascular abnormalities (PDA). Joint laxity/skeletal issues like genu valgum are common."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.5,
+      "explanation": "Similar presentation to LDS1 with aortic root aneurysm and skeletal abnormalities. PDA can occur in vascular connective tissue disorders."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.333,
+      "explanation": "Aortic root aneurysm is a major criterion. Skeletal features like genu valgum can occur. PDA is less common but possible."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.25,
+      "explanation": "Another LDS variant with similar vascular and skeletal manifestations including aortic aneurysm and joint abnormalities."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.2,
+      "explanation": "Vascular complications including aneurysms can occur. Joint hypermobility may manifest as genu valgum. PDA is less typical."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.167,
+      "explanation": "Additional LDS subtype with characteristic aortic aneurysm and skeletal features, though specific manifestations may vary."
+    },
+    {
+      "disease_name": "Arterial tortuosity syndrome",
+      "disease_id": "OMIM:208050",
+      "score": 0.143,
+      "explanation": "Connective tissue disorder with vascular abnormalities including aneurysms and PDA. Joint laxity can lead to skeletal deformities."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.125,
+      "explanation": "Another LDS variant that can present with aortic aneurysm and skeletal abnormalities, maintaining the syndrome's characteristic features."
+    }
+  ]
+}

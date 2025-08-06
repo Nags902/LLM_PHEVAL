@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff Skin Syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "The patient's stiff skin combined with multiple joint contractures (knee, elbow, camptodactyly) and limited shoulder flexion strongly suggests this rare connective tissue disorder characterized by rock-hard skin induration and progressive joint limitations."
+    },
+    {
+      "disease_name": "Beals Syndrome (Congenital Contractural Arachnodactyly)",
+      "disease_id": "OMIM:121050",
+      "score": 0.5,
+      "explanation": "The combination of multiple joint contractures (knee, elbow), camptodactyly, and myopia fits well with this FBN2-related disorder, though the stiff skin is less typical."
+    },
+    {
+      "disease_name": "Myhre Syndrome",
+      "disease_id": "OMIM:139210",
+      "score": 0.33,
+      "explanation": "Features thick, firm skin, joint stiffness, and contractures which align with the patient's presentation. The myopia is also consistent, though typically presents with additional facial dysmorphism."
+    },
+    {
+      "disease_name": "Winchester Syndrome",
+      "disease_id": "OMIM:277950",
+      "score": 0.25,
+      "explanation": "A rare disorder featuring thick, leathery skin and progressive joint contractures. The combination of skin and joint findings matches, though typically includes more severe skeletal abnormalities."
+    },
+    {
+      "disease_name": "Fibrodysplasia Ossificans Progressiva",
+      "disease_id": "OMIM:135100",
+      "score": 0.2,
+      "explanation": "Can present with progressive joint limitations and contractures, though the stiff skin is not typical. The pattern of contractures could represent early heterotopic ossification."
+    },
+    {
+      "disease_name": "Scleroderma, Familial Progressive",
+      "disease_id": "OMIM:181750",
+      "score": 0.17,
+      "explanation": "Features skin thickening and joint contractures, though typically involves more systemic features. The early age of onset and joint involvement pattern are consistent with juvenile forms."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "Classic presentation with macrocytic anemia, short stature, elevated red cell adenosine deaminase activity, and increased HbF. These are hallmark features of DBA."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Can present with macrocytic anemia, short stature, and elevated HbF, though elevated adenosine deaminase is less typical. Most common form of Fanconi anemia."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.333,
+      "explanation": "May present with macrocytic anemia and short stature, though the complete phenotypic picture is not entirely consistent. Elevated HbF can occur."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.25,
+      "explanation": "Features macrocytic anemia and short stature, though pancreatic insufficiency is typically present. Elevated adenosine deaminase is not characteristic."
+    },
+    {
+      "disease_name": "Congenital Dyserythropoietic Anemia, Type I",
+      "disease_id": "OMIM:224120",
+      "score": 0.2,
+      "explanation": "Can present with macrocytic anemia and elevated HbF, though short stature and elevated adenosine deaminase are less typical features."
+    },
+    {
+      "disease_name": "Hereditary Persistence of Fetal Hemoglobin",
+      "disease_id": "OMIM:141749",
+      "score": 0.167,
+      "explanation": "Explains the elevated HbF but doesn't account for the anemia, short stature, or elevated adenosine deaminase activity."
+    }
+  ]
+}

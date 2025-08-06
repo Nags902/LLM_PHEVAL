@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Classic presentation with microcephaly, intellectual disability, and severe speech/language delays. Motor development is also typically affected. Age and severity of symptoms align well."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Presents with severe intellectual disability, microcephaly, absent or minimal speech, and motor delays. All four phenotypic features match well with this syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Characterized by intellectual disability, microcephaly, and developmental delays including speech and motor milestones. NIPBL gene mutations cause the most common form."
+    },
+    {
+      "disease_name": "Autosomal Recessive Primary Microcephaly 1",
+      "disease_id": "OMIM:251200",
+      "score": 0.25,
+      "explanation": "Primary microcephaly with intellectual disability is the hallmark. Speech and motor delays are common secondary features. Caused by MCPH1 mutations."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Features microcephaly, intellectual disability, and global developmental delays. Cholesterol biosynthesis defect affecting multiple systems including brain development."
+    },
+    {
+      "disease_name": "Seckel Syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 0.167,
+      "explanation": "Severe microcephaly with intellectual disability and developmental delays. Also known as bird-headed dwarfism. ATR gene mutations cause this subtype."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.143,
+      "explanation": "Intellectual disability with speech delays and motor developmental delays are typical. Microcephaly occurs in about 35% of cases. CREBBP mutations."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.125,
+      "explanation": "Characterized by intellectual disability, speech delays, and motor delays. Microcephaly is present in some cases. ARID1B mutations are most common."
+    }
+  ]
+}

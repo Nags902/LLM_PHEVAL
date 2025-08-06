@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "COL4A1-related brain small-vessel disease",
+      "disease_id": "OMIM:175780",
+      "score": 1.0,
+      "explanation": "COL4A1 mutations cause small vessel disease with characteristic features including cerebral hemorrhage, hydrocephalus, dilated ventricles, and cerebral calcifications. The combination of hemorrhage and calcification is particularly suggestive of this diagnosis."
+    },
+    {
+      "disease_name": "COL4A2-related brain small-vessel disease",
+      "disease_id": "OMIM:614519",
+      "score": 0.5,
+      "explanation": "Similar to COL4A1, COL4A2 mutations cause small vessel disease with intracerebral hemorrhage, hydrocephalus, and ventricular dilatation. Calcifications can also occur, though less commonly than in COL4A1-related disease."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.33,
+      "explanation": "AGS1 can present with cerebral calcifications, ventriculomegaly, and sometimes hemorrhage. The intracranial calcifications are a hallmark feature, though hemorrhage is less common than in COL4A1/A2 disorders."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 2",
+      "disease_id": "OMIM:610181",
+      "score": 0.25,
+      "explanation": "AGS2 due to RNASEH2B mutations presents similarly to AGS1 with cerebral calcifications and ventriculomegaly. Hydrocephalus can occur, though hemorrhage is uncommon."
+    },
+    {
+      "disease_name": "Sturge-Weber syndrome",
+      "disease_id": "OMIM:185300",
+      "score": 0.2,
+      "explanation": "Can present with cerebral calcifications, ventricular enlargement, and occasionally intracerebral hemorrhage. The leptomeningeal angiomatosis can lead to these complications."
+    },
+    {
+      "disease_name": "Cerebral cavernous malformations 1",
+      "disease_id": "OMIM:116860",
+      "score": 0.17,
+      "explanation": "CCM1 can cause recurrent cerebral hemorrhages and may lead to hydrocephalus. Calcifications can occur in chronic lesions, though this is not a primary feature."
+    },
+    {
+      "disease_name": "Band-like calcification with simplified gyration and polymicrogyria",
+      "disease_id": "OMIM:251290",
+      "score": 0.14,
+      "explanation": "This rare disorder features prominent cerebral calcifications and can have associated hydrocephalus and ventricular dilatation. Hemorrhage is not typical but the calcification pattern is distinctive."
+    },
+    {
+      "disease_name": "Cockayne syndrome B",
+      "disease_id": "OMIM:133540",
+      "score": 0.125,
+      "explanation": "Can present with cerebral calcifications and ventricular dilatation. Hydrocephalus is less common, and hemorrhage is rare, but the calcifications are a consistent feature."
+    }
+  ]
+}

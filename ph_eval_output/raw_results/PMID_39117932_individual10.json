@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "Caused by SMARCB1 mutations, this syndrome is the most common genetic cause of atypical teratoid/rhabdoid tumors (AT/RT) in young children, with onset typically before age 3."
+    },
+    {
+      "disease_name": "Rhabdoid tumor predisposition syndrome 2",
+      "disease_id": "OMIM:613325",
+      "score": 0.5,
+      "explanation": "Caused by SMARCA4 mutations, this is a less common cause of AT/RT but still presents in early childhood with similar features to RTPS1."
+    },
+    {
+      "disease_name": "Li-Fraumeni syndrome",
+      "disease_id": "OMIM:151623",
+      "score": 0.33,
+      "explanation": "While primarily associated with other cancers, TP53 mutations can rarely cause AT/RT in young children as part of the broader cancer predisposition spectrum."
+    },
+    {
+      "disease_name": "Constitutional mismatch repair deficiency syndrome",
+      "disease_id": "OMIM:276300",
+      "score": 0.25,
+      "explanation": "CMMRD can present with various brain tumors in childhood including rare cases of AT/RT, though more commonly associated with gliomas."
+    },
+    {
+      "disease_name": "Gorlin syndrome",
+      "disease_id": "OMIM:109400",
+      "score": 0.2,
+      "explanation": "While primarily associated with medulloblastoma, PTCH1 mutations have been rarely reported in association with other CNS tumors including AT/RT."
+    }
+  ]
+}

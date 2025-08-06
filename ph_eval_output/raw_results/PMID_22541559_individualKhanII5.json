@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cerebral Palsy",
+      "disease_id": "OMIM:603513",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability and hypertonia. Cerebral palsy commonly presents with both cognitive impairment and increased muscle tone, particularly in pediatric patients."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Features severe intellectual disability and can present with hypertonia, though hypotonia is more common early in life. The combination of symptoms fits the clinical picture."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Progressive neurological disorder with intellectual disability and hypertonia developing after initial normal development. More common in females but can occur in males with severe presentation."
+    },
+    {
+      "disease_name": "Glutaric Aciduria Type 1",
+      "disease_id": "OMIM:231670",
+      "score": 0.25,
+      "explanation": "Metabolic disorder that can present with intellectual disability and dystonia/hypertonia, particularly after metabolic crises. Age of presentation is consistent."
+    },
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.2,
+      "explanation": "X-linked disorder presenting with intellectual disability and dystonia/hypertonia. More likely in males. Classic features include self-mutilation which is not mentioned."
+    },
+    {
+      "disease_name": "Arginase Deficiency",
+      "disease_id": "OMIM:207800",
+      "score": 0.167,
+      "explanation": "Rare urea cycle disorder presenting with progressive spastic diplegia, intellectual disability, and hypertonia. Typically manifests in early childhood."
+    },
+    {
+      "disease_name": "Allan-Herndon-Dudley Syndrome",
+      "disease_id": "OMIM:300523",
+      "score": 0.143,
+      "explanation": "X-linked disorder with intellectual disability and mixed hypo/hypertonia. Males are affected. The limited phenotypic data makes this a consideration."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.125,
+      "explanation": "Leukodystrophy presenting with intellectual disability and spasticity/hypertonia. X-linked, affecting primarily males. Usually has additional features like nystagmus."
+    }
+  ]
+}

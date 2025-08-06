@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Myasthenia Gravis, Juvenile",
+      "disease_id": "OMIM:254200",
+      "score": 1.0,
+      "explanation": "Perfect match for all symptoms: ptosis, ophthalmoplegia, dysphagia, respiratory insufficiency, and asthenia are classic features of myasthenia gravis. The juvenile form fits the patient's age (12 years)."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome 6",
+      "disease_id": "OMIM:254210",
+      "score": 0.5,
+      "explanation": "Presents with similar neuromuscular junction dysfunction causing ptosis, ophthalmoplegia, dysphagia, and respiratory weakness. Can present in childhood with progressive symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial Myopathy with Progressive External Ophthalmoplegia",
+      "disease_id": "OMIM:157640",
+      "score": 0.33,
+      "explanation": "Features ptosis and ophthalmoplegia as cardinal signs, along with dysphagia and muscle weakness. Respiratory involvement can occur in severe cases."
+    },
+    {
+      "disease_name": "Oculopharyngeal Muscular Dystrophy",
+      "disease_id": "OMIM:164300",
+      "score": 0.25,
+      "explanation": "Characterized by ptosis, ophthalmoplegia, and dysphagia. However, typically presents later in life (40s-50s), making it less likely for a 12-year-old patient."
+    },
+    {
+      "disease_name": "Kearns-Sayre Syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.2,
+      "explanation": "Mitochondrial disorder with progressive external ophthalmoplegia, ptosis, and can include dysphagia and muscle weakness. Onset before age 20 fits, but usually includes additional features not mentioned."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome 1A",
+      "disease_id": "OMIM:601462",
+      "score": 0.17,
+      "explanation": "Can present with ptosis, ophthalmoplegia, and generalized weakness including respiratory muscles. Dysphagia is possible but less common than in other forms."
+    },
+    {
+      "disease_name": "Myotonic Dystrophy Type 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.14,
+      "explanation": "Can present with ptosis, dysphagia, respiratory insufficiency, and weakness. However, myotonia is usually prominent and not mentioned in this case."
+    },
+    {
+      "disease_name": "Lambert-Eaton Myasthenic Syndrome",
+      "disease_id": "OMIM:254300",
+      "score": 0.125,
+      "explanation": "Causes muscle weakness and can affect respiratory muscles. However, ptosis and ophthalmoplegia are less common, and it typically affects older adults."
+    }
+  ]
+}

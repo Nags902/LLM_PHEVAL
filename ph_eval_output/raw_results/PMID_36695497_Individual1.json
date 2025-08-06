@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome classically presents with colobomas (iris, optic disc, and chorioretinal), which are major diagnostic criteria. Microphthalmia, strabismus, and nystagmus are also common ocular features. The constellation of multiple colobomas strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Microphthalmia, syndromic 3",
+      "disease_id": "OMIM:206900",
+      "score": 0.5,
+      "explanation": "This condition features microphthalmia as a primary feature along with various colobomas including iris and chorioretinal colobomas. The multiple ocular abnormalities match well with the patient's presentation."
+    },
+    {
+      "disease_name": "Coloboma, ocular, autosomal dominant",
+      "disease_id": "OMIM:120200",
+      "score": 0.33,
+      "explanation": "This condition presents with various types of ocular colobomas including iris, optic disc, and chorioretinal colobomas. Microphthalmia can be associated, and secondary strabismus and nystagmus may occur due to visual impairment."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated, with coloboma 1",
+      "disease_id": "OMIM:300345",
+      "score": 0.25,
+      "explanation": "Features microphthalmia with various colobomas as primary manifestations. The combination of microphthalmia and multiple colobomas fits the patient's phenotype, though this is an X-linked condition."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated, with coloboma 5",
+      "disease_id": "OMIM:611638",
+      "score": 0.2,
+      "explanation": "Another form of microphthalmia with coloboma that can present with iris coloboma, chorioretinal coloboma, and optic disc abnormalities. Nystagmus and strabismus can occur secondary to visual impairment."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated 2",
+      "disease_id": "OMIM:610093",
+      "score": 0.17,
+      "explanation": "While primarily featuring microphthalmia, this condition can have associated colobomas and other ocular abnormalities. The presence of multiple colobomas makes this less likely than syndromic forms."
+    },
+    {
+      "disease_name": "Cat eye syndrome",
+      "disease_id": "OMIM:115470",
+      "score": 0.14,
+      "explanation": "Characterized by iris coloboma (giving the 'cat eye' appearance) and can include other ocular abnormalities. However, the presence of multiple types of colobomas and microphthalmia is less typical."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 1 (EIEE1)",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "X-linked disorder caused by ARX mutations presenting with infantile spasms, hypsarrhythmia, burst suppression EEG, severe intellectual disability, and various seizure types including tonic and myoclonic seizures. The clinical presentation strongly matches all major features."
+    },
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 2 (EIEE2)",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "Caused by CDKL5 mutations, presents with early-onset epileptic encephalopathy, infantile spasms, hypsarrhythmia, severe intellectual disability, and multiple seizure types. X-linked disorder fitting the patient's gender."
+    },
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 4 (EIEE4)",
+      "disease_id": "OMIM:612164",
+      "score": 0.33,
+      "explanation": "Caused by STXBP1 mutations, characterized by early-onset epileptic encephalopathy with burst suppression, multiple seizure types including tonic and myoclonic, severe intellectual disability, though hypsarrhythmia is less common."
+    },
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 5 (EIEE5)",
+      "disease_id": "OMIM:613477",
+      "score": 0.25,
+      "explanation": "Caused by SPTAN1 mutations, presents with severe epileptic encephalopathy, hypsarrhythmia, infantile spasms, and severe developmental delay. Burst suppression pattern may be present in early stages."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.2,
+      "explanation": "Classic triad of infantile spasms, hypsarrhythmia, and developmental regression/delay. While it matches several features, the presence of burst suppression and multiple seizure types suggests a more severe early infantile epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 7 (EIEE7)",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "Caused by KCNQ2 mutations, presents with neonatal-onset seizures that can evolve to infantile spasms, burst suppression EEG, and severe intellectual disability. Multiple seizure types are common."
+    },
+    {
+      "disease_name": "Early Infantile Epileptic Encephalopathy 13 (EIEE13)",
+      "disease_id": "OMIM:614558",
+      "score": 0.14,
+      "explanation": "Caused by SCN8A mutations, characterized by early-onset epileptic encephalopathy with multiple seizure types, developmental delay, and intellectual disability. Hypsarrhythmia and burst suppression can occur."
+    }
+  ]
+}

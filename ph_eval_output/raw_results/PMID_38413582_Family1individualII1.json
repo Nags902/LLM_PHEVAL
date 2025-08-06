@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "Male patient with progressive proximal > distal weakness, Gowers sign, calf pseudohypertrophy, highly elevated CK, and typical age of onset. Classic presentation of DMD."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Milder allelic variant of dystrophinopathy. Similar features to DMD but typically later onset and slower progression. Age 9 with significant symptoms makes DMD more likely."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2C",
+      "disease_id": "OMIM:253700",
+      "score": 0.33,
+      "explanation": "Gamma-sarcoglycanopathy can present similarly to DMD with proximal weakness, high CK, and calf hypertrophy, but less common than dystrophinopathies."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2D",
+      "disease_id": "OMIM:608099",
+      "score": 0.25,
+      "explanation": "Alpha-sarcoglycanopathy with severe childhood onset can mimic DMD. High CK and proximal weakness pattern fit, but calf pseudohypertrophy less common."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2E",
+      "disease_id": "OMIM:604286",
+      "score": 0.2,
+      "explanation": "Beta-sarcoglycanopathy with DMD-like presentation. Compatible features but less likely given typical DMD phenotype in male patient."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2I",
+      "disease_id": "OMIM:607155",
+      "score": 0.17,
+      "explanation": "FKRP-related dystrophy can have childhood onset with high CK and proximal weakness, but calf hypertrophy and Gowers sign less typical."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy Type 1",
+      "disease_id": "OMIM:310300",
+      "score": 0.14,
+      "explanation": "X-linked form with contractures and weakness, but typically has early contractures, cardiac involvement, and lower CK elevation than observed."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2A",
+      "disease_id": "OMIM:253600",
+      "score": 0.125,
+      "explanation": "Calpainopathy can have childhood onset with high CK, but contractures typically occur later and calf hypertrophy is uncommon."
+    }
+  ]
+}

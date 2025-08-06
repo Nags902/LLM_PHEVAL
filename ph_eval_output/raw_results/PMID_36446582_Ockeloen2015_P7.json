@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG syndrome is characterized by macrodontia (particularly of upper central incisors), short stature, skeletal anomalies including delayed bone age, and hand abnormalities. This matches all four presented phenotypes."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.5,
+      "explanation": "Features short stature, delayed bone age, and skeletal abnormalities of hands. While macrodontia is not typical, dental anomalies can occur."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.333,
+      "explanation": "Presents with short stature, skeletal anomalies including hand abnormalities, and delayed bone maturation. Dental anomalies are common but macrodontia is less typical."
+    },
+    {
+      "disease_name": "Kabuki syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.25,
+      "explanation": "X-linked form of Kabuki syndrome with similar features to type 1, including short stature and skeletal anomalies, though macrodontia is not a primary feature."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Features short stature, characteristic hand abnormalities (broad thumbs), and delayed bone age. Dental anomalies occur but macrodontia is uncommon."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.167,
+      "explanation": "Presents with short stature, hand abnormalities (oligodactyly, syndactyly), and delayed bone maturation. Dental anomalies can occur but macrodontia is not typical."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.143,
+      "explanation": "Features short stature, hand abnormalities (hypoplastic fifth digits), and delayed bone age. Dental anomalies are possible but macrodontia is rare."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.125,
+      "explanation": "Can present with short stature, hand anomalies, and skeletal delays. Dental abnormalities occur but macrodontia is not a primary feature."
+    }
+  ]
+}

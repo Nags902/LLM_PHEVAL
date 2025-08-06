@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary Transthyretin Amyloidosis",
+      "disease_id": "OMIM:105210",
+      "score": 1.0,
+      "explanation": "Perfect match with peripheral nerve amyloidosis and gastrointestinal symptoms (alternating diarrhea/constipation). Age of presentation (62 years) fits late-onset variant. Most common form of hereditary systemic amyloidosis."
+    },
+    {
+      "disease_name": "Apolipoprotein A-I Amyloidosis",
+      "disease_id": "OMIM:105200",
+      "score": 0.5,
+      "explanation": "Can cause peripheral neuropathy and GI symptoms, though less commonly affects peripheral nerves compared to transthyretin amyloidosis. Typically presents in middle to late adulthood."
+    },
+    {
+      "disease_name": "Apolipoprotein A-II Amyloidosis",
+      "disease_id": "OMIM:105120",
+      "score": 0.33,
+      "explanation": "Systemic amyloidosis that can involve peripheral nerves and cause GI symptoms, but peripheral neuropathy is less prominent than in TTR amyloidosis. Age fits the typical presentation."
+    },
+    {
+      "disease_name": "Gelsolin Amyloidosis",
+      "disease_id": "OMIM:105120",
+      "score": 0.25,
+      "explanation": "Finnish type amyloidosis that can cause peripheral neuropathy, though GI symptoms are less common. Typically presents with corneal lattice dystrophy first, which is not mentioned here."
+    },
+    {
+      "disease_name": "Lysozyme Amyloidosis",
+      "disease_id": "OMIM:153450",
+      "score": 0.2,
+      "explanation": "Rare hereditary amyloidosis that can affect multiple organs including nerves and GI tract. Peripheral neuropathy is not the most prominent feature but can occur."
+    },
+    {
+      "disease_name": "AL Amyloidosis (Primary Systemic Amyloidosis)",
+      "disease_id": "OMIM:254500",
+      "score": 0.17,
+      "explanation": "Though not strictly hereditary, AL amyloidosis commonly presents in this age group with peripheral neuropathy and GI symptoms. Most common form of systemic amyloidosis overall."
+    }
+  ]
+}

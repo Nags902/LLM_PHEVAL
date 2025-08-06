@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, seizures, delayed speech, inability to walk, obesity, and characteristic facial features. The spastic diplegia and global developmental delay are highly consistent."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Presents with intellectual disability, seizures, inability to walk, and cerebral atrophy. However, typically affects females and has more specific hand stereotypies not mentioned here."
+    },
+    {
+      "disease_name": "Cerebral Palsy - Spastic Diplegic Type",
+      "disease_id": "OMIM:603513",
+      "score": 0.333,
+      "explanation": "Spastic diplegia with inability to walk is characteristic, along with developmental delays. However, doesn't fully explain the facial features, obesity, and thin corpus callosum."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Features obesity, intellectual disability, developmental delays, and characteristic facial features including prominent nasal bridge. The neurological findings are also consistent."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Presents with obesity, short stature, intellectual disability, and developmental delays. However, the spastic diplegia and seizures are less typical."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.167,
+      "explanation": "Features intellectual disability, seizures, spasticity, and delayed motor development. The cerebral atrophy and thin corpus callosum are consistent findings."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.143,
+      "explanation": "Includes intellectual disability, seizures, facial dysmorphisms, and corpus callosum abnormalities. The developmental delays and inability to walk are consistent."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.125,
+      "explanation": "Features severe intellectual disability, absent speech, seizures, and characteristic facial features. The motor delays and inability to walk are typical."
+    }
+  ]
+}

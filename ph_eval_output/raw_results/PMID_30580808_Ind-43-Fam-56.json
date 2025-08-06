@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 1.0,
+      "explanation": "Classic features include hypertelorism, orofacial clefts (particularly cleft lip/palate), and sleep disturbances are common due to seizures and developmental issues."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome, type I",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "X-linked disorder characterized by hypertelorism as a cardinal feature and midline defects including cleft lip/palate. Sleep issues can occur secondary to respiratory problems."
+    },
+    {
+      "disease_name": "Frontonasal dysplasia 1",
+      "disease_id": "OMIM:136760",
+      "score": 0.333,
+      "explanation": "Features prominent hypertelorism and midline facial clefts. Sleep abnormalities may be present due to airway obstruction from craniofacial anomalies."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.25,
+      "explanation": "Can present with hypertelorism, cleft palate (particularly submucous), and sleep disorders including sleep apnea and behavioral sleep problems."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Features can include mild hypertelorism, cleft palate in ~35% of cases, and sleep disturbances are reported in some patients with behavioral issues."
+    },
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.167,
+      "explanation": "X-linked disorder with hypertelorism as a key feature. Cleft lip/palate occurs in some cases, and sleep problems may occur with associated ADHD."
+    },
+    {
+      "disease_name": "Craniofrontonasal syndrome",
+      "disease_id": "OMIM:304110",
+      "score": 0.143,
+      "explanation": "X-linked disorder with severe hypertelorism and midline defects including clefting. Sleep issues possible due to craniofacial abnormalities affecting breathing."
+    }
+  ]
+}

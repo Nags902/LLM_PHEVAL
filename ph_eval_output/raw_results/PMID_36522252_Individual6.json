@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Strong match with profound intellectual disability, absent speech, seizures, hypotonia, motor delay, characteristic facial features (tented upper lip, high palate), and breathing abnormalities. The severe neurodevelopmental phenotype fits well."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Good match with intellectual disability, absent speech, seizures, hypotonia, facial dysmorphisms (high palate, tented lip), and Hirschsprung disease often requiring tube feeding. The facial features and severe developmental delay are consistent."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Matches with profound intellectual disability, absent speech, seizures, hypotonia, and motor delay. However, lacks typical happy demeanor description and the facial features are less specific for Angelman."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.25,
+      "explanation": "Consistent with severe intellectual disability, absent speech, hypotonia, seizures, and visual impairment. The early-onset severe neurodevelopmental phenotype with cerebral visual impairment is suggestive."
+    },
+    {
+      "disease_name": "MEF2C Haploinsufficiency Syndrome",
+      "disease_id": "OMIM:613443",
+      "score": 0.2,
+      "explanation": "Matches severe intellectual disability, absent speech, hypotonia, seizures, and motor delay. The constellation of severe neurodevelopmental features with epilepsy is consistent."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.17,
+      "explanation": "Fits with profound intellectual disability, epilepsy with multifocal discharges, hypotonia, and severe developmental delay. The early-onset epileptic encephalopathy phenotype is compatible."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.14,
+      "explanation": "Consistent with severe intellectual disability, early-onset seizures, hypotonia, and visual impairment. However, the patient appears to be male, making X-linked CDKL5 less likely but not impossible."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.125,
+      "explanation": "Some features match including profound intellectual disability, hypotonia, and seizures. However, male gender makes classic Rett syndrome unlikely, though severe neonatal encephalopathy variant is possible in males."
+    }
+  ]
+}

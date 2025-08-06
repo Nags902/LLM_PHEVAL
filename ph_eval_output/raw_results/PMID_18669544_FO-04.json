@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Classic presentation with obesity, intellectual disability, and retinal dystrophy causing myopia, reduced visual acuity, and nyctalopia. BBS1 is the most common form."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.5,
+      "explanation": "Presents with obesity, progressive vision loss, and nyctalopia due to cone-rod dystrophy. Intellectual disability is less common but can occur."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.33,
+      "explanation": "Features intellectual disability, obesity (typically truncal), myopia, and progressive retinal dystrophy with night blindness."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 2",
+      "disease_id": "OMIM:615981",
+      "score": 0.25,
+      "explanation": "Similar phenotype to BBS1 with obesity, intellectual disability, and retinal dystrophy. BBS2 mutations are less common."
+    },
+    {
+      "disease_name": "MORM Syndrome",
+      "disease_id": "OMIM:610156",
+      "score": 0.2,
+      "explanation": "Mental retardation, truncal obesity, retinal dystrophy, and micropenis syndrome. Fits most features but is extremely rare."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 10",
+      "disease_id": "OMIM:615987",
+      "score": 0.17,
+      "explanation": "Another BBS subtype with similar clinical features including obesity, intellectual disability, and retinal degeneration."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.14,
+      "explanation": "Features obesity and intellectual disability, but visual problems are not typical. Included due to partial phenotypic overlap."
+    }
+  ]
+}

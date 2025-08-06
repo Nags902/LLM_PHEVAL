@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Classic presentation with hypotonia, global developmental delay, short stature, and characteristic facial features including deep-set eyes. Brachycephaly is also commonly seen. Age and presentation highly consistent."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Presents with severe hypotonia and global developmental delay. Brachycephaly is common. Deep-set eyes can occur, though short stature is less typical. Similar genomic region to PWS."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.33,
+      "explanation": "Common cause of hypotonia and global developmental delay with brachycephaly. Short stature develops over time. Deep-set eyes less typical but can occur with facial variations."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Features short stature, developmental delays, and can have deep-set eyes. Hypotonia is common in infancy. Brachycephaly less typical but possible."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Presents with hypotonia, developmental delay, and short stature. Facial features can include deep-set appearance. Brachycephaly occasionally reported."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Features developmental delay, short stature, and characteristic facial features that can include deep-set eyes. Hypotonia common in infancy. Brachycephaly possible."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.14,
+      "explanation": "Presents with hypotonia, developmental delay, short stature, and brachycephaly. Deep-set eyes can be part of the characteristic facial features."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.125,
+      "explanation": "Features include developmental delay, short stature, and characteristic facial features. Hypotonia in infancy is common. Brachycephaly and deep-set eyes can occur."
+    }
+  ]
+}

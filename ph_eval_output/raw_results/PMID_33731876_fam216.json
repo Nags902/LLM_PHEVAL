@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 1.0,
+      "explanation": "AGS1 presents with progressive microcephaly, seizures, developmental delay, and white matter abnormalities. Edema can occur due to vasculopathy. The corpus callosum hypoplasia fits the neuroimaging profile."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 2",
+      "disease_id": "OMIM:610181",
+      "score": 0.5,
+      "explanation": "AGS2 shares similar features with AGS1 including progressive microcephaly, seizures, and developmental delay. Corpus callosum abnormalities are common in this interferonopathy."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome 3",
+      "disease_id": "OMIM:610329",
+      "score": 0.33,
+      "explanation": "AGS3 presents with the same core features as other AGS subtypes but may have variable severity. All key features match the patient's presentation."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "PCH2A features progressive microcephaly, seizures, and severe developmental delay. While corpus callosum hypoplasia is less typical, CNS malformations are common."
+    },
+    {
+      "disease_name": "Microcephaly with simplified gyration, epilepsy, and permanent neonatal diabetes syndrome",
+      "disease_id": "OMIM:616817",
+      "score": 0.2,
+      "explanation": "This syndrome includes progressive microcephaly, seizures, and developmental delay. Corpus callosum abnormalities can occur, though diabetes is a key feature not mentioned."
+    },
+    {
+      "disease_name": "Asparagine synthetase deficiency",
+      "disease_id": "OMIM:615574",
+      "score": 0.17,
+      "explanation": "Features progressive microcephaly, seizures, and severe developmental delay. Corpus callosum hypoplasia is reported. Edema may occur due to metabolic decompensation."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.14,
+      "explanation": "Presents with microcephaly (often postnatal), seizures, severe developmental delay, and corpus callosum hypoplasia. Edema is less typical but CNS abnormalities are prominent."
+    },
+    {
+      "disease_name": "Microcephaly-capillary malformation syndrome",
+      "disease_id": "OMIM:614261",
+      "score": 0.125,
+      "explanation": "Features progressive microcephaly, seizures, and developmental delay. Edema can occur due to vascular malformations. Corpus callosum abnormalities are possible."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-Rod Dystrophy 3",
+      "disease_id": "OMIM:604116",
+      "score": 1.0,
+      "explanation": "Classic presentation with bull's eye maculopathy, reduced visual acuity, peripheral retinal atrophy, and nystagmus. This autosomal recessive form strongly matches all phenotypic features."
+    },
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "Bull's eye maculopathy is a characteristic finding, along with reduced visual acuity. Peripheral retinal atrophy can occur in advanced cases. Nystagmus is less common but possible."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 2",
+      "disease_id": "OMIM:120970",
+      "score": 0.333,
+      "explanation": "Autosomal dominant form presenting with bull's eye maculopathy and progressive visual loss. Peripheral involvement and nystagmus can occur but are less typical than in CRD3."
+    },
+    {
+      "disease_name": "Chloroquine Retinopathy",
+      "disease_id": "OMIM:None",
+      "score": 0.25,
+      "explanation": "Classic bull's eye maculopathy is pathognomonic for chloroquine/hydroxychloroquine toxicity. Peripheral retinal changes and reduced vision are common. Nystagmus is atypical but could be secondary."
+    },
+    {
+      "disease_name": "Cone Dystrophy 3",
+      "disease_id": "OMIM:602093",
+      "score": 0.2,
+      "explanation": "Bull's eye maculopathy and reduced visual acuity are core features. Peripheral retinal involvement is less common in pure cone dystrophies. Nystagmus can occur with severe photophobia."
+    },
+    {
+      "disease_name": "Benign Concentric Annular Macular Dystrophy",
+      "disease_id": "OMIM:153870",
+      "score": 0.167,
+      "explanation": "Presents with bull's eye-like macular changes and mild visual reduction. Peripheral retinal atrophy and nystagmus are not typical features, making this less likely."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.143,
+      "explanation": "Severe early-onset retinal dystrophy with nystagmus and poor vision. Bull's eye maculopathy is not typical, but various macular changes can occur. Peripheral atrophy is common."
+    }
+  ]
+}

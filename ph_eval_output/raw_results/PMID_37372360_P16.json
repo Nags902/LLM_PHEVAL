@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Classic presentation with macrocephaly, tall stature, high forehead, and obesity. All four features are cardinal manifestations of Sotos syndrome."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Shares macrocephaly, tall stature, and distinctive facial features with high forehead. Obesity is less common but can occur."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.33,
+      "explanation": "Features macrocephaly, tall stature, and obesity. However, more common in males and usually has additional features not mentioned."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.25,
+      "explanation": "Can present with macrocephaly and tall stature, though obesity is less typical. High forehead is not a cardinal feature."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.2,
+      "explanation": "Macrocephaly is a major feature, and obesity can occur. Tall stature is less common, and high forehead is not typical."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.17,
+      "explanation": "Can present with macrocephaly and high forehead. Tall stature and obesity are possible but not characteristic features."
+    },
+    {
+      "disease_name": "Malan syndrome",
+      "disease_id": "OMIM:614753",
+      "score": 0.14,
+      "explanation": "Features macrocephaly, tall stature, and high/prominent forehead. Obesity is not a typical feature but could co-occur."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Classic presentation with truncal ataxia, developmental delay, delayed speech (often severe/absent), strabismus, and characteristic EEG abnormalities including occipital slowing. Hypotonia is common in early childhood."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Features global developmental delay, hypotonia, and speech delays. EEG abnormalities are common. However, typically affects females and has distinctive hand stereotypies not mentioned here."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.33,
+      "explanation": "Presents with developmental delay, ataxia, and EEG abnormalities. Hypotonia and strabismus can occur. However, typically includes severe epilepsy which is not mentioned."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Characterized by severe developmental delay, absent speech, hypotonia, and ataxia. Strabismus is common. EEG abnormalities occur but occipital slowing is less specific."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Features severe developmental delay, absent/minimal speech, hypotonia, and strabismus. EEG abnormalities are common. Movement disorders including ataxia can occur."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.17,
+      "explanation": "Presents with developmental delay, speech delays (often severe), hypotonia, and ataxia. Strabismus can occur. EEG abnormalities are less characteristic but possible."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.14,
+      "explanation": "Features global developmental delay, severe speech impairment, hypotonia, and ataxia. EEG abnormalities can occur. More common in males, which doesn't match the patient gender."
+    },
+    {
+      "disease_name": "Christianson syndrome",
+      "disease_id": "OMIM:300243",
+      "score": 0.125,
+      "explanation": "Characterized by developmental delay, absent speech, truncal ataxia, and hypotonia. EEG abnormalities with epilepsy are common. However, it's X-linked affecting males."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome 1",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Classic triad includes occipital encephalocele (related to Chiari II malformation), postaxial polydactyly, and cystic kidney disease. The presence of neural tube defect (meningocele), polydactyly, and CNS malformation strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Hydrolethalus Syndrome 1",
+      "disease_id": "OMIM:236680",
+      "score": 0.5,
+      "explanation": "Features CNS malformations, postaxial polydactyly, and club feet. The combination of neural tube defects and limb abnormalities fits well, though typically more severe."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.33,
+      "explanation": "Can present with polydactyly and CNS malformations, though typically features the molar tooth sign rather than Chiari II malformation. Some cases have associated neural tube defects."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Features microcephaly, postaxial polydactyly, and club feet. While neural tube defects are less common, they can occur. The constellation of features is partially consistent."
+    },
+    {
+      "disease_name": "Trisomy 13 (Patau Syndrome)",
+      "disease_id": "OMIM:264480",
+      "score": 0.2,
+      "explanation": "Commonly presents with microcephaly, postaxial polydactyly, and neural tube defects. Club feet can also occur. Chromosomal analysis would be diagnostic."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.17,
+      "explanation": "Features postaxial polydactyly as a cardinal sign. While CNS malformations are less typical, the syndrome has variable expressivity and could potentially include these features."
+    }
+  ]
+}

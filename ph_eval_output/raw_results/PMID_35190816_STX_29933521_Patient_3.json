@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West syndrome is characterized by the triad of epileptic spasms (infantile spasms), developmental regression, and hypsarrhythmia on EEG. Epileptic spasms are the hallmark feature."
+    },
+    {
+      "disease_name": "Ohtahara syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Early infantile epileptic encephalopathy that can present with epileptic spasms, though tonic seizures are more characteristic. Often evolves to West syndrome."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.33,
+      "explanation": "TSC1 commonly presents with epileptic spasms in infancy. A significant cause of symptomatic West syndrome, though other features like skin lesions typically present."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.25,
+      "explanation": "TSC2 mutations cause more severe phenotype than TSC1 and frequently present with infantile spasms. Additional features usually develop over time."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.2,
+      "explanation": "X-linked disorder that can present with early-onset epileptic spasms, particularly in females. Associated with severe developmental impairment."
+    },
+    {
+      "disease_name": "ARX-related disorders",
+      "disease_id": "OMIM:308350",
+      "score": 0.17,
+      "explanation": "ARX mutations can cause X-linked West syndrome with epileptic spasms. More common in males but can affect females through X-inactivation patterns."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.14,
+      "explanation": "While primarily associated with febrile seizures and generalized tonic-clonic seizures, some patients can develop epileptic spasms during their disease course."
+    },
+    {
+      "disease_name": "Pyridoxine-dependent epilepsy",
+      "disease_id": "OMIM:266100",
+      "score": 0.13,
+      "explanation": "Can present with various seizure types including epileptic spasms. Important to consider as it's treatable with pyridoxine supplementation."
+    }
+  ]
+}

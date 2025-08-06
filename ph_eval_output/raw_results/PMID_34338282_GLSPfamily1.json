@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Classic triad includes aniridia, cerebellar ataxia, and intellectual disability. The presence of both aniridia and ataxia makes this the most likely diagnosis."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "Features aniridia as a cardinal sign, though ataxia is not typical. WAGR includes Wilms tumor, Aniridia, Genitourinary anomalies, and intellectual disability (Retardation)."
+    },
+    {
+      "disease_name": "Aniridia-cerebellar ataxia-intellectual disability syndrome",
+      "disease_id": "OMIM:612290",
+      "score": 0.33,
+      "explanation": "Rare syndrome specifically combining aniridia with cerebellar ataxia, similar to Gillespie syndrome but with distinct genetic etiology."
+    },
+    {
+      "disease_name": "Isolated aniridia",
+      "disease_id": "OMIM:106210",
+      "score": 0.25,
+      "explanation": "PAX6-related aniridia can occasionally present with neurological features, though ataxia is not typical. Would need to consider if ataxia is coincidental."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.2,
+      "explanation": "Can present with both ataxia and ocular abnormalities including macular degeneration, though aniridia specifically is not typical."
+    }
+  ]
+}

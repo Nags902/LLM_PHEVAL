@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, autistic behavior, motor stereotypy, hyperactivity, sleep disturbances, feeding difficulties, distinctive facial features (hypertelorism, depressed nasal bridge), and hypotonia. The combination of moderate ID with breathing abnormalities and characteristic facial features is highly suggestive."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Good match with intellectual disability, distinctive facial features (hypertelorism, depressed nasal bridge, prominent ears), hypoplasia of corpus callosum, short stature, and feeding difficulties. The corpus callosum abnormality is particularly characteristic of this syndrome."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Matches with severe developmental delay, absent speech, hyperactivity, sleep disturbances, feeding difficulties in infancy, and characteristic behaviors including motor stereotypy. However, the moderate ID rather than severe and presence of corpus callosum hypoplasia are less typical."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Consistent with intellectual disability, hypoplasia of corpus callosum, feeding difficulties, short stature, and distinctive facial features. The fine hair could represent the sparse scalp hair seen in this condition."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Matches with intellectual disability, sleep disturbances, hyperactivity, self-injurious behaviors (motor stereotypy), short stature, and some facial features. The sleep-wake cycle disturbance is particularly characteristic of SMS."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.17,
+      "explanation": "Consistent with intellectual disability, autistic behavior, hypotonia, and distinctive facial features including hypertelorism. The corpus callosum abnormality and behavioral phenotype support this diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.14,
+      "explanation": "Matches with growth retardation, intellectual disability, distinctive facial features, feeding difficulties, and autistic behaviors. However, the absence of limb abnormalities makes this less likely."
+    }
+  ]
+}

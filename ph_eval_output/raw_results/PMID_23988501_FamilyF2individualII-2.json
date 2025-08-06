@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease",
+      "disease_id": "OMIM:173900",
+      "score": 1.0,
+      "explanation": "Most common genetic cause of CKD in adults, typically manifests in 4th-5th decade. Progressive cyst formation leads to ESRD by age 50-60 in many patients."
+    },
+    {
+      "disease_name": "Autosomal Recessive Polycystic Kidney Disease",
+      "disease_id": "OMIM:263200",
+      "score": 0.5,
+      "explanation": "Less likely given typical childhood onset, but late presentations have been reported. Can progress to ESRD in adulthood in milder cases."
+    },
+    {
+      "disease_name": "Alport Syndrome, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.33,
+      "explanation": "Progressive hereditary nephritis that can lead to ESRD by middle age, particularly in males. Would typically have other features like hearing loss."
+    },
+    {
+      "disease_name": "Nephronophthisis 1",
+      "disease_id": "OMIM:256100",
+      "score": 0.25,
+      "explanation": "Adult form can present with ESRD in 4th-5th decade. Characterized by tubular basement membrane disruption and tubulointerstitial fibrosis."
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis 1",
+      "disease_id": "OMIM:603278",
+      "score": 0.2,
+      "explanation": "Genetic form of FSGS can progress to ESRD in adulthood. Age of presentation varies widely depending on genetic variant."
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "disease_id": "OMIM:161950",
+      "score": 0.17,
+      "explanation": "Most common primary glomerulonephritis worldwide. Can progress to ESRD over 20-30 years from onset, fitting with patient's age."
+    },
+    {
+      "disease_name": "Medullary Cystic Kidney Disease Type 1",
+      "disease_id": "OMIM:174000",
+      "score": 0.14,
+      "explanation": "Autosomal dominant tubulointerstitial kidney disease that typically leads to ESRD between ages 40-60."
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.125,
+      "explanation": "X-linked lysosomal storage disorder. Males can develop progressive kidney disease leading to ESRD by 4th-5th decade."
+    }
+  ]
+}

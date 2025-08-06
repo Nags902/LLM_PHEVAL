@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "Classic presentation with all four key features: hyperhomocystinemia (pathognomonic), intellectual disability, disproportionate tall stature, and arachnodactyly. This is the most common form of homocystinuria."
+    },
+    {
+      "disease_name": "Homocystinuria due to defect in methylation (cbl C)",
+      "disease_id": "OMIM:277400",
+      "score": 0.5,
+      "explanation": "Presents with hyperhomocystinemia and intellectual disability, but tall stature and arachnodactyly are less common. Methylcobalamin deficiency type cbl C is a possibility but less likely given the complete phenotype."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.33,
+      "explanation": "Explains arachnodactyly and tall stature well, but intellectual disability and hyperhomocystinemia are not typical features. Would need to consider concurrent conditions."
+    },
+    {
+      "disease_name": "Homocystinuria due to defect in methylation (cbl G)",
+      "disease_id": "OMIM:250940",
+      "score": 0.25,
+      "explanation": "Another methylation defect causing homocystinuria with potential intellectual disability, but skeletal features are less prominent than in CBS deficiency."
+    },
+    {
+      "disease_name": "Homocystinuria-megaloblastic anemia, cbl E type",
+      "disease_id": "OMIM:236270",
+      "score": 0.2,
+      "explanation": "Can cause hyperhomocystinemia and intellectual disability, but marfanoid features are uncommon. Would typically present with megaloblastic anemia."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type IIb",
+      "disease_id": "OMIM:606056",
+      "score": 0.17,
+      "explanation": "Can present with intellectual disability and marfanoid habitus, but hyperhomocystinemia would be atypical. Less likely given the biochemical finding."
+    }
+  ]
+}

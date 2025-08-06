@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "Classic triad of thymic aplasia/hypoplasia, hypoparathyroidism, and T-cell immunodeficiency due to 22q11.2 deletion. All three major features are present."
+    },
+    {
+      "disease_name": "Chromosome 10p13-p14 Deletion Syndrome",
+      "disease_id": "OMIM:601362",
+      "score": 0.5,
+      "explanation": "Can present with DiGeorge-like features including hypoparathyroidism and T-cell deficiency, though less common than 22q11.2 deletion."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.33,
+      "explanation": "Can include thymic hypoplasia and immune deficiency, though hypoparathyroidism is less typical. CHD7 mutations cause this syndrome."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.25,
+      "explanation": "Peroxisomal disorder that can rarely present with thymic hypoplasia and endocrine abnormalities, though the full triad is uncommon."
+    },
+    {
+      "disease_name": "Kennerknecht Syndrome",
+      "disease_id": "OMIM:182250",
+      "score": 0.2,
+      "explanation": "Rare syndrome with hypoparathyroidism and immune deficiency, though specific thymic involvement is less well characterized."
+    },
+    {
+      "disease_name": "Barakat Syndrome",
+      "disease_id": "OMIM:146255",
+      "score": 0.17,
+      "explanation": "HDR syndrome (Hypoparathyroidism, Deafness, Renal disease) can have immune abnormalities, though thymic aplasia is not typical."
+    }
+  ]
+}

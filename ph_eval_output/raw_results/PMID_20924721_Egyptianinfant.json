@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Freeman-Sheldon Syndrome",
+      "disease_id": "OMIM:193700",
+      "score": 1.0,
+      "explanation": "Classic features include camptodactyly, talipes equinovarus, and distinctive facial features including deep-set eyes, long philtrum, and small nose. The combination of limb contractures and facial dysmorphism strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Escobar Syndrome",
+      "disease_id": "OMIM:265000",
+      "score": 0.5,
+      "explanation": "Multiple pterygium syndrome presenting with short neck, camptodactyly, talipes equinovarus, and facial dysmorphism. The short neck is particularly characteristic, though not all features match perfectly."
+    },
+    {
+      "disease_name": "Pena-Shokeir Syndrome Type I",
+      "disease_id": "OMIM:208150",
+      "score": 0.333,
+      "explanation": "Fetal akinesia sequence with multiple contractures including camptodactyly and talipes equinovarus, facial anomalies. However, this is often lethal in infancy, making it less likely given the patient's age."
+    },
+    {
+      "disease_name": "Schwartz-Jampel Syndrome Type 1",
+      "disease_id": "OMIM:255800",
+      "score": 0.25,
+      "explanation": "Features muscle stiffness with contractures, distinctive facial features including narrow palpebral fissures (could present as deep-set eyes), and skeletal abnormalities. The facial features partially match."
+    },
+    {
+      "disease_name": "Distal Arthrogryposis Type 2A",
+      "disease_id": "OMIM:193700",
+      "score": 0.2,
+      "explanation": "Also known as Freeman-Sheldon syndrome variant, presents with distal contractures, camptodactyly, and talipes equinovarus, but facial features are less consistent with this subtype."
+    },
+    {
+      "disease_name": "Marden-Walker Syndrome",
+      "disease_id": "OMIM:248700",
+      "score": 0.167,
+      "explanation": "Features include joint contractures, camptodactyly, facial dysmorphism with depressed nasal bridge and deep-set eyes. However, typically includes more severe developmental delay."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.143,
+      "explanation": "Can present with short neck, depressed nasal bridge, and deep-set eyes, but the limb contractures (camptodactyly, talipes) are not typical features, making this less likely."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.125,
+      "explanation": "Can have facial dysmorphism including depressed nasal bridge and cleft ala nasi, but lacks the characteristic coloboma, choanal atresia, and other major features. Limb contractures are also atypical."
+    }
+  ]
+}

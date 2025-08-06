@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "Classic presentation with epileptic spasms, developmental delay, and EEG abnormalities (hypsarrhythmia) in an infant. The age (15 months) and constellation of symptoms strongly suggest this epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Features thin/absent corpus callosum, epileptic spasms, and developmental delay. However, typically affects females and has additional features like chorioretinal lacunae not mentioned here."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy with epilepsy",
+      "disease_id": "OMIM:612164",
+      "score": 0.333,
+      "explanation": "Early-onset epileptic encephalopathy with developmental delay and movement disorders (hypokinesia). Can present with various seizure types including spasms."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "Early-onset seizures including spasms, severe developmental delay, and movement disorders. More common in females but can affect males."
+    },
+    {
+      "disease_name": "ARX-related disorders",
+      "disease_id": "OMIM:308350",
+      "score": 0.2,
+      "explanation": "Can cause X-linked West syndrome with thin corpus callosum, epileptic spasms, and developmental delay. Particularly relevant in male patients."
+    },
+    {
+      "disease_name": "SCN2A-related disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.167,
+      "explanation": "Early-onset epileptic encephalopathy with developmental delay and various seizure types. Can present with movement disorders and brain atrophy."
+    },
+    {
+      "disease_name": "Ohtahara syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.143,
+      "explanation": "Early infantile epileptic encephalopathy that can evolve to West syndrome. Features severe seizures, developmental delay, and characteristic EEG pattern."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.125,
+      "explanation": "Can cause corpus callosum abnormalities, cerebral atrophy, developmental delay, and seizures. Movement disorders like hypokinesia can occur."
+    }
+  ]
+}

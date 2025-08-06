@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Classic presentation with radial hypoplasia, carpal abnormalities, atrial septal defect, and cardiac conduction defects. This is the most specific match for the combination of upper limb and cardiac features."
+    },
+    {
+      "disease_name": "TAR syndrome (Thrombocytopenia-absent radius syndrome)",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "Features radial hypoplasia, but typically presents with bilateral radial aplasia rather than hypoplasia, and cardiac defects are less common. Would need platelet count to confirm/exclude."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.33,
+      "explanation": "Can present with radial ray defects and cardiac anomalies, but usually has additional features like growth retardation, skin pigmentation changes, and bone marrow failure."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.25,
+      "explanation": "Features radial defects and cardiac anomalies, but typically presents with additional vertebral, anal, tracheoesophageal, and renal anomalies not mentioned in this case."
+    },
+    {
+      "disease_name": "Nager syndrome",
+      "disease_id": "OMIM:154400",
+      "score": 0.2,
+      "explanation": "Can have radial hypoplasia and cardiac defects, but typically presents with distinctive craniofacial features including micrognathia and malar hypoplasia not described here."
+    },
+    {
+      "disease_name": "Okihiro syndrome (Duane-radial ray syndrome)",
+      "disease_id": "OMIM:607323",
+      "score": 0.17,
+      "explanation": "Features radial ray defects and can have cardiac anomalies, but typically includes Duane anomaly (eye movement disorder) which is not mentioned in this case."
+    }
+  ]
+}

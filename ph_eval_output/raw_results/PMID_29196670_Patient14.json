@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 1.0,
+      "explanation": "The triad of cortical tubers, angiofibromas, and renal angiomyolipomas is pathognomonic for TSC. TSC1 is caused by mutations in the TSC1 gene."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "TSC2 presents with identical clinical features to TSC1 including cortical tubers, angiofibromas, and renal angiomyolipomas. TSC2 is caused by mutations in the TSC2 gene."
+    },
+    {
+      "disease_name": "Birt-Hogg-Dub\u00e9 Syndrome",
+      "disease_id": "OMIM:135150",
+      "score": 0.33,
+      "explanation": "Can present with facial papules (fibrofolliculomas) that may be confused with angiofibromas and renal tumors, but typically lacks cortical tubers which are specific to TSC."
+    },
+    {
+      "disease_name": "Multiple Endocrine Neoplasia Type 1",
+      "disease_id": "OMIM:131100",
+      "score": 0.25,
+      "explanation": "Can present with facial angiofibromas and various tumors, but does not typically cause cortical tubers or renal angiomyolipomas, making it less likely."
+    },
+    {
+      "disease_name": "Cowden Syndrome 1",
+      "disease_id": "OMIM:158350",
+      "score": 0.2,
+      "explanation": "Can present with facial papules and hamartomas in multiple organs, but the specific combination of cortical tubers and renal angiomyolipomas is not typical."
+    }
+  ]
+}

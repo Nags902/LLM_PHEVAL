@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 1.0,
+      "explanation": "Classic presentation with status epilepticus, myoclonus, global developmental delay, and hypotonia. Onset typically in infancy with normal early development followed by regression."
+    },
+    {
+      "disease_name": "Myoclonic-atonic epilepsy (Doose syndrome)",
+      "disease_id": "OMIM:616421",
+      "score": 0.5,
+      "explanation": "Features myoclonus, status epilepticus, and developmental delays. The combination of myoclonic seizures with hypotonia is characteristic."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.33,
+      "explanation": "Early-onset epileptic encephalopathy with status epilepticus, severe developmental delays, and hypotonia. Nystagmus can be present."
+    },
+    {
+      "disease_name": "SCN1A-related epileptic encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "Beyond Dravet syndrome, SCN1A mutations can cause various epileptic encephalopathies with myoclonus, status epilepticus, and developmental delays."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.2,
+      "explanation": "Features multiple seizure types including myoclonic, status epilepticus, intellectual disability, and hypotonia. Age of onset fits."
+    },
+    {
+      "disease_name": "Progressive myoclonus epilepsy type 1 (Unverricht-Lundborg disease)",
+      "disease_id": "OMIM:254800",
+      "score": 0.17,
+      "explanation": "Prominent myoclonus with epilepsy and progressive neurological decline. However, typically later onset than this patient."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.14,
+      "explanation": "Early-onset epileptic encephalopathy with profound developmental delays, hypotonia, and various seizure types including myoclonus."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.125,
+      "explanation": "Early-onset seizures, severe developmental delays, hypotonia, and motor impairments. Can include myoclonus and nystagmus."
+    }
+  ]
+}

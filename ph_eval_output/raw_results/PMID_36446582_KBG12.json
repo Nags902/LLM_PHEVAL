@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Classic presentation with intellectual disability, ADHD, growth retardation, thick eyebrows, synophrys, low anterior hairline, and limb abnormalities. The facial features are particularly characteristic."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "X-linked form of CdLS with similar features but typically milder presentation. The combination of facial dysmorphisms and developmental delays fits well."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.33,
+      "explanation": "Another variant of CdLS with overlapping features including intellectual disability, growth retardation, and characteristic facial features."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Features intellectual disability, short stature, and distinctive facial features. Macrodontia can occur, though the eyebrow pattern differs from typical Kabuki appearance."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, growth retardation, thick eyebrows, and hand abnormalities. The hypertrichosis and developmental delays are consistent."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.17,
+      "explanation": "Features intellectual disability, growth retardation, and hand abnormalities. Thick eyebrows can be present, though broad thumbs would be more specific."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.14,
+      "explanation": "Characterized by intellectual disability, ADHD, sleep disturbances, and short stature. The behavioral and sleep abnormalities are particularly relevant."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.125,
+      "explanation": "Features intellectual disability, growth retardation, thick eyebrows, and hypertrichosis. The developmental delays and facial features show some overlap."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with full cheeks, developmental delays (speech/motor), feeding difficulties, synophrys, and characteristic facial features including depressed nasal bridge and anteverted nares."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Fits well with synophrys, developmental delays, feeding difficulties, and facial dysmorphisms. Strabismus and anxiety are also common features."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.33,
+      "explanation": "Consistent with severe speech delay, motor delay, drooling, feeding difficulties, strabismus, and anxiety. Full cheeks and happy demeanor are typical."
+    },
+    {
+      "disease_name": "Smith-Magenis syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.25,
+      "explanation": "Matches with square face, full cheeks, developmental delays, and behavioral issues (anxiety). Deep-set eyes and depressed nasal bridge are supportive features."
+    },
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, speech delay, and characteristic facial features including synophrys and anteverted nares. Behavioral issues are common."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.17,
+      "explanation": "Could explain multiple features including feeding difficulties, developmental delays, and ocular abnormalities (strabismus, hypermetropia), though missing key diagnostic criteria."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.14,
+      "explanation": "Characterized by speech delay, characteristic facial features, and developmental delays. The deeply set eyes and feeding difficulties in infancy are supportive."
+    }
+  ]
+}

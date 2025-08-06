@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Classic presentation with microcephaly, global developmental delay, and compulsive/repetitive behaviors. Although more common in females, can occur in males with severe presentations."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Features microcephaly, global developmental delay, and anxiety-like behaviors. The compulsive behaviors could represent stereotypic movements common in this syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Presents with short stature, microcephaly, and global developmental delay. Behavioral issues including anxiety and compulsive behaviors are common."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Features microcephaly, short stature, global developmental delay, and behavioral abnormalities including anxiety and compulsive behaviors."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Characterized by short stature, microcephaly, global developmental delay, and behavioral problems including anxiety and repetitive behaviors."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.167,
+      "explanation": "Can present with short stature, developmental delay, anxiety, and compulsive behaviors. Microcephaly is less common but can occur."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.143,
+      "explanation": "Features short stature, developmental delay, and compulsive behaviors (particularly around food). Anxiety is common. Microcephaly is less typical."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.125,
+      "explanation": "Presents with short stature, developmental delay, and behavioral issues. Microcephaly can occur but is not a cardinal feature."
+    }
+  ]
+}

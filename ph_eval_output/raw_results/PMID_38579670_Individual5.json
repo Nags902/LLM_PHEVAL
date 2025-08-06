@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 1.0,
+      "explanation": "Classic X-linked disorder with CNS hypomyelination, profound developmental delay, hypotonia, and seizures. The combination of hypomyelination with severe neurological features strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "TUBB4A-related Hypomyelination",
+      "disease_id": "OMIM:612438",
+      "score": 0.5,
+      "explanation": "Presents with hypomyelination, developmental delay, hypotonia, and can include epilepsy. Part of the hypomyelinating leukodystrophy spectrum."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 0.333,
+      "explanation": "Can present with epileptic encephalopathy, profound developmental delay, and white matter abnormalities including hypomyelination, though typically has additional inflammatory features."
+    },
+    {
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.25,
+      "explanation": "Leukodystrophy that can present with seizures, developmental delay, and hypotonia, though typically shows different MRI pattern than pure hypomyelination."
+    },
+    {
+      "disease_name": "Hypomyelination with Atrophy of Basal Ganglia and Cerebellum (H-ABC)",
+      "disease_id": "OMIM:612438",
+      "score": 0.2,
+      "explanation": "TUBB4A mutation causing hypomyelination with developmental delay and hypotonia, though basal ganglia involvement is characteristic."
+    },
+    {
+      "disease_name": "4H Syndrome",
+      "disease_id": "OMIM:607694",
+      "score": 0.167,
+      "explanation": "Hypomyelination, hypodontia, and hypogonadotropic hypogonadism syndrome can present with hypomyelination and neurological symptoms, though additional features are usually present."
+    },
+    {
+      "disease_name": "Vanishing White Matter Disease",
+      "disease_id": "OMIM:603896",
+      "score": 0.143,
+      "explanation": "Leukodystrophy with progressive neurological deterioration, seizures, and hypotonia, though typically shows cystic degeneration rather than hypomyelination."
+    },
+    {
+      "disease_name": "Hypomyelination and Congenital Cataract",
+      "disease_id": "OMIM:610532",
+      "score": 0.125,
+      "explanation": "FAM126A-related disorder with hypomyelination and developmental delay, though cataracts are a distinguishing feature not mentioned in this case."
+    }
+  ]
+}

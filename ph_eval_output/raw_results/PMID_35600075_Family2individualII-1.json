@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Generalized Epilepsy with Febrile Seizures Plus, Type 1",
+      "disease_id": "OMIM:604233",
+      "score": 1.0,
+      "explanation": "GEFS+ Type 1 is characterized by febrile seizures that may persist beyond age 6 years and can evolve into various epilepsy types. The single phenotype of febrile seizures in this patient could represent an early or mild presentation."
+    },
+    {
+      "disease_name": "Generalized Epilepsy with Febrile Seizures Plus, Type 2",
+      "disease_id": "OMIM:604403",
+      "score": 0.5,
+      "explanation": "GEFS+ Type 2 (SCN1A-related) presents with febrile seizures and can have variable severity. The isolated febrile seizure phenotype could be an incomplete presentation."
+    },
+    {
+      "disease_name": "Febrile Seizures, Familial, 3A",
+      "disease_id": "OMIM:604403",
+      "score": 0.33,
+      "explanation": "FEB3A is associated with SCN1A mutations and presents with isolated febrile seizures, matching the patient's phenotype exactly."
+    },
+    {
+      "disease_name": "Febrile Seizures, Familial, 3B",
+      "disease_id": "OMIM:613863",
+      "score": 0.25,
+      "explanation": "FEB3B is caused by SCN9A mutations and presents with febrile seizures, consistent with the patient's presentation."
+    },
+    {
+      "disease_name": "Febrile Seizures, Familial, 4",
+      "disease_id": "OMIM:604352",
+      "score": 0.2,
+      "explanation": "FEB4 is associated with ADGRV1 mutations and presents with febrile seizures, matching the observed phenotype."
+    },
+    {
+      "disease_name": "Febrile Seizures, Familial, 8",
+      "disease_id": "OMIM:607681",
+      "score": 0.17,
+      "explanation": "FEB8 is linked to GABRG2 mutations and presents with febrile seizures, consistent with the patient's clinical features."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.14,
+      "explanation": "Dravet syndrome often begins with febrile seizures in infancy. The single phenotype could represent an early stage, though additional features typically develop."
+    },
+    {
+      "disease_name": "Febrile Seizures, Familial, 11",
+      "disease_id": "OMIM:614418",
+      "score": 0.125,
+      "explanation": "FEB11 presents with febrile seizures and is caused by mutations in various genes, matching the patient's phenotype."
+    }
+  ]
+}

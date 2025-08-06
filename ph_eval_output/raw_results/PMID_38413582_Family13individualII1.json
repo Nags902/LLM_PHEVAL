@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "Perfect match with all major features: highly elevated CK, calf pseudohypertrophy, Gowers sign, proximal>distal weakness pattern, respiratory insufficiency, and typical age of onset in a male patient."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Similar dystrophinopathy with elevated CK and muscle weakness, but typically milder and later onset. The severe presentation at age 5 with respiratory insufficiency favors DMD."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2C",
+      "disease_id": "OMIM:253700",
+      "score": 0.33,
+      "explanation": "Gamma-sarcoglycanopathy can present similarly with proximal weakness, elevated CK, and calf hypertrophy, but Gowers sign and respiratory involvement at this age are less typical."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 2D",
+      "disease_id": "OMIM:608099",
+      "score": 0.25,
+      "explanation": "Alpha-sarcoglycanopathy presents with similar features but usually has later onset and less prominent calf pseudohypertrophy than seen in this patient."
+    },
+    {
+      "disease_name": "Congenital Muscular Dystrophy Type 1A",
+      "disease_id": "OMIM:607855",
+      "score": 0.2,
+      "explanation": "MDC1A (merosin-deficient) can cause early weakness and hyperlordosis, but typically presents from birth with more severe motor delays and white matter changes on MRI."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy Type 3",
+      "disease_id": "OMIM:253400",
+      "score": 0.17,
+      "explanation": "SMA3 can present with proximal weakness and motor delays, but typically has normal or low CK levels and lacks calf pseudohypertrophy."
+    }
+  ]
+}

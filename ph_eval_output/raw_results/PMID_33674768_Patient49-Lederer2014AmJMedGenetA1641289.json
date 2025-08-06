@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Down syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 1.0,
+      "explanation": "Down syndrome commonly presents with both clinodactyly (especially of the 5th finger) and characteristic facial features including flat facial profile, epicanthal folds, and upslanting palpebral fissures."
+    },
+    {
+      "disease_name": "Russell-Silver syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.5,
+      "explanation": "Russell-Silver syndrome frequently includes clinodactyly of the 5th finger and distinctive facial features such as triangular face, prominent forehead, and small chin."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "CdLS type 1 presents with clinodactyly and characteristic facial dysmorphism including synophrys, long eyelashes, and distinctive facial gestalt."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "RSTS1 features include broad thumbs/toes with possible clinodactyly and distinctive facial appearance with downslanting palpebral fissures and beaked nose."
+    },
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "This X-linked disorder can present with clinodactyly and characteristic facial features including hypertelorism, widow's peak, and broad nasal bridge."
+    },
+    {
+      "disease_name": "Saethre-Chotzen syndrome",
+      "disease_id": "OMIM:101400",
+      "score": 0.17,
+      "explanation": "Features include clinodactyly and facial abnormalities such as facial asymmetry, low frontal hairline, and ptosis, though craniosynostosis is more characteristic."
+    },
+    {
+      "disease_name": "Turner syndrome",
+      "disease_id": "OMIM:313000",
+      "score": 0.14,
+      "explanation": "Turner syndrome can present with clinodactyly and facial dysmorphism including webbed neck, low posterior hairline, and micrognathia, particularly relevant given female gender."
+    },
+    {
+      "disease_name": "Fetal alcohol spectrum disorder",
+      "disease_id": "OMIM:601501",
+      "score": 0.125,
+      "explanation": "FASD can present with clinodactyly and characteristic facial features including smooth philtrum, thin upper lip, and short palpebral fissures."
+    }
+  ]
+}

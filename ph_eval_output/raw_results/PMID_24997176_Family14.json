@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber Congenital Amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 1.0,
+      "explanation": "LCA is characterized by severe visual impairment from birth, nystagmus, and eye poking (oculodigital sign). The very low visual acuity and hypermetropia are consistent with this diagnosis in a 2-year-old."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 2",
+      "disease_id": "OMIM:204100",
+      "score": 0.5,
+      "explanation": "Another subtype of LCA with similar presentation including congenital blindness, nystagmus, and oculodigital sign. Caused by mutations in RPE65 gene."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 10",
+      "disease_id": "OMIM:611755",
+      "score": 0.33,
+      "explanation": "CEP290-related LCA presenting with severe early-onset retinal dystrophy, nystagmus, and characteristic eye poking behavior."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.25,
+      "explanation": "Complete color blindness with severely reduced visual acuity, nystagmus, and photophobia. Hypermetropia is common. Eye poking less typical but can occur."
+    },
+    {
+      "disease_name": "Congenital Stationary Night Blindness 1A",
+      "disease_id": "OMIM:310500",
+      "score": 0.2,
+      "explanation": "X-linked disorder with nystagmus, reduced visual acuity, and myopia/hypermetropia. Eye poking is less common but the other features fit."
+    },
+    {
+      "disease_name": "Albinism, Oculocutaneous, Type 1A",
+      "disease_id": "OMIM:203100",
+      "score": 0.17,
+      "explanation": "Presents with nystagmus, reduced visual acuity, and refractive errors. Eye poking is not typical but severe visual impairment in early childhood could lead to this behavior."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.14,
+      "explanation": "Can present with early-onset retinal dystrophy, nystagmus, and hypermetropia. Eye poking may occur due to severe visual impairment. Other systemic features may develop later."
+    }
+  ]
+}

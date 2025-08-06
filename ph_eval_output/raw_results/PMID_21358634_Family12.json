@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma, Ferguson-Smith type",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "This autosomal dominant condition is characterized by recurrent self-healing squamous epitheliomas, making it the most specific match for the presented phenotype."
+    },
+    {
+      "disease_name": "Keratoacanthoma",
+      "disease_id": "OMIM:148390",
+      "score": 0.5,
+      "explanation": "Keratoacanthomas are self-healing squamous proliferations that can occur as isolated lesions or in familial patterns, closely matching the phenotype."
+    },
+    {
+      "disease_name": "Muir-Torre syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.33,
+      "explanation": "This Lynch syndrome variant can present with keratoacanthomas (self-healing squamous epitheliomas) along with sebaceous neoplasms."
+    },
+    {
+      "disease_name": "Gorlin syndrome (Nevoid basal cell carcinoma syndrome)",
+      "disease_id": "OMIM:109400",
+      "score": 0.25,
+      "explanation": "While primarily associated with basal cell carcinomas, some patients develop keratoacanthoma-like lesions that can be self-healing."
+    },
+    {
+      "disease_name": "Xeroderma pigmentosum, complementation group A",
+      "disease_id": "OMIM:278700",
+      "score": 0.2,
+      "explanation": "XP patients can develop various skin tumors including squamous cell carcinomas and keratoacanthomas, though self-healing is less typical."
+    }
+  ]
+}

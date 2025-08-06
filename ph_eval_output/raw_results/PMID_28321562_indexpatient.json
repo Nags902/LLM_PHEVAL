@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay (ARSACS)",
+      "disease_id": "OMIM:270550",
+      "score": 1.0,
+      "explanation": "Perfect match with spastic ataxia, cerebellar vermis atrophy, lower limb spasticity, dysarthria, and gait imbalance. Age of presentation in adulthood is consistent with milder forms."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 7 (SCA7)",
+      "disease_id": "OMIM:164500",
+      "score": 0.5,
+      "explanation": "Matches cerebellar atrophy, ataxia, dysarthria, and spasticity. Adult onset is typical. However, retinal degeneration is a key feature not mentioned in this patient."
+    },
+    {
+      "disease_name": "Spastic Paraplegia 7 (SPG7)",
+      "disease_id": "OMIM:607259",
+      "score": 0.33,
+      "explanation": "Features spastic paraplegia with cerebellar signs including ataxia and dysmetria. Cerebellar atrophy can occur. Adult onset is typical."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2 (SCA2)",
+      "disease_id": "OMIM:183090",
+      "score": 0.25,
+      "explanation": "Presents with cerebellar ataxia, dysarthria, and can have pyramidal signs. However, peripheral neuropathy is common and not mentioned here."
+    },
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.2,
+      "explanation": "Features ataxia, dysarthria, and muscle weakness, but typically presents earlier (before age 25) and cardiomyopathy is common but not mentioned."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.17,
+      "explanation": "Can present with ataxia, spasticity, and dysarthria in adult onset. However, extrapyramidal signs and peripheral neuropathy are often prominent."
+    },
+    {
+      "disease_name": "Spastic Ataxia 5 (SPAX5)",
+      "disease_id": "OMIM:614487",
+      "score": 0.14,
+      "explanation": "Features spastic ataxia with cerebellar atrophy, but typically has earlier onset and may include optic atrophy which is not mentioned."
+    }
+  ]
+}

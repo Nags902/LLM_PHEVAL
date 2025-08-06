@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Common Variable Immunodeficiency 1",
+      "disease_id": "OMIM:607594",
+      "score": 1.0,
+      "explanation": "CVID is characterized by decreased IgA and IgM, B lymphocytopenia, and decreased class-switched memory B cells, which closely matches the patient's immunological profile. The CD4:CD8 ratio abnormality and thrombocytopenia can also occur in CVID."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency 2",
+      "disease_id": "OMIM:240500",
+      "score": 0.5,
+      "explanation": "Another form of CVID with similar immunological features including hypogammaglobulinemia, B cell dysfunction, and potential for cytopenias including thrombocytopenia."
+    },
+    {
+      "disease_name": "X-linked Agammaglobulinemia",
+      "disease_id": "OMIM:300755",
+      "score": 0.33,
+      "explanation": "XLA presents with B lymphocytopenia and decreased immunoglobulins, but typically has more severe B cell deficiency and earlier onset. The patient's age and gender make this less likely but still possible."
+    },
+    {
+      "disease_name": "Activated PI3K-delta Syndrome 1",
+      "disease_id": "OMIM:615513",
+      "score": 0.25,
+      "explanation": "APDS can present with decreased class-switched memory B cells, hypogammaglobulinemia, and lymphopenia. The CD4:CD8 ratio abnormality fits this diagnosis."
+    },
+    {
+      "disease_name": "CD19 Deficiency",
+      "disease_id": "OMIM:613493",
+      "score": 0.2,
+      "explanation": "CD19 deficiency causes decreased class-switched memory B cells and hypogammaglobulinemia, but typically presents earlier in life. The thrombocytopenia is less typical."
+    },
+    {
+      "disease_name": "TACI Deficiency",
+      "disease_id": "OMIM:614699",
+      "score": 0.17,
+      "explanation": "TACI deficiency (TNFRSF13B mutations) can cause CVID-like phenotype with decreased IgA and IgM, B cell abnormalities, and can be associated with cytopenias."
+    },
+    {
+      "disease_name": "Hyper-IgM Syndrome Type 1",
+      "disease_id": "OMIM:308230",
+      "score": 0.14,
+      "explanation": "HIGM1 typically has decreased IgA but elevated IgM, which doesn't match this case. However, some patients can have low IgM levels, and the decreased class-switched memory B cells fit."
+    },
+    {
+      "disease_name": "BAFF Receptor Deficiency",
+      "disease_id": "OMIM:614700",
+      "score": 0.125,
+      "explanation": "BAFF-R deficiency causes B lymphocytopenia and hypogammaglobulinemia similar to CVID, but is very rare and typically presents with more severe B cell deficiency."
+    }
+  ]
+}

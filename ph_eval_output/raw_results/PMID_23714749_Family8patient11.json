@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)",
+      "disease_id": "OMIM:251880",
+      "score": 1.0,
+      "explanation": "Perfect match with key features: mitochondrial DNA depletion in liver, hypotonia, feeding difficulties, and liver dysfunction (jaundice). The hepatocerebral form typically presents in infancy."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4B (MNGIE type)",
+      "disease_id": "OMIM:613662",
+      "score": 0.5,
+      "explanation": "Features mitochondrial DNA depletion and can present with hypotonia and feeding difficulties, though typically has later onset. Liver involvement with jaundice is possible."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 2 (myopathic type)",
+      "disease_id": "OMIM:609560",
+      "score": 0.33,
+      "explanation": "Shows mitochondrial DNA depletion and hypotonia, but primarily affects muscle rather than liver. Feeding difficulties common but jaundice is not typical."
+    },
+    {
+      "disease_name": "Alpha-1 antitrypsin deficiency",
+      "disease_id": "OMIM:613490",
+      "score": 0.25,
+      "explanation": "Can present in infancy with jaundice and coagulation abnormalities due to liver dysfunction. Feeding difficulties may occur secondarily, but mitochondrial DNA depletion is not a feature."
+    },
+    {
+      "disease_name": "Niemann-Pick disease type C1",
+      "disease_id": "OMIM:257220",
+      "score": 0.2,
+      "explanation": "Can present with neonatal jaundice, hypotonia, and feeding difficulties. Liver dysfunction can cause coagulation issues, but mitochondrial DNA depletion is not characteristic."
+    },
+    {
+      "disease_name": "Progressive familial intrahepatic cholestasis 2",
+      "disease_id": "OMIM:601847",
+      "score": 0.17,
+      "explanation": "Presents with severe jaundice and coagulation abnormalities in infancy. Feeding difficulties are common, but hypotonia and mitochondrial DNA depletion are not typical features."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Acidemia Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "Perfect match with all key features: glutaric aciduria, elevated 3-hydroxyglutaric acid, elevated glutarylcarnitine, macrocephaly, subdural hemorrhage, developmental regression, and cerebral atrophy. This is the classic presentation of GA-I in a 2-year-old."
+    },
+    {
+      "disease_name": "Glutaric Acidemia Type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Can present with glutaric aciduria and elevated glutarylcarnitine, but typically has multiple acyl-CoA dehydrogenase deficiency with broader metabolic abnormalities. Less likely to present with isolated macrocephaly and subdural hemorrhage pattern."
+    },
+    {
+      "disease_name": "3-Hydroxyglutaric Aciduria",
+      "disease_id": "OMIM:231530",
+      "score": 0.33,
+      "explanation": "Features elevated 3-hydroxyglutaric acid but typically presents with different neurological features and doesn't usually include glutaric aciduria or the characteristic macrocephaly with subdural hemorrhage seen in this patient."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.25,
+      "explanation": "Can present with organic aciduria including glutaric acid, but typically has broader metabolic derangements, hypoglycemia, and different clinical presentation without the specific neuroimaging findings seen here."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.2,
+      "explanation": "Can present with developmental regression and cerebral atrophy, but organic aciduria pattern would be different, and macrocephaly with subdural hemorrhage is not typical. Included due to neurodegenerative features."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG syndrome is characterized by intellectual disability, autism spectrum disorder, and macrodontia (large teeth), which are all present in this patient. Hand abnormalities including clinodactyly and brachydactyly are also common features."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Fragile X syndrome commonly presents with intellectual disability and autistic behaviors. While macrodontia is not a primary feature, it has been reported. Hand abnormalities can include hyperextensible joints."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.33,
+      "explanation": "This syndrome features intellectual disability and autism spectrum disorder prominently. Large or fleshy hands are common, which could relate to the hand abnormality. Dental anomalies occur but macrodontia is less specific."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.25,
+      "explanation": "Features intellectual disability and autism spectrum disorder, particularly with macrocephaly. Hand abnormalities and oral manifestations can occur, though macrodontia specifically is less common."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.2,
+      "explanation": "Sotos syndrome includes intellectual disability and can have autistic features. Advanced dental age and large hands/feet are characteristic, which could relate to macrodontia and hand abnormalities."
+    },
+    {
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.17,
+      "explanation": "Cohen syndrome features intellectual disability and can have autistic behaviors. Dental abnormalities and hand/foot anomalies are common, though macrodontia is not a primary feature."
+    }
+  ]
+}

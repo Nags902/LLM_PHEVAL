@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibromas are pathognomonic for NF1, occurring in 25-30% of patients. This is the most common cause of plexiform neurofibromas."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 3",
+      "disease_id": "OMIM:162260",
+      "score": 0.5,
+      "explanation": "A rare variant of neurofibromatosis that can present with plexiform neurofibromas, though less common than NF1."
+    },
+    {
+      "disease_name": "Segmental neurofibromatosis",
+      "disease_id": "OMIM:162210",
+      "score": 0.33,
+      "explanation": "A localized form of NF1 that can present with plexiform neurofibromas in a segmental distribution."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "Can rarely present with caf\u00e9-au-lait spots and neurofibromas, though plexiform neurofibromas are uncommon."
+    },
+    {
+      "disease_name": "Watson syndrome",
+      "disease_id": "OMIM:193520",
+      "score": 0.2,
+      "explanation": "An allelic variant of NF1 that can present with neurofibromas, though typically with additional features like pulmonary stenosis."
+    }
+  ]
+}

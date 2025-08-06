@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mucopolysaccharidosis type IVA (Morquio syndrome A)",
+      "disease_id": "OMIM:253000",
+      "score": 1.0,
+      "explanation": "Strong match with platyspondyly, beaking of vertebral bodies, genu valgum, waddling gait, coarse facial features, short neck, and skeletal dysplasia features. The combination of spinal and hip abnormalities is characteristic."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type IVB (Morquio syndrome B)",
+      "disease_id": "OMIM:253010",
+      "score": 0.5,
+      "explanation": "Similar skeletal manifestations to MPS IVA but typically milder. Matches platyspondyly, vertebral changes, and coarse features, though usually has less severe skeletal involvement."
+    },
+    {
+      "disease_name": "Spondyloepiphyseal dysplasia congenita",
+      "disease_id": "OMIM:183900",
+      "score": 0.33,
+      "explanation": "Matches platyspondyly, short neck, rhizomelia, flat acetabular roof, and waddling gait. However, coarse facial features and intellectual disability are less typical."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis type VI (Maroteaux-Lamy syndrome)",
+      "disease_id": "OMIM:253200",
+      "score": 0.25,
+      "explanation": "Presents with coarse facial features, skeletal dysplasia, and vertebral abnormalities. However, intellectual disability is not typical in MPS VI, making it less likely."
+    },
+    {
+      "disease_name": "Pseudoachondroplasia",
+      "disease_id": "OMIM:177170",
+      "score": 0.2,
+      "explanation": "Matches rhizomelia, waddling gait, genu valgum, and vertebral abnormalities. However, lacks typical features like normal facies at birth and absence of intellectual disability."
+    },
+    {
+      "disease_name": "Dyggve-Melchior-Clausen disease",
+      "disease_id": "OMIM:223800",
+      "score": 0.17,
+      "explanation": "Features platyspondyly with vertebral changes, intellectual disability, and short stature. The skeletal pattern partially matches but lacks some characteristic features like lacy iliac crests."
+    },
+    {
+      "disease_name": "Smith-McCort dysplasia 1",
+      "disease_id": "OMIM:607326",
+      "score": 0.14,
+      "explanation": "Similar to Dyggve-Melchior-Clausen disease but typically without intellectual disability. The presence of intellectual disability in this patient makes it less likely, though skeletal features partially match."
+    },
+    {
+      "disease_name": "Multiple epiphyseal dysplasia type 4",
+      "disease_id": "OMIM:226900",
+      "score": 0.125,
+      "explanation": "Can present with short metacarpals/metatarsals and hip abnormalities. However, lacks the severe spinal involvement and coarse features seen in this patient."
+    }
+  ]
+}

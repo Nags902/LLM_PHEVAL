@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pyle disease",
+      "disease_id": "OMIM:265900",
+      "score": 1.0,
+      "explanation": "Perfect match for skeletal abnormalities including flared metaphyses, coarse metaphyseal trabecularization, thickened cortex of long bones, and increased bone mineral density. Also features relative macrocephaly and craniofacial anomalies."
+    },
+    {
+      "disease_name": "Craniometaphyseal dysplasia, autosomal dominant",
+      "disease_id": "OMIM:123000",
+      "score": 0.5,
+      "explanation": "Strong match with thickened calvaria, hypertelorism, depressed nasal bridge, flared metaphyses, and increased bone density. The cranial and metaphyseal involvement pattern is highly consistent."
+    },
+    {
+      "disease_name": "Craniometaphyseal dysplasia, autosomal recessive",
+      "disease_id": "OMIM:218400",
+      "score": 0.33,
+      "explanation": "Similar to autosomal dominant form but typically more severe. Features thickened calvaria, facial dysmorphism, and metaphyseal changes, though usually presents earlier with more pronounced symptoms."
+    },
+    {
+      "disease_name": "Osteopetrosis, autosomal dominant 2",
+      "disease_id": "OMIM:166600",
+      "score": 0.25,
+      "explanation": "Explains increased bone density, thickened cortex, and sandwich vertebrae. However, metaphyseal flaring and coarse trabecularization are less typical, and craniofacial features are not primary."
+    },
+    {
+      "disease_name": "Craniodiaphyseal dysplasia",
+      "disease_id": "OMIM:218300",
+      "score": 0.2,
+      "explanation": "Features cranial thickening and increased bone density, but primarily affects diaphyses rather than metaphyses. The metaphyseal involvement in this patient makes it less likely."
+    },
+    {
+      "disease_name": "Dysosteosclerosis",
+      "disease_id": "OMIM:224300",
+      "score": 0.17,
+      "explanation": "Can present with increased bone density, developmental delay, and facial dysmorphism. However, typically includes more severe features like optic atrophy and does not classically show metaphyseal flaring."
+    }
+  ]
+}

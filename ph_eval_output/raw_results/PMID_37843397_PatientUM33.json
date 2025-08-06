@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Berardinelli-Seip congenital lipodystrophy 2",
+      "disease_id": "OMIM:269700",
+      "score": 1.0,
+      "explanation": "BSCL2 presents with generalized lipodystrophy, insulin resistance/diabetes, hypertriglyceridemia, and hepatic steatosis. The early onset (21 years) with severe metabolic complications including pancreatitis strongly suggests this form."
+    },
+    {
+      "disease_name": "Berardinelli-Seip congenital lipodystrophy 1",
+      "disease_id": "OMIM:608594",
+      "score": 0.5,
+      "explanation": "BSCL1 caused by AGPAT2 mutations presents similarly with generalized lipodystrophy and metabolic complications, though typically with less severe diabetes and pancreatitis compared to BSCL2."
+    },
+    {
+      "disease_name": "Familial partial lipodystrophy, Dunnigan type",
+      "disease_id": "OMIM:151660",
+      "score": 0.33,
+      "explanation": "FPLD2 shows loss of subcutaneous fat in limbs and trunk with preserved facial fat, along with insulin resistance and dyslipidemia. However, onset is typically post-pubertal and less severe than congenital forms."
+    },
+    {
+      "disease_name": "Mandibuloacral dysplasia with type A lipodystrophy",
+      "disease_id": "OMIM:248370",
+      "score": 0.25,
+      "explanation": "MADA includes partial lipodystrophy with metabolic complications, but typically presents with additional skeletal abnormalities not mentioned in this case."
+    },
+    {
+      "disease_name": "Acquired generalized lipodystrophy",
+      "disease_id": "OMIM:608600",
+      "score": 0.2,
+      "explanation": "Lawrence syndrome presents with progressive fat loss and severe metabolic complications including diabetes and pancreatitis, though onset is typically in childhood rather than young adulthood."
+    },
+    {
+      "disease_name": "SHORT syndrome",
+      "disease_id": "OMIM:269880",
+      "score": 0.17,
+      "explanation": "Can present with partial lipodystrophy and insulin resistance, but typically includes short stature, facial dysmorphism, and other features not described in this patient."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1A",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "PCH1A presents with cerebellar hypoplasia, microcephaly, severe developmental delay, and progressive motor deterioration. The combination of cerebellar hypoplasia with microcephaly and severe neurodevelopmental features strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "PCH2A features progressive microcephaly, severe developmental delay, and cerebellar/pontine hypoplasia. While it doesn't typically include hearing loss, the cerebellar and developmental features are highly consistent."
+    },
+    {
+      "disease_name": "CASK-Related Disorders",
+      "disease_id": "OMIM:300749",
+      "score": 0.33,
+      "explanation": "CASK mutations cause microcephaly with pontine and cerebellar hypoplasia (MICPCH), intellectual disability, and can include hearing loss and strabismus. The phenotypic overlap is substantial."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Features cerebellar vermis hypoplasia, developmental delay, intellectual disability, and can include strabismus. However, hearing loss is uncommon and microcephaly is not typical."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 6",
+      "disease_id": "OMIM:611523",
+      "score": 0.2,
+      "explanation": "PCH6 includes severe developmental delay, microcephaly, and pontocerebellar hypoplasia. Some cases have been reported with hearing impairment, making it a consideration."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.17,
+      "explanation": "Features microcephaly, developmental delay, intellectual disability, and can include strabismus. However, cerebellar hypoplasia is not a core feature, and patients typically have distinctive facial features."
+    },
+    {
+      "disease_name": "Cockayne Syndrome Type A",
+      "disease_id": "OMIM:216400",
+      "score": 0.14,
+      "explanation": "Includes microcephaly, developmental delay, sensorineural hearing loss, and cerebellar atrophy. However, it typically presents with progressive neurodegeneration and photosensitivity."
+    },
+    {
+      "disease_name": "Warburg Micro Syndrome 1",
+      "disease_id": "OMIM:600118",
+      "score": 0.13,
+      "explanation": "Features microcephaly, developmental delay, and can include cerebellar hypoplasia. However, it's characterized by microphthalmia and other ocular abnormalities not mentioned in this case."
+    }
+  ]
+}

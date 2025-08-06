@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-rod dystrophy 3",
+      "disease_id": "OMIM:604116",
+      "score": 1.0,
+      "explanation": "Presents with all three features: nystagmus, reduced visual acuity, and macular atrophy. This is a classic presentation of cone-rod dystrophy affecting central vision."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "Most common juvenile macular dystrophy presenting with macular atrophy and reduced visual acuity. Nystagmus can occur secondarily due to poor central vision."
+    },
+    {
+      "disease_name": "Leber congenital amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 0.333,
+      "explanation": "Early-onset severe retinal dystrophy with nystagmus and severely reduced visual acuity. Macular atrophy can develop over time."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:216900",
+      "score": 0.25,
+      "explanation": "Congenital color blindness with nystagmus, reduced visual acuity, and can have macular changes. Complete lack of cone function leads to these symptoms."
+    },
+    {
+      "disease_name": "Bardet-Biedl syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.2,
+      "explanation": "Multisystem disorder with retinal dystrophy causing macular atrophy and vision loss. Nystagmus can occur. Would expect additional systemic features."
+    },
+    {
+      "disease_name": "Best vitelliform macular dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.167,
+      "explanation": "Macular dystrophy with reduced visual acuity and macular changes. Nystagmus is less common but can occur with significant vision loss."
+    },
+    {
+      "disease_name": "Congenital stationary night blindness 1A",
+      "disease_id": "OMIM:310500",
+      "score": 0.143,
+      "explanation": "X-linked disorder with nystagmus and reduced visual acuity. Macular atrophy is less typical but can occur in some cases."
+    }
+  ]
+}

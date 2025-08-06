@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, autism, delayed speech/motor development, midface retrusion, and thick eyebrows. Hypoplastic nasal bridge is also commonly seen."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Features prominent fingertip pads (pathognomonic), intellectual disability, delayed development, thick eyebrows, and midface hypoplasia. Autism is also reported."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, autism, developmental delays, thick eyebrows, and midface retrusion. Hypoplastic nasal bridge is a common feature."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Shows intellectual disability, autism, developmental delays, thick eyebrows, and midface abnormalities. Prominent fingertip pads can occur."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, autism, developmental delays, and prominent fingertip pads. Facial features partially match but less specific for thick eyebrows."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.17,
+      "explanation": "Presents with severe intellectual disability, autism, absent speech, and developmental delays. Midface retrusion can occur but fingertip pads are not typical."
+    }
+  ]
+}

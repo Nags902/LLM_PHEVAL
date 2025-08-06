@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Strong match with intellectual disability, developmental delay, microcephaly, short stature, and distinctive facial features. The prominent metopic ridge and high forehead are characteristic."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Matches intellectual disability, seizures, microcephaly, developmental delay, and gastroesophageal reflux. Facial features including high forehead are consistent."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.33,
+      "explanation": "Presents with intellectual disability, seizures, microcephaly, and severe speech delay. Gastroesophageal reflux is common. Facial features can include tented philtrum."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Features severe developmental delay, seizures, absent speech, delayed walking, and gastroesophageal reflux. Microcephaly occurs in some cases."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Includes intellectual disability, seizures, microcephaly, and developmental regression. However, typically affects females and has specific hand stereotypies not mentioned."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.17,
+      "explanation": "Characterized by severe intellectual disability, microcephaly, seizures, and delayed motor development. Cavum septum pellucidum has been reported."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.14,
+      "explanation": "Features intellectual disability, short stature, developmental delay, and distinctive facial features. High forehead and prominent metopic ridge can occur."
+    },
+    {
+      "disease_name": "Kleefstra syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.125,
+      "explanation": "Presents with intellectual disability, developmental delay, speech impairment, and characteristic facial features. Seizures and gastroesophageal reflux are possible."
+    }
+  ]
+}

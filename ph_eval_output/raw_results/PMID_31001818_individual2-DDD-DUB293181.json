@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Classic presentation with macrocephaly, tall stature, intellectual disability, autism, seizures, ventriculomegaly, and prominent supraorbital ridges. All features strongly align with this overgrowth syndrome."
+    },
+    {
+      "disease_name": "PTEN hamartoma tumor syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.5,
+      "explanation": "Macrocephaly, autism, developmental delays, and ventriculomegaly are characteristic. However, tall stature is less typical, and tumor manifestations are not mentioned."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.333,
+      "explanation": "Autism, ADHD, intellectual disability, and seizures fit well. Macrocephaly can occur but is less common. Tall stature and prominent supraorbital ridges are atypical."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.25,
+      "explanation": "Another overgrowth syndrome with tall stature, macrocephaly, and intellectual disability. However, autism and ADHD are less commonly reported features."
+    },
+    {
+      "disease_name": "Bannayan-Riley-Ruvalcaba syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.2,
+      "explanation": "Part of PTEN spectrum with macrocephaly, developmental delay, and autism. Ventriculomegaly can occur, but tall stature is not typical."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.167,
+      "explanation": "Overgrowth syndrome with tall stature and possible developmental delays. However, macrocephaly, autism, and prominent supraorbital ridges are not characteristic features."
+    }
+  ]
+}

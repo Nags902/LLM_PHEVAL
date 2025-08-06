@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Classic presentation with hypotonia, intellectual disability, developmental delay, overweight/obesity, and behavioral issues including self-mutilation. The constellation of symptoms strongly suggests PWS."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Features self-mutilation as a prominent behavioral phenotype, along with intellectual disability, developmental delay, and hypotonia. Obesity can occur but is less central than in PWS."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "Presents with obesity, intellectual disability, and developmental delay. However, lacks typical features like retinitis pigmentosa and polydactyly, making it less likely."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Common cause of intellectual disability with hypotonia and developmental delay. Self-injurious behavior can occur, but obesity is not a core feature."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, hypotonia, and developmental delay. Truncal obesity can develop in adolescence, but microcephaly and characteristic facial features are typically present."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.167,
+      "explanation": "Presents with severe intellectual disability, developmental delay, and hypotonia. Constipation is common, but happy demeanor rather than self-mutilation is typical, and obesity is not a feature."
+    }
+  ]
+}

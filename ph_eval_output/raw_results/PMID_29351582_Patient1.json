@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 4A",
+      "disease_id": "OMIM:214400",
+      "score": 1.0,
+      "explanation": "CMT4A presents with early-onset progressive motor axonal neuropathy, distal muscle weakness and atrophy, pes cavus, steppage gait, and loss of ambulation. The facial involvement with ptosis and weakness fits the severe phenotype."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2A1",
+      "disease_id": "OMIM:118210",
+      "score": 0.5,
+      "explanation": "CMT2A1 is an axonal neuropathy with early onset, progressive distal weakness, pes cavus, and gait abnormalities. However, facial involvement is less common than in CMT4A."
+    },
+    {
+      "disease_name": "Congenital myasthenic syndrome type 5",
+      "disease_id": "OMIM:603034",
+      "score": 0.33,
+      "explanation": "CMS5 presents with ptosis, facial weakness, and progressive motor difficulties. The fasciculations and neuropathic features make this less likely than primary neuropathies."
+    },
+    {
+      "disease_name": "Spinal muscular atrophy with progressive myoclonic epilepsy",
+      "disease_id": "OMIM:159950",
+      "score": 0.25,
+      "explanation": "SMA-PME shows facial-lingual fasciculations, progressive weakness, and loss of ambulation. The presence of peripheral neuropathy features makes this less typical."
+    },
+    {
+      "disease_name": "Brown-Vialetto-Van Laere syndrome 1",
+      "disease_id": "OMIM:211530",
+      "score": 0.2,
+      "explanation": "BVVL1 presents with bulbar palsy, facial weakness, ptosis, and progressive motor neuropathy. The age of onset and peripheral neuropathy features are consistent."
+    },
+    {
+      "disease_name": "Infantile-onset spinocerebellar ataxia",
+      "disease_id": "OMIM:271245",
+      "score": 0.17,
+      "explanation": "IOSCA can present with peripheral neuropathy, ataxia, and progressive motor deterioration. However, the prominent facial features and fasciculations are less typical."
+    }
+  ]
+}

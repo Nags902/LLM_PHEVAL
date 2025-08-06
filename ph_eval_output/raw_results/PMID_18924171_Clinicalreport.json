@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pyruvate Dehydrogenase E1-Alpha Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 1.0,
+      "explanation": "Early neonatal presentation with seizures, hypotonia, respiratory failure, brainstem abnormalities, and corpus callosum abnormalities are classic for severe PDH deficiency. The cardiac involvement and metabolic crisis fit the clinical picture."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency, Nuclear Type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.5,
+      "explanation": "Neonatal onset with hypotonia, respiratory failure, cardiomyopathy, and brainstem involvement strongly suggests mitochondrial disease. Complex I deficiency commonly presents with this severe multisystem involvement."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.33,
+      "explanation": "Classic features include brainstem abnormalities, hypotonia, respiratory failure, and seizures in infancy. The periventricular white matter changes and cardiac involvement support this diagnosis."
+    },
+    {
+      "disease_name": "Pompe Disease, Infantile",
+      "disease_id": "OMIM:232300",
+      "score": 0.25,
+      "explanation": "Presents with severe hypotonia, muscle weakness, hypertrophic cardiomyopathy, and respiratory failure in early infancy. However, CNS involvement is less typical."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy Type 1",
+      "disease_id": "OMIM:253300",
+      "score": 0.2,
+      "explanation": "Severe neonatal hypotonia, areflexia, muscle weakness, and respiratory failure are characteristic. However, the cardiac and CNS abnormalities are atypical."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome Type 10",
+      "disease_id": "OMIM:254300",
+      "score": 0.17,
+      "explanation": "Can present with neonatal hypotonia, respiratory failure, vocal cord paralysis, and bradycardia. The CNS findings are less typical but some forms can have central involvement."
+    },
+    {
+      "disease_name": "Barth Syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.14,
+      "explanation": "X-linked disorder presenting with cardiomyopathy, muscle weakness, and hypotonia in males. The extensive CNS involvement is less typical but can occur."
+    },
+    {
+      "disease_name": "Molybdenum Cofactor Deficiency Type A",
+      "disease_id": "OMIM:252150",
+      "score": 0.125,
+      "explanation": "Presents in neonatal period with seizures, hypotonia, and brain abnormalities. The cardiac and respiratory features are less typical but can occur in severe cases."
+    }
+  ]
+}

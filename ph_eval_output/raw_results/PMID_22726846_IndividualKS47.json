@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Achondroplasia",
+      "disease_id": "OMIM:100800",
+      "score": 1.0,
+      "explanation": "Matches hydrocephalus, midface retrusion, and developmental delays. The villous hypertrophy of choroid plexus is particularly suggestive of achondroplasia-related complications."
+    },
+    {
+      "disease_name": "Stickler Syndrome Type 1",
+      "disease_id": "OMIM:108300",
+      "score": 0.5,
+      "explanation": "High myopia and visual impairment are cardinal features. Midface retrusion is common. Developmental delays can occur secondary to sensory impairments."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I (Hurler Syndrome)",
+      "disease_id": "OMIM:607014",
+      "score": 0.33,
+      "explanation": "Explains intellectual disability, developmental delay, hydrocephalus, and facial dysmorphisms including midface retrusion and protruding tongue."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Features protruding tongue, upslanted palpebral fissures, intellectual disability, and developmental delays. However, lacks some typical features and hydrocephalus is less common."
+    },
+    {
+      "disease_name": "Walker-Warburg Syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.2,
+      "explanation": "Severe congenital muscular dystrophy with hydrocephalus, visual impairment, and intellectual disability. The choroid plexus abnormality supports brain malformation."
+    },
+    {
+      "disease_name": "L1 Syndrome (X-linked Hydrocephalus)",
+      "disease_id": "OMIM:308840",
+      "score": 0.17,
+      "explanation": "Hydrocephalus is the primary feature with intellectual disability and developmental delays. Less likely given multiple dysmorphic features present."
+    }
+  ]
+}

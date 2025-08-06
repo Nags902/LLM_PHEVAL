@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "Classic presentation with infantile spasms, hypsarrhythmia on EEG, and severe intellectual disability. The hypomyelination and autism are consistent with this epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.5,
+      "explanation": "CNS hypomyelination is a cardinal feature. The severe intellectual disability, hypotonia, and EEG abnormalities are consistent, though infantile spasms are less typical."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.33,
+      "explanation": "Features severe intellectual disability, autism, hypotonia, and epilepsy including infantile spasms. Hypomyelination can occur but is not a primary feature."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "Early-onset epileptic encephalopathy with infantile spasms, severe intellectual disability, and hypotonia. Autism-like features are common. Hypomyelination is less characteristic."
+    },
+    {
+      "disease_name": "Ohtahara syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.2,
+      "explanation": "Early infantile epileptic encephalopathy that can evolve to West syndrome with hypsarrhythmia. Features severe developmental delay and hypotonia, though hypomyelination is not typical."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.17,
+      "explanation": "Can present with infantile spasms, autism, and intellectual disability. Hypomyelination can occur but is not a primary feature. Brain lesions would typically be seen on imaging."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.14,
+      "explanation": "Similar presentation to TSC1 with infantile spasms, autism, and intellectual disability. Hypomyelination is possible but secondary. Would expect additional features like skin lesions."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Classic presentation with multiple cardiac septal defects (ASD, VSD) combined with radial ray abnormalities including absent radius and thumb anomalies. The combination of upper limb and cardiac defects is pathognomonic for this syndrome."
+    },
+    {
+      "disease_name": "TAR syndrome (Thrombocytopenia-absent radius syndrome)",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "Features absent radius, but typically preserves the thumb. The presence of thumb abnormalities and multiple cardiac defects makes this less likely than Holt-Oram syndrome."
+    },
+    {
+      "disease_name": "VACTERL association",
+      "disease_id": "OMIM:192350",
+      "score": 0.33,
+      "explanation": "Can present with radial ray defects and cardiac anomalies including septal defects. However, typically involves additional features like vertebral, anal, renal, and esophageal abnormalities not mentioned here."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Can present with radial ray anomalies and congenital heart defects, but typically includes additional features like short stature, microcephaly, and bone marrow failure that are not described."
+    },
+    {
+      "disease_name": "Okihiro syndrome (Duane-radial ray syndrome)",
+      "disease_id": "OMIM:607323",
+      "score": 0.2,
+      "explanation": "Features radial ray defects including absent/hypoplastic thumbs and radius, but cardiac defects are less common and Duane anomaly is a key feature not mentioned in this case."
+    }
+  ]
+}

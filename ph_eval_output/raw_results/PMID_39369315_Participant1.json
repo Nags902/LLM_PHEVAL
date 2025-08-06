@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Strong match with key features including absent speech, severe intellectual disability, motor stereotypy, autistic behavior, facial hypotonia, tented upper lip, open mouth, drooling, progressive microcephaly, and characteristic facial features. The breathing abnormalities often seen in Pitt-Hopkins are not mentioned but the overall phenotype is highly consistent."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Good match with absent speech, severe intellectual disability, gait disturbance, motor delay, drooling, open mouth, and autistic behaviors. However, lacks the typical happy demeanor description and seizures commonly seen in Angelman syndrome."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.33,
+      "explanation": "Matches with intellectual disability, absent speech, microcephaly, facial features (high forehead, depressed nasal bridge), and cardiac defect (VSD). However, lacks the typical Hirschsprung disease and more distinctive facial features of Mowat-Wilson."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Consistent with progressive microcephaly, absent speech, motor stereotypy, and autistic behavior. However, the patient appears to be male (gender: 2), making classic Rett syndrome less likely, though atypical forms exist in males."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "Matches with severe intellectual disability, absent speech, progressive microcephaly, hypoplasia of corpus callosum, and motor stereotypy. The facial features and overall presentation could fit with FOXG1-related disorders."
+    },
+    {
+      "disease_name": "Christianson Syndrome",
+      "disease_id": "OMIM:300243",
+      "score": 0.17,
+      "explanation": "X-linked disorder fitting with male patient, progressive microcephaly, absent speech, intellectual disability, autistic behavior, and gait disturbance. However, lacks the typical seizures and cerebellar atrophy commonly seen."
+    }
+  ]
+}

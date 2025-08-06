@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Most common inherited cause of intellectual disability and speech delay, particularly in males. The presentation of intellectual disability with delayed speech and language development is classic for Fragile X."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Characterized by severe intellectual disability and profound speech impairment. Most patients have absent or minimal speech, making it highly consistent with the phenotype."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Neurodevelopmental disorder with intellectual disability and loss of speech skills. However, it predominantly affects females and involves regression, which is not specified in this case."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Most common chromosomal cause of intellectual disability with variable speech and language delays. The isolated presentation without other features makes it less likely but still possible."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.2,
+      "explanation": "Characterized by intellectual disability and severely delayed or absent speech. The speech impairment is often more severe than the cognitive impairment."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.167,
+      "explanation": "Features intellectual disability and speech/language delays. However, it typically includes distinctive behavioral features not mentioned in this case."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.143,
+      "explanation": "Includes mild to moderate intellectual disability with language delays, though patients often develop relatively good language skills later, making it less consistent with the presentation."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.125,
+      "explanation": "Features mild to moderate intellectual disability and speech delays. However, it typically includes distinctive facial features not mentioned here."
+    }
+  ]
+}

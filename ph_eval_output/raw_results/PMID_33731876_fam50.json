@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "STXBP1 encephalopathy presents with severe intellectual disability, multiple seizure types including myoclonic and tonic seizures, hypsarrhythmia, and movement disorders like choreoathetosis. The combination of early-onset epileptic encephalopathy with movement disorder strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 deficiency presents with early-onset seizures including tonic and myoclonic types, severe intellectual disability, hypotonia, and can have hypsarrhythmia. Movement disorders are less common but can occur. The epileptic encephalopathy pattern fits well."
+    },
+    {
+      "disease_name": "SCN2A-related disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.33,
+      "explanation": "SCN2A mutations can cause severe epileptic encephalopathy with multiple seizure types, intellectual disability, and movement disorders. The presence of both generalized and focal seizures with severe developmental impairment is consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet syndrome presents with multiple seizure types including myoclonic and tonic seizures, severe intellectual disability, and can have movement disorders. However, hypsarrhythmia is not typical, and fever-triggered seizures are usually prominent."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.2,
+      "explanation": "LGS features multiple seizure types including tonic seizures, intellectual disability, and characteristic EEG patterns. While it doesn't typically present with hypsarrhythmia or choreoathetosis, the severe epileptic encephalopathy with mixed seizure types is consistent."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.17,
+      "explanation": "KCNQ2 mutations can cause early-onset epileptic encephalopathy with tonic seizures, severe intellectual disability, and hypotonia. Movement disorders are less common, and hypsarrhythmia is not typical, making this less likely than other options."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant",
+      "disease_id": "OMIM:181350",
+      "score": 1.0,
+      "explanation": "Classic presentation with Achilles tendon contractures, spinal rigidity, stiff neck, scapuloperoneal distribution of muscle weakness, and cardiac arrhythmias. The age and combination of contractures with cardiac involvement strongly suggest EDMD2."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 0.5,
+      "explanation": "Presents with similar features to EDMD2 including contractures, rigid spine, and cardiac arrhythmias. However, X-linked inheritance is less likely in a female patient, though carrier manifestations are possible."
+    },
+    {
+      "disease_name": "Rigid Spine Muscular Dystrophy 1",
+      "disease_id": "OMIM:602771",
+      "score": 0.33,
+      "explanation": "Characterized by spinal rigidity and progressive muscle weakness, which matches several features. However, the prominent cardiac involvement and Achilles contractures are less typical."
+    },
+    {
+      "disease_name": "Bethlem Myopathy 1",
+      "disease_id": "OMIM:158810",
+      "score": 0.25,
+      "explanation": "Features contractures and muscle weakness, but typically has a milder phenotype. The cardiac arrhythmias and severe spinal rigidity are less common in Bethlem myopathy."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 0.2,
+      "explanation": "Can present with cardiac arrhythmias and muscle weakness, but the prominent contractures and spinal rigidity pattern are less typical for LGMD1B."
+    },
+    {
+      "disease_name": "Myofibrillar Myopathy 1",
+      "disease_id": "OMIM:601419",
+      "score": 0.17,
+      "explanation": "Can cause muscle weakness and cardiac involvement, but the specific pattern of contractures and scapuloperoneal distribution is less characteristic of MFM1."
+    }
+  ]
+}

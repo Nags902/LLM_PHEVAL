@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 1.0,
+      "explanation": "Strong match with developmental regression, cerebral atrophy, thin corpus callosum, microcephaly, severe intellectual disability, autistic behavior, and seizures. The brain structural abnormalities are particularly characteristic."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Features developmental regression, autistic behavior, seizures, and intellectual disability. However, the patient's gender (male) makes classic Rett less likely, though severe variants can occur in males."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Presents with seizures, developmental delay, intellectual disability, autistic features, and sleep disturbances. However, lacks the characteristic happy demeanor and the brain imaging findings are atypical."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.25,
+      "explanation": "Affects males, causes severe intellectual disability, autistic behavior, seizures, hypotonia, and constipation. The progressive nature and brain atrophy are consistent."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Features intellectual disability, seizures, constipation, autistic behavior, and distinctive facial features. However, the brain imaging findings and developmental regression are less typical."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.167,
+      "explanation": "Early-onset epileptic encephalopathy with developmental delay, intellectual disability, and autistic features. Brain atrophy can occur, though the specific pattern described is less common."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.143,
+      "explanation": "Features early-onset seizures, severe developmental delay, hypotonia, and autistic behavior. More common in females but can affect males. The brain imaging findings are somewhat atypical."
+    },
+    {
+      "disease_name": "Neuronal ceroid lipofuscinosis type 2 (CLN2)",
+      "disease_id": "OMIM:204500",
+      "score": 0.125,
+      "explanation": "Progressive neurodegenerative disorder with developmental regression, seizures, and cerebral atrophy. The age of onset and some clinical features fit, though storage material findings would be expected."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 1.0,
+      "explanation": "Classic presentation with ataxia, loss of ambulation, sensorimotor neuropathy, spastic paraparesis, and optic atrophy. The cerebellar atrophy and progressive course are highly consistent with FRDA."
+    },
+    {
+      "disease_name": "Mitochondrial complex I deficiency, nuclear type 1",
+      "disease_id": "OMIM:252010",
+      "score": 0.5,
+      "explanation": "Increased CSF lactate strongly suggests mitochondrial disease. Features like optic atrophy, ataxia, cognitive impairment, and neuropathy are common in complex I deficiency."
+    },
+    {
+      "disease_name": "Hereditary spastic paraplegia 7",
+      "disease_id": "OMIM:607259",
+      "score": 0.33,
+      "explanation": "SPG7 presents with spastic paraparesis, cerebellar ataxia, and optic atrophy. The combination of pyramidal and cerebellar signs with optic involvement is characteristic."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 7",
+      "disease_id": "OMIM:164500",
+      "score": 0.25,
+      "explanation": "SCA7 uniquely combines cerebellar ataxia with progressive visual loss due to retinal degeneration. The optic atrophy and cerebellar atrophy fit well with this diagnosis."
+    },
+    {
+      "disease_name": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay",
+      "disease_id": "OMIM:270550",
+      "score": 0.2,
+      "explanation": "ARSACS presents with early-onset spastic ataxia, sensorimotor neuropathy, and cerebellar atrophy. The combination of spasticity and ataxia is characteristic."
+    },
+    {
+      "disease_name": "Cerebellar ataxia with neuropathy and vestibular areflexia syndrome",
+      "disease_id": "OMIM:614575",
+      "score": 0.17,
+      "explanation": "CANVAS syndrome includes cerebellar ataxia, sensory neuropathy, and vestibular dysfunction (which could explain nystagmus). The late onset and progressive course are consistent."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.14,
+      "explanation": "SCA1 presents with progressive ataxia, optic atrophy, and cognitive decline. The cerebellar atrophy and adult onset are compatible with this diagnosis."
+    },
+    {
+      "disease_name": "Leber hereditary optic neuropathy plus disease",
+      "disease_id": "OMIM:535000",
+      "score": 0.125,
+      "explanation": "LHON-plus can present with optic atrophy, ataxia, spasticity, and neuropathy. The increased CSF lactate supports a mitochondrial etiology."
+    }
+  ]
+}

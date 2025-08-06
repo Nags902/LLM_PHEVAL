@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Most common hereditary macular dystrophy, typically presenting with reduced visual acuity and macular degeneration. Age of onset can vary from childhood to adulthood."
+    },
+    {
+      "disease_name": "Best vitelliform macular dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.5,
+      "explanation": "Autosomal dominant macular dystrophy characterized by bilateral egg-yolk-like lesions in the macula, leading to reduced visual acuity. Can present at various ages."
+    },
+    {
+      "disease_name": "Pattern dystrophy of retinal pigment epithelium",
+      "disease_id": "OMIM:169150",
+      "score": 0.33,
+      "explanation": "Adult-onset macular dystrophy with various patterns of pigment deposition in the macula, causing progressive vision loss. Fits the patient's age."
+    },
+    {
+      "disease_name": "Sorsby fundus dystrophy",
+      "disease_id": "OMIM:136900",
+      "score": 0.25,
+      "explanation": "Autosomal dominant macular dystrophy with typical onset in the fifth decade, presenting with reduced visual acuity and macular changes."
+    },
+    {
+      "disease_name": "Doyne honeycomb retinal dystrophy",
+      "disease_id": "OMIM:126600",
+      "score": 0.2,
+      "explanation": "Autosomal dominant macular dystrophy with drusen-like deposits, typically presenting in adulthood with progressive vision loss."
+    },
+    {
+      "disease_name": "Adult-onset foveomacular vitelliform dystrophy",
+      "disease_id": "OMIM:608161",
+      "score": 0.17,
+      "explanation": "Late-onset form of macular dystrophy presenting with bilateral subfoveal vitelliform lesions and mild visual impairment."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy",
+      "disease_id": "OMIM:120970",
+      "score": 0.14,
+      "explanation": "Progressive retinal dystrophy affecting primarily the macula, leading to reduced visual acuity. Multiple genetic subtypes exist."
+    },
+    {
+      "disease_name": "Age-related macular degeneration",
+      "disease_id": "OMIM:603075",
+      "score": 0.125,
+      "explanation": "Common complex disorder in older adults causing macular dystrophy and vision loss, though typically considered after age 60."
+    }
+  ]
+}

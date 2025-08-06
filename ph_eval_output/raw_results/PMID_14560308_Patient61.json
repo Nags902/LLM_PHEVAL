@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aarskog-Scott syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 1.0,
+      "explanation": "X-linked disorder presenting with hypertelorism, ptosis, brachydactyly, camptodactyly, joint hypermobility, syndactyly, short stature, intellectual disability, and characteristic shawl scrotum. The combination of facial features, skeletal abnormalities, and shawl scrotum is highly suggestive."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Presents with hypertelorism, ptosis, short stature, and intellectual disability. While it doesn't typically include all the skeletal features seen here, the facial dysmorphism and growth/developmental issues are consistent."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant 1",
+      "disease_id": "OMIM:180700",
+      "score": 0.333,
+      "explanation": "Features hypertelorism, brachydactyly, short stature, and genital abnormalities. The facial features and skeletal abnormalities overlap, though shawl scrotum is not typical."
+    },
+    {
+      "disease_name": "Saethre-Chotzen syndrome",
+      "disease_id": "OMIM:101400",
+      "score": 0.25,
+      "explanation": "Characterized by ptosis, syndactyly, brachydactyly, and mild intellectual disability. However, it typically includes craniosynostosis which is not mentioned in this case."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Presents with intellectual disability, short stature, and digital abnormalities including brachydactyly. The full spectrum of features seen here is not typical, but there is some overlap."
+    },
+    {
+      "disease_name": "Floating-Harbor syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.167,
+      "explanation": "Features short stature, intellectual disability, and skeletal abnormalities. While it doesn't include all features seen here, the growth and developmental issues are consistent."
+    }
+  ]
+}

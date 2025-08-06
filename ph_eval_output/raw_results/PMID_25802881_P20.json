@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Classic triad of subcutaneous ossification, intellectual disability, and parathyroid hormone resistance (pseudohypoparathyroidism) making this the most likely diagnosis."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Subset of Albright hereditary osteodystrophy with GNAS mutations, presenting with hormone resistance, subcutaneous ossifications, and cognitive impairment."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1C",
+      "disease_id": "OMIM:612462",
+      "score": 0.33,
+      "explanation": "Similar to PHP1A but caused by GNAS epigenetic defects, can present with AHO features including subcutaneous ossifications and intellectual disability."
+    },
+    {
+      "disease_name": "Progressive osseous heteroplasia",
+      "disease_id": "OMIM:166350",
+      "score": 0.25,
+      "explanation": "Features extensive subcutaneous ossification due to GNAS mutations, but typically lacks hormone resistance and intellectual disability."
+    },
+    {
+      "disease_name": "Fibrodysplasia ossificans progressiva",
+      "disease_id": "OMIM:135100",
+      "score": 0.2,
+      "explanation": "Characterized by progressive heterotopic ossification, but doesn't typically present with parathyroid hormone abnormalities or intellectual disability."
+    },
+    {
+      "disease_name": "Primary hyperparathyroidism",
+      "disease_id": "OMIM:145000",
+      "score": 0.17,
+      "explanation": "Can cause elevated PTH levels but doesn't explain subcutaneous ossification or intellectual disability, making it less likely as a unifying diagnosis."
+    }
+  ]
+}

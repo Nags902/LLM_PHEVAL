@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Classic presentation with severe intellectual disability, absent speech, motor stereotypies, microcephaly, seizures including infantile spasms, and gait abnormalities. The combination of these features strongly suggests Rett syndrome."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Presents with severe intellectual disability, absent speech, seizures, motor stereotypies, microcephaly, and gait disturbances. However, precocious puberty is less typical."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.33,
+      "explanation": "Features early-onset seizures including infantile spasms, severe intellectual disability, absent speech, and motor stereotypies. The multiple seizure types and severe neurodevelopmental phenotype fit well."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.25,
+      "explanation": "Characterized by severe intellectual disability, absent speech, microcephaly, seizures, and motor stereotypies. The constellation of features matches many aspects of this patient."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Features severe intellectual disability, absent speech, seizures, microcephaly, and motor abnormalities. Gastroesophageal reflux is also common. However, infantile spasms are less typical."
+    },
+    {
+      "disease_name": "MEF2C Haploinsufficiency Syndrome",
+      "disease_id": "OMIM:613443",
+      "score": 0.17,
+      "explanation": "Presents with severe intellectual disability, absent speech, seizures including infantile spasms, stereotypic movements, and motor problems. The phenotype shows significant overlap."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.14,
+      "explanation": "Early-onset epileptic encephalopathy with multiple seizure types, developmental delay, and intellectual disability. However, the severity of intellectual disability and absent speech are more severe than typical."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.125,
+      "explanation": "Characterized by infantile spasms, developmental delay, and intellectual disability. However, this is typically a syndrome rather than a specific genetic diagnosis, and doesn't explain all features."
+    }
+  ]
+}
