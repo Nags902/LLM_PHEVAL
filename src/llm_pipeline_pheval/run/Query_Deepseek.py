@@ -119,9 +119,9 @@ def Extract_Data_query_deepseek(
         print(f"[ERROR] Step 3: failed to load or render template: {e}")
         sys.exit(1)
 
-    # Step 4) Query Deepseek via API
+    # Step 4) Query LLM via API
     try:
-        ## for deepseek
+        ## Query DeepSeek
         # client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
 
         # response = client.chat.completions.create(
@@ -133,7 +133,7 @@ def Extract_Data_query_deepseek(
         #     stream=False,
         # )
 
-        # ## for Open ai
+        # ## Query Open ai
         # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
   
         # # Open ai API
@@ -147,27 +147,33 @@ def Extract_Data_query_deepseek(
         # #raw = response.choices[0].message.content
 
 
-        ## anthropic API Key
-        API_KEY = ""
-        # Initialize the Anthropic client
-        client = anthropic.Anthropic(api_key=API_KEY)
+        # ## Query claude anthropic API Key
+        # API_KEY = ""
+        # # Initialize the Anthropic client
+        # client = anthropic.Anthropic(api_key=API_KEY)
 
-        # # Generate Claude response
-        response = client.messages.create(
-            model="claude-opus-4-20250514",  # or claude-3-opus-20240229, etc.
-            max_tokens=1024,
-            temperature=1,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        
-        raw = response.content[0].text
-        
-        # client = genai.Client()
-        # response = client.models.generate_content(
-        #     model="gemini-2.5-flash", contents= prompt
+        # # # Generate Claude response
+        # response = client.messages.create(
+        #     model="claude-opus-4-20250514",  # or claude-3-opus-20240229, etc.
+        #     max_tokens=1024,
+        #     temperature=1,
+        #     messages=[{"role": "user", "content": prompt}]
         # )
+        
+        # raw = response.content[0].text
+        
 
-        # raw = response.text
+        ## Query Google Gemini API
+        # Make sure you have set the GEMINI_API_KEY environment variable
+        if not os.getenv("GEMINI_API_KEY"):
+            print("[ERROR] GEMINI_API_KEY environment variable is not set")
+            sys.exit(1)
+        client = genai.Client()
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", contents= prompt
+        )
+
+        raw = response.text
         
         if not raw:
             raise ValueError("LLM returned empty response")
@@ -177,7 +183,7 @@ def Extract_Data_query_deepseek(
         print(f"[ERROR] Step 4: failed to query LLM or got empty output: {e}")
         sys.exit(1)
 
-    # Step 5) Extract JSON block of LLM response
+    # Step 5) Extract JSON block of LLM response 
     try:
         LLM_output = re.search(r"```json\s*(\{.*?\})\s*```", raw, flags=re.DOTALL)
         if not LLM_output:
