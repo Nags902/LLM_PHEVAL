@@ -59,52 +59,60 @@ def Extract_Data_query_deepseek(
         print(f"[ERROR] Step 2: failed to extract demographics or phenotypes: {e}")
         sys.exit(1)
 
-    similar_cases = []
-    try:
-        rag_index_dir = BASE.parent / "prepare"
-        model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
-        index_path = rag_index_dir / "index.faiss"
 
-        if not index_path.exists():
-            print(f"[ERROR] Step 2: RAG index not found at {index_path}")
-            sys.exit(1)
 
-        index = faiss.read_index(str(index_path))
+#####################RAG retrieval for similar cases #################################################################################
+    # similar_cases = []
+    # try:
+    #     rag_index_dir = BASE.parent / "prepare"
+    #     model = SentenceTransformer("nomic-ai/nomic-embed-text-v1", trust_remote_code=True)
+    #     index_path = rag_index_dir / "index.faiss"
 
-        metadata_path = rag_index_dir / "index_metadata.json"
-        if not metadata_path.exists():
-            print(f"[ERROR] Step 2: RAG metadata not found at {metadata_path}")
-            sys.exit(1)
+    #     if not index_path.exists():
+    #         print(f"[ERROR] Step 2: RAG index not found at {index_path}")
+    #         sys.exit(1)
 
-        with open(metadata_path) as f:
-            metadata = json.load(f)
+    #     index = faiss.read_index(str(index_path))
 
-        # Encode the phenotypes for RAG retrieval
-        phenotype_labels = [pheno["label"] for pheno in phenotypes]
-        query_text = "Presented with " + ", ".join(phenotype_labels)
-        query_embedding = model.encode(query_text).astype(np.float32)
-        query_embedding /= np.linalg.norm(query_embedding)  # Normalize the embedding
-        distances, indices = index.search(np.expand_dims(query_embedding, 0), k=3)
+    #     metadata_path = rag_index_dir / "index_metadata.json"
+    #     if not metadata_path.exists():
+    #         print(f"[ERROR] Step 2: RAG metadata not found at {metadata_path}")
+    #         sys.exit(1)
 
-        # Prepare similar_cases for Jinja
-        for idx in indices[0]:
-            meta = metadata[idx]
-            similar_cases.append(
-                {
-                    "phenotype_summary": meta["summary"].split("Presented with ")[-1].split(". ")[0],
-                    "disease_label": meta.get("diagnosis_label") or meta.get("diagnosis"),  # handle either style
-                    "disease_id": meta.get("diagnosis_id"),
-                }
-            )
+    #     with open(metadata_path) as f:
+    #         metadata = json.load(f)
 
-    except Exception as e:
-        print(f"Step 2: RAG retrieval failed: {str(e)}")
+    #     # Encode the phenotypes for RAG retrieval
+    #     phenotype_labels = [pheno["label"] for pheno in phenotypes]
+    #     query_text = "Presented with " + ", ".join(phenotype_labels)
+    #     query_embedding = model.encode(query_text).astype(np.float32)
+    #     query_embedding /= np.linalg.norm(query_embedding)  # Normalize the embedding
+    #     distances, indices = index.search(np.expand_dims(query_embedding, 0), k=3)
+
+    #     # Prepare similar_cases for Jinja
+    #     for idx in indices[0]:
+    #         meta = metadata[idx]
+    #         similar_cases.append(
+    #             {
+    #                 "phenotype_summary": meta["summary"].split("Presented with ")[-1].split(". ")[0],
+    #                 "disease_label": meta.get("diagnosis_label") or meta.get("diagnosis"),  # handle either style
+    #                 "disease_id": meta.get("diagnosis_id"),
+    #             }
+    #         )
+
+    # except Exception as e:
+    #     print(f"Step 2: RAG retrieval failed: {str(e)}")
+
+#########################################################################################################################################
+
+
 
     # Step 3) Render Jinja prompt
     try:
         env = Environment(loader=FileSystemLoader(BASE), autoescape=False, trim_blocks=False, lstrip_blocks=False)
         template = env.get_template("prompt_template.j2")
-        prompt = template.render(patient=patient_info, phenotypes=phenotypes, similar_cases=similar_cases)
+        # prompt = template.render(patient=patient_info, phenotypes=phenotypes, similar_cases=similar_cases)
+        prompt = template.render(patient=patient_info, phenotypes=phenotypes)
         print("=== Prompt ===")
         print(prompt)
     except (TemplateError, OSError) as e:

@@ -1,40 +1,52 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Deafness, autosomal recessive 125",
-      "disease_id": "OMIM:619091",
-      "score": 1.0,
-      "explanation": "All three reference cases with identical phenotypes (sensorineural hearing impairment and delayed speech/language) were diagnosed with this condition. The patient presents with the core features seen in these cases."
-    },
-    {
-      "disease_name": "Deafness, autosomal recessive 1A",
-      "disease_id": "OMIM:220290",
-      "score": 0.5,
-      "explanation": "GJB2-related hearing loss is the most common form of autosomal recessive non-syndromic hearing loss, presenting with congenital sensorineural hearing impairment and secondary speech delays."
-    },
-    {
-      "disease_name": "Deafness, autosomal recessive 9",
-      "disease_id": "OMIM:601071",
-      "score": 0.33,
-      "explanation": "OTOF-related deafness presents with prelingual profound sensorineural hearing loss leading to speech and language delays, similar to the patient's presentation."
-    },
-    {
-      "disease_name": "Pendred syndrome",
+      "disease_name": "Pendred Syndrome",
       "disease_id": "OMIM:274600",
-      "score": 0.25,
-      "explanation": "While this syndrome includes sensorineural hearing loss and speech delays, it typically also features thyroid abnormalities and inner ear malformations not mentioned in this case."
+      "score": 1.0,
+      "explanation": "Classic presentation with congenital sensorineural hearing loss and delayed speech/language development. Most common syndromic cause of hearing loss."
     },
     {
-      "disease_name": "Usher syndrome type 1B",
+      "disease_name": "Usher Syndrome Type 1",
       "disease_id": "OMIM:276900",
-      "score": 0.2,
-      "explanation": "Presents with congenital profound sensorineural hearing loss and speech delays, but typically includes progressive retinitis pigmentosa which is not reported here."
+      "score": 0.5,
+      "explanation": "Presents with congenital profound sensorineural hearing loss and delayed motor/speech milestones. Would need ophthalmologic evaluation to confirm."
     },
     {
-      "disease_name": "Waardenburg syndrome type 2A",
+      "disease_name": "Waardenburg Syndrome Type 1",
+      "disease_id": "OMIM:193500",
+      "score": 0.33,
+      "explanation": "Can present with sensorineural hearing loss and secondary speech delays. Would typically have additional features like heterochromia or white forelock."
+    },
+    {
+      "disease_name": "Waardenburg Syndrome Type 2",
       "disease_id": "OMIM:193510",
+      "score": 0.25,
+      "explanation": "Similar to Type 1 but without dystopia canthorum. Hearing loss is the primary feature with secondary speech delays."
+    },
+    {
+      "disease_name": "Jervell and Lange-Nielsen Syndrome",
+      "disease_id": "OMIM:220400",
+      "score": 0.2,
+      "explanation": "Presents with congenital profound sensorineural deafness and speech delays. Associated with long QT syndrome - cardiac evaluation needed."
+    },
+    {
+      "disease_name": "Branchio-Oto-Renal Syndrome",
+      "disease_id": "OMIM:113650",
       "score": 0.17,
-      "explanation": "Can present with sensorineural hearing loss and speech delays, but usually includes pigmentary abnormalities of hair, skin, and eyes not mentioned in this case."
+      "explanation": "Can present with sensorineural or mixed hearing loss and speech delays. Would typically have branchial or renal anomalies."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.14,
+      "explanation": "Can include sensorineural hearing loss and developmental delays. Would expect multiple other anomalies (coloboma, choanal atresia, etc.)."
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.125,
+      "explanation": "Progressive sensorineural hearing loss can occur, though typically later onset. Would need renal and ophthalmologic evaluation."
     }
   ]
 }
