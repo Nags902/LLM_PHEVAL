@@ -121,32 +121,32 @@ def Extract_Data_query_deepseek(
 
     # Step 4) Query LLM via API
     try:
-        ## Query DeepSeek
-        # client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
+        # Query DeepSeek
+        client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
 
-        # response = client.chat.completions.create(
-        #     model="deepseek-chat",
-        #     messages=[
-        #         {"role": "system", "content": "You are a helpful assistant"},
-        #         {"role": "user", "content": prompt},
-        #     ],
-        #     stream=False,
-        # )
-        #raw = response.choices[0].message.content
-
-        
-        ## Query Open ai
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-  
-        # Open ai API
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model="deepseek-chat",
             messages=[
-                {"role": "system", "content": "You are a helpful disease diagnostician."},
-                {"role": "user", "content": prompt}
-            ]
+                {"role": "system", "content": "You are a helpful assistant"},
+                {"role": "user", "content": prompt},
+            ],
+            stream=False,
         )
         raw = response.choices[0].message.content
+
+        
+        # ## Query Open ai
+        # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+  
+        # # Open ai API
+        # response = client.chat.completions.create(
+        #     model="gpt-4o",
+        #     messages=[
+        #         {"role": "system", "content": "You are a helpful disease diagnostician."},
+        #         {"role": "user", "content": prompt}
+        #     ]
+        # )
+        # raw = response.choices[0].message.content
 
 
         # ## Query claude anthropic API Key
