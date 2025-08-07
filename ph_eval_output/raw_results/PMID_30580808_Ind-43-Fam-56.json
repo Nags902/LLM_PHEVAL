@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is a strong candidate as it frequently presents with craniofacial anomalies including hypertelorism and orofacial clefts (e.g., cleft lip/palate). Critically, severe sleep abnormalities, particularly central sleep apnea and obstructive sleep apnea due to choanal atresia or laryngeal anomalies, are very common and a key feature, aligning well with all listed phenotypes."
+    },
+    {
+      "disease_name": "Opitz G/BBB Syndrome, X-linked",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Hypertelorism and orofacial clefts (cleft lip/palate) are cardinal features of Opitz G/BBB Syndrome. While 'sleep abnormality' is a broad term, neurological issues, developmental delay, and other associated conditions that can impact sleep are frequently reported, making this a highly relevant consideration."
+    },
+    {
+      "disease_name": "Opitz G/BBB Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:613110",
+      "score": 0.333,
+      "explanation": "Similar to the X-linked form, this autosomal dominant form (due to SPECC1L mutations) also characteristically presents with hypertelorism and orofacial clefts. Neurological symptoms that may include sleep disturbances are described, aligning closely with the patient's phenotypic profile."
+    },
+    {
+      "disease_name": "Frontonasal Dysplasia 1 (ALX3-related)",
+      "disease_id": "OMIM:605481",
+      "score": 0.25,
+      "explanation": "Frontonasal dysplasia is characterized by severe hypertelorism and median facial clefting, including cleft lip and/or palate, which are prominent features in this patient. While sleep abnormality is not a primary diagnostic criterion, associated brain malformations or the severity of craniofacial anomalies could lead to sleep disturbances."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.2,
+      "explanation": "Patients with 22q11.2 deletion syndrome frequently present with widely spaced eyes (hypertelorism) and a very high incidence of palatal anomalies, including cleft palate or velopharyngeal insufficiency. Sleep abnormalities are also common due to airway issues, neurodevelopmental challenges, or psychiatric comorbidities associated with the syndrome."
+    }
+  ]
+}

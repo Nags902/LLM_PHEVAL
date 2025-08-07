@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 1.0,
+      "explanation": "Spinocerebellar Ataxia Type 3 (SCA3) is the most common form of autosomal dominant cerebellar ataxia worldwide. It frequently presents in adulthood (typically 20s-40s) with progressive gait ataxia (unsteady gait) and nystagmus, making it a strong candidate for the patient's symptoms and age."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "SCA2 is another relatively common autosomal dominant ataxia. It typically manifests in adulthood with progressive cerebellar ataxia, prominent gait instability, and nystagmus, often accompanied by characteristic slow saccadic eye movements. The age of onset aligns well with the patient's presentation."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.333,
+      "explanation": "SCA1 is a significant form of autosomal dominant cerebellar ataxia. Its clinical presentation includes progressive cerebellar dysfunction leading to unsteady gait and nystagmus. The typical age of onset, often in the 3rd or 4th decade of life, is consistent with the patient's age."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 6",
+      "disease_id": "OMIM:183086",
+      "score": 0.25,
+      "explanation": "SCA6 is characterized by a relatively pure cerebellar phenotype, meaning that gait ataxia and nystagmus are often the predominant or sole features. While onset is often later (40s-60s), it can occur in the 30s, making it a relevant consideration given the symptoms."
+    },
+    {
+      "disease_name": "Ataxia with Vitamin E Deficiency",
+      "disease_id": "OMIM:277460",
+      "score": 0.2,
+      "explanation": "This autosomal recessive disorder presents with progressive cerebellar ataxia and nystagmus, clinically mimicking Friedreich ataxia but often with a later onset and no cardiomyopathy. It is crucial to consider due to its treatability with vitamin E supplementation."
+    },
+    {
+      "disease_name": "Coenzyme Q10 Deficiency, Primary, 1 (ADCK3-related)",
+      "disease_id": "OMIM:607426",
+      "score": 0.167,
+      "explanation": "Primary CoQ10 deficiencies are a group of genetic disorders that can present with varied neurological symptoms. The ADCK3-related type is known to cause progressive cerebellar ataxia and nystagmus, with adult onset possible, and may respond to CoQ10 supplementation."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease, Type C1",
+      "disease_id": "OMIM:257220",
+      "score": 0.143,
+      "explanation": "While highly variable, adult-onset Niemann-Pick Type C1 can present with a prominent progressive cerebellar ataxia and nystagmus. Although other features like vertical supranuclear gaze palsy and cognitive decline are common, the core cerebellar symptoms make it a possible differential."
+    }
+  ]
+}

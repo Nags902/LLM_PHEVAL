@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome with Multiple Lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "This syndrome, also known as LEOPARD syndrome, is highly consistent with the patient's features. It is characterized by lentigines (which can present as freckling), cafe-au-lait spots (present in a significant subset of patients), and pulmonic stenosis as a common congenital heart defect, explaining all reported features."
+    },
+    {
+      "disease_name": "Neurofibromatosis, Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.5,
+      "explanation": "Neurofibromatosis type 1 is classically characterized by multiple cafe-au-lait spots and freckling (especially axillary or inguinal), which are cardinal diagnostic features. Pulmonic stenosis, particularly peripheral pulmonic stenosis, can be a less common but recognized cardiovascular manifestation associated with the disorder."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome, particularly the common PTPN11-related type (Noonan Syndrome 1), is strongly associated with pulmonic stenosis, which is a key feature in this patient. While generalized freckling and numerous cafe-au-lait spots are less consistently present compared to NF1 or Noonan Syndrome with Multiple Lentigines, the prominence of the cardiac defect necessitates its inclusion in the differential diagnosis."
+    }
+  ]
+}

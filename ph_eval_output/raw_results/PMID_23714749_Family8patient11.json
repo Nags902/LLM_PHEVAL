@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 2 (hepatocerebral type)",
+      "disease_id": "OMIM:601202",
+      "score": 1.0,
+      "explanation": "This is a very strong candidate. Mutations in the DGUOK gene are a leading cause of infantile hepatocerebral mitochondrial DNA depletion syndrome, which perfectly matches the patient's key findings of depletion of mitochondrial DNA in the liver, jaundice, abnormality of the coagulation cascade (due to liver failure), feeding difficulties, and hypotonia. The onset at P1Y3M is consistent with this severe early-onset disorder."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 1 (hepatocerebral type) (Alpers-Huttenlocher syndrome)",
+      "disease_id": "OMIM:203700",
+      "score": 0.5,
+      "explanation": "Alpers-Huttenlocher syndrome, caused by mutations in the POLG gene, is a well-known severe progressive neurodegenerative disorder with prominent liver involvement and mitochondrial DNA depletion. It frequently presents in infancy or early childhood with intractable seizures, developmental regression, hypotonia, liver failure (leading to jaundice and coagulopathy), and fits all the patient's described symptoms, including the critical finding of liver mitochondrial DNA depletion."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)",
+      "disease_id": "OMIM:612075",
+      "score": 0.33,
+      "explanation": "Mutations in the MPV17 gene cause a severe hepatocerebral form of mitochondrial DNA depletion syndrome, characterized by progressive liver failure, neurological dysfunction (including hypotonia), and depletion of mitochondrial DNA in affected tissues like the liver. This diagnosis accounts for all the patient's phenotypic features and age of onset."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)",
+      "disease_id": "OMIM:612073",
+      "score": 0.25,
+      "explanation": "Deficiency of SUCLG1 leads to a severe infantile-onset mitochondrial DNA depletion syndrome with significant hepatocerebral involvement. Clinical features typically include hypotonia, developmental delay, and progressive liver dysfunction, which aligns well with the patient's jaundice, coagulation abnormalities, and liver mitochondrial DNA depletion."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A (Alpers-like)",
+      "disease_id": "OMIM:606075",
+      "score": 0.2,
+      "explanation": "Mutations in the TWNK (C10orf2) gene can cause a spectrum of mitochondrial disorders, including an Alpers-like presentation with liver involvement and mitochondrial DNA depletion. This can manifest with liver failure, neurological symptoms like hypotonia, and developmental issues, making it a plausible, albeit less common, cause for the patient's complex presentation."
+    }
+  ]
+}

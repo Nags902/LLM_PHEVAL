@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall syndrome",
+      "disease_id": "OMIM:146580",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent fit, as it is classically characterized by the presence of hypothalamic hamartomas, postaxial polydactyly, and highly specific Y-shaped metacarpals and metatarsals. Other consistent features include shortening of distal phalanges, growth delay, intellectual disability (often associated with seizures from the hamartoma), anal atresia (imperforate anus), and nail dysplasia, all of which align perfectly with the patient's reported phenotypic features."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.5,
+      "explanation": "McKusick-Kaufman Syndrome is considered as a distant differential due to shared features such as postaxial polydactyly and anal atresia. However, it does not typically present with hypothalamic hamartoma or the very specific Y-shaped metacarpals and metatarsals, which are critical and unique findings in this patient's presentation and are hallmarks of Pallister-Hall syndrome. The overlap is limited to only a few, less specific features."
+    }
+  ]
+}

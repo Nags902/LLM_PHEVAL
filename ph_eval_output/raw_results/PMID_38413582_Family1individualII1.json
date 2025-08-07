@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis, as it perfectly aligns with the vast majority of the patient's severe and specific myopathic features including P9Y age of onset, male gender, proximal and distal muscle weakness, axial weakness, motor delay, difficulty climbing stairs, unsteady gait, limb joint contractures, scoliosis, calf muscle pseudohypertrophy, Gowers sign, highly elevated creatine kinase, increased endomysial connective tissue on biopsy, and myopathic abnormalities on EMG. The only significant discrepancy is 'pain insensitivity', which is not a typical feature of Duchenne Muscular Dystrophy. This could represent an extremely rare atypical presentation, a co-occurring condition, or warrant further re-evaluation."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Becker Muscular Dystrophy is an allelic, generally milder form of Duchenne Muscular Dystrophy, caused by mutations in the same DMD gene. It shares many core features such as proximal muscle weakness, calf pseudohypertrophy, Gowers sign, highly elevated creatine kinase, and myopathic EMG. While it typically has a later onset and slower progression than DMD, the P9Y age could fit, especially if the progression is still significant. Similar to DMD, pain insensitivity is not a characteristic feature."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Type 2D (Alpha-sarcoglycanopathy)",
+      "disease_id": "OMIM:608099",
+      "score": 0.33,
+      "explanation": "Several forms of Limb-Girdle Muscular Dystrophy (LGMD), particularly the sarcoglycanopathies (like LGMD2D), can present with a phenotype strikingly similar to Duchenne/Becker Muscular Dystrophy, including severe proximal weakness, calf pseudohypertrophy, Gowers sign, and highly elevated creatine kinase. These are progressive myopathies with onset in childhood. However, pain insensitivity is not a typical feature of LGMDs."
+    },
+    {
+      "disease_name": "Peripheral neuropathy, myopathy, and pain insensitivity (TRPM3-related)",
+      "disease_id": "OMIM:619047",
+      "score": 0.25,
+      "explanation": "This rare genetic disorder directly explains the combination of 'pain insensitivity' and 'myopathy' along with peripheral neuropathy, which might account for the distal weakness. It could also explain general weakness and motor delay. However, the highly specific and severe myopathic hallmarks such as 'calf muscle pseudohypertrophy', 'Gowers sign', and 'highly elevated creatine kinase' are not typically characteristic or as pronounced in TRPM3-related disorders as they are in dystrophinopathies. It is ranked lower due to a less precise fit for the specific type and severity of muscle pathology described."
+    }
+  ]
+}

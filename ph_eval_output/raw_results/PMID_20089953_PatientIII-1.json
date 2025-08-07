@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Camurati-Engelmann Disease",
+      "disease_id": "OMIM:131300",
+      "score": 1.0,
+      "explanation": "This disease is strongly characterized by 'diaphyseal undertubulation' (due to cortical thickening of long bone diaphyses), 'proptosis' (due to skull base involvement), and often causes 'delayed gross motor development' due to pain and muscle weakness. While typically associated with osteosclerosis, the abnormal bone structure can lead to 'recurrent fractures'. 'Osteopenia' may be a relative or secondary finding, and 'pes planus,' 'flat occiput,' and 'narrow chest' can be associated. This is the best fit for the highly specific diaphyseal undertubulation."
+    },
+    {
+      "disease_name": "Craniometaphyseal Dysplasia, Autosomal Dominant",
+      "disease_id": "OMIM:123000",
+      "score": 0.5,
+      "explanation": "This condition presents with 'diaphyseal undertubulation' (widened diaphyses) and 'metaphyseal flaring', along with progressive cranial hyperostosis that can cause 'proptosis'. 'Delayed gross motor development' is common due to skeletal issues. 'Osteopenia' and 'recurrent fractures' are reported, although their prevalence and severity vary. 'Flat occiput,' 'narrow chest,' and 'pes planus' are consistent with a generalized skeletal dysplasia."
+    },
+    {
+      "disease_name": "Craniometaphyseal Dysplasia, Autosomal Recessive",
+      "disease_id": "OMIM:218400",
+      "score": 0.333,
+      "explanation": "Similar to the autosomal dominant form, this typically more severe variant also features prominent 'diaphyseal undertubulation' (widened diaphyses), cranial anomalies leading to 'proptosis,' and 'delayed gross motor development.' 'Osteopenia' and 'recurrent fractures' can occur, and other skeletal features like 'flat occiput,' 'narrow chest,' and 'pes planus' are compatible."
+    },
+    {
+      "disease_name": "Osteoporosis-Pseudoglioma Syndrome",
+      "disease_id": "OMIM:259770",
+      "score": 0.25,
+      "explanation": "This syndrome is characterized by severe 'osteopenia' and 'recurrent fractures' from early childhood, which are primary features and strong matches. While it involves ocular anomalies, 'proptosis' is not a typical manifestation, and importantly, 'diaphyseal undertubulation' is inconsistent; bones in OPPG are typically gracile. Therefore, despite matching fractures and osteopenia well, the specific bone morphology does not align, making it less likely."
+    },
+    {
+      "disease_name": "Dysosteosclerosis",
+      "disease_id": "OMIM:224300",
+      "score": 0.2,
+      "explanation": "This rare sclerosing bone dysplasia can present with dense but brittle bones, leading to 'recurrent fractures.' Some descriptions mention generalized skeletal involvement with widened diaphyses which might relate to 'diaphyseal undertubulation.' However, the primary bone finding is osteosclerosis, not 'osteopenia.' 'Proptosis' and 'narrow chest' are not consistently reported as major features, making it a weaker fit compared to the top candidates."
+    }
+  ]
+}

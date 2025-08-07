@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Trichorhinophalangeal Syndrome Type II",
+      "disease_id": "OMIM:150230",
+      "score": 1.0,
+      "explanation": "This syndrome (also known as Langer-Giedion syndrome) aligns strongly with several key features. It characteristically presents with moderately short stature, long philtrum, short nose (often bulbous), and thin upper lip vermilion. Crucially, it causes multiple osteochondromas, which directly explain the limitation of joint mobility and contributes to short stature and short limbs (short palm, short foot due to brachydactyly from cone epiphyses). While 'smooth philtrum', 'hypertelorism', and 'full cheeks' are not classic defining features, there can be phenotypic variability. The combination of very specific facial features and the prominent skeletal/joint findings makes it a top candidate."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type VI, severe form",
+      "disease_id": "OMIM:253200",
+      "score": 0.5,
+      "explanation": "Maroteaux-Lamy syndrome (MPS VI) is a strong candidate due to the severe skeletal and joint involvement. Patients typically present with moderately short stature, profound limitation of joint mobility due to dysostosis multiplex, and short, broad hands and feet (short palm, short foot). Facial features can include hypertelorism, full cheeks, and a broad or short nose, aligning with several listed features. The main discrepancy lies in the specific philtrum and lip descriptions ('long philtrum', 'smooth philtrum', 'thin upper lip vermilion'), as MPS facial coarsening usually involves thick lips and a less specific philtrum. However, the strong match on the skeletal and joint phenotype makes it highly plausible."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I, Hurler-Scheie Syndrome",
+      "disease_id": "OMIM:607014",
+      "score": 0.33,
+      "explanation": "Similar to MPS VI, Hurler-Scheie syndrome (a subtype of MPS I) robustly explains the moderately short stature, severe limitation of joint mobility, and skeletal changes leading to short palm and short foot (dysostosis multiplex). It also commonly features coarse facial characteristics such as hypertelorism, full cheeks, and a broad nose. The inconsistencies with 'long philtrum', 'smooth philtrum', and 'thin upper lip vermilion' are similar to those of MPS VI. Given the patient's age (P14Y), the intermediate severity of Hurler-Scheie is more consistent than the very severe Hurler form, which typically presents earlier."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange syndrome (most commonly caused by NIPBL mutations, hence type 1) is a good fit for several specific facial features including long philtrum, thin upper lip vermilion, and short nose. Moderately short stature is also a hallmark. While joint limitation can occur, particularly in severe forms or related to limb defects, it is not as universally prominent as in MPS or TRPS II. 'Smooth philtrum' is generally not a defining characteristic (CdLS often has a distinct philtrum), nor are 'hypertelorism' or 'full cheeks'. The absence of other classic CdLS features like synophrys or downturned mouth also reduces its overall fit, but the specific philtrum/lip match remains notable."
+    }
+  ]
+}

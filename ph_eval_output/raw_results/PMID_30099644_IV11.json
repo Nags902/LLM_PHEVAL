@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinitis Pigmentosa 1",
+      "disease_id": "OMIM:180100",
+      "score": 1.0,
+      "explanation": "This is a common form of inherited rod-cone dystrophy characterized by progressive photoreceptor and retinal pigment epithelial (RPE) degeneration, leading to reduced visual acuity and a profoundly abnormal electroretinogram. Retinal pigment epithelial mottling is a frequent finding, fitting all reported phenotypic features."
+    },
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "The most common inherited macular dystrophy, caused by mutations in ABCA4. It presents with progressive central vision loss (reduced visual acuity), characteristic RPE flecks/mottling, and can progress to generalized RPE and photoreceptor atrophy, resulting in an abnormal electroretinogram."
+    },
+    {
+      "disease_name": "Choroideremia",
+      "disease_id": "OMIM:303100",
+      "score": 0.33,
+      "explanation": "An X-linked recessive chorioretinal degeneration primarily affecting males (matching patient gender), leading to widespread progressive atrophy of the choroid, retinal pigment epithelium (RPE), and photoreceptors. It causes night blindness, reduced visual acuity, prominent RPE mottling/atrophy, and a severely abnormal or extinguished electroretinogram."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 6",
+      "disease_id": "OMIM:600977",
+      "score": 0.25,
+      "explanation": "A progressive retinal degeneration primarily affecting cone photoreceptors then rods, characterized by central visual acuity loss, photophobia, and often RPE changes. The electroretinogram typically shows primary cone dysfunction and is abnormal, consistent with the patient's features."
+    },
+    {
+      "disease_name": "Gyrate Atrophy of Choroid and Retina",
+      "disease_id": "OMIM:258870",
+      "score": 0.2,
+      "explanation": "A rare autosomal recessive metabolic disorder causing progressive chorioretinal atrophy, including RPE degeneration and mottling. It presents with night blindness, reduced visual acuity, and a severely abnormal or extinguished electroretinogram, strongly matching the phenotypic features."
+    }
+  ]
+}

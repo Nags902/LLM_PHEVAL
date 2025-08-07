@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Primary microcephaly 1",
+      "disease_id": "OMIM:251200",
+      "score": 1.0,
+      "explanation": "This is a classic form of primary microcephaly, defined by congenital microcephaly, intellectual disability, and developmental delays, perfectly matching the patient's core phenotypic features without other major malformations."
+    },
+    {
+      "disease_name": "Primary microcephaly 2",
+      "disease_id": "OMIM:604321",
+      "score": 0.5,
+      "explanation": "Similar to Primary Microcephaly 1, this condition is also characterized by significantly reduced head circumference at birth, intellectual disability, and global developmental delays, making it a very strong candidate."
+    },
+    {
+      "disease_name": "Primary microcephaly 3",
+      "disease_id": "OMIM:604804",
+      "score": 0.33,
+      "explanation": "Another distinct genetic subtype of primary microcephaly, which consistently presents with microcephaly, intellectual disability, and delayed motor and speech development, aligning well with the patient's profile."
+    },
+    {
+      "disease_name": "Lissencephaly, isolated, sequence",
+      "disease_id": "OMIM:607432",
+      "score": 0.25,
+      "explanation": "This category encompasses various brain malformations characterized by a smooth brain surface. Patients often present with severe intellectual disability, global developmental delays (including motor and speech), and microcephaly, making it a strong neurological match."
+    },
+    {
+      "disease_name": "Cri-du-chat syndrome",
+      "disease_id": "OMIM:123450",
+      "score": 0.2,
+      "explanation": "A chromosomal deletion syndrome consistently associated with microcephaly, severe intellectual disability, delayed motor and speech development, and characteristic facial features, fitting the described phenotypic profile."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.166,
+      "explanation": "This microdeletion syndrome is characterized by severe intellectual disability, global developmental delay, and microcephaly, along with distinctive facial features, making it a relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.142,
+      "explanation": "A metabolic disorder that often presents with microcephaly, intellectual disability, and global developmental delays. Although typically associated with other dysmorphic features, the core neurological symptoms are a good match."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.125,
+      "explanation": "While microcephaly can be variable, Cornelia de Lange syndrome is consistently characterized by intellectual disability, significant developmental delays (motor and speech), and growth retardation, making it a possible syndromic cause."
+    }
+  ]
+}

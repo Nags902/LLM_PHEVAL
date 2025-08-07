@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibroma is a pathognomonic and defining feature of Neurofibromatosis type 1 (NF1). Its presence is considered a major diagnostic criterion for NF1 and is highly specific to this condition."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius Syndrome (NF1-like syndrome) shares some features with NF1, such as caf\u00e9-au-lait macules and freckling, but specifically *does not* include neurofibromas (cutaneous or plexiform). While often considered in the differential diagnosis of NF1-like presentations, the presence of a plexiform neurofibroma makes this diagnosis highly unlikely."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.33,
+      "explanation": "Neurofibromatosis type 2 (NF2) is characterized by the development of vestibular schwannomas, meningiomas, and ependymomas. Plexiform neurofibromas are not a feature of NF2. This diagnosis is highly improbable based on the provided symptom but is included due to its classification as a major neurofibromatosis and potential for other nerve sheath tumors."
+    }
+  ]
+}

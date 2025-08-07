@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber Congenital Amaurosis 1 (GUCY2D-related)",
+      "disease_id": "OMIM:204000",
+      "score": 1.0,
+      "explanation": "Leber Congenital Amaurosis (LCA) is the most fitting diagnosis. It typically presents with profound congenital or early-onset vision loss (very low visual acuity), nystagmus, and often hypermetropia. The 'eye poking' (oculo-digital sign of Franceschetti) is a highly characteristic feature of severe early childhood blindness, particularly LCA."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 2 (RPE65-related)",
+      "disease_id": "OMIM:204100",
+      "score": 1.0,
+      "explanation": "Leber Congenital Amaurosis (LCA) is the most fitting diagnosis. It typically presents with profound congenital or early-onset vision loss (very low visual acuity), nystagmus, and often hypermetropia. The 'eye poking' (oculo-digital sign of Franceschetti) is a highly characteristic feature of severe early childhood blindness, particularly LCA."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 10 (CEP290-related)",
+      "disease_id": "OMIM:611755",
+      "score": 1.0,
+      "explanation": "Leber Congenital Amaurosis (LCA) is the most fitting diagnosis. It typically presents with profound congenital or early-onset vision loss (very low visual acuity), nystagmus, and often hypermetropia. The 'eye poking' (oculo-digital sign of Franceschetti) is a highly characteristic feature of severe early childhood blindness, particularly LCA."
+    },
+    {
+      "disease_name": "Achromatopsia 1 (CNGA3-related)",
+      "disease_id": "OMIM:262300",
+      "score": 0.5,
+      "explanation": "Achromatopsia is a strong differential. It involves severe impairment of cone function, leading to very low visual acuity, nystagmus, and typically severe photophobia (often associated with eye poking in young children with severe vision loss). Hypermetropia is also a common refractive error in achromatopsia."
+    },
+    {
+      "disease_name": "Achromatopsia 2 (CNGB3-related)",
+      "disease_id": "OMIM:216900",
+      "score": 0.5,
+      "explanation": "Achromatopsia is a strong differential. It involves severe impairment of cone function, leading to very low visual acuity, nystagmus, and typically severe photophobia (often associated with eye poking in young children with severe vision loss). Hypermetropia is also a common refractive error in achromatopsia."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 1 (GUCY2D-related)",
+      "disease_id": "OMIM:120970",
+      "score": 0.33,
+      "explanation": "Early-onset severe cone-rod dystrophies can present similarly to LCA with profound early childhood visual impairment, nystagmus, and hypermetropia. Eye poking can be a secondary compensatory behavior due to the severe vision loss. GUCY2D mutations can cause both LCA and CRD, indicating a spectrum of phenotypes."
+    }
+  ]
+}

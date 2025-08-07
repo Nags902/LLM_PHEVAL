@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Vici syndrome",
+      "disease_id": "OMIM:257000",
+      "score": 1.0,
+      "explanation": "This syndrome perfectly matches the patient's comprehensive presentation. It characteristically includes combined immunodeficiency (decreased IgG, IgA, IgM, recurrent infections), significant bone marrow features (myelodysplasia, pancytopenia, neutropenia, thrombocytopenia, increased mean corpuscular volume), and a complete set of neurological symptoms, including cerebellar atrophy, nystagmus, dysmetria, and ankle clonus. All described features are hallmarks of Vici syndrome."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Ataxia-telangiectasia shares significant neurological features (cerebellar atrophy, nystagmus, dysmetria, ataxia) and prominent immunodeficiency (recurrent infections, variable Ig deficiencies, especially IgA). While myelodysplasia and pancytopenia can occur in A-T, they are not as consistently central to the initial presentation as in Vici syndrome, nor is macrocytosis a typical feature. However, given the strong neuro-immunologic overlap, it remains a key differential diagnosis."
+    },
+    {
+      "disease_name": "Nijmegen breakage syndrome",
+      "disease_id": "OMIM:251260",
+      "score": 0.333,
+      "explanation": "Nijmegen Breakage Syndrome is characterized by immunodeficiency (including hypogammaglobulinemia), radiation sensitivity, and an increased cancer risk, alongside some neurological features (microcephaly, intellectual disability, and variable ataxia). While bone marrow failure and malignancy risk are present, myelodysplasia and the specific constellation of cerebellar atrophy with significant pancytopenia and macrocytosis are less prominent primary features compared to Vici syndrome."
+    }
+  ]
+}

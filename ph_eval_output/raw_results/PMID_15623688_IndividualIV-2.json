@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG is the most common congenital disorder of glycosylation and typically presents in early childhood with a characteristic phenotype including global developmental delay, intellectual disability (which can be borderline), hypotonia, and significant cerebellar dysfunction leading to prominent gait ataxia and delayed motor milestones like walking. Delayed speech and language development are also hallmark features. This disease highly matches all the provided phenotypic features at the patient's age."
+    },
+    {
+      "disease_name": "Mitochondrial Ataxia, Developmental Delay, and Encephalopathy (e.g., POLG-related disorders)",
+      "disease_id": "OMIM:605721",
+      "score": 0.5,
+      "explanation": "Mitochondrial disorders are a broad and heterogeneous group, many of which can manifest with a combination of global developmental delay, intellectual disability (ranging from mild to severe), and progressive or static ataxia in early childhood. Delayed motor milestones and speech development are also common. Disorders like those caused by mutations in the POLG gene (e.g., POLG-related ataxia, encephalopathy) are known to present with these neurological features, making this a strong diagnostic consideration given the patient's symptoms."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.33,
+      "explanation": "Ataxia-telangiectasia is a progressive neurodegenerative disorder characterized by early-onset progressive cerebellar ataxia, typically beginning in the preschool years (age 1-4), leading to gait instability and difficulties with walking. Global developmental delay and dysarthria (speech difficulties) are common. While not a primary feature, cognitive decline or intellectual disability, including borderline, can be present. The absence of telangiectasias or immune dysfunction in the listed features makes it a slightly less definitive match without further information, but the core neurological symptoms are highly consistent."
+    },
+    {
+      "disease_name": "Early-Onset Cerebellar Ataxia, Autosomal Recessive (various forms)",
+      "disease_id": "OMIM:613619",
+      "score": 0.25,
+      "explanation": "This is a broad category encompassing various genetic conditions that primarily cause cerebellar dysfunction leading to early-onset ataxia. While many inherited ataxias are adult-onset, a subset presents in early childhood with prominent gait ataxia and delayed motor development. Global developmental delay, including cognitive and speech components, can also be part of the phenotype for certain forms of autosomal recessive cerebellar ataxia, though the degree of intellectual disability varies significantly across different genes."
+    }
+  ]
+}

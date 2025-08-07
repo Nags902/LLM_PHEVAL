@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spastic Paraplegia 7, Autosomal Recessive",
+      "disease_id": "OMIM:607259",
+      "score": 1.0,
+      "explanation": "This disease, caused by variations in the SPG7 gene, is a common form of complicated hereditary spastic paraplegia. It is characterized by a prominent combination of progressive spasticity (upper and lower limbs) and cerebellar ataxia, dysarthria, and often cerebellar atrophy, including the vermis. Adult onset is typical, making it an excellent fit for all the patient's presented features."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.5,
+      "explanation": "SCA3 is the most common autosomal dominant spinocerebellar ataxia. It frequently presents with a prominent combination of ataxia, dysarthria, and spasticity (upper and lower limbs), along with other features such as ophthalmoplegia (not listed but common). Cerebellar atrophy, including the vermis, is a hallmark. The adult onset and combination of spasticity and ataxia align well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 28",
+      "disease_id": "OMIM:613674",
+      "score": 0.333,
+      "explanation": "SCA28 is a rare autosomal dominant spinocerebellar ataxia specifically characterized by a combination of cerebellar ataxia and spasticity, dysarthria, and occasionally ophthalmoplegia. Cerebellar atrophy is a known imaging finding. This specific subtype directly matches the core 'spastic ataxia' phenotype observed in the patient."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.25,
+      "explanation": "SCA1 is another significant autosomal dominant spinocerebellar ataxia that can present with a combination of cerebellar ataxia, dysarthria, and spasticity (hyperreflexia, spasticity in limbs). Cerebellar atrophy is a common pathological finding. The adult onset and a strong overlap in key neurological symptoms make it a plausible candidate."
+    },
+    {
+      "disease_name": "Spastic Paraplegia 5A, Autosomal Recessive",
+      "disease_id": "OMIM:615682",
+      "score": 0.2,
+      "explanation": "SPG5A is an autosomal recessive complicated hereditary spastic paraplegia. It is characterized by progressive spasticity, particularly in the lower limbs, combined with cerebellar ataxia, dysarthria, and often cognitive impairment. While less common than SPG7, its phenotype strongly overlaps with the patient's presentation of spastic ataxia and cerebellar signs."
+    }
+  ]
+}

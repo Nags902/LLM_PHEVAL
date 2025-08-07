@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Acidemia, Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The presence of elevated urine 3-hydroxyglutaric acid and glutaric aciduria are pathognomonic biochemical findings for Glutaric Acidemia Type I. Furthermore, the clinical presentation with acute encephalopathy, dystonia, inability to walk, absent speech, macrocephaly, and characteristic neuroimaging findings such as enlarged sylvian cisterns, are highly consistent with this condition. Subdural hemorrhage has also been reported in some individuals with Glutaric Acidemia Type I."
+    },
+    {
+      "disease_name": "Glutaric Acidemia, Type II",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Also known as Multiple Acyl-CoA Dehydrogenase Deficiency (MADD), this condition also involves glutaric aciduria (though typically alongside a broader spectrum of other organic acids) and can present with acute encephalopathy, seizures, and severe neurological dysfunction. However, the specific and predominant elevation of 3-hydroxyglutaric acid, along with the distinct enlarged sylvian cisterns, are highly characteristic of Glutaric Acidemia Type I and less typical for MADD. Glutaric Acidemia Type II is genetically heterogeneous, caused by mutations in ETFA, ETFB, or ETFDH genes (e.g., OMIM:231680 for ETFA-related)."
+    }
+  ]
+}

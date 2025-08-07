@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Diamond-Blackfan Anemia 1",
+      "disease_id": "OMIM:105650",
+      "score": 1.0,
+      "explanation": "All presented phenotypic features are highly characteristic of Diamond-Blackfan Anemia (DBA), particularly the combination of macrocytic anemia, persistence of hemoglobin F, and especially the elevated red cell adenosine deaminase activity, which is a classic diagnostic marker for DBA. Short stature is also a common feature. Diamond-Blackfan Anemia 1, caused by mutations in the RPS19 gene, is the most common genetic subtype of DBA, making it the most likely specific causative disease."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia 2",
+      "disease_id": "OMIM:612502",
+      "score": 0.5,
+      "explanation": "This is another major genetic subtype of Diamond-Blackfan Anemia, caused by mutations in the RPL5 gene. It presents with the same clinical features as other forms of DBA, including macrocytic anemia, elevated HbF, and high red cell ADA activity. It is the second most common genetic cause of DBA, thus highly consistent with the patient's phenotype."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia 3",
+      "disease_id": "OMIM:612503",
+      "score": 0.33,
+      "explanation": "Caused by mutations in the RPL11 gene, this is another significant genetic subtype of Diamond-Blackfan Anemia. It shares all the key phenotypic features observed in the patient, including anemia, macrocytosis, elevated red cell ADA, persistence of HbF, and short stature. It is among the more common genetic causes of DBA, making it a strong candidate."
+    },
+    {
+      "disease_name": "Congenital Dyserythropoietic Anemia Type I",
+      "disease_id": "OMIM:224100",
+      "score": 0.25,
+      "explanation": "While sharing features like macrocytic anemia and persistence of hemoglobin F, and occasionally short stature, Congenital Dyserythropoietic Anemia Type I does not typically present with the highly specific finding of elevated red cell adenosine deaminase activity. This makes it a less likely diagnosis compared to Diamond-Blackfan Anemia, but it is considered a distant alternative due to some overlapping hematological features."
+    }
+  ]
+}

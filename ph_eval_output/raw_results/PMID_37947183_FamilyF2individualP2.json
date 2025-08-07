@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This disorder is a strong match, characterized by early-onset intractable seizures (often including status epilepticus and myoclonus), severe global developmental delay, profound hypotonia, and commonly visual impairment with nystagmus. All key phenotypic features align well with the typical presentation of CDKL5 Deficiency Disorder."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Dravet Syndrome (Severe Myoclonic Epilepsy in Infancy) is a prominent candidate due to the presence of status epilepticus, myoclonus, and global developmental delay. Hypotonia is also common, especially in early stages. While nystagmus is less specific, the core epileptic and developmental features strongly overlap with this condition."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.333,
+      "explanation": "STXBP1 encephalopathy is a severe epileptic encephalopathy often presenting with early-onset seizures (including status epilepticus), significant global developmental delay, hypotonia, and various movement disorders, including myoclonus. The constellation of symptoms is highly consistent with this diagnosis."
+    },
+    {
+      "disease_name": "KCNQ2-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "KCNQ2-related epileptic encephalopathy is characterized by early-onset seizures (which can include status epilepticus), global developmental delay, and hypotonia. Myoclonus can also be present, making it a plausible candidate for the described phenotype."
+    },
+    {
+      "disease_name": "GNAO1-Related Neurodevelopmental Disorder",
+      "disease_id": "OMIM:615473",
+      "score": 0.2,
+      "explanation": "GNAO1-related disorders can manifest with early-onset movement disorders (including prominent myoclonus), hypotonia, developmental delay, and seizures. While other features might vary, the presence of myoclonus, global developmental delay, and seizures makes it a relevant consideration."
+    },
+    {
+      "disease_name": "CLN2 Disease (Late Infantile Neuronal Ceroid Lipofuscinosis Type 2)",
+      "disease_id": "OMIM:204500",
+      "score": 0.167,
+      "explanation": "CLN2 disease, a type of neuronal ceroid lipofuscinosis, typically presents with developmental regression, but early stages can involve developmental delay, intractable seizures (often myoclonic), and visual impairment leading to nystagmus. Hypotonia is also an early feature before the onset of spasticity. Given the severe neurological involvement, including myoclonus and seizures, it warrants consideration, especially if other genetic encephalopathies are ruled out."
+    }
+  ]
+}

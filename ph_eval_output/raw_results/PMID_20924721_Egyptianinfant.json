@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This syndrome presents a strong overall match for the majority of the patient's features. The characteristic combination of a long philtrum, depressed nasal bridge, short nose, flat face, deeply set eyes, and short neck aligns well. The significant limb anomalies, including talipes equinovarus, camptodactyly, and overlapping toe, are also highly consistent with CdLS, which commonly involves congenital contractures and limb differences. While 'cleft ala nasi' is not a typical classic feature, severe nasal malformations can occur within the broad phenotypic spectrum of CdLS, and this specific finding could represent an unusual manifestation of alar hypoplasia or malformation in this context. Cornelia de Lange syndrome is genetically heterogeneous, with various genetic causes including mutations in NIPBL, SMC1A, SMC3, RAD21, HDAC8, and BRD4."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome (primarily type 1 due to KMT2D mutations) is another strong candidate due to significant overlap in many features. It is characterized by a distinctive facial appearance including a long philtrum, flat face, depressed nasal bridge, short nose, and deeply set eyes, which align well with the patient's presentation. Camptodactyly and talipes equinovarus are also frequently observed limb anomalies. Similar to CdLS, 'cleft ala nasi' is not a classic feature of Kabuki syndrome; however, other nasal abnormalities (e.g., broad, flat nasal tip, short columella) are common, and a severe malformation might be described this way. While OMIM:147920 is the primary entry for Kabuki syndrome, Kabuki syndrome 2 (OMIM:300295) caused by KDM6A mutations also shares significant phenotypic overlap."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300295",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome (type 2 due to KDM6A mutations) is a strong candidate, sharing many phenotypic features with Kabuki Syndrome 1 and aligning well with the patient's presentation. Characteristic features include a long philtrum, flat face, depressed nasal bridge, short nose, deeply set eyes, and limb anomalies such as camptodactyly and talipes equinovarus. As with other forms of Kabuki syndrome, 'cleft ala nasi' is not a typical defining feature, but various nasal abnormalities can be present. Both types of Kabuki syndrome present with significant overlapping clinical characteristics."
+    },
+    {
+      "disease_name": "Freeman-Sheldon Syndrome",
+      "disease_id": "OMIM:193700",
+      "score": 0.3333333333333333,
+      "explanation": "This syndrome (also known as Distal Arthrogryposis type 2A) is a strong consideration due to the prominent and consistent presence of all three limb anomalies: talipes equinovarus, overlapping toe, and camptodactyly, which are cardinal features of Freeman-Sheldon syndrome. While the classic 'whistling face' (pursed-lip mouth) is a hallmark, some of the craniofacial features such as depressed nasal bridge, flat face, and short nose can also be seen. However, 'cleft ala nasi' and 'long philtrum' are not typical facial characteristics of FSS, making it a less comprehensive fit for the specific facial gestalt compared to the top two candidates, but an excellent match for the limb involvement."
+    }
+  ]
+}

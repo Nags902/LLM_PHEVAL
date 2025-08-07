@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:601785",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. PMM2-CDG comprehensively matches a wide array of the patient's symptoms, including profound intellectual disability, global developmental delay, motor delay, absent speech, generalized hypotonia, hyporeflexia, seizures, multifocal epileptiform discharges, and cerebral visual impairment. Key dysmorphic features such as high palate, tented upper lip vermilion, and highly arched eyebrows are frequently observed. Notably, hirsutism is a known feature, and the characteristic metabolic abnormalities of hypercholesterolemia and hypertriglyceridemia are highly consistent with PMM2-CDG due to liver involvement and abnormal lipoprotein synthesis. Decreased fetal movement and tube feeding are also commonly reported."
+    },
+    {
+      "disease_name": "Zellweger Syndrome Spectrum Disorder (e.g., PEX1-related)",
+      "disease_id": "OMIM:601538",
+      "score": 0.5,
+      "explanation": "Zellweger Syndrome Spectrum Disorders are a strong second candidate. These peroxisomal biogenesis disorders frequently present with profound intellectual disability, global developmental delay, motor delay, generalized hypotonia, seizures, multifocal epileptiform discharges, cerebral visual impairment, and decreased fetal movement. Dysmorphic features such as high palate and highly arched eyebrows can be seen. Importantly, dyslipidemia, including hypercholesterolemia and hypertriglyceridemia, is a recognized metabolic feature due to impaired peroxisomal function. While hirsutism and the specific tented upper lip vermilion are less consistently reported compared to PMM2-CDG, the overall neurological and metabolic profile aligns very well."
+    },
+    {
+      "disease_name": "Lysosomal Acid Lipase Deficiency (Wolman Disease / Cholesterol Ester Storage Disease)",
+      "disease_id": "OMIM:278000",
+      "score": 0.3333333333333333,
+      "explanation": "This condition is a compelling candidate primarily due to the hallmark presence of both hypercholesterolemia and hypertriglyceridemia, which are pathognomonic for LIPA deficiency. While Wolman disease (severe infantile form) and Cholesterol Ester Storage Disease (milder form) are characterized by prominent hepatic and gastrointestinal involvement, developmental delay can occur. However, the profound intellectual disability, complex seizure phenotype, and specific dysmorphic features (tented upper lip vermilion, highly arched eyebrow) and hirsutism are less consistently or profoundly associated with LIPA deficiency as primary features compared to the top two candidates, making it a slightly less comprehensive fit despite the excellent metabolic match."
+    }
+  ]
+}

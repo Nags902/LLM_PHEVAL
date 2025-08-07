@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "This is the most common inherited cause of intellectual disability and is highly associated with delayed speech and language development and attention deficit hyperactivity disorder, fitting all three phenotypic features precisely. It affects both males and females, with variable expressivity in females."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Individuals with Sotos Syndrome often present with intellectual disability, delayed speech and language development, and a high incidence of behavioral problems, including features consistent with attention deficit hyperactivity disorder. While typically associated with overgrowth, the core neurodevelopmental features align well."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.333,
+      "explanation": "This syndrome is characterized by intellectual disability, often severe speech and language delay, and a range of behavioral issues, including hyperactivity and features overlapping with attention deficit hyperactivity disorder (ADHD)."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "Patients with Phelan-McDermid Syndrome typically exhibit intellectual disability, severe speech and language impairment (often absent speech), and a significant prevalence of behavioral problems, including hyperactivity and attention deficits, often within the context of autism spectrum disorder."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Primarily affecting females, Rett Syndrome causes severe intellectual disability and profound speech and language regression. While the behavioral issues are often described as autistic-like or with hand stereotypies rather than typical ADHD, significant hyperactivity and attention problems can be present, making it a strong candidate for a female patient with these severe neurodevelopmental features."
+    }
+  ]
+}

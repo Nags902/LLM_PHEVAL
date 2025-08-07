@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "The patient's age (P5Y), gender (male), progressive generalized muscle weakness (proximal and distal, upper and lower limbs, and axial), motor delay, unsteady gait, hyperlordosis, highly elevated creatine kinase, calf muscle pseudohypertrophy, and Gowers sign are hallmark features strongly indicative of Duchenne Muscular Dystrophy. Myopathic abnormalities on EMG and eventual respiratory insufficiency further support this classic presentation of an X-linked dystrophinopathy."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Becker Muscular Dystrophy is an allelic variant of Duchenne Muscular Dystrophy, caused by mutations in the same DMD gene. It presents with similar clinical features including progressive muscle weakness, elevated creatine kinase, calf pseudohypertrophy, and myopathic EMG findings. While typically milder and with later onset than DMD, an early childhood presentation with significant weakness can occur, making it a close differential diagnosis."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Type R3 (Alpha-Sarcoglycan-Related)",
+      "disease_id": "OMIM:608099",
+      "score": 0.333,
+      "explanation": "Certain autosomal recessive forms of Limb-Girdle Muscular Dystrophy, particularly the Sarcoglycanopathies (e.g., LGMD R3/2D caused by mutations in SGCA), can present in early childhood with a severe phenotype strikingly similar to Duchenne Muscular Dystrophy. Key overlapping features include generalized progressive muscle weakness (though often more pronounced proximally), very high creatine kinase levels, calf muscle pseudohypertrophy, and respiratory involvement."
+    },
+    {
+      "disease_name": "Congenital Muscular Dystrophy, Merosin-Deficient (Type 1A)",
+      "disease_id": "OMIM:607855",
+      "score": 0.25,
+      "explanation": "Merosin-deficient Congenital Muscular Dystrophy (CMD1A, LAMA2-related) is characterized by early-onset muscle weakness, hypotonia, and motor delay. While typically presenting at birth or in infancy, a progressive course with elevated CK (though often not as high as DMD), myopathic changes, and respiratory insufficiency can be seen. Calf pseudohypertrophy can also occur, making it a relevant consideration, despite the more typical presentation of hypotonia from birth."
+    }
+  ]
+}

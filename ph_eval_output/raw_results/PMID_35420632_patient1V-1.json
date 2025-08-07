@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1",
+      "disease_id": "OMIM:613613",
+      "score": 1.0,
+      "explanation": "This is the most highly likely diagnosis. Mutations in the TERT gene (Telomerase Reverse Transcriptase) are a common cause of autosomal dominant dyskeratosis congenita (a telomere biology disorder). This specific subtype frequently presents with a constellation of features observed in the patient: short telomere length, severe pulmonary fibrosis (often with a usual interstitial pneumonia pattern), and significant liver involvement including nodular regenerative hyperplasia, portal hypertension, and hepatic failure. Other associated findings like decreased DLCO, inspiratory crackles, clubbing, varix formation, splenomegaly, and thrombocytopenia are all consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 2",
+      "disease_id": "OMIM:613614",
+      "score": 0.5,
+      "explanation": "Similar to TERT mutations, mutations in the TERC gene (Telomerase RNA Component) are another major cause of autosomal dominant dyskeratosis congenita. The clinical presentation is highly analogous to TERT-related DC, encompassing short telomere length, progressive pulmonary fibrosis (UIP), and diverse liver pathologies such as nodular regenerative hyperplasia and portal hypertension leading to varices and splenomegaly. This subtype perfectly aligns with the patient's comprehensive phenotype."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Recessive 3",
+      "disease_id": "OMIM:614742",
+      "score": 0.333,
+      "explanation": "RTEL1 gene mutations can cause dyskeratosis congenita, presenting with both autosomal dominant and autosomal recessive inheritance patterns. This form is known to result in severe telomere biology disorder, frequently manifesting with significant pulmonary fibrosis and severe liver complications including nodular regenerative hyperplasia, portal hypertension, and hepatic failure, alongside pathologically short telomeres. The patient's age and specific organ involvement are highly consistent with this subtype."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 4",
+      "disease_id": "OMIM:616353",
+      "score": 0.25,
+      "explanation": "Mutations in the PARN gene (Poly(A)-Specific Ribonuclease) are associated with autosomal dominant dyskeratosis congenita. This subtype is characterized by short telomeres and often includes prominent pulmonary fibrosis and bone marrow failure, with liver abnormalities and portal hypertension also documented features. The patient's reported symptoms align well with the known spectrum of PARN-related telomeropathy."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 5",
+      "disease_id": "OMIM:616354",
+      "score": 0.2,
+      "explanation": "Mutations in the POT1 gene (Protection of Telomeres 1) have been identified as a cause of autosomal dominant dyskeratosis congenita. While the clinical spectrum can be variable, it is known to include features such as short telomere length, pulmonary fibrosis, and can also involve liver disease. This subtype remains a strong candidate given the broad overlap with the patient's symptoms."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Recessive 1",
+      "disease_id": "OMIM:613989",
+      "score": 0.166,
+      "explanation": "Mutations in the CTC1 gene are a cause of autosomal recessive dyskeratosis congenita. This form can lead to severe multi-system involvement, including pronounced pulmonary fibrosis, significant liver disease (such as nodular regenerative hyperplasia and portal hypertension), bone marrow failure, and short telomeres. Although less common for adult-onset presentation without other classic features, it remains a plausible diagnosis within the telomere biology disorder spectrum."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, X-linked",
+      "disease_id": "OMIM:305000",
+      "score": 0.142,
+      "explanation": "While X-linked dyskeratosis congenita, caused by mutations in the DKC1 gene, often presents with a more classic triad (skin pigmentation, nail dystrophy, oral leukoplakia) and earlier onset, there is variability in presentation and severity. Severe pulmonary fibrosis, liver disease (including portal hypertension), and bone marrow failure are well-documented complications of DKC1 mutations. Given the patient's female gender, skewed X-inactivation could explain the presentation, making it a less common but still possible consideration."
+    }
+  ]
+}

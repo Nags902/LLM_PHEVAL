@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "UMOD-related kidney disease",
+      "disease_id": "OMIM:609054",
+      "score": 1.0,
+      "explanation": "This autosomal dominant disorder is characterized by progressive tubulointerstitial kidney disease leading to end-stage renal disease (CKD Stage 5) in adulthood, typically between 30 and 70 years of age. A key feature is hyperuricemia, often leading to recurrent gout attacks, which can precede the onset of significant renal dysfunction. This strongly matches both the patient's age (P63Y) and the combination of Stage 5 CKD and Gout."
+    },
+    {
+      "disease_name": "REN-related kidney disease",
+      "disease_id": "OMIM:161900",
+      "score": 0.5,
+      "explanation": "This autosomal dominant kidney disease is phenotypically very similar to UMOD-related kidney disease. It involves progressive tubulointerstitial kidney failure culminating in ESRD, usually in adulthood. Like UMOD-related kidney disease, it is frequently associated with hyperuricemia and gout, often appearing early in the disease course. It fits the patient's age (P63Y) and the combined presentation of Stage 5 CKD and Gout."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease type 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.333,
+      "explanation": "ADPKD1 is the most common inherited kidney disease and a frequent cause of end-stage renal disease in adults, with an average age of ESRD onset around 55-60 years. While primarily characterized by renal cysts, hyperuricemia and gout are common complications in patients with advanced CKD due to impaired renal excretion, affecting a significant proportion of ADPKD patients. Given the patient's age (P63Y) and Stage 5 CKD, ADPKD is a highly plausible diagnosis, with gout being a secondary but common feature."
+    },
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease type 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.25,
+      "explanation": "ADPKD2 is a common inherited kidney disease, typically presenting with a milder phenotype and later progression to end-stage renal disease (average age of ESRD onset is around 70 years) compared to ADPKD1, but still a significant cause of CKD in adults. Similar to ADPKD1, hyperuricemia and gout are common complications in patients with advanced CKD due to impaired renal excretion. It fits the patient's age (P63Y) and the combined presentation of Stage 5 CKD and Gout."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This is the most highly ranked disease as it comprehensively matches the patient's severe phenotype. CDKL5 Deficiency Disorder is a severe epileptic encephalopathy characterized by early-onset intractable seizures (often including infantile spasms/hypsarrhythmia, evolving to multifocal, tonic, and myoclonic seizures, and often associated with continuous spike and waves during slow sleep), profound intellectual disability, hypotonia, and prominent dyskinetic movements including choreoathetosis. Multifocal epileptiform discharges are also common."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy is a strong candidate, encompassing a spectrum of severe early-onset epileptic encephalopathies. It is frequently associated with infantile spasms (hypsarrhythmia), various other seizure types (focal, tonic, myoclonic), severe intellectual disability, hypotonia, and multifocal epileptiform discharges. Crucially, a significant proportion of patients develop prominent movement disorders, including choreoathetosis and other dyskinesias. Continuous spike and waves during slow sleep can also occur."
+    },
+    {
+      "disease_name": "Neurodevelopmental disorder with involuntary movements and seizures (GNAO1-related)",
+      "disease_id": "OMIM:617493",
+      "score": 0.333,
+      "explanation": "GNAO1-related disorders are characterized by a combination of early-onset movement disorders, prominently including choreoathetosis, and variable epilepsy, which can manifest as severe epileptic encephalopathy with various seizure types (focal, tonic, myoclonic). Severe intellectual disability is common. While hypsarrhythmia or CSWS may not be the primary defining EEG patterns, severe epilepsy can lead to these manifestations. Hypotonia and multifocal epileptiform discharges are also observed."
+    },
+    {
+      "disease_name": "KCNT1-related epileptic encephalopathy (including Epilepsy of infancy with migrating focal seizures)",
+      "disease_id": "OMIM:615369",
+      "score": 0.25,
+      "explanation": "KCNT1 mutations cause a spectrum of severe, early-onset epileptic encephalopathies, most notably Epilepsy of Infancy with Migrating Focal Seizures (EIMFS), but also other forms of refractory epilepsy. Prominent choreoathetosis and other dyskinesias are frequently reported features, along with severe intellectual disability. While migrating focal seizures are typical, the severe and refractory nature of the epilepsy can lead to various seizure types and EEG abnormalities like multifocal discharges. Hypsarrhythmia or CSWS can occur in the context of severe intractable epilepsy."
+    },
+    {
+      "disease_name": "SYNGAP1-related intellectual disability",
+      "disease_id": "OMIM:612621",
+      "score": 0.2,
+      "explanation": "SYNGAP1-related intellectual disability is characterized by intellectual disability (often severe), hypotonia, and a broad spectrum of seizure types, including generalized myoclonic and tonic seizures, and focal seizures. Hypsarrhythmia and continuous spike and waves during slow sleep (CSWS) have been reported. While choreoathetosis is not a universal feature, dyskinetic movements have been described in some individuals with SYNGAP1 mutations, making it a plausible candidate."
+    },
+    {
+      "disease_name": "SCN2A-related epileptic encephalopathy",
+      "disease_id": "OMIM:602518",
+      "score": 0.167,
+      "explanation": "SCN2A mutations are a significant cause of early-onset epileptic encephalopathies, including Ohtahara syndrome and West syndrome, which feature hypsarrhythmia and various seizure types (focal, tonic, myoclonic). Severe intellectual disability, hypotonia, and multifocal epileptiform discharges are common. Continuous spike and waves during slow sleep (CSWS) can also be seen. While choreoathetosis is not a primary defining feature, a range of movement disorders, including dyskinesias, can be observed in severe SCN2A-related disorders."
+    }
+  ]
+}

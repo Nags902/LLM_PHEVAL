@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 1.0,
+      "explanation": "Aicardi Syndrome is an X-linked dominant disorder, primarily affecting females, and is an excellent fit for the described phenotype. Key features include agenesis of the corpus callosum and other brain malformations leading to ventriculomegaly (HP:0002119), severe global developmental delay (encompassing delayed gross motor development HP:0002194 and delayed speech and language development HP:0000750), and characteristic ocular abnormalities (chorioretinal lacunae). While astigmatism (HP:0000483) is not a primary diagnostic criterion, refractive errors and other visual impairments are common given the ocular pathology."
+    },
+    {
+      "disease_name": "L1 Syndrome",
+      "disease_id": "OMIM:300003",
+      "score": 0.5,
+      "explanation": "L1 Syndrome, caused by mutations in the L1CAM gene, is an X-linked disorder that can affect females due to skewed X-inactivation or de novo mutations. It is characterized by hydrocephalus (leading to ventriculomegaly HP:0002119), spasticity, adducted thumbs, and severe intellectual disability with profound delayed gross motor development (HP:0002194) and delayed speech and language development (HP:0000750). Ocular manifestations, including nystagmus or strabismus, can occur, and astigmatism (HP:0000483) may also be present as a general visual impairment."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.33,
+      "explanation": "Joubert Syndrome and related disorders are characterized by a 'molar tooth sign' on brain MRI due to hindbrain malformation, leading to significant neurological symptoms. These typically include developmental delays (HP:0002194, HP:0000750), ataxia, and hypotonia. Ventriculomegaly (HP:0002119) can be present, sometimes due to hydrocephalus secondary to posterior fossa abnormalities. Ocular anomalies are common in Joubert syndrome, including oculomotor apraxia, nystagmus, and retinal dystrophy, making astigmatism (HP:0000483) a plausible co-occurring refractive error."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome is a complex genetic disorder with a broad spectrum of symptoms, including central nervous system anomalies that can cause ventriculomegaly (HP:0002119). Global developmental delay, encompassing delayed gross motor development (HP:0002194) and delayed speech and language development (HP:0000750), is a common feature. Ocular coloboma is a cardinal feature, but other ocular issues and refractive errors like astigmatism (HP:0000483) are also frequently observed."
+    }
+  ]
+}

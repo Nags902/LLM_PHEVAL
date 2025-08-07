@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MIDAS syndrome",
+      "disease_id": "OMIM:309000",
+      "score": 1.0,
+      "explanation": "This syndrome strongly matches the patient's severe ocular anomalies (microphthalmia, iris coloboma, retinal coloboma, cataract) and the distinctive aplasia cutis congenita, which is a hallmark feature (dermal aplasia). While typically considered X-linked dominant and severe in males, cases with male survival have been reported. Median pseudocleft lip and conductive hearing impairment are less typical features of this syndrome."
+    },
+    {
+      "disease_name": "Lenz Microphthalmia Syndrome",
+      "disease_id": "OMIM:309800",
+      "score": 0.5,
+      "explanation": "This X-linked recessive syndrome aligns with the patient's sex and strongly matches the severe ocular anomalies (microphthalmia, iris coloboma, retinal coloboma, cataract) and the rare median pseudocleft lip. However, aplasia cutis congenita and conductive hearing impairment are not typically associated features of this syndrome."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.33,
+      "explanation": "CHARGE syndrome is a significant candidate due to the patient's extensive ocular anomalies (iris coloboma, retinal coloboma, microphthalmia, nasolacrimal duct obstruction, ultra-low vision) and conductive hearing impairment, which are core features. However, aplasia cutis congenita and median pseudocleft lip are not characteristic findings of CHARGE syndrome."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient presents with a highly characteristic constellation of features including congenital heart defects (PDA, Coarctation of aorta), distinctive craniofacial dysmorphology (short neck, hypertelorism, telecanthus, depressed nasal bridge, prominent forehead, microretrognathia, abnormal helix morphology, blepharophimosis), global developmental delay (including delayed speech), cryptorchidism, delayed skeletal maturation, pectus carinatum, hypothyroidism, and delayed eruption of teeth. This comprehensive phenotype is highly consistent with Noonan Syndrome, particularly its PTPN11-related form, which is the most common cause."
+    },
+    {
+      "disease_name": "Noonan Syndrome 2",
+      "disease_id": "OMIM:610732",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome 2 (SOS1-related) presents with a phenotype highly overlapping with Noonan Syndrome 1, including characteristic facial features, congenital heart defects (often more varied), developmental delay, and other systemic findings. Given the broad consistency of the patient's features with the Noonan spectrum, this subtype remains a strong candidate."
+    },
+    {
+      "disease_name": "Noonan Syndrome 4",
+      "disease_id": "OMIM:611226",
+      "score": 0.3333,
+      "explanation": "Noonan Syndrome 4 (RIT1-related) is another common cause of Noonan Syndrome, often associated with more severe cardiac anomalies and lymphatic issues, but shares the core facial, developmental, and skeletal features observed in the patient. Its inclusion reflects the broad genetic heterogeneity of Noonan Syndrome, all of which fit the patient's phenotype well."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous Syndrome 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.25,
+      "explanation": "Cardiofaciocutaneous (CFC) Syndrome is a RASopathy that shares significant phenotypic overlap with Noonan Syndrome. The patient's features such as congenital heart defects (PDA, CoA), global developmental delay (often more severe than NS), characteristic facial features (hypertelorism, prominent forehead, depressed nasal bridge, microretrognathia, abnormal helix morphology, blepharophimosis), cryptorchidism, and skeletal anomalies (short neck, pectus carinatum) are all highly consistent with CFC syndrome. Hypothyroidism and dental issues are also reported. While specific cutaneous/hair anomalies might be absent in the provided data, the overall clinical picture strongly suggests a RASopathy, placing CFC syndrome as a very close differential."
+    },
+    {
+      "disease_name": "Noonan-like syndrome with loose anagen hair 1",
+      "disease_id": "OMIM:607721",
+      "score": 0.2,
+      "explanation": "Noonan-like syndrome with loose anagen hair (SHOC2-related) is also a RASopathy that presents with many features overlapping with classic Noonan Syndrome. These include characteristic facial dysmorphism (hypertelorism, prominent forehead, short neck, ear anomalies), cardiac defects (PDA, CoA), developmental delay, short stature, and cryptorchidism. Hypothyroidism can also be a feature. Despite the 'loose anagen hair' not being explicitly mentioned, the extensive overlap in other key features makes it a relevant differential in the RASopathy spectrum."
+    }
+  ]
+}

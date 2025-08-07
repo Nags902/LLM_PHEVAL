@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Holt-Oram Syndrome is classically defined by the combination of upper limb malformations, specifically radial ray defects (such as absent radius, absent thumb, and ulnar deviation of the thumb), and congenital heart defects. The patient presents with multiple severe cardiac defects including secundum atrial septal defect, muscular ventricular septal defect, perimembranous ventricular septal defect, and crucially, a complete atrioventricular canal defect. All of these cardiac and limb phenotypic features are highly characteristic and directly align with the known clinical spectrum of Holt-Oram Syndrome, which is caused by mutations in the TBX5 gene."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.5,
+      "explanation": "VACTERL association describes the co-occurrence of Vertebral, Anorectal, Cardiac, Tracheo-esophageal, Renal, and Limb anomalies. The patient exhibits significant Cardiac (multiple septal defects, complete atrioventricular canal defect) and Limb (absent thumb, absent radius, ulnar deviation) anomalies, which are well-documented components of this association. Radial ray defects are common limb anomalies in VACTERL, and various congenital heart defects, including AV canal defects, are also frequently observed. While VACTERL is an association rather than a single syndrome with a specific genetic cause, it is a strong diagnostic consideration for this specific pattern of malformations."
+    },
+    {
+      "disease_name": "Fanconi Anemia Type A",
+      "disease_id": "OMIM:227650",
+      "score": 0.33,
+      "explanation": "Fanconi Anemia (FA) is a genetically heterogeneous disorder with multiple complementation groups (e.g., FA-A, FA-B, FA-C, etc.), with Fanconi Anemia Type A (caused by FANCA gene mutations, OMIM:227650) being the most common. FA can present with characteristic radial ray anomalies (including absent radius and absent thumb) and various congenital heart defects (such as VSD and ASD). While a complete atrioventricular canal defect is less frequently highlighted as a primary cardiac feature compared to Holt-Oram Syndrome, its occurrence is reported across FA types. However, the absence of information regarding other hallmark features like progressive bone marrow failure or other systemic anomalies (e.g., caf\u00e9-au-lait spots), which are central to FA, makes it a less likely primary diagnosis than Holt-Oram Syndrome, but still a relevant differential."
+    },
+    {
+      "disease_name": "Townes-Brocks Syndrome",
+      "disease_id": "OMIM:107480",
+      "score": 0.25,
+      "explanation": "Townes-Brocks Syndrome (TBS) is characterized by a triad of imperforate anus, ear anomalies (often sensorineural hearing loss), and limb malformations, most commonly thumb anomalies (including absent or hypoplastic thumbs, preaxial polydactyly, or triphalangeal thumbs). Congenital heart defects (such as VSD and ASD) are also frequently observed in TBS. The patient's absent thumb and presence of cardiac defects are consistent with features seen in TBS. However, the absence of imperforate anus and typical ear anomalies, which are prominent and frequently defining features of TBS, makes it a less probable diagnosis compared to the higher-ranked candidates for this specific patient presentation."
+    }
+  ]
+}

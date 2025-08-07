@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal dominant polycystic kidney disease type 1",
+      "disease_id": "OMIM:173900",
+      "score": 1.0,
+      "explanation": "Autosomal dominant polycystic kidney disease (ADPKD) is the most common inherited kidney disease and a leading genetic cause of end-stage renal disease (ESRD) in adults. Individuals with ADPKD1 (caused by mutations in the PKD1 gene) frequently progress to Stage 5 CKD in their 40s to 60s, making it a highly plausible cause for a 49-year-old patient with isolated Stage 5 CKD."
+    },
+    {
+      "disease_name": "Alport syndrome, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.5,
+      "explanation": "Alport syndrome is a genetic disorder affecting collagen type IV, primarily presenting with kidney disease (often progressing to ESRD), hearing loss, and ocular abnormalities. The X-linked form, which accounts for about 80% of cases, typically leads to ESRD in males in their 20s to 50s, making it a significant consideration for a 49-year-old male with Stage 5 CKD, even if other features are not explicitly noted."
+    },
+    {
+      "disease_name": "Fabry disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.3333333333333333,
+      "explanation": "Fabry disease is an X-linked lysosomal storage disorder that causes multi-system involvement, including progressive kidney disease leading to ESRD in adult males, typically in their 30s to 50s. Although other symptoms (neuropathy, angiokeratomas, cardiac issues) are common, kidney failure can be a prominent or presenting feature, making it a potential cause for this patient."
+    },
+    {
+      "disease_name": "Focal segmental glomerulosclerosis 2",
+      "disease_id": "OMIM:600995",
+      "score": 0.25,
+      "explanation": "Focal segmental glomerulosclerosis (FSGS) is a pattern of kidney injury that can be primary, secondary, or genetic. Familial forms of FSGS, such as FSGS2 (caused by mutations in the NPHS2 gene), are a significant cause of steroid-resistant nephrotic syndrome and progressive kidney failure leading to ESRD, often in adulthood. While specific proteinuria or nephrotic syndrome details are absent, FSGS remains a relevant genetic cause of CKD5."
+    },
+    {
+      "disease_name": "Autosomal dominant tubulointerstitial kidney disease 1",
+      "disease_id": "OMIM:161900",
+      "score": 0.2,
+      "explanation": "Autosomal dominant tubulointerstitial kidney disease (ADTKD), previously known as medullary cystic kidney disease type 1 (MCKD1), is a group of inherited kidney disorders characterized by progressive chronic kidney disease often leading to ESRD in adulthood (typically 3rd to 7th decade). While less common than ADPKD, it's a known genetic cause of renal failure in this age group."
+    }
+  ]
+}

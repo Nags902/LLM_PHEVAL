@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "This disease is a strong candidate as it commonly presents with global developmental delay, severe generalized hypotonia, prominent truncal ataxia (often due to cerebellar hypoplasia), delayed speech and language development, and strabismus. Non-specific EEG abnormalities, including slowing, are frequently observed."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome and related disorders are characterized by a clinical triad of global developmental delay, hypotonia, and ataxia, primarily due to cerebellar vermis malformation. Strabismus and other oculomotor deficits are frequent, and EEG abnormalities are consistent with cerebral involvement from brain malformations."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.33,
+      "explanation": "As a severe neurodegenerative mitochondrial disorder, Leigh Syndrome commonly presents with global developmental delay or regression, generalized hypotonia, and truncal ataxia. Strabismus (including ophthalmoplegia) and non-specific EEG changes like occipital slowing are also consistent features of this condition."
+    }
+  ]
+}

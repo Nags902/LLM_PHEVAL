@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent match for all provided phenotypic features. Macrodontia, especially of the incisors, is a hallmark feature of KBG syndrome. It also consistently presents with short stature, delayed skeletal maturation, and various hand abnormalities, such as brachydactyly, clinodactyly, and broad hands, which fall under the broad category of 'abnormality of the hand'."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome frequently presents with short stature, delayed skeletal maturation, and a variety of hand abnormalities including broad hands, short fingers, and clinodactyly. However, macrodontia is not a characteristic feature of Noonan Syndrome, though other dental anomalies such as malocclusion or enamel hypoplasia may be observed. This condition is considered as a differential diagnosis due to the overlap in growth and general skeletal features."
+    }
+  ]
+}

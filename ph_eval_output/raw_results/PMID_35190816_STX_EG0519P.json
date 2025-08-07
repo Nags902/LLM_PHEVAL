@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia; PMM2-CDG",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG is the most common form of CDG and is strongly associated with a constellation of features including cerebellar hypoplasia, truncal and gait ataxia, dysmetria, hypotonia, global developmental delay, intellectual disability, and severe speech impairment/absent speech. Tremor is also a common feature. While torticollis is not a cardinal feature, dystonia can occur in CDG, which could manifest as torticollis."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia, Type 2A",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "Pontocerebellar hypoplasia, particularly Type 2A, is characterized by severe global developmental delay, profound intellectual disability, hypotonia, and motor dysfunction including prominent truncal and gait ataxia due to cerebellar involvement. Absent speech and broad-based gait are consistent with the severe developmental impairment. Dystonic features, which can include torticollis, are also frequently observed."
+    },
+    {
+      "disease_name": "Aromatic L-Amino Acid Decarboxylase Deficiency",
+      "disease_id": "OMIM:608643",
+      "score": 0.33,
+      "explanation": "AADC deficiency is a severe neurotransmitter disorder presenting in infancy with profound hypotonia, global developmental delay, intellectual disability, and characteristic movement disorders including dystonia (often presenting as torticollis and oculogyric crises), tremor, and gait ataxia. Absent speech is a common feature due to the severity of the neurological involvement."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Joubert Syndrome and related disorders are characterized by a malformation of the brainstem and cerebellum (molar tooth sign), leading to hypotonia, global developmental delay, intellectual disability, and ataxia (truncal, gait, limb, dysmetria). Speech is often severely impaired or absent. While torticollis is not a primary feature, other neurological symptoms like abnormal eye movements or dystonia could lead to it."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Leigh Syndrome is a severe, progressive neurodegenerative disorder affecting mitochondrial function, commonly presenting in infancy or early childhood. Key features include psychomotor regression, hypotonia, ataxia, dystonia (which can present as torticollis), intellectual disability, and respiratory abnormalities. Tremor and dysmetria are also consistent with the widespread neurological dysfunction."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "PMM2-CDG (Congenital Disorder of Glycosylation Type Ia)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG is the most common congenital disorder of glycosylation and frequently presents with hypotonia, ataxia, and strabismus in childhood. Dystonia can also be a feature, making it a strong match for the patient's neurological profile."
+    },
+    {
+      "disease_name": "Leigh Syndrome (various genetic causes)",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh Syndrome, a severe neurodegenerative disorder often with mitochondrial dysfunction, is characterized by psychomotor regression, hypotonia, ataxia, and dystonia. Ophthalmological signs like strabismus are common, aligning well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Pantothenate Kinase-Associated Neurodegeneration (PKAN)",
+      "disease_id": "OMIM:234200",
+      "score": 0.33,
+      "explanation": "PKAN is a form of Neurodegeneration with Brain Iron Accumulation (NBIA) classically presenting in childhood with progressive dystonia and gait abnormalities resembling ataxia. Hypotonia can be an early sign. While strabismus is less direct, it can occur in complex neurological disorders affecting basal ganglia."
+    },
+    {
+      "disease_name": "Joubert Syndrome and Related Disorders (e.g., Joubert Syndrome 1)",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Joubert Syndrome is a ciliopathy characterized by hypotonia, ataxia, and developmental delay. Oculomotor abnormalities, including strabismus and oculomotor apraxia, are very common. Dystonia can be present in some ciliopathies or as a secondary movement disorder."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.2,
+      "explanation": "Ataxia-Telangiectasia is characterized by progressive cerebellar ataxia, often presenting in early childhood, along with oculomotor apraxia and strabismus. Hypotonia is a common early feature, and dystonia can develop as the disease progresses, making the core neurological features a good match."
+    }
+  ]
+}

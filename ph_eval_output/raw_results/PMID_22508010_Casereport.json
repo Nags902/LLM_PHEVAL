@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "POLG-related disorders",
+      "disease_id": "OMIM:607426",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the presence of multiple mitochondrial DNA deletions (HP:0003689), which is a hallmark of POLG gene mutations. These disorders cause a wide spectrum of phenotypes that precisely match the patient's presentation: severe peripheral axonal neuropathy (impaired distal sensation, weakness, atrophy, areflexia, claw toe), central nervous system involvement (hyperintensity of cerebral white matter on MRI, increased CSF protein concentration), and hepatic involvement (hepatic steatosis, hepatomegaly). The patient's age (21 years) is consistent with adult-onset manifestations of POLG-related diseases."
+    },
+    {
+      "disease_name": "Mitochondrial Neurogastrointestinal Encephalomyopathy",
+      "disease_id": "OMIM:606075",
+      "score": 0.5,
+      "explanation": "Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE) is caused by mutations in the TYMP gene, leading to mitochondrial DNA deletions and depletion. It shares several key features with the patient, including peripheral axonal neuropathy, leukoencephalopathy (hyperintensity of cerebral white matter), increased CSF protein, and age of onset. However, a defining feature of MNGIE, severe gastrointestinal dysmotility (e.g., pseudo-obstruction), is notably absent from the patient's listed phenotypes, making it a less likely candidate than POLG-related disorders."
+    },
+    {
+      "disease_name": "Progressive External Ophthalmoplegia, Autosomal Dominant 1 (PEO1-related)",
+      "disease_id": "OMIM:157640",
+      "score": 0.33,
+      "explanation": "This disorder is caused by mutations in the PEO1 (TWINKLE) gene, which can result in multiple mitochondrial DNA deletions and is often associated with peripheral neuropathy and sometimes CNS involvement. While it explains the mtDNA deletions and some neurological features, the patient does not present with progressive external ophthalmoplegia (a cardinal feature), and the prominent hepatic involvement (steatosis, hepatomegaly) is not a typical or primary manifestation of PEO1-related disorders, making it a less comprehensive fit compared to POLG-related diseases."
+    }
+  ]
+}

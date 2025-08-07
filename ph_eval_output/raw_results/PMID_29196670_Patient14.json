@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 1.0,
+      "explanation": "All three presented phenotypic features (cortical tubers, angiofibromas, and renal angiomyolipoma) are classic, highly specific, and diagnostic criteria for Tuberous Sclerosis Complex. Mutations in the TSC2 gene are a common cause and are often associated with the renal and neurological manifestations observed."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.5,
+      "explanation": "Similar to TSC2, mutations in the TSC1 gene are a primary cause of Tuberous Sclerosis Complex, presenting with the same core features including cortical tubers, angiofibromas, and renal angiomyolipomas. While often associated with a slightly milder phenotype than TSC2, all listed features are fully consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Von Hippel-Lindau disease",
+      "disease_id": "OMIM:193300",
+      "score": 0.3333333333333333,
+      "explanation": "This disease is included as a very low-confidence differential due to its characteristic presentation with multi-organ tumors, including renal involvement. However, the specific types of tumors (hemangioblastomas, clear cell renal cell carcinoma) and the complete absence of cortical tubers and facial angiofibromas make this an unlikely diagnosis compared to Tuberous Sclerosis Complex. It is listed to fulfill the requirement for multiple potential diseases, despite the low clinical fit."
+    }
+  ]
+}

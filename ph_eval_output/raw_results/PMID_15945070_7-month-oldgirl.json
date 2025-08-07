@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "PMM2-Congenital Disorder of Glycosylation (CDG-Ia)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG is the most common congenital disorder of glycosylation (CDG) and is strongly indicated by the characteristic 'Type I transferrin isoform profile' found in the patient. It aligns exceptionally well with core neurological features such as cerebellar atrophy (a hallmark feature), seizures, hypotonia, esotropia, and cerebral atrophy. Other consistent findings include failure to thrive and hypoalbuminemia. While fetal pericardial effusion and polycystic kidney dysplasia are less typical primary features of PMM2-CDG, severe, early-onset forms of CDG can present with broader multi-organ involvement, and these findings are not entirely exclusionary within the spectrum of the disease."
+    },
+    {
+      "disease_name": "ALG1-Congenital Disorder of Glycosylation (CDG-Ik)",
+      "disease_id": "OMIM:608540",
+      "score": 0.5,
+      "explanation": "ALG1-CDG is a significant candidate due to its characteristic 'Type I transferrin isoform profile' and strong match with several patient features. It accounts for severe neurological manifestations like seizures, hypotonia, cerebral atrophy, and failure to thrive. Notably, ALG1-CDG is more frequently associated with cardiac anomalies, including fetal pericardial effusion, and renal abnormalities, specifically renal cysts (which can manifest as polycystic kidney dysplasia), making it an excellent fit for these less common but critical findings in the patient's presentation."
+    },
+    {
+      "disease_name": "ALG3-Congenital Disorder of Glycosylation (CDG-Id)",
+      "disease_id": "OMIM:601110",
+      "score": 0.333,
+      "explanation": "ALG3-CDG is another Type I congenital disorder of glycosylation that presents with the characteristic 'Type I transferrin isoform profile' and significant neurological involvement. Key features aligning with the patient's presentation include cerebellar atrophy, seizures, hypotonia, and failure to thrive. However, explicit documentation of polycystic kidney dysplasia and fetal pericardial effusion as prominent features is less established for ALG3-CDG compared to other CDG subtypes, positioning it slightly lower in the ranking."
+    },
+    {
+      "disease_name": "DPAGT1-Congenital Disorder of Glycosylation (CDG-Is)",
+      "disease_id": "OMIM:612930",
+      "score": 0.25,
+      "explanation": "DPAGT1-CDG is a Type I congenital disorder of glycosylation that presents with a 'Type I transferrin isoform profile' and is notably associated with renal cysts, which aligns with the patient's polycystic kidney dysplasia. While it can cause neurological symptoms such as hypotonia and seizures, the extensive brain atrophy (cerebral and cerebellar) and fetal pericardial effusion are less consistently reported as hallmark features compared to other Type I CDGs."
+    },
+    {
+      "disease_name": "ALG6-Congenital Disorder of Glycosylation (CDG-Ic)",
+      "disease_id": "OMIM:603147",
+      "score": 0.2,
+      "explanation": "ALG6-CDG is a Type I congenital disorder of glycosylation that also exhibits a 'Type I transferrin isoform profile.' Patients typically present with severe neurological symptoms, including seizures, hypotonia, and developmental delay, which are consistent with the patient's profile. However, this subtype is not as strongly associated with the specific features of cerebellar atrophy, polycystic kidney dysplasia, or fetal pericardial effusion as the higher-ranked CDG types, placing it further down the list."
+    }
+  ]
+}

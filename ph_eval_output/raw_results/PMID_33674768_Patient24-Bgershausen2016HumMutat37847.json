@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "This patient's constellation of features strongly aligns with Kabuki Syndrome. Key phenotypic overlaps include intellectual disability, feeding difficulties, intrauterine growth retardation (though postnatal short stature is more common, IUGR can occur), characteristic abnormal facial shape, narrow palate, clinodactyly (especially 5th finger), and prominently, the presence of prominent fingertip pads, which is a hallmark feature. Renal anomalies, including horseshoe kidney, and neonatal hypoglycemia are also reported in a significant proportion of cases."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300295",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome 2, caused by KDM6A mutations, presents with a phenotype highly similar to Kabuki Syndrome 1. It shares the core features observed in the patient, including intellectual disability, characteristic facial features, prominent fingertip pads, and other developmental anomalies like clinodactyly and renal issues. The clinical distinction between the two types is often subtle, making both strong candidates for this patient's presentation."
+    },
+    {
+      "disease_name": "Fryns Syndrome",
+      "disease_id": "OMIM:229850",
+      "score": 0.33,
+      "explanation": "Fryns Syndrome is a significant candidate as it encompasses several key features: intrauterine growth retardation, intellectual disability (if surviving), abnormal facial shape, and importantly, prominent fingertip pads and horseshoe kidney, which are less common in many other syndromes. While typically associated with severe malformations and high perinatal mortality (often due to diaphragmatic hernia), survival into childhood with intellectual disability is reported in milder cases, making it a possible diagnosis in a survivor."
+    },
+    {
+      "disease_name": "Trisomy 18",
+      "disease_id": "OMIM:180240",
+      "score": 0.25,
+      "explanation": "Trisomy 18 (Edwards Syndrome) explains several of the patient's features, including intrauterine growth retardation, severe intellectual disability, feeding difficulties, horseshoe kidney, clinodactyly, and characteristic abnormal facial shape. However, the presence of prominent fingertip pads is not a typical feature of Trisomy 18, and the overall clinical presentation is often more severely affected with more pronounced malformations and higher mortality in infancy, which might not fully align with a patient surviving to develop intellectual disability."
+    }
+  ]
+}

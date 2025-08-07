@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability, with delayed speech and language development being a highly prominent and consistent feature, making it a strong primary suspect given the provided clinical data."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.5,
+      "explanation": "Down Syndrome (Trisomy 21) is the most common chromosomal cause of intellectual disability. Profound and universal delayed speech and language development are hallmark features, making it a very high-ranking candidate."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333,
+      "explanation": "Angelman Syndrome is characterized by severe developmental delay and intellectual disability, often accompanied by absent or severely impaired speech, making it a strong fit for the given features."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett Syndrome, while primarily affecting females (gender not specified here), is characterized by a period of normal development followed by regression, leading to intellectual disability and significant loss of spoken language, directly matching the core features."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.2,
+      "explanation": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome) is associated with global developmental delay, intellectual disability (often severe), and frequently absent or severely delayed speech, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.1667,
+      "explanation": "Smith-Magenis Syndrome involves developmental delay, intellectual disability, and characteristic behavioral features, with delayed speech and language development being a common and significant component."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.1429,
+      "explanation": "22q11.2 Deletion Syndrome (DiGeorge Syndrome) is highly variable but frequently includes mild to moderate intellectual disability and significant speech and language delays, warranting its inclusion in the differential diagnosis."
+    }
+  ]
+}

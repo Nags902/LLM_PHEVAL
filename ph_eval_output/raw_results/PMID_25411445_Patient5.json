@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Zellweger Spectrum Disorder",
+      "disease_id": "OMIM:214100",
+      "score": 1.0,
+      "explanation": "This group of peroxisomal biogenesis disorders aligns exceptionally well with the patient's presentation. Key features such as increased nuchal translucency (a known prenatal finding), severe epileptic encephalopathy, cerebral atrophy, global developmental delay, and abnormal electroretinogram are hallmarks of Zellweger Spectrum Disorder. The motor signs (spasticity, rigidity, hypokinesia, hyperreflexia, axial hypotonia) and risk of SUDEP are also consistent with the severe neurological involvement seen in this condition."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis, Infantile Type 1 (CLN1)",
+      "disease_id": "OMIM:256730",
+      "score": 0.5,
+      "explanation": "Neuronal Ceroid Lipofuscinoses (NCLs) are progressive neurodegenerative disorders that present with vision loss (often indicated by abnormal ERG), intractable seizures (epileptic encephalopathy and spasms), psychomotor regression, and cerebral atrophy. The severe motor impairments (spasticity, rigidity, hypokinesia) and global developmental delay are also highly characteristic. While increased nuchal translucency is not a primary feature of NCLs, the overall neurodegenerative course with retinal involvement and severe epilepsy makes it a strong candidate, particularly for infantile onset types like CLN1."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.33,
+      "explanation": "Alpers-Huttenlocher Syndrome, caused by mutations in the POLG gene, is a severe mitochondrial disorder characterized by progressive cerebral atrophy, intractable seizures (epileptic encephalopathy), psychomotor regression, and spasticity. Ocular involvement, which could manifest as an abnormal electroretinogram, is a known feature. The risk of sudden unexpected death in epilepsy (SUDEP) is also increased in severe mitochondrial encephalopathies. Increased nuchal translucency is less commonly reported as a specific prenatal marker, but the overall neurological picture is a strong match."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Complex Deficiency, E1-alpha Type",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "Pyruvate Dehydrogenase Complex Deficiency is a primary metabolic disorder that often presents in infancy with severe global developmental delay, intractable seizures (including epileptic spasms and epileptic encephalopathy), hypotonia, spasticity, and cerebral atrophy. While less common, ocular manifestations like optic atrophy are known, which can correlate with an abnormal electroretinogram. Increased nuchal translucency is not a common specific prenatal feature, but the severe neurological and developmental profile aligns with the patient's symptoms."
+    }
+  ]
+}

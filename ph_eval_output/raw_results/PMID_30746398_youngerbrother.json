@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multisystem Atrophy",
+      "disease_id": "OMIM:159900",
+      "score": 1.0,
+      "explanation": "Multisystem Atrophy (MSA) is a highly probable diagnosis given the unique combination of parkinsonism (rigidity, bradykinesia, stooped posture), pyramidal signs (hyperreflexia, Babinski sign), and cerebellar features (cerebellar atrophy, positive Romberg sign). MSA is characterized by neurodegeneration affecting multiple systems, and both the parkinsonian (MSA-P) and cerebellar (MSA-C) variants can present with overlapping features as seen in this patient, although onset at 27 years is earlier than typical."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.5,
+      "explanation": "Spinocerebellar Ataxia Type 3 (SCA3), also known as Machado-Joseph Disease, is a common autosomal dominant ataxia known for its highly variable presentation. It frequently includes cerebellar ataxia (matching cerebellar atrophy and Romberg sign), parkinsonism, pyramidal signs (hyperreflexia, Babinski), and dystonia. The age of onset is also highly variable, often in adulthood, making it a strong candidate for these combined features."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.3333333333333333,
+      "explanation": "Spinocerebellar Ataxia Type 2 (SCA2) commonly manifests with cerebellar ataxia and can also feature prominent parkinsonism and pyramidal signs, along with characteristic slow saccades (not explicitly mentioned but often present). The constellation of cerebellar atrophy, parkinsonism, and upper motor neuron signs aligns well with the phenotypic spectrum of SCA2."
+    },
+    {
+      "disease_name": "Dentatorubral-pallidoluysian Atrophy",
+      "disease_id": "OMIM:125370",
+      "score": 0.25,
+      "explanation": "Dentatorubral-pallidoluysian Atrophy (DRPLA) is an autosomal dominant neurodegenerative disorder that primarily affects the cerebellum and basal ganglia. It is characterized by cerebellar ataxia (consistent with cerebellar atrophy and Romberg sign), and in adult-onset forms, can also present with prominent parkinsonism and pyramidal signs, alongside other neurological features."
+    },
+    {
+      "disease_name": "PLA2G6-associated neurodegeneration, atypical neuroaxonal dystrophy (ANAD) subtype",
+      "disease_id": "OMIM:610217",
+      "score": 0.2,
+      "explanation": "PLA2G6-associated neurodegeneration encompasses a spectrum of disorders, including atypical neuroaxonal dystrophy (ANAD). ANAD can present in adolescence or early adulthood with a combination of cerebellar ataxia, spasticity (pyramidal signs), dystonia, and parkinsonism, fitting the patient's age and the complex motor features including cerebellar atrophy, parkinsonism, and upper motor neuron signs."
+    },
+    {
+      "disease_name": "Wilson Disease",
+      "disease_id": "OMIM:277900",
+      "score": 0.16666666666666666,
+      "explanation": "Wilson Disease is an inherited disorder of copper metabolism that frequently presents with neurological symptoms in early adulthood, including a wide range of movement disorders such as parkinsonism, dystonia, tremor, and cerebellar ataxia. Pyramidal signs can also be present. While cerebellar atrophy might not be as prominent as in other listed diseases, its treatability and the broad range of neurological manifestations make it an important differential to consider."
+    }
+  ]
+}

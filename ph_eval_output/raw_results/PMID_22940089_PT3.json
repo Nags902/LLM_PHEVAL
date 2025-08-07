@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the classic combination of early-onset obesity, rod-cone dystrophy (manifesting as nyctalopia and reduced visual acuity), and postaxial polydactyly. Ptosis and astigmatism are also common ophthalmic features associated with Bardet-Biedl Syndrome. This condition is a genetically heterogeneous ciliopathy, with mutations in over 20 known genes (e.g., BBS1, BBS2, BBS4, BBS7, BBS9, BBS10, etc.), all leading to a similar clinical spectrum."
+    },
+    {
+      "disease_name": "Joubert Syndrome and Related Disorders",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome and Related Disorders (JSRD) are a group of ciliopathies that can present with retinal dystrophy (leading to nyctalopia and reduced visual acuity) and postaxial polydactyly, making them relevant differentials. While the hallmark is the 'molar tooth sign' on brain imaging and ataxia, some JSRD subtypes can also include obesity, especially those with genetic overlap with Bardet-Biedl Syndrome (e.g., mutations in CEP290 or ARL6, which are also BBS genes). The shared ciliary dysfunction explains the phenotypic overlap."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.33,
+      "explanation": "Alstr\u00f6m Syndrome shares several key features with the patient's presentation, including early-onset obesity and progressive cone-rod dystrophy (leading to nyctalopia and reduced visual acuity). However, a distinguishing feature of Alstr\u00f6m Syndrome is the typical absence of postaxial polydactyly, which is a prominent finding in the patient. It also commonly includes sensorineural hearing loss and dilated cardiomyopathy, which were not reported, making it a less likely fit compared to Bardet-Biedl Syndrome."
+    }
+  ]
+}

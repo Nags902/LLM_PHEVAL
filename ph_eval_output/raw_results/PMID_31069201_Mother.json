@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CTLA4 Haploinsufficiency",
+      "disease_id": "OMIM:616053",
+      "score": 1.0,
+      "explanation": "This condition is a strong candidate as it frequently presents with a Common Variable Immunodeficiency (CVID)-like phenotype, characterized by hypogammaglobulinemia (decreased IgA and IgM), B lymphocytopenia, impaired class-switched memory B cells, T-cell dysregulation (including altered CD4:CD8 ratio), and common autoimmune manifestations such as thrombocytopenia. The patient's age (P44Y) is consistent with adult onset."
+    },
+    {
+      "disease_name": "LRBA Deficiency",
+      "disease_id": "OMIM:616599",
+      "score": 0.5,
+      "explanation": "LRBA deficiency causes a combined immunodeficiency with immune dysregulation, sharing many features with CTLA4 haploinsufficiency. Patients often exhibit hypogammaglobulinemia (decreased IgA and IgM), B cell abnormalities including impaired class-switched memory B cells, T-cell dysregulation, and autoimmune cytopenias like thrombocytopenia. The clinical presentation aligns very well with the patient's profile, including the age of onset."
+    },
+    {
+      "disease_name": "PIK3CD-related immunodeficiency (Activated PI3K-delta Syndrome)",
+      "disease_id": "OMIM:615513",
+      "score": 0.3333333333333333,
+      "explanation": "Activated PI3K-delta Syndrome (APDS) is a primary immunodeficiency characterized by recurrent infections, hypogammaglobulinemia (including decreased IgA and IgM), B cell maturation defects (leading to decreased class-switched memory B cells and B lymphocytopenia), lymphoproliferation, and autoimmune manifestations, including cytopenias such as thrombocytopenia. T-cell abnormalities and an altered CD4:CD8 ratio are also common, making it a very strong fit."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607943",
+      "score": 0.25,
+      "explanation": "Common Variable Immunodeficiency (CVID) is a heterogeneous group of primary immunodeficiencies that is the most encompassing clinical diagnosis for the patient's presentation. It is defined by impaired antibody production (low IgA and IgM), B lymphocytopenia, reduced class-switched memory B cells, and often associated with T-cell abnormalities (like decreased CD4:CD8 ratio) and autoimmune complications (e.g., thrombocytopenia). The patient's age is typical for CVID diagnosis."
+    },
+    {
+      "disease_name": "Good Syndrome (Thymoma with immunodeficiency)",
+      "disease_id": "OMIM:600854",
+      "score": 0.2,
+      "explanation": "Good Syndrome is an acquired immunodeficiency typically presenting in adulthood. It is characterized by thymoma, profound B lymphocytopenia, hypogammaglobulinemia (including decreased IgA and IgM), and T-cell abnormalities such as an inverted CD4:CD8 ratio. Thrombocytopenia can also occur. This syndrome offers a good explanation for the patient's combined immunodeficiency and hematological findings, provided a thymoma is present or develops."
+    },
+    {
+      "disease_name": "NFKB2 Deficiency",
+      "disease_id": "OMIM:615514",
+      "score": 0.16666666666666666,
+      "explanation": "NFKB2 deficiency can cause a combined immunodeficiency with a CVID-like phenotype, including hypogammaglobulinemia (decreased IgA and IgM), B cell defects, and varying degrees of T cell abnormalities such as altered CD4:CD8 ratios. While specific mention of class-switched memory B cell decrease or thrombocytopenia as primary features may vary, the overall immunologic picture is consistent."
+    },
+    {
+      "disease_name": "TNFRSF13B Deficiency (TACI Deficiency)",
+      "disease_id": "OMIM:602697",
+      "score": 0.14285714285714285,
+      "explanation": "Mutations in TNFRSF13B, encoding TACI, are a common genetic association with CVID. This deficiency primarily leads to impaired antibody production, hypogammaglobulinemia (including decreased IgA and IgM), and B cell defects like reduced class-switched memory B cells. While it primarily affects humoral immunity, some patients may also present with broader immune dysregulation, although the extent of T-cell abnormalities or autoimmune cytopenias may be less consistent than in other CVID genetic causes."
+    }
+  ]
+}

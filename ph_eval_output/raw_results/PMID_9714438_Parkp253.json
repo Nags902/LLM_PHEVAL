@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "This disease (Beals-Hecht Syndrome) is an excellent fit, uniquely explaining the combination of crumpled ear, arachnodactyly, camptodactyly of fingers and toes, elbow contracture, and scoliosis. While aortic root aneurysm is less common than in Marfan or Loeys-Dietz syndromes, mitral valve prolapse is a frequent cardiac finding, and aortic dilation can occur."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan syndrome is a strong candidate given the presence of arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse, which are hallmark features. While joint hypermobility is more typical, contractures can occur. The 'crumpled ear' is not a characteristic feature of Marfan syndrome, making it a slightly less precise fit than Congenital Contractural Arachnodactyly for the overall phenotype."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "Loeys-Dietz syndrome, encompassing several genetic subtypes (e.g., OMIM:609192, 610168, 613795, 614481, 615582, 616900), is a strong consideration due to the prominent aortic root aneurysm and mitral valve prolapse, coupled with arachnodactyly, scoliosis, and joint contractures (camptodactyly, elbow contracture). While generally associated with specific craniofacial features (not listed), the overlap in cardiovascular and skeletal findings is significant. The 'crumpled ear' is not a defining feature."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182280",
+      "score": 0.25,
+      "explanation": "Shprintzen-Goldberg syndrome shares significant phenotypic overlap with Marfan and Loeys-Dietz syndromes, including arachnodactyly, joint contractures (camptodactyly, elbow contracture), scoliosis, aortic root aneurysm, and mitral valve prolapse. It is also a connective tissue disorder but often presents with craniosynostosis and developmental delay, which are not listed. The 'crumpled ear' is not a specific characteristic of this syndrome."
+    }
+  ]
+}

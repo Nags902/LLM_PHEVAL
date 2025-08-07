@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:605437",
+      "score": 1.0,
+      "explanation": "This syndrome is the classic and most common cause of the described triad: hypoparathyroidism (due to parathyroid gland hypoplasia/aplasia), aplasia/hypoplasia of the thymus, and subsequent T lymphocytopenia. These features result from abnormal development of the 3rd and 4th pharyngeal pouches, which are affected by the 22q11.2 deletion."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "While less commonly presenting solely with this specific triad, CHARGE syndrome (caused by mutations in CHD7) can involve hypoparathyroidism and immune deficiencies, including T-cell issues, due to thymic hypoplasia. It is a broad developmental disorder with some potential phenotypic overlap, making it a distant but relevant differential."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, Autosomal Dominant",
+      "disease_id": "OMIM:179800",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches all the provided phenotypic features, including distal renal tubular acidosis, hypokalemia, alkaline urine, impaired renal concentrating ability, nephrocalcinosis, and nephrolithiasis. It is the most common form of inherited dRTA, often presenting in adolescence or adulthood, and aligns comprehensively with the patient's symptoms."
+    },
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, With Sensorineural Deafness, Type 1",
+      "disease_id": "OMIM:267300",
+      "score": 0.5,
+      "explanation": "This autosomal recessive form of dRTA, caused by mutations in *ATP6V1B1*, presents with identical renal manifestations as seen in the patient (distal renal tubular acidosis, hypokalemia, alkaline urine, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability). While sensorineural deafness is a common associated feature, it can be mild, late-onset, or sometimes absent, making this a strong differential diagnosis despite the lack of reported deafness."
+    },
+    {
+      "disease_name": "Renal Tubular Acidosis, Distal, With Sensorineural Deafness, Type 2",
+      "disease_id": "OMIM:602722",
+      "score": 0.33,
+      "explanation": "Similar to Type 1, this autosomal recessive form of dRTA, caused by mutations in *ATP6V0A4*, shares all the core renal phenotypic features of the patient. The absence of reported sensorineural deafness makes it slightly less likely than the autosomal dominant form based solely on the provided data, but it remains a significant genetic cause to consider given the comprehensive match of kidney symptoms."
+    },
+    {
+      "disease_name": "Sj\u00f6gren Syndrome, Primary",
+      "disease_id": "OMIM:270150",
+      "score": 0.25,
+      "explanation": "Primary Sj\u00f6gren syndrome is an autoimmune disease that can cause secondary distal renal tubular acidosis due to autoimmune tubulointerstitial nephritis. This would explain all the renal manifestations, including hypokalemia, alkaline urine, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability. Although no other classic Sj\u00f6gren symptoms (e.g., sicca symptoms, arthralgia) are reported, it is a known non-genetic cause of this precise combination of renal findings and should be considered in the differential diagnosis."
+    }
+  ]
+}

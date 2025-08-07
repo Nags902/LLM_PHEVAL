@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy, Type 2",
+      "disease_id": "OMIM:269700",
+      "score": 1.0,
+      "explanation": "This is the most common form of congenital generalized lipodystrophy (CGL) and perfectly matches all the patient's phenotypic features, including near-total loss of subcutaneous adipose tissue in limbs and trunk (lipodystrophy), severe insulin resistance leading to early-onset type II diabetes mellitus, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and pancreatitis, which is often a complication of severe hypertriglyceridemia. The age of onset for metabolic complications is also consistent."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy, Type 1",
+      "disease_id": "OMIM:608595",
+      "score": 0.5,
+      "explanation": "Congenital Generalized Lipodystrophy, Type 1, caused by mutations in AGPAT2, is clinically almost identical to CGL Type 2. It presents with the hallmark features of generalized lipodystrophy from birth or early infancy, severe metabolic syndrome including type II diabetes, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and a predisposition to pancreatitis, making it an extremely strong candidate."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy, Type 3",
+      "disease_id": "OMIM:612526",
+      "score": 0.3333333333333333,
+      "explanation": "This is another rare subtype of congenital generalized lipodystrophy (due to CAV1 mutations) that precisely fits the patient's presentation. It is characterized by severe generalized fat loss, leading to profound insulin resistance, type II diabetes mellitus, dyslipidemia (hypertriglyceridemia, hypercholesterolemia), hepatic steatosis, and the potential for pancreatitis. It aligns well with all provided phenotypic features."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy, Type 4",
+      "disease_id": "OMIM:613325",
+      "score": 0.25,
+      "explanation": "Congenital Generalized Lipodystrophy, Type 4 (caused by PTRF mutations), is also characterized by the near-complete absence of adipose tissue and the associated severe metabolic syndrome observed in the patient. This includes type II diabetes mellitus, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and pancreatitis, making it a highly relevant differential diagnosis for the presented clinical picture."
+    },
+    {
+      "disease_name": "Familial Partial Lipodystrophy, Type 4",
+      "disease_id": "OMIM:613877",
+      "score": 0.2,
+      "explanation": "While typically a partial lipodystrophy, severe forms of Familial Partial Lipodystrophy (FPLD) can present with extensive fat loss, particularly from limbs and gluteal/truncal regions. Critically, these forms are associated with severe metabolic complications identical to those seen in the patient, including severe insulin resistance, type II diabetes, hypertriglyceridemia, hepatic steatosis, and pancreatitis. It is a plausible differential if the fat loss is not truly 'total generalized' but very widespread."
+    }
+  ]
+}

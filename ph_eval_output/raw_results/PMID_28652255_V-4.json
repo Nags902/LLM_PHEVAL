@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1",
+      "disease_id": "OMIM:289600",
+      "score": 1.0,
+      "explanation": "This disease presents an excellent fit for all provided phenotypic features. It classically manifests with cerebellar ataxia, oculomotor apraxia (which can lead to supranuclear gaze palsy), dysarthria, and peripheral neuropathy causing hyporeflexia. Importantly, hypoalbuminemia is a hallmark biochemical finding, and choreoathetosis or dystonia are common movement disorders observed in affected individuals."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 2",
+      "disease_id": "OMIM:606002",
+      "score": 0.5,
+      "explanation": "Very similar to AOA1 in its neurological presentation, AOA2 typically features progressive cerebellar ataxia, oculomotor apraxia (leading to supranuclear gaze palsy), dysarthria, and peripheral neuropathy resulting in hyporeflexia. While athetosis might be less commonly highlighted than other movement disorders, it can occur. This type is also associated with mild hypoalbuminemia and elevated alpha-fetoprotein, making it a strong candidate."
+    },
+    {
+      "disease_name": "Wilson Disease",
+      "disease_id": "OMIM:277900",
+      "score": 0.333,
+      "explanation": "Wilson Disease is a strong contender due to the combination of neurological symptoms, including prominent athetosis (a characteristic extrapyramidal feature), ataxia, and dysarthria, all stemming from basal ganglia and cerebellar involvement. Crucially, the associated liver disease is a direct cause of hypoalbuminemia. While supranuclear gaze palsy is not a classic primary feature, other eye movement abnormalities can be present."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease, Type C1",
+      "disease_id": "OMIM:257220",
+      "score": 0.25,
+      "explanation": "Niemann-Pick Disease Type C is well-known for progressive neurological deterioration with highly characteristic features such as supranuclear gaze palsy, ataxia, dysarthria, and dystonia/athetosis, aligning well with several of the patient's neurological symptoms. However, hypoalbuminemia is not a typical or defining biochemical feature, making it a less comprehensive fit compared to the top ranked diseases, despite potential liver involvement."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinal muscular atrophy, lower extremity predominant 1 (SMALED1)",
+      "disease_id": "OMIM:604320",
+      "score": 1.0,
+      "explanation": "This disease, caused by mutations in the IGHMBP2 gene, aligns exceptionally well with the patient's phenotype. It is characterized by progressive distal muscle weakness and atrophy (distal lower limb amyotrophy, loss of ambulation, frequent falls, steppage gait, pes cavus, absent Achilles reflex). Crucially, it involves both motor neuron features (facial-lingual fasciculations, facial weakness, dysarthria, ptosis, strabismus) and an axonal motor and sensory neuropathy (motor axonal neuropathy, impaired vibratory sensation), which precisely matches the complex presentation of this patient, including the childhood onset (delayed gross motor development). This disease is allelic to Charcot-Marie-Tooth disease, axonal, type 2S (CMT2S), also caused by IGHMBP2."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia, type 1C (PCH1C)",
+      "disease_id": "OMIM:616657",
+      "score": 0.5,
+      "explanation": "PCH1C, caused by mutations in EXOSC3, presents with severe motor neuron disease, often including bulbar involvement (facial weakness, dysarthria), fasciculations, and progressive weakness leading to loss of ambulation and motor delay. It can also feature an axonal neuropathy (motor axonal neuropathy, impaired vibratory sensation). While typically associated with pontocerebellar hypoplasia (a finding not provided) and often a more severe congenital presentation with arthrogryposis, the prominent neuromuscular phenotype, including the combination of motor neuron signs and neuropathy, makes it a strong candidate for many of the described features."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, axonal, type 2A (CMT2A)",
+      "disease_id": "OMIM:609260",
+      "score": 0.3333333333333333,
+      "explanation": "CMT2A, caused by mutations in MFN2, is a common and often severe form of axonal Charcot-Marie-Tooth disease. It accounts for many of the core features observed, including motor axonal neuropathy, impaired vibratory sensation, distal lower limb amyotrophy, steppage gait, pes cavus, absent Achilles reflex, frequent falls, and loss of ambulation, with a childhood onset. While the prominent facial-lingual fasciculations and specific cranial nerve involvement (ptosis, strabismus, facial weakness) are less typical for classical CMT2A, they can occur in some severe or atypical presentations, making it a plausible differential."
+    },
+    {
+      "disease_name": "Giant axonal neuropathy (GAN)",
+      "disease_id": "OMIM:256850",
+      "score": 0.25,
+      "explanation": "Giant axonal neuropathy, caused by mutations in the GAN gene, is a progressive, severe axonal neuropathy that typically presents in childhood. It explains features such as motor axonal neuropathy, impaired vibratory sensation, distal amyotrophy, steppage gait, pes cavus, and progressive weakness leading to loss of ambulation. Cranial nerve involvement, including dysarthria and facial weakness, can also occur. While facial-lingual fasciculations are not a hallmark, severe denervation can lead to such signs. The absence of characteristic kinky hair or prominent intellectual disability/cerebellar ataxia (common in GAN) makes it a slightly less precise fit but still a strong consideration given the severe axonal neuropathy."
+    }
+  ]
+}

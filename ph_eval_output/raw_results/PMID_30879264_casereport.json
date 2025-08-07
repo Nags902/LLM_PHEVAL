@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome type 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Excellent match for the characteristic craniofacial features (highly arched eyebrow, epicanthus, ptosis, depressed/broad/pear-shaped nose, short philtrum, wide mouth, exaggerated cupid's bow, thin upper lip vermilion, pointed chin, cleft palate, hypertelorism). These features are highly specific to Kabuki syndrome. The patient's presentation is also consistent with global developmental delay, hypotonia, seizures, autistic features, short stature, feeding difficulties, sensorineural hearing impairment, recurrent infections (otitis media, respiratory), and inguinal hernia. Brain anomalies like Dandy-Walker malformation and brainstem hypoplasia, although not universal, have been reported in Kabuki syndrome."
+    },
+    {
+      "disease_name": "Kabuki syndrome type 2",
+      "disease_id": "OMIM:300295",
+      "score": 1.0,
+      "explanation": "Excellent match for the characteristic craniofacial features (highly arched eyebrow, epicanthus, ptosis, depressed/broad/pear-shaped nose, short philtrum, wide mouth, exaggerated cupid's bow, thin upper lip vermilion, pointed chin, cleft palate, hypertelorism). These features are highly specific to Kabuki syndrome. The patient's presentation is also consistent with global developmental delay, hypotonia, seizures, autistic features, short stature, feeding difficulties, sensorineural hearing impairment, recurrent infections (otitis media, respiratory), and inguinal hernia. Brain anomalies like Dandy-Walker malformation and brainstem hypoplasia, although not universal, have been reported in Kabuki syndrome. This X-linked form, while rarer, is a definite possibility for a female patient."
+    },
+    {
+      "disease_name": "Mowat-Wilson syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.333,
+      "explanation": "Shares significant overlap with several key features, including brain malformations (Dandy-Walker, brainstem hypoplasia), global developmental delay, hypotonia (axial and appendicular), seizures, short stature, and feeding difficulties. Some craniofacial features like wide mouth, depressed nasal bridge, broad nasal tip, hypertelorism, and ptosis are present. However, the specific lip (exaggerated cupid's bow, thin upper lip vermilion), philtrum (short), and eyebrow (highly arched) features are less typical for Mowat-Wilson syndrome. The absence of Hirschsprung disease, a major feature in many MWS patients, also reduces its likelihood compared to Kabuki syndrome."
+    },
+    {
+      "disease_name": "Ritscher-Schinzel syndrome type 1",
+      "disease_id": "OMIM:268570",
+      "score": 0.25,
+      "explanation": "Shares several important features including Dandy-Walker malformation (cerebellar hypoplasia), cleft palate, hypertelorism, depressed nasal bridge, global developmental delay, and short stature. However, the overall specific craniofacial gestalt, particularly the exaggerated cupid's bow, thin upper lip vermilion, and highly arched eyebrows, is not as precise a match as seen in Kabuki syndrome. This type is caused by KIF7 mutations."
+    },
+    {
+      "disease_name": "Ritscher-Schinzel syndrome type 2",
+      "disease_id": "OMIM:612623",
+      "score": 0.25,
+      "explanation": "Shares several important features including Dandy-Walker malformation (cerebellar hypoplasia), cleft palate, hypertelorism, depressed nasal bridge, global developmental delay, and short stature. However, the overall specific craniofacial gestalt, particularly the exaggerated cupid's bow, thin upper lip vermilion, and highly arched eyebrows, is not as precise a match as seen in Kabuki syndrome. This type is caused by WDR35 mutations."
+    }
+  ]
+}

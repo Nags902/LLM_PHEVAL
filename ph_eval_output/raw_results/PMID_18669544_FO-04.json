@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This syndrome is a ciliopathy characterized by the cardinal features observed, including rod-cone dystrophy (leading to nyctalopia, myopia, reduced visual acuity), obesity, and intellectual disability. These symptoms are highly consistent with the patient's presentation, making it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.5,
+      "explanation": "Cohen Syndrome is a strong candidate, as it typically presents with intellectual disability, obesity, and progressive chorioretinal dystrophy (which can manifest as reduced visual acuity, myopia, and nyctalopia). It shares significant phenotypic overlap with Bardet-Biedl Syndrome."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209901",
+      "score": 0.333,
+      "explanation": "BBS1 is one of the most common genetic subtypes of Bardet-Biedl Syndrome, caused by mutations in the BBS1 gene. Its clinical presentation mirrors the general features of BBS, including rod-cone dystrophy, obesity, and intellectual disability, fitting the patient's phenotype."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 10",
+      "disease_id": "OMIM:610156",
+      "score": 0.25,
+      "explanation": "BBS10 is another frequently identified genetic subtype of Bardet-Biedl Syndrome, caused by mutations in the BBS10 gene. It manifests with the classic features of BBS, such as rod-cone dystrophy, obesity, and intellectual disability, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome 1",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Alstr\u00f6m Syndrome features progressive cone-rod dystrophy (explaining the visual symptoms) and obesity. However, the patient's intellectual disability is not a typical feature of Alstr\u00f6m Syndrome, making it a less likely but still possible diagnosis given the other shared features."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.167,
+      "explanation": "Prader-Willi Syndrome is characterized by intellectual disability and obesity. However, the progressive retinal dystrophy (myopia, reduced visual acuity, nyctalopia) observed in the patient is not a typical or primary feature of Prader-Willi Syndrome, making it a less probable diagnosis."
+    }
+  ]
+}

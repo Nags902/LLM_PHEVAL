@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 1.0,
+      "explanation": "This severe progressive neurodegenerative disorder strongly matches the patient's presentation with epileptic encephalopathy, severe intellectual disability, cerebral atrophy, and various seizure types including focal tonic and generalized myoclonic. Infantile spasms and EEG with burst suppression are also characteristic features."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy is a common genetic cause of early infantile epileptic encephalopathy, which frequently presents with severe intellectual disability, infantile spasms, burst suppression on EEG, and multifocal epileptiform discharges. Cerebral atrophy is also a recognized feature in some patients."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.333,
+      "explanation": "CDKL5 deficiency disorder is a well-known cause of severe early-onset epileptic encephalopathy, characterized by intractable seizures (often including infantile spasms), severe intellectual disability, and a range of EEG abnormalities including burst suppression and multifocal epileptiform discharges. Cerebral atrophy can be observed."
+    },
+    {
+      "disease_name": "Nonketotic Hyperglycinemia",
+      "disease_id": "OMIM:238300",
+      "score": 0.25,
+      "explanation": "Nonketotic Hyperglycinemia is a severe metabolic disorder that typically presents in infancy with intractable seizures (including infantile spasms and myoclonic seizures), profound encephalopathy with burst suppression on EEG, severe intellectual disability, and often cerebral atrophy."
+    },
+    {
+      "disease_name": "WWOX-related epileptic encephalopathy",
+      "disease_id": "OMIM:616339",
+      "score": 0.2,
+      "explanation": "This condition causes early-onset epileptic encephalopathy with severe global developmental delay, profound intellectual disability, and cerebral atrophy. Seizure types reported include infantile spasms, and EEG can show multifocal epileptiform discharges and burst suppression."
+    }
+  ]
+}

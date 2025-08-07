@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 1.0,
+      "explanation": "This severe X-linked neurodevelopmental disorder in males presents with profound intellectual disability, global developmental delay, developmental regression, and microcephaly. Feeding difficulties requiring tube feeding and severe chronic constipation are very common. Motor issues, including spasticity and hypotonia, can lead to talipes equinovarus. The overall phenotypic constellation aligns strongly with this diagnosis."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis, Type 2 (CLN2 Disease)",
+      "disease_id": "OMIM:204500",
+      "score": 0.5,
+      "explanation": "CLN2 disease is a lysosomal storage disorder characterized by progressive neurodegeneration, including developmental regression, intellectual disability, microcephaly due to cerebral atrophy, and motor dysfunction that can contribute to talipes equinovarus. Feeding difficulties and gastrointestinal issues like constipation are also common. While typically presenting in early childhood, survival into adulthood can occur, especially with supportive care, making it a strong candidate for progressive neurological symptoms."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.33,
+      "explanation": "Leigh syndrome is a severe mitochondrial encephalomyopathy known for causing developmental regression, intellectual disability, and often microcephaly. Multi-system involvement leads to feeding difficulties, chronic constipation, and neuromuscular manifestations such as hypotonia or spasticity that can result in talipes equinovarus. It fits the progressive and global developmental impairment observed in the patient."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:612938",
+      "score": 0.25,
+      "explanation": "FOXG1 syndrome is a severe neurodevelopmental disorder presenting with congenital microcephaly, profound intellectual disability, global developmental delay, and a period of developmental stagnation or regression. Feeding difficulties often necessitate tube feeding, and chronic constipation is a common comorbidity. While talipes equinovarus is not a primary feature, it can occur in severe neurological conditions due to motor dysfunction."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.2,
+      "explanation": "PMM2-CDG is the most common type of congenital disorders of glycosylation, a group of metabolic disorders with multi-system involvement. Patients typically present with global developmental delay, intellectual disability, and sometimes developmental regression. Microcephaly, chronic constipation, and feeding difficulties requiring tube feeding are well-documented features. Talipes equinovarus is also a recognized skeletal anomaly in this syndrome."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie Syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Gillespie Syndrome is classically characterized by the triad of partial aniridia, cerebellar ataxia, and intellectual disability. The presence of both aniridia and ataxia in the patient makes this syndrome an excellent and highly specific match, as these are core phenotypic features."
+    },
+    {
+      "disease_name": "PAX6-related Aniridia Spectrum Disorder",
+      "disease_id": "OMIM:106210",
+      "score": 0.5,
+      "explanation": "Aniridia is primarily caused by mutations or deletions involving the PAX6 gene. The PAX6 gene plays a critical role not only in eye development but also in brain development. Therefore, a spectrum of neurological abnormalities, including cerebellar hypoplasia, intellectual disability, and ataxia, can occur in individuals with PAX6-related aniridia, extending beyond isolated ocular findings. WAGR syndrome (Wilms tumor, Aniridia, Genitourinary anomalies, intellectual disability, OMIM:194072) is a well-known, more severe manifestation within this broader PAX6-related spectrum, and patients can present with developmental and neurological issues, though ataxia specifically might be less common as a defining feature compared to Gillespie Syndrome."
+    }
+  ]
+}

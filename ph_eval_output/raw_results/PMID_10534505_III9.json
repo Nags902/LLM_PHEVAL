@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, AL-Type, Systemic",
+      "disease_id": "OMIM:105200",
+      "score": 1.0,
+      "explanation": "AL amyloidosis is the most common form of systemic amyloidosis and frequently involves deposition in multiple organs, including the kidneys and liver. This directly explains the renal amyloidosis, hepatic amyloidosis, resulting renal insufficiency, and associated anemia."
+    },
+    {
+      "disease_name": "Familial Mediterranean Fever (leading to AA Amyloidosis)",
+      "disease_id": "OMIM:249100",
+      "score": 0.5,
+      "explanation": "Familial Mediterranean Fever (FMF) is a genetic autoinflammatory disorder that can cause chronic inflammation, leading to secondary (AA) amyloidosis. AA amyloidosis classically affects the kidneys and liver, causing renal amyloidosis, hepatic amyloidosis, subsequent renal insufficiency, and anemia of chronic disease."
+    },
+    {
+      "disease_name": "Amyloidosis, Transthyretin Type, Systemic 1 (hATTR)",
+      "disease_id": "OMIM:105210",
+      "score": 0.333,
+      "explanation": "Hereditary transthyretin (hATTR) amyloidosis is a systemic amyloidosis caused by mutations in the TTR gene. While often characterized by neuropathy and cardiomyopathy, it can also involve the kidneys and liver, potentially leading to renal amyloidosis, hepatic amyloidosis, renal insufficiency, and anemia."
+    }
+  ]
+}

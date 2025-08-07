@@ -1,0 +1,88 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Axillary and inguinal freckling (Crowe's sign) is a highly characteristic and diagnostic feature of Neurofibromatosis type 1. Even without specific location mentioned, 'freckling' as a sole finding makes this common rare disease a strong primary consideration."
+    },
+    {
+      "disease_name": "LEOPARD Syndrome 1 (Noonan Syndrome with Multiple Lentigines 1)",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "Multiple lentigines, which are often described as freckle-like spots, are a hallmark feature of LEOPARD Syndrome (the 'L' in LEOPARD). This syndrome is a significant consideration given the presence of freckling."
+    },
+    {
+      "disease_name": "LEOPARD Syndrome 2 (Noonan Syndrome with Multiple Lentigines 2)",
+      "disease_id": "OMIM:611554",
+      "score": 0.5,
+      "explanation": "Similar to LEOPARD Syndrome 1, multiple lentigines are a characteristic feature of this genetic subtype, making it a relevant consideration for the reported freckling."
+    },
+    {
+      "disease_name": "LEOPARD Syndrome 3 (Noonan Syndrome with Multiple Lentigines 3)",
+      "disease_id": "OMIM:613707",
+      "score": 0.5,
+      "explanation": "Consistent with other LEOPARD Syndrome types, multiple lentigines are a prominent feature, supporting its inclusion as a potential cause of freckling."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group A",
+      "disease_id": "OMIM:278700",
+      "score": 0.333,
+      "explanation": "Freckle-like pigmentation and other pigmentary changes are prominent features of Xeroderma Pigmentosum due to extreme photosensitivity, often appearing early in life. This is one of the more common and severe forms."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group B",
+      "disease_id": "OMIM:126340",
+      "score": 0.333,
+      "explanation": "Similar to other types of Xeroderma Pigmentosum, abnormal freckling and pigmentary changes are characteristic cutaneous manifestations due to impaired DNA repair."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group C",
+      "disease_id": "OMIM:278720",
+      "score": 0.333,
+      "explanation": "Abnormal skin pigmentation, including freckle-like spots, is a key feature of Xeroderma Pigmentosum, Complementation Group C, due to severe photosensitivity."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group D",
+      "disease_id": "OMIM:278730",
+      "score": 0.333,
+      "explanation": "This subtype of Xeroderma Pigmentosum presents with similar pigmentary changes, including freckles, resulting from impaired DNA repair mechanisms and increased sensitivity to UV light."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group E",
+      "disease_id": "OMIM:278740",
+      "score": 0.333,
+      "explanation": "Patients with Xeroderma Pigmentosum, Complementation Group E, commonly exhibit skin manifestations such as severe freckling, reflecting their high susceptibility to sun damage."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group F",
+      "disease_id": "OMIM:278760",
+      "score": 0.333,
+      "explanation": "Freckle-like pigmentation is a typical dermatological sign in Xeroderma Pigmentosum, Complementation Group F, indicative of the underlying defect in DNA repair."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group G",
+      "disease_id": "OMIM:278780",
+      "score": 0.333,
+      "explanation": "As with other XP types, Xeroderma Pigmentosum, Complementation Group G, is characterized by sun-induced freckling and other pigmentary abnormalities due to defective nucleotide excision repair."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, Complementation Group V (Variant)",
+      "disease_id": "OMIM:278750",
+      "score": 0.333,
+      "explanation": "The variant form of Xeroderma Pigmentosum also presents with similar sun-induced skin changes, including severe freckling, making it a relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Carney Complex, Type 1",
+      "disease_id": "OMIM:160980",
+      "score": 0.25,
+      "explanation": "Cutaneous lentigines and ephelides (freckles), often distributed irregularly, are common and often early manifestations of Carney Complex, making it a relevant consideration for the reported freckling."
+    },
+    {
+      "disease_name": "Peutz-Jeghers Syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.2,
+      "explanation": "Peutz-Jeghers Syndrome is characterized by distinctive mucocutaneous lentigines, which are a specific type of freckle-like macules, particularly prominent around the mouth, nose, eyes, and on the buccal mucosa."
+    }
+  ]
+}

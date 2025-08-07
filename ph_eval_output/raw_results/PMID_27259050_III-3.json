@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Recessive 5 (RTEL1-related)",
+      "disease_id": "OMIM:613635",
+      "score": 1.0,
+      "explanation": "This rare telomere biology disorder presents with a strong combination of the patient's symptoms. It is characterized by severe bone marrow failure leading to hypocellularity and pancytopenia (anemia, neutropenia, thrombocytopenia, purpura), and also commonly involves progressive neurological manifestations including cerebellar ataxia, nystagmus, dysarthria, dysmetria, and pyramidal signs such as ankle clonus and Babinski sign, making it an excellent fit for all provided phenotypic features."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Ataxia-Telangiectasia is a classic neurodegenerative disorder primarily defined by progressive cerebellar ataxia (unsteady gait, nystagmus, dysarthria, dysmetria) and pyramidal signs (ankle clonus, Babinski sign), which are hallmark neurological features. While not primarily a bone marrow failure syndrome, patients can develop cytopenias and bone marrow abnormalities, including hypocellularity, and have an increased risk of myelodysplastic syndrome or leukemia, thus accounting for the hematologic features."
+    },
+    {
+      "disease_name": "Cerebroretinal Microangiopathy with Calcifications and Cysts (CTC1-related)",
+      "disease_id": "OMIM:612716",
+      "score": 0.33,
+      "explanation": "This condition is another telomere biology disorder that significantly overlaps with the patient's presentation. It is known to cause severe bone marrow failure (aplastic anemia, leading to pancytopenia and hypocellularity) alongside pronounced neurological features such as ataxia, spasticity (pyramidal signs), and nystagmus. Although more typically associated with brain calcifications and retinal abnormalities, these may not always be clinically prominent or documented, making it a strong differential for combined neuro-hematologic symptoms."
+    }
+  ]
+}

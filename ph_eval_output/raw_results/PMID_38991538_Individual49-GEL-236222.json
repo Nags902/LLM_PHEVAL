@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Nicolaides-Baraitser Syndrome",
+      "disease_id": "OMIM:610127",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent fit, encompassing a high proportion of the patient's features. Key matches include microcephaly, intellectual disability, seizures, global developmental delay, short stature, and prominently, the distinctive craniofacial features such as a prominent metopic ridge, high forehead, and tented philtrum. Delayed speech and language development, and gastroesophageal reflux are also frequently observed in this condition. The combination of all these specific features makes it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Pitt-Hopkins Syndrome is a strong candidate given the presence of intellectual disability, seizures, global developmental delay, gastroesophageal reflux, and a tented philtrum, which is a characteristic facial feature. Microcephaly and short stature can also be seen in this condition. However, the prominent metopic ridge and high forehead are less classic for Pitt-Hopkins Syndrome compared to Nicolaides-Baraitser Syndrome. Additionally, the absence of typical breathing anomalies (e.g., hyperventilation), which are a hallmark of Pitt-Hopkins, slightly lowers its rank."
+    },
+    {
+      "disease_name": "1p36 Deletion Syndrome",
+      "disease_id": "OMIM:607872",
+      "score": 0.333,
+      "explanation": "1p36 Deletion Syndrome is a common microdeletion syndrome that frequently presents with many of the patient's core features, including severe intellectual disability, microcephaly, seizures, global developmental delay, and short stature. A broad or prominent forehead/metopic ridge is often described. Gastroesophageal reflux is also a common associated finding. While a tented philtrum is not a classic feature of 1p36 deletion syndrome, overall facial dysmorphism is common and variable, making it a strong differential given the broad constellation of features."
+    }
+  ]
+}

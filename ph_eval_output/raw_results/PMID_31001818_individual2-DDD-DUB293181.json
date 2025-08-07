@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest candidate as it classically presents with macrocephaly, tall stature, intellectual disability (often mild), motor delay, and characteristic facial features including prominent supraorbital ridges. Autism, ADHD, and seizures are also commonly associated neurodevelopmental findings. Ventriculomegaly can also be reported in Sotos Syndrome."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome is a significant differential diagnosis for Sotos Syndrome, sharing many overlapping features such as macrocephaly, tall stature, intellectual disability, motor delay, and a propensity for seizures. It also presents with distinct facial features, which can include a broad forehead and sometimes prominent supraorbital ridges. Behavioral issues are also common."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.33,
+      "explanation": "This syndrome, including Bannayan-Riley-Ruvalcaba Syndrome (BRRS), is a strong candidate given the patient's macrocephaly, autism, intellectual disability, motor delay, ADHD, and seizures, which are well-recognized features of PTEN-related disorders. While 'tall stature' and 'prominent supraorbital ridges' are not as classic as in Sotos or Weaver syndromes, generalized overgrowth is a hallmark of PHTS, and neurological manifestations are highly prevalent."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X Syndrome is a very common genetic cause of intellectual disability, autism, ADHD, motor delay, and seizures, all of which are present in this patient. Macrocephaly can also be observed. While not typically associated with tall stature or prominent supraorbital ridges, its high prevalence and strong phenotypic overlap with the neurological and behavioral features warrant its consideration in the differential diagnosis."
+    }
+  ]
+}

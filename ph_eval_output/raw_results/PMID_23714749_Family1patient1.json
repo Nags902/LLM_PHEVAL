@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6, Infantile-Onset Hepato-Cerebral Type (POLG-related)",
+      "disease_id": "OMIM:605711",
+      "score": 1.0,
+      "explanation": "This severe mitochondrial disorder caused by POLG mutations presents in infancy with profound global developmental delay, severe hypotonia, lactic acidosis, and progressive liver failure leading to hypoglycemia and significant coagulopathy, perfectly aligning with all patient's phenotypic features."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 1, Hepatocerebral Type (DGUOK-related)",
+      "disease_id": "OMIM:600491",
+      "score": 0.5,
+      "explanation": "Similar to POLG-related MDS, DGUOK deficiency causes a severe infantile hepatocerebral syndrome characterized by lactic acidosis, hypoglycemia due to liver dysfunction, severe global developmental delay, hypotonia, and coagulation abnormalities, making it a very strong candidate."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease, Type Ia (von Gierke Disease)",
+      "disease_id": "OMIM:232200",
+      "score": 0.33,
+      "explanation": "GSD Ia is a strong candidate due to its classic presentation with severe fasting hypoglycemia, lactic acidosis, and hepatomegaly. Importantly, it is well-known to cause platelet dysfunction and other coagulation abnormalities (e.g., factor XI deficiency). Global developmental delay and hypotonia can occur secondary to recurrent metabolic derangements, though often less prominent than in primary neurodegenerative mitochondrial disorders."
+    },
+    {
+      "disease_name": "Pyruvate Carboxylase Deficiency",
+      "disease_id": "OMIM:266150",
+      "score": 0.25,
+      "explanation": "Pyruvate carboxylase deficiency typically presents in infancy with severe lactic acidosis, hypoglycemia, global developmental delay, and hypotonia. While liver dysfunction can occur, a primary abnormality of the coagulation cascade is less commonly emphasized as a hallmark feature compared to the top-ranked diseases."
+    },
+    {
+      "disease_name": "Fructose-1,6-bisphosphatase Deficiency",
+      "disease_id": "OMIM:229700",
+      "score": 0.2,
+      "explanation": "This disorder causes episodic hypoglycemia and lactic acidosis, often triggered by fasting or illness. Global developmental delay and hypotonia can be present due to recurrent metabolic insults. However, abnormality of the coagulation cascade is not a typical primary feature of this condition."
+    }
+  ]
+}
