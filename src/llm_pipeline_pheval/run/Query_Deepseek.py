@@ -120,19 +120,19 @@ def Extract_Data_query_deepseek(
         sys.exit(1)
 
     # Step 4) Query LLM via API
-    # try:
-    #     # Query DeepSeek
-    #     client = OpenAI(api_key="", base_url="https://api.deepseek.com")
+    try:
+        # # Query DeepSeek
+        # client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
-    #     response = client.chat.completions.create(
-    #         model="deepseek-chat",
-    #         messages=[
-    #             {"role": "system", "content": "You are a helpful assistant"},
-    #             {"role": "user", "content": prompt},
-    #         ],
-    #         stream=False,
-    #     )
-    #     raw = response.choices[0].message.content
+        # response = client.chat.completions.create(
+        #     model="deepseek-chat",
+        #     messages=[
+        #         {"role": "system", "content": "You are a helpful assistant"},
+        #         {"role": "user", "content": prompt},
+        #     ],
+        #     stream=False,
+        # )
+        # raw = response.choices[0].message.content
 
         
         # ## Query Open ai
