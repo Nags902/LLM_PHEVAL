@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Cornelia de Lange syndrome type 1",
-      "disease_id": "OMIM:122470",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 1.0,
-      "explanation": "This syndrome, primarily caused by mutations in the NIPBL gene (type 1), presents an excellent match for the patient's comprehensive phenotype. Key features such as microcephaly, intellectual disability, global developmental delay, feeding difficulties, chronic constipation, delayed motor and speech milestones, sleep abnormality, and hypertonia are highly characteristic. Critically, recurrent infections and the presence of long eyelashes are cardinal features of Cornelia de Lange Syndrome, aligning perfectly with the patient's reported symptoms."
+      "explanation": "Mowat-Wilson Syndrome is characterized by intellectual disability, microcephaly, developmental delays, feeding difficulties, and constipation. The presence of hypertonia and distinctive facial features including long eyelashes also supports this diagnosis."
     },
     {
-      "disease_name": "Coffin-Siris syndrome 1",
-      "disease_id": "OMIM:601460",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 0.5,
-      "explanation": "Coffin-Siris syndrome, particularly type 1 associated with ARID1B mutations, is another strong candidate. It shares significant phenotypic overlap, including microcephaly, intellectual disability, global developmental delay, feeding difficulties, delayed motor and speech development, hypertonia, and sleep abnormalities. The presence of long eyelashes is a highly characteristic feature of Coffin-Siris syndrome. While recurrent infections are not as consistently reported as in CdLS, susceptibility can occur, making this a very close second."
+      "explanation": "Smith-Magenis Syndrome presents with intellectual disability, developmental delays, sleep disturbances, and distinct facial features. While recurrent infections and long eyelashes are not classic features, the overall symptom overlap warrants consideration."
     },
     {
-      "disease_name": "Rubinstein-Taybi syndrome type 1",
-      "disease_id": "OMIM:180849",
-      "score": 0.3333,
-      "explanation": "Rubinstein-Taybi syndrome type 1, caused by CREBBP mutations, is a plausible differential diagnosis. It encompasses several of the patient's features, including intellectual disability, global developmental delay, feeding difficulties, chronic constipation, delayed milestones, sleep abnormality, and recurrent infections. Microcephaly can be observed, and while not explicitly 'long eyelashes', prominent eyelashes are a recognized feature. However, the absence of the cardinal broad thumbs/toes, which are key diagnostic indicators for RTS, makes it a less definitive fit compared to the top two candidates."
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333333333333333,
+      "explanation": "Angelman Syndrome is noted for severe intellectual disability, developmental delays, lack of speech, sleep disorders, and microcephaly. The hypertonia and feeding difficulties align, although other features like recurrent infections are less characteristic."
     }
   ]
 }

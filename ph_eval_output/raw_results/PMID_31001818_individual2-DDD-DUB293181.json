@@ -4,25 +4,31 @@
       "disease_name": "Sotos Syndrome 1",
       "disease_id": "OMIM:117550",
       "score": 1.0,
-      "explanation": "This syndrome is the strongest candidate as it classically presents with macrocephaly, tall stature, intellectual disability (often mild), motor delay, and characteristic facial features including prominent supraorbital ridges. Autism, ADHD, and seizures are also commonly associated neurodevelopmental findings. Ventriculomegaly can also be reported in Sotos Syndrome."
+      "explanation": "Sotos Syndrome 1 is characterized by macrocephaly, tall stature, developmental delay, intellectual disability, and distinctive facial features, all of which align closely with the patient's presentation."
     },
     {
       "disease_name": "Weaver Syndrome",
       "disease_id": "OMIM:277590",
       "score": 0.5,
-      "explanation": "Weaver Syndrome is a significant differential diagnosis for Sotos Syndrome, sharing many overlapping features such as macrocephaly, tall stature, intellectual disability, motor delay, and a propensity for seizures. It also presents with distinct facial features, which can include a broad forehead and sometimes prominent supraorbital ridges. Behavioral issues are also common."
+      "explanation": "Weaver Syndrome also presents with macrocephaly, tall stature, intellectual disability, motor delay, and distinctive facial features such as prominent supraorbital ridges, which corresponds with several of the patient's features."
+    },
+    {
+      "disease_name": "NFIX-related Disorder",
+      "disease_id": "OMIM:614732",
+      "score": 0.33,
+      "explanation": "Disorders related to mutations in NFIX, like Marshall-Smith syndrome, lead to macrocephaly, intellectual disabilities, and motor delays, which are relevant to the case."
     },
     {
       "disease_name": "PTEN Hamartoma Tumor Syndrome",
-      "disease_id": "OMIM:153480",
-      "score": 0.33,
-      "explanation": "This syndrome, including Bannayan-Riley-Ruvalcaba Syndrome (BRRS), is a strong candidate given the patient's macrocephaly, autism, intellectual disability, motor delay, ADHD, and seizures, which are well-recognized features of PTEN-related disorders. While 'tall stature' and 'prominent supraorbital ridges' are not as classic as in Sotos or Weaver syndromes, generalized overgrowth is a hallmark of PHTS, and neurological manifestations are highly prevalent."
+      "disease_id": "OMIM:601728",
+      "score": 0.25,
+      "explanation": "While PTEN Hamartoma Tumor Syndrome is more commonly associated with macrocephaly, autism, and epilepsy, the other symptoms could be secondary features or manifest variably."
     },
     {
-      "disease_name": "Fragile X Syndrome",
-      "disease_id": "OMIM:300624",
-      "score": 0.25,
-      "explanation": "Fragile X Syndrome is a very common genetic cause of intellectual disability, autism, ADHD, motor delay, and seizures, all of which are present in this patient. Macrocephaly can also be observed. While not typically associated with tall stature or prominent supraorbital ridges, its high prevalence and strong phenotypic overlap with the neurological and behavioral features warrant its consideration in the differential diagnosis."
+      "disease_name": "Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.2,
+      "explanation": "This syndrome involves features such as macrocephaly, developmental delay, and sometimes autism, aligning partially with the patient's details."
     }
   ]
 }

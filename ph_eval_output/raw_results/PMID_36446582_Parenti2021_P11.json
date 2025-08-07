@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) is characterized by features including intellectual disability, synophrys, long philtrum, anteverted nares, and microcephaly. The presence of facial dysmorphisms such as thick eyebrows and low anterior hairline aligns well with CdLS."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.5,
+      "explanation": "Similar to CdLS1, this subtype also presents with intellectual disability, synophrys, and facial characteristics like long philtrum and thick eyebrows, supporting a similar diagnosis with slight genetic variation."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 3",
+      "disease_id": "OMIM:610759",
+      "score": 0.3333,
+      "explanation": "Another form of CdLS sharing overlapping phenotypic features such as developmental delays, intellectual disability, and specific facial abnormalities like synophrys and a bulbous nose."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Characterized by microcephaly, intellectual disability, and facial dysmorphism including anteverted nares and a long philtrum. Though less likely, some features overlap with the phenotype."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Includes intellectual disability, developmental delay, and speech delay; however, the facial features match less closely, making it a lower probability diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Marfan Syndrome is characterized by phenotypes such as high palate, ectopia lentis, arachnodactyly, pectus excavatum, and hyperextensibility of the finger joints. These features align with many of the patient's symptoms, making it a top candidate."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome Type 1 presents with features such as ectopia lentis, arachnodactyly, bruising susceptibility, and pectus excavatum. The combination of these signs is suggestive of this condition."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Classical Type",
+      "disease_id": "OMIM:130000",
+      "score": 0.3333333333333333,
+      "explanation": "Classical Ehlers-Danlos Syndrome includes symptoms like hyperextensible joints, bruising susceptibility, and skin changes. While not all features match, it could explain some of the connective tissue abnormalities."
+    },
+    {
+      "disease_name": "Weill-Marchesani Syndrome",
+      "disease_id": "OMIM:277600",
+      "score": 0.25,
+      "explanation": "Though less common, Weill-Marchesani Syndrome shares phenotypes like ectopia lentis and high myopia, but less correlation with other symptoms suggests lower likelihood."
+    },
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 0.2,
+      "explanation": "This condition features arachnodactyly, a common symptom, but lacks several other phenotypic alignments making it less probable."
+    }
+  ]
+}

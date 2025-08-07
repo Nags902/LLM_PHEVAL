@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "MIDAS syndrome",
-      "disease_id": "OMIM:309000",
-      "score": 1.0,
-      "explanation": "This syndrome strongly matches the patient's severe ocular anomalies (microphthalmia, iris coloboma, retinal coloboma, cataract) and the distinctive aplasia cutis congenita, which is a hallmark feature (dermal aplasia). While typically considered X-linked dominant and severe in males, cases with male survival have been reported. Median pseudocleft lip and conductive hearing impairment are less typical features of this syndrome."
-    },
-    {
-      "disease_name": "Lenz Microphthalmia Syndrome",
-      "disease_id": "OMIM:309800",
-      "score": 0.5,
-      "explanation": "This X-linked recessive syndrome aligns with the patient's sex and strongly matches the severe ocular anomalies (microphthalmia, iris coloboma, retinal coloboma, cataract) and the rare median pseudocleft lip. However, aplasia cutis congenita and conductive hearing impairment are not typically associated features of this syndrome."
-    },
-    {
-      "disease_name": "CHARGE syndrome",
+      "disease_name": "CHARGE Syndrome",
       "disease_id": "OMIM:214800",
-      "score": 0.33,
-      "explanation": "CHARGE syndrome is a significant candidate due to the patient's extensive ocular anomalies (iris coloboma, retinal coloboma, microphthalmia, nasolacrimal duct obstruction, ultra-low vision) and conductive hearing impairment, which are core features. However, aplasia cutis congenita and median pseudocleft lip are not characteristic findings of CHARGE syndrome."
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is characterized by coloboma, heart defects, atresia choanae, retardation of growth and development, genital abnormalities, and ear abnormalities, aligning with the patient's features of colobomas, microphthalmia, cataracts, and hearing impairment."
+    },
+    {
+      "disease_name": "Oculocutaneous Albinism with Congenital Sensorineural Deafness",
+      "disease_id": "OMIM:220900",
+      "score": 0.5,
+      "explanation": "This condition, while rare, can involve ocular abnormalities and hearing impairment similar to those presented by the patient. The presence of aplasia cutis congenita can be related to pigmentary abnormalities."
+    },
+    {
+      "disease_name": "Treacher Collins Syndrome (TCS1)",
+      "disease_id": "OMIM:154500",
+      "score": 0.3333,
+      "explanation": "Although Treacher Collins syndrome primarily causes craniofacial anomalies, it can sometimes include ocular colobomas, conductive hearing loss, and other related facial features, making it a differential to consider."
     }
   ]
 }

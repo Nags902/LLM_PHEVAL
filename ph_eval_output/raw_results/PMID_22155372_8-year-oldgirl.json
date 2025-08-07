@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 1.0,
+      "explanation": "Short QT syndrome 1 is a genetic condition associated with atrial fibrillation and a shortened QT interval, which matches the patient's clinical features."
+    },
+    {
+      "disease_name": "Short QT syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.5,
+      "explanation": "Short QT syndrome 2 is another genetic variant associated with similar cardiac features, including atrial fibrillation and shortened QT interval, but it is less likely compared to type 1 based on the available genetics."
+    },
+    {
+      "disease_name": "Catecholaminergic polymorphic ventricular tachycardia 1",
+      "disease_id": "OMIM:604772",
+      "score": 0.3333,
+      "explanation": "While primarily associated with ventricular arrhythmias, this condition can sometimes involve atrial arrhythmias but is less likely due to the prominence of the short QT interval which is not a common feature."
+    }
+  ]
+}

@@ -1,46 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Fragile X Syndrome",
-      "disease_id": "OMIM:300624",
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
       "score": 1.0,
-      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability, with delayed speech and language development being a highly prominent and consistent feature, making it a strong primary suspect given the provided clinical data."
+      "explanation": "Rett Syndrome is associated with intellectual disability and delayed speech and language development, particularly in individuals assigned female at birth. Although more common in females, it can occasionally occur in males with a more severe phenotype."
     },
     {
-      "disease_name": "Down Syndrome",
-      "disease_id": "OMIM:190685",
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
       "score": 0.5,
-      "explanation": "Down Syndrome (Trisomy 21) is the most common chromosomal cause of intellectual disability. Profound and universal delayed speech and language development are hallmark features, making it a very high-ranking candidate."
+      "explanation": "Fragile X Syndrome frequently presents with intellectual disability and delayed speech. This condition is more prevalent in males but can also affect females to varying degrees."
     },
     {
       "disease_name": "Angelman Syndrome",
       "disease_id": "OMIM:105830",
-      "score": 0.3333,
-      "explanation": "Angelman Syndrome is characterized by severe developmental delay and intellectual disability, often accompanied by absent or severely impaired speech, making it a strong fit for the given features."
-    },
-    {
-      "disease_name": "Rett Syndrome",
-      "disease_id": "OMIM:312750",
-      "score": 0.25,
-      "explanation": "Rett Syndrome, while primarily affecting females (gender not specified here), is characterized by a period of normal development followed by regression, leading to intellectual disability and significant loss of spoken language, directly matching the core features."
-    },
-    {
-      "disease_name": "Phelan-McDermid Syndrome",
-      "disease_id": "OMIM:606232",
-      "score": 0.2,
-      "explanation": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome) is associated with global developmental delay, intellectual disability (often severe), and frequently absent or severely delayed speech, making it a relevant consideration."
+      "score": 0.333,
+      "explanation": "Angelman Syndrome is characterized by intellectual disability, delayed development, and severe speech impairment. This syndrome can affect both genders."
     },
     {
       "disease_name": "Smith-Magenis Syndrome",
       "disease_id": "OMIM:182290",
-      "score": 0.1667,
-      "explanation": "Smith-Magenis Syndrome involves developmental delay, intellectual disability, and characteristic behavioral features, with delayed speech and language development being a common and significant component."
-    },
-    {
-      "disease_name": "22q11.2 Deletion Syndrome",
-      "disease_id": "OMIM:188400",
-      "score": 0.1429,
-      "explanation": "22q11.2 Deletion Syndrome (DiGeorge Syndrome) is highly variable but frequently includes mild to moderate intellectual disability and significant speech and language delays, warranting its inclusion in the differential diagnosis."
+      "score": 0.25,
+      "explanation": "Smith-Magenis Syndrome is associated with intellectual disability and speech delays among other behavioral symptoms. It affects both genders and can present similarly to the phenotypic features."
     }
   ]
 }

@@ -1,58 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Shprintzen-Goldberg Syndrome",
-      "disease_id": "OMIM:182280",
-      "score": 1.0,
-      "explanation": "This syndrome is a strong match, characterized by a Marfanoid habitus including tall stature, arachnodactyly, joint hypermobility, pectus excavatum, and scoliosis. Crucially, it typically features accelerated skeletal maturation, which aligns well with the patient's presentation. The craniofacial dysmorphism (long/narrow face, high palate, ptosis, downslanted palpebral fissures, macrotia) is highly consistent. Furthermore, the widespread connective tissue fragility manifesting as multiple hernias (inguinal, congenital diaphragmatic) and various diverticula (rectal prolapse, volvulus, colonic, gastric, bladder) are hallmark features of Shprintzen-Goldberg syndrome. High myopia and astigmatism also fit."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 1",
-      "disease_id": "OMIM:609192",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in TGFBR1."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 2",
-      "disease_id": "OMIM:610168",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in TGFBR2."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 3",
-      "disease_id": "OMIM:613793",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in SMAD3."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 4",
-      "disease_id": "OMIM:614816",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in TGFB2."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 5",
-      "disease_id": "OMIM:615582",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in TGFB3."
-    },
-    {
-      "disease_name": "Loeys-Dietz Syndrome 6",
-      "disease_id": "OMIM:616854",
-      "score": 0.5,
-      "explanation": "Loeys-Dietz Syndrome (LDS) is a significant differential, sharing many features with Shprintzen-Goldberg syndrome and Marfan syndrome. It presents with Marfanoid features (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, inguinal hernia) and distinct craniofacial dysmorphism (long/narrow face, high palate, downslanted palpebral fissures, telecanthus, dental crowding). Widespread connective tissue fragility leading to rectal prolapse, volvulus, and various diverticula (gastric, colonic, bladder, congenital diaphragmatic hernia) is characteristic. While accelerated skeletal maturation is less consistently reported compared to SGS, the overall pattern of multi-system connective tissue involvement and facial dysmorphia makes LDS a very strong candidate. This specific type is caused by mutations in SMAD2."
-    },
-    {
       "disease_name": "Marfan Syndrome",
       "disease_id": "OMIM:154700",
-      "score": 0.33,
-      "explanation": "Marfan Syndrome is a classic connective tissue disorder that explains many of the Marfanoid features such as tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, pes planus, and inguinal hernia. However, accelerated skeletal maturation is not typical (usually normal or delayed), and the specific combination of craniofacial features (downslanted palpebral fissures, ectropion, telecanthus, macrotia, narrow uvula) and the extensive internal diverticula (gastric, colonic, bladder) and congenital diaphragmatic hernia are less consistently observed compared to Shprintzen-Goldberg or Loeys-Dietz syndromes."
+      "score": 1.0,
+      "explanation": "Marfan Syndrome is characterized by tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, and ectopia lentis, aligning closely with the patient's features."
     },
     {
-      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
-      "disease_id": "OMIM:130090",
-      "score": 0.25,
-      "explanation": "Vascular Ehlers-Danlos Syndrome (vEDS) is a severe connective tissue disorder known for extreme fragility of vascular and hollow organs, which strongly aligns with the patient's gastrointestinal features (rectal prolapse, volvulus, colonic/gastric diverticula) and various hernias (inguinal, congenital diaphragmatic). Joint hypermobility can also be present, though often limited to small joints. However, typical vEDS does not usually present with tall stature, arachnodactyly, or accelerated skeletal maturation, and the specific craniofacial dysmorphology described is less consistent than in other marfanoid syndromes."
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome can present with features similar to Marfan Syndrome, along with facial dysmorphisms such as hypertelorism and bifid uvula, which correlate with the patient's telecanthus and narrow uvula."
+    },
+    {
+      "disease_name": "Klinefelter Syndrome",
+      "disease_id": "OMIM:613768",
+      "score": 0.3333333333333333,
+      "explanation": "Characterized by tall stature and scoliosis, Klinefelter Syndrome can also present with other connective tissue anomalies, although some features like facial dysmorphisms may be less pronounced."
     }
   ]
 }

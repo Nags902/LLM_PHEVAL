@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "The phenotype includes coarse facial features, long philtrum, tented upper lip vermilion, epicanthus, hirsutism, absent speech, motor delay, and global developmental delay, which are associated with Cornelia de Lange Syndrome 1 (CdLS1)."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Smith-Magenis Syndrome includes distinctive facial features, developmental delay, and hypotonia which overlap significantly with the patient's phenotype."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.3333,
+      "explanation": "Pitt-Hopkins Syndrome is characterized by features such as absent speech, motor delay, coarse facial features, and hypotonia, which match the patient\u2019s presentation."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "The symptoms such as coarse facial features, long philtrum, and developmental delay are consistent with Kabuki Syndrome 1."
+    }
+  ]
+}

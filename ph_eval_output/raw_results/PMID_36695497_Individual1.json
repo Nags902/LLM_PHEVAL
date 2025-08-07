@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE Syndrome is characterized by coloboma (including iris and chorioretinal), microphthalmia, and strabismus. These features align closely with the patient's phenotype."
+    },
+    {
+      "disease_name": "Cat Eye Syndrome",
+      "disease_id": "OMIM:115470",
+      "score": 0.5,
+      "explanation": "Cat Eye Syndrome often presents with ocular coloboma and microphthalmia, which matches several of the patient's features, though other systemic features may not be present."
+    },
+    {
+      "disease_name": "Norrie Disease",
+      "disease_id": "OMIM:310600",
+      "score": 0.333,
+      "explanation": "Norrie Disease can include microphthalmia, nystagmus, and coloboma. Although typically associated with additional neurodevelopmental issues, the overlap with the patient's eye features suggests relevance."
+    },
+    {
+      "disease_name": "Papillorenal Syndrome",
+      "disease_id": "OMIM:120330",
+      "score": 0.25,
+      "explanation": "This syndrome involves optic disc coloboma and other ocular anomalies. While less comprehensive, the optic disc coloboma matches, supporting its consideration."
+    }
+  ]
+}

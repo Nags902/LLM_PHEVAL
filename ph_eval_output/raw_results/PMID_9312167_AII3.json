@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Renal Tubular Acidosis, Distal, Autosomal Dominant",
-      "disease_id": "OMIM:179800",
+      "disease_name": "Dent Disease 1",
+      "disease_id": "OMIM:300009",
       "score": 1.0,
-      "explanation": "This disease perfectly matches all the provided phenotypic features, including distal renal tubular acidosis, hypokalemia, alkaline urine, impaired renal concentrating ability, nephrocalcinosis, and nephrolithiasis. It is the most common form of inherited dRTA, often presenting in adolescence or adulthood, and aligns comprehensively with the patient's symptoms."
+      "explanation": "Dent Disease 1 is characterized by nephrocalcinosis, nephrolithiasis, and distal renal tubular acidosis, among other renal symptoms. The combination of hypokalemia and impaired renal concentrating ability fits the profile of Dent disease."
     },
     {
-      "disease_name": "Renal Tubular Acidosis, Distal, With Sensorineural Deafness, Type 1",
-      "disease_id": "OMIM:267300",
+      "disease_name": "Renal Tubular Acidosis, Distal, with Hypercalciuria and Nephrocalcinosis",
+      "disease_id": "OMIM:606069",
       "score": 0.5,
-      "explanation": "This autosomal recessive form of dRTA, caused by mutations in *ATP6V1B1*, presents with identical renal manifestations as seen in the patient (distal renal tubular acidosis, hypokalemia, alkaline urine, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability). While sensorineural deafness is a common associated feature, it can be mild, late-onset, or sometimes absent, making this a strong differential diagnosis despite the lack of reported deafness."
+      "explanation": "This condition includes distal renal tubular acidosis, hypercalciuria (which can lead to nephrocalcinosis and nephrolithiasis), and alkaline urine, matching several of the patient's phenotypic features."
     },
     {
-      "disease_name": "Renal Tubular Acidosis, Distal, With Sensorineural Deafness, Type 2",
-      "disease_id": "OMIM:602722",
-      "score": 0.33,
-      "explanation": "Similar to Type 1, this autosomal recessive form of dRTA, caused by mutations in *ATP6V0A4*, shares all the core renal phenotypic features of the patient. The absence of reported sensorineural deafness makes it slightly less likely than the autosomal dominant form based solely on the provided data, but it remains a significant genetic cause to consider given the comprehensive match of kidney symptoms."
+      "disease_name": "Bartter Syndrome Type 3",
+      "disease_id": "OMIM:607364",
+      "score": 0.3333333333333333,
+      "explanation": "Bartter Syndrome Type 3 involves renal tubular acidosis, hypokalemia, nephrocalcinosis, and failings in urinary concentrating capacity. Although usually associated with other symptoms, the renal symptoms match well."
     },
     {
-      "disease_name": "Sj\u00f6gren Syndrome, Primary",
-      "disease_id": "OMIM:270150",
+      "disease_name": "Primary Hyperparathyroidism",
+      "disease_id": "OMIM:145000",
       "score": 0.25,
-      "explanation": "Primary Sj\u00f6gren syndrome is an autoimmune disease that can cause secondary distal renal tubular acidosis due to autoimmune tubulointerstitial nephritis. This would explain all the renal manifestations, including hypokalemia, alkaline urine, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability. Although no other classic Sj\u00f6gren symptoms (e.g., sicca symptoms, arthralgia) are reported, it is a known non-genetic cause of this precise combination of renal findings and should be considered in the differential diagnosis."
+      "explanation": "Primary Hyperparathyroidism can present with hypercalciuria, leading to nephrolithiasis and nephrocalcinosis, as well as metabolic problems like hypokalemia, although it typically involves different abnormalities in calcium levels."
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "The presence of infantile spasms, hypsarrhythmia on EEG, and developmental delay are characteristic of West syndrome. The absence of similar cases in the database suggests a need to consider common disorders with these features."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Characterized by focal motor seizures and developmental delay, aligning with the observed phenotypic features. Overlaps with features like infantile spasms and EEG abnormalities."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:610688",
+      "score": 0.333,
+      "explanation": "Shares features like developmental delay, seizures, and EEG abnormalities. Though less likely due to the prominence of infantile spasms in the provided features, it remains a possible consideration."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Included due to developmental delay, absent speech, and possible seizure activity, although lacking specific infantile spasms and hypsarrhythmia might reduce its ranking."
+    }
+  ]
+}

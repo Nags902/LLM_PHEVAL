@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sorsby Fundus Dystrophy",
+      "disease_id": "OMIM:136900",
+      "score": 1.0,
+      "explanation": "Sorsby Fundus Dystrophy is associated with macular dystrophy and reduced visual acuity, closely matching the patient's symptoms."
+    },
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "Stargardt Disease 1 is a form of macular degeneration that results in reduced visual acuity and could present similarly to the patient's symptoms."
+    },
+    {
+      "disease_name": "North Carolina Macular Dystrophy 1",
+      "disease_id": "OMIM:136550",
+      "score": 0.3333,
+      "explanation": "North Carolina Macular Dystrophy 1 is characterized by macular dystrophy and can lead to decreased vision, aligning with the patient's features."
+    }
+  ]
+}

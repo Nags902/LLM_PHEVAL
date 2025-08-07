@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The combination of axillary and inguinal freckling along with cafe-au-lait spots is highly indicative of Neurofibromatosis Type 1."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius Syndrome can present with similar features such as cafe-au-lait macules and freckling, but typically lacks neurofibromas, a distinguishing feature from NF1."
+    }
+  ]
+}

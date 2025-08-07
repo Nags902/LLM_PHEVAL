@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome often includes global developmental delay, delayed speech, and delayed walking abilities, alongside other neurological and developmental issues."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.5,
+      "explanation": "It is characterized by global developmental delay, delayed speech, and sometimes abnormal dentition. Often associated with chromosome 22q13 deletion."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.3333333333333333,
+      "explanation": "Features of this syndrome include developmental delays, dental abnormalities, and speech and language impairments."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.25,
+      "explanation": "Presents with global developmental delay, delayed speech, and sometimes dental anomalies."
+    }
+  ]
+}

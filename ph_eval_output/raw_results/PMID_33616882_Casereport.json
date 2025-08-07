@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Uromodulin-associated kidney disease (UMOD-CKD)",
-      "disease_id": "OMIM:162000",
+      "disease_name": "Renal Tubular Dysgenesis",
+      "disease_id": "OMIM:267430",
       "score": 1.0,
-      "explanation": "This autosomal dominant kidney disease is classically characterized by early-onset hyperuricemia, progressive chronic kidney disease, and often proteinuria. This combination perfectly matches all three key phenotypic features (Stage 2 chronic kidney disease, hyperuricemia, and proteinuria) observed in an 8-year-old patient, making it the most likely diagnosis."
+      "explanation": "Renal Tubular Dysgenesis is associated with chronic kidney disease, hyperuricemia, and proteinuria in young children, aligning closely with the patient's symptoms."
     },
     {
-      "disease_name": "Dent disease 1",
-      "disease_id": "OMIM:300009",
+      "disease_name": "Autosomal Dominant Tubulointerstitial Kidney Disease, MUC1-Related",
+      "disease_id": "OMIM:174000",
       "score": 0.5,
-      "explanation": "An X-linked tubulopathy, Dent disease 1 is characterized by low molecular weight proteinuria and progressive kidney disease. Hyperuricemia can be a feature due to impaired tubular uric acid handling, often accompanied by nephrocalcinosis or nephrolithiasis (though not explicitly mentioned here). The strong renal tubular connection leading to proteinuria and CKD, coupled with the potential for hyperuricemia, makes it a significant candidate. While X-linked, presentation in a female is possible due to skewed X-inactivation or as a milder phenotype."
+      "explanation": "This condition typically presents with chronic kidney disease, hyperuricemia, and proteinuria, often beginning in childhood, which matches the patient's presentation."
     },
     {
-      "disease_name": "Lesch-Nyhan Syndrome",
-      "disease_id": "OMIM:300322",
-      "score": 0.3333333333333333,
-      "explanation": "This X-linked recessive disorder is defined by severe hyperuricemia due to complete deficiency of HPRT, which leads to complications such as kidney stones and progressive kidney disease, including proteinuria. Although classical neurological symptoms (self-mutilation, dystonia) are typically prominent but not reported in this patient, the striking hyperuricemia and its profound renal consequences make it an important differential diagnosis based solely on the provided kidney-related features."
+      "disease_name": "Hyperuricemic Nephropathy, Familial Juvenile 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.333,
+      "explanation": "Hyperuricemic nephropathy is characterized by hyperuricemia and chronic kidney disease; the juvenile form aligns with the age of the patient and their symptom profile."
+    },
+    {
+      "disease_name": "Gitelman Syndrome",
+      "disease_id": "OMIM:263800",
+      "score": 0.25,
+      "explanation": "Although Gitelman Syndrome primarily involves electrolyte imbalances, it can cause chronic kidney issues and proteinuria in some cases, partially aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Fanconi Syndrome",
+      "disease_id": "OMIM:134600",
+      "score": 0.2,
+      "explanation": "Fanconi Syndrome affects the kidneys and can present early in life with proteinuria and renal impairment, although hyperuricemia is less common, making it a lower-ranked possibility."
     }
   ]
 }

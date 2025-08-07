@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome often presents with facial dysmorphism and may include clinodactyly. Noonan Syndrome 1 is a common subtype."
+    },
+    {
+      "disease_name": "Noonan Syndrome 2",
+      "disease_id": "OMIM:605275",
+      "score": 0.5,
+      "explanation": "Similar to Noonan Syndrome 1, this subtype also exhibits facial abnormalities and limb anomalies like clinodactyly."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.3333,
+      "explanation": "Kabuki Syndrome is associated with distinctive facial features and may include clinodactyly."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.25,
+      "explanation": "This subtype of Kabuki Syndrome also presents with facial anomalies and limb deformities, including clinodactyly."
+    },
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.2,
+      "explanation": "Robinow Syndrome can cause abnormal facial structure and digital anomalies like clinodactyly."
+    }
+  ]
+}

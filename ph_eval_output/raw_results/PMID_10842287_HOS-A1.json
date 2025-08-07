@@ -1,28 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Holt-Oram Syndrome",
+      "disease_name": "Holt-Oram syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "Holt-Oram Syndrome is a highly likely diagnosis given the classic triad of upper limb malformations (including absent thumb and phocomelia, which represent severe forms of radial ray defects) and cardiac abnormalities (specifically atrial septal defect). This syndrome is caused by mutations in the TBX5 gene and is precisely characterized by these types of combined limb and heart defects."
+      "explanation": "Holt-Oram syndrome is characterized by skeletal abnormalities of the hands and arms (upper limbs) such as absent thumbs and cardiac defects such as atrial septal defect. The combination of phenotypes makes this a strong candidate."
     },
     {
-      "disease_name": "Thrombocytopenia-Absent Radius (TAR) Syndrome",
-      "disease_id": "OMIM:274000",
+      "disease_name": "Roberts syndrome",
+      "disease_id": "OMIM:268300",
       "score": 0.5,
-      "explanation": "TAR syndrome is characterized by bilateral absent radii (often with absent thumbs) and thrombocytopenia. Cardiac defects, including atrial septal defects, are also common. While the limb and cardiac features align, the absence of information regarding thrombocytopenia (a hallmark feature of TAR) makes it a less definitive match than Holt-Oram Syndrome. Phocomelia is also a more severe description than typical absent radii, though in severe cases of radial aplasia, the limb can appear phocomelic."
+      "explanation": "Roberts syndrome may present with phocomelia, specifically affecting the upper limbs, and occasionally includes cardiac defects. Although less common, the absence of thumbs could occur in severe forms, justifying this ranking."
     },
     {
-      "disease_name": "Fanconi Anemia",
-      "disease_id": "OMIM:227650",
-      "score": 0.333,
-      "explanation": "Fanconi Anemia is a genetic disorder associated with various congenital anomalies, including radial ray defects (such as absent thumbs) and cardiac defects like atrial septal defect. While severe limb malformations can occur, true phocomelia is less characteristic than in Holt-Oram syndrome. Additionally, the primary features of Fanconi Anemia, such as bone marrow failure and increased cancer risk, are not mentioned in the patient's phenotypic features."
-    },
-    {
-      "disease_name": "VACTERL association",
-      "disease_id": "OMIM:192350",
-      "score": 0.25,
-      "explanation": "VACTERL association is a non-random co-occurrence of birth defects affecting multiple systems: Vertebral, Anorectal, Cardiac, Tracheo-Esophageal, Renal, and Limb anomalies. The presence of 'Atrial septal defect' (Cardiac) and 'Absent thumb' along with 'Upper limb phocomelia' (Limb anomalies) fits two of the major criteria for VACTERL. However, VACTERL is an association rather than a single genetic syndrome, and typically more than two systems are involved for a confident diagnosis. It is a diagnosis of exclusion when a specific syndrome like Holt-Oram Syndrome cannot be identified."
+      "disease_name": "TAR syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.3333333333,
+      "explanation": "TAR syndrome is characterized by the absence of the radius and can potentially present with absent thumbs and cardiac defects. The presence of upper limb phocomelia aligns with TAR characteristics, albeit less prominently with septal defects, thus making it a lesser likelihood."
     }
   ]
 }

@@ -1,40 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "CDKL5 Deficiency Disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Lafora Disease",
+      "disease_id": "OMIM:254780",
       "score": 1.0,
-      "explanation": "This disorder is a strong match, characterized by early-onset intractable seizures (often including status epilepticus and myoclonus), severe global developmental delay, profound hypotonia, and commonly visual impairment with nystagmus. All key phenotypic features align well with the typical presentation of CDKL5 Deficiency Disorder."
+      "explanation": "Lafora Disease is characterized by myoclonus, seizures including status epilepticus, and progressive neurological decline which may include delayed development and hypotonia."
     },
     {
       "disease_name": "Dravet Syndrome",
       "disease_id": "OMIM:607208",
       "score": 0.5,
-      "explanation": "Dravet Syndrome (Severe Myoclonic Epilepsy in Infancy) is a prominent candidate due to the presence of status epilepticus, myoclonus, and global developmental delay. Hypotonia is also common, especially in early stages. While nystagmus is less specific, the core epileptic and developmental features strongly overlap with this condition."
+      "explanation": "Dravet Syndrome is an epileptic encephalopathy featuring status epilepticus and myoclonus, along with developmental delay and hypotonia."
     },
     {
-      "disease_name": "STXBP1 Encephalopathy",
-      "disease_id": "OMIM:612164",
-      "score": 0.333,
-      "explanation": "STXBP1 encephalopathy is a severe epileptic encephalopathy often presenting with early-onset seizures (including status epilepticus), significant global developmental delay, hypotonia, and various movement disorders, including myoclonus. The constellation of symptoms is highly consistent with this diagnosis."
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.3333,
+      "explanation": "This syndrome involves epilepsy, including status epilepticus, with nystagmus and hypotonia, as well as delayed development."
     },
     {
-      "disease_name": "KCNQ2-Related Epileptic Encephalopathy",
-      "disease_id": "OMIM:613721",
+      "disease_name": "Unverricht-Lundborg Disease",
+      "disease_id": "OMIM:254800",
       "score": 0.25,
-      "explanation": "KCNQ2-related epileptic encephalopathy is characterized by early-onset seizures (which can include status epilepticus), global developmental delay, and hypotonia. Myoclonus can also be present, making it a plausible candidate for the described phenotype."
+      "explanation": "This is an autosomal recessive disorder characterized by myoclonus and seizures, with developmental and motor delays."
     },
     {
-      "disease_name": "GNAO1-Related Neurodevelopmental Disorder",
-      "disease_id": "OMIM:615473",
+      "disease_name": "Progressive Myoclonus Epilepsy type 1",
+      "disease_id": "OMIM:254800",
       "score": 0.2,
-      "explanation": "GNAO1-related disorders can manifest with early-onset movement disorders (including prominent myoclonus), hypotonia, developmental delay, and seizures. While other features might vary, the presence of myoclonus, global developmental delay, and seizures makes it a relevant consideration."
-    },
-    {
-      "disease_name": "CLN2 Disease (Late Infantile Neuronal Ceroid Lipofuscinosis Type 2)",
-      "disease_id": "OMIM:204500",
-      "score": 0.167,
-      "explanation": "CLN2 disease, a type of neuronal ceroid lipofuscinosis, typically presents with developmental regression, but early stages can involve developmental delay, intractable seizures (often myoclonic), and visual impairment leading to nystagmus. Hypotonia is also an early feature before the onset of spasticity. Given the severe neurological involvement, including myoclonus and seizures, it warrants consideration, especially if other genetic encephalopathies are ruled out."
+      "explanation": "PME1 is marked by myoclonus, seizures, and developmental regression, with symptoms consistent with those of the presented case."
     }
   ]
 }

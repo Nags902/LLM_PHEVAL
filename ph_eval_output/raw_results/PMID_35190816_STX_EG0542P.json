@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by infantile spasms, hypsarrhythmia, and developmental delay, all of which match the patient's symptoms."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Dravet Syndrome involves focal seizures, generalized seizures, and developmental delays that align with the patient's phenotype."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.333,
+      "explanation": "The syndrome is marked by multiple types of seizures including tonic and atypical spasms, and slow EEG patterns, similar to this case."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.25,
+      "explanation": "Characterized by infantile spasms, EEG abnormalities, and developmental delays, Aicardi Syndrome fits some of the observed phenotypes but is less common in males."
+    }
+  ]
+}

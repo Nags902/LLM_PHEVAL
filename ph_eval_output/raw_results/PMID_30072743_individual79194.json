@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt Disease is characterized by Bull's eye maculopathy, reduced visual acuity, and can lead to nystagmus. Peripheral retinal atrophy can also be a feature due to photoreceptor degeneration."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa 59",
+      "disease_id": "OMIM:613861",
+      "score": 0.5,
+      "explanation": "Retinitis Pigmentosa can present with peripheral retinal atrophy, reduced visual acuity, and sometimes Bull's eye maculopathy. Nystagmus can occur in some cases."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 7",
+      "disease_id": "OMIM:612775",
+      "score": 0.3333333333333333,
+      "explanation": "Cone-Rod Dystrophies often include features like decreased visual acuity and Bull's eye maculopathy, with peripheral atrophy in severe cases, sometimes leading to nystagmus."
+    },
+    {
+      "disease_name": "Pattern Dystrophy of the Retinal Pigment Epithelium",
+      "disease_id": "OMIM:169150",
+      "score": 0.25,
+      "explanation": "This condition is associated with Bull's eye maculopathy, reduced visual acuity, and can include abnormalities of the peripheral retina, occasionally leading to nystagmus."
+    },
+    {
+      "disease_name": "Choroideremia",
+      "disease_id": "OMIM:303100",
+      "score": 0.2,
+      "explanation": "Choroideremia can present with peripheral retinal atrophy and reduced visual acuity. Although nystagmus and Bull's eye maculopathy are less common, their presence could suggest this condition."
+    }
+  ]
+}

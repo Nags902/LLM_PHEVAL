@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Smith-Magenis Syndrome",
-      "disease_id": "OMIM:182290",
-      "score": 1.0,
-      "explanation": "This syndrome aligns remarkably well with all presented features, including intellectual disability, global developmental delay, hypotonia, chronic constipation, and a high prevalence of overweight/obesity. Self-mutilation and other self-injurious behaviors are characteristic features of SMS."
-    },
-    {
       "disease_name": "Prader-Willi Syndrome",
       "disease_id": "OMIM:176270",
-      "score": 0.5,
-      "explanation": "Prader-Willi syndrome is a strong candidate due to its classic features of infantile hypotonia, global developmental delay, intellectual disability, hyperphagia leading to overweight/obesity in childhood, and chronic constipation. Self-injurious behaviors, particularly skin-picking, are also commonly observed in PWS."
+      "score": 1.0,
+      "explanation": "Prader-Willi syndrome is characterized by hypotonia, intellectual disability, global developmental delay, chronic constipation, and self-mutilating behaviors. The presence of overweight is also a common feature as the child ages."
     },
     {
-      "disease_name": "Lesch-Nyhan Syndrome",
-      "disease_id": "OMIM:300322",
-      "score": 0.333,
-      "explanation": "While Lesch-Nyhan Syndrome is famously characterized by severe self-mutilation (lip and finger biting), intellectual disability, global developmental delay, and early hypotonia, the feature of 'Overweight' is a significant mismatch, as patients are typically lean due to feeding difficulties or movement disorders. Chronic constipation is not a primary feature."
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Smith-Magenis syndrome presents with intellectual disability, global developmental delay, hypotonia, self-injurious behavior, and sometimes weight gain. Chronic constipation can also be observed."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.3333333333333333,
+      "explanation": "Cohen syndrome can present with intellectual disability, hypotonia, and constipation, along with some degree of developmental delay and obesity or overweight."
     },
     {
       "disease_name": "Angelman Syndrome",
       "disease_id": "OMIM:105830",
       "score": 0.25,
-      "explanation": "Angelman syndrome presents with severe intellectual disability, global developmental delay, hypotonia, and chronic constipation. Self-injurious behaviors, such as hand-biting, can occur. However, patients with Angelman syndrome are typically lean and do not exhibit the 'Overweight' phenotype."
+      "explanation": "Angelman syndrome includes global developmental delay, intellectual disability, hypotonia, and behavioral issues such as self-mutilation. Though it is not primarily associated with overweight, it remains a differential diagnosis."
     }
   ]
 }

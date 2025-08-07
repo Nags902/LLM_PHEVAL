@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant",
-      "disease_id": "OMIM:181350",
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 1, X-Linked",
+      "disease_id": "OMIM:310300",
       "score": 1.0,
-      "explanation": "This patient's clinical presentation is highly characteristic of Emery-Dreifuss Muscular Dystrophy (EDMD). Key features like Achilles tendon contracture, elbow contracture, spinal rigidity, stiff neck, progressive muscle weakness (including difficulty running, waddling gait, loss of ambulation, proximal upper limb weakness), elevated creatine kinase, and significant cardiac involvement (ventricular arrhythmia, abnormal left ventricular function) are all hallmarks of EDMD. The specific 'scapuloperoneal amyotrophy' also aligns well with the typical humeroperoneal distribution of weakness in EDMD. Autosomal dominant EDMD type 2, caused by mutations in the *LMNA* gene, is a common form presenting with this constellation of symptoms, including prominent cardiac disease and contractures."
+      "explanation": "Characteristics such as elbow contracture, Achilles tendon contracture, elevated creatine kinase levels, ventricular arrhythmia, and scapuloperoneal distribution of weakness closely match the features of Emery-Dreifuss Muscular Dystrophy."
     },
     {
-      "disease_name": "Emery-Dreifuss Muscular Dystrophy 1, X-linked",
-      "disease_id": "OMIM:300384",
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Autosomal Dominant 1",
+      "disease_id": "OMIM:603511",
       "score": 0.5,
-      "explanation": "Similar to EDMD type 2, X-linked EDMD (caused by mutations in the *EMD* gene) presents with the classic triad of early joint contractures (Achilles, elbow, and neck/spine), slowly progressive humeroperoneal muscle weakness (consistent with scapuloperoneal amyotrophy), and severe cardiac abnormalities (arrhythmias, dilated cardiomyopathy). Given the patient's male gender, this X-linked form is a strong candidate, representing another primary subtype of EDMD that perfectly fits the phenotypic profile."
+      "explanation": "The proximal muscle weakness, waddling gait, elevated creatine kinase, and difficulty with ambulation fit the profile of Limb-Girdle Muscular Dystrophy, particularly with features of autosomal dominant inheritance."
     },
     {
-      "disease_name": "Limb-Girdle Muscular Dystrophy, Type 1B",
-      "disease_id": "OMIM:159001",
-      "score": 0.33,
-      "explanation": "Limb-Girdle Muscular Dystrophy Type 1B is caused by mutations in the *LMNA* gene, making it an allelic disorder to EDMD2. Patients often present with prominent proximal muscle weakness (leading to waddling gait, difficulty running, loss of ambulation, proximal upper limb weakness), elevated CK, and a high incidence of cardiac involvement (cardiomyopathy, arrhythmias). While the contractures and spinal rigidity might be less universally emphasized than in classical EDMD, they are known features of LMNA-related myopathies, and there is significant clinical overlap with EDMD, making it a very strong candidate."
+      "disease_name": "Bethlem Myopathy 1",
+      "disease_id": "OMIM:158810",
+      "score": 0.3333,
+      "explanation": "Bethlem Myopathy can present with contractures (elbows and Achilles tendons), mild proximal muscle weakness, and elevated creatine kinase levels, which aligns with the patient's phenotypes."
     },
     {
-      "disease_name": "Titin-related Myopathy",
-      "disease_id": "OMIM:188840",
+      "disease_name": "Rigid Spine Muscular Dystrophy 1",
+      "disease_id": "OMIM:602771",
       "score": 0.25,
-      "explanation": "Mutations in the *TTN* gene (titin) are a highly common cause of muscular dystrophies and dilated cardiomyopathy. Titinopathies can manifest with a wide range of muscle involvement, including limb-girdle weakness, and can present with features resembling EDMD, including contractures and spinal rigidity. Crucially, cardiac involvement (abnormal left ventricular function, arrhythmias) is a very frequent and significant feature. The broad and overlapping spectrum of Titin-related disorders makes it a plausible cause for the patient's combined musculoskeletal and cardiac phenotype."
-    },
-    {
-      "disease_name": "Myofibrillar Myopathy, Desmin-related",
-      "disease_id": "OMIM:601419",
-      "score": 0.2,
-      "explanation": "Myofibrillar myopathies are a heterogeneous group of disorders characterized by progressive muscle weakness, often with distal or limb-girdle predominance. Specific forms, such as desmin-related myopathy, commonly feature early contractures (including Achilles), progressive weakness, elevated CK, and significant cardiac involvement (cardiomyopathy and conduction defects). While 'scapuloperoneal amyotrophy' and 'spinal rigidity' are not hallmark features for all forms, the overall combination of muscle weakness, contractures, elevated CK, and prominent cardiac dysfunction makes Myofibrillar Myopathy a relevant, albeit broader, diagnostic consideration."
+      "explanation": "Spinal rigidity, proximal muscle weakness, and elevated creatine kinase levels match Rigid Spine Muscular Dystrophy characteristics, though it is less common in this age group."
     }
   ]
 }

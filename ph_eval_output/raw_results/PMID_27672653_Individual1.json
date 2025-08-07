@@ -1,16 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric Acidemia, Type I",
+      "disease_name": "Glutaric Aciduria Type 1",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "This is the most likely diagnosis. The presence of elevated urine 3-hydroxyglutaric acid and glutaric aciduria are pathognomonic biochemical findings for Glutaric Acidemia Type I. Furthermore, the clinical presentation with acute encephalopathy, dystonia, inability to walk, absent speech, macrocephaly, and characteristic neuroimaging findings such as enlarged sylvian cisterns, are highly consistent with this condition. Subdural hemorrhage has also been reported in some individuals with Glutaric Acidemia Type I."
+      "explanation": "Glutaric Aciduria Type 1 is characterized by elevated levels of glutaric acid, macrocephaly, dystonia, and acute encephalopathy, all of which match the patient's phenotypic features."
     },
     {
-      "disease_name": "Glutaric Acidemia, Type II",
-      "disease_id": "OMIM:231680",
+      "disease_name": "L-2-Hydroxyglutaric Aciduria",
+      "disease_id": "OMIM:236792",
       "score": 0.5,
-      "explanation": "Also known as Multiple Acyl-CoA Dehydrogenase Deficiency (MADD), this condition also involves glutaric aciduria (though typically alongside a broader spectrum of other organic acids) and can present with acute encephalopathy, seizures, and severe neurological dysfunction. However, the specific and predominant elevation of 3-hydroxyglutaric acid, along with the distinct enlarged sylvian cisterns, are highly characteristic of Glutaric Acidemia Type I and less typical for MADD. Glutaric Acidemia Type II is genetically heterogeneous, caused by mutations in ETFA, ETFB, or ETFDH genes (e.g., OMIM:231680 for ETFA-related)."
+      "explanation": "This condition can present with elevated urinary 3-hydroxyglutaric acid levels, seizures, macrocephaly, and can lead to encephalopathy, making it a possible match to some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.3333,
+      "explanation": "Although less common, Canavan Disease can exhibit macrocephaly, inability to walk, absent speech, and seizures. The phenotypic overlap suggests it is worth considering."
     }
   ]
 }

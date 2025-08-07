@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "Congenital Adrenal Hyperplasia (CAH) is commonly associated with clitoral hypertrophy and often presents with hyperpigmentation due to excess production of androgens and the activation of melanocortin 1 receptor by high ACTH levels, making it the most likely diagnosis given the features."
+    },
+    {
+      "disease_name": "Androgen Insensitivity Syndrome",
+      "disease_id": "OMIM:300068",
+      "score": 0.5,
+      "explanation": "Although typically not associated with hyperpigmentation, partial forms of Androgen Insensitivity Syndrome could potentially lead to genital ambiguity, including clitoral hypertrophy, due to varying degrees of androgen response."
+    },
+    {
+      "disease_name": "McCune-Albright Syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.3333333333333333,
+      "explanation": "While primarily characterized by fibrous dysplasia of bone, precocious puberty, and caf\u00e9-au-lait spots (a form of hyperpigmentation), the endocrine abnormalities in McCune-Albright Syndrome could theoretically lead to phenotypic overlap, albeit less commonly with clitoral hypertrophy."
+    }
+  ]
+}

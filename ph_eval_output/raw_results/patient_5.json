@@ -1,16 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Glutaric Aciduria Type 1",
+      "disease_name": "Glutaric Aciduria Type I",
       "disease_id": "OMIM:231670",
       "score": 1.0,
-      "explanation": "This disease is characterized by the accumulation of glutaric acid and 3-hydroxyglutaric acid due to glutaryl-CoA dehydrogenase deficiency, directly explaining the 'Glutaric aciduria' feature. It classically presents with macrocephaly, progressive cerebral atrophy (particularly in the basal ganglia, leading to striatal necrosis), and secondary dystonia, often precipitated by acute encephalopathic crises in early childhood. Subdural hemorrhage, while less common, has been reported in GA1 patients, possibly due to brain atrophy leading to increased vulnerability to minor trauma or fragile cerebral vasculature. All listed features align strongly with the known clinical spectrum of GA1 at age P14Y."
+      "explanation": "The combination of macrocephaly, subdural hemorrhage, glutaric aciduria, cerebral atrophy, and dystonia strongly suggests Glutaric Aciduria Type I. This metabolic disorder is characterized by macrocephaly and neurologic symptoms due to the accumulation of glutaric acid and related metabolites."
     },
     {
-      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency",
-      "disease_id": "OMIM:231680",
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
       "score": 0.5,
-      "explanation": "Also known as Glutaric Aciduria Type 2, this is a distinct metabolic disorder characterized by defects in fatty acid and amino acid oxidation, leading to the accumulation of various acyl-CoAs, including glutaric acid (hence 'Glutaric aciduria'). However, its typical clinical presentation often involves severe metabolic acidosis, hypoglycemia, hypotonia, cardiomyopathy, and liver dysfunction. While neurological symptoms can occur, the specific combination of prominent macrocephaly, characteristic cerebral atrophy (especially basal ganglia specific patterns) and severe dystonia, as well as recurrent subdural hemorrhage, is less typical and less frequently reported compared to Glutaric Aciduria Type 1. It is considered a differential diagnosis primarily due to the shared key feature of glutaric aciduria."
+      "explanation": "Although not all features match perfectly, Canavan Disease can result in macrocephaly and cerebral atrophy, with some metabolic abnormalities that could lead to overlapping symptoms like dystonia. However, the presence of subdural hemorrhage is less characteristic."
+    },
+    {
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.3333333333333333,
+      "explanation": "Alexander Disease could explain the macrocephaly and cerebral atrophy, but the metabolic feature of glutaric aciduria does not align. Dystonia can be part of the symptomatology, albeit not commonly."
     }
   ]
 }

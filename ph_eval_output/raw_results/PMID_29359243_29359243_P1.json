@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh Syndrome, French-Canadian Type",
+      "disease_id": "OMIM:220111",
+      "score": 1.0,
+      "explanation": "Leigh Syndrome presents with increased CSF lactate, feeding difficulties, respiratory failure, motor regression, and abnormal MRI findings, matching all patient features."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Typical presentation includes increased CSF lactate, hypotonia, developmental regression, and abnormal MRI findings which are seen in this patient."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.333,
+      "explanation": "Characterized by increased CSF lactate, hypotonia, feeding difficulties, and neurological abnormalities consistent with the patient's symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 5 (encephalomyopathic form with variable hepatic involvement)",
+      "disease_id": "OMIM:612073",
+      "score": 0.25,
+      "explanation": "Presents with muscle hypotonia, developmental regression, feeding difficulties, and increased CSF lactate, aligning with the patient\u2019s phenotype."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 1.0,
+      "explanation": "Robinow Syndrome is characterized by features such as hypertelorism, short stature, brachydactyly, and intellectual disability, which align well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Antley-Bixler Syndrome without Genital Anomalies or Disordered Steroidogenesis",
+      "disease_id": "OMIM:207410",
+      "score": 0.5,
+      "explanation": "This syndrome presents with hypertelorism, craniofacial abnormalities, and limb anomalies such as camptodactyly and brachydactyly, which match some of the patient's features."
+    },
+    {
+      "disease_name": "Klinefelter Syndrome (47,XXY)",
+      "disease_id": "OMIM:194050",
+      "score": 0.3333,
+      "explanation": "Klinefelter Syndrome can present with intellectual disability and some skeletal abnormalities, though it does not perfectly match the entire feature set, the shawl scrotum is relevant."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.25,
+      "explanation": "Aarskog-Scott Syndrome is associated with syndactyly, hypertelorism, short stature, and shawl scrotum, which correspond to the patient's features."
+    },
+    {
+      "disease_name": "Velocardiofacial Syndrome",
+      "disease_id": "OMIM:192430",
+      "score": 0.2,
+      "explanation": "This syndrome is known to include facial dysmorphisms like hypertelorism and intellectual disability, although not as strong a match for other features like camptodactyly."
+    }
+  ]
+}

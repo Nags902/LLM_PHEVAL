@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Vici syndrome",
-      "disease_id": "OMIM:257000",
-      "score": 1.0,
-      "explanation": "This syndrome perfectly matches the patient's comprehensive presentation. It characteristically includes combined immunodeficiency (decreased IgG, IgA, IgM, recurrent infections), significant bone marrow features (myelodysplasia, pancytopenia, neutropenia, thrombocytopenia, increased mean corpuscular volume), and a complete set of neurological symptoms, including cerebellar atrophy, nystagmus, dysmetria, and ankle clonus. All described features are hallmarks of Vici syndrome."
-    },
-    {
-      "disease_name": "Ataxia-telangiectasia",
+      "disease_name": "Ataxia-Telangiectasia",
       "disease_id": "OMIM:208900",
-      "score": 0.5,
-      "explanation": "Ataxia-telangiectasia shares significant neurological features (cerebellar atrophy, nystagmus, dysmetria, ataxia) and prominent immunodeficiency (recurrent infections, variable Ig deficiencies, especially IgA). While myelodysplasia and pancytopenia can occur in A-T, they are not as consistently central to the initial presentation as in Vici syndrome, nor is macrocytosis a typical feature. However, given the strong neuro-immunologic overlap, it remains a key differential diagnosis."
+      "score": 1.0,
+      "explanation": "Ataxia-Telangiectasia is characterized by cerebellar atrophy, immunodeficiency (low IgG, IgA, and IgM), recurrent infections, pancytopenia, and increased MCV. The neurological symptoms like nystagmus, dysmetria, and ankle clonus also align."
     },
     {
-      "disease_name": "Nijmegen breakage syndrome",
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.5,
+      "explanation": "Shwachman-Diamond Syndrome presents with neutropenia, pancytopenia, and recurrent infections. While primarily associated with pancreatic insufficiency and skeletal abnormalities, the hematological and immunological presentations overlap."
+    },
+    {
+      "disease_name": "CVID due to TNFRSF13B Deficiency",
+      "disease_id": "OMIM:609529",
+      "score": 0.3333333333,
+      "explanation": "Common Variable Immunodeficiency (CVID) due to TNFRSF13B can lead to decreased immunoglobulins (IgG, IgA, IgM) and recurrent infections, though it usually does not present with cerebellar atrophy or the specific neurological symptoms here."
+    },
+    {
+      "disease_name": "Nijmegen Breakage Syndrome",
       "disease_id": "OMIM:251260",
-      "score": 0.333,
-      "explanation": "Nijmegen Breakage Syndrome is characterized by immunodeficiency (including hypogammaglobulinemia), radiation sensitivity, and an increased cancer risk, alongside some neurological features (microcephaly, intellectual disability, and variable ataxia). While bone marrow failure and malignancy risk are present, myelodysplasia and the specific constellation of cerebellar atrophy with significant pancytopenia and macrocytosis are less prominent primary features compared to Vici syndrome."
+      "score": 0.25,
+      "explanation": "Nijmegen Breakage Syndrome shares features like microcephaly, immunodeficiency, and cancer predisposition. Cerebellar atrophy and nystagmus are less commonly associated, making it a less likely match."
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Weyers Acrodental Dysostosis",
+      "disease_id": "OMIM:193530",
+      "score": 1.0,
+      "explanation": "Weyers Acrodental Dysostosis is associated with both syndactyly and preaxial polydactyly, particularly affecting the feet."
+    },
+    {
+      "disease_name": "Laurin-Sandrow Syndrome",
+      "disease_id": "OMIM:135750",
+      "score": 0.5,
+      "explanation": "Laurin-Sandrow Syndrome is characterized by limb abnormalities, including polydactyly and syndactyly, although typically it also presents with other craniofacial features."
+    },
+    {
+      "disease_name": "Haas Type Polydactyly-Syndactyly",
+      "disease_id": "OMIM:186100",
+      "score": 0.333,
+      "explanation": "This condition involves syndactyly and preaxial polydactyly, specifically noted in foot morphology."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.25,
+      "explanation": "The syndrome typically includes polysyndactyly, including preaxial types, but is often associated with craniofacial abnormalities as well."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel Syndrome, Type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.2,
+      "explanation": "This syndrome can include syndactyly and polydactyly features, though it commonly presents with overgrowth and distinct facial features."
+    }
+  ]
+}

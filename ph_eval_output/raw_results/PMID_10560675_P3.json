@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cystic Fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 1.0,
+      "explanation": "Cystic Fibrosis commonly presents with respiratory symptoms such as chronic sinusitis, bronchitis, and nasal polyps. It is a genetic disorder that affects the respiratory and digestive systems."
+    },
+    {
+      "disease_name": "Primary Ciliary Dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 0.5,
+      "explanation": "Primary Ciliary Dyskinesia is characterized by chronic respiratory tract infections, including chronic sinusitis and bronchitis, due to defective ciliary function. Nasal polyps are also associated with this condition."
+    },
+    {
+      "disease_name": "Aspirin-Exacerbated Respiratory Disease",
+      "disease_id": "OMIM:208550",
+      "score": 0.3333333333333333,
+      "explanation": "Aspirin-Exacerbated Respiratory Disease is marked by the presence of asthma, chronic rhinosinusitis with nasal polyps, and sensitivity to aspirin. Chronic sinusitis and nasal polyps are key features."
+    },
+    {
+      "disease_name": "Granulomatosis with Polyangiitis",
+      "disease_id": "OMIM:608710",
+      "score": 0.25,
+      "explanation": "Granulomatosis with Polyangiitis can cause chronic sinusitis and respiratory tract involvement. Nasal polyposis is less common but possible in long-standing cases."
+    },
+    {
+      "disease_name": "Samter's Triad",
+      "disease_id": "OMIM:208550",
+      "score": 0.2,
+      "explanation": "Samter's Triad, which includes asthma, nasal polyps, and aspirin sensitivity, could explain chronic sinusitis and nasal polyposis. Though overlapping with other conditions, the presence of nasal polyps is a significant feature."
+    }
+  ]
+}

@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Alpers-Huttenlocher Syndrome",
-      "disease_id": "OMIM:203700",
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:308350",
       "score": 1.0,
-      "explanation": "This severe progressive neurodegenerative disorder strongly matches the patient's presentation with epileptic encephalopathy, severe intellectual disability, cerebral atrophy, and various seizure types including focal tonic and generalized myoclonic. Infantile spasms and EEG with burst suppression are also characteristic features."
+      "explanation": "Ohtahara Syndrome is characterized by early-onset epileptic encephalopathy with burst suppression EEG patterns, cerebral atrophy, and various forms of seizures, fitting the phenotypic profile closely."
     },
     {
-      "disease_name": "STXBP1 Encephalopathy",
-      "disease_id": "OMIM:612164",
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
       "score": 0.5,
-      "explanation": "STXBP1 encephalopathy is a common genetic cause of early infantile epileptic encephalopathy, which frequently presents with severe intellectual disability, infantile spasms, burst suppression on EEG, and multifocal epileptiform discharges. Cerebral atrophy is also a recognized feature in some patients."
+      "explanation": "West Syndrome presents with infantile spasms, intellectual disability, and EEG abnormalities. The presence of infantile spasms and severe intellectual disability align with the patient phenotype."
     },
     {
-      "disease_name": "CDKL5 Deficiency Disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Doose Syndrome",
+      "disease_id": "OMIM:604403",
       "score": 0.333,
-      "explanation": "CDKL5 deficiency disorder is a well-known cause of severe early-onset epileptic encephalopathy, characterized by intractable seizures (often including infantile spasms), severe intellectual disability, and a range of EEG abnormalities including burst suppression and multifocal epileptiform discharges. Cerebral atrophy can be observed."
+      "explanation": "Doose Syndrome, or Myoclonic-Astatic Epilepsy, can present with myoclonic and other types of seizures along with developmental impairment, which matches several patient features."
     },
     {
-      "disease_name": "Nonketotic Hyperglycinemia",
-      "disease_id": "OMIM:238300",
+      "disease_name": "Malignant Migrating Partial Seizures of Infancy",
+      "disease_id": "OMIM:609304",
       "score": 0.25,
-      "explanation": "Nonketotic Hyperglycinemia is a severe metabolic disorder that typically presents in infancy with intractable seizures (including infantile spasms and myoclonic seizures), profound encephalopathy with burst suppression on EEG, severe intellectual disability, and often cerebral atrophy."
+      "explanation": "This condition involves severe epilepsy with multiple seizure types and EEG abnormalities, including multifocal discharges, in infants which matches the provided symptoms."
     },
     {
-      "disease_name": "WWOX-related epileptic encephalopathy",
-      "disease_id": "OMIM:616339",
+      "disease_name": "Epileptic Encephalopathy, Early Infantile, 1",
+      "disease_id": "OMIM:308350",
       "score": 0.2,
-      "explanation": "This condition causes early-onset epileptic encephalopathy with severe global developmental delay, profound intellectual disability, and cerebral atrophy. Seizure types reported include infantile spasms, and EEG can show multifocal epileptiform discharges and burst suppression."
+      "explanation": "Known for severe epileptic encephalopathy starting in infancy with characteristics like severe seizures and EEG anomalies, mirroring the patient's condition."
     }
   ]
 }

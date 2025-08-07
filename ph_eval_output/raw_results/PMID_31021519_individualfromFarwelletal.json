@@ -2,33 +2,33 @@
   "ranked_diseases": [
     {
       "disease_name": "22q11.2 Deletion Syndrome",
-      "disease_id": "OMIM:188400",
+      "disease_id": "OMIM:192430",
       "score": 1.0,
-      "explanation": "This syndrome is highly associated with cleft palate (including velopharyngeal insufficiency), intellectual disability (typically mild to moderate), and global developmental delay. All three reported phenotypic features are common and hallmark manifestations of 22q11.2 Deletion Syndrome, making it the most consistent and likely diagnosis."
+      "explanation": "22q11.2 Deletion Syndrome, also known as DiGeorge Syndrome, is commonly associated with cleft palate, intellectual disability, and global developmental delay, which aligns well with the patient's features."
     },
     {
-      "disease_name": "Smith-Lemli-Opitz Syndrome",
-      "disease_id": "OMIM:270400",
+      "disease_name": "Treacher Collins Syndrome",
+      "disease_id": "OMIM:154500",
       "score": 0.5,
-      "explanation": "Smith-Lemli-Opitz Syndrome is characterized by universal intellectual disability and global developmental delay. Cleft palate is a significant and frequent finding, occurring in approximately 50% of affected individuals, which aligns well with the patient's presented features."
+      "explanation": "Although primarily known for craniofacial abnormalities, Treacher Collins Syndrome can include cleft palate. Intellectual disability and developmental delay can also be present in some patients."
     },
     {
-      "disease_name": "Opitz G/BBB Syndrome, X-linked",
-      "disease_id": "OMIM:300000",
-      "score": 0.33,
-      "explanation": "Opitz G/BBB Syndrome commonly presents with midline defects, including cleft palate. Intellectual disability and global developmental delay are also variable but recognized features, making it a plausible candidate for the observed combination of symptoms."
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.3333,
+      "explanation": "This syndrome is characterized by intellectual disability, developmental delay, and can include cleft features, which could relate to the patient's symptoms."
     },
     {
-      "disease_name": "Wolf-Hirschhorn Syndrome",
-      "disease_id": "OMIM:194190",
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
       "score": 0.25,
-      "explanation": "Wolf-Hirschhorn Syndrome is characterized by severe intellectual disability and global developmental delay. Cleft lip and/or palate is also reported in a significant proportion (30-50%) of cases, making it a relevant differential diagnosis."
+      "explanation": "Kabuki Syndrome may present with cleft palate, intellectual disability, and global developmental delay, although it is less commonly manifested than in higher-ranked possibilities."
     },
     {
       "disease_name": "CHARGE Syndrome",
       "disease_id": "OMIM:214800",
       "score": 0.2,
-      "explanation": "CHARGE Syndrome consistently involves intellectual disability and global developmental delay. While not as frequent as in 22q11.2 Deletion Syndrome, cleft palate can occur in about 15-20% of cases. The presence of the neurodevelopmental and palatal features makes it a possible, albeit less specific, consideration."
+      "explanation": "CHARGE Syndrome can present with cleft palate, intellectual disability, and developmental delay. It is a possibility, although phenotypic overlap is more limited than higher-ranked diseases."
     }
   ]
 }

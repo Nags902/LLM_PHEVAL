@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia, Type 1A",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "Pontocerebellar Hypoplasia, Type 1A is associated with edema, global developmental delay, hypoplasia of the corpus callosum, progressive microcephaly, and seizures, which aligns well with the presented phenotype."
+    },
+    {
+      "disease_name": "Zellweger Spectrum Disorder",
+      "disease_id": "OMIM:214100",
+      "score": 0.5,
+      "explanation": "Zellweger Spectrum Disorders often present with progressive microcephaly, global developmental delay, hypotonia, and seizures, making it a potential fit. However, hypoplasia of the corpus callosum and edema are less consistently reported."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.3333333333333333,
+      "explanation": "Aicardi Syndrome often presents with hypoplasia of the corpus callosum, seizures, and developmental delays. Progressive microcephaly is occasionally seen, but edema is not a typical feature, thereby giving it a lower ranking."
+    },
+    {
+      "disease_name": "FOXP1 Syndrome",
+      "disease_id": "OMIM:613670",
+      "score": 0.25,
+      "explanation": "FOXP1 Syndrome includes global developmental delay, seizures, and sometimes corpus callosum anomalies. Progressive microcephaly and edema are not typical, making this a less likely match."
+    }
+  ]
+}

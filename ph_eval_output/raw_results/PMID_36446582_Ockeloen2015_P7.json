@@ -1,16 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "KBG Syndrome",
-      "disease_id": "OMIM:148050",
+      "disease_name": "Russell-Silver Syndrome",
+      "disease_id": "OMIM:180860",
       "score": 1.0,
-      "explanation": "This syndrome is an excellent match for all provided phenotypic features. Macrodontia, especially of the incisors, is a hallmark feature of KBG syndrome. It also consistently presents with short stature, delayed skeletal maturation, and various hand abnormalities, such as brachydactyly, clinodactyly, and broad hands, which fall under the broad category of 'abnormality of the hand'."
+      "explanation": "Russell-Silver Syndrome is characterized by features like short stature, delayed skeletal maturation, and hand abnormalities. Although macrodontia is less characteristic, the other phenotypes make it a primary consideration."
     },
     {
-      "disease_name": "Noonan Syndrome",
+      "disease_name": "Noonan Syndrome 1",
       "disease_id": "OMIM:163950",
       "score": 0.5,
-      "explanation": "Noonan Syndrome frequently presents with short stature, delayed skeletal maturation, and a variety of hand abnormalities including broad hands, short fingers, and clinodactyly. However, macrodontia is not a characteristic feature of Noonan Syndrome, though other dental anomalies such as malocclusion or enamel hypoplasia may be observed. This condition is considered as a differential diagnosis due to the overlap in growth and general skeletal features."
+      "explanation": "Noonan Syndrome 1 includes short stature and delayed skeletal maturation, alongside other characteristic features. However, macrodontia is not typical, which places it below Russell-Silver Syndrome."
+    },
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.3333333333333333,
+      "explanation": "This syndrome involves short stature and skeletal abnormalities, but macrodontia is not a classic feature. It fits some of the skeletal manifestations but less so the full phenotypic pattern."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.25,
+      "explanation": "Sotos Syndrome can present with macrodontia and skeletal anomalies; however, it more typically involves overgrowth, contrasting with the short stature here."
+    },
+    {
+      "disease_name": "Langer-Giedion Syndrome",
+      "disease_id": "OMIM:150230",
+      "score": 0.2,
+      "explanation": "This condition may include short stature and hand abnormalities, but macrodontia and skeletal maturation delay are not prominently featured, thus ranked lower."
     }
   ]
 }

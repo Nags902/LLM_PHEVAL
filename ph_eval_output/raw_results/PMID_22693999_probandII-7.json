@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial Amyloid Polyneuropathy",
+      "disease_id": "OMIM:176300",
+      "score": 1.0,
+      "explanation": "Familial Amyloid Polyneuropathy is known to cause amyloidosis of peripheral nerves and can lead to gastrointestinal symptoms such as chronic diarrhea and constipation due to autonomic neuropathy."
+    },
+    {
+      "disease_name": "Familial Mediterranean Fever, Autosomal Dominant",
+      "disease_id": "OMIM:134610",
+      "score": 0.5,
+      "explanation": "This condition involves amyloid deposition and can present with gastrointestinal issues, although peripheral nerve involvement is more typical in polyneuropathy forms."
+    },
+    {
+      "disease_name": "Hereditary Gelsolin Amyloidosis",
+      "disease_id": "OMIM:105120",
+      "score": 0.333,
+      "explanation": "Hereditary Gelsolin Amyloidosis can lead to amyloid deposition, sometimes affecting peripheral nerves. It can have systemic effects, including some gastrointestinal manifestations."
+    }
+  ]
+}

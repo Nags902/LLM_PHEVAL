@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is one of the most common genetic causes of autism. It is associated with intellectual disability and behavior resembling autism spectrum disorders."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome often includes autism-like features and stereotypic hand movements, primarily affects females, and is associated with MECP2 mutations."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.333,
+      "explanation": "Tuberous Sclerosis Complex is associated with a variety of neurological symptoms, including autism, due to benign tumors affecting brain development."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman Syndrome frequently includes autism-like behaviors, alongside severe intellectual disability, movement or balance disorder, and unique behavioral patterns."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.2,
+      "explanation": "PTEN Hamartoma Tumor Syndrome can include features of autism spectrum disorder, caused by mutations in the PTEN gene."
+    }
+  ]
+}

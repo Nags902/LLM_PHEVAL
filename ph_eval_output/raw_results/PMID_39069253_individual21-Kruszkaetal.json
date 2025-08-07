@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is characterized by developmental delays, speech and motor delays, hearing impairment, autistic behavior, and distinctive facial features such as a broad philtrum and highly arched eyebrows."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Mowat-Wilson Syndrome features intellectual disability, global developmental delay, speech delay, and distinctive facial features including a broad nasal bridge and prominent chin, which may relate to some described traits."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333333333333333,
+      "explanation": "Cornelia de Lange Syndrome includes developmental delays, speech and hearing problems, autistic behaviors, and specific facial features such as highly arched eyebrows and a broad philtrum."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams Syndrome can present with developmental delays, speech issues, and characteristic facial features, including a broad philtrum and specific social traits that can overlap with some autistic behaviors."
+    }
+  ]
+}

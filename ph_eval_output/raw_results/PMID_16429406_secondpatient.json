@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "Fanconi Anemia is characterized by hematological abnormalities like anemia, thrombocytopenia, neutropenia, and pancytopenia. Physical anomalies like short stature, caf\u00e9-au-lait spots, absent thumbs, and absent radii are also common. Chromosomal breakage after exposure to crosslinking agents is a hallmark feature."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group C",
+      "disease_id": "OMIM:227645",
+      "score": 0.5,
+      "explanation": "Fanconi Anemia, Complementation Group C shares many features with Group A including hematological abnormalities, skeletal abnormalities, and sensitivity to chromosomal breakage. The specific complementation group is identified through genetic testing."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group G",
+      "disease_id": "OMIM:614082",
+      "score": 0.333,
+      "explanation": "Similar to other types of Fanconi Anemia, this group presents with hematological issues and skeletal anomalies, along with chromosomal instability. Genetic testing is required to confirm the specific complementation group."
+    }
+  ]
+}

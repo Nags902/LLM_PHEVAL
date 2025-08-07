@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "The presence of infantile spasms, hypsarrhythmia, and developmental delay are classic for West Syndrome."
+    },
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Ohtahara Syndrome involves early-onset epileptic encephalopathy and focal tonic seizures, similar to the symptoms presented."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:610253",
+      "score": 0.3333333333333333,
+      "explanation": "Characterized by epileptic encephalopathy and a variety of seizure types, including tonic seizures and cognitive dysfunction."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Although not classic, Dravet Syndrome can present with developmental delay and epileptic encephalopathy."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "Includes features of infantile spasms, developmental delay, and can present with continuous spike-wave activity in sleep."
+    }
+  ]
+}

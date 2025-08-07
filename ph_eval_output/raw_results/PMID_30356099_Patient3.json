@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "CDKL5 Deficiency Disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Pontocerebellar Hypoplasia, Type 6",
+      "disease_id": "OMIM:611523",
       "score": 1.0,
-      "explanation": "CDKL5 Deficiency Disorder is a severe neurodevelopmental disorder characterized by early-onset epileptic encephalopathy, often with intractable infantile spasms (Epileptic spasm, Epileptic encephalopathy, EEG abnormality), severe global developmental delay (Global developmental delay), and characteristic brain imaging findings including thin corpus callosum (Thin corpus callosum) and cerebral atrophy (Cerebral atrophy). Hypokinesia (Hypokinesia) is also a common feature. Given the patient's age and gender (female), this X-linked dominant condition presents a very strong match for the comprehensive phenotypic profile."
+      "explanation": "Pontocerebellar Hypoplasia, Type 6, is associated with thin corpus callosum, cerebral atrophy, epileptic encephalopathy, and global developmental delay, matching several key features of the patient."
     },
     {
-      "disease_name": "ARX-Related Disorders (e.g., X-Linked Infantile Spasms Syndrome with or without Agenesis of the Corpus Callosum)",
-      "disease_id": "OMIM:300382",
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
       "score": 0.5,
-      "explanation": "ARX mutations cause a spectrum of X-linked neurodevelopmental disorders, often featuring brain malformations such as agenesis or hypoplasia/thin corpus callosum (Thin corpus callosum), severe intellectual disability/global developmental delay (Global developmental delay), and intractable epilepsy, including infantile spasms (Epileptic spasm, Epileptic encephalopathy, EEG abnormality). Cerebral atrophy (Cerebral atrophy) can be present, and hypokinesia (Hypokinesia) can occur secondary to severe neurological impairment. The X-linked nature aligns with the patient's gender, as severely affected females are known."
+      "explanation": "Aicardi Syndrome presents with thin corpus callosum, cerebral atrophy, epileptic spasms, and developmental delay, which aligns with many of the patient's symptoms, though it is typically seen in females."
     },
     {
-      "disease_name": "Early Infantile Epileptic Encephalopathy-4 (EIEE4) due to STXBP1 Deficiency",
-      "disease_id": "OMIM:612164",
-      "score": 0.333,
-      "explanation": "STXBP1-related encephalopathy is a well-recognized cause of early-onset epileptic encephalopathy (Epileptic encephalopathy), frequently presenting with infantile spasms (Epileptic spasm), severe global developmental delay (Global developmental delay), and various movement disorders, including hypokinesia (Hypokinesia). Cerebral atrophy (Cerebral atrophy) is a common finding, and thinning of the corpus callosum (Thin corpus callosum) can also be observed. The constellation of severe neurological symptoms aligns well with this diagnosis."
+      "disease_name": "Early Infantile Epileptic Encephalopathy 2",
+      "disease_id": "OMIM:300672",
+      "score": 0.3333333333333333,
+      "explanation": "This condition is known for epileptic encephalopathy and EEG abnormalities, and often presents with developmental delay and other neurological findings present in the patient."
     },
     {
-      "disease_name": "Lissencephaly (e.g., LIS1-associated, DCX-associated)",
+      "disease_name": "Lissencephaly 1",
       "disease_id": "OMIM:607432",
       "score": 0.25,
-      "explanation": "Lissencephaly is a brain malformation characterized by a smooth brain surface, typically leading to severe global developmental delay (Global developmental delay) and intractable epilepsy, often including epileptic spasms (Epileptic spasm, Epileptic encephalopathy, EEG abnormality). Thin corpus callosum (Thin corpus callosum) is a frequently associated brain anomaly, and cerebral atrophy (Cerebral atrophy) can occur. Hypokinesia (Hypokinesia) is also a possible neurological manifestation. OMIM:607432 refers to classical lissencephaly type 1 due to PAFAH1B1 (LIS1) mutation, and OMIM:300067 refers to X-linked lissencephaly due to DCX mutation, both fitting the phenotype."
-    },
-    {
-      "disease_name": "Mitochondrial Encephalopathy (e.g., Leigh Syndrome)",
-      "disease_id": "OMIM:256000",
-      "score": 0.2,
-      "explanation": "Mitochondrial encephalopathies, such as Leigh Syndrome (OMIM:256000 for SURF1-related), are progressive neurodegenerative disorders that can manifest in infancy with severe global developmental delay or regression (Global developmental delay), epileptic encephalopathy (Epileptic encephalopathy) with various seizure types including spasms (Epileptic spasm), cerebral atrophy (Cerebral atrophy), and hypokinesia (Hypokinesia). While thin corpus callosum is less specific to mitochondrial diseases than the other candidates, the overall severe and progressive neurological picture makes this a plausible consideration."
+      "explanation": "Lissencephaly 1 may present with global developmental delay and various forms of cerebral malformations, which can be consistent with some features like cerebral atrophy and hypokinesia."
     }
   ]
 }

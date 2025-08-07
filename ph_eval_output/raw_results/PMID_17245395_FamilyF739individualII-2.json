@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:308000",
+      "score": 1.0,
+      "explanation": "Lesch-Nyhan syndrome is a rare genetic condition associated with hyperuricemia due to a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HPRT). It is more common in males and aligns with the patient's phenotype and gender."
+    },
+    {
+      "disease_name": "Gitelman Syndrome",
+      "disease_id": "OMIM:263800",
+      "score": 0.5,
+      "explanation": "Gitelman syndrome is a kidney disorder that can cause abnormalities in plasma levels of magnesium and calcium, potentially leading to hyperuricemia. This condition often presents in adolescent patients."
+    },
+    {
+      "disease_name": "Kelley-Seegmiller Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.333,
+      "explanation": "Kelley-Seegmiller syndrome is a milder variant of HPRT deficiency leading to hyperuricemia, gout, and renal dysfunction, mostly in male patients. The hyperuricemia matches the patient's presentation."
+    },
+    {
+      "disease_name": "Hypoxanthine-Guanine Phosphoribosyltransferase Deficiency",
+      "disease_id": "OMIM:300322",
+      "score": 0.25,
+      "explanation": "A disorder characterized by partial enzyme deficiency resulting in hyperuricemia. As it is related to Lesch-Nyhan, it should be considered given the phenotypic presentation."
+    }
+  ]
+}

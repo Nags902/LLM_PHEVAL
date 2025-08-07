@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Oguchi Disease 1",
+      "disease_id": "OMIM:258100",
+      "score": 1.0,
+      "explanation": "Oguchi Disease is associated with the presented symptoms such as difficulty adjusting to changes in luminance, reduced visual acuity, and photophobia."
+    },
+    {
+      "disease_name": "Congenital Stationary Night Blindness (CSNB)",
+      "disease_id": "OMIM:310500",
+      "score": 0.5,
+      "explanation": "CSNB is associated with vision problems in low light (bradyopsia) and may include reduced visual acuity and photophobia."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis (LCA)",
+      "disease_id": "OMIM:204000",
+      "score": 0.333,
+      "explanation": "LCA is a cause of reduced visual acuity and photophobia, generally diagnosed at birth or in the early months, which may include luminal adjustment problems."
+    }
+  ]
+}

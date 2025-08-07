@@ -1,40 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Pelizaeus-Merzbacher disease",
-      "disease_id": "OMIM:312080",
+      "disease_name": "Hypomyelinating Leukodystrophy 7",
+      "disease_id": "OMIM:618004",
       "score": 1.0,
-      "explanation": "This is a classic X-linked hypomyelinating leukodystrophy that perfectly matches all the patient's phenotypic features, including severe CNS hypomyelination, profound global developmental delay, hypotonia, and epileptic encephalopathy with bilateral tonic-clonic seizures. Its X-linked inheritance is consistent with the patient's male gender."
+      "explanation": "The combination of CNS hypomyelination, developmental delay, and epilepsy aligns with Hypomyelinating Leukodystrophy 7, which is characterized by similar neurological symptoms including seizures and hypotonia."
     },
     {
-      "disease_name": "Hypomyelination with atrophy of the basal ganglia and cerebellum",
-      "disease_id": "OMIM:612423",
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
       "score": 0.5,
-      "explanation": "Also known as TUBB4A-related leukodystrophy, this is a primary hypomyelinating disorder characterized by CNS hypomyelination, profound global developmental delay, hypotonia, and frequently presents with epileptic encephalopathy and seizures, aligning well with all reported symptoms."
+      "explanation": "Aicardi syndrome is known for its triad of features involving agenesis of the corpus callosum, infantile spasms, and chorioretinal abnormalities, and frequently presents with seizures and developmental delay, despite not explicitly listing hypomyelination."
     },
     {
-      "disease_name": "Leukodystrophy, hypomyelinating, 1 (POLR3A-related 4H syndrome)",
-      "disease_id": "OMIM:612403",
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
       "score": 0.333,
-      "explanation": "This is a form of 4H syndrome, a group of hypomyelinating leukodystrophies caused by POLR3A mutations. It is characterized by severe CNS hypomyelination, profound global developmental delay, hypotonia, and a high incidence of seizures and epileptic encephalopathy, consistent with the patient's presentation."
+      "explanation": "Pelizaeus-Merzbacher Disease is a classic hypomyelinating disorder, characterized by hypotonia, cognitive impairments, and nystagmus, alongside seizures. Its presentation overlaps with the patient's hypomyelination and neurological symptoms."
     },
     {
-      "disease_name": "Leukodystrophy, hypomyelinating, 7 (POLR3B-related 4H syndrome)",
-      "disease_id": "OMIM:614381",
+      "disease_name": "Childhood Ataxia with Central Nervous System Hypomyelination (CACH)",
+      "disease_id": "OMIM:603896",
       "score": 0.25,
-      "explanation": "Another form of 4H syndrome caused by POLR3B mutations, clinically similar to POLR3A-related forms. It presents with severe CNS hypomyelination, profound global developmental delay, hypotonia, and can include epileptic encephalopathy and seizures, making it a strong candidate."
+      "explanation": "CACH is associated with CNS hypomyelination and neurological symptoms including seizures, developmental delay, and ataxia, making it relevant although less specific without the full case presentation."
     },
     {
-      "disease_name": "Creatine transporter deficiency, X-linked",
-      "disease_id": "OMIM:300352",
+      "disease_name": "Megalencephalic Leukoencephalopathy with Subcortical Cysts 1",
+      "disease_id": "OMIM:604004",
       "score": 0.2,
-      "explanation": "An X-linked metabolic disorder primarily affecting males, characterized by severe intellectual disability (profound global developmental delay), intractable epilepsy (epileptic encephalopathy), hypotonia, and often imaging findings consistent with hypomyelination or delayed myelination. It aligns well with the patient's phenotype."
-    },
-    {
-      "disease_name": "Pelizaeus-Merzbacher-like disease 1",
-      "disease_id": "OMIM:610243",
-      "score": 0.167,
-      "explanation": "This disorder, caused by GJC2 mutations, is characterized by primary hypomyelination, significant global developmental delay, hypotonia, and can present with seizures and other severe neurological impairments resembling Pelizaeus-Merzbacher disease, making it a relevant differential."
+      "explanation": "Characterized by large head size, delayed motor development, and deterioration in neurological function, which includes seizures and sometimes CNS hypomyelination, making it a possible match."
     }
   ]
 }

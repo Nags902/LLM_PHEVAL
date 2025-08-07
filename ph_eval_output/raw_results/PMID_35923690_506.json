@@ -1,16 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Hereditary hemolytic anemia due to adenosine deaminase overproduction",
-      "disease_id": "OMIM:102720",
+      "disease_name": "Diamond-Blackfan Anemia 2",
+      "disease_id": "OMIM:618896",
       "score": 1.0,
-      "explanation": "This disease is the strongest candidate because it directly explains the highly specific and unique finding of 'Elevated red cell adenosine deaminase activity' (HP:0030270). It also accounts for 'Anemia' (HP:0001903) and 'Increased mean corpuscular volume' (HP:0005518), which are characteristic features of the chronic hemolytic anemia associated with ADA overproduction. The 'Colon cancer' (HP:0003003) and 'Small thenar eminence' (HP:0001245) are not typical features of this condition and could represent sporadic occurrences given the patient's age (P57Y) or unrelated minor anomalies. However, the enzymatic finding is diagnostically compelling."
+      "explanation": "Diamond-Blackfan Anemia is associated with anemia, macrocytosis (increased MCV), and elevated red cell adenosine deaminase activity. Although colon cancer is not a classic feature, cases of malignancy have been reported. The presence of these hematologic anomalies makes this a strong candidate."
     },
     {
-      "disease_name": "Fanconi Anemia",
-      "disease_id": "OMIM:227645",
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
       "score": 0.5,
-      "explanation": "Fanconi Anemia is considered as a second possibility because it aligns well with several key features: 'Anemia' (HP:0001903) due to bone marrow failure, 'Increased mean corpuscular volume' (HP:0005518) as macrocytosis is characteristic, 'Colon cancer' (HP:0003003) due to increased predisposition to various solid tumors including gastrointestinal, and 'Small thenar eminence' (HP:0001245) as radial ray and other skeletal anomalies are common. However, Fanconi Anemia does not typically feature 'Elevated red cell adenosine deaminase activity' (HP:0030270), which is a significant discrepancy and a highly specific finding not explained by this diagnosis."
+      "explanation": "Fanconi Anemia can present with anemia, macrocytosis, and an increased risk of malignancies including solid tumors, such as colon cancer. Although elevated adenosine deaminase activity is not typically associated, the hematologic features justify consideration."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.3333,
+      "explanation": "Shwachman-Diamond Syndrome may present with anemia, macrocytosis, and an increased risk of myelodysplastic syndrome and other malignancies. However, adenosine deaminase activity is not a common feature, making it less likely."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, X-Linked",
+      "disease_id": "OMIM:305000",
+      "score": 0.25,
+      "explanation": "Dyskeratosis Congenita can present with a predisposition to malignancy, hematologic abnormalities, and macrocytosis. Similar to other bone marrow failure syndromes, the concurrence of anemia and cancer suggests it as a possibility despite lack of a known association with ADA activity."
     }
   ]
 }

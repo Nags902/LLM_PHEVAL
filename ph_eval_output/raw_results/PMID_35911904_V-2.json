@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome often presents with intellectual disability, delayed speech, and seizures, which align with the patient's symptoms. Although Rett Syndrome is more common in females, the presentation makes it a leading possibility in the absence of other data."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome can present with significant intellectual disability, delayed speech and language development, and seizures, and may include behavioral issues such as aggression, matching the symptoms provided."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.3333333333333333,
+      "explanation": "Smith-Magenis Syndrome includes intellectual disability, speech delays, and behavioral problems, including aggression. These features are consistent with the presented case."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "Pitt-Hopkins Syndrome is associated with intellectual disability, speech delays, and seizures, which parallel the patient's phenotype."
+    }
+  ]
+}

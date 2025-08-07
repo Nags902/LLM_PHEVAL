@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Primary Adrenal Insufficiency",
+      "disease_id": "OMIM:240200",
+      "score": 1.0,
+      "explanation": "Primary adrenal insufficiency, such as Addison's disease, often presents with increased ACTH levels due to the lack of feedback inhibition by cortisol, potentially leading to secondary effects on prolactin and testosterone levels."
+    },
+    {
+      "disease_name": "Klinefelter Syndrome",
+      "disease_id": "OMIM:194055",
+      "score": 0.5,
+      "explanation": "Klinefelter syndrome is associated with low testosterone levels and may also affect hormone regulation in the body, which may lead to altered levels of ACTH and prolactin."
+    },
+    {
+      "disease_name": "Pituitary Adenoma",
+      "disease_id": "OMIM:102200",
+      "score": 0.333,
+      "explanation": "A pituitary adenoma might cause hyperprolactinemia and could alter ACTH and testosterone levels due to its effects on pituitary hormone secretion."
+    }
+  ]
+}

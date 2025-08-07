@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 1.0,
+      "explanation": "Williams Syndrome is characterized by features such as a square face, full cheeks, developmental delay (including speech and motor delays), feeding difficulties, strabismus, and anxiety. Maternal diabetes is not a typical associated feature, but the overlapping craniofacial and developmental characteristics make it a strong possibility."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "The presence of features like delayed speech, motor delay, drooling, and feeding difficulties, alongside craniofacial features like square face and synophrys, suggests Pitt-Hopkins Syndrome. Anxiety and deeply set eyes also support this potential diagnosis."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.33,
+      "explanation": "Smith-Magenis Syndrome includes features such as square face, synophrys, speech and motor delays, and hypermetropia. While not all phenotypes match exactly, there is considerable overlap."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome can present with features like delayed development, feeding difficulties, synophrys, and some craniofacial anomalies. Although the fit is less perfect, the condition shares several notable characteristics with the patient\u2019s profile."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome could be considered due to features such as a depressed nasal bridge, synophrys, and motor delay. However, the complete set of facial features is less characteristic than in some other syndromes."
+    }
+  ]
+}

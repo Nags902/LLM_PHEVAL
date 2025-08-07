@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by epileptic spasms and is a common cause in infants and young children. The presence of epileptic spasms in the patient's presentation is highly suggestive of this condition."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Aicardi Syndrome is also associated with epileptic spasms. It primarily affects females and is characterized by other specific neurological and ocular abnormalities."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.333,
+      "explanation": "Tuberous Sclerosis Complex can present with seizures including spasms, and is characterized by the growth of benign tumors in various organs. It has a diverse range of phenotypic manifestations."
+    },
+    {
+      "disease_name": "X-Linked Infantile Spasms Syndrome 1",
+      "disease_id": "OMIM:308350",
+      "score": 0.25,
+      "explanation": "This condition is similar to West Syndrome but specifically linked to mutations on the X chromosome, leading to infantile spasms."
+    }
+  ]
+}

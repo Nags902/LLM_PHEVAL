@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome is associated with intellectual disability and hypertonia. It predominantly affects females, but atypical forms or genetic mosaicism can affect males."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "Coffin-Lowry Syndrome is characterized by intellectual disability and can also present with hypertonia. It is a consideration due to the presence of these overlapping symptoms."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333333333333333,
+      "explanation": "Angelman Syndrome presents with intellectual disability and may include motor dysfunction leading to hypertonia. It is less common in males but still possible."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Mowat-Wilson Syndrome includes features such as intellectual disability and sometimes hypertonia. It is considered possibly due to the overlap in neurological symptoms."
+    }
+  ]
+}

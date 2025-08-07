@@ -44,8 +44,9 @@ poetry install || {
 }
 
 ### 6) export  api key
-export OPENAI_API_KEY=""
+#export OPENAI_API_KEY=""
 #export GEMINI_API_KEY=""
+
 
 ### 7) Run PhEval
 echo "[INFO] Running PhEval..."

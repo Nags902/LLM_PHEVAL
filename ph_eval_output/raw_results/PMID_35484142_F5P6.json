@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA-depletion syndrome 2 (autosomal recessive, myopathic form)",
+      "disease_id": "OMIM:609560",
+      "score": 1.0,
+      "explanation": "This condition is characterized by features such as dysphagia, respiratory insufficiency, ophthalmoplegia, ptosis, and muscle weakness (asthenia), closely matching the patient's phenotypic profile. The overlap in symptoms suggests a mitochondrial myopathy."
+    },
+    {
+      "disease_name": "Myasthenic syndrome, congenital, 1A, slow-channel",
+      "disease_id": "OMIM:601462",
+      "score": 0.5,
+      "explanation": "Known for causing muscle weakness (asthenia), ptosis, ophthalmoplegia, and sometimes respiratory difficulties, aligning with several of the patient's symptoms, suggesting a possible neuromuscular junction issue."
+    },
+    {
+      "disease_name": "Chronic progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 1",
+      "disease_id": "OMIM:115150",
+      "score": 0.3333333333333333,
+      "explanation": "This mitochondrial disorder is prominently characterized by ophthalmoplegia and ptosis, along with muscle weakness and potential dysphagia, which are features presented in the patient."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.25,
+      "explanation": "This mitochondrial disorder can show varied symptoms including respiratory insufficiency, dysphagia, ophthalmoplegia, and muscle weakness, offering a potential match despite its broader phenotypic presentation."
+    },
+    {
+      "disease_name": "Duchenne muscular dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 0.2,
+      "explanation": "Though primarily affecting males with progressive muscle weakness, it can occasionally present with ptosis and respiratory challenges, relevant to some of the patient's symptoms, albeit with a lower likelihood."
+    }
+  ]
+}

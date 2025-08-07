@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features strongly align with Cornelia de Lange Syndrome, particularly features like thick eyebrows, intellectual disability, and orofacial cleft."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "While less typical, Bardet-Biedl Syndrome can present with a range of features including those seen in the patient: intellectual disability, and facial dysmorphisms. However, the classical signs like retinal dystrophy and obesity are absent."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome can present with facial anomalies, intellectual disability, and developmental delay. However, key features like syndactyly and cholesterol anomalies are not mentioned."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki Syndrome shares features such as intellectual disability, low-set ears, and broad facial characteristics. The presence of hypoplasia of the corpus callosum is less typical."
+    }
+  ]
+}

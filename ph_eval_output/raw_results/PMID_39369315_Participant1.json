@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is associated with intellectual disability, developmental delay, strabismus, sleep disturbances, and distinct craniofacial features which align with the patient's phenotype."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.5,
+      "explanation": "Mowat-Wilson Syndrome features a range of overlapping symptoms including intellectual disability, developmental delay, distinctive facial features, and agenesis/hypoplasia of the corpus callosum, consistent with the patient\u2019s profile."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman Syndrome presents with intellectual disability, speech impairment, gait ataxia, autistic behaviors, and a characteristic happy demeanor. Overlaps are noted with some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome is characterized by intellectual disability, distinctive craniofacial features, limb abnormalities, and growth delay, sharing numerous symptoms with the case presented."
+    },
+    {
+      "disease_name": "Rubenstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubenstein-Taybi Syndrome includes developmental delay, broad thumbs, intellectual disability, and facial dysmorphism, which correlate with several phenotypic features in the patient."
+    }
+  ]
+}

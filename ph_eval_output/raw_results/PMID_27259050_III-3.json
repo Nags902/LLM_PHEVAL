@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Dyskeratosis Congenita, Autosomal Recessive 5 (RTEL1-related)",
-      "disease_id": "OMIM:613635",
+      "disease_name": "Aplastic Anemia",
+      "disease_id": "OMIM:609135",
       "score": 1.0,
-      "explanation": "This rare telomere biology disorder presents with a strong combination of the patient's symptoms. It is characterized by severe bone marrow failure leading to hypocellularity and pancytopenia (anemia, neutropenia, thrombocytopenia, purpura), and also commonly involves progressive neurological manifestations including cerebellar ataxia, nystagmus, dysarthria, dysmetria, and pyramidal signs such as ankle clonus and Babinski sign, making it an excellent fit for all provided phenotypic features."
+      "explanation": "The combination of bone marrow hypocellularity, pancytopenia, anemia, thrombocytopenia, and neutropenia closely resembles the clinical presentation of aplastic anemia."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Fanconi Anemia often presents with bone marrow failure, pancytopenia, and endocrine abnormalities. Neurological symptoms such as gait disturbances can be associated due to cerebellar involvement."
+    },
+    {
+      "disease_name": "Shwachman-Diamond Syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.333,
+      "explanation": "This syndrome includes features such as bone marrow dysfunction, neutropenia, and skeletal abnormalities. Neurological features like ataxia may also be seen."
     },
     {
       "disease_name": "Ataxia-Telangiectasia",
       "disease_id": "OMIM:208900",
-      "score": 0.5,
-      "explanation": "Ataxia-Telangiectasia is a classic neurodegenerative disorder primarily defined by progressive cerebellar ataxia (unsteady gait, nystagmus, dysarthria, dysmetria) and pyramidal signs (ankle clonus, Babinski sign), which are hallmark neurological features. While not primarily a bone marrow failure syndrome, patients can develop cytopenias and bone marrow abnormalities, including hypocellularity, and have an increased risk of myelodysplastic syndrome or leukemia, thus accounting for the hematologic features."
+      "score": 0.25,
+      "explanation": "Characterized by cerebellar ataxia, immunodeficiency including neutropenia, and occasionally bone marrow irregularities."
     },
     {
-      "disease_name": "Cerebroretinal Microangiopathy with Calcifications and Cysts (CTC1-related)",
-      "disease_id": "OMIM:612716",
-      "score": 0.33,
-      "explanation": "This condition is another telomere biology disorder that significantly overlaps with the patient's presentation. It is known to cause severe bone marrow failure (aplastic anemia, leading to pancytopenia and hypocellularity) alongside pronounced neurological features such as ataxia, spasticity (pyramidal signs), and nystagmus. Although more typically associated with brain calcifications and retinal abnormalities, these may not always be clinically prominent or documented, making it a strong differential for combined neuro-hematologic symptoms."
+      "disease_name": "Nijmegen Breakage Syndrome",
+      "disease_id": "OMIM:251260",
+      "score": 0.2,
+      "explanation": "Features overlap with those seen in Fanconi Anemia, including immunodeficiency, pancytopenia, and neurological symptoms such as ataxia."
     }
   ]
 }

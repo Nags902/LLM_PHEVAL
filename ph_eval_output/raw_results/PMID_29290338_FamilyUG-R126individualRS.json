@@ -4,19 +4,13 @@
       "disease_name": "Neurofibromatosis Type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "The presence of plexiform neurofibroma, multiple cafe-au-lait spots, and freckling (often axillary or inguinal, known as Crowe's sign) constitutes a classic diagnostic triad for Neurofibromatosis Type 1. Plexiform neurofibromas are highly specific to NF1 and are a major diagnostic criterion, making this the overwhelmingly most likely diagnosis."
+      "explanation": "Neurofibromatosis Type 1 (NF1) is characterized by the presence of plexiform neurofibromas, freckling in unusual places, and multiple cafe-au-lait spots, matching all the presented phenotypic features."
     },
     {
       "disease_name": "Legius Syndrome",
       "disease_id": "OMIM:611431",
       "score": 0.5,
-      "explanation": "Legius syndrome is considered in the differential diagnosis of NF1 due to the presence of multiple cafe-au-lait spots and freckling. However, it is primarily distinguished by the absence of neurofibromas (including plexiform neurofibromas) and other NF1-related complications, making it a less likely but still relevant consideration given the patient's full phenotype."
-    },
-    {
-      "disease_name": "Noonan Syndrome With Multiple Lentigines",
-      "disease_id": "OMIM:151100",
-      "score": 0.33,
-      "explanation": "Noonan Syndrome with Multiple Lentigines (formerly LEOPARD syndrome) can present with cafe-au-lait spots and lentigines (which might be broadly described as freckling). However, plexiform neurofibromas are not a characteristic feature of this condition, and typically other cardinal features of Noonan syndrome would be present, making it a distant possibility."
+      "explanation": "Legius Syndrome can present with multiple cafe-au-lait spots and freckling, but it is less commonly associated with plexiform neurofibromas compared to NF1. It is considered due to the overlap in skin findings."
     }
   ]
 }

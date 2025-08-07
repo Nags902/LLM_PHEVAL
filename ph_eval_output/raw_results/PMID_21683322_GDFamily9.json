@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Features such as hypertelorism, short stature, and cardiac defects align with Noonan Syndrome 1, which has a broader spectrum matching several of the presented phenotypes."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "The combination of full cheeks, cardiovascular issues, and distinctive facial features like a smooth philtrum can be indicative of Williams Syndrome."
+    },
+    {
+      "disease_name": "Robinow Syndrome",
+      "disease_id": "OMIM:268310",
+      "score": 0.3333,
+      "explanation": "Characteristics such as hypertelorism, short stature, and skeletal anomalies could potentially match Robinow Syndrome."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "The phenotypes including smooth philtrum, thin upper lip, and cicadian insufficiency are associated with Smith-Lemli-Opitz Syndrome."
+    },
+    {
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.2,
+      "explanation": "This syndrome may present with features such as full cheeks, short stature, and distinct facial characteristics like a short nose similar to the patient."
+    }
+  ]
+}

@@ -1,52 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Cutis Laxa, Autosomal Recessive, Type IA (FBLN5-related)",
-      "disease_id": "OMIM:219100",
+      "disease_name": "Cutis Laxa, Autosomal Dominant, Type IB",
+      "disease_id": "OMIM:123700",
       "score": 1.0,
-      "explanation": "This is the most probable diagnosis due to the strong presence of generalized cutis laxa, severe joint hypermobility, hypotonia, failure to thrive, and widespread connective tissue fragility manifesting as multiple hernias (inguinal, congenital diaphragmatic) and bladder diverticulum. Dermal translucency, thin skin, and bruising susceptibility are also highly characteristic. The craniofacial features, though variable in ARCL, can overlap."
+      "explanation": "The presence of cutis laxa, joint hypermobility, thin skin, and facial features such as downturned corners of the mouth are strongly indicative of this condition. The phenotypes align well, although not perfectly, with this rare disorder."
     },
     {
-      "disease_name": "Cutis Laxa, Autosomal Recessive, Type IB (EFEMP2-related)",
-      "disease_id": "OMIM:614436",
-      "score": 0.5,
-      "explanation": "Phenotypically very similar to FBLN5-related cutis laxa, sharing all key features including severe generalized cutis laxa, joint hypermobility, hypotonia, failure to thrive, and significant organ involvement with hernias and bladder diverticulum. It represents another common genetic cause for the described severe phenotype."
-    },
-    {
-      "disease_name": "De Barsy Syndrome (ATP6V0A2-related; Cutis Laxa, Autosomal Recessive, Type IIA)",
-      "disease_id": "OMIM:219150",
-      "score": 0.333,
-      "explanation": "This syndrome is a strong candidate, characterized by cutis laxa, joint hypermobility, hypotonia, and often includes failure to thrive and connective tissue fragility leading to hernias. While frequently associated with intellectual disability and progeroid features not explicitly mentioned, the core connective tissue and developmental features align well with the patient's presentation."
-    },
-    {
-      "disease_name": "Wrinkly Skin Syndrome (ATP6V1A-related; Cutis Laxa, Autosomal Recessive, Type IIB)",
-      "disease_id": "OMIM:615794",
-      "score": 0.25,
-      "explanation": "Similar to De Barsy syndrome, this disorder features prominent loose, wrinkly skin (cutis laxa), joint hypermobility, hypotonia, and developmental delays, with a predisposition to hernias and other connective tissue issues. The overall constellation of skin laxity, joint and organ fragility, and hypotonia is a good match."
-    },
-    {
-      "disease_name": "Ehlers-Danlos Syndrome, Kyphoscoliotic type (PLOD1-related)",
-      "disease_id": "OMIM:225400",
-      "score": 0.2,
-      "explanation": "This type of Ehlers-Danlos Syndrome presents with severe early-onset hypotonia, generalized joint hypermobility, easy bruising, and skin fragility/hyperextensibility. While not typically described as 'cutis laxa,' significant skin laxity and fragility can be present, and diaphragmatic hernia has been reported. It aligns well with the widespread connective tissue weakness."
-    },
-    {
-      "disease_name": "Gerodermia Osteodysplastica",
-      "disease_id": "OMIM:206500",
-      "score": 0.167,
-      "explanation": "This autosomal recessive disorder presents with a progeroid appearance, loose and wrinkled skin (resembling cutis laxa), joint hypermobility, hypotonia, and a high incidence of hernias. The combination of skin, joint, and general connective tissue fragility makes it a strong differential diagnosis."
-    },
-    {
-      "disease_name": "Ehlers-Danlos Syndrome, Classical type (COL5A1-related)",
+      "disease_name": "Ehlers-Danlos Syndrome, Classic Type",
       "disease_id": "OMIM:130000",
-      "score": 0.143,
-      "explanation": "While exhibiting generalized joint hypermobility, skin hyperextensibility and fragility, and easy bruising, classical EDS typically features skin hyperextensibility more than true cutis laxa. However, given the overlap in connective tissue symptoms, it remains a possible differential, though less precise for the profound cutis laxa and specific hernias."
+      "score": 0.5,
+      "explanation": "The combination of joint hypermobility, skin involvement (thin skin, easy bruising), and facial characteristics, such as a long face and malocclusion, suggests a possibility of classic Ehlers-Danlos syndrome."
     },
     {
-      "disease_name": "Ehlers-Danlos Syndrome, Classical type (COL5A2-related)",
-      "disease_id": "OMIM:120190",
-      "score": 0.125,
-      "explanation": "Phenotypically similar to COL5A1-related classical EDS, this subtype also presents with joint hypermobility, skin hyperextensibility, and fragility. It is included as a less likely but plausible differential due to shared broad connective tissue features, despite the specific 'cutis laxa' and severe hernia profile being more characteristic of ARCL."
+      "disease_name": "Craniosynostosis 2, Amnion Rupture Sequence",
+      "disease_id": "OMIM:618509",
+      "score": 0.333,
+      "explanation": "Telecanthus, downturned corners of the mouth, and dental malocclusion are consistent, though not specific, features that could be seen in craniosynostosis-related conditions."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Although classical signs include arterial involvement, the phenotype overlaps with Loeys-Dietz syndrome, particularly with facial features and joint hypermobility."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.2,
+      "explanation": "While phenotypically similar through features such as a long face, high anterior hairline, and joint hypermobility, Marfan syndrome doesn't completely align with all features such as cutis laxa or congenital diaphragmatic hernia."
     }
   ]
 }

@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Nicolaides-Baraitser Syndrome",
-      "disease_id": "OMIM:610127",
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
       "score": 1.0,
-      "explanation": "This syndrome is an excellent fit, encompassing a high proportion of the patient's features. Key matches include microcephaly, intellectual disability, seizures, global developmental delay, short stature, and prominently, the distinctive craniofacial features such as a prominent metopic ridge, high forehead, and tented philtrum. Delayed speech and language development, and gastroesophageal reflux are also frequently observed in this condition. The combination of all these specific features makes it the most likely diagnosis."
+      "explanation": "Smith-Lemli-Opitz syndrome is associated with intellectual disability, microcephaly, developmental delay, and facial abnormalities such as a tented philtrum and prominent metopic ridge, aligning with many of the patient's features."
     },
     {
-      "disease_name": "Pitt-Hopkins Syndrome",
-      "disease_id": "OMIM:610954",
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
       "score": 0.5,
-      "explanation": "Pitt-Hopkins Syndrome is a strong candidate given the presence of intellectual disability, seizures, global developmental delay, gastroesophageal reflux, and a tented philtrum, which is a characteristic facial feature. Microcephaly and short stature can also be seen in this condition. However, the prominent metopic ridge and high forehead are less classic for Pitt-Hopkins Syndrome compared to Nicolaides-Baraitser Syndrome. Additionally, the absence of typical breathing anomalies (e.g., hyperventilation), which are a hallmark of Pitt-Hopkins, slightly lowers its rank."
+      "explanation": "Cornelia de Lange syndrome 1 presents with intellectual disability, short stature, microcephaly, and distinct facial features, which match the patient's phenotypic profile."
     },
     {
-      "disease_name": "1p36 Deletion Syndrome",
-      "disease_id": "OMIM:607872",
-      "score": 0.333,
-      "explanation": "1p36 Deletion Syndrome is a common microdeletion syndrome that frequently presents with many of the patient's core features, including severe intellectual disability, microcephaly, seizures, global developmental delay, and short stature. A broad or prominent forehead/metopic ridge is often described. Gastroesophageal reflux is also a common associated finding. While a tented philtrum is not a classic feature of 1p36 deletion syndrome, overall facial dysmorphism is common and variable, making it a strong differential given the broad constellation of features."
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.3333,
+      "explanation": "Coffin-Siris syndrome 1 often includes developmental delay, intellectual disability, growth abnormalities, and distinctive facial features, correlating with the patient's symptoms."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.25,
+      "explanation": "Wolf-Hirschhorn syndrome exhibits features such as growth delay, intellectual disability, microcephaly, and distinctive facial features, similar to those presented by the patient."
     }
   ]
 }

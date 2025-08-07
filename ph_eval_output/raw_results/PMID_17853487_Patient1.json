@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "Meckel-Gruber syndrome is associated with microcephaly, polydactyly, and neural tube defects like Chiari malformation and meningocele, aligning with the patient's features."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome can present with cerebellar malformations such as Chiari malformation and sometimes with polydactyly, which matches some of the patient's features."
+    },
+    {
+      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.333,
+      "explanation": "Ellis-van Creveld syndrome may present with polydactyly and skeletal abnormalities, including talipes equinovarus, which align with some phenotypic features of the patient."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz syndrome can manifest with microcephaly, limb anomalies, and neural tube defects, which somewhat correspond to the patient's clinical data."
+    }
+  ]
+}

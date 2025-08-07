@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "PMM2-CDG (Congenital Disorder of Glycosylation Type Ia)",
-      "disease_id": "OMIM:212065",
-      "score": 1.0,
-      "explanation": "PMM2-CDG is the most common congenital disorder of glycosylation and frequently presents with hypotonia, ataxia, and strabismus in childhood. Dystonia can also be a feature, making it a strong match for the patient's neurological profile."
-    },
-    {
-      "disease_name": "Leigh Syndrome (various genetic causes)",
-      "disease_id": "OMIM:256000",
-      "score": 0.5,
-      "explanation": "Leigh Syndrome, a severe neurodegenerative disorder often with mitochondrial dysfunction, is characterized by psychomotor regression, hypotonia, ataxia, and dystonia. Ophthalmological signs like strabismus are common, aligning well with the patient's symptoms."
-    },
-    {
-      "disease_name": "Pantothenate Kinase-Associated Neurodegeneration (PKAN)",
-      "disease_id": "OMIM:234200",
-      "score": 0.33,
-      "explanation": "PKAN is a form of Neurodegeneration with Brain Iron Accumulation (NBIA) classically presenting in childhood with progressive dystonia and gait abnormalities resembling ataxia. Hypotonia can be an early sign. While strabismus is less direct, it can occur in complex neurological disorders affecting basal ganglia."
-    },
-    {
-      "disease_name": "Joubert Syndrome and Related Disorders (e.g., Joubert Syndrome 1)",
-      "disease_id": "OMIM:213300",
-      "score": 0.25,
-      "explanation": "Joubert Syndrome is a ciliopathy characterized by hypotonia, ataxia, and developmental delay. Oculomotor abnormalities, including strabismus and oculomotor apraxia, are very common. Dystonia can be present in some ciliopathies or as a secondary movement disorder."
-    },
-    {
-      "disease_name": "Ataxia-Telangiectasia",
+      "disease_name": "Ataxia-telangiectasia",
       "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "Ataxia-telangiectasia is characterized by ataxia, dystonia, hypotonia, and ocular abnormalities including strabismus. It matches all the patient's phenotypes."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome can present with features such as ataxia, hypotonia, and strabismus, particularly in its early phase in young females, which partially fits the patient's profile."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.333,
+      "explanation": "Spinocerebellar Ataxia Type 3 presents with ataxia and dystonia. Although more common in adults, juvenile cases have been reported that could relate to some of the described symptoms."
+    },
+    {
+      "disease_name": "Dystonia 26",
+      "disease_id": "OMIM:613404",
+      "score": 0.25,
+      "explanation": "Dystonia 26 can present with dystonia, ataxia, and ocular movement disorders such as strabismus. However, hypotonia is less common."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type Ia",
+      "disease_id": "OMIM:212065",
       "score": 0.2,
-      "explanation": "Ataxia-Telangiectasia is characterized by progressive cerebellar ataxia, often presenting in early childhood, along with oculomotor apraxia and strabismus. Hypotonia is a common early feature, and dystonia can develop as the disease progresses, making the core neurological features a good match."
+      "explanation": "This disorder can present with ataxia, hypotonia, and strabismus. The range of symptoms is broad, making a precise fit difficult."
     }
   ]
 }

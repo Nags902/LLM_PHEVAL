@@ -1,28 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Zellweger Spectrum Disorder",
-      "disease_id": "OMIM:214100",
+      "disease_name": "Infantile Neuroaxonal Dystrophy",
+      "disease_id": "OMIM:256600",
       "score": 1.0,
-      "explanation": "This group of peroxisomal biogenesis disorders aligns exceptionally well with the patient's presentation. Key features such as increased nuchal translucency (a known prenatal finding), severe epileptic encephalopathy, cerebral atrophy, global developmental delay, and abnormal electroretinogram are hallmarks of Zellweger Spectrum Disorder. The motor signs (spasticity, rigidity, hypokinesia, hyperreflexia, axial hypotonia) and risk of SUDEP are also consistent with the severe neurological involvement seen in this condition."
+      "explanation": "Infantile Neuroaxonal Dystrophy is characterized by neurodegeneration featuring cerebral atrophy, spasticity, epileptic encephalopathy, and developmental delay, which closely match the presented phenotypic features."
     },
     {
-      "disease_name": "Neuronal Ceroid Lipofuscinosis, Infantile Type 1 (CLN1)",
-      "disease_id": "OMIM:256730",
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
       "score": 0.5,
-      "explanation": "Neuronal Ceroid Lipofuscinoses (NCLs) are progressive neurodegenerative disorders that present with vision loss (often indicated by abnormal ERG), intractable seizures (epileptic encephalopathy and spasms), psychomotor regression, and cerebral atrophy. The severe motor impairments (spasticity, rigidity, hypokinesia) and global developmental delay are also highly characteristic. While increased nuchal translucency is not a primary feature of NCLs, the overall neurodegenerative course with retinal involvement and severe epilepsy makes it a strong candidate, particularly for infantile onset types like CLN1."
+      "explanation": "Alexander Disease could account for cerebral atrophy, developmental delay, spasticity, and epileptic seizures. The presence of axial hypotonia and rigidity supports this possibility."
     },
     {
-      "disease_name": "Alpers-Huttenlocher Syndrome",
-      "disease_id": "OMIM:203700",
-      "score": 0.33,
-      "explanation": "Alpers-Huttenlocher Syndrome, caused by mutations in the POLG gene, is a severe mitochondrial disorder characterized by progressive cerebral atrophy, intractable seizures (epileptic encephalopathy), psychomotor regression, and spasticity. Ocular involvement, which could manifest as an abnormal electroretinogram, is a known feature. The risk of sudden unexpected death in epilepsy (SUDEP) is also increased in severe mitochondrial encephalopathies. Increased nuchal translucency is less commonly reported as a specific prenatal marker, but the overall neurological picture is a strong match."
+      "disease_name": "Lissencephaly 1",
+      "disease_id": "OMIM:607432",
+      "score": 0.333,
+      "explanation": "Lissencephaly is associated with cerebral malformations leading to developmental delay, epilepsy, and features of encephalopathy seen in the patient."
     },
     {
-      "disease_name": "Pyruvate Dehydrogenase Complex Deficiency, E1-alpha Type",
-      "disease_id": "OMIM:312170",
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
       "score": 0.25,
-      "explanation": "Pyruvate Dehydrogenase Complex Deficiency is a primary metabolic disorder that often presents in infancy with severe global developmental delay, intractable seizures (including epileptic spasms and epileptic encephalopathy), hypotonia, spasticity, and cerebral atrophy. While less common, ocular manifestations like optic atrophy are known, which can correlate with an abnormal electroretinogram. Increased nuchal translucency is not a common specific prenatal feature, but the severe neurological and developmental profile aligns with the patient's symptoms."
+      "explanation": "Aicardi Syndrome can exhibit seizures (including epileptic spasms), developmental delay, and characteristic EEG abnormalities, although it's less likely without reference cases matching nuchal translucency and eye issues."
+    },
+    {
+      "disease_name": "GM1 Gangliosidosis, Type II",
+      "disease_id": "OMIM:230600",
+      "score": 0.2,
+      "explanation": "GM1 Gangliosidosis may lead to neurological decline presenting as developmental delay, spasticity, and epileptic encephalopathy. While it shares some features, it's less common."
     }
   ]
 }

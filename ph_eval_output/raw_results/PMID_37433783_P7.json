@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is characterized by intellectual disability, autism spectrum behaviors, delayed speech and motor development, and distinctive craniofacial features such as a hypoplastic nasal bridge and midface retrusion, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome is associated with distinctive facial features (such as thick eyebrows and hypoplastic nasal bridge), intellectual disability, and developmental delays, which match the patient's presentation."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.333,
+      "explanation": "Floating-Harbor Syndrome features intellectual disability, delayed development, and distinctive facial features, including midface retrusion and a prominent nasal bridge, which are consistent with some of the patient's symptoms."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Waardenburg Syndrome, Type 1",
+      "disease_id": "OMIM:193500",
+      "score": 1.0,
+      "explanation": "Waardenburg Syndrome, Type 1 is a genetic disorder often characterized by sensorineural hearing impairment and sometimes delayed speech and language development due to hearing loss."
+    },
+    {
+      "disease_name": "Usher Syndrome, Type 1B",
+      "disease_id": "OMIM:276900",
+      "score": 0.5,
+      "explanation": "Usher Syndrome, Type 1B is associated with sensorineural hearing impairment and may lead to delayed speech and language development. It generally has an early onset."
+    },
+    {
+      "disease_name": "Pendred Syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.3333333333333333,
+      "explanation": "Pendred Syndrome presents with sensorineural hearing loss and can lead to developmental delays in speech and language due to impaired hearing."
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.25,
+      "explanation": "Alport Syndrome is characterized by sensorineural hearing impairment and may include delayed speech development due to hearing issues."
+    }
+  ]
+}

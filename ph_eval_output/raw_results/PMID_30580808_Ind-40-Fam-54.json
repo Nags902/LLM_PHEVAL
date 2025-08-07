@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Kabuki Syndrome 1 is characterized by distinctive facial features including thick eyebrows, long eyelashes, palpebral fissures, wide nose, and developmental delays. These match the patient's features well."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "Similar to Kabuki Syndrome 1, Kabuki Syndrome 2 also presents with similar facial features and developmental delays, making it a potential match for the patient's profile."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333,
+      "explanation": "Cornelia de Lange Syndrome 1 includes features like thick eyebrows, long eyelashes, and developmental delay. While not all features align perfectly, there is enough overlap to consider it."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.25,
+      "explanation": "KBG Syndrome presents with wide mouth and developmental delays. While not as strong a match as Kabuki Syndrome, some phenotypic features are similar."
+    }
+  ]
+}

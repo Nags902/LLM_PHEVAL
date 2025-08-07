@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Kabuki Syndrome 1",
-      "disease_id": "OMIM:147920",
+      "disease_name": "Potocki-Lupski Syndrome",
+      "disease_id": "OMIM:610883",
       "score": 1.0,
-      "explanation": "Kabuki Syndrome is a highly fitting diagnosis due to the strong match with multiple characteristic facial features, including a long philtrum, bulbous nose, and hypertelorism. It also commonly presents with intellectual disability, global developmental delay, feeding difficulties, and hand abnormalities. Macrodontia, while not universally present, is a recognized dental anomaly in this syndrome."
+      "explanation": "Potocki-Lupski Syndrome is characterized by intellectual disability, developmental delay, and distinctive facial features such as hypertelorism and a bulbous nose, aligning with the patient's phenotypic features."
     },
     {
-      "disease_name": "Kabuki Syndrome 2",
-      "disease_id": "OMIM:300867",
-      "score": 1.0,
-      "explanation": "Kabuki Syndrome 2, an X-linked form, presents with a phenotype highly similar to Kabuki Syndrome 1. Key overlapping features include intellectual disability, global developmental delay, distinctive facial features (long philtrum, bulbous nose, hypertelorism), feeding difficulties, and hand abnormalities. Macrodontia can also be observed. The patient's male gender makes this X-linked type a relevant consideration."
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "Williams-Beuren Syndrome presents intellectual disability, delayed speech, feeding issues, a bulbous nose, and characteristic facial appearance, which overlaps with the patient's symptoms."
     },
     {
       "disease_name": "Sotos Syndrome 1",
       "disease_id": "OMIM:117550",
-      "score": 0.5,
-      "explanation": "Sotos Syndrome is a strong candidate due to the presence of intellectual disability, global developmental delay, macrodontia (a hallmark feature), hypertelorism, and a bulbous nose. While a long philtrum can occur, it is less consistently emphasized compared to Kabuki Syndrome. Large hands are also common in Sotos Syndrome."
+      "score": 0.333,
+      "explanation": "Sotos Syndrome 1 is associated with intellectual disability, delayed development, feeding difficulties, hypertelorism, and an elongated face, which partially matches the patient's phenotype."
     },
     {
-      "disease_name": "Sotos Syndrome 2",
-      "disease_id": "OMIM:617934",
-      "score": 0.5,
-      "explanation": "This rarer form of Sotos Syndrome shares significant phenotypic overlap with Sotos Syndrome 1, including intellectual disability, global developmental delay, macrodontia, hypertelorism, and a bulbous nose. It should be considered alongside Sotos Syndrome 1 given the patient's features."
-    },
-    {
-      "disease_name": "Wiedemann-Steiner Syndrome",
-      "disease_id": "OMIM:605130",
-      "score": 0.33,
-      "explanation": "Wiedemann-Steiner Syndrome presents with intellectual disability, global developmental delay, and feeding difficulties. Characteristic facial features can include a long philtrum, a broad nasal bridge (potentially leading to a bulbous appearance), and hypertelorism. Hand abnormalities are also frequently observed. However, macrodontia is not a prominent or commonly reported feature, making this a lower confidence match."
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.25,
+      "explanation": "KBG Syndrome can present with macrodontia, developmental delays, and distinctive facial features, including hypertelorism and a bulbous nose, overlapping with the patient's features."
     }
   ]
 }

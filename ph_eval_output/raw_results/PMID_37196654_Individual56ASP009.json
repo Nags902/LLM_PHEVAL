@@ -1,46 +1,34 @@
 {
   "ranked_diseases": [
     {
+      "disease_name": "22q11.2 Deletion Syndrome (DiGeorge Syndrome)",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "22q11.2 Deletion Syndrome often presents with developmental delays, behavioral issues such as ADHD and autism, as well as psychiatric issues like depression. Strabismus and seizures can also be associated."
+    },
+    {
       "disease_name": "Fragile X Syndrome",
       "disease_id": "OMIM:300624",
-      "score": 1.0,
-      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability and is highly associated with the patient's phenotypic features. It frequently presents with delayed speech and language development, attention deficit hyperactivity disorder (ADHD), and autistic behavior. Seizures occur in approximately 20% of affected males, and strabismus and depression are also reported features, making it a very strong candidate."
-    },
-    {
-      "disease_name": "Tuberous Sclerosis Complex 2",
-      "disease_id": "OMIM:613254",
       "score": 0.5,
-      "explanation": "Tuberous Sclerosis Complex (TSC) is a neurocutaneous syndrome characterized by hamartomas in multiple organs. Neurological manifestations are prominent, including a very high prevalence of seizures (a hallmark feature), intellectual disability, autistic behavior, and ADHD (collectively known as TAND - TSC-Associated Neuropsychiatric Disorders). Speech delay, strabismus, and depression can also be part of the spectrum. TSC2 mutations are more common and often associated with more severe neurological phenotypes compared to TSC1."
+      "explanation": "Fragile X Syndrome is linked with intellectual disability, delayed speech, ADHD, autism, and sometimes seizures. The presence of multiple neurodevelopmental features aligns with this condition."
     },
     {
-      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett Syndrome presents with autistic behaviors, seizures, and developmental delays, albeit more common in females. The overlapping neurological symptoms warrant consideration."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
       "disease_id": "OMIM:191100",
-      "score": 0.3333333333333333,
-      "explanation": "Tuberous Sclerosis Complex (TSC) due to TSC1 mutations presents with a very similar phenotypic spectrum to TSC2, including seizures, intellectual disability, autistic behavior, ADHD, and speech delay. While generally associated with a milder neurological course on average compared to TSC2, it remains a significant cause of these features."
-    },
-    {
-      "disease_name": "SYNGAP1-related intellectual disability",
-      "disease_id": "OMIM:612621",
       "score": 0.25,
-      "explanation": "SYNGAP1-related intellectual disability is a significant cause of moderate to severe intellectual disability, often accompanied by generalized epilepsy (including myoclonic-atonic and absence seizures), autistic features, and severe speech delay. ADHD and strabismus are also frequently observed in affected individuals, making it a strong match for the patient's profile."
+      "explanation": "This disease can feature seizures, autism, ADHD, and developmental delays, aligning with the patient's symptoms, despite the absence of skin manifestations in the phenotype provided."
     },
     {
-      "disease_name": "MECP2 Duplication Syndrome",
-      "disease_id": "OMIM:300260",
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
       "score": 0.2,
-      "explanation": "MECP2 Duplication Syndrome primarily affects males and is characterized by severe intellectual disability, profound speech delay or absence of speech, recurrent infections, hypotonia, spasticity, and severe early-onset epilepsy. Autistic features are common, and hyperactivity (akin to ADHD) is observed. Given the male gender and the combination of features, this is a relevant consideration, even if the severity might be higher than implied by 'delayed speech' alone."
-    },
-    {
-      "disease_name": "Phelan-McDermid Syndrome (22q13 Deletion Syndrome)",
-      "disease_id": "OMIM:606232",
-      "score": 0.16666666666666666,
-      "explanation": "Phelan-McDermid Syndrome is caused by a deletion in the 22q13.3 region and is characterized by global developmental delay, severe to profound speech delay (often absent speech), intellectual disability, and a high prevalence of autism spectrum disorder. Seizures occur in a significant portion of individuals, and strabismus is a common ophthalmological finding. ADHD-like symptoms are also described."
-    },
-    {
-      "disease_name": "Neurofibromatosis Type 1",
-      "disease_id": "OMIM:162200",
-      "score": 0.14285714285714285,
-      "explanation": "Neurofibromatosis Type 1 (NF1) is a common genetic disorder with diverse clinical manifestations. While not explicitly mentioned, learning disabilities, ADHD (very common), and an increased risk of autism spectrum disorder are well-documented neurodevelopmental features. Seizures can occur in a subset of patients, and developmental delays, including speech, are frequently observed. Strabismus and psychiatric conditions like depression can also be present, making NF1 a plausible, though less specific, candidate given the lack of other characteristic physical findings."
+      "explanation": "Characterized by neurobehavioral abnormalities, including ADHD and developmental delays, with some cases having autistic features. Seizures, while less common, are not exclusive."
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is characterized by hypotonia, global developmental delay, short stature, and distinctive facial features like deeply set eyes and brachycephaly, which align with the patient's phenotype."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "Rubinstein-Taybi Syndrome 1 includes symptoms such as short stature, global developmental delay, and distinct facial features, which are consistent with this patient's symptoms."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Coffin-Siris Syndrome can involve hypotonia, developmental delay, and characteristic facial features, including deeply set eyes, though brachycephaly is less common."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300590",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome includes features such as short stature, developmental delay, and unique facial features, but hypotonia is less frequently associated compared to other choices."
+    }
+  ]
+}

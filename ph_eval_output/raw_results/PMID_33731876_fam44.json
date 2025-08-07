@@ -1,28 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "CDKL5 Deficiency Disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
       "score": 1.0,
-      "explanation": "This disorder is a strong candidate due to the classic combination of severe early-onset epileptic encephalopathy, including intractable infantile spasms and hypsarrhythmia, alongside severe intellectual disability, spasticity, and other varied seizure types. Brain atrophy and CNS hypomyelination are frequently reported imaging findings, although not always the primary defining feature. While not universal, precocious puberty and short stature are recognized endocrine and growth complications in some individuals with severe neurodevelopmental disorders, including CDKL5 Deficiency Disorder."
+      "explanation": "Alexander Disease is characterized by CNS hypomyelination, brain atrophy, and intellectual disability, which aligns with many of the patient's symptoms, such as brain atrophy, CNS hypomyelination, and severe intellectual disability."
     },
     {
-      "disease_name": "Hypomyelination with Atrophy of the Basal Ganglia and Cerebellum (TUBB4A-related leukodystrophy)",
-      "disease_id": "OMIM:612800",
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
       "score": 0.5,
-      "explanation": "This disorder directly aligns with several core imaging and motor features presented: CNS hypomyelination, brain atrophy, cerebellar atrophy, spasticity, hemiparesis, and severe intellectual disability. Seizures are common in H-ABC, making the seizure features plausible, though infantile spasms and hypsarrhythmia might be less consistently emphasized as primary features compared to other epileptic encephalopathies. The presence of precocious puberty and short stature is less typical for this condition."
+      "explanation": "This disease involves CNS hypomyelination and can present with spasticity and intellectual disability, fitting several of the patient's features like CNS hypomyelination, intellectual disability, and spasticity."
     },
     {
-      "disease_name": "Alpers-Huttenlocher Syndrome (POLG-related mitochondrial disorder)",
-      "disease_id": "OMIM:203700",
-      "score": 0.333,
-      "explanation": "Alpers-Huttenlocher Syndrome, a severe progressive mitochondrial encephalopathy caused by POLG mutations, can present with intractable and multifocal seizures (including various types such as focal and generalized tonic-clonic), developmental regression leading to severe intellectual disability, brain atrophy, and often hypomyelination. Short stature can be a feature of mitochondrial disease due to systemic involvement, making it a plausible fit. Precocious puberty is less commonly reported but endocrine dysfunction can occur in severe mitochondrial disorders."
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:613068",
+      "score": 0.3333333333333333,
+      "explanation": "Though commonly associated with refractory seizures and intellectual disability, this syndrome is partially consistent with the patient's epilepsy spectrum features including atypical absence seizures and tonic seizures."
     },
     {
-      "disease_name": "Vanishing White Matter Disease (EIF2B-related leukoencephalopathy)",
-      "disease_id": "OMIM:603896",
+      "disease_name": "Cockayne Syndrome",
+      "disease_id": "OMIM:216400",
       "score": 0.25,
-      "explanation": "Vanishing White Matter Disease is a prominent leukodystrophy characterized by progressive neurological deterioration, significantly matching CNS hypomyelination, brain atrophy (specifically 'vanishing white matter'), cerebellar atrophy, spasticity, hemiparesis, and severe intellectual disability. Seizures are also a feature. However, the specific pattern of infantile spasms and hypsarrhythmia is not typically the predominant seizure presentation, and precocious puberty is not a recognized feature of this condition."
+      "explanation": "In Cockayne Syndrome, cerebellar atrophy, short stature, and intellectual disability can be observed, matching some of the phenotypes, although seizures are less typical."
+    },
+    {
+      "disease_name": "Infantile Neuronal Ceroid Lipofuscinosis",
+      "disease_id": "OMIM:256730",
+      "score": 0.2,
+      "explanation": "Characterized by early-onset seizures, cerebral and cerebellar atrophy, and progressive neurological decline. Matches several features but lacks precocious puberty."
     }
   ]
 }

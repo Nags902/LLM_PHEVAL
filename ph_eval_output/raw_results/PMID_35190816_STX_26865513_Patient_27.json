@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "ARX-related intellectual disability with or without brain malformations and epilepsy spectrum",
-      "disease_id": "OMIM:300215",
-      "score": 1.0,
-      "explanation": "Mutations in ARX cause a broad X-linked spectrum of severe neurodevelopmental disorders, especially in males (Gender: 1). Key features include severe intellectual disability, global developmental delay, and early-onset, often intractable, epilepsy including infantile spasms and hypsarrhythmia. Crucially, brain malformations such as gray matter heterotopia (subcortical, periventricular, or diffuse) and agenesis of the corpus callosum are common. Ataxia and motor stereotypies are also reported. The combination of gray matter heterotopia, severe epileptic encephalopathy (Hemihypsarrhythmia), and global developmental delay fits this condition very well. Occipital cortical atrophy could be part of the broader malformation or secondary to severe epilepsy."
-    },
-    {
-      "disease_name": "MTOR-related epileptic encephalopathy (including focal cortical dysplasia/hemimegalencephaly)",
-      "disease_id": "OMIM:614565",
-      "score": 0.5,
-      "explanation": "Somatic mutations in genes within the PI3K-AKT-mTOR pathway, such as MTOR, are well-established causes of severe focal cortical dysplasias (FCD) and hemimegalencephaly. These conditions are characterized by focal or diffuse malformations of cortical development, which can manifest as gray matter heterotopia or other structural abnormalities. They commonly lead to intractable, early-onset epilepsy, often with hemihypsarrhythmia due to the unilateral nature of hemimegalencephaly or severe focal lesions. Affected individuals present with severe intellectual disability, global developmental delay, and autistic behavior. This aligns very strongly with the patient's severe epilepsy, gray matter heterotopia, and developmental profile. Occipital cortical atrophy could be a complex imaging finding related to the specific lesion or chronic epilepsy."
-    },
-    {
-      "disease_name": "Periventricular nodular heterotopia 1 (PVNH1)",
+      "disease_name": "Periventricular Nodular Heterotopia 1",
       "disease_id": "OMIM:300049",
-      "score": 0.33,
-      "explanation": "This X-linked dominant disorder, caused by FLNA mutations, is primarily characterized by periventricular nodular heterotopia, a specific type of gray matter heterotopia. While typically more severe in males (often lethal), surviving males can present with significant neurological features including drug-resistant epilepsy, which can include focal seizures and severe patterns like hemihypsarrhythmia. Intellectual disability, global developmental delay, and ataxia are common. The direct link to gray matter heterotopia and severe epilepsy makes this a strong candidate, although the 'Gender: 1' (male) suggests a very severe presentation, which is consistent with hemihypsarrhythmia."
+      "score": 1.0,
+      "explanation": "The presence of gray matter heterotopia, seizures, and intellectual disability are strongly indicative of Periventricular Nodular Heterotopia 1, which is known to present with these phenotypic features."
     },
     {
-      "disease_name": "Lissencephaly, X-linked 1 (LISX1)",
-      "disease_id": "OMIM:300097",
+      "disease_name": "Lissencephaly 1 with Subcortical Band Heterotopia",
+      "disease_id": "OMIM:607432",
+      "score": 0.5,
+      "explanation": "Although more commonly associated with lissencephaly, subcortical band heterotopia can occur, along with seizures, intellectual disability, and developmental delay."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Features such as intellectual disability, hyperactivity, motor stereotypies, and seizures align with Smith-Magenis Syndrome, making it a potential match."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
       "score": 0.25,
-      "explanation": "LISX1, caused by mutations in DCX (Doublecortin), is a severe X-linked disorder. In males (Gender: 1), it typically manifests as classical lissencephaly (smooth brain), a severe malformation of cortical development often accompanied by severe intellectual disability, profound global developmental delay, and intractable epilepsy, including hypsarrhythmia. While 'gray matter heterotopia' is listed, in males, this is usually expressed as diffuse lissencephaly rather than distinct heterotopia (which is more common in females as subcortical band heterotopia). However, lissencephaly is a severe type of cortical malformation, and the overall severe neurological picture with epilepsy fits. Ataxia is not a primary feature, but severe motor impairment is expected."
+      "explanation": "Though typically involving cortical tubers, Tuberous Sclerosis can present with seizures, intellectual disability, ataxia, and autism spectrum disorder, warranting consideration."
     },
     {
-      "disease_name": "Early infantile epileptic encephalopathy 2 (EIEE2) / CDKL5 deficiency disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
       "score": 0.2,
-      "explanation": "CDKL5 deficiency disorder is an X-linked dominant condition, primarily affecting females but also severe in affected males (Gender: 1). It is characterized by severe early-onset epilepsy (often including infantile spasms/hypsarrhythmia, which aligns with hemihypsarrhythmia), profound global developmental delay, severe intellectual disability, motor stereotypies, and autistic features. While gray matter heterotopia is not a defining or typical brain imaging finding, non-specific cortical changes or atrophy can occur. The overall constellation of severe epileptic encephalopathy and neurodevelopmental impairment makes it a plausible consideration, despite the absence of specific gray matter heterotopia."
+      "explanation": "Characterized by intellectual disability, ataxia, seizures, and a happy demeanor, Angelman Syndrome may fit some presented features although not all align perfectly."
     }
   ]
 }

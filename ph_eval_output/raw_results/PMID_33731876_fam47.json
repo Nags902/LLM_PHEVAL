@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 1.0,
+      "explanation": "Pelizaeus-Merzbacher Disease is characterized by CNS hypomyelination, hypotonia, intellectual disability, and sometimes epilepsy, aligning closely with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "X-linked Intellectual Disability, Siderius Type",
+      "disease_id": "OMIM:300263",
+      "score": 0.5,
+      "explanation": "This condition includes intellectual disability, CNS anomalies, and seizure activity, including infantile spasms, which matches the clinical presentation."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.3333,
+      "explanation": "Aicardi Syndrome can present with features such as severe intellectual disability, infantile spasms, and EEG abnormalities, fitting several of the patient's symptoms."
+    },
+    {
+      "disease_name": "GRIN2B-related Neurodevelopmental Disorder",
+      "disease_id": "OMIM:613970",
+      "score": 0.25,
+      "explanation": "GRIN2B-related disorder involves intellectual disability, hypotonia, epilepsy, and often autism, which align with the observed phenotypic traits."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.2,
+      "explanation": "This condition can cause CNS hypomyelination, severe intellectual disability, and epilepsy, explaining some of the patient's clinical features."
+    }
+  ]
+}

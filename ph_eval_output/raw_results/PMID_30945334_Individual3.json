@@ -1,28 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
-      "disease_id": "OMIM:212065",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 1.0,
-      "explanation": "This patient's comprehensive presentation of global developmental delay, severe intellectual disability, seizures, cerebral atrophy, thin corpus callosum, spastic diplegia, and characteristic facial features (prominent nasal bridge, thin upper lip vermilion) strongly aligns with Congenital Disorders of Glycosylation (CDG), especially Type Ia (PMM2-CDG). Short stature is also a common feature. While obesity is less typical for PMM2-CDG (failure to thrive is more common), it has been reported in other CDG types or could be a secondary manifestation given the patient's age and neurological impairment, making it the most plausible fit across the broad range of symptoms."
+      "explanation": "Mowat-Wilson Syndrome features intellectual disability, global developmental delay, thin corpus callosum, seizures, and specific facial features which align with the phenotypes presented in the patient. Obesity and short stature can also be seen in some cases."
     },
     {
-      "disease_name": "Aicardi-Gouti\u00e8res Syndrome 1 (TREX1-Related)",
-      "disease_id": "OMIM:225750",
+      "disease_name": "Zellweger Spectrum Disorder",
+      "disease_id": "OMIM:214100",
       "score": 0.5,
-      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a strong candidate due to its characteristic severe neurological phenotype, including global developmental delay, intellectual disability, seizures, spastic diplegia, cerebral atrophy, and thin corpus callosum. Short stature can also be present. However, the specific facial features (prominent nasal bridge, thin upper lip vermilion) are not hallmark features of AGS, and obesity is not typically associated with the syndrome, making it a less comprehensive fit than CDG for the full phenotypic spectrum."
+      "explanation": "This condition presents with global developmental delay, intellectual disability, seizures, and cerebral atrophy. Although obesity is less common, a wide spectrum of phenotypic variability is observed in Zellweger Syndrome."
     },
     {
-      "disease_name": "Cerebro-Oculo-Facio-Skeletal Syndrome 1 (COFS1)",
-      "disease_id": "OMIM:214150",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
       "score": 0.3333333333333333,
-      "explanation": "COFS syndrome presents with a severe neurodegenerative course marked by global developmental delay, intellectual disability, profound cerebral atrophy, spasticity, seizures, and frequently, thin corpus callosum. The distinctive facial features (prominent nasal bridge, thin upper lip vermilion) and short stature are also highly characteristic. The primary discrepancy is the presence of obesity, as patients with COFS syndrome typically experience cachexia or failure to thrive. Despite this significant mismatch in weight, the strong alignment of numerous other severe and specific features makes it a potential diagnosis."
+      "explanation": "Patients with Pitt-Hopkins Syndrome exhibit intellectual disability, developmental delays, and distinctive facial features which match some facial phenotypes of the patient. Seizures and cerebral abnormalities are also common."
     },
     {
-      "disease_name": "Prader-Willi Syndrome",
-      "disease_id": "OMIM:176270",
+      "disease_name": "L1CAM-Related Disorder",
+      "disease_id": "OMIM:308840",
       "score": 0.25,
-      "explanation": "Prader-Willi Syndrome fits the patient's intellectual disability, global developmental delay, obesity, short stature, and some overlapping facial features like a thin upper lip vermilion. However, the severe brain pathology, specifically cerebral atrophy, thin corpus callosum, and spastic diplegia, are not primary or typical features of Prader-Willi Syndrome. While seizures can occur, the overall neurological severity and specific structural abnormalities do not align well with the classic presentation of this syndrome, placing it lower on the differential."
+      "explanation": "Linked to X-linked hydrocephalus with thin corpus callosum and intellectual disability, this disorder can explain several neurological and developmental issues. Spastic diplegia may also occur in L1CAM-related disorders."
     }
   ]
 }

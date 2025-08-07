@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The combination of plexiform neurofibroma, axillary and inguinal freckling, multiple cafe-au-lait spots, and Lisch nodules are classical features of Neurofibromatosis Type 1 (NF1). NF1 is characterized by these hallmark symptoms, making it the most likely candidate based on the given phenotypic features."
+    },
+    {
+      "disease_name": "Segmental Neurofibromatosis",
+      "disease_id": "OMIM:613672",
+      "score": 0.5,
+      "explanation": "Segmental Neurofibromatosis, a variant of NF1, can present with a localized subset of NF1 features such as cafe-au-lait spots and neurofibromas in a segmental distribution. While less likely than classical NF1 due to the widespread features, it remains a possible diagnosis."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.3333333333333333,
+      "explanation": "Legius Syndrome presents with cafe-au-lait spots and freckling, similar to NF1, but without the characteristic neurofibromas and Lisch nodules, making it a less likely but possible consideration based on partial symptom overlap."
+    }
+  ]
+}

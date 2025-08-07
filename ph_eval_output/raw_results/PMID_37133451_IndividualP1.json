@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "Leigh Syndrome is associated with mitochondrial dysfunction affecting complexes I and IV, developmental delay, feeding difficulties, and failure to thrive, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "Characterized by decreased pyruvate dehydrogenase complex activity, developmental regression, feeding difficulties, and metabolic issues like cerebral edema."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.3333,
+      "explanation": "This condition matches the decreased activity of complex I and symptoms like developmental delay and failure to thrive."
+    },
+    {
+      "disease_name": "Mitochondrial Complex IV Deficiency",
+      "disease_id": "OMIM:220110",
+      "score": 0.25,
+      "explanation": "Aligns with the decreased activity of complex IV, developmental delay, and neurological symptoms observed in the patient."
+    },
+    {
+      "disease_name": "Mitochondrial Membrane Protein-Associated Neurodegeneration (MPAN)",
+      "disease_id": "OMIM:614298",
+      "score": 0.2,
+      "explanation": "Presents with developmental delay, retinal degeneration, and neurological features that could lead to CNS demyelination."
+    }
+  ]
+}

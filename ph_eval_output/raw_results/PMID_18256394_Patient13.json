@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hutchinson-Gilford Progeria Syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 1.0,
+      "explanation": "The combination of features such as proptosis, failure to thrive, lipodystrophy, short stature, alopecia, and mottled pigmentation align closely with Hutchinson-Gilford Progeria Syndrome, a disorder known for premature aging and similar phenotypic presentation."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia with Type A Lipodystrophy",
+      "disease_id": "OMIM:248370",
+      "score": 0.5,
+      "explanation": "Features like lipodystrophy, short stature, alopecia, mottled pigmentation, reduced subcutaneous adipose tissue, and reduced bone mineral density are consistent with Mandibuloacral Dysplasia, which shares overlapping symptoms with this presentation."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.333,
+      "explanation": "Proptosis, high palate, hypermetropia, and long QT interval can suggest a connective tissue disorder like Marfan Syndrome, though it usually presents with tall stature, making this a less likely candidate."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy",
+      "disease_id": "OMIM:269700",
+      "score": 0.25,
+      "explanation": "The presence of lipodystrophy, reduced subcutaneous adipose tissue, and other metabolic features, though lacking in some specific features, suggest consideration of Congenital Lipodystrophy syndromes."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "There is a combination of increased ACTH and decreased cortisol levels, which are indicative of adrenal insufficiency, a characteristic of 21-hydroxylase deficiency. Additionally, the increased serum estradiol and decreased testosterone suggest imbalance in adrenal steroidogenesis, common in this condition."
+    },
+    {
+      "disease_name": "Androgen Insensitivity Syndrome",
+      "disease_id": "OMIM:300068",
+      "score": 0.5,
+      "explanation": "The decreased serum testosterone concentration combined with the increased estradiol and prolactin levels can be seen in androgen insensitivity syndrome. Despite increased testosterone production, the body's responsiveness to testosterone is reduced or absent, leading to a relative increase in circulating estrogens."
+    },
+    {
+      "disease_name": "Secondary Adrenal Insufficiency",
+      "disease_id": "OMIM:240700",
+      "score": 0.333,
+      "explanation": "Secondary adrenal insufficiency is characterized by low cortisol and high ACTH levels, which fit with this case. Changes in prolactin and testosterone can occur due to overall endocrine disruption. While this is less classic, the phenotype can still align with pituitary disease affecting multiple axes."
+    },
+    {
+      "disease_name": "Klinefelter Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Although classically characterized by hypogonadism, which aligns with decreased testosterone, and increased estradiol and sometimes prolactin. However, it is less likely than other options due to the specific adrenal issues indicated by cortisol and ACTH levels."
+    }
+  ]
+}

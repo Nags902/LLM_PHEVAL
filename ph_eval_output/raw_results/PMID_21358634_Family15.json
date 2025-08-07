@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Keratoacanthoma",
+      "disease_id": "OMIM:126550",
+      "score": 1.0,
+      "explanation": "Keratoacanthoma is characterized by rapidly growing squamous lesions that may resemble squamous cell carcinoma but typically undergo spontaneous regression, aligning with the feature of self-healing squamous epithelioma."
+    },
+    {
+      "disease_name": "Familial Atypical Multiple Mole Melanoma Syndrome",
+      "disease_id": "OMIM:155600",
+      "score": 0.5,
+      "explanation": "Although primarily associated with melanoma, this syndrome can involve squamous cell carcinomas that occasionally exhibit unusual behaviors, such as partial regression."
+    },
+    {
+      "disease_name": "Muir-Torre Syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.333,
+      "explanation": "Muir-Torre Syndrome is a variant of Lynch syndrome and is characterized by sebaceous tumors and internal malignancies; there can be occasional self-regressing skin lesions similar to squamous epitheliomas."
+    }
+  ]
+}

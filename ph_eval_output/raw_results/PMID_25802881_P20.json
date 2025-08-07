@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Albright Hereditary Osteodystrophy is characterized by subcutaneous ossifications, intellectual disability, and often elevated parathyroid hormone levels due to resistance to the hormone's effects, which aligns with the patient's symptoms."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1b",
+      "disease_id": "OMIM:603233",
+      "score": 0.5,
+      "explanation": "Pseudohypoparathyroidism type 1b features may include elevated parathyroid hormone levels and some patients may show varying degrees of intellectual disability, which relates to the patient's profile."
+    },
+    {
+      "disease_name": "Osteoma Cutis",
+      "disease_id": "OMIM:166350",
+      "score": 0.3333,
+      "explanation": "Osteoma Cutis involves subcutaneous ossifications; however, it less commonly associates with elevated parathyroid hormone or intellectual disability, making it a less likely but potential match."
+    }
+  ]
+}

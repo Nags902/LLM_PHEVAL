@@ -1,28 +1,16 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Neurofibromatosis, Type 1",
+      "disease_name": "Neurofibromatosis Type 1",
       "disease_id": "OMIM:162200",
       "score": 1.0,
-      "explanation": "All presented phenotypic features, including plexiform neurofibroma, axillary and inguinal freckling, multiple cafe-au-lait spots, scoliosis, and glioma (often optic pathway glioma), are classic diagnostic criteria and common manifestations of Neurofibromatosis Type 1. The combination of these specific features provides a near-definitive diagnosis for NF1."
+      "explanation": "The presence of plexiform neurofibromas, axillary and inguinal freckling, multiple caf\u00e9-au-lait spots, scoliosis, and glioma are characteristic features of Neurofibromatosis Type 1 (NF1)."
     },
     {
-      "disease_name": "Legius Syndrome",
-      "disease_id": "OMIM:611490",
+      "disease_name": "Neurofibromatosis-Noonan Syndrome",
+      "disease_id": "OMIM:601321",
       "score": 0.5,
-      "explanation": "Legius syndrome is a differential diagnosis for NF1, characterized by multiple cafe-au-lait spots and freckling (axillary/inguinal). However, it typically lacks neurofibromas (including plexiform neurofibromas) and optic pathway gliomas. The presence of a plexiform neurofibroma and glioma in the patient makes Legius syndrome a much less likely diagnosis compared to NF1."
-    },
-    {
-      "disease_name": "Noonan Syndrome with Multiple Lentigines",
-      "disease_id": "OMIM:151100",
-      "score": 0.33,
-      "explanation": "Noonan Syndrome with Multiple Lentigines (formerly LEOPARD Syndrome) can present with cafe-au-lait spots. However, its characteristic skin finding is lentigines, not the axillary/inguinal freckling typically seen in NF1. Furthermore, neurofibromas are not a feature, and while some tumors can be associated with Noonan spectrum disorders, the specific combination of features seen in this patient is not typical."
-    },
-    {
-      "disease_name": "Constitutional Mismatch Repair Deficiency Syndrome",
-      "disease_id": "OMIM:276300",
-      "score": 0.25,
-      "explanation": "Constitutional Mismatch Repair Deficiency (CMMRD) syndrome can present with multiple cafe-au-lait spots and an increased risk of various cancers, including brain tumors (gliomas). However, the highly specific features of plexiform neurofibroma and axillary/inguinal freckling are not characteristic of CMMRD, making it a much less probable diagnosis compared to NF1, which accounts for all features comprehensively."
+      "explanation": "This condition combines features of both NF1 and Noonan Syndrome, such as skin manifestations like caf\u00e9-au-lait spots and neurofibromas, alongside other traits. The presence of glioma supports consideration of this syndrome."
     }
   ]
 }

@@ -4,19 +4,25 @@
       "disease_name": "Holt-Oram Syndrome",
       "disease_id": "OMIM:142900",
       "score": 1.0,
-      "explanation": "This syndrome is the most fitting diagnosis as it is characterized by the combination of congenital cardiac defects (especially atrial septal defects and conduction abnormalities, such as PR prolongation, which aligns with 'cardiac conduction abnormality') and preaxial upper limb malformations (including hypoplasia of the radius and abnormal carpal morphology). The patient's phenotypic features perfectly match the classic presentation of Holt-Oram Syndrome, which is caused by mutations in the TBX5 gene."
+      "explanation": "Holt-Oram Syndrome is characterized by heart defects such as atrial septal defect and upper limb skeletal abnormalities including hypoplasia of the radius and abnormal carpal bones."
     },
     {
-      "disease_name": "Thrombocytopenia-Absent Radius Syndrome",
+      "disease_name": "TAR Syndrome",
       "disease_id": "OMIM:274000",
       "score": 0.5,
-      "explanation": "This syndrome presents with bilateral radial aplasia/hypoplasia and frequently includes carpal anomalies and congenital heart defects, such as atrial septal defects. While the limb and cardiac structural defects are consistent with the patient's features, the defining feature of severe thrombocytopenia is not mentioned in the patient's data. Additionally, cardiac conduction abnormalities are not a primary, defining feature of this syndrome, making it a less precise fit than Holt-Oram Syndrome unless thrombocytopenia is also present."
+      "explanation": "Thrombocytopenia Absent Radius (TAR) Syndrome involves the absence or hypoplasia of the radius, which can lead to abnormal carpal morphology. Cardiac defects, including conduction abnormalities and septal defects, can occur."
     },
     {
-      "disease_name": "Townes-Brocks Syndrome",
-      "disease_id": "OMIM:107480",
-      "score": 0.33,
-      "explanation": "Townes-Brocks Syndrome involves radial ray defects (including hypoplasia of the radius and carpal anomalies) and congenital heart defects (such as atrial septal defects). While these features overlap with the patient's presentation, this syndrome is also often characterized by imperforate anus and/or external ear anomalies, which are not mentioned here. Cardiac conduction abnormalities are not a characteristic primary feature, making it a less specific match compared to Holt-Oram Syndrome."
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.3333,
+      "explanation": "VACTERL association includes a combination of congenital malformations such as vertebral defects, cardiac anomalies like atrial septal defect, and limb anomalies including radial hypoplasia."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi Anemia can present with radial anomalies, hypoplastic or absent thumbs, and cardiac defects, including septal defects and conduction abnormalities."
     }
   ]
 }

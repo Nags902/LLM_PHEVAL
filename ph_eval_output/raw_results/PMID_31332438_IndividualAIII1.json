@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth Disease Type 2 (CMT2)",
+      "disease_id": "OMIM:118210",
+      "score": 1.0,
+      "explanation": "Charcot-Marie-Tooth Disease Type 2 is characterized by motor axonal neuropathy, impaired vibratory sensation, lower limb amyotrophy, and muscle weakness, which align with the patient's symptoms of unsteady gait and frequent falls."
+    },
+    {
+      "disease_name": "Hereditary Motor and Sensory Neuropathy, Type V (HMSN V)",
+      "disease_id": "OMIM:600361",
+      "score": 0.5,
+      "explanation": "HMSN V involves progressive weakness and atrophy of the distal limbs, impaired sensation, and gait disturbances, fitting several of the observed features in the patient."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy, Lower Extremity-Predominant, 1 (SMALED1)",
+      "disease_id": "OMIM:158600",
+      "score": 0.3333333333333333,
+      "explanation": "SMALED1 presents as lower limb muscle weakness and atrophy, with frequent falls and unsteady gait similar to the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease)",
+      "disease_id": "OMIM:109150",
+      "score": 0.25,
+      "explanation": "This ataxia type can cause unsteady gait and frequent falls, with neuropathy affecting the lower limbs, partially matching the patient's condition."
+    },
+    {
+      "disease_name": "Distal Hereditary Motor Neuropathy, Type IIA",
+      "disease_id": "OMIM:158590",
+      "score": 0.2,
+      "explanation": "This condition is characterized by motor neuropathy leading to muscle atrophy and weakness predominantly in the lower limbs, resembling the symptoms described."
+    }
+  ]
+}

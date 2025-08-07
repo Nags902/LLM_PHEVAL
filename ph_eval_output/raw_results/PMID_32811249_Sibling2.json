@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_name": "Bardet-Biedl Syndrome 1",
       "disease_id": "OMIM:209900",
       "score": 1.0,
-      "explanation": "Bardet-Biedl Syndrome (BBS) is a highly genetically heterogeneous ciliopathy that strongly matches the patient's phenotypic features. Key features of BBS include rod-cone dystrophy (explaining reduced visual acuity and nyctalopia), postaxial polydactyly, central obesity (though not listed, it's a common feature), renal dysfunction, and intellectual disability, which is often mild. Brachydactyly and other digital anomalies like clinodactyly are also commonly observed in BBS. The combination of diverse digital anomalies and the specific type of severe visual impairment (nyctalopia) is highly characteristic of this syndrome."
+      "explanation": "The combination of polydactyly, reduced visual acuity, nyctalopia, and mild intellectual disability are key features of Bardet-Biedl Syndrome. Type 1 is one of the most common subtypes."
     },
     {
-      "disease_name": "Oral-Facial-Digital Syndrome Type VI (Varadi-Papp Syndrome)",
-      "disease_id": "OMIM:277170",
+      "disease_name": "Laurence-Moon Syndrome",
+      "disease_id": "OMIM:245800",
       "score": 0.5,
-      "explanation": "Oral-Facial-Digital Syndrome Type VI (OFD VI) is an autosomal recessive ciliopathy that presents with a strong overlap in digital and neurological features. It is characterized by specific oral and facial anomalies, central nervous system malformations (e.g., molar tooth sign, though not listed in this patient), and significant digital anomalies including postaxial polydactyly, brachydactyly, and clinodactyly of the 5th finger, which are excellent matches to the patient's limb features. Intellectual disability is also a common finding. While retinal dystrophy leading to reduced visual acuity and nyctalopia is not as consistently severe or universally present as in BBS, it has been reported in some cases, making OFD VI a plausible candidate given the strong concordance in other key features."
+      "explanation": "Laurence-Moon Syndrome has overlapping features with Bardet-Biedl Syndrome including visual impairment and intellectual disability. However, polydactyly is usually absent, making this less likely."
     },
     {
-      "disease_name": "Joubert Syndrome and Related Disorders (JSRD)",
-      "disease_id": "OMIM:213300",
-      "score": 0.333,
-      "explanation": "Joubert Syndrome and Related Disorders (JSRD) encompass a group of autosomal recessive ciliopathies primarily characterized by developmental delay/intellectual disability, ataxia, and a distinctive cerebellar malformation (molar tooth sign on MRI). Ocular involvement, including retinal dystrophy leading to reduced visual acuity and nyctalopia, is a common and often severe feature in many JSRD subtypes (e.g., those caused by mutations in CEP290 or AHI1). Polydactyly is also a known associated feature in a significant subset of JSRD cases, particularly those with more severe multi-organ involvement. While brachydactyly and clinodactyly may not be as consistently emphasized primary features as in OFD VI or BBS, general limb anomalies can occur within the broad spectrum of ciliopathies."
+      "disease_name": "Ellis-van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.3333,
+      "explanation": "Ellis-van Creveld Syndrome features polydactyly and short stature but often lacks the specific eye-related symptoms such as nyctalopia, making it a less likely fit."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.25,
+      "explanation": "This syndrome also presents with polydactyly and heart defects. It lacks some neurological and visual features noted here, reducing its likelihood."
     }
   ]
 }

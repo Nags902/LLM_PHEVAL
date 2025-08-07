@@ -1,40 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Osteopetrosis, autosomal recessive 1",
-      "disease_id": "OMIM:259700",
+      "disease_name": "Craniometaphyseal Dysplasia, AD",
+      "disease_id": "OMIM:123000",
       "score": 1.0,
-      "explanation": "This is the most common severe form of osteopetrosis in children, aligning strongly with the patient's features including increased bone mineral density, thickened calvaria, thickened long bone cortex, flared metaphysis, coarse metaphyseal trabecularization, and the classic 'sandwich appearance of vertebral bodies'. Global developmental delay, relative macrocephaly (often due to hydrocephalus), hypertelorism, and depressed nasal bridge are also common due to bone overgrowth impacting neurological function and facial development."
+      "explanation": "The combination of hypertelorism, thickened calvaria, and increased bone density with cranial and metaphyseal involvement fits well with this disorder's profile."
     },
     {
-      "disease_name": "Osteopetrosis with renal tubular acidosis",
-      "disease_id": "OMIM:259730",
+      "disease_name": "Craniodiaphyseal Dysplasia, Autosomal Recessive",
+      "disease_id": "OMIM:218500",
       "score": 0.5,
-      "explanation": "Caused by mutations in CA2, this type of osteopetrosis is characterized by the skeletal findings of increased bone density, thickened bones, and the 'sandwich appearance' of vertebrae. Global developmental delay is a recognized feature, and facial dysmorphism can occur. The primary differentiating factor (renal tubular acidosis) is not provided, but based solely on skeletal and developmental features, it is a strong match."
+      "explanation": "Similar presentation with craniofacial abnormalities and increased bone density, although more extreme, suggests consideration of this condition."
     },
     {
-      "disease_name": "Osteopetrosis, autosomal recessive 2",
-      "disease_id": "OMIM:259720",
+      "disease_name": "Osteopetrosis, Autosomal Recessive 1",
+      "disease_id": "OMIM:259700",
       "score": 0.33,
-      "explanation": "Another significant cause of severe autosomal recessive osteopetrosis, sharing many phenotypic similarities with ARO1, including profound osteosclerosis affecting all bones, the 'sandwich appearance' of vertebrae, and neurological complications leading to global developmental delay and macrocephaly. Craniofacial features like hypertelorism and depressed nasal bridge are also consistent."
-    },
-    {
-      "disease_name": "Pyknodysostosis",
-      "disease_id": "OMIM:265800",
-      "score": 0.25,
-      "explanation": "This disorder presents with generalized osteosclerosis leading to increased bone mineral density, thickened calvaria, thickened long bone cortex, and metaphyseal changes, which overlap significantly with the patient's skeletal findings. Facial dysmorphism, including hypertelorism and depressed nasal bridge, and global developmental delay are characteristic features, making it a strong differential diagnosis."
-    },
-    {
-      "disease_name": "Osteopetrosis, autosomal dominant 2",
-      "disease_id": "OMIM:166600",
-      "score": 0.2,
-      "explanation": "While typically milder than recessive forms, ADO2 is classically associated with the 'sandwich appearance of vertebral bodies' and other osteosclerotic features like thickened calvaria and increased bone mineral density. Though developmental delay is less common, variable expressivity can lead to earlier and more symptomatic presentation, including neurological complications or hydrocephalus that might explain macrocephaly and developmental delay. Facial features like hypertelorism can also be seen."
-    },
-    {
-      "disease_name": "Craniodiaphyseal dysplasia",
-      "disease_id": "OMIM:122860",
-      "score": 0.166,
-      "explanation": "This rare disorder is characterized by progressive thickening and sclerosis of craniofacial bones, leading to prominent hypertelorism, broad/depressed nasal bridge, and thickened calvaria. Generalized bone sclerosis, including thickened long bones, is also present. Neurological complications due to bone overgrowth can lead to developmental delay and macrocephaly. While 'sandwich vertebrae' is not a classic feature, the overall pattern of osteosclerosis and craniofacial involvement makes it a consideration."
+      "explanation": "Increased bone density and skeletal abnormalities are key features, though phenotypic overlap is less extensive."
     }
   ]
 }

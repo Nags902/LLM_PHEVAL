@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 1.0,
+      "explanation": "Williams-Beuren Syndrome is characterized by intellectual disability, global developmental delay, characteristic facial features like a long philtrum and bulbous nose, and sometimes macrodontia and hypertelorism."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange Syndrome often presents with intellectual disability, developmental delay, thick eyebrows, hypertelorism, and bulbous nasal tip, aligning with many of the patient's features."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos Syndrome can include features such as global developmental delay, intellectual disability, macrodontia, long philtrum, and hypertelorism, which are consistent with the patient's presentation."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki Syndrome is noted for developmental delay, distinctive facial features such as thick eyebrows and long philtrum, and may include intellectual disability, fitting some of the patient's features."
+    },
+    {
+      "disease_name": "Zellweger Spectrum Disorder",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "Although less specific, Zellweger Spectrum Disorders can present with intellectual disability, developmental delays, and facial dysmorphisms, partially matching the patient's symptoms."
+    }
+  ]
+}

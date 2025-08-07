@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 1.0,
+      "explanation": "Joubert Syndrome 1 is characterized by cerebellar hypoplasia, ocular motor apraxia (which could contribute to strabismus), developmental delay, and intellectual disability. The combination of these features along with sensorineural hearing impairment suggests a strong match."
+    },
+    {
+      "disease_name": "COACH Syndrome",
+      "disease_id": "OMIM:216360",
+      "score": 0.5,
+      "explanation": "COACH Syndrome, a subtype of Joubert syndrome-related disorders, includes cerebellar hypoplasia, intellectual disability, and ocular motility issues like strabismus. The overlap of these symptoms with the patient's features makes it a probable candidate."
+    },
+    {
+      "disease_name": "Ponto-Cerebellar Hypoplasia Type 6",
+      "disease_id": "OMIM:610688",
+      "score": 0.3333,
+      "explanation": "Ponto-Cerebellar Hypoplasia Type 6 involves microcephaly, cerebellar hypoplasia, developmental delay, and intellectual disability. The combination of these neurological features aligns with the patient's symptoms."
+    },
+    {
+      "disease_name": "WHAS Syndrome",
+      "disease_id": "OMIM:276933",
+      "score": 0.25,
+      "explanation": "Also known as Warburg Micro syndrome, this condition includes microcephaly, intellectual disability, and sensorineural hearing loss. The co-occurrence of these features with developmental delays supports its ranking."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome 3",
+      "disease_id": "OMIM:613980",
+      "score": 0.2,
+      "explanation": "This syndrome features cerebellar hypoplasia, intellectual disability, and strabismus, aligning with the key features presented by the patient."
+    }
+  ]
+}

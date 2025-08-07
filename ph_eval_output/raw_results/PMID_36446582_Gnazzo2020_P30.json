@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 1.0,
+      "explanation": "Rubinstein-Taybi Syndrome is characterized by intellectual disability, broad thumbs (abnormality of the hand), thick eyebrows, and short stature. These features align well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome 1 is associated with intellectual disability, global developmental delay, macrodontia, and hypertelorism. These features match the patient's phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333333333333333,
+      "explanation": "This syndrome presents with intellectual disability, thick eyebrows, global developmental delay, and short stature. While it doesn't account for all features, there is significant overlap."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki syndrome includes intellectual disability, short stature, and distinct facial features, potentially aligning with hypertelorism and macrodontia, though the match is less strong."
+    }
+  ]
+}

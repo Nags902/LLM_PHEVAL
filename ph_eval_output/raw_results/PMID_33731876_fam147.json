@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Epilepsy, Focal, with Speech Disorder and with or without Mental Retardation",
+      "disease_id": "OMIM:245570",
+      "score": 1.0,
+      "explanation": "This condition is characterized by focal-onset seizures, aligning with the patient's phenotypic feature."
+    },
+    {
+      "disease_name": "Temporal Lobe Epilepsy",
+      "disease_id": "OMIM:600512",
+      "score": 0.5,
+      "explanation": "Temporal lobe epilepsy often presents with focal-onset seizures and is a common form of epilepsy, hence second in ranking."
+    },
+    {
+      "disease_name": "Benign Rolandic Epilepsy",
+      "disease_id": "OMIM:117100",
+      "score": 0.3333333333333333,
+      "explanation": "Benign Rolandic Epilepsy is a childhood epilepsy syndrome that can cause focal-onset seizures."
+    },
+    {
+      "disease_name": "Focal Cortical Dysplasia",
+      "disease_id": "OMIM:607341",
+      "score": 0.25,
+      "explanation": "Focal cortical dysplasia is a brain malformation that can lead to focal-onset seizures, thus relevant despite being less common."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "Dravet Syndrome can involve focal seizures, although it typically includes other types of seizures as well, making it a less likely match."
+    }
+  ]
+}

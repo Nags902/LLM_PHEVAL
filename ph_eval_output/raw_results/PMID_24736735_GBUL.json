@@ -1,16 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Pallister-Hall syndrome",
-      "disease_id": "OMIM:146580",
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
       "score": 1.0,
-      "explanation": "This syndrome is an excellent fit, as it is classically characterized by the presence of hypothalamic hamartomas, postaxial polydactyly, and highly specific Y-shaped metacarpals and metatarsals. Other consistent features include shortening of distal phalanges, growth delay, intellectual disability (often associated with seizures from the hamartoma), anal atresia (imperforate anus), and nail dysplasia, all of which align perfectly with the patient's reported phenotypic features."
+      "explanation": "Pallister-Hall Syndrome is characterized by features such as hypothalamic hamartoma, postaxial polydactyly, and other skeletal anomalies, which match many of the observed phenotypic features."
     },
     {
-      "disease_name": "McKusick-Kaufman Syndrome",
-      "disease_id": "OMIM:236700",
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
       "score": 0.5,
-      "explanation": "McKusick-Kaufman Syndrome is considered as a distant differential due to shared features such as postaxial polydactyly and anal atresia. However, it does not typically present with hypothalamic hamartoma or the very specific Y-shaped metacarpals and metatarsals, which are critical and unique findings in this patient's presentation and are hallmarks of Pallister-Hall syndrome. The overlap is limited to only a few, less specific features."
+      "explanation": "Greig Cephalopolysyndactyly Syndrome also presents with postaxial polydactyly and other hand malformations, although hypothalamic hamartoma is less common."
+    },
+    {
+      "disease_name": "Oral-Facial-Digital Syndrome Type 1",
+      "disease_id": "OMIM:311200",
+      "score": 0.3333,
+      "explanation": "This syndrome features similar digital anomalies and may exhibit developmental delay. However, some features like hypothalamic hamartoma are not typical."
+    },
+    {
+      "disease_name": "Ellis van Creveld Syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 0.25,
+      "explanation": "While not all features match, polydactyly and skeletal abnormalities are common, but hypothalamic involvement is not typical."
     }
   ]
 }

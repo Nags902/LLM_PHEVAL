@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "TUBA1A-related cortical malformation",
-      "disease_id": "OMIM:612874",
+      "disease_name": "Microcephaly, Polymicrogyria, and Corpus Callosum Abnormalities, X-Linked",
+      "disease_id": "OMIM:300749",
       "score": 1.0,
-      "explanation": "This is a strong candidate as mutations in TUBA1A, a tubulin gene, are a well-established cause of severe cortical malformations including polymicrogyria, microcephaly, and abnormalities of the corpus callosum (including thin corpus callosum). These brain abnormalities consistently lead to profound intellectual disability and absent speech. Short stature can also be observed in affected individuals due to overall developmental impairment."
+      "explanation": "This condition encompasses all the primary clinical features: microcephaly, polymicrogyria, thin corpus callosum, absent speech, and intellectual disability. It is an X-linked disorder which explains the gender relevance."
     },
     {
-      "disease_name": "WDR62-related primary microcephaly 2",
-      "disease_id": "OMIM:611039",
+      "disease_name": "Lissencephaly 1",
+      "disease_id": "OMIM:607432",
       "score": 0.5,
-      "explanation": "Mutations in WDR62 are a common cause of primary microcephaly associated with a wide spectrum of cortical malformations, including polymicrogyria and corpus callosum abnormalities (e.g., thin corpus callosum). Patients typically present with severe intellectual disability, absent speech, and often short stature, directly matching the patient's phenotypic profile."
+      "explanation": "Lissencephaly 1 presents with polymicrogyria, intellectual disability, and often includes microcephaly. The involvement of the brain structure and absence of speech aligns with the presented phenotype."
     },
     {
-      "disease_name": "Galloway-Mowat syndrome type 1",
-      "disease_id": "OMIM:251300",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 0.333,
-      "explanation": "Galloway-Mowat syndrome is characterized by a severe neurological phenotype often including microcephaly, polymicrogyria (especially posterior), profound intellectual disability, and absent speech. Thin corpus callosum is also a frequently reported brain anomaly. Short stature is a common systemic feature. Although usually associated with nephrotic syndrome, the neurological features alone are a strong match for this patient, and renal involvement might be variable or not yet apparent."
+      "explanation": "Characterized by intellectual disability, microcephaly, short stature, and corpus callosum abnormalities. Polymicrogyria is not a core feature but can occasionally be observed."
     },
     {
-      "disease_name": "COL4A1-related porencephaly",
-      "disease_id": "OMIM:600508",
+      "disease_name": "Warburg Micro Syndrome 1",
+      "disease_id": "OMIM:600118",
       "score": 0.25,
-      "explanation": "Mutations in COL4A1 are associated with a spectrum of cerebrovascular and structural brain abnormalities. Polymicrogyria, particularly periventricular, is a recognized feature, along with microcephaly, thin corpus callosum, intellectual disability, and developmental delay affecting speech. Short stature can also be part of the phenotypic spectrum, making it a plausible candidate."
-    },
-    {
-      "disease_name": "ATR-X syndrome",
-      "disease_id": "OMIM:300032",
-      "score": 0.2,
-      "explanation": "ATR-X syndrome is an X-linked disorder primarily affecting males (Gender: 1 implies male). It is characterized by severe intellectual disability, absent speech, microcephaly, and short stature. Brain imaging often reveals corpus callosum hypoplasia/thinning, and polymicrogyria has been reported in a subset of patients. This syndrome encompasses many of the patient's core features."
+      "explanation": "Features include microcephaly, intellectual disability, absent speech, and potential polymicrogyria, though the corpus callosum abnormality is not frequently documented."
     }
   ]
 }

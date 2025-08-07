@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "The phenotype of impaired tandem gait and dysarthria are consistent with Ataxia-Telangiectasia. Though intellectual disability is not a classic feature, it is possible in some cases."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Intellectual disability and dysarthria are observed in Fragile X Syndrome. While impaired tandem gait is not directly associated, some coordination issues may arise."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.333,
+      "explanation": "Spinocerebellar Ataxias often present with impaired gait and dysarthria, aligning with two primary features. Intellectual disability is less common but can occur."
+    }
+  ]
+}

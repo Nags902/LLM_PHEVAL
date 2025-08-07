@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 1.0,
+      "explanation": "Phelan-McDermid syndrome is characterized by intellectual disability, autism, and seizures, which aligns well with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome presents with autism, intellectual disability, and epilepsy, making it a possible diagnosis for the patient, especially in females."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333333333333333,
+      "explanation": "Angelman syndrome includes features such as moderate intellectual disability and seizures, and while it includes unique features like laughter, the overlap warrants consideration."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet syndrome is characterized by severe epilepsy and developmental issues, including autism, but typically presents with febrile seizures."
+    }
+  ]
+}

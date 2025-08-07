@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ferguson-Smith Disease",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "Ferguson-Smith Disease, also known as multiple self-healing squamous epithelioma (MSSE), is associated with the development of self-healing tumors resembling squamous cell carcinomas. The presentation of self-healing squamous epithelioma closely matches the phenotype described."
+    },
+    {
+      "disease_name": "Muir-Torre Syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.5,
+      "explanation": "Muir-Torre Syndrome is a variant of Lynch syndrome characterized by sebaceous skin tumors, which can include squamous tumors that may self-resolve. Although more rare, this syndrome could explain the observed phenotype."
+    }
+  ]
+}

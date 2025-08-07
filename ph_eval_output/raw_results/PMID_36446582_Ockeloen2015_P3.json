@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 1.0,
+      "explanation": "Intellectual disability and autistic behavior are key features of Phelan-McDermid Syndrome, which results from deletions or mutations affecting the SHANK3 gene. There may also be craniofacial anomalies contributing to macrodontia, and hand abnormalities are often reported."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "This condition commonly involves intellectual disability and autistic-like behaviors. It can also manifest features like dental anomalies and abnormal hand morphology, aligning with the patient's presentation."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos Syndrome 1 is characterized by overgrowth, macrocephaly, and intellectual disability, sometimes accompanied by features like macrodontia and other skeletal anomalies, including hands."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Although less specific, Fragile X Syndrome presents with intellectual disability and autistic behaviors, and can sometimes display features affecting dentition and hand morphology."
+    }
+  ]
+}

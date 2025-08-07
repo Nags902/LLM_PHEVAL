@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_name": "Cornelia de Lange Syndrome 1",
       "disease_id": "OMIM:122470",
       "score": 1.0,
-      "explanation": "The patient presents with a highly characteristic constellation of facial features, including broad and horizontal eyebrows, deeply set eyes, synophrys, telecanthus, upslanted palpebral fissures, thin upper lip vermilion, bulbous nose, wide mouth, and mandibular prognathia. These features, combined with mild global developmental delay, are cardinal signs of Cornelia de Lange Syndrome (CdLS). While macrothrombocytopenia (platelet anisocytosis, increased mean platelet volume) is not a classical primary feature of CdLS, thrombocytopenia and other hematologic abnormalities have been reported in affected individuals, and this specific platelet morphology could represent an atypical presentation or a secondary effect of the underlying condition. The striking facial phenotype strongly points to CdLS."
-    },
-    {
-      "disease_name": "MYH9-Related Disease",
-      "disease_id": "OMIM:160750",
-      "score": 0.5,
-      "explanation": "The patient's hematological findings of thrombocytopenia, platelet anisocytosis, and increased mean platelet volume are highly consistent with MYH9-related disease, which is characterized by congenital macrothrombocytopenia due to mutations in the MYH9 gene. This includes various allelic disorders such as May-Hegglin Anomaly, Sebastian Syndrome, Fechtner Syndrome, and Epstein Syndrome. While some subtypes (e.g., Fechtner Syndrome) can involve developmental issues (e.g., sensorineural hearing loss, cataracts, nephritis), the extensive and specific facial dysmorphism seen in this patient is not typical or characteristic of MYH9-related disorders, which is a significant mismatch for the prominent facial phenotype."
+      "explanation": "Many of the phenotypic features such as synophrys, upslanted palpebral fissures, thin upper lip vermilion, mandibular prognathia, and developmental delay are consistent with Cornelia de Lange Syndrome. Thrombocytopenia and platelet anisocytosis have also been reported in some cases."
     },
     {
       "disease_name": "Jacobsen Syndrome",
       "disease_id": "OMIM:147791",
-      "score": 0.33,
-      "explanation": "Jacobsen Syndrome, caused by a partial deletion of the long arm of chromosome 11 (11q), is associated with intellectual disability/developmental delay and frequently presents with Paris-Trousseau syndrome, a bleeding disorder characterized by macrothrombocytopenia and platelet dysfunction. This matches the developmental delay and macrothrombocytopenia. However, the specific facial features described (synophrys, deeply set eyes, upslanted palpebral fissures, thin upper lip vermilion, bulbous nose, wide mouth, mandibular prognathia) do not align well with the typical facial phenotype of Jacobsen Syndrome, which often includes trigonocephaly, hypertelorism, ptosis, downslanted palpebral fissures, and a broad nasal bridge."
+      "score": 0.5,
+      "explanation": "Features like telecanthus, thrombocytopenia, and developmental delay align with Jacobsen Syndrome, although it does not fully explain the facial features like synophrys."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.3333333333333333,
+      "explanation": "Some phenotypic overlaps, such as telecanthus and increased mean platelet volume, suggest a possibility of Noonan Syndrome 1, yet other facial features are less typical."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Certain facial characteristics overlap, including broad eyebrows and bulbous nose, but other distinctive features like synophrys are less common."
     }
   ]
 }

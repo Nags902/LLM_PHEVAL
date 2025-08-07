@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Neurofibromatosis Type 1 (NF1) is characterized by multiple caf\u00e9-au-lait spots and freckling, especially in the axillary and inguinal regions. These are key diagnostic criteria for NF1, making it the most likely condition given the phenotypic features."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius Syndrome presents with multiple caf\u00e9-au-lait spots and freckling but generally lacks the neurofibromas seen in NF1. It can sometimes be misdiagnosed as NF1 due to similar cutaneous features."
+    }
+  ]
+}

@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "CDKL5 Deficiency Disorder",
-      "disease_id": "OMIM:300672",
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
       "score": 1.0,
-      "explanation": "This disorder presents with a highly congruent neurodevelopmental phenotype including infantile spasms, various seizure types (tonic-clonic, focal-onset), severe global developmental delay, severe intellectual disability, absent speech, motor stereotypies, microcephaly (often acquired), poor coordination, gastroesophageal reflux, and strabismus. It predominantly affects females. While precocious puberty and sensorineural hearing impairment are not classic features, the strong match for the core epileptic encephalopathy and severe neurodevelopmental profile makes it a top candidate. Endocrine issues can occur in complex neurological conditions, and SNHL can be an associated, though non-specific, finding."
+      "explanation": "Rett syndrome often presents with global developmental delay, intellectual disability, absent speech, seizures (including infantile spasms), and motor stereotypies. These match the phenotypic features listed. Although it primarily affects females, atypical presentations in males might occur."
     },
     {
-      "disease_name": "FOXG1 Syndrome",
-      "disease_id": "OMIM:613775",
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
       "score": 0.5,
-      "explanation": "FOXG1 syndrome is another severe early infantile epileptic encephalopathy characterized by congenital microcephaly, profound intellectual disability, absent speech, severe developmental delay, and a movement disorder with motor stereotypies and ataxia/poor coordination (including broad-based gait). Infantile spasms and other seizure types are common. Gastroesophageal reflux and strabismus are also frequently observed. Similar to CDKL5, the fit for precocious puberty and sensorineural hearing impairment is less typical, but the overall severe neurodevelopmental and seizure profile is a very strong match."
+      "explanation": "Characterized by intellectual disability, absent speech, seizures, microcephaly, and coordination problems, Angelman syndrome presents with many features observed here. Strabismus and broad-based gait might also occur."
     },
     {
-      "disease_name": "STXBP1 Encephalopathy",
-      "disease_id": "OMIM:612164",
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
       "score": 0.333,
-      "explanation": "STXBP1 encephalopathy is a significant cause of early infantile epileptic encephalopathy. Patients typically present with early-onset seizures (including infantile spasms, tonic-clonic, and focal), severe global developmental delay, profound intellectual disability, absent speech, movement disorders (tremor, ataxia, dystonia), and often microcephaly. While precocious puberty and sensorineural hearing impairment are not common or specific features, the core neurological symptoms align well with the patient's presentation, making it a plausible differential diagnosis within the spectrum of severe epileptic encephalopathies."
+      "explanation": "Associated with intellectual disability, seizures, microcephaly, absent speech, and gastroesophageal reflux. Although precocious puberty is less common, other features make it relevant."
     },
     {
-      "disease_name": "Hypothalamic Hamartoma associated neurodevelopmental disorder",
-      "disease_id": "OMIM:176400",
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
       "score": 0.25,
-      "explanation": "This diagnosis directly explains the highly specific combination of precocious puberty and seizures, including infantile spasms (gelastic seizures are classic, but other types can co-occur). Hypothalamic hamartomas can lead to significant intellectual disability, global developmental delay, and behavioral issues depending on size and location. While microcephaly is not a typical feature (often normal head size or macrocephaly if hydrocephalus), and SNHL is not directly associated, the unique co-occurrence of precocious puberty and infantile spasms is a strong indicator for this condition."
+      "explanation": "While Aicardi syndrome is often seen in females, it can feature infantile spasms, microcephaly, seizures, and developmental delay. The gender discrepancy makes it less likely but still plausible."
     },
     {
-      "disease_name": "Alpers-Huttenlocher Syndrome (POLG-related mitochondrial encephalopathy)",
-      "disease_id": "OMIM:203700",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
       "score": 0.2,
-      "explanation": "Alpers-Huttenlocher Syndrome is a severe mitochondrial disorder that can present with intractable seizures (including infantile spasms), severe developmental regression and intellectual disability, microcephaly, spasticity, and ataxia/poor coordination. Sensorineural hearing impairment is also a known feature in some mitochondrial disorders. While precocious puberty is not a hallmark, mitochondrial diseases are multisystemic and can cause a wide array of variable symptoms, including endocrine dysfunction. This broad category covers many of the patient's severe and diverse symptoms."
+      "explanation": "Features include intellectual disability, absent speech, motor issues, microcephaly, and seizures. Presence of intention tremor and broad-based gait support its inclusion."
     }
   ]
 }

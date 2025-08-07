@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Homocystinuria, CBS deficiency",
+      "disease_name": "Homocystinuria",
       "disease_id": "OMIM:236200",
       "score": 1.0,
-      "explanation": "This is the most classical and fitting diagnosis. Homocystinuria due to cystathionine beta-synthase (CBS) deficiency typically presents with all the listed features: arachnodactyly, disproportionate tall stature, intellectual disability, and notably, hyperhomocystinemia. The combination of marfanoid habitus and intellectual disability with elevated homocysteine levels is pathognomonic for this condition."
+      "explanation": "Homocystinuria is a rare metabolic disorder characterized by high levels of homocysteine (hyperhomocystinemia), intellectual disability, arachnodactyly, and tall stature. These features closely match the patient's symptoms."
     },
     {
-      "disease_name": "Methylenetetrahydrofolate Reductase Deficiency",
-      "disease_id": "OMIM:236250",
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
       "score": 0.5,
-      "explanation": "MTHFR deficiency is another genetic cause of hyperhomocystinemia and often presents with neurological symptoms including intellectual disability and developmental delay. While arachnodactyly and disproportionate tall stature are not as characteristic or consistently severe as in CBS deficiency, growth abnormalities and a Marfanoid habitus can occasionally be observed in some cases, making it a plausible, albeit less precise, alternative cause for the patient's symptoms given the core metabolic and neurological findings."
+      "explanation": "Marfan Syndrome involves features like tall stature and arachnodactyly, which are present in the patient, although intellectual disability and hyperhomocystinemia are not typical features."
     },
     {
-      "disease_name": "Methylmalonic Aciduria and Homocystinuria, cblC type",
-      "disease_id": "OMIM:277400",
-      "score": 0.33,
-      "explanation": "This is a combined remethylation disorder that results in both hyperhomocystinemia and methylmalonic aciduria. Patients typically present with severe neurological features, including intellectual disability, developmental regression, and sometimes stroke-like episodes. While skeletal features like arachnodactyly and tall stature are not hallmark signs, the presence of intellectual disability and hyperhomocystinemia aligns with this metabolic disorder, requiring its consideration in the differential diagnosis of complex homocystinemia cases."
+      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
+      "disease_id": "OMIM:130050",
+      "score": 0.3333,
+      "explanation": "Ehlers-Danlos Syndrome can present with tall stature and joint-related features, but the match with hyperhomocystinemia and intellectual disability is weaker compared to Homocystinuria."
     }
   ]
 }

@@ -4,31 +4,19 @@
       "disease_name": "Marfan Syndrome",
       "disease_id": "OMIM:154700",
       "score": 1.0,
-      "explanation": "This is the strongest candidate due to the presence of hallmark features including tall stature, mitral regurgitation, scoliosis, and particularly, dural ectasia, which is a highly specific and sensitive diagnostic criterion for Marfan syndrome. While downslanted palpebral fissures and exotropia are less typical, they do not rule out the diagnosis and can occur."
-    },
-    {
-      "disease_name": "Shprintzen-Goldberg Syndrome",
-      "disease_id": "OMIM:182212",
-      "score": 0.5,
-      "explanation": "Shprintzen-Goldberg Syndrome is a very strong differential diagnosis as it also presents with Marfanoid habitus (including tall stature, scoliosis, and mitral regurgitation), craniofacial dysmorphism (which can encompass downslanted palpebral fissures and exotropia), and dural ectasia has been reported. This syndrome overlaps significantly with Marfan syndrome phenotypically, particularly in patients with more prominent facial features."
+      "explanation": "Marfan syndrome is characterized by connective tissue abnormalities, which include features like tall stature, mitral regurgitation, scoliosis, and dural ectasia, aligning closely with the patient's symptoms."
     },
     {
       "disease_name": "Loeys-Dietz Syndrome Type 1",
       "disease_id": "OMIM:609192",
-      "score": 0.33,
-      "explanation": "Loeys-Dietz Syndrome is a connective tissue disorder that shares some features such as mitral regurgitation and scoliosis. Dural ectasia can be present, though typically less consistently or severely than in Marfan syndrome. Tall stature is less common, and the characteristic craniofacial features (e.g., hypertelorism, malar hypoplasia) differ from the downslanted palpebral fissures described, making it a less likely but still relevant differential."
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome often presents with craniofacial abnormalities, dural ectasia, and cardiovascular issues, such as mitral regurgitation, which correspond to the patient's features. However, it is less commonly associated with tall stature than Marfan syndrome."
     },
     {
-      "disease_name": "Homocystinuria, Classical",
-      "disease_id": "OMIM:236200",
-      "score": 0.25,
-      "explanation": "Classical Homocystinuria is a metabolic disorder that can mimic Marfan syndrome due to shared features like tall stature, scoliosis, and mitral regurgitation (from valve prolapse), and ocular issues like exotropia (though classic ectopia lentis is specific). However, dural ectasia is not a characteristic feature, and key distinguishing signs like intellectual disability and thromboembolic events are not mentioned."
-    },
-    {
-      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
-      "disease_id": "OMIM:166220",
-      "score": 0.2,
-      "explanation": "Vascular Ehlers-Danlos Syndrome is a connective tissue disorder associated with arterial fragility. While mitral valve prolapse/regurgitation can occur, and scoliosis is possible, dural ectasia and tall stature are not characteristic features. The overall phenotypic presentation is less consistent with this type of EDS compared to the other listed diseases."
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.3333,
+      "explanation": "This syndrome includes features like craniosynostosis (manifesting as downslanted palpebral fissures), scoliosis, and other connective tissue problems, but it is less common and fits the phenotype less closely than Marfan syndrome."
     }
   ]
 }

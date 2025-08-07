@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Pitt-Hopkins Syndrome is associated with intellectual disability, developmental delay, epilepsy, autism, and hypotonia, similar to the patient's phenotypic features."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:164874",
+      "score": 0.5,
+      "explanation": "FOXG1 Syndrome includes symptoms such as epileptic encephalopathy, autism, intellectual disability, and hypotonia, which are consistent with the patient's features."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.3333333333333333,
+      "explanation": "Angelman Syndrome presents with epilepsy, intellectual disability, developmental delay, and hypotonia, aligning with several of the patient's symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett Syndrome can involve epilepsy, intellectual disability, autism, hypotonia, and developmental delay, though it is more common in females."
+    },
+    {
+      "disease_name": "SYNGAP1-related Intellectual Disability",
+      "disease_id": "OMIM:612621",
+      "score": 0.2,
+      "explanation": "SYNGAP1-related Intellectual Disability is characterized by focal seizures, intellectual disability, developmental delay, and autism."
+    }
+  ]
+}

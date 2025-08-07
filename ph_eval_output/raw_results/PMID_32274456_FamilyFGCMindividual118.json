@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 1.0,
+      "explanation": "Alport Syndrome is commonly associated with chronic kidney disease and proteinuria due to defects in type IV collagen, and it is a leading cause of these symptoms in younger adults."
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.5,
+      "explanation": "Fabry Disease can cause proteinuria and progressive kidney disease due to a buildup of globotriaosylceramide in renal cells. This can lead to chronic kidney disease."
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "disease_id": "OMIM:161950",
+      "score": 0.333,
+      "explanation": "IgA Nephropathy is a common cause of glomerulonephritis that can cause proteinuria and chronic kidney disease, typically detected by hematuria and proteinuria."
+    },
+    {
+      "disease_name": "Type IV Collagen-related Nephropathy",
+      "disease_id": "OMIM:618733",
+      "score": 0.25,
+      "explanation": "Type IV Collagen-related Nephropathy includes Glomerular basement membrane diseases, similar to Alport Syndrome, which can cause proteinuria and chronic kidney disease."
+    },
+    {
+      "disease_name": "Thin Basement Membrane Nephropathy",
+      "disease_id": "OMIM:108500",
+      "score": 0.2,
+      "explanation": "Thin Basement Membrane Nephropathy causes persistent hematuria, mild proteinuria, and can progress to chronic kidney disease in some cases."
+    }
+  ]
+}

@@ -1,52 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Primary microcephaly 1",
-      "disease_id": "OMIM:251200",
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
       "score": 1.0,
-      "explanation": "This is a classic form of primary microcephaly, defined by congenital microcephaly, intellectual disability, and developmental delays, perfectly matching the patient's core phenotypic features without other major malformations."
+      "explanation": "MECP2 Duplication Syndrome is associated with intellectual disability, delayed motor and speech development, and microcephaly. It affects males more frequently, aligning with the patient's profile and symptoms."
     },
     {
-      "disease_name": "Primary microcephaly 2",
-      "disease_id": "OMIM:604321",
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
       "score": 0.5,
-      "explanation": "Similar to Primary Microcephaly 1, this condition is also characterized by significantly reduced head circumference at birth, intellectual disability, and global developmental delays, making it a very strong candidate."
+      "explanation": "Angelman Syndrome is characterized by severe intellectual disability, delayed speech, and motor development. While not all cases have microcephaly, the pattern of features suggests consideration."
     },
     {
-      "disease_name": "Primary microcephaly 3",
-      "disease_id": "OMIM:604804",
-      "score": 0.33,
-      "explanation": "Another distinct genetic subtype of primary microcephaly, which consistently presents with microcephaly, intellectual disability, and delayed motor and speech development, aligning well with the patient's profile."
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett Syndrome may present with intellectual disability, speech delays, and microcephaly, though it primarily affects females. The overlapping features merit its lower ranking."
     },
     {
-      "disease_name": "Lissencephaly, isolated, sequence",
-      "disease_id": "OMIM:607432",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
       "score": 0.25,
-      "explanation": "This category encompasses various brain malformations characterized by a smooth brain surface. Patients often present with severe intellectual disability, global developmental delays (including motor and speech), and microcephaly, making it a strong neurological match."
+      "explanation": "Pitt-Hopkins Syndrome includes intellectual disability, speech and motor delays, and microcephaly. The overall phenotypic match is reasonable, but other diseases are more common."
     },
     {
-      "disease_name": "Cri-du-chat syndrome",
-      "disease_id": "OMIM:123450",
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
       "score": 0.2,
-      "explanation": "A chromosomal deletion syndrome consistently associated with microcephaly, severe intellectual disability, delayed motor and speech development, and characteristic facial features, fitting the described phenotypic profile."
-    },
-    {
-      "disease_name": "Wolf-Hirschhorn syndrome",
-      "disease_id": "OMIM:194190",
-      "score": 0.166,
-      "explanation": "This microdeletion syndrome is characterized by severe intellectual disability, global developmental delay, and microcephaly, along with distinctive facial features, making it a relevant differential diagnosis."
-    },
-    {
-      "disease_name": "Smith-Lemli-Opitz syndrome",
-      "disease_id": "OMIM:270400",
-      "score": 0.142,
-      "explanation": "A metabolic disorder that often presents with microcephaly, intellectual disability, and global developmental delays. Although typically associated with other dysmorphic features, the core neurological symptoms are a good match."
-    },
-    {
-      "disease_name": "Cornelia de Lange syndrome 1",
-      "disease_id": "OMIM:122470",
-      "score": 0.125,
-      "explanation": "While microcephaly can be variable, Cornelia de Lange syndrome is consistently characterized by intellectual disability, significant developmental delays (motor and speech), and growth retardation, making it a possible syndromic cause."
+      "explanation": "Mowat-Wilson Syndrome typically involves intellectual disability and speech delays, with occasional microcephaly. The constellation of symptoms has some overlap."
     }
   ]
 }

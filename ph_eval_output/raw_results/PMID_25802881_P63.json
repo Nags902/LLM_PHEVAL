@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This disease is characterized by features such as obesity, short metacarpals, and often intellectual disability, matching all provided phenotypic features."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.5,
+      "explanation": "Prader-Willi Syndrome includes obesity and intellectual disability as primary features. Short stature and small hands are also present, which could relate to short metacarpals."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.3333,
+      "explanation": "Coffin-Lowry Syndrome can encompass intellectual disability and obesity, with skeletal anomalies that might include short metacarpals."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl Syndrome can include obesity and intellectual disability. Skeletal abnormalities are also present but short metacarpals are less specific."
+    },
+    {
+      "disease_name": "Laurence-Moon Syndrome",
+      "disease_id": "OMIM:245800",
+      "score": 0.2,
+      "explanation": "While less typical, Laurence-Moon Syndrome shares obesity and intellectual disability with the patient's symptoms. Skeletal abnormalities are common though short metacarpals are not specific."
+    }
+  ]
+}

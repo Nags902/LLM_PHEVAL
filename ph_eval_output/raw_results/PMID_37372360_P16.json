@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome 1 is characterized by features such as tall stature, macrocephaly, and high forehead, which align with the patient's symptoms. Obesity can sometimes be observed in these patients as well."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:158350",
+      "score": 0.5,
+      "explanation": "PTEN Hamartoma Tumor Syndrome can present with macrocephaly, obesity, and a high forehead. Tall stature is a less common but possible feature, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.3333333333333333,
+      "explanation": "Weaver Syndrome often includes features such as tall stature and macrocephaly. Other potential symptoms like a high forehead also match, though obesity is not a typical feature."
+    },
+    {
+      "disease_name": "Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.25,
+      "explanation": "Bannayan-Riley-Ruvalcaba Syndrome is associated with macrocephaly and some patients may experience obesity. It is less commonly associated with tall stature, but the combination of macrocephaly and obesity warrants consideration."
+    }
+  ]
+}

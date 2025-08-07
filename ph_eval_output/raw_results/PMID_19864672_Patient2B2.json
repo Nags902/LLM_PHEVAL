@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Chronic Mucocutaneous Candidiasis",
+      "disease_id": "OMIM:114580",
+      "score": 1.0,
+      "explanation": "Chronic oral candidiasis is a hallmark feature of chronic mucocutaneous candidiasis, which often presents with persistent and recurrent fungal infections of the skin, nails, and mucous membranes."
+    },
+    {
+      "disease_name": "Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy (APECED)",
+      "disease_id": "OMIM:240300",
+      "score": 0.5,
+      "explanation": "This condition often presents with chronic candidiasis, along with other autoimmune symptoms, indicating possible immune system dysregulation. It commonly starts in childhood or adolescence."
+    },
+    {
+      "disease_name": "Hyper-IgE Syndrome",
+      "disease_id": "OMIM:147060",
+      "score": 0.3333,
+      "explanation": "Hyper-IgE syndrome, while primarily known for recurrent skin and lung infections, can also present with chronic mucocutaneous candidiasis due to immune system irregularities."
+    },
+    {
+      "disease_name": "Severe Combined Immunodeficiency (SCID)",
+      "disease_id": "OMIM:601457",
+      "score": 0.25,
+      "explanation": "Patients with SCID often have opportunistic infections including chronic candidiasis due to severely impaired immune function."
+    },
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.2,
+      "explanation": "Though more commonly associated with congenital anomalies, DiGeorge Syndrome also presents with immune deficiency, predisposing individuals to chronic infections including candidiasis."
+    }
+  ]
+}

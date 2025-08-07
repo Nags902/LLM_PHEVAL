@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "Rhabdoid Tumor Predisposition Syndrome 1 is associated with SMARCB1 mutations and a high risk of developing atypical teratoid/rhabdoid tumors, particularly in young children."
+    },
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 2",
+      "disease_id": "OMIM:613325",
+      "score": 0.5,
+      "explanation": "Rhabdoid Tumor Predisposition Syndrome 2, related to SMARCA4 mutations, presents similarly with atypical teratoid/rhabdoid tumors in early childhood."
+    },
+    {
+      "disease_name": "Schwannomatosis",
+      "disease_id": "OMIM:162091",
+      "score": 0.333,
+      "explanation": "Although primarily characterized by schwannomas, Schwannomatosis can also involve mutations in SMARCB1, which is linked to rhabdoid tumors as part of the spectrum of manifestations."
+    }
+  ]
+}

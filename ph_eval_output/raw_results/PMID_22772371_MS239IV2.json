@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "The combination of tall stature, arachnodactyly, high palate, dural ectasia, mitral valve prolapse, aortic root aneurysm, and emphysema strongly suggests Marfan Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome presents with features like arterial tortuosity, aortic aneurysm, and skeletal deformities similar to those seen in this patient."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
+      "disease_id": "OMIM:130050",
+      "score": 0.3333333333333333,
+      "explanation": "Vascular Ehlers-Danlos Syndrome includes features such as arterial tortuosity and skin manifestations like striae distensae, though it usually presents with more severe vascular complications."
+    }
+  ]
+}

@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "SCO2-Related Mitochondrial Encephalomyopathy and Hypertrophic Cardiomyopathy",
-      "disease_id": "OMIM:603921",
+      "disease_name": "Pontocerebellar Hypoplasia Type 1A",
+      "disease_id": "OMIM:607596",
       "score": 1.0,
-      "explanation": "This disease is a highly probable match given the severe neonatal onset (P25D) with profound hypotonia, muscle weakness, respiratory failure requiring assisted ventilation, seizures, and the prominent presence of hypertrophic cardiomyopathy and bradycardia. Brain involvement, including white matter abnormalities, and potential brainstem dysfunction leading to vocal cord paralysis and inspiratory stridor, are consistent. Areflexia is also a common feature."
-    },
-    {
-      "disease_name": "Mitochondrial DNA Depletion Syndrome, Myopathic Type, with Cardiomyopathy (POLG-Related)",
-      "disease_id": "OMIM:203700",
-      "score": 0.5,
-      "explanation": "POLG-related disorders, particularly the severe infantile encephalopathic forms (e.g., Alpers-Huttenlocher syndrome), align well with intractable seizures, hypotonia, muscle weakness, respiratory failure, and the reported brain abnormalities including abnormal corpus callosum, periventricular white matter, and brainstem morphology. While hypertrophic cardiomyopathy is not a universal feature, cardiac involvement has been reported. Areflexia from polyneuropathy and vocal cord paralysis/stridor due to bulbar dysfunction are also consistent."
+      "explanation": "Pontocerebellar Hypoplasia Type 1A is associated with seizures, muscle weakness, abnormal brainstem morphology, hypotonia, and respiratory failure. These features align well with the patient's phenotype."
     },
     {
       "disease_name": "Leigh Syndrome",
       "disease_id": "OMIM:256000",
-      "score": 0.333,
-      "explanation": "Leigh syndrome is a severe, progressive neurodegenerative disorder with typical infantile onset, characterized by psychomotor regression, hypotonia, seizures, and significant respiratory abnormalities. The presence of abnormal brainstem morphology is a hallmark, and white matter changes and corpus callosum involvement can also occur. While not all genetic forms of Leigh syndrome prominently feature hypertrophic cardiomyopathy, it is observed in some. Vocal cord paralysis, inspiratory stridor, and areflexia are also consistent with the severe neurological and neuromuscular involvement."
+      "score": 0.5,
+      "explanation": "Leigh Syndrome typically involves seizures, muscle weakness, respiratory issues, and abnormal brain structures including the corpus callosum and brainstem. The severity and combination of symptoms in the patient suggest Leigh Syndrome as a possibility."
     },
     {
-      "disease_name": "Zellweger Syndrome Spectrum Disorder (Peroxisome Biogenesis Disorder 1A)",
+      "disease_name": "Congenital Myasthenic Syndrome due to CHAT deficiency",
+      "disease_id": "OMIM:254210",
+      "score": 0.333,
+      "explanation": "This syndrome can present with muscle weakness, hypotonia, respiratory failure, inspiratory stridor, and bradycardia, which are seen in the patient."
+    },
+    {
+      "disease_name": "Zellweger Spectrum Disorder",
       "disease_id": "OMIM:214100",
       "score": 0.25,
-      "explanation": "Zellweger syndrome, the most severe end of the peroxisome biogenesis disorder spectrum, presents neonatally with profound hypotonia, seizures, severe developmental delay, and characteristic brain malformations including neuronal migration defects, corpus callosum hypoplasia, and white matter abnormalities. Areflexia due to peripheral neuropathy is a hallmark, and respiratory distress is common. While hypertrophic cardiomyopathy is not a primary defining feature, cardiac anomalies can occur due to the multisystemic nature."
+      "explanation": "Zellweger Spectrum Disorders can include hypotonia, seizures, abnormal white matter, and structural brain anomalies, correlating with several of the patient's features."
     },
     {
-      "disease_name": "Congenital Disorder of Glycosylation, Type Ik (ALG1-CDG)",
-      "disease_id": "OMIM:608106",
+      "disease_name": "Nemaline Myopathy 2",
+      "disease_id": "OMIM:256030",
       "score": 0.2,
-      "explanation": "ALG1-CDG is a severe neonatal-onset multisystemic disorder characterized by hypotonia, seizures, encephalopathy, and a high incidence of hypertrophic cardiomyopathy and other cardiac anomalies. While not all specific brain structural abnormalities (corpus callosum, brainstem) are universally reported as clearly as in other candidates, general brain involvement (e.g., white matter changes, atrophy) is known. The combination of severe neurological features, prominent cardiomyopathy, and early onset makes it a relevant consideration."
+      "explanation": "Nemaline Myopathy 2 may involve muscle weakness, hypotonia, areflexia, and respiratory involvement, relevant to the described symptoms."
     }
   ]
 }

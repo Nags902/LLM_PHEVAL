@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Enteropathy",
+      "disease_id": "OMIM:615975",
+      "score": 1.0,
+      "explanation": "Autoimmune Enteropathy is a condition that can present with chronic diarrhea due to intestinal involvement and autoimmune hemolytic anemia as part of its systemic autoimmune features. It is consistent with the feature combination in this patient."
+    },
+    {
+      "disease_name": "Common Variable Immune Deficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.5,
+      "explanation": "Common Variable Immune Deficiency can cause autoimmune manifestations, including hemolytic anemia, and gastrointestinal problems such as chronic diarrhea. It is a relevant consideration due to the immune-related symptoms."
+    },
+    {
+      "disease_name": "X-Linked Lymphoproliferative Disease 1",
+      "disease_id": "OMIM:308240",
+      "score": 0.3333,
+      "explanation": "X-Linked Lymphoproliferative Disease can cause immune dysregulation leading to autoimmune hemolytic anemia and gastrointestinal symptoms, including diarrhea. Although rarer, it can fit the profile of the presented symptoms."
+    }
+  ]
+}

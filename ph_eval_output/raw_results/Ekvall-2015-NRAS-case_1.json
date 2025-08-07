@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Noonan Syndrome with Multiple Lentigines (NSML)",
-      "disease_id": "OMIM:151100",
-      "score": 1.0,
-      "explanation": "This condition, formerly known as LEOPARD Syndrome, is the strongest fit due to the highly characteristic combination of freckling (lentigines), cardiomyopathy, growth delay, and classic Noonan facial features including short/broad neck, low posterior hairline, broad forehead, hypertelorism, downslanted palpebral fissures, bilateral ptosis, and low-set ears. Cafe-au-lait spots and ADHD are also compatible features."
-    },
-    {
-      "disease_name": "Noonan Syndrome 1 (PTPN11-related)",
+      "disease_name": "Noonan Syndrome 1",
       "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "The presence of features such as cardiomyopathy, short neck, downslanted palpebral fissures, hypertelorism, and low-set ears are characteristic of Noonan Syndrome. The combination of broad neck, macrocephaly, and growth delay further support this diagnosis. Noonan Syndrome 1 is commonly associated with such phenotypes."
+    },
+    {
+      "disease_name": "Noonan Syndrome 2",
+      "disease_id": "OMIM:605275",
       "score": 0.5,
-      "explanation": "As the most common genetic cause of Noonan Syndrome, this subtype strongly aligns with the patient's core features including growth delay, cardiomyopathy, characteristic facial dysmorphology (hypertelorism, downslanted palpebral fissures, ptosis, low-set ears, short/broad neck, low posterior hairline), feeding difficulties, and ADHD. While freckling and cafe-au-lait spots are more prominent in NSML, they can occur in a broader Noonan spectrum."
+      "explanation": "Similarities to Noonan Syndrome 1 with shared features including hypertelorism, downslanted palpebral fissures, low-set ears, short broad neck, and macrocephaly. Slight phenotypic variations can be observed in subtypes like Noonan Syndrome 2."
     },
     {
-      "disease_name": "Noonan Syndrome 3 (RAF1-related)",
-      "disease_id": "OMIM:611553",
-      "score": 0.333,
-      "explanation": "This specific subtype of Noonan Syndrome is notably associated with a high incidence of hypertrophic cardiomyopathy, which is a key feature in this patient. It also presents with the characteristic growth delay, facial features (short/broad neck, low posterior hairline, hypertelorism, ptosis), and neurodevelopmental findings seen in the patient."
-    },
-    {
-      "disease_name": "Noonan-like syndrome with or without juvenile myelomonocytic leukemia 2 (NF1-related)",
-      "disease_id": "OMIM:619006",
-      "score": 0.25,
-      "explanation": "This rare Noonan Syndrome subtype, caused by NF1 mutations, is relevant due to the presence of cafe-au-lait spots, freckling, macrocephaly, and ADHD, which overlap with classical NF1. Crucially, it combines these features with a Noonan-like phenotype including growth delay, characteristic facial features, and can involve cardiac issues, providing a comprehensive explanation for multiple findings."
-    },
-    {
-      "disease_name": "Cardiofaciocutaneous Syndrome 1 (BRAF-related)",
+      "disease_name": "Cardiofaciocutaneous Syndrome",
       "disease_id": "OMIM:115150",
+      "score": 0.333,
+      "explanation": "Cardiofaciocutaneous Syndrome shares several features with the patient's presentation such as macrocephaly, hypertelorism, cardiac abnormalities like cardiomyopathy, feeding difficulties, and ptosis. Also associated with growth delay and facial dysmorphisms."
+    },
+    {
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.25,
+      "explanation": "Features such as macrocephaly, hypertelorism, cardiomyopathy, feeding difficulties, low-set ears, and developmental issues are in alignment with Costello Syndrome. While freckling and caf\u00e9-au-lait spots are less commonly noted, broad neck and other craniofacial features are suggestive."
+    },
+    {
+      "disease_name": "Watson Syndrome",
+      "disease_id": "OMIM:193520",
       "score": 0.2,
-      "explanation": "CFC Syndrome is a RASopathy that shares significant phenotypic overlap with Noonan Syndrome, including growth delay, hypertrophic cardiomyopathy, distinctive facial features (broad forehead, hypertelorism, ptosis, downslanted palpebral fissures, low-set ears), developmental delay/ADHD, and skin anomalies such as cafe-au-lait spots. It is a strong differential diagnosis within the RASopathy spectrum."
+      "explanation": "Characterized by features like caf\u00e9-au-lait spots, macrocephaly, hypertelorism, and heart defects. The presence of freckling and some additional overlapping features raises the possibility, although it is less likely than the other syndromes listed."
     }
   ]
 }

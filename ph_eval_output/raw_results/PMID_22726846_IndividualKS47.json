@@ -1,22 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Choroid Plexus Papilloma, Familial",
-      "disease_id": "OMIM:600705",
+      "disease_name": "Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome 1",
+      "disease_id": "OMIM:603387",
       "score": 1.0,
-      "explanation": "The presence of 'villous hypertrophy of choroid plexus' (HP:0012422) is highly characteristic of a choroid plexus papilloma (CPP) or a similar benign overgrowth, which is the most common cause of hydrocephalus (HP:0000238) due to CSF overproduction. Intellectual disability (HP:0001249), global developmental delay (HP:0001263), and visual impairment (HP:0000505) with high myopia (HP:0011003) can all be secondary complications of chronic hydrocephalus. While the specific facial features (upslanted palpebral fissure, midface retrusion, protruding tongue) are not typical for isolated CPP, a rare underlying genetic predisposition to CPP that includes these features cannot be excluded, or they could represent co-occurring findings in a complex presentation."
+      "explanation": "The presence of hydrocephalus, intellectual disability, global developmental delay, and facial dysmorphism aligns with Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome 1. Villous hypertrophy of choroid plexus and visual impairment also support this possibility."
     },
     {
-      "disease_name": "Mucopolysaccharidosis Type I, Hurler Syndrome",
-      "disease_id": "OMIM:607014",
+      "disease_name": "Megalencephaly-Capillary Malformation Syndrome",
+      "disease_id": "OMIM:602501",
       "score": 0.5,
-      "explanation": "Mucopolysaccharidosis Type I (Hurler Syndrome) accounts for a significant number of the patient's features. It typically presents with intellectual disability (HP:0001249), global developmental delay (HP:0001263), hydrocephalus (HP:0000238, often communicating due to impaired CSF absorption), visual impairment (HP:0000505) including high myopia (HP:0011003) due to corneal clouding or retinal degeneration, midface retrusion (HP:0011800), and protruding tongue (HP:0010808) due to macroglossia. Although 'villous hypertrophy of choroid plexus' (HP:0012422) is not a classical hallmark of MPS I, other CNS abnormalities like choroid plexus cysts and generalized ventricular enlargement are known. The overall coarse features and progressive neurodevelopmental course fit well."
+      "explanation": "This syndrome is characterized by overgrowth, neurological symptoms like intellectual disability, and possibly hydrocephalus. Some facial features and developmental delays may overlap with the patient's symptoms."
     },
     {
-      "disease_name": "Down Syndrome",
-      "disease_id": "OMIM:190685",
-      "score": 0.33,
-      "explanation": "Down Syndrome (Trisomy 21) strongly matches several key phenotypic features including intellectual disability (HP:0001249), global developmental delay (HP:0001263), upslanted palpebral fissures (HP:0000582), midface retrusion (HP:0011800) (midface hypoplasia), and a protruding tongue (HP:0010808) (relative macroglossia). Visual impairment (HP:0000505) and high myopia (HP:0011003) are also very common. While hydrocephalus (HP:0000238) is less common and not typically due to villous hypertrophy of the choroid plexus (HP:0012422) (though choroid plexus cysts are a known prenatal finding), the strong overall constellation of highly characteristic features makes Down Syndrome an important differential diagnosis."
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos Syndrome exhibits characteristics such as intellectual disability, developmental delay, distinctive facial features, and potential visual issues, which are similar to the patient's presentation."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I",
+      "disease_id": "OMIM:607014",
+      "score": 0.25,
+      "explanation": "Although not highly specific, features such as developmental delay, intellectual disability, and facial dysmorphism might hint at MPS I, but the lack of classical coarse facies reduces confidence."
     }
   ]
 }

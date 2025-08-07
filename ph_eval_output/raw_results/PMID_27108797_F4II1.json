@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Gillespie syndrome is characterized by aniridia, cerebellar ataxia, and intellectual disability. Aniridia and ataxia are key features that align with the patient's symptoms."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "WAGR syndrome includes aniridia, genitourinary anomalies, and intellectual disability. Aniridia presence makes it a potential match, although cerebellar atrophy is not typical."
+    },
+    {
+      "disease_name": "Joubert syndrome 2",
+      "disease_id": "OMIM:608091",
+      "score": 0.3333,
+      "explanation": "Joubert syndrome is associated with cerebellar atrophy, hypotonia, and gait disturbance. Although aniridia is not a typical feature, the neurological manifestations match well."
+    }
+  ]
+}

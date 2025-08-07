@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Usher Syndrome Type 1",
+      "disease_id": "OMIM:276900",
+      "score": 1.0,
+      "explanation": "Usher syndrome is characterized by sensorineural hearing impairment and often involves retinitis pigmentosa. Type 1 is the most severe and begins early in life."
+    },
+    {
+      "disease_name": "Pendred Syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.5,
+      "explanation": "Pendred syndrome often includes sensorineural hearing loss and thyroid problems, which may develop in early adulthood."
+    },
+    {
+      "disease_name": "Waardenburg Syndrome Type 1",
+      "disease_id": "OMIM:193500",
+      "score": 0.3333,
+      "explanation": "Waardenburg syndrome can include sensorineural deafness along with pigmentary abnormalities. Type 1 is commonly associated with dystopia canthorum."
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.25,
+      "explanation": "Alport syndrome can cause sensorineural hearing loss and kidney abnormalities. It is important to rule out kidney findings in the absence of clinical data."
+    },
+    {
+      "disease_name": "Jervell and Lange-Nielsen Syndrome",
+      "disease_id": "OMIM:220400",
+      "score": 0.2,
+      "explanation": "This syndrome primarily involves profound congenital deafness and arrhythmic heart conditions, which might develop over time."
+    }
+  ]
+}

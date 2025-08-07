@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Kabuki syndrome features overlap significantly with this patient's phenotypes, including hearing impairment, wide nasal bridge, long palpebral fissure, eversion of lateral third of lower eyelids, prominent fingertip pads, hypotonia, global developmental delay, and recurrent infections."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome is associated with a variety of facial features and developmental delays, including wide nasal bridge and cardiac issues such as aortic valve stenosis, which aligns with some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.3333333333333333,
+      "explanation": "This syndrome features cardiovascular issues, developmental delay, and distinctive facial features. Some phenotypic overlap with this case includes hypotonia and cardiovascular involvement."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz syndrome features include developmental delays, hypotonia, and craniofacial abnormalities. While not a perfect match, there is some phenotypic overlap."
+    }
+  ]
+}

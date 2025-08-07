@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Albright Hereditary Osteodystrophy is associated with obesity, short metacarpals, and intellectual disability. These features align with the patient's symptoms."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Pseudohypoparathyroidism type 1A, often related to Albright Hereditary Osteodystrophy, shares symptoms including obesity, short stature due to bone abnormalities, and cognitive impairment."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:272700",
+      "score": 0.33,
+      "explanation": "While Turner Syndrome commonly affects females, it can sometimes be considered for similar features like short stature and certain cognitive challenges. However, there is a lower likelihood for this male patient."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl Syndrome can present with obesity and intellectual disability, though the short metacarpal feature is less typical. This syndrome is included due to overlapping features."
+    },
+    {
+      "disease_name": "Laurence-Moon Syndrome",
+      "disease_id": "OMIM:245800",
+      "score": 0.2,
+      "explanation": "Laurence-Moon Syndrome shares some overlap with Bardet-Biedl Syndrome, including obesity and intellectual disability, although it more commonly results in other physical manifestations."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "Smith-Lemli-Opitz Syndrome is associated with microcephaly, hypotonia, and a range of facial dysmorphisms including hypotelorism, high palate, and reported cases with distinctive ear shape and depressed nasal tip, aligning with many of the patient's features."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.5,
+      "explanation": "Pallister-Hall Syndrome can present with features such as lobar holoprosencephaly, seizure disorders, and certain craniofacial anomalies. The overlap with cerebral and facial phenotypes suggests it as a potential condition."
+    },
+    {
+      "disease_name": "Holoprosencephaly 1",
+      "disease_id": "OMIM:236100",
+      "score": 0.3333333333333333,
+      "explanation": "Holoprosencephaly 1 is specifically linked to lobar holoprosencephaly, microcephaly, facial anomalies like hypotelorism, and seizures. The presence of these core features aligns this condition with the patient's symptoms."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki Syndrome 1 features hypotonia, feeding difficulties, joint anomalies like hip dysplasia, and specific facial features such as highly arched eyebrows and long palpebral fissures, which correlate with the patient's profile."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 4",
+      "disease_id": "OMIM:614609",
+      "score": 0.2,
+      "explanation": "Coffin-Siris Syndrome 4 may present with microcephaly, distinctive facial features, hypotonia, and feeding difficulties, providing a partial match to the described phenotypic features."
+    }
+  ]
+}

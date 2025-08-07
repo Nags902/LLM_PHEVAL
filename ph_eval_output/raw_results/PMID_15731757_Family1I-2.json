@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Marfan Syndrome is known to cause aortic root aneurysm and can also present with patent ductus arteriosus and genu valgum due to connective tissue abnormalities."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome can present with aortic root aneurysms and skeletal abnormalities including genu valgum, along with other vascular findings which may include patent ductus arteriosus."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
+      "disease_id": "OMIM:130050",
+      "score": 0.333,
+      "explanation": "Ehlers-Danlos Syndrome, Vascular Type can involve arterial abnormalities such as aneurysms and presents with a variety of connective tissue-related features like joint issues, which could account for genu valgum."
+    }
+  ]
+}

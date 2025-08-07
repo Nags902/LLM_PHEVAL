@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1A",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "This condition matches well with the phenotypic features such as profound intellectual disability, nonprogressive encephalopathy, and hypoplasia of the pons, all of which are characteristic of this disease."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome shares features such as profound intellectual disability and absent speech, and is a more common condition in females, aligning somewhat with the phenotype described albeit EEG abnormalities are less specific."
+    },
+    {
+      "disease_name": "Allan-Herndon-Dudley Syndrome",
+      "disease_id": "OMIM:300523",
+      "score": 0.3333,
+      "explanation": "This syndrome can present with global developmental delay, hypotonia, and intellectual disability, although some other features like dystonia and EEG abnormality are not typically seen."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.25,
+      "explanation": "This leukodystrophy often presents with spasticity, developmental delay, and hypotonia, but does not typically show pontine hypoplasia, which is a limiting characteristic regarding this match."
+    }
+  ]
+}

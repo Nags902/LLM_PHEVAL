@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pompe Disease",
+      "disease_id": "OMIM:232300",
+      "score": 1.0,
+      "explanation": "Pompe Disease is known for its association with infantile hypotonia, hypertrophic cardiomyopathy, respiratory distress, metabolic acidosis, and myopathic changes on EMG, making it highly relevant to the patient's phenotype."
+    },
+    {
+      "disease_name": "X-Linked Myotubular Myopathy",
+      "disease_id": "OMIM:310400",
+      "score": 0.5,
+      "explanation": "This condition presents with severe hypotonia, respiratory failure, congenital myopathy, and facial dysmorphism, aligning closely with the patient's symptoms."
+    },
+    {
+      "disease_name": "Danon Disease",
+      "disease_id": "OMIM:300257",
+      "score": 0.3333333333333333,
+      "explanation": "Danon Disease can present with hypertrophic cardiomyopathy, myopathy, hypotonia, and respiratory difficulties, as seen in this patient."
+    },
+    {
+      "disease_name": "Infantile-Onset Spinocerebellar Ataxia (IOSCA)",
+      "disease_id": "OMIM:271245",
+      "score": 0.25,
+      "explanation": "IOSCA features hypotonia, nystagmus, ataxia, and respiratory failure, which partially overlap with this patient's phenotype."
+    },
+    {
+      "disease_name": "Barth Syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.2,
+      "explanation": "Barth Syndrome includes cardiomyopathy, hypotonia, and metabolic disturbances, fitting some of the patient's key phenotypes."
+    }
+  ]
+}

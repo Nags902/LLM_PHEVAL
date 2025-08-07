@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ellis-van Creveld syndrome",
+      "disease_id": "OMIM:225500",
+      "score": 1.0,
+      "explanation": "Ellis-van Creveld syndrome is known for causing postaxial polydactyly of both hands and feet, intellectual disability, and can sometimes be associated with immunodeficiency leading to recurrent infections."
+    },
+    {
+      "disease_name": "Greig cephalopolysyndactyly syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.5,
+      "explanation": "Greig cephalopolysyndactyly syndrome often presents with postaxial hand and foot polydactyly, and intellectual disability, although recurrent infections are less common."
+    },
+    {
+      "disease_name": "Carpenter syndrome 1",
+      "disease_id": "OMIM:201000",
+      "score": 0.3333,
+      "explanation": "Carpenter syndrome may include polydactyly and intellectual disability, although recurrent infections are not a primary feature."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Joubert syndrome can present with intellectual disability and polydactyly, but recurrent infections are not typical."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz syndrome can involve intellectual disability and polydactyly. Recurrent infections could occur secondary to other health issues."
+    }
+  ]
+}

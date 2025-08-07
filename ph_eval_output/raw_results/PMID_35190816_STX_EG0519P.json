@@ -1,34 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Congenital Disorder of Glycosylation, Type Ia; PMM2-CDG",
-      "disease_id": "OMIM:212065",
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
       "score": 1.0,
-      "explanation": "PMM2-CDG is the most common form of CDG and is strongly associated with a constellation of features including cerebellar hypoplasia, truncal and gait ataxia, dysmetria, hypotonia, global developmental delay, intellectual disability, and severe speech impairment/absent speech. Tremor is also a common feature. While torticollis is not a cardinal feature, dystonia can occur in CDG, which could manifest as torticollis."
+      "explanation": "Ataxia-telangiectasia is characterized by cerebellar ataxia, abnormal eye movements, oculomotor apraxia, and combined immunodeficiency, which aligns closely with the patient's symptoms such as truncal ataxia, dysmetria, and gait disturbance."
     },
     {
-      "disease_name": "Pontocerebellar Hypoplasia, Type 2A",
-      "disease_id": "OMIM:277470",
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
       "score": 0.5,
-      "explanation": "Pontocerebellar hypoplasia, particularly Type 2A, is characterized by severe global developmental delay, profound intellectual disability, hypotonia, and motor dysfunction including prominent truncal and gait ataxia due to cerebellar involvement. Absent speech and broad-based gait are consistent with the severe developmental impairment. Dystonic features, which can include torticollis, are also frequently observed."
+      "explanation": "Friedreich Ataxia is a hereditary degenerative disease that affects the nervous system and the heart, typically presenting with gait and limb ataxia, hypotonia, and sometimes tremors, similar to the patient's presentation."
     },
     {
-      "disease_name": "Aromatic L-Amino Acid Decarboxylase Deficiency",
-      "disease_id": "OMIM:608643",
-      "score": 0.33,
-      "explanation": "AADC deficiency is a severe neurotransmitter disorder presenting in infancy with profound hypotonia, global developmental delay, intellectual disability, and characteristic movement disorders including dystonia (often presenting as torticollis and oculogyric crises), tremor, and gait ataxia. Absent speech is a common feature due to the severity of the neurological involvement."
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.3333333333333333,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that primarily affects females, distinguished by normal early growth followed by a loss of purposeful hand skills, absent speech, gait abnormalities, and tremors, correlating with the patient's features."
     },
     {
-      "disease_name": "Joubert Syndrome 1",
-      "disease_id": "OMIM:213300",
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
       "score": 0.25,
-      "explanation": "Joubert Syndrome and related disorders are characterized by a malformation of the brainstem and cerebellum (molar tooth sign), leading to hypotonia, global developmental delay, intellectual disability, and ataxia (truncal, gait, limb, dysmetria). Speech is often severely impaired or absent. While torticollis is not a primary feature, other neurological symptoms like abnormal eye movements or dystonia could lead to it."
+      "explanation": "Spinocerebellar ataxia type 1 is marked by ataxia, dysarthria, ophthalmoplegia, and sometimes cognitive decline, which matches some of the patient's phenotypic characteristics, such as tremor and limb ataxia."
     },
     {
-      "disease_name": "Leigh Syndrome",
-      "disease_id": "OMIM:256000",
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
       "score": 0.2,
-      "explanation": "Leigh Syndrome is a severe, progressive neurodegenerative disorder affecting mitochondrial function, commonly presenting in infancy or early childhood. Key features include psychomotor regression, hypotonia, ataxia, dystonia (which can present as torticollis), intellectual disability, and respiratory abnormalities. Tremor and dysmetria are also consistent with the widespread neurological dysfunction."
+      "explanation": "Pelizaeus-Merzbacher disease is a genetic disorder affecting myelination in the central nervous system, leading to symptoms like nystagmus, hypotonia, and developmental delay, which are consistent with the patient's symptoms."
     }
   ]
 }

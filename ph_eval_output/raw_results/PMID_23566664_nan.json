@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Frontometaphyseal Dysplasia",
+      "disease_id": "OMIM:305620",
+      "score": 1.0,
+      "explanation": "The combination of skeletal abnormalities, including osteolytic defects, osteoporosis, vertebral compression fractures, facial features, and short stature strongly suggests this condition. The absence of similar cases in the database does not rule out this rare disorder."
+    },
+    {
+      "disease_name": "Hajdu-Cheney Syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 0.5,
+      "explanation": "Features such as osteoporosis, osteolytic defects, and characteristic facial structures align with this disorder. However, the thick eyebrows and large earlobe are less specific to this condition."
+    },
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.333,
+      "explanation": "Short stature, osteolytic defects, and facial abnormalities are consistent with Pycnodysostosis. The presence of vertebral compression fractures supports this possibility despite the age of the patient."
+    },
+    {
+      "disease_name": "Saethre-Chotzen Syndrome",
+      "disease_id": "OMIM:101400",
+      "score": 0.25,
+      "explanation": "This condition includes features such as facial abnormalities and skeletal anomalies. However, the specific combination of skeletal findings like vertebral and phalangeal issues is less typical."
+    }
+  ]
+}

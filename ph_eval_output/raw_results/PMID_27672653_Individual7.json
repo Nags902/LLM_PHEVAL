@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Acidemia Type 1",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "All phenotypic features such as elevated urine 3-hydroxyglutaric acid levels, glutaric aciduria, macrocephaly, and developmental regression are consistent with Glutaric Acidemia Type 1, a disorder of lysine, hydroxylysine, and tryptophan metabolism. Subdural hemorrhage and cerebral atrophy are common secondary features."
+    },
+    {
+      "disease_name": "Glutaric Acidemia Type 2",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "While some features overlap with Glutaric Acidemia Type 2, such as metabolic issues and potential cerebral involvement, the presence of elevated urine 3-hydroxyglutaric levels is more directly indicative of Type 1."
+    }
+  ]
+}

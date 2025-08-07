@@ -1,40 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Activated PI3K-delta Syndrome 1",
-      "disease_id": "OMIM:615513",
+      "disease_name": "Common Variable Immunodeficiency 1",
+      "disease_id": "OMIM:607594",
       "score": 1.0,
-      "explanation": "This syndrome directly causes a Common Variable Immunodeficiency (CVID)-like phenotype that highly aligns with all presented features: recurrent sinopulmonary infections (sinusitis), hypogammaglobulinemia (low IgA and IgM), B lymphocytopenia, and especially the significant reduction in class-switched memory B cells. APDS is characterized by a specific constellation of immune dysregulation involving B cells."
+      "explanation": "Common Variable Immunodeficiency (CVID) is characterized by decreased levels of IgA and IgM, recurrent infections like sinusitis, and decreased specific antibody response to vaccines. The patient's features closely match those seen in CVID."
     },
     {
-      "disease_name": "LPS-Responsive And Beige-Like Anchor Protein Deficiency",
-      "disease_id": "OMIM:614704",
+      "disease_name": "Hyper IgM Syndrome Type 1",
+      "disease_id": "OMIM:308230",
       "score": 0.5,
-      "explanation": "LRBA deficiency is a well-recognized cause of CVID-like disease. It is characterized by recurrent infections (e.g., sinusitis), hypogammaglobulinemia (low IgA and IgM are common), and profound B cell defects, including B lymphocytopenia and a significant decrease in class-switched memory B cells, making it a strong match for the patient's phenotype."
+      "explanation": "Hyper IgM Syndrome Type 1 is an immunodeficiency disorder with features such as decreased class-switched memory B cells and low circulating IgA. The recurrent infections and B cell abnormalities align with this condition."
     },
     {
-      "disease_name": "Immunodeficiency, Common Variable, 13",
-      "disease_id": "OMIM:616339",
-      "score": 0.3333333333333333,
-      "explanation": "Haploinsufficiency of NFKB1 (CVID13) is a frequent monogenic cause of CVID, presenting with hypogammaglobulinemia (often affecting IgA and IgM), recurrent sinopulmonary infections, impaired specific antibody responses, and various B cell defects, including reduced B cell numbers and impaired class-switched memory B cell formation, closely matching the patient's presentation."
-    },
-    {
-      "disease_name": "CTLA4 Haploinsufficiency with Autoimmune Infiltration",
-      "disease_id": "OMIM:616360",
-      "score": 0.25,
-      "explanation": "CTLA4 haploinsufficiency presents as a primary immunodeficiency with features overlapping CVID, including recurrent infections, hypogammaglobulinemia (low IgA, IgG, and often IgM), impaired vaccine responses, and B cell dysfunction, specifically affecting class-switched memory B cells. These features are highly consistent with the patient's profile."
-    },
-    {
-      "disease_name": "Immunodeficiency, Common Variable, 1",
-      "disease_id": "OMIM:613470",
-      "score": 0.2,
-      "explanation": "Mutations in TNFRSF13B (TACI), which cause CVID type 1, are a common genetic cause and susceptibility factor for CVID. This deficiency leads to hypogammaglobulinemia (often including low IgA and IgM), impaired specific antibody responses, and contributes to the B cell defects observed, including issues with class switching."
-    },
-    {
-      "disease_name": "Agammaglobulinemia, X-linked",
+      "disease_name": "X-linked Agammaglobulinemia",
       "disease_id": "OMIM:300755",
-      "score": 0.16666666666666666,
-      "explanation": "X-linked agammaglobulinemia (XLA) results in a profound deficiency or absence of B cells and all immunoglobulin classes (IgA, IgM, IgG), leading to severe recurrent infections like sinusitis. While the B lymphocytopenia and low IgA/IgM fit, the description 'decreased proportion of class-switched memory B cells' is less characteristic for XLA, which typically has near-absent peripheral B cells rather than a defect in a subset of present B cells. However, given the patient's gender and severity, it remains an important differential."
+      "score": 0.3333,
+      "explanation": "This condition results in significantly reduced levels of all immunoglobulin classes and recurrent bacterial infections. While IgM and IgA are specifically decreased, the combination of features is somewhat consistent with this disease, although B lymphocytopenia is more prominent."
     }
   ]
 }

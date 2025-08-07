@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt Disease is known for macular atrophy, reduced visual acuity, and nystagmus in some cases. It is one of the primary considerations for a patient with these symptoms."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa 1",
+      "disease_id": "OMIM:180100",
+      "score": 0.5,
+      "explanation": "While more commonly associated with peripheral vision loss, some forms of retinitis pigmentosa can have macular atrophy and reduced visual acuity as presenting features. Nystagmus is less common but can occur."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 1",
+      "disease_id": "OMIM:600624",
+      "score": 0.3333333333333333,
+      "explanation": "Cone-rod dystrophy fits the triad of symptoms including macular atrophy, reduced visual acuity, and can sometimes present with nystagmus, making it a possible candidate."
+    },
+    {
+      "disease_name": "Best Vitelliform Macular Dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.25,
+      "explanation": "Best Disease is primarily characterized by macular degeneration, particularly affecting the fovea, which could theoretically account for macular atrophy and visual acuity reduction. Nystagmus is not typical but possible."
+    }
+  ]
+}

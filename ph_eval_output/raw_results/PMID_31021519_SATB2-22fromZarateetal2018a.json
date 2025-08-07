@@ -1,40 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Prader-Willi Syndrome",
-      "disease_id": "OMIM:176270",
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
       "score": 1.0,
-      "explanation": "This syndrome is a very strong match for the patient's features. It typically presents with hypotonia and feeding difficulties in infancy, followed by global developmental delay, intellectual disability, growth delay (short stature due to growth hormone deficiency), and importantly, reduced bone mineral density is a well-recognized and common complication. Dental abnormalities (e.g., increased caries, enamel hypoplasia) can also be observed."
+      "explanation": "Coffin-Lowry syndrome can present with intellectual disability, developmental delay, reduced bone mineral density, feeding difficulties, and delayed motor milestones, aligning well with the patient's symptoms."
     },
     {
-      "disease_name": "Kabuki Syndrome 1",
-      "disease_id": "OMIM:147920",
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
       "score": 0.5,
-      "explanation": "Kabuki Syndrome 1 (KMT2D-related) fits many of the phenotypic features, including feeding difficulties in infancy, global developmental delay, intellectual disability, growth delay, and characteristic dental abnormalities (e.g., microdontia, widely spaced teeth, malocclusion). While not a primary diagnostic criterion, reduced bone mineral density and skeletal anomalies have been reported in some individuals with Kabuki syndrome."
+      "explanation": "Williams syndrome features intellectual disability, developmental delay, distinctive facial features including dental abnormalities, and sometimes feeding difficulties and growth delay, fitting some of the patient's phenotypic features."
     },
     {
-      "disease_name": "Kabuki Syndrome 2",
-      "disease_id": "OMIM:300867",
-      "score": 0.33,
-      "explanation": "Kabuki Syndrome 2 (KDM6A-related) shares a largely overlapping clinical presentation with Kabuki Syndrome 1, also featuring feeding difficulties, global developmental delay, intellectual disability, growth delay, and distinct dental anomalies. Reduced bone mineral density can be observed in affected individuals, similar to Type 1."
-    },
-    {
-      "disease_name": "Coffin-Siris Syndrome 1",
-      "disease_id": "OMIM:135900",
-      "score": 0.25,
-      "explanation": "Coffin-Siris syndrome is characterized by intellectual disability, global developmental delay, growth delay, feeding difficulties, and often, hypoplastic nails and distinct facial features. Dental abnormalities, such as hypoplastic teeth or abnormal eruption, are commonly reported. While reduced bone mineral density is not a cardinal feature, it can occur in syndromic conditions with significant developmental delay and impaired mobility."
-    },
-    {
-      "disease_name": "Osteogenesis Imperfecta, Type III",
-      "disease_id": "OMIM:259420",
-      "score": 0.2,
-      "explanation": "This severe form of osteogenesis imperfecta is characterized by significant reduced bone mineral density, multiple fractures, and severe growth delay. Feeding difficulties and delayed ability to walk are common due to bone fragility and physical limitations. Dental abnormalities (Dentinogenesis Imperfecta) are a frequent associated feature. While intellectual disability is not a primary feature of all OI types, severe physical disability in Type III can lead to significant global developmental delay, and some individuals may have intellectual impairment due to severe complications or specific genetic variants."
-    },
-    {
-      "disease_name": "Hypophosphatasia, Childhood Form",
-      "disease_id": "OMIM:241500",
-      "score": 0.16,
-      "explanation": "Hypophosphatasia is a metabolic bone disorder characterized by defective bone and tooth mineralization, leading to reduced bone mineral density and dental abnormalities (e.g., premature tooth loss, dental caries). Growth delay is a common feature. While intellectual disability is not a hallmark, severe forms presenting in childhood can manifest with feeding difficulties and varying degrees of developmental delay due to systemic impact."
+      "disease_name": "Smith-McCort Dysplasia 2",
+      "disease_id": "OMIM:615222",
+      "score": 0.333,
+      "explanation": "Smith-McCort dysplasia can involve short stature, developmental delay, and skeletal abnormalities, including reduced bone mineral density, which are consistent with the patient's symptoms."
     }
   ]
 }

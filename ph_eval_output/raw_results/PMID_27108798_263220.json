@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Gillespie Syndrome",
-      "disease_id": "OMIM:206700",
-      "score": 1.0,
-      "explanation": "This syndrome is an excellent fit as it is primarily characterized by the unique combination of congenital aniridia (explaining iris and foveal hypoplasia, and visual impairment), non-progressive cerebellar ataxia, hypotonia, intellectual disability (often mild), and profound developmental delays (including speech and motor milestones like sitting and walking). Cerebellar atrophy/hypoplasia are also reported features in Gillespie syndrome, making this diagnosis highly consistent with the patient's phenotype."
-    },
-    {
-      "disease_name": "PAX6-related Aniridia spectrum disorder",
-      "disease_id": "OMIM:607310",
-      "score": 0.5,
-      "explanation": "Mutations in the PAX6 gene are the most common cause of aniridia, which directly accounts for the iris and foveal hypoplasia and visual impairment. While classic Gillespie syndrome is often due to ITPR1 mutations, PAX6 mutations can cause a broader spectrum of disorders that include aniridia alongside associated neurological features such as intellectual disability, cerebellar hypoplasia/atrophy, ataxia, and developmental delays, closely mimicking the patient's presentation."
-    },
-    {
-      "disease_name": "Pontocerebellar Hypoplasia",
-      "disease_id": "OMIM:605671",
-      "score": 0.333,
-      "explanation": "This is a heterogeneous group of neurodevelopmental disorders characterized by primary hypoplasia and/or atrophy of the cerebellum and pons. This accounts very well for the ataxia, hypotonia, intellectual disability, cerebellar atrophy, cerebellar hypoplasia, and severe motor and speech delays. While specific iris and foveal hypoplasia are not universal or hallmark features of all PCH types, visual impairment due to other ocular issues (e.g., optic atrophy) can occur in some forms. This diagnosis strongly explains the central neurological and developmental components."
-    },
-    {
-      "disease_name": "Joubert Syndrome and Related Disorders",
+      "disease_name": "Joubert syndrome 1",
       "disease_id": "OMIM:213300",
-      "score": 0.25,
-      "explanation": "Joubert Syndrome is a ciliopathy characterized by cerebellar vermis hypoplasia/aplasia (the 'molar tooth sign'), leading to core features such as ataxia, hypotonia, developmental delay, and intellectual disability. Ocular anomalies like retinal dystrophy and oculomotor apraxia are common, causing visual impairment. While iris and foveal hypoplasia are not typical hallmarks, the overall neuro-ophthalmic and motor profile, including the possibility of scoliosis, makes it a plausible differential diagnosis, especially given the prominent cerebellar features."
+      "score": 1.0,
+      "explanation": "Joubert syndrome is characterized by ataxia, intellectual disability, cerebellar atrophy/hypoplasia, and eye abnormalities such as hypoplasia of the fovea, which match several phenotypic features presented by the patient."
     },
     {
-      "disease_name": "Ataxia-telangiectasia",
-      "disease_id": "OMIM:208900",
-      "score": 0.2,
-      "explanation": "This is a progressive neurodegenerative disorder known for cerebellar ataxia, cerebellar atrophy, intellectual disability, hypotonia, and motor developmental delays, which align well with many of the patient's neurological symptoms and age of presentation. However, the specific ocular findings of iris and foveal hypoplasia are not characteristic features; instead, oculocutaneous telangiectasias are typical, which are not mentioned in the patient's phenotype. Therefore, it is considered less likely than the diagnoses that encompass both the ocular and cerebellar findings."
+      "disease_name": "Cohen syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.5,
+      "explanation": "Cohen syndrome can present with hypotonia, intellectual disability, delayed development, and visual impairment, aligning with the patient's symptoms, though not all key features are fully consistent."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.3333,
+      "explanation": "Walker-Warburg syndrome may include features like cerebellar hypoplasia, eye malformations, and developmental delays, fitting several patient characteristics, but generally presents more severely."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.25,
+      "explanation": "Aicardi syndrome involves vision abnormalities, intellectual disability, and skeletal anomalies, matching some features, but is usually seen in females and not all features align."
     }
   ]
 }

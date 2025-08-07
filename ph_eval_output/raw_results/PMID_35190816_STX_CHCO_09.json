@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by infantile spasms, hypsarrhythmia, and developmental delay, which strongly match the patient's symptoms."
+    },
+    {
+      "disease_name": "OTC Deficiency",
+      "disease_id": "OMIM:311250",
+      "score": 0.5,
+      "explanation": "Ornithine transcarbamylase deficiency can present with seizures, encephalopathy, and developmental delay, aligning with several of the patient's features."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.3333333333333333,
+      "explanation": "This disorder presents with infantile spasms, focal seizures, and severe developmental delay, similar to the patient's condition."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet Syndrome involves various forms of seizures, hypotonia, and developmental delays, although typically accompanied by myoclonic seizures that may not align perfectly here."
+    },
+    {
+      "disease_name": "SCN1A-related seizure disorders",
+      "disease_id": "OMIM:182389",
+      "score": 0.2,
+      "explanation": "Mutations in SCN1A are associated with a spectrum of seizure disorders, including infantile spasms and encephalopathy, but may not fully explain all EEG findings."
+    }
+  ]
+}

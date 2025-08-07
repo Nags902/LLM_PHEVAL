@@ -1,22 +1,34 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
-      "disease_id": "OMIM:601785",
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
       "score": 1.0,
-      "explanation": "This is the most likely diagnosis. PMM2-CDG comprehensively matches a wide array of the patient's symptoms, including profound intellectual disability, global developmental delay, motor delay, absent speech, generalized hypotonia, hyporeflexia, seizures, multifocal epileptiform discharges, and cerebral visual impairment. Key dysmorphic features such as high palate, tented upper lip vermilion, and highly arched eyebrows are frequently observed. Notably, hirsutism is a known feature, and the characteristic metabolic abnormalities of hypercholesterolemia and hypertriglyceridemia are highly consistent with PMM2-CDG due to liver involvement and abnormal lipoprotein synthesis. Decreased fetal movement and tube feeding are also commonly reported."
+      "explanation": "Angelman syndrome is characterized by intellectual disability, absent speech, seizures, and motor delay, which align with the patient's phenotypic features. Although not all features exactly match, the profound intellectual disability and absent speech are highly suggestive."
     },
     {
-      "disease_name": "Zellweger Syndrome Spectrum Disorder (e.g., PEX1-related)",
-      "disease_id": "OMIM:601538",
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610042",
       "score": 0.5,
-      "explanation": "Zellweger Syndrome Spectrum Disorders are a strong second candidate. These peroxisomal biogenesis disorders frequently present with profound intellectual disability, global developmental delay, motor delay, generalized hypotonia, seizures, multifocal epileptiform discharges, cerebral visual impairment, and decreased fetal movement. Dysmorphic features such as high palate and highly arched eyebrows can be seen. Importantly, dyslipidemia, including hypercholesterolemia and hypertriglyceridemia, is a recognized metabolic feature due to impaired peroxisomal function. While hirsutism and the specific tented upper lip vermilion are less consistently reported compared to PMM2-CDG, the overall neurological and metabolic profile aligns very well."
+      "explanation": "Pitt-Hopkins syndrome shares features such as intellectual disability, absent speech, and seizures with the patient. Tented upper lip and motor delay also fit, although some metabolic features like hypercholesterolemia are not typical."
     },
     {
-      "disease_name": "Lysosomal Acid Lipase Deficiency (Wolman Disease / Cholesterol Ester Storage Disease)",
-      "disease_id": "OMIM:278000",
-      "score": 0.3333333333333333,
-      "explanation": "This condition is a compelling candidate primarily due to the hallmark presence of both hypercholesterolemia and hypertriglyceridemia, which are pathognomonic for LIPA deficiency. While Wolman disease (severe infantile form) and Cholesterol Ester Storage Disease (milder form) are characterized by prominent hepatic and gastrointestinal involvement, developmental delay can occur. However, the profound intellectual disability, complex seizure phenotype, and specific dysmorphic features (tented upper lip vermilion, highly arched eyebrow) and hirsutism are less consistently or profoundly associated with LIPA deficiency as primary features compared to the top two candidates, making it a slightly less comprehensive fit despite the excellent metabolic match."
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.3333,
+      "explanation": "Mowat-Wilson syndrome includes intellectual disability, seizures, and motor delay, similar to the patient's presentation. The craniofacial features bear some resemblance as well, including high palate and hirsutism."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.25,
+      "explanation": "Although not a perfect match, Smith-Magenis syndrome presents intellectual disability and behavioral issues, and shares some cranial features, such as tented lip and hypotonia. However, the hyperlipidemia is not typical."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett syndrome, primarily affecting females but possible in males with atypical presentations, includes developmental delay, intellectual disability, and seizures. The presentation matches in some aspects, though not all features align perfectly."
     }
   ]
 }

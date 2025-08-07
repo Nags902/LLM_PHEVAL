@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "Albright Hereditary Osteodystrophy is characterized by short stature, short metacarpals, and intellectual disability, aligning closely with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Pseudohypoparathyroidism type 1A, a variant of Albright Hereditary Osteodystrophy, shares phenotypic features including short stature and short metacarpals. Intellectual disability is also observed in some cases."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.3333333333333333,
+      "explanation": "Turner Syndrome typically presents with short stature and can include cognitive impairment. However, short metacarpals are less common, making it a less likely match."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome can include short stature and intellectual disability, although short metacarpals are not a hallmark symptom, making this a less probable diagnosis."
+    }
+  ]
+}

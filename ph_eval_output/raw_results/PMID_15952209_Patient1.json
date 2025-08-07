@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leri-Weill Dyschondrosteosis",
+      "disease_id": "OMIM:127300",
+      "score": 1.0,
+      "explanation": "Leri-Weill Dyschondrosteosis is characterized by features such as mesomelia, brachydactyly, and short stature, which align with the patient's presentation. Frontal bossing and hypertelorism can also sometimes be observed."
+    },
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "Robinow Syndrome exhibits features such as mesomelia, brachydactyly, frontal bossing, hypertelorism, and genital abnormalities like micropenis, which match several of the patient's features."
+    },
+    {
+      "disease_name": "Acrodysostosis 1, With or Without Hormone Resistance",
+      "disease_id": "OMIM:101800",
+      "score": 0.333,
+      "explanation": "Acrodysostosis is associated with features like brachydactyly, broad thumbs, short stature, and facial dysmorphisms including a short nose and frontal bossing that correlate with the patient's symptoms."
+    },
+    {
+      "disease_name": "Brachydactyly Type B1",
+      "disease_id": "OMIM:113000",
+      "score": 0.25,
+      "explanation": "Brachydactyly Type B1 is characterized by brachydactyly, small nails, and symphalangism, which can be seen in the patient's phenotype, although other systemic features are less typical."
+    }
+  ]
+}

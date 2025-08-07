@@ -1,16 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "22q11.2 Deletion Syndrome",
-      "disease_id": "OMIM:605437",
+      "disease_name": "DiGeorge Syndrome 1",
+      "disease_id": "OMIM:188400",
       "score": 1.0,
-      "explanation": "This syndrome is the classic and most common cause of the described triad: hypoparathyroidism (due to parathyroid gland hypoplasia/aplasia), aplasia/hypoplasia of the thymus, and subsequent T lymphocytopenia. These features result from abnormal development of the 3rd and 4th pharyngeal pouches, which are affected by the 22q11.2 deletion."
+      "explanation": "DiGeorge Syndrome, also known as 22q11.2 deletion syndrome, is characterized by hypoparathyroidism, thymic aplasia/hypoplasia, and T lymphocytopenia, making it the most likely causative disease given the patient's symptoms."
+    },
+    {
+      "disease_name": "DiGeorge Syndrome 2",
+      "disease_id": "OMIM:609535",
+      "score": 0.5,
+      "explanation": "DiGeorge Syndrome 2 represents other genetic variations and deletions that can present similarly with hypoparathyroidism, thymic defects, and lymphocytopenia, although it is less common."
     },
     {
       "disease_name": "CHARGE Syndrome",
       "disease_id": "OMIM:214800",
-      "score": 0.5,
-      "explanation": "While less commonly presenting solely with this specific triad, CHARGE syndrome (caused by mutations in CHD7) can involve hypoparathyroidism and immune deficiencies, including T-cell issues, due to thymic hypoplasia. It is a broad developmental disorder with some potential phenotypic overlap, making it a distant but relevant differential."
+      "score": 0.3333,
+      "explanation": "CHARGE syndrome can sometimes include hypoparathyroidism and thymus abnormalities. Though not as classic a presentation as DiGeorge syndrome, it remains a possibility given the phenotypic overlap."
+    },
+    {
+      "disease_name": "Hypoparathyroidism-Retardation-Dysmorphism (HRD) Syndrome",
+      "disease_id": "OMIM:241410",
+      "score": 0.25,
+      "explanation": "Features of HRD syndrome include hypoparathyroidism, with occasional reports of immune defects. However, this explanation fits less well as thymic or lymphocyte issues are not central features."
     }
   ]
 }

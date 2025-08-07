@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by infantile spasms, hypsarrhythmia, and developmental delay, matching several key features such as infantile spasms, EEG with burst suppression, and hypsarrhythmia. It is commonly associated with severe intellectual disability and various seizure types as observed in the patient."
+    },
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "Ohtahara Syndrome involves early-onset epileptic encephalopathy, burst suppression on EEG, and severe developmental impairment, similar to the patient profile. The presence of epileptic encephalopathy and multiple forms of seizures support its consideration."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Dravet Syndrome is associated with myoclonic and tonic seizures, developmental delay, and encephalopathy, making it a relevant consideration due to the shared seizure types and severe intellectual disability present in the patient."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:620100",
+      "score": 0.25,
+      "explanation": "Lennox-Gastaut Syndrome features multiple seizure types and an EEG pattern that can evolve from burst suppression, fitting the patient\u2019s seizure profile and intellectual disability. Its characteristic of generalized tonic seizures aligns with the patient's symptoms."
+    }
+  ]
+}

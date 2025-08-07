@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Cornelia de Lange Syndrome 1 is characterized by intellectual disability, synophrys, thick eyebrows, low anterior hairline, and short stature, which aligns closely with the patient's symptoms."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "Williams-Beuren Syndrome also presents with intellectual disability, attention deficit, and distinctive facial features. However, some specific features like synophrys and low anterior hairline are more typical of Cornelia de Lange Syndrome."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.333,
+      "explanation": "Kabuki Syndrome 1 shares features such as intellectual disability, global developmental delay, thick eyebrows, and short stature, but it is less commonly associated with synophrys and low anterior hairline compared to Cornelia de Lange Syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome 1 involves intellectual disability, short stature, and specific facial features, but doesn't as commonly present with synophrys as Cornelia de Lange Syndrome."
+    }
+  ]
+}

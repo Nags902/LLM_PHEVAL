@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 1.0,
+      "explanation": "Friedreich Ataxia is associated with ataxia, loss of ambulation, nystagmus, spastic paraparesis, sensorimotor neuropathy, and often cognitive impairment. Optic atrophy and progressive visual loss can occur, and increased CSF lactate is observed in some cases."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome, Encephalomyopathic Form",
+      "disease_id": "OMIM:251880",
+      "score": 0.5,
+      "explanation": "This condition can present with cerebral and cerebellar atrophy, optic atrophy, progressive visual loss, increased CSF lactate, and neurological features such as ataxia and neuropathy. Loss of ambulation and cognitive impairment can also occur."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.3333,
+      "explanation": "Leigh Syndrome can cause progressive neurological decline including ataxia, nystagmus, neuropathy, increased CSF lactate, and cerebral involvement. Patients often experience visual loss, cognitive impairment, and can eventually lose ambulation."
+    },
+    {
+      "disease_name": "Spastic Paraplegia 7 (SPG7)",
+      "disease_id": "OMIM:607259",
+      "score": 0.25,
+      "explanation": "SPG7 is associated with spastic paraparesis, ataxia, and optic atrophy. While less common, it can include features such as nystagmus, visual impairment, and sensorimotor neuropathy, fitting with some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth Disease Type 2A2A",
+      "disease_id": "OMIM:609260",
+      "score": 0.2,
+      "explanation": "This type of CMT disease is associated with progressive neurological decline, sensorimotor neuropathy, and optic atrophy. Less often, it can involve cerebellar atrophy, cognitive impairments, and increased CSF lactate."
+    }
+  ]
+}

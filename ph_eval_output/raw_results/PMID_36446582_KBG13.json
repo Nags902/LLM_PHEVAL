@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is associated with intellectual disability, attention deficit hyperactivity disorder, distinctive facial features such as a triangular face and thick eyebrows, motor delay, short stature, feeding difficulties, and recurrent otitis media."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome is characterized by intellectual disability, attention deficit hyperactivity disorder, overgrowth features such as macrodontia, and distinctive facial features including a long philtrum. Short stature and global developmental delay are also noted, although microcephaly is less typical."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "Williams-Beuren Syndrome can present with intellectual disability, attention deficits, distinctive facial features, short stature, and feeding difficulties. While not all features are present, overlapping characteristics warrant consideration."
+    },
+    {
+      "disease_name": "Jordan's Syndrome",
+      "disease_id": "OMIM:239300",
+      "score": 0.25,
+      "explanation": "Jordan's Syndrome presents with intellectual disability, microcephaly, developmental delay, and distinctive facial features similar to those in the clinical data. Despite lacking direct reference, it remains a plausible candidate."
+    }
+  ]
+}

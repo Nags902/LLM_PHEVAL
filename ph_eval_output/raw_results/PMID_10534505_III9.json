@@ -1,22 +1,22 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Amyloidosis, AL-Type, Systemic",
-      "disease_id": "OMIM:105200",
-      "score": 1.0,
-      "explanation": "AL amyloidosis is the most common form of systemic amyloidosis and frequently involves deposition in multiple organs, including the kidneys and liver. This directly explains the renal amyloidosis, hepatic amyloidosis, resulting renal insufficiency, and associated anemia."
-    },
-    {
-      "disease_name": "Familial Mediterranean Fever (leading to AA Amyloidosis)",
+      "disease_name": "Familial Mediterranean Fever, Type 1",
       "disease_id": "OMIM:249100",
-      "score": 0.5,
-      "explanation": "Familial Mediterranean Fever (FMF) is a genetic autoinflammatory disorder that can cause chronic inflammation, leading to secondary (AA) amyloidosis. AA amyloidosis classically affects the kidneys and liver, causing renal amyloidosis, hepatic amyloidosis, subsequent renal insufficiency, and anemia of chronic disease."
+      "score": 1.0,
+      "explanation": "Familial Mediterranean Fever is associated with amyloidosis affecting kidneys and liver, along with renal insufficiency, which explains the patient's renal and hepatic amyloidosis."
     },
     {
-      "disease_name": "Amyloidosis, Transthyretin Type, Systemic 1 (hATTR)",
+      "disease_name": "Primary Systemic Amyloidosis",
+      "disease_id": "OMIM:105200",
+      "score": 0.5,
+      "explanation": "Primary systemic amyloidosis typically involves renal and hepatic systems and can lead to renal insufficiency and anemia, aligning well with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Hereditary Amyloidosis, Transthyretin-Related",
       "disease_id": "OMIM:105210",
       "score": 0.333,
-      "explanation": "Hereditary transthyretin (hATTR) amyloidosis is a systemic amyloidosis caused by mutations in the TTR gene. While often characterized by neuropathy and cardiomyopathy, it can also involve the kidneys and liver, potentially leading to renal amyloidosis, hepatic amyloidosis, renal insufficiency, and anemia."
+      "explanation": "This form of hereditary amyloidosis affects multiple organs, including the liver and kidneys, causing amyloid deposition, supporting renal and hepatic amyloidosis in this patient."
     }
   ]
 }

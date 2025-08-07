@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "Kabuki Syndrome is characterized by distinctive facial features, intellectual disability, and developmental delay. Features such as low-set ears, thin upper lip vermilion, microtia, seizure, and hypotonia align with this condition. Sparse scalp hair and hypertrichosis can variably be present."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "Similar to Kabuki Syndrome 1, Kabuki Syndrome 2 shares overlapping features, including intellectual disability, hypotonia, and distinctive facial characteristics. Mutations in different genes cause similar phenotypic outcomes."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:192430",
+      "score": 0.3333,
+      "explanation": "22q11.2 Deletion Syndrome can present with facial dysmorphisms (low-set ears, microtia), intellectual disability, hypotonia, seizures, and developmental delays, closely matching the patient's phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "This syndrome features distinct facial dysmorphisms, developmental delays, intellectual disability, and hypotonia. The presence of autistic behaviors and abnormalities in hair growth like sparse scalp hair and hypertrichosis is also associated."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Characterized by distinctive facial features, intellectual disability, hypotonia, and autistic behaviors, along with behavioral abnormalities. Some phenotypic variance includes seizures and low body weight."
+    }
+  ]
+}

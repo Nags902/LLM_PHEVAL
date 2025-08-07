@@ -1,34 +1,28 @@
 {
   "ranked_diseases": [
     {
-      "disease_name": "Lafora Disease (EPM2A)",
+      "disease_name": "Lafora Disease",
       "disease_id": "OMIM:254780",
       "score": 1.0,
-      "explanation": "Lafora disease is a classic progressive myoclonic epilepsy (PME) characterized by myoclonus, generalized tonic-clonic seizures, typical absence seizures, and rapidly progressive dementia. Gait disturbance and progressive neurologic deterioration are also prominent features. The onset typically occurs in late childhood or adolescence, which fits the patient's age (P20Y). Mutations in EPM2B (OMIM:607874) also cause Lafora disease with similar phenotypes."
+      "explanation": "Lafora Disease is characterized by myoclonic seizures, progressive neurologic deterioration, and dementia, which aligns with this patient's symptoms."
     },
     {
-      "disease_name": "Mitochondrial Encephalomyopathy, Myoclonic Epilepsy and Ragged Red Fibers (MERRF Syndrome)",
-      "disease_id": "OMIM:545000",
-      "score": 0.5,
-      "explanation": "MERRF syndrome is a mitochondrial disorder that presents as a progressive myoclonic epilepsy syndrome. Key features include myoclonus, various forms of epilepsy (including myoclonic, tonic-clonic, and absence seizures), ataxia (leading to gait disturbance), and progressive cognitive decline/dementia. Progressive neurological deterioration is a hallmark. The onset typically occurs in late childhood or early adulthood, fitting the patient's age."
-    },
-    {
-      "disease_name": "Unverricht-Lundborg Disease (ULD)",
+      "disease_name": "Unverricht-Lundborg Syndrome",
       "disease_id": "OMIM:254800",
-      "score": 0.33,
-      "explanation": "Unverricht-Lundborg disease is the most common form of progressive myoclonic epilepsy (PME). It is characterized by severe, stimulus-sensitive myoclonus, generalized tonic-clonic seizures, and progressive neurological deterioration including gait disturbance. While cognitive decline and dementia can occur, especially in later stages, it is often less pronounced or later-onset compared to Lafora disease or MERRF, but still a strong candidate for PME."
+      "score": 0.5,
+      "explanation": "This syndrome presents with progressive myoclonus epilepsy, including myoclonic seizures and progressive neurologic decline, similar to this case."
     },
     {
-      "disease_name": "Dentatorubral-Pallidoluysian Atrophy (DRPLA)",
+      "disease_name": "Neuronal Ceroid Lipofuscinosis",
+      "disease_id": "OMIM:256731",
+      "score": 0.3333333333333333,
+      "explanation": "Associated with seizures, progressive neurologic degeneration, and dementia, though typically begins at an earlier age than the current patient\u2019s age."
+    },
+    {
+      "disease_name": "Dentatorubral-Pallidoluysian Atrophy",
       "disease_id": "OMIM:125370",
       "score": 0.25,
-      "explanation": "DRPLA is a trinucleotide repeat disorder with a highly variable clinical presentation, including forms that resemble progressive myoclonic epilepsy. It can manifest with myoclonus, epilepsy (including various types such as myoclonic and tonic-clonic), progressive ataxia (gait disturbance), and dementia. Progressive neurological deterioration is characteristic, and the age of onset can be in early adulthood (P20Y)."
-    },
-    {
-      "disease_name": "Neuronal Ceroid Lipofuscinosis, Adult-Onset (Kufs Disease, CLN6-related)",
-      "disease_id": "OMIM:204300",
-      "score": 0.2,
-      "explanation": "Kufs disease represents the adult-onset form of Neuronal Ceroid Lipofuscinosis, which often presents as a progressive myoclonic epilepsy. It typically includes myoclonus, various types of seizures (myoclonic, tonic-clonic), gait disturbance (ataxia), and progressive dementia. Progressive neurologic deterioration is a core feature, and the age of onset (P20Y) fits this form of NCL. Kufs disease can also be caused by mutations in other CLN genes like CLN1, CLN8, and CLN13."
+      "explanation": "Features of DRPLA include myoclonus, seizures, gait disturbances, and progressive neurological decline, which are consistent with the patient's symptoms."
     }
   ]
 }

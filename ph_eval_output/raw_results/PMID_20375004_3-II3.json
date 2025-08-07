@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff Skin Syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "Stiff Skin Syndrome is characterized by stiff skin, joint contractures, and other features seen in the patient. The combination of joint and skin symptoms makes this the most likely match."
+    },
+    {
+      "disease_name": "Bethlem Myopathy 1",
+      "disease_id": "OMIM:158810",
+      "score": 0.5,
+      "explanation": "Bethlem Myopathy can present with contractures and some skin involvement. The presence of camptodactyly and contractures aligns with typical symptoms of this disease."
+    },
+    {
+      "disease_name": "Ullrich Congenital Muscular Dystrophy 1",
+      "disease_id": "OMIM:254090",
+      "score": 0.3333333333333333,
+      "explanation": "Ullrich Congenital Muscular Dystrophy can cause joint contractures and skin abnormalities, although it typically presents in early childhood, which could potentially explain the patient's symptoms."
+    },
+    {
+      "disease_name": "Myosin Storage Myopathy",
+      "disease_id": "OMIM:255160",
+      "score": 0.25,
+      "explanation": "Myosin Storage Myopathy can cause muscle stiffness and joint contractures. Although less common, the symptoms align reasonably well with the patient's phenotype."
+    }
+  ]
+}

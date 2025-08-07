@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "The combination of intellectual disability, micrognathia, brachydactyly, and distinct facial features such as low-set ears and downslanted palpebral fissures align closely with Cornelia de Lange Syndrome 1."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "Characterized by intellectual disability, distinct facial features like prominent nose and macrotia, and short stature, aligning with several features observed in the patient."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.3333,
+      "explanation": "Includes features like intellectual disability, brachydactyly, and distinct craniofacial characteristics such as broad midface and downslanted palpebral fissures."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "Features like intellectual disability and facial anomalies such as low-set ears and prominent facial structures are notable in CHARGE Syndrome, although not all primary features match."
+    }
+  ]
+}
