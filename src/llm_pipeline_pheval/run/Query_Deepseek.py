@@ -120,19 +120,19 @@ def Extract_Data_query_deepseek(
         sys.exit(1)
 
     # Step 4) Query LLM via API
-    try:
-        # Query DeepSeek
-        client = OpenAI(api_key="", base_url="https://api.deepseek.com")
+    # try:
+    #     # Query DeepSeek
+    #     client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
-        response = client.chat.completions.create(
-            model="deepseek-chat",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant"},
-                {"role": "user", "content": prompt},
-            ],
-            stream=False,
-        )
-        raw = response.choices[0].message.content
+    #     response = client.chat.completions.create(
+    #         model="deepseek-chat",
+    #         messages=[
+    #             {"role": "system", "content": "You are a helpful assistant"},
+    #             {"role": "user", "content": prompt},
+    #         ],
+    #         stream=False,
+    #     )
+    #     raw = response.choices[0].message.content
 
         
         # ## Query Open ai
@@ -165,17 +165,17 @@ def Extract_Data_query_deepseek(
         # raw = response.content[0].text
         
 
-        ## Query Google Gemini API
+        # # Query Google Gemini API
         # Make sure you have set the GEMINI_API_KEY environment variable
-        # if not os.getenv("GEMINI_API_KEY"):
-        #     print("[ERROR] GEMINI_API_KEY environment variable is not set")
-        #     sys.exit(1)
-        # client = genai.Client()
-        # response = client.models.generate_content(
-        #     model="gemini-2.5-flash", contents= prompt
-        # )
+        if not os.getenv("GEMINI_API_KEY"):
+            print("[ERROR] GEMINI_API_KEY environment variable is not set")
+            sys.exit(1)
+        client = genai.Client()
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", contents= prompt
+        )
 
-        # raw = response.text
+        raw = response.text
         
         if not raw:
             raise ValueError("LLM returned empty response")
