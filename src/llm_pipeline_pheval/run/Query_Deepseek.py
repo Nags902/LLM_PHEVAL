@@ -132,19 +132,21 @@ def Extract_Data_query_deepseek(
         #     ],
         #     stream=False,
         # )
+        #raw = response.choices[0].message.content
 
-        # ## Query Open ai
-        # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        
+        ## Query Open ai
+        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
   
-        # # Open ai API
-        # response = client.chat.completions.create(
-        #     model="gpt-4o",
-        #     messages=[
-        #         {"role": "system", "content": "You are a helpful disease diagnostician."},
-        #         {"role": "user", "content": prompt}
-        #     ]
-        # )
-        # #raw = response.choices[0].message.content
+        # Open ai API
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "You are a helpful disease diagnostician."},
+                {"role": "user", "content": prompt}
+            ]
+        )
+        raw = response.choices[0].message.content
 
 
         # ## Query claude anthropic API Key
@@ -165,15 +167,15 @@ def Extract_Data_query_deepseek(
 
         ## Query Google Gemini API
         # Make sure you have set the GEMINI_API_KEY environment variable
-        if not os.getenv("GEMINI_API_KEY"):
-            print("[ERROR] GEMINI_API_KEY environment variable is not set")
-            sys.exit(1)
-        client = genai.Client()
-        response = client.models.generate_content(
-            model="gemini-2.5-flash", contents= prompt
-        )
+        # if not os.getenv("GEMINI_API_KEY"):
+        #     print("[ERROR] GEMINI_API_KEY environment variable is not set")
+        #     sys.exit(1)
+        # client = genai.Client()
+        # response = client.models.generate_content(
+        #     model="gemini-2.5-flash", contents= prompt
+        # )
 
-        raw = response.text
+        # raw = response.text
         
         if not raw:
             raise ValueError("LLM returned empty response")
