@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by infantile spasms, hypsarrhythmia, and developmental delay, which are all present in the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.5,
+      "explanation": "Lennox-Gastaut Syndrome includes epileptic encephalopathy, focal tonic seizures, and developmental delay, aligning with some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Landau-Kleffner Syndrome",
+      "disease_id": "OMIM:245570",
+      "score": 0.333,
+      "explanation": "Landau-Kleffner Syndrome involves continuous spike and waves during slow sleep and epileptic encephalopathy, which are part of the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet Syndrome is a severe form of epilepsy that can include infantile spasms and developmental delay, though it is less likely given the full set of symptoms."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "CDKL5 Deficiency Disorder can present with infantile spasms and developmental delay, but other features like hypsarrhythmia are less commonly associated."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "CDKL5 Deficiency Disorder is characterized by infantile spasms, global developmental delay, absent speech, and seizures, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 Encephalopathy often presents with infantile spasms, global developmental delay, and seizures, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "ARX-Related X-Linked Intellectual Disability",
+      "disease_id": "OMIM:300419",
+      "score": 0.333,
+      "explanation": "This disorder includes infantile spasms, global developmental delay, and absent speech, which are consistent with the patient's features."
+    },
+    {
+      "disease_name": "PCDH19-Related Epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19-Related Epilepsy can present with infantile spasms and focal seizures, though it is more commonly seen in females."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.2,
+      "explanation": "FOXG1 Syndrome includes global developmental delay, absent speech, and seizures, but infantile spasms are less common."
+    }
+  ]
+}

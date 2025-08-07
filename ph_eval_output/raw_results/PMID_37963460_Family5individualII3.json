@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "The patient's features such as hypotonia, short stature, motor delay, delayed speech, high palate, hyperactivity, sleep-wake cycle disturbance, and moderate intellectual disability are highly consistent with Smith-Magenis Syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Features like short stature, hypertelorism, low-set ears, and high palate are common in Noonan Syndrome, though other features like sleep disturbances and autistic behavior are less typical."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.333,
+      "explanation": "Hypotonia, feeding difficulties, short stature, and developmental delay are seen in Prader-Willi Syndrome, but other features like hypertelorism and corpus callosum hypoplasia are less common."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Motor delay, hyperactivity, and sleep disturbances are seen in Angelman Syndrome, but other features like corpus callosum hypoplasia and hypertelorism are not typical."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Short stature, developmental delay, and high palate can occur in Williams Syndrome, but features like corpus callosum hypoplasia and sleep disturbances are less common."
+    }
+  ]
+}

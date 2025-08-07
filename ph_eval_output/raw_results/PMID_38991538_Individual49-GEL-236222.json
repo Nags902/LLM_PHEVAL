@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "This syndrome presents with microcephaly, intellectual disability, delayed development, seizures, and distinctive facial features such as a high forehead and tented philtrum, which match the patient's phenotype."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "This condition includes intellectual disability, delayed speech and language development, microcephaly, and distinctive facial features like a high forehead and prominent metopic ridge, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Patients with this syndrome often exhibit global developmental delay, intellectual disability, short stature, and microcephaly, which are consistent with the patient's features."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Although more common in females, some males can present with Rett-like symptoms including seizures, developmental delay, and microcephaly, which are seen in this patient."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome can present with short stature, developmental delay, and distinctive facial features such as a high forehead, though other features like seizures are less common."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 1.0,
+      "explanation": "Pycnodysostosis is a rare genetic disorder characterized by short stature, osteosclerosis, frequent fractures, and distinctive facial features including micrognathia and flat face. The patient's features such as short stature, micrognathia, flat face, and vertebral compression fractures are highly suggestive of this condition."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta, Type I",
+      "disease_id": "OMIM:166200",
+      "score": 0.5,
+      "explanation": "Osteogenesis Imperfecta Type I is characterized by osteoporosis, frequent fractures, and short stature. The patient's osteoporosis of vertebrae and vertebral compression fractures align with this diagnosis, though the facial features are less typical."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.333,
+      "explanation": "Coffin-Lowry Syndrome includes features such as short stature, large earlobes, and micrognathia. While some features match, the osteolytic defects and osteoporosis are less commonly associated with this syndrome."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams Syndrome can present with short stature and distinctive facial features. However, the osteolytic defects and osteoporosis are not typical, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome can include short stature and thick eyebrows, but the other features such as osteolytic defects and osteoporosis are not commonly associated, making this a less likely diagnosis."
+    }
+  ]
+}

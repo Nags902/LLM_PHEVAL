@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Gillespie syndrome is characterized by the combination of aniridia and ataxia, which are the primary features observed in the patient."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "WAGR syndrome includes aniridia as a key feature, and while ataxia is not a primary symptom, neurological manifestations can occur."
+    },
+    {
+      "disease_name": "Marinesco-Sj\u00f6gren syndrome",
+      "disease_id": "OMIM:248800",
+      "score": 0.333,
+      "explanation": "Marinesco-Sj\u00f6gren syndrome primarily presents with ataxia and may include ocular abnormalities, though aniridia is less commonly reported."
+    },
+    {
+      "disease_name": "PAX6-related aniridia",
+      "disease_id": "OMIM:106210",
+      "score": 0.25,
+      "explanation": "PAX6-related aniridia primarily causes aniridia, but neurological symptoms like ataxia can occasionally be present due to broader developmental effects."
+    }
+  ]
+}

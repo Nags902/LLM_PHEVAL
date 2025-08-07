@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 1, X-Linked",
+      "disease_id": "OMIM:310300",
+      "score": 1.0,
+      "explanation": "This disease is characterized by Achilles tendon contractures, scapuloperoneal amyotrophy, proximal muscle weakness, and cardiac arrhythmias, which match the patient's features."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant",
+      "disease_id": "OMIM:181350",
+      "score": 0.5,
+      "explanation": "Similar to the X-linked form, this subtype also presents with contractures, muscle weakness, and cardiac involvement, but follows an autosomal dominant inheritance pattern."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 3, Autosomal Recessive",
+      "disease_id": "OMIM:616516",
+      "score": 0.333,
+      "explanation": "This rare subtype also includes the triad of contractures, muscle weakness, and cardiac arrhythmias, but is inherited in an autosomal recessive manner."
+    },
+    {
+      "disease_name": "Myotonic Dystrophy 1",
+      "disease_id": "OMIM:160900",
+      "score": 0.25,
+      "explanation": "While typically associated with myotonia, this disease can also present with muscle weakness, gait disturbance, and cardiac arrhythmias, though contractures are less common."
+    },
+    {
+      "disease_name": "Myotonic Dystrophy 2",
+      "disease_id": "OMIM:602668",
+      "score": 0.2,
+      "explanation": "Similar to DM1, this subtype can present with proximal muscle weakness and cardiac issues, but contractures and scapuloperoneal involvement are less typical."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 1B",
+      "disease_id": "OMIM:159001",
+      "score": 0.166,
+      "explanation": "This subtype can present with proximal muscle weakness and cardiac arrhythmias, but contractures and scapuloperoneal involvement are less common."
+    },
+    {
+      "disease_name": "Facioscapulohumeral Muscular Dystrophy 1",
+      "disease_id": "OMIM:158900",
+      "score": 0.142,
+      "explanation": "Typically involves facial and scapular muscles, but proximal weakness and gait disturbance can occur; however, contractures and cardiac involvement are rare."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 1.0,
+      "explanation": "Joubert Syndrome is characterized by cerebellar hypoplasia, delayed motor development, intellectual disability, and strabismus, which are all present in the patient. Sensorineural hearing impairment can also be a feature in some subtypes."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "Pontocerebellar hypoplasia is associated with cerebellar hypoplasia, microcephaly, and intellectual disability. Delayed motor and speech development are also common features."
+    },
+    {
+      "disease_name": "Microcephaly with or without Chorioretinopathy, Lymphedema, or Intellectual Disability",
+      "disease_id": "OMIM:152950",
+      "score": 0.333,
+      "explanation": "This condition includes microcephaly and intellectual disability, which are present in the patient. However, other features like cerebellar hypoplasia and strabismus are less commonly associated."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE Syndrome can present with sensorineural hearing impairment, strabismus, and intellectual disability. However, cerebellar hypoplasia is not a typical feature."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett Syndrome is associated with delayed speech and motor development, intellectual disability, and microcephaly. However, cerebellar hypoplasia and strabismus are less common."
+    }
+  ]
+}

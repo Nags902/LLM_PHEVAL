@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "The patient presents with cerebellar atrophy, nystagmus, dysmetria, recurrent infections, and decreased IgA, IgG, and IgM, which are hallmark features of Ataxia-telangiectasia. The presence of pancytopenia and myelodysplasia also aligns with this diagnosis."
+    },
+    {
+      "disease_name": "Schimke immuno-osseous dysplasia",
+      "disease_id": "OMIM:242900",
+      "score": 0.5,
+      "explanation": "This condition includes features such as recurrent infections, pancytopenia, and cerebellar atrophy. However, the absence of spondyloepiphyseal dysplasia and nephropathy makes it less likely."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita",
+      "disease_id": "OMIM:305000",
+      "score": 0.333,
+      "explanation": "Dyskeratosis congenita can present with pancytopenia, recurrent infections, and cerebellar atrophy. However, the lack of mucocutaneous triad (reticulate skin pigmentation, nail dystrophy, and leukoplakia) reduces its likelihood."
+    },
+    {
+      "disease_name": "Pearson syndrome",
+      "disease_id": "OMIM:557000",
+      "score": 0.25,
+      "explanation": "Pearson syndrome can cause pancytopenia, recurrent infections, and cerebellar atrophy. However, the absence of exocrine pancreatic dysfunction and sideroblastic anemia makes it less probable."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.2,
+      "explanation": "Fanconi anemia can present with pancytopenia and recurrent infections. However, the lack of congenital anomalies and the presence of cerebellar atrophy are not typical for this condition."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by short stature, congenital heart defects (such as cardiomyopathy), distinctive facial features (hypertelorism, downslanted palpebral fissures, low-set ears, broad forehead), and developmental delays. The presence of hypertelorism, downslanted palpebral fissures, short neck, low posterior hairline, and cardiomyopathy strongly suggests Noonan Syndrome."
+    },
+    {
+      "disease_name": "LEOPARD Syndrome 1",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "LEOPARD Syndrome shares many features with Noonan Syndrome, including hypertelorism, short stature, cardiomyopathy, and caf\u00e9-au-lait spots. The presence of caf\u00e9-au-lait spots and cardiomyopathy makes this a plausible diagnosis, though the lack of lentigines may reduce its likelihood."
+    },
+    {
+      "disease_name": "Cardiofaciocutaneous Syndrome",
+      "disease_id": "OMIM:115150",
+      "score": 0.333,
+      "explanation": "This syndrome presents with macrocephaly, hypertelorism, downslanted palpebral fissures, and cardiomyopathy. The patient's features overlap significantly, though the absence of ectodermal abnormalities (e.g., sparse hair, hyperkeratosis) may lower its rank."
+    },
+    {
+      "disease_name": "Costello Syndrome",
+      "disease_id": "OMIM:218040",
+      "score": 0.25,
+      "explanation": "Costello Syndrome includes macrocephaly, hypertelorism, low-set ears, and cardiomyopathy. However, the lack of coarse facial features or papillomata may make this less likely compared to other RASopathies."
+    },
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.2,
+      "explanation": "Neurofibromatosis Type 1 is associated with caf\u00e9-au-lait spots and macrocephaly, but the absence of neurofibromas or Lisch nodules and the presence of other features (e.g., cardiomyopathy, hypertelorism) make this less likely."
+    }
+  ]
+}

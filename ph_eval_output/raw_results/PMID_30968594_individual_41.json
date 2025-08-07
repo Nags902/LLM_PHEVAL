@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-Hydroxylase Deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This condition can lead to decreased serum testosterone due to impaired steroidogenesis and increased ACTH due to loss of negative feedback. Elevated prolactin may occur secondary to stress or pituitary feedback mechanisms."
+    },
+    {
+      "disease_name": "Kallmann Syndrome",
+      "disease_id": "OMIM:308700",
+      "score": 0.5,
+      "explanation": "Kallmann Syndrome is characterized by hypogonadotropic hypogonadism which can lead to decreased testosterone. Increased prolactin can occur due to disrupted hypothalamic-pituitary-gonadal axis, though ACTH elevation is less common."
+    },
+    {
+      "disease_name": "Prolactinoma",
+      "disease_id": "OMIM:600634",
+      "score": 0.33,
+      "explanation": "Prolactinomas directly increase prolactin levels, which can suppress testosterone production. ACTH may be elevated due to pituitary stalk compression or secondary adrenal insufficiency."
+    },
+    {
+      "disease_name": "Primary Adrenal Insufficiency (Addison's Disease)",
+      "disease_id": "OMIM:300200",
+      "score": 0.25,
+      "explanation": "Primary adrenal insufficiency leads to elevated ACTH due to lack of cortisol feedback. Testosterone may be low due to general adrenal dysfunction, and prolactin can be elevated due to stress or associated autoimmune hypophysitis."
+    },
+    {
+      "disease_name": "Combined Pituitary Hormone Deficiency",
+      "disease_id": "OMIM:613038",
+      "score": 0.2,
+      "explanation": "This condition can present with low testosterone due to LH/FSH deficiency and elevated ACTH if there is concomitant cortisol deficiency. Prolactin may be elevated due to loss of dopaminergic inhibition."
+    }
+  ]
+}

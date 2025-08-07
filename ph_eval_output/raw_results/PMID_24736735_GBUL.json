@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 1.0,
+      "explanation": "The patient's features such as hypothalamic hamartoma, postaxial polydactyly, anal atresia, and intellectual disability are highly characteristic of Pallister-Hall Syndrome."
+    },
+    {
+      "disease_name": "Acrocallosal Syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.5,
+      "explanation": "This syndrome includes features like postaxial polydactyly, intellectual disability, and growth delay, which match some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 0.333,
+      "explanation": "This condition is associated with polydactyly and Y-shaped metacarpals/metatarsals, which are present in the patient."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome can present with growth delay, intellectual disability, and polydactyly, though other features like hypothalamic hamartoma are less common."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.2,
+      "explanation": "This syndrome includes postaxial polydactyly and anal atresia, but lacks other features like hypothalamic hamartoma and intellectual disability."
+    }
+  ]
+}

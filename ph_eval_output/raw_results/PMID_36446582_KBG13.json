@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Coffin-Siris Syndrome is characterized by intellectual disability, global developmental delay, motor delay, feeding difficulties, and microcephaly. The presence of thick eyebrows, long philtrum, and triangular face also aligns with this syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome can present with intellectual disability, short stature, intrauterine growth retardation, and triangular face. However, features like macrodontia and recurrent otitis media are less commonly associated."
+    },
+    {
+      "disease_name": "Silver-Russell Syndrome",
+      "disease_id": "OMIM:180860",
+      "score": 0.333,
+      "explanation": "Silver-Russell Syndrome is marked by intrauterine growth retardation, short stature, and feeding difficulties. The presence of triangular face and motor delay also fits, but other features like macrodontia and thick eyebrows are less typical."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams Syndrome includes intellectual disability, global developmental delay, and motor delay. However, features like macrodontia and thick eyebrows are not commonly seen in this syndrome."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi Syndrome can present with intellectual disability, global developmental delay, and thick eyebrows. However, features like macrodontia and recurrent otitis media are less commonly associated."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman Syndrome is characterized by intellectual disability and delayed speech and language development, which are prominent features in this patient."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome often presents with intellectual disability and delayed speech and language development, especially in early stages."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.333,
+      "explanation": "Fragile X Syndrome is a common cause of inherited intellectual disability and is often associated with speech and language delays."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Down Syndrome frequently includes intellectual disability and delayed speech and language development as part of its phenotypic spectrum."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Williams Syndrome can present with intellectual disability and speech delays, though often with a unique profile of strengths and weaknesses."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.166,
+      "explanation": "Prader-Willi Syndrome includes intellectual disability and speech delays among its features, though other symptoms are usually more prominent."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.142,
+      "explanation": "Phelan-McDermid Syndrome is associated with intellectual disability and significant speech and language delays."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.125,
+      "explanation": "Smith-Magenis Syndrome includes intellectual disability and speech delays, along with behavioral characteristics."
+    },
+    {
+      "disease_name": "Cri-du-Chat Syndrome",
+      "disease_id": "OMIM:123450",
+      "score": 0.111,
+      "explanation": "Cri-du-Chat Syndrome is marked by intellectual disability and delayed speech development, often with a distinctive cry in infancy."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.1,
+      "explanation": "Cohen Syndrome can present with intellectual disability and speech delays, though it is also associated with other distinctive features."
+    }
+  ]
+}

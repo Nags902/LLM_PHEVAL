@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Prader-Willi Syndrome is characterized by obesity, intellectual disability, and short metacarpals, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Albright Hereditary Osteodystrophy can present with obesity, short metacarpals, and intellectual disability, though it is less common than Prader-Willi Syndrome."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.333,
+      "explanation": "Bardet-Biedl Syndrome includes obesity and intellectual disability, but short metacarpals are less commonly reported."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Cohen Syndrome can present with obesity and intellectual disability, but short metacarpals are not a typical feature."
+    }
+  ]
+}

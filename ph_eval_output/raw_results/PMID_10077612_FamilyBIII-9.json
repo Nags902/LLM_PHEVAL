@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Holt-Oram Syndrome is characterized by cardiac defects (particularly atrial septal defects) and upper limb abnormalities (such as radial hypoplasia and abnormal carpal morphology), which match the patient's features."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR Syndrome includes radial hypoplasia and can have cardiac anomalies, though atrial septal defects are less common. The absence of thrombocytopenia in the patient's features lowers its rank."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome can present with cardiac conduction abnormalities and atrial septal defects, but limb abnormalities like radial hypoplasia are less typical, making it a less likely match."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE Syndrome can include cardiac defects and limb anomalies, but the combination of features in this patient is not highly specific to CHARGE."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.2,
+      "explanation": "VACTERL Association includes radial anomalies and cardiac defects, but the absence of other features (vertebral, anal, tracheoesophageal, renal, or limb anomalies) reduces its likelihood."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff Skin Syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "The patient presents with stiff skin and multiple joint contractures, which are hallmark features of Stiff Skin Syndrome."
+    },
+    {
+      "disease_name": "Arthrogryposis Multiplex Congenita",
+      "disease_id": "OMIM:108110",
+      "score": 0.5,
+      "explanation": "The patient has multiple joint contractures (knee, elbow, camptodactyly), which are consistent with Arthrogryposis Multiplex Congenita."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Classic Type",
+      "disease_id": "OMIM:130000",
+      "score": 0.333,
+      "explanation": "The patient's joint contractures and stiff skin could be indicative of Ehlers-Danlos Syndrome, though other features are less typical."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.25,
+      "explanation": "Myopia and joint contractures can be seen in Marfan Syndrome, though other features are less common."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.2,
+      "explanation": "Joint contractures and myopia can occur in Loeys-Dietz Syndrome, but other typical features are missing."
+    }
+  ]
+}

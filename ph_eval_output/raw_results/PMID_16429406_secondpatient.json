@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "Fanconi anemia is a genetic disorder characterized by bone marrow failure, congenital anomalies, and predisposition to malignancies. The patient's features such as pancytopenia, short stature, caf\u00e9-au-lait spots, absent thumb, absent radius, and chromosomal breakage induced by crosslinking agents are highly suggestive of Fanconi anemia, particularly complementation group A."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group C",
+      "disease_id": "OMIM:227645",
+      "score": 0.5,
+      "explanation": "Similar to complementation group A, Fanconi anemia complementation group C also presents with bone marrow failure, congenital anomalies, and chromosomal breakage. The phenotypic overlap makes this a plausible diagnosis, though less common than group A."
+    },
+    {
+      "disease_name": "Dyskeratosis congenita, autosomal dominant 1",
+      "disease_id": "OMIM:127550",
+      "score": 0.333,
+      "explanation": "Dyskeratosis congenita can present with bone marrow failure, caf\u00e9-au-lait spots, and short stature. However, the absence of classic features like nail dystrophy and leukoplakia, and the presence of radial anomalies, make this less likely than Fanconi anemia."
+    },
+    {
+      "disease_name": "Nijmegen breakage syndrome",
+      "disease_id": "OMIM:251260",
+      "score": 0.25,
+      "explanation": "Nijmegen breakage syndrome involves chromosomal instability, short stature, and caf\u00e9-au-lait spots. However, the absence of microcephaly and immunodeficiency, and the presence of radial anomalies, make this less likely."
+    },
+    {
+      "disease_name": "Schwachman-Diamond syndrome",
+      "disease_id": "OMIM:260400",
+      "score": 0.2,
+      "explanation": "Schwachman-Diamond syndrome can present with neutropenia and short stature, but the absence of pancreatic insufficiency and the presence of radial anomalies and chromosomal breakage make this less likely."
+    }
+  ]
+}

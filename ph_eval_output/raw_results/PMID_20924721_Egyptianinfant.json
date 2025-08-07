@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by facial features such as a depressed nasal bridge, long philtrum, and deeply set eyes, along with short neck and congenital heart defects, which align with the patient's features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "Smith-Lemli-Opitz Syndrome presents with facial dysmorphism including flat face, short nose, and cleft ala nasi, as well as limb anomalies like talipes equinovarus and camptodactyly, matching several of the patient's features."
+    },
+    {
+      "disease_name": "Fetal Alcohol Syndrome",
+      "disease_id": "OMIM:300749",
+      "score": 0.333,
+      "explanation": "Fetal Alcohol Syndrome can present with facial features such as a flat face, short nose, and long philtrum, along with limb anomalies, which are seen in the patient."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome is associated with facial features like a depressed nasal bridge, long philtrum, and deeply set eyes, as well as limb anomalies such as camptodactyly, which are present in the patient."
+    },
+    {
+      "disease_name": "Pallister-Killian Syndrome",
+      "disease_id": "OMIM:601803",
+      "score": 0.2,
+      "explanation": "Pallister-Killian Syndrome includes features such as a flat face, short neck, and limb anomalies like overlapping toes and camptodactyly, which are noted in the patient."
+    }
+  ]
+}

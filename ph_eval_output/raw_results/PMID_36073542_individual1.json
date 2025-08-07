@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that predominantly affects females and is characterized by developmental regression, autistic behavior, intellectual disability, and motor delay. The presence of developmental regression, autistic behavior, and global developmental delay strongly suggests Rett Syndrome."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome is characterized by severe intellectual disability, developmental delay, movement or balance disorders, and a happy demeanor. The patient's intellectual disability, developmental delay, and motor delay are consistent with this syndrome."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.333,
+      "explanation": "MECP2 Duplication Syndrome is associated with intellectual disability, developmental regression, hypotonia, and autistic features. The patient's symptoms align with these features, making this a plausible diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz Syndrome is a metabolic disorder that can present with intellectual disability, developmental delay, autistic behavior, and congenital anomalies. The patient's features, including intellectual disability and developmental delay, are consistent with this syndrome."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Pitt-Hopkins Syndrome is characterized by intellectual disability, developmental delay, and distinctive facial features. The patient's developmental delay and intellectual disability suggest this as a possible diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.166,
+      "explanation": "Cornelia de Lange Syndrome presents with intellectual disability, developmental delay, and distinctive facial features. The patient's features, including intellectual disability and developmental delay, are consistent with this syndrome."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.142,
+      "explanation": "Mowat-Wilson Syndrome is characterized by intellectual disability, developmental delay, and distinctive facial features. The patient's features align with this syndrome."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.125,
+      "explanation": "FOXG1 Syndrome is a neurodevelopmental disorder with severe intellectual disability, developmental regression, and motor delay. The patient's symptoms are consistent with this syndrome."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.111,
+      "explanation": "Tuberous Sclerosis Complex can present with seizures, intellectual disability, and developmental delay. The patient's seizures and developmental delay suggest this as a possible diagnosis."
+    },
+    {
+      "disease_name": "L1 Syndrome",
+      "disease_id": "OMIM:303350",
+      "score": 0.1,
+      "explanation": "L1 Syndrome is associated with hydrocephalus, intellectual disability, and spasticity. The patient's hydrocephalus and intellectual disability are consistent with this syndrome."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman Syndrome is characterized by intellectual disability, seizures (including tonic-clonic seizures), and autism spectrum disorder, which matches the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome is associated with intellectual disability and seizures, and while autism-like features are present, the patient's gender (male) makes it less likely as Rett Syndrome primarily affects females."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.333,
+      "explanation": "Phelan-McDermid Syndrome involves intellectual disability, autism, and seizures, but the absence of hypotonia or other distinguishing features makes it less likely."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet Syndrome is a severe form of epilepsy with intellectual disability, but autism is less commonly reported, making it a less likely match."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Fragile X Syndrome is associated with intellectual disability and autism, but seizures are less common, making it a less likely match for this patient."
+    }
+  ]
+}

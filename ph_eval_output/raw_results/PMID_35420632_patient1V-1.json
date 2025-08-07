@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis Congenita",
+      "disease_id": "OMIM:305000",
+      "score": 1.0,
+      "explanation": "The patient presents with short telomere length, pulmonary fibrosis, hepatic failure, and thrombocytopenia, which are hallmark features of dyskeratosis congenita. The presence of nodular regenerative hyperplasia of the liver and portal hypertension further supports this diagnosis."
+    },
+    {
+      "disease_name": "Telomere-Related Pulmonary Fibrosis",
+      "disease_id": "OMIM:614742",
+      "score": 0.5,
+      "explanation": "The patient has usual interstitial pneumonia, pulmonary fibrosis, and short telomere length, which are indicative of telomere-related pulmonary fibrosis. However, the hepatic involvement is less typical for this condition."
+    },
+    {
+      "disease_name": "Autoimmune Hepatitis",
+      "disease_id": "OMIM:142450",
+      "score": 0.333,
+      "explanation": "The patient has hepatic failure and portal hypertension, which could be consistent with autoimmune hepatitis. However, the presence of pulmonary fibrosis and short telomeres makes this less likely."
+    },
+    {
+      "disease_name": "Idiopathic Pulmonary Fibrosis",
+      "disease_id": "OMIM:178500",
+      "score": 0.25,
+      "explanation": "The patient has usual interstitial pneumonia and pulmonary fibrosis, which are key features of idiopathic pulmonary fibrosis. However, the hepatic and hematologic abnormalities are not typically associated with this condition."
+    }
+  ]
+}

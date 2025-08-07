@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 1 (EIEE1)",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "EIEE1 is characterized by infantile spasms, severe intellectual disability, and EEG abnormalities including burst suppression pattern, which aligns well with the patient's features."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 2 (EIEE2)",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "EIEE2 also presents with epileptic encephalopathy, infantile spasms, and severe intellectual disability, though it is X-linked and may have additional features not noted here."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy 4 (EIEE4)",
+      "disease_id": "OMIM:612164",
+      "score": 0.333,
+      "explanation": "EIEE4 involves similar seizure types and EEG patterns, including multifocal epileptiform discharges, but may also include other neurological symptoms."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.25,
+      "explanation": "This syndrome includes severe intellectual disability and seizures, though it typically also includes distinctive facial features and breathing abnormalities which are not mentioned here."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman syndrome can present with seizures, severe intellectual disability, and EEG abnormalities, but usually also includes a happy demeanor and ataxia, which are not noted in this case."
+    }
+  ]
+}

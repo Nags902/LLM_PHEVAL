@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hydrocephalus, Congenital, 1 (HYC1)",
+      "disease_id": "OMIM:236600",
+      "score": 1.0,
+      "explanation": "The patient's ventriculomegaly is a hallmark feature of hydrocephalus, and the delayed gross motor development and speech delay could be secondary to the neurological impact of hydrocephalus."
+    },
+    {
+      "disease_name": "L1 Syndrome (L1CAM-related disorders, including X-linked hydrocephalus)",
+      "disease_id": "OMIM:307000",
+      "score": 0.5,
+      "explanation": "L1 Syndrome often presents with ventriculomegaly/hydrocephalus and developmental delays. The patient's gender (female) makes X-linked conditions less likely but not impossible due to skewed X-inactivation or other mechanisms."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1 (PTPN11-related)",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome can present with delayed development and may include ocular abnormalities like astigmatism, though ventriculomegaly is less common."
+    },
+    {
+      "disease_name": "Walker-Warburg Syndrome (WWS)",
+      "disease_id": "OMIM:236670",
+      "score": 0.25,
+      "explanation": "Walker-Warburg Syndrome is a severe congenital muscular dystrophy with brain and eye anomalies, including ventriculomegaly and astigmatism, but typically presents with more severe features than observed here."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome (SLOS)",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "SLOS can include developmental delay and ventriculomegaly, though astigmatism is not a classic feature. The phenotype is broad and may overlap partially."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT Syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 1.0,
+      "explanation": "Shortened QT interval is a hallmark feature of Short QT Syndrome, and paroxysmal atrial fibrillation is a common associated symptom."
+    },
+    {
+      "disease_name": "Short QT Syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.5,
+      "explanation": "Similar to Short QT Syndrome 1, this subtype also presents with a shortened QT interval and can include atrial fibrillation."
+    },
+    {
+      "disease_name": "Short QT Syndrome 3",
+      "disease_id": "OMIM:609622",
+      "score": 0.333,
+      "explanation": "Another subtype of Short QT Syndrome with similar cardiac manifestations including shortened QT interval and atrial fibrillation."
+    },
+    {
+      "disease_name": "Catecholaminergic Polymorphic Ventricular Tachycardia",
+      "disease_id": "OMIM:604772",
+      "score": 0.25,
+      "explanation": "While primarily associated with ventricular tachycardia, some cases may present with atrial fibrillation and QT interval abnormalities."
+    },
+    {
+      "disease_name": "Brugada Syndrome",
+      "disease_id": "OMIM:601144",
+      "score": 0.2,
+      "explanation": "Although typically associated with ST-segment abnormalities, some cases may present with atrial fibrillation and altered QT intervals."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Albright hereditary osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This condition is characterized by short stature, short metacarpals, and intellectual disability, which matches the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Turner syndrome",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Turner syndrome can present with short stature and skeletal abnormalities, though intellectual disability is less common."
+    },
+    {
+      "disease_name": "Leri-Weill dyschondrosteosis",
+      "disease_id": "OMIM:127300",
+      "score": 0.333,
+      "explanation": "This disorder often includes short stature and skeletal anomalies like short metacarpals, but intellectual disability is not a typical feature."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.25,
+      "explanation": "This is a subtype of Albright hereditary osteodystrophy with similar features including short stature, short metacarpals, and intellectual disability."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan syndrome can present with short stature and intellectual disability, though short metacarpals are less commonly reported."
+    }
+  ]
+}

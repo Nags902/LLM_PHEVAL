@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary Spastic Paraplegia with Neuropathy",
+      "disease_id": "OMIM:613206",
+      "score": 1.0,
+      "explanation": "The patient exhibits spasticity and peripheral axonal neuropathy, which are hallmark features of Hereditary Spastic Paraplegia with Neuropathy. The hyperactive deep tendon reflexes and frequent falls further support this diagnosis."
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.5,
+      "explanation": "Fabry Disease can present with peripheral neuropathy and acral ulceration. Although spasticity is less common, the combination of symptoms suggests this lysosomal storage disorder as a potential diagnosis."
+    },
+    {
+      "disease_name": "Familial Amyloid Polyneuropathy",
+      "disease_id": "OMIM:105210",
+      "score": 0.333,
+      "explanation": "This condition is characterized by peripheral neuropathy and can sometimes present with autonomic symptoms leading to acral ulceration. The spasticity and hyperreflexia are less typical but could occur in advanced cases."
+    },
+    {
+      "disease_name": "Mitochondrial Neurogastrointestinal Encephalopathy (MNGIE)",
+      "disease_id": "OMIM:603041",
+      "score": 0.25,
+      "explanation": "MNGIE can present with peripheral neuropathy and other neurological symptoms. While spasticity is not a common feature, the combination of symptoms warrants consideration of this mitochondrial disorder."
+    },
+    {
+      "disease_name": "Ataxia with Vitamin E Deficiency",
+      "disease_id": "OMIM:277460",
+      "score": 0.2,
+      "explanation": "This condition can present with neuropathy and ataxia, which might explain the frequent falls. Spasticity and hyperreflexia are less common but possible, making this a less likely but still plausible diagnosis."
+    }
+  ]
+}

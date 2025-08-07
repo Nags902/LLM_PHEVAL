@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "Leigh Syndrome is a mitochondrial disorder that presents with neurological regression, respiratory failure, increased CSF lactate, and abnormal brain MRI findings, which are all present in this patient."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "This condition can cause severe lactic acidosis, neurological deterioration, and hypotonia, matching several of the patient's symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.333,
+      "explanation": "MELAS can present with increased CSF lactate, motor regression, and abnormal brain imaging, though stroke-like episodes are not mentioned in this patient."
+    },
+    {
+      "disease_name": "Infantile Neuroaxonal Dystrophy",
+      "disease_id": "OMIM:256600",
+      "score": 0.25,
+      "explanation": "This neurodegenerative disorder can present with hypotonia, motor regression, and abnormal MRI findings, though it typically does not involve increased CSF lactate."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1",
+      "disease_id": "OMIM:607596",
+      "score": 0.2,
+      "explanation": "This condition involves severe hypotonia, respiratory failure, and abnormal brain morphology, but it usually does not present with increased CSF lactate."
+    }
+  ]
+}

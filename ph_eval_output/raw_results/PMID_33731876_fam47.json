@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "Pitt-Hopkins syndrome is characterized by severe intellectual disability, autism, hypotonia, and EEG abnormalities, including hypsarrhythmia and infantile spasms, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman syndrome presents with severe intellectual disability, autism, hypotonia, and EEG abnormalities, including hypsarrhythmia, though CNS hypomyelination is less commonly reported."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett syndrome can present with severe intellectual disability, autism, hypotonia, and EEG abnormalities, but CNS hypomyelination and infantile spasms are less typical."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "CDKL5 deficiency disorder includes infantile spasms, severe intellectual disability, and EEG abnormalities, but autism and CNS hypomyelination are less consistently reported."
+    },
+    {
+      "disease_name": "Aicardi syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.2,
+      "explanation": "Aicardi syndrome is associated with infantile spasms, hypsarrhythmia, and severe intellectual disability, but it is more commonly seen in females and CNS hypomyelination is not a hallmark feature."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.166,
+      "explanation": "FOXG1 syndrome presents with severe intellectual disability, autism, hypotonia, and EEG abnormalities, but CNS hypomyelination is not a primary feature."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.142,
+      "explanation": "STXBP1 encephalopathy includes infantile spasms, severe intellectual disability, and EEG abnormalities, but autism and CNS hypomyelination are less commonly reported."
+    }
+  ]
+}

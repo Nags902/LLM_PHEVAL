@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary Folate Malabsorption",
+      "disease_id": "OMIM:229050",
+      "score": 1.0,
+      "explanation": "The patient exhibits anemia and increased mean corpuscular volume, which are consistent with megaloblastic anemia often seen in folate deficiency. Elevated red cell adenosine deaminase activity can also be associated with folate metabolism disorders."
+    },
+    {
+      "disease_name": "Thiamine-Responsive Megaloblastic Anemia Syndrome",
+      "disease_id": "OMIM:249270",
+      "score": 0.5,
+      "explanation": "This syndrome presents with megaloblastic anemia and increased mean corpuscular volume, similar to the patient's symptoms. However, the colon cancer and small thenar eminence are not typical features, which lowers its rank."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.333,
+      "explanation": "Diamond-Blackfan Anemia can present with anemia and elevated red cell adenosine deaminase activity, but the increased mean corpuscular volume and colon cancer are less commonly associated, making it a less likely candidate."
+    },
+    {
+      "disease_name": "Lynch Syndrome",
+      "disease_id": "OMIM:120435",
+      "score": 0.25,
+      "explanation": "Lynch Syndrome is primarily associated with colon cancer, but the other features like anemia and elevated red cell adenosine deaminase activity are not typical, which places it lower in the ranking."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.2,
+      "explanation": "Fanconi Anemia can present with anemia and small thenar eminence, but the increased mean corpuscular volume and elevated red cell adenosine deaminase activity are not hallmark features, reducing its likelihood."
+    }
+  ]
+}

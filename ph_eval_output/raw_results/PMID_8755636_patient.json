@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "This disease is highly relevant due to the presence of hyperhomocystinemia, which is a hallmark feature. Additionally, the patient exhibits arachnodactyly and disproportionate tall stature, which are common in this condition. Intellectual disability can also be a feature, though it is variable."
+    },
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan syndrome is characterized by arachnodactyly and disproportionate tall stature. However, hyperhomocystinemia is not typically associated with this condition, and intellectual disability is rare, which makes it less likely than homocystinuria."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "Loeys-Dietz syndrome can present with arachnodactyly and tall stature, but hyperhomocystinemia is not a common feature. Intellectual disability is also not typically associated with this syndrome, making it a less likely candidate."
+    },
+    {
+      "disease_name": "Sotos syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.25,
+      "explanation": "Sotos syndrome is associated with disproportionate tall stature and intellectual disability, but arachnodactyly and hyperhomocystinemia are not typical features, which reduces its likelihood."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.2,
+      "explanation": "Weaver syndrome includes tall stature and intellectual disability, but arachnodactyly and hyperhomocystinemia are not commonly reported, making it a less probable diagnosis."
+    }
+  ]
+}

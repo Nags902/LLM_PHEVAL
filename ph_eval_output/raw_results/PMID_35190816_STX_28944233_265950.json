@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman syndrome is characterized by severe intellectual disability, absent speech, motor stereotypies, seizures (including infantile spasms and focal-onset seizures), and microcephaly. The presence of these features in the patient strongly suggests this diagnosis."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome, particularly in females, can present with severe intellectual disability, absent speech, motor stereotypies, and seizures. However, the presence of precocious puberty and sensorineural hearing impairment is less common, making this a less likely diagnosis than Angelman syndrome."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.333,
+      "explanation": "Prader-Willi syndrome shares some features such as intellectual disability and poor coordination, but lacks many of the neurological and seizure-related symptoms seen in this patient, making it a less likely diagnosis."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.25,
+      "explanation": "MECP2 duplication syndrome can present with intellectual disability, seizures, and motor abnormalities, but the absence of recurrent infections and respiratory issues makes this a less likely diagnosis."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "CDKL5 deficiency disorder is characterized by early-onset seizures, including infantile spasms, and severe developmental delay. However, the presence of sensorineural hearing impairment and precocious puberty is atypical, reducing the likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.166,
+      "explanation": "FOXG1 syndrome presents with microcephaly, severe intellectual disability, and seizures, but the presence of precocious puberty and sensorineural hearing impairment is not commonly associated, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.142,
+      "explanation": "Pitt-Hopkins syndrome includes severe intellectual disability, absent speech, and seizures, but the presence of precocious puberty and sensorineural hearing impairment is not typical, reducing the likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.125,
+      "explanation": "Smith-Lemli-Opitz syndrome can present with microcephaly, intellectual disability, and seizures, but the presence of precocious puberty and sensorineural hearing impairment is uncommon, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.111,
+      "explanation": "STXBP1 encephalopathy is characterized by early-onset seizures and severe intellectual disability, but the presence of precocious puberty and sensorineural hearing impairment is atypical, reducing the likelihood of this diagnosis."
+    },
+    {
+      "disease_name": "SYNGAP1-related intellectual disability",
+      "disease_id": "OMIM:612621",
+      "score": 0.1,
+      "explanation": "SYNGAP1-related intellectual disability includes seizures and developmental delay, but the presence of precocious puberty and sensorineural hearing impairment is not commonly associated, making this a less likely diagnosis."
+    }
+  ]
+}

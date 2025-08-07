@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marshall-Smith Syndrome",
+      "disease_id": "OMIM:602535",
+      "score": 1.0,
+      "explanation": "Marshall-Smith Syndrome is characterized by tall stature, intellectual disability, global developmental delay, hypotonia, and recurrent infections, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome is associated with tall stature, intellectual disability, and developmental delay, but lacks some of the other features like recurrent infections and hypermetropia."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.333,
+      "explanation": "Weaver Syndrome includes tall stature, intellectual disability, and developmental delay, but other features like hypotonia and recurrent infections are less commonly reported."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136140",
+      "score": 0.25,
+      "explanation": "Floating-Harbor Syndrome presents with short stature, but some cases may have developmental delay and intellectual disability, though it is less likely given the patient's tall stature."
+    },
+    {
+      "disease_name": "Kabuki Syndrome",
+      "disease_id": "OMIM:147920",
+      "score": 0.2,
+      "explanation": "Kabuki Syndrome includes intellectual disability and developmental delay, but other features like hypotonia and tall stature are less consistent with the patient's phenotype."
+    }
+  ]
+}

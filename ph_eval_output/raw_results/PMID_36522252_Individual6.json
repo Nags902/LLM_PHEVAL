@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "The patient's features such as absent speech, profound intellectual disability, motor delay, seizures, and high palate are highly consistent with Pitt-Hopkins syndrome, which is characterized by severe developmental delay and distinctive facial features."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome is considered due to the presence of seizures, global developmental delay, and absent speech, although the lack of regression and other typical features makes it less likely than Pitt-Hopkins syndrome."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman syndrome is a potential consideration given the profound intellectual disability, seizures, and absent speech, but the absence of a happy demeanor and other typical features reduces its likelihood."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome is considered due to the presence of hypercholesterolemia, hypertriglyceridemia, and developmental delay, but the lack of more specific features like syndactyly or microcephaly makes it less likely."
+    },
+    {
+      "disease_name": "Prader-Willi syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Prader-Willi syndrome is considered due to hypotonia and developmental delay, but the absence of hyperphagia and other typical features makes it less likely."
+    }
+  ]
+}

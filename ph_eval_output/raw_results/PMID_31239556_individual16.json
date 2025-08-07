@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "Cornelia de Lange Syndrome is characterized by microcephaly, intellectual disability, global developmental delay, feeding difficulties, hypertonia, and long eyelashes, which match the patient's features."
+    },
+    {
+      "disease_name": "MECP2-Related Disorders",
+      "disease_id": "OMIM:300005",
+      "score": 0.5,
+      "explanation": "MECP2-related disorders, including Rett syndrome, often present with microcephaly, intellectual disability, developmental delay, feeding difficulties, and hypertonia, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome can present with microcephaly, intellectual disability, developmental delay, feeding difficulties, and hypertonia, similar to the patient's features."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman Syndrome is associated with microcephaly, intellectual disability, developmental delay, feeding difficulties, and sleep abnormalities, which are present in the patient."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi Syndrome can include microcephaly, intellectual disability, developmental delay, feeding difficulties, and long eyelashes, matching some of the patient's features."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.166,
+      "explanation": "Noonan Syndrome can present with intellectual disability, developmental delay, feeding difficulties, and recurrent infections, though it is less likely given the absence of typical facial features or cardiac anomalies."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.142,
+      "explanation": "Prader-Willi Syndrome is associated with developmental delay, feeding difficulties, and hypertonia, but lacks other key features like microcephaly and recurrent infections."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.125,
+      "explanation": "Coffin-Siris Syndrome can include intellectual disability, developmental delay, feeding difficulties, and hypertonia, but other features like microcephaly are less common."
+    }
+  ]
+}

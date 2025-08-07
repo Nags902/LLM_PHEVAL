@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Distal Renal Tubular Acidosis with Nephrocalcinosis",
+      "disease_id": "OMIM:602722",
+      "score": 1.0,
+      "explanation": "The patient presents with distal renal tubular acidosis, nephrocalcinosis, and nephrolithiasis, which are hallmark features of this condition. Hypokalemia and impaired renal concentrating ability are also commonly associated."
+    },
+    {
+      "disease_name": "Primary Hyperoxaluria Type 1",
+      "disease_id": "OMIM:259900",
+      "score": 0.5,
+      "explanation": "This condition can present with nephrocalcinosis and nephrolithiasis due to excessive oxalate production. While distal renal tubular acidosis is not a primary feature, secondary tubular damage could occur."
+    },
+    {
+      "disease_name": "Bartter Syndrome Type 1",
+      "disease_id": "OMIM:601678",
+      "score": 0.333,
+      "explanation": "Bartter syndrome can present with hypokalemia and nephrocalcinosis. However, the presence of distal renal tubular acidosis is less common, making this a less likely diagnosis."
+    },
+    {
+      "disease_name": "Autosomal Dominant Hypocalcemia",
+      "disease_id": "OMIM:601198",
+      "score": 0.25,
+      "explanation": "This condition can cause nephrocalcinosis and hypokalemia due to calcium deposition in the kidneys. However, distal renal tubular acidosis is not a typical feature."
+    },
+    {
+      "disease_name": "Dent Disease Type 1",
+      "disease_id": "OMIM:300009",
+      "score": 0.2,
+      "explanation": "Dent disease can present with nephrolithiasis and impaired renal concentrating ability. However, distal renal tubular acidosis and hypokalemia are less commonly associated."
+    }
+  ]
+}

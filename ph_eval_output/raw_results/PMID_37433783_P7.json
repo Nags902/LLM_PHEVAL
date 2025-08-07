@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 1.0,
+      "explanation": "Coffin-Siris Syndrome is characterized by intellectual disability, delayed development, coarse facial features (including thick eyebrows and midface retrusion), and hypoplastic nails or digits (which can present as prominent fingertip pads). The patient's features align well with this syndrome."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Pitt-Hopkins Syndrome presents with intellectual disability, delayed motor and speech development, autism, and distinctive facial features (including a broad nasal bridge and thick eyebrows). The patient's phenotype matches several key features of this condition."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome involves intellectual disability, autism, delayed development, and facial dysmorphism (including midface retrusion and a broad nasal bridge). The patient's features are consistent with this syndrome, though fingertip pads are less commonly reported."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome includes intellectual disability, delayed development, broad thumbs and toes (which may resemble prominent fingertip pads), and facial features such as thick eyebrows and a beaked nose. The patient's features partially overlap with this syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome can present with intellectual disability, delayed development, and distinctive facial features (including thick eyebrows and a depressed nasal bridge). While the patient's features are somewhat consistent, the absence of cardiac or other typical Noonan features lowers its rank."
+    }
+  ]
+}

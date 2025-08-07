@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 1.0,
+      "explanation": "The patient's symptoms, including seizures, muscle weakness, respiratory failure, bradycardia, and hypertrophic cardiomyopathy, are consistent with MELAS, a mitochondrial disorder. The abnormal brainstem and corpus callosum morphology further support this diagnosis."
+    },
+    {
+      "disease_name": "Leigh syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh syndrome is a severe neurological disorder that can present with seizures, hypotonia, respiratory failure, and abnormal brainstem morphology. The presence of hypertrophic cardiomyopathy and abnormal white matter also aligns with this diagnosis."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 1",
+      "disease_id": "OMIM:607596",
+      "score": 0.333,
+      "explanation": "This condition is characterized by hypotonia, respiratory failure, and abnormal brainstem morphology. The patient's symptoms, including vocal cord paralysis and inspiratory stridor, could be related to brainstem dysfunction."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation type 1A",
+      "disease_id": "OMIM:212065",
+      "score": 0.25,
+      "explanation": "This disorder can present with hypotonia, seizures, and abnormal corpus callosum morphology. The patient's symptoms, though not entirely specific, could be consistent with this condition."
+    },
+    {
+      "disease_name": "Spinal muscular atrophy with respiratory distress type 1",
+      "disease_id": "OMIM:604320",
+      "score": 0.2,
+      "explanation": "This condition is known for causing respiratory failure and muscle weakness. The patient's symptoms, including vocal cord paralysis and inspiratory stridor, could be related, though other features like seizures are less typical."
+    }
+  ]
+}

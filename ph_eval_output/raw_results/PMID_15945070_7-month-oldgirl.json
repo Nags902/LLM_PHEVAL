@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "The patient presents with cerebellar atrophy, cerebral atrophy, hypotonia, failure to thrive, and a type I transferrin isoform profile, which are hallmark features of congenital disorders of glycosylation (CDG), particularly type Ia. Hypoalbuminemia and polycystic kidney dysplasia can also be associated with CDG."
+    },
+    {
+      "disease_name": "Zellweger syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.5,
+      "explanation": "Zellweger syndrome is a peroxisomal disorder that can present with cerebellar atrophy, cerebral atrophy, hypotonia, seizures, and failure to thrive. Polycystic kidney dysplasia and hypoalbuminemia can also be seen in this condition, although the type I transferrin isoform profile is more typical of CDG."
+    },
+    {
+      "disease_name": "Walker-Warburg syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.333,
+      "explanation": "Walker-Warburg syndrome is a severe form of congenital muscular dystrophy with brain and eye anomalies. The patient's cerebral atrophy, cerebellar atrophy, hypotonia, and esotropia could be consistent with this condition, but the lack of typical eye findings and the presence of a type I transferrin isoform profile make it less likely."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz syndrome is a cholesterol biosynthesis disorder that can present with cerebral atrophy, seizures, failure to thrive, and hypotonia. However, the type I transferrin isoform profile and polycystic kidney dysplasia are not typical features, making this less likely."
+    },
+    {
+      "disease_name": "Neonatal adrenoleukodystrophy",
+      "disease_id": "OMIM:202370",
+      "score": 0.2,
+      "explanation": "Neonatal adrenoleukodystrophy is a peroxisomal disorder that can present with cerebral atrophy, cerebellar atrophy, seizures, and hypotonia. However, the type I transferrin isoform profile and polycystic kidney dysplasia are not typical features, making this less likely."
+    }
+  ]
+}

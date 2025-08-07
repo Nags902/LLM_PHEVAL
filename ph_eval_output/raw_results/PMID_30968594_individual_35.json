@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "Clitoral hypertrophy and hyperpigmentation are common features of congenital adrenal hyperplasia (CAH) due to 21-hydroxylase deficiency, which is the most common cause of CAH. The hyperpigmentation can result from elevated ACTH levels due to impaired cortisol synthesis."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202010",
+      "score": 0.5,
+      "explanation": "This form of CAH can also present with clitoral hypertrophy and hyperpigmentation due to similar mechanisms as 21-hydroxylase deficiency, though it is less common."
+    },
+    {
+      "disease_name": "Familial glucocorticoid deficiency",
+      "disease_id": "OMIM:202200",
+      "score": 0.333,
+      "explanation": "This condition can present with hyperpigmentation due to elevated ACTH levels, though clitoral hypertrophy is less commonly associated."
+    },
+    {
+      "disease_name": "Addison disease",
+      "disease_id": "OMIM:300200",
+      "score": 0.25,
+      "explanation": "Addison disease can cause hyperpigmentation due to elevated ACTH levels, but clitoral hypertrophy is not a typical feature, making it less likely."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.2,
+      "explanation": "This syndrome can present with hyperpigmentation (caf\u00e9-au-lait spots) and rarely with clitoral hypertrophy due to endocrine dysfunction, though it is a less common association."
+    }
+  ]
+}

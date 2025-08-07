@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 1.0,
+      "explanation": "MELAS is a mitochondrial disorder that often presents with ophthalmoplegia, ptosis, respiratory insufficiency, and muscle weakness (asthenia), which are all present in this patient. Dysphagia can also occur due to muscle involvement."
+    },
+    {
+      "disease_name": "Myasthenia gravis",
+      "disease_id": "OMIM:254200",
+      "score": 0.5,
+      "explanation": "Myasthenia gravis is an autoimmune disorder characterized by muscle weakness (asthenia), ptosis, and ophthalmoplegia. Dysphagia and respiratory insufficiency can occur in severe cases."
+    },
+    {
+      "disease_name": "Oculopharyngeal muscular dystrophy (OPMD)",
+      "disease_id": "OMIM:164300",
+      "score": 0.333,
+      "explanation": "OPMD typically presents with ptosis, ophthalmoplegia, and dysphagia. Respiratory insufficiency and generalized weakness (asthenia) can occur in later stages."
+    },
+    {
+      "disease_name": "Kearns-Sayre syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.25,
+      "explanation": "Kearns-Sayre syndrome is a mitochondrial disorder characterized by ophthalmoplegia, ptosis, and respiratory insufficiency. Muscle weakness (asthenia) and dysphagia may also be present."
+    },
+    {
+      "disease_name": "Congenital myasthenic syndrome",
+      "disease_id": "OMIM:601462",
+      "score": 0.2,
+      "explanation": "Congenital myasthenic syndromes can present with ptosis, ophthalmoplegia, and muscle weakness (asthenia). Dysphagia and respiratory insufficiency may occur in severe cases."
+    }
+  ]
+}

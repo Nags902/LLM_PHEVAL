@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hutchinson-Gilford Progeria Syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 1.0,
+      "explanation": "The patient's features such as lipodystrophy, reduced subcutaneous adipose tissue, alopecia, mottled pigmentation, prominent superficial blood vessels, and reduced bone mineral density are highly suggestive of Hutchinson-Gilford Progeria Syndrome, a rare genetic condition characterized by accelerated aging."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia with Type A Lipodystrophy",
+      "disease_id": "OMIM:248370",
+      "score": 0.5,
+      "explanation": "This condition is associated with lipodystrophy, high palate, delayed eruption of teeth, micrognathia, and reduced subcutaneous adipose tissue, which are present in the patient. However, some features like proptosis and prolonged QT interval are less commonly associated."
+    },
+    {
+      "disease_name": "Cockayne Syndrome",
+      "disease_id": "OMIM:216400",
+      "score": 0.333,
+      "explanation": "Cockayne Syndrome shares features like failure to thrive, short stature, delayed eruption of teeth, and reduced subcutaneous adipose tissue with the patient. However, other features like proptosis and prolonged QT interval are not typical."
+    },
+    {
+      "disease_name": "Wiedemann-Rautenstrauch Syndrome",
+      "disease_id": "OMIM:264090",
+      "score": 0.25,
+      "explanation": "This syndrome includes features such as lipodystrophy, failure to thrive, short stature, and delayed eruption of teeth. However, the patient's proptosis and prolonged QT interval are not commonly seen in this condition."
+    },
+    {
+      "disease_name": "Restrictive Dermopathy",
+      "disease_id": "OMIM:275210",
+      "score": 0.2,
+      "explanation": "Restrictive Dermopathy can present with reduced subcutaneous adipose tissue, micrognathia, and high palate. However, other features like proptosis and prolonged QT interval are not typically associated with this condition."
+    }
+  ]
+}

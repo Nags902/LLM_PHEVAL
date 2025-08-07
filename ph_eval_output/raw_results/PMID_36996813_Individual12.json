@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by cerebral hemorrhage, basal ganglia calcification, and abnormal CNS myelination, which are key features in the patient's phenotype."
+    },
+    {
+      "disease_name": "Pseudo-TORCH Syndrome 1",
+      "disease_id": "OMIM:251290",
+      "score": 0.5,
+      "explanation": "This condition presents with cerebral hemorrhage, hydrocephalus, and basal ganglia calcification, aligning with several of the patient's symptoms."
+    },
+    {
+      "disease_name": "Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (CADASIL)",
+      "disease_id": "OMIM:125310",
+      "score": 0.333,
+      "explanation": "CADASIL can present with cerebral hemorrhage and abnormal CNS myelination, though other features like hydrocephalus are less common."
+    },
+    {
+      "disease_name": "Alexander Disease",
+      "disease_id": "OMIM:203450",
+      "score": 0.25,
+      "explanation": "This disease involves abnormal CNS myelination and gliosis, but other features like basal ganglia calcification are not typical."
+    },
+    {
+      "disease_name": "Megalencephalic Leukoencephalopathy with Subcortical Cysts 1",
+      "disease_id": "OMIM:604004",
+      "score": 0.2,
+      "explanation": "This condition includes features like abnormal CNS myelination and hydrocephalus, but lacks other key features such as cerebral hemorrhage."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is characterized by intellectual disability, autistic behavior, attention deficit hyperactivity disorder, global developmental delay, delayed speech and language development, recurrent otitis media, and microcephaly, which are all present in the patient."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome can present with intellectual disability, short stature, motor delay, delayed speech and language development, and anteverted nares, which are some of the patient's features."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "Rubinstein-Taybi Syndrome includes features such as intellectual disability, global developmental delay, delayed speech and language development, microcephaly, and recurrent otitis media, which overlap with the patient's phenotype."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome is associated with intellectual disability, global developmental delay, delayed speech and language development, microcephaly, and short stature, matching some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Williams Syndrome can present with intellectual disability, attention deficit hyperactivity disorder, delayed speech and language development, and recurrent otitis media, which are seen in the patient."
+    }
+  ]
+}

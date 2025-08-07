@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome, hepatocerebral form",
+      "disease_id": "OMIM:251880",
+      "score": 1.0,
+      "explanation": "The patient presents with jaundice, feeding difficulties, hypotonia, and depletion of mitochondrial DNA in the liver, which are hallmark features of this syndrome. The hepatocerebral form is particularly associated with liver involvement and coagulation abnormalities."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.5,
+      "explanation": "This disease is a subtype of mitochondrial DNA depletion syndrome and is characterized by liver failure, hypotonia, and feeding difficulties. The presence of mitochondrial DNA depletion in the liver supports this diagnosis."
+    },
+    {
+      "disease_name": "DGUOK-related mitochondrial DNA depletion syndrome",
+      "disease_id": "OMIM:251880",
+      "score": 0.333,
+      "explanation": "This condition is another form of mitochondrial DNA depletion syndrome with hepatic and neurological involvement. The patient's symptoms align with the typical presentation of DGUOK-related disorders."
+    },
+    {
+      "disease_name": "MPV17-related mitochondrial DNA depletion syndrome",
+      "disease_id": "OMIM:256810",
+      "score": 0.25,
+      "explanation": "MPV17 mutations can cause mitochondrial DNA depletion with liver and neurological symptoms. The patient's features, including jaundice and hypotonia, are consistent with this disorder."
+    },
+    {
+      "disease_name": "Tyrosinemia type 1",
+      "disease_id": "OMIM:276700",
+      "score": 0.2,
+      "explanation": "Although primarily a metabolic disorder, tyrosinemia type 1 can present with liver dysfunction, jaundice, and coagulation abnormalities. However, the mitochondrial DNA depletion is less typical, making this less likely than the mitochondrial disorders."
+    }
+  ]
+}

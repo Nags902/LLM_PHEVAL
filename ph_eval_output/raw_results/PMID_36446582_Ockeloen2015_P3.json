@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is a genetic condition that causes intellectual disability, autistic behavior, and macrocephaly (which can sometimes present as macrodontia). It is one of the most common causes of inherited intellectual disability."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.5,
+      "explanation": "KBG Syndrome is characterized by intellectual disability, macrodontia, and skeletal anomalies including hand abnormalities. Autistic behavior can also be present."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.333,
+      "explanation": "Sotos Syndrome is associated with intellectual disability, autistic behavior, and macrodontia. While hand abnormalities are less common, they can occur."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome includes intellectual disability, autistic behavior, and hand abnormalities. Macrodontia is less common but has been reported in some cases."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Pitt-Hopkins Syndrome presents with intellectual disability and autistic behavior. While macrodontia and hand abnormalities are not hallmark features, they can occasionally be present."
+    }
+  ]
+}

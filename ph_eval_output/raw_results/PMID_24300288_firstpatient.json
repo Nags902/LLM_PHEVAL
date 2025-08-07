@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mucopolysaccharidosis type IV (Morquio syndrome)",
+      "disease_id": "OMIM:253000",
+      "score": 1.0,
+      "explanation": "The patient's features such as beaking of vertebral bodies, platyspondyly, short metacarpals, and coarse facial features are highly suggestive of Morquio syndrome, a lysosomal storage disorder."
+    },
+    {
+      "disease_name": "Spondyloepiphyseal dysplasia congenita",
+      "disease_id": "OMIM:183900",
+      "score": 0.5,
+      "explanation": "The presence of platyspondyly, short neck, and lumbar hyperlordosis aligns with this condition, which is a type of skeletal dysplasia."
+    },
+    {
+      "disease_name": "Diastrophic dysplasia",
+      "disease_id": "OMIM:222600",
+      "score": 0.333,
+      "explanation": "Features like rhizomelia, scoliosis, and carpal bone hypoplasia are seen in diastrophic dysplasia, although some features like intellectual disability are atypical."
+    },
+    {
+      "disease_name": "Pseudoachondroplasia",
+      "disease_id": "OMIM:177170",
+      "score": 0.25,
+      "explanation": "This condition presents with short metacarpals, platyspondyly, and genu valgum, but the intellectual disability and coarse facial features are less common."
+    },
+    {
+      "disease_name": "Metatropic dysplasia",
+      "disease_id": "OMIM:156530",
+      "score": 0.2,
+      "explanation": "The patient's features such as platyspondyly and hypoplastic iliac wing could suggest metatropic dysplasia, but other features like intellectual disability are not typical."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ferguson-Smith disease",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "Ferguson-Smith disease is characterized by multiple self-healing squamous epitheliomas, which matches the patient's phenotypic feature."
+    },
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma",
+      "disease_id": "OMIM:132800",
+      "score": 0.5,
+      "explanation": "This is another name for Ferguson-Smith disease, also characterized by self-healing squamous epitheliomas."
+    },
+    {
+      "disease_name": "Basal cell carcinoma syndrome",
+      "disease_id": "OMIM:109400",
+      "score": 0.333,
+      "explanation": "Although primarily associated with basal cell carcinomas, this syndrome can sometimes present with squamous cell lesions, though less commonly self-healing."
+    },
+    {
+      "disease_name": "Xeroderma pigmentosum",
+      "disease_id": "OMIM:278700",
+      "score": 0.25,
+      "explanation": "This condition predisposes to various skin neoplasms, including squamous cell carcinomas, but self-healing squamous epitheliomas are not a hallmark feature."
+    }
+  ]
+}

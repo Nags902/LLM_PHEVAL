@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "The patient's features such as thick eyebrows, long philtrum, microcephaly, synophrys, and global developmental delay are highly suggestive of Cornelia de Lange Syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "The patient's features like thick eyebrows, low anterior hairline, and bulbous nose are consistent with Noonan Syndrome, though some features like microcephaly are less common."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "The patient's intellectual disability, global developmental delay, and abnormality of the hand could be indicative of Coffin-Siris Syndrome, though other features are less typical."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "The patient's microcephaly, intellectual disability, and feeding difficulties might suggest Smith-Lemli-Opitz Syndrome, but other features like thick eyebrows are less common."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "The patient's thick eyebrows, long philtrum, and intellectual disability could be seen in Rubinstein-Taybi Syndrome, though other features like microcephaly are less typical."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by facial features such as full cheeks, square face, deeply set eyes, and strabismus, which are present in the patient. Additionally, motor delay and delayed speech and language development are common features."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "Williams Syndrome can present with delayed speech and language development, feeding difficulties, and anxiety. However, some facial features like full cheeks and square face are less typical."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.333,
+      "explanation": "Prader-Willi Syndrome can include feeding difficulties, motor delay, and delayed speech and language development. The facial features like full cheeks and square face are less commonly associated."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Down Syndrome can present with delayed speech and language development, motor delay, and strabismus. However, other features like full cheeks and square face are less typical."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "Coffin-Siris Syndrome can include delayed speech and language development, motor delay, and feeding difficulties. The facial features like full cheeks and square face are less commonly associated."
+    }
+  ]
+}

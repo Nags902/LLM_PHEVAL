@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 1.0,
+      "explanation": "Lesch-Nyhan Syndrome is characterized by intellectual disability and hypertonia, which are present in the patient. It is an X-linked recessive disorder, fitting the male gender of the patient."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome often presents with intellectual disability and hypertonia. Although other features like happy demeanor and ataxia are common, the presence of the two key symptoms makes it a plausible candidate."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett Syndrome, primarily affecting females, can sometimes present in males with severe intellectual disability and hypertonia. The male gender of the patient makes this less likely but still possible."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Prader-Willi Syndrome can include intellectual disability and hypertonia, especially in infancy. However, other features like hyperphagia and obesity are more characteristic, making it less likely."
+    },
+    {
+      "disease_name": "Cerebral Palsy, Spastic Type",
+      "disease_id": "OMIM:603513",
+      "score": 0.2,
+      "explanation": "Spastic cerebral palsy often presents with hypertonia and can be associated with intellectual disability. However, it is usually diagnosed based on motor symptoms and history, making it a less specific match."
+    }
+  ]
+}

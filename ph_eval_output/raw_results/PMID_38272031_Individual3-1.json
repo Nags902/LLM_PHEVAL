@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt disease is a common form of inherited macular degeneration characterized by reduced visual acuity and macular dystrophy, which matches the patient's symptoms."
+    },
+    {
+      "disease_name": "Best Vitelliform Macular Dystrophy",
+      "disease_id": "OMIM:153700",
+      "score": 0.5,
+      "explanation": "Best disease is another form of macular dystrophy that leads to reduced visual acuity, though it often presents with a distinctive yellow lesion in the macula."
+    },
+    {
+      "disease_name": "Pattern Dystrophy of the Retinal Pigment Epithelium",
+      "disease_id": "OMIM:172810",
+      "score": 0.333,
+      "explanation": "Pattern dystrophy can cause macular dystrophy and reduced visual acuity, though it is less common than Stargardt or Best disease."
+    },
+    {
+      "disease_name": "Sorsby Fundus Dystrophy",
+      "disease_id": "OMIM:136900",
+      "score": 0.25,
+      "explanation": "Sorsby fundus dystrophy is a rare form of macular degeneration that can present with reduced visual acuity and macular dystrophy, typically in older adults."
+    },
+    {
+      "disease_name": "North Carolina Macular Dystrophy",
+      "disease_id": "OMIM:136550",
+      "score": 0.2,
+      "explanation": "North Carolina macular dystrophy is a rare condition that can cause macular dystrophy and reduced visual acuity, though it is usually congenital."
+    }
+  ]
+}

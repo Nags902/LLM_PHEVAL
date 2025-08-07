@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman syndrome is characterized by developmental delay, severe speech impairment, movement or balance disorder, and behavioral uniqueness. The presence of status epilepticus, myoclonus, hypotonia, and global developmental delay are highly suggestive of this condition."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome is a neurodevelopmental disorder that primarily affects females, featuring developmental regression, loss of purposeful hand skills, and motor abnormalities. The patient's delayed motor and speech development, hypotonia, and status epilepticus are consistent with this syndrome."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Dravet syndrome is a severe form of epilepsy characterized by prolonged seizures in the first year of life, followed by other seizure types and developmental delays. The patient's status epilepticus and developmental delays align with this condition."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.25,
+      "explanation": "Lennox-Gastaut syndrome is a severe form of epilepsy with multiple seizure types, developmental delays, and behavioral disturbances. The patient's status epilepticus, myoclonus, and global developmental delay are indicative of this syndrome."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2",
+      "disease_id": "OMIM:277470",
+      "score": 0.2,
+      "explanation": "Pontocerebellar hypoplasia type 2 is a neurodegenerative disorder characterized by progressive microcephaly, hypotonia, and developmental delay. The patient's hypotonia, global developmental delay, and persistent head lag are consistent with this condition."
+    }
+  ]
+}

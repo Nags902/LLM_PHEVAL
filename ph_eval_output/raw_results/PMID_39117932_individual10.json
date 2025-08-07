@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "Atypical teratoid/rhabdoid tumor is a hallmark feature of Rhabdoid Tumor Predisposition Syndrome, caused by mutations in the SMARCB1 gene."
+    },
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 2",
+      "disease_id": "OMIM:613325",
+      "score": 0.5,
+      "explanation": "Similar to RTPS1, RTPS2 is associated with rhabdoid tumors but is caused by mutations in the SMARCA4 gene."
+    },
+    {
+      "disease_name": "Li-Fraumeni Syndrome",
+      "disease_id": "OMIM:151623",
+      "score": 0.333,
+      "explanation": "Li-Fraumeni Syndrome is associated with a wide range of tumors, including atypical teratoid/rhabdoid tumors, due to TP53 mutations."
+    },
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.25,
+      "explanation": "Although rare, atypical teratoid/rhabdoid tumors have been reported in patients with Neurofibromatosis Type 1, caused by NF1 mutations."
+    },
+    {
+      "disease_name": "Gorlin Syndrome",
+      "disease_id": "OMIM:109400",
+      "score": 0.2,
+      "explanation": "Gorlin Syndrome, caused by PTCH1 mutations, is primarily associated with basal cell carcinomas but has been linked to rare cases of atypical teratoid/rhabdoid tumors."
+    }
+  ]
+}

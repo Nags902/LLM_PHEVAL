@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome (PHTS)",
+      "disease_id": "OMIM:158350",
+      "score": 1.0,
+      "explanation": "PHTS is associated with macrocephaly, autism, mild intellectual disability, and seizures, which are key features in this patient. Additionally, ventriculomegaly and motor delay can also be seen in this syndrome."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome is characterized by macrocephaly, tall stature, and mild intellectual disability. The patient's features such as motor delay and ventriculomegaly can also be present in this condition."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.333,
+      "explanation": "Fragile X Syndrome is a common cause of inherited intellectual disability and autism. The patient's features of ADHD and seizures can also be associated with this condition."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan Syndrome can present with mild intellectual disability, motor delay, and prominent supraorbital ridges. However, other features like macrocephaly and autism are less commonly associated."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.2,
+      "explanation": "Weaver Syndrome is characterized by tall stature, macrocephaly, and mild intellectual disability. The patient's motor delay and prominent supraorbital ridges can also be seen in this condition."
+    }
+  ]
+}

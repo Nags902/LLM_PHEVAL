@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Acromesomelic dysplasia, Grebe type",
+      "disease_id": "OMIM:200700",
+      "score": 1.0,
+      "explanation": "The patient's mesomelia, brachydactyly, and short stature are highly consistent with acromesomelic dysplasia, Grebe type, which is characterized by severe limb shortening and other skeletal abnormalities."
+    },
+    {
+      "disease_name": "Robinow syndrome, autosomal dominant",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "The patient's frontal bossing, hypertelorism, short stature, and micropenis are features seen in Robinow syndrome. However, the absence of some typical features like cleft lip/palate reduces the likelihood."
+    },
+    {
+      "disease_name": "Leri-Weill dyschondrosteosis",
+      "disease_id": "OMIM:127300",
+      "score": 0.333,
+      "explanation": "The mesomelia and short stature are consistent with Leri-Weill dyschondrosteosis, but the absence of Madelung deformity and other typical features makes this less likely."
+    },
+    {
+      "disease_name": "Otopalatodigital syndrome type 2",
+      "disease_id": "OMIM:304120",
+      "score": 0.25,
+      "explanation": "The patient's frontal bossing, hypertelorism, and broad thumbs are seen in otopalatodigital syndrome type 2, but the absence of other severe skeletal anomalies reduces the likelihood."
+    },
+    {
+      "disease_name": "Acrodysostosis",
+      "disease_id": "OMIM:101800",
+      "score": 0.2,
+      "explanation": "The brachydactyly and short stature could be consistent with acrodysostosis, but the absence of severe nasal hypoplasia and other typical features makes this less likely."
+    }
+  ]
+}

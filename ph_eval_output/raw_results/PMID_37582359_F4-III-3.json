@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteopetrosis, Autosomal Dominant 2",
+      "disease_id": "OMIM:166600",
+      "score": 1.0,
+      "explanation": "The patient presents with increased bone mineral density, thickened cortex of long bones, and thickened calvaria, which are hallmark features of osteopetrosis. The autosomal dominant form can also present with developmental delay and facial dysmorphisms like hypertelorism and depressed nasal bridge."
+    },
+    {
+      "disease_name": "Pyknodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.5,
+      "explanation": "Pyknodysostosis is characterized by increased bone density, thickened calvaria, and facial dysmorphisms including hypertelorism and depressed nasal bridge. The sandwich appearance of vertebral bodies and developmental delay can also be seen in this condition."
+    },
+    {
+      "disease_name": "Craniodiaphyseal Dysplasia",
+      "disease_id": "OMIM:122860",
+      "score": 0.333,
+      "explanation": "This condition is marked by thickened calvaria and increased bone density. The facial features such as hypertelorism and depressed nasal bridge, along with developmental delay, are consistent with this rare disorder."
+    },
+    {
+      "disease_name": "Sclerosteosis",
+      "disease_id": "OMIM:269500",
+      "score": 0.25,
+      "explanation": "Sclerosteosis presents with increased bone density and thickened calvaria. The facial dysmorphisms and developmental delay are less common but can occur in severe cases."
+    },
+    {
+      "disease_name": "Dysosteosclerosis",
+      "disease_id": "OMIM:224300",
+      "score": 0.2,
+      "explanation": "This rare disorder includes features like increased bone density, thickened calvaria, and developmental delay. The sandwich appearance of vertebral bodies and metaphyseal abnormalities are also noted in some cases."
+    }
+  ]
+}

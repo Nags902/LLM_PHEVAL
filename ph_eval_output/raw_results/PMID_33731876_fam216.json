@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2",
+      "disease_id": "OMIM:277470",
+      "score": 1.0,
+      "explanation": "Pontocerebellar hypoplasia type 2 is characterized by progressive microcephaly, global developmental delay, seizures, and hypoplasia of the corpus callosum, which are all present in the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Microcephalic Osteodysplastic Primordial Dwarfism Type II",
+      "disease_id": "OMIM:210720",
+      "score": 0.5,
+      "explanation": "This condition includes progressive microcephaly, global developmental delay, and seizures. Although edema and hypoplasia of the corpus callosum are less commonly reported, the other features align well."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.333,
+      "explanation": "Aicardi syndrome is associated with agenesis or hypoplasia of the corpus callosum, seizures, and developmental delay. Progressive microcephaly and edema are less typical but possible."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type 1A",
+      "disease_id": "OMIM:212065",
+      "score": 0.25,
+      "explanation": "This disorder can present with developmental delay, seizures, and hypoplasia of the corpus callosum. Edema and progressive microcephaly are less common but have been reported in some cases."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "Zellweger syndrome includes developmental delay, seizures, and hypoplasia of the corpus callosum. Progressive microcephaly and edema can also occur, though they are not the most prominent features."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Polyendocrinopathy Syndrome, Type I",
+      "disease_id": "OMIM:240300",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by chronic diarrhea and autoimmune hemolytic anemia, among other autoimmune manifestations."
+    },
+    {
+      "disease_name": "Immunodysregulation, Polyendocrinopathy, and Enteropathy, X-Linked",
+      "disease_id": "OMIM:304790",
+      "score": 0.5,
+      "explanation": "This X-linked disorder includes chronic diarrhea and autoimmune phenomena such as hemolytic anemia."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 0.333,
+      "explanation": "Patients with this immunodeficiency can present with chronic diarrhea and autoimmune complications including hemolytic anemia."
+    },
+    {
+      "disease_name": "Wiskott-Aldrich Syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.25,
+      "explanation": "This syndrome can present with autoimmune hemolytic anemia and chronic diarrhea due to immune dysregulation."
+    },
+    {
+      "disease_name": "Systemic Lupus Erythematosus",
+      "disease_id": "OMIM:152700",
+      "score": 0.2,
+      "explanation": "While less common in children, SLE can present with autoimmune hemolytic anemia and gastrointestinal symptoms like chronic diarrhea."
+    }
+  ]
+}

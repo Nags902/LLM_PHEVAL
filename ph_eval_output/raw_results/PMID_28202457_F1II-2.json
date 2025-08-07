@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia type 1",
+      "disease_id": "OMIM:164400",
+      "score": 1.0,
+      "explanation": "Spinocerebellar ataxia type 1 is a neurodegenerative disorder characterized by unsteady gait and nystagmus, which are prominent features in this patient."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.5,
+      "explanation": "Friedreich ataxia often presents with unsteady gait and nystagmus, making it a plausible diagnosis for this patient."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.333,
+      "explanation": "Ataxia-telangiectasia can present with unsteady gait and nystagmus, although other features like telangiectasia are typically present but not noted here."
+    },
+    {
+      "disease_name": "Episodic ataxia type 2",
+      "disease_id": "OMIM:108500",
+      "score": 0.25,
+      "explanation": "Episodic ataxia type 2 is characterized by episodes of ataxia and nystagmus, which could align with the patient's symptoms, though the episodic nature is not confirmed."
+    },
+    {
+      "disease_name": "Niemann-Pick disease type C",
+      "disease_id": "OMIM:257220",
+      "score": 0.2,
+      "explanation": "Niemann-Pick disease type C can present with unsteady gait and nystagmus, though it typically includes other neurological and systemic features not mentioned here."
+    }
+  ]
+}

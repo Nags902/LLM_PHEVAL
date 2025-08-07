@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "Leigh Syndrome is a severe neurological disorder that often presents with developmental regression, CNS demyelination, and mitochondrial complex deficiencies (I and IV), which are prominent in this patient. The presence of cerebral edema and congestive heart failure further supports this diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial Complex I Deficiency",
+      "disease_id": "OMIM:252010",
+      "score": 0.5,
+      "explanation": "This patient exhibits decreased activity of mitochondrial complex I, along with other mitochondrial-related symptoms like developmental delay and regression. The combination of these features strongly suggests a mitochondrial disorder, specifically Complex I deficiency."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Complex Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.333,
+      "explanation": "The decreased activity of the pyruvate dehydrogenase complex, along with global developmental delay and CNS demyelination, points towards this disorder. The patient's symptoms align well with the metabolic disturbances seen in this condition."
+    },
+    {
+      "disease_name": "Barth Syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.25,
+      "explanation": "Although primarily a cardiolipin disorder, Barth Syndrome can present with cardiomyopathy (congestive heart failure) and mitochondrial dysfunction. The patient's severely reduced left ventricular ejection fraction and mitochondrial complex deficiencies make this a possible, though less likely, diagnosis."
+    },
+    {
+      "disease_name": "Alpers Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.2,
+      "explanation": "Alpers Syndrome is characterized by progressive neurodegeneration, developmental regression, and cerebral edema. While the patient's symptoms overlap, the absence of liver dysfunction (a hallmark of Alpers) makes this less likely."
+    },
+    {
+      "disease_name": "Kearns-Sayre Syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.166,
+      "explanation": "This mitochondrial disorder can cause retinal degeneration and heart block, but the patient's symptoms are more severe and widespread, making this a less likely diagnosis."
+    }
+  ]
+}

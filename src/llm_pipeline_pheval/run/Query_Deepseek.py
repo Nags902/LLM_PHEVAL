@@ -122,7 +122,7 @@ def Extract_Data_query_deepseek(
     # Step 4) Query LLM via API
     try:
         # Query DeepSeek
-        client = OpenAI(api_key="add-api-key", base_url="https://api.deepseek.com")
+        client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
         response = client.chat.completions.create(
             model="deepseek-chat",

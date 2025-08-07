@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 1.0,
+      "explanation": "The patient exhibits B lymphocytopenia, decreased class-switched memory B cells, and decreased IgA and IgM, which are hallmark features of Common Variable Immunodeficiency (CVID). Recurrent sinusitis and poor response to polysaccharide vaccines are also common in CVID."
+    },
+    {
+      "disease_name": "Selective IgA Deficiency",
+      "disease_id": "OMIM:137100",
+      "score": 0.5,
+      "explanation": "The patient has decreased circulating IgA, which is the primary feature of Selective IgA Deficiency. However, the additional features of decreased IgM and B lymphocytopenia suggest a broader immunodeficiency, making this less likely than CVID."
+    },
+    {
+      "disease_name": "Hyper-IgM Syndrome Type 1",
+      "disease_id": "OMIM:308230",
+      "score": 0.333,
+      "explanation": "Hyper-IgM Syndrome Type 1 can present with decreased IgA and IgM, but typically involves elevated IgM, which is not mentioned here. The B lymphocytopenia and recurrent infections could still fit, but the phenotype is less typical."
+    },
+    {
+      "disease_name": "Agammaglobulinemia, X-Linked",
+      "disease_id": "OMIM:300755",
+      "score": 0.25,
+      "explanation": "X-linked Agammaglobulinemia often presents with low or absent B cells and immunoglobulins, but the patient's partial B cell presence and gender (male) make this a less likely but possible diagnosis."
+    },
+    {
+      "disease_name": "Autosomal Recessive Agammaglobulinemia",
+      "disease_id": "OMIM:601495",
+      "score": 0.2,
+      "explanation": "Similar to X-linked Agammaglobulinemia, this condition involves low B cells and immunoglobulins. The patient's features could fit, but the partial B cell presence makes it less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Prader-Willi Syndrome is characterized by obesity, intellectual disability, and short metacarpals, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Bardet-Biedl Syndrome often presents with obesity and intellectual disability, though short metacarpals are less commonly reported."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.333,
+      "explanation": "Cohen Syndrome can include obesity and intellectual disability, but short metacarpals are not a typical feature."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.25,
+      "explanation": "Alstr\u00f6m Syndrome is associated with obesity and intellectual disability, but short metacarpals are not commonly observed."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi Syndrome includes intellectual disability and short metacarpals, but obesity is less frequently reported."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cystic Fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 1.0,
+      "explanation": "Cystic Fibrosis is a genetic disorder that affects the respiratory system, leading to chronic sinusitis, bronchitis, and nasal polyps due to thick mucus production."
+    },
+    {
+      "disease_name": "Primary Ciliary Dyskinesia",
+      "disease_id": "OMIM:244400",
+      "score": 0.5,
+      "explanation": "Primary Ciliary Dyskinesia is a genetic disorder that impairs ciliary function in the respiratory tract, leading to chronic sinusitis, bronchitis, and rhinitis due to ineffective mucus clearance."
+    },
+    {
+      "disease_name": "Allergic Fungal Sinusitis",
+      "disease_id": "OMIM:608295",
+      "score": 0.333,
+      "explanation": "Allergic Fungal Sinusitis is a condition characterized by chronic sinusitis and nasal polyps due to an allergic response to fungal antigens."
+    },
+    {
+      "disease_name": "Samter's Triad (Aspirin-Exacerbated Respiratory Disease)",
+      "disease_id": "OMIM:208550",
+      "score": 0.25,
+      "explanation": "Samter's Triad involves asthma, nasal polyps, and aspirin sensitivity, often leading to chronic rhinosinusitis and bronchitis."
+    },
+    {
+      "disease_name": "Kartagener Syndrome",
+      "disease_id": "OMIM:244400",
+      "score": 0.2,
+      "explanation": "A subtype of Primary Ciliary Dyskinesia, Kartagener Syndrome includes situs inversus, chronic sinusitis, and bronchiectasis, contributing to chronic respiratory symptoms."
+    }
+  ]
+}

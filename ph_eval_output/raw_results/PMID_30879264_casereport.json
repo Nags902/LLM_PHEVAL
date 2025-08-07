@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "The patient exhibits several features consistent with CHARGE syndrome, including cleft palate, hypertelorism, ptosis, sensorineural hearing impairment, and Dandy-Walker malformation. The combination of these features strongly suggests CHARGE syndrome."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome is characterized by hypertelorism, ptosis, short stature, and developmental delay, which are present in this patient. However, the absence of cardiac anomalies and the presence of Dandy-Walker malformation make CHARGE syndrome more likely."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "This syndrome can present with cleft palate, ptosis, hypotonia, and developmental delay. However, the absence of microcephaly and typical facial features makes it less likely than CHARGE or Noonan syndromes."
+    },
+    {
+      "disease_name": "Kabuki syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki syndrome shares features like cleft palate, hypertelorism, and hypotonia with this patient. However, the absence of typical Kabuki facial features and the presence of Dandy-Walker malformation reduce its likelihood."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.2,
+      "explanation": "While 22q11.2 deletion syndrome can present with cleft palate, developmental delay, and recurrent infections, the absence of cardiac anomalies and typical facial features makes it less likely."
+    }
+  ]
+}

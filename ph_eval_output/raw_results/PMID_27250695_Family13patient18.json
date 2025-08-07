@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephalic Osteodysplastic Primordial Dwarfism Type 1 (MOPD1)",
+      "disease_id": "OMIM:210710",
+      "score": 1.0,
+      "explanation": "MOPD1 is characterized by microcephaly, short stature, and intellectual disability, which are all present in the patient."
+    },
+    {
+      "disease_name": "Seckel Syndrome",
+      "disease_id": "OMIM:210600",
+      "score": 0.5,
+      "explanation": "Seckel Syndrome presents with microcephaly, short stature, and intellectual disability, matching the patient's features."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.333,
+      "explanation": "Cornelia de Lange Syndrome can present with microcephaly, short stature, and intellectual disability, though it often includes additional features not noted here."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome can include microcephaly, short stature, and intellectual disability, but typically also involves broad thumbs and toes, which are not mentioned."
+    },
+    {
+      "disease_name": "Cockayne Syndrome Type A",
+      "disease_id": "OMIM:216400",
+      "score": 0.2,
+      "explanation": "Cockayne Syndrome can present with microcephaly, short stature, and intellectual disability, but usually includes photosensitivity and premature aging, which are not noted here."
+    }
+  ]
+}

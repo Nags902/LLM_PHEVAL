@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman syndrome is characterized by intellectual disability, delayed speech, seizures, and often aggressive behavior, which matches the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome can present with intellectual disability, delayed speech, and seizures, though aggressive behavior is less common. The patient's features partially align with this syndrome."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Dravet syndrome is a severe form of epilepsy that often includes intellectual disability and delayed speech, but aggressive behavior is not a typical feature."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "Phelan-McDermid syndrome includes intellectual disability and delayed speech, but seizures and aggressive behavior are less commonly reported."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.2,
+      "explanation": "Lennox-Gastaut syndrome is a severe epilepsy syndrome with intellectual disability, but delayed speech and aggressive behavior are not hallmark features."
+    }
+  ]
+}

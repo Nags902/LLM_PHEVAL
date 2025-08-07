@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 1.0,
+      "explanation": "West Syndrome is characterized by epileptic spasms, which are a hallmark feature of this condition. It is the most likely diagnosis given the presence of epileptic spasms."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Dravet Syndrome is a severe form of epilepsy that can include epileptic spasms, though it is more commonly associated with other types of seizures. It is a possible but less likely diagnosis."
+    },
+    {
+      "disease_name": "Lennox-Gastaut Syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.333,
+      "explanation": "Lennox-Gastaut Syndrome is a severe form of epilepsy that can include epileptic spasms, but it is typically associated with multiple seizure types and cognitive impairment. It is a less likely diagnosis based on the limited information provided."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.25,
+      "explanation": "Tuberous Sclerosis Complex can present with epileptic spasms, but it is also associated with other features such as skin abnormalities and tumors in various organs. It is a possible but less likely diagnosis given the limited phenotypic information."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman Syndrome can include seizures, including epileptic spasms, but it is also characterized by developmental delay, happy demeanor, and other features. It is a less likely diagnosis based on the provided information."
+    }
+  ]
+}

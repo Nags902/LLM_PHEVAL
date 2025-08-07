@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, axonal type 2K",
+      "disease_id": "OMIM:607831",
+      "score": 1.0,
+      "explanation": "The patient presents with motor axonal neuropathy, lower limb amyotrophy, and muscle weakness, which are hallmark features of axonal type Charcot-Marie-Tooth disease. The unsteady gait and frequent falls are also consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type II",
+      "disease_id": "OMIM:201300",
+      "score": 0.5,
+      "explanation": "This condition is characterized by impaired vibratory sensation and motor neuropathy, which align with the patient's symptoms. However, the prominence of motor symptoms makes it less likely than Charcot-Marie-Tooth disease."
+    },
+    {
+      "disease_name": "Spinal muscular atrophy with lower extremity predominance 1",
+      "disease_id": "OMIM:158600",
+      "score": 0.333,
+      "explanation": "The patient's lower limb amyotrophy and muscle weakness could suggest this condition, but the absence of upper motor neuron signs and the presence of sensory symptoms reduce its likelihood."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.25,
+      "explanation": "Friedreich ataxia can present with unsteady gait and impaired vibratory sensation, but the absence of cardiomyopathy and dysarthria makes it less likely in this case."
+    },
+    {
+      "disease_name": "Distal hereditary motor neuropathy type V",
+      "disease_id": "OMIM:600794",
+      "score": 0.2,
+      "explanation": "This condition involves distal motor neuropathy and muscle weakness, but the sensory impairment noted in the patient is not a typical feature, reducing its likelihood."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is a common cause of inherited intellectual disability and is often associated with delayed speech and language development as well as ADHD-like symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome, primarily affecting females, includes intellectual disability and delayed speech development, though it often presents with more severe motor and behavioral symptoms."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman Syndrome is characterized by intellectual disability and delayed speech, but typically also includes movement disorders and a happy demeanor, which are not mentioned here."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams Syndrome includes intellectual disability and delayed speech, but is usually associated with a highly social personality and cardiovascular issues, which are not noted in this case."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.2,
+      "explanation": "Phelan-McDermid Syndrome involves intellectual disability and delayed speech, but often includes hypotonia and autism spectrum disorder, which are not specified here."
+    }
+  ]
+}

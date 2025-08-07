@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman syndrome is characterized by developmental delay, epilepsy, EEG abnormalities, and reduced eye contact, which are prominent in this patient's phenotype."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome shares features such as developmental delay, epileptic encephalopathy, and EEG abnormalities, though it is more common in females."
+    },
+    {
+      "disease_name": "Lennox-Gastaut syndrome",
+      "disease_id": "OMIM:606369",
+      "score": 0.333,
+      "explanation": "This syndrome is a severe form of epilepsy with developmental delay and EEG abnormalities, fitting some of the patient's symptoms."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.25,
+      "explanation": "Dravet syndrome presents with epileptic encephalopathy and developmental delay, though it typically starts with febrile seizures."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "This condition can present with epilepsy, developmental delay, and EEG abnormalities, though other features like skin lesions are absent here."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.166,
+      "explanation": "Pitt-Hopkins syndrome includes developmental delay, epilepsy, and reduced eye contact, but other features like breathing abnormalities are not noted."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.142,
+      "explanation": "This disorder involves early-onset epilepsy, developmental delay, and EEG abnormalities, but is more common in females."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.125,
+      "explanation": "FOXG1 syndrome presents with developmental delay, epilepsy, and reduced eye contact, but other features like microcephaly are not mentioned."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.111,
+      "explanation": "This condition includes epileptic encephalopathy and developmental delay, but other features like movement disorders are not prominent here."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.1,
+      "explanation": "This syndrome involves developmental delay and epilepsy, but is typically seen in males and often includes recurrent infections."
+    }
+  ]
+}

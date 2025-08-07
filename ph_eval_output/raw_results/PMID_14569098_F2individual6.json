@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease",
+      "disease_id": "OMIM:173900",
+      "score": 1.0,
+      "explanation": "The patient presents with renal cysts and chronic kidney disease, which are hallmark features of Autosomal Dominant Polycystic Kidney Disease (ADPKD). Gout and renal interstitial fibrosis can also be associated with ADPKD due to progressive renal dysfunction."
+    },
+    {
+      "disease_name": "Familial Juvenile Hyperuricemic Nephropathy Type 1",
+      "disease_id": "OMIM:162000",
+      "score": 0.5,
+      "explanation": "This condition is characterized by hyperuricemia, gout, and chronic kidney disease, which align with the patient's symptoms. Renal cysts and interstitial fibrosis can also occur in advanced stages."
+    },
+    {
+      "disease_name": "Medullary Cystic Kidney Disease Type 1",
+      "disease_id": "OMIM:174000",
+      "score": 0.333,
+      "explanation": "Medullary cystic kidney disease can present with renal cysts, chronic kidney disease, and interstitial fibrosis. Gout may occur secondary to renal impairment."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.25,
+      "explanation": "Tuberous sclerosis can cause renal cysts and chronic kidney disease. Although less common, gout and interstitial fibrosis may develop due to renal dysfunction."
+    },
+    {
+      "disease_name": "Von Hippel-Lindau Syndrome",
+      "disease_id": "OMIM:193300",
+      "score": 0.2,
+      "explanation": "Von Hippel-Lindau syndrome is associated with renal cysts and chronic kidney disease. Gout and interstitial fibrosis are less typical but possible due to renal impairment."
+    }
+  ]
+}

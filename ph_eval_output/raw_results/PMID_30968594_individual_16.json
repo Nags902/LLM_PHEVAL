@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 21-Hydroxylase Deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This condition fits the hormonal profile, including decreased cortisol and increased ACTH, due to impaired steroidogenesis. Elevated prolactin and estradiol can occur due to compensatory mechanisms."
+    },
+    {
+      "disease_name": "Primary Adrenal Insufficiency",
+      "disease_id": "OMIM:240200",
+      "score": 0.5,
+      "explanation": "Decreased cortisol and increased ACTH are hallmark features. Elevated prolactin and estradiol may result from secondary hormonal imbalances."
+    },
+    {
+      "disease_name": "Kallmann Syndrome",
+      "disease_id": "OMIM:308700",
+      "score": 0.33,
+      "explanation": "Typically presents with hypogonadism and decreased testosterone. Elevated prolactin and ACTH could be secondary to hypothalamic-pituitary dysfunction."
+    },
+    {
+      "disease_name": "Prolactinoma",
+      "disease_id": "OMIM:600634",
+      "score": 0.25,
+      "explanation": "Increased prolactin is a primary feature, which can suppress testosterone production. Elevated ACTH and decreased cortisol may indicate secondary adrenal involvement."
+    },
+    {
+      "disease_name": "Familial Glucocorticoid Deficiency",
+      "disease_id": "OMIM:202200",
+      "score": 0.2,
+      "explanation": "Characterized by low cortisol and high ACTH. Elevated prolactin and estradiol may occur due to associated hormonal dysregulation."
+    }
+  ]
+}

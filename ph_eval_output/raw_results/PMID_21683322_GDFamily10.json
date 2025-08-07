@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by hypertelorism, short stature, and limitation of joint mobility, which are present in the patient. The facial features such as long philtrum, smooth philtrum, and full cheeks are also consistent with this syndrome."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "Williams Syndrome can present with hypertelorism, short stature, and full cheeks. The short palm and foot may also be seen, though other features like smooth philtrum and thin upper lip are less typical."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.333,
+      "explanation": "Coffin-Lowry Syndrome includes features like hypertelorism, short stature, and full cheeks. The short nose and limitation of joint mobility are also seen, though other features like smooth philtrum are less common."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome can present with hypertelorism, short stature, and short nose. The short palm and foot are also seen, though other features like smooth philtrum are less typical."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "Aarskog-Scott Syndrome includes features like hypertelorism, short stature, and short palm. The limitation of joint mobility and short nose are also seen, though other features like smooth philtrum are less common."
+    }
+  ]
+}

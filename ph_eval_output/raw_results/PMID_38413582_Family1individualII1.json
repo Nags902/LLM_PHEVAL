@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "The patient exhibits classic features of Duchenne Muscular Dystrophy including proximal muscle weakness, Gowers sign, calf muscle pseudohypertrophy, highly elevated creatine kinase, and myopathic EMG findings."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Similar to Duchenne but with a milder phenotype, the patient's symptoms could also align with Becker Muscular Dystrophy, though the severity of symptoms might suggest otherwise."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy",
+      "disease_id": "OMIM:310300",
+      "score": 0.333,
+      "explanation": "The presence of joint contractures and muscle weakness could suggest Emery-Dreifuss Muscular Dystrophy, though the lack of cardiac involvement noted might make this less likely."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy",
+      "disease_id": "OMIM:253600",
+      "score": 0.25,
+      "explanation": "The patient's proximal muscle weakness and elevated CK could be consistent with Limb-Girdle Muscular Dystrophy, though the specific subtype would need further genetic testing."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome",
+      "disease_id": "OMIM:601462",
+      "score": 0.2,
+      "explanation": "Motor delay and muscle weakness could be seen in Congenital Myasthenic Syndrome, but the lack of fatigability and other typical features makes this less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 1.0,
+      "explanation": "Joubert Syndrome is characterized by cerebellar hypoplasia, hypotonia, ataxia, intellectual disability, and visual impairment due to retinal dystrophy, which aligns with many of the patient's features."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2",
+      "disease_id": "OMIM:277470",
+      "score": 0.5,
+      "explanation": "Pontocerebellar Hypoplasia Type 2 presents with cerebellar hypoplasia, hypotonia, intellectual disability, and delayed motor development, matching several of the patient's symptoms."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia, Autosomal Recessive 1",
+      "disease_id": "OMIM:606002",
+      "score": 0.333,
+      "explanation": "This condition involves cerebellar atrophy, ataxia, and intellectual disability, which are consistent with the patient's phenotype."
+    },
+    {
+      "disease_name": "PEHO Syndrome",
+      "disease_id": "OMIM:260565",
+      "score": 0.25,
+      "explanation": "PEHO Syndrome includes cerebellar hypoplasia, hypotonia, visual impairment, and intellectual disability, overlapping with the patient's features."
+    },
+    {
+      "disease_name": "Congenital Disorders of Glycosylation Type 1A",
+      "disease_id": "OMIM:212065",
+      "score": 0.2,
+      "explanation": "This disorder can present with cerebellar hypoplasia, hypotonia, intellectual disability, and visual impairment, which are seen in the patient."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by developmental delay, motor delay, hearing impairment, and distinctive facial features such as a prominent metopic ridge and broad philtrum, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "Smith-Lemli-Opitz Syndrome presents with global developmental delay, autistic behavior, delayed speech, and distinctive facial features including a broad philtrum and highly arched eyebrows, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Coffin-Siris Syndrome includes features such as global developmental delay, delayed speech, and hearing impairment, which are consistent with the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome is associated with developmental delay, motor delay, and distinctive facial features like a broad philtrum and highly arched eyebrows, similar to the patient's features."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Fragile X Syndrome often presents with global developmental delay, autistic behavior, and delayed speech, which are relevant to the patient's symptoms, though some facial features are less typical."
+    }
+  ]
+}

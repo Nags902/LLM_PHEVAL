@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "This syndrome matches many of the patient's features including micrognathia, frontal bossing, underdeveloped nasal alae, intellectual disability, delayed speech and language development, delayed ability to walk, and short stature. Rod-cone dystrophy and brachydactyly are also reported in some cases."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "This syndrome includes features such as micrognathia, downslanted palpebral fissures, low-set ears, macrotia, intellectual disability, and delayed development. However, rod-cone dystrophy and Chiari malformation are less commonly associated."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome can present with short stature, low-set ears, downslanted palpebral fissures, and delayed development. However, features like rod-cone dystrophy and Chiari malformation are not typical."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "This syndrome includes rod-cone dystrophy, brachydactyly, and intellectual disability, but other features like Chiari malformation and micrognathia are not commonly associated."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.2,
+      "explanation": "This syndrome includes features such as micrognathia, underdeveloped nasal alae, delayed development, and intellectual disability. However, rod-cone dystrophy and Chiari malformation are not typical."
+    }
+  ]
+}

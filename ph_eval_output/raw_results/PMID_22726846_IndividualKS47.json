@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Walker-Warburg Syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 1.0,
+      "explanation": "Walker-Warburg Syndrome is a severe form of congenital muscular dystrophy with brain and eye abnormalities. The patient's features such as visual impairment, high myopia, intellectual disability, hydrocephalus, and global developmental delay are consistent with this syndrome."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome is characterized by cerebellar vermis hypoplasia, intellectual disability, and visual impairment. The patient's visual impairment, intellectual disability, and global developmental delay align with this syndrome, though other features like hydrocephalus are less typical."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome involves multiple congenital anomalies, intellectual disability, and facial dysmorphisms. The patient's midface retrusion, protruding tongue, and intellectual disability are consistent, but other features like hydrocephalus are less common."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.25,
+      "explanation": "Aicardi Syndrome is a rare genetic disorder with agenesis of the corpus callosum, intellectual disability, and visual impairment. The patient's visual impairment and intellectual disability fit, but other features like hydrocephalus and midface retrusion are less typical."
+    },
+    {
+      "disease_name": "Pfeiffer Syndrome",
+      "disease_id": "OMIM:101600",
+      "score": 0.2,
+      "explanation": "Pfeiffer Syndrome involves craniosynostosis, midface retrusion, and intellectual disability. The patient's midface retrusion and intellectual disability are consistent, but other features like visual impairment and hydrocephalus are less common."
+    }
+  ]
+}

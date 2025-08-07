@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary persistence of fetal hemoglobin (HPFH)",
+      "disease_id": "OMIM:142470",
+      "score": 1.0,
+      "explanation": "The patient exhibits persistence of hemoglobin F, which is a hallmark feature of HPFH. The elevated red cell adenosine deaminase activity and increased mean corpuscular volume are also consistent with this condition."
+    },
+    {
+      "disease_name": "Beta-thalassemia",
+      "disease_id": "OMIM:613985",
+      "score": 0.5,
+      "explanation": "Beta-thalassemia can present with anemia, increased mean corpuscular volume, and persistence of hemoglobin F. However, elevated red cell adenosine deaminase activity is less commonly associated with this condition."
+    },
+    {
+      "disease_name": "Diamond-Blackfan anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.333,
+      "explanation": "Diamond-Blackfan anemia can cause anemia and short stature, but the persistence of hemoglobin F and elevated red cell adenosine deaminase activity are not typical features."
+    },
+    {
+      "disease_name": "Fanconi anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi anemia can present with anemia and short stature, but the other features such as increased mean corpuscular volume and persistence of hemoglobin F are not commonly associated."
+    }
+  ]
+}

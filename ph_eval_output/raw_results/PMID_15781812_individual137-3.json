@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lafora disease",
+      "disease_id": "OMIM:254780",
+      "score": 1.0,
+      "explanation": "Lafora disease is a progressive myoclonus epilepsy characterized by seizures, myoclonus, dementia, and neurologic deterioration, which closely matches the patient's symptoms."
+    },
+    {
+      "disease_name": "Unverricht-Lundborg disease",
+      "disease_id": "OMIM:254800",
+      "score": 0.5,
+      "explanation": "This disease also presents with myoclonus, seizures, and progressive neurologic deterioration, though dementia is less prominent compared to Lafora disease."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis 2 (CLN2 disease)",
+      "disease_id": "OMIM:204500",
+      "score": 0.333,
+      "explanation": "CLN2 disease includes seizures, myoclonus, dementia, and progressive neurologic deterioration, but typically starts in early childhood."
+    },
+    {
+      "disease_name": "Dentatorubral-pallidoluysian atrophy (DRPLA)",
+      "disease_id": "OMIM:125370",
+      "score": 0.25,
+      "explanation": "DRPLA can present with seizures, myoclonus, dementia, and gait disturbance, but often includes additional movement disorders."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.2,
+      "explanation": "MELAS can include seizures and progressive neurologic deterioration, but typically also involves stroke-like episodes and lactic acidosis, which are not mentioned here."
+    }
+  ]
+}

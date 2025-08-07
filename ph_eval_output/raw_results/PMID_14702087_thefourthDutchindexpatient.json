@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bradyopsia",
+      "disease_id": "OMIM:608415",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of bradyopsia, difficulty adjusting to changes in luminance, reduced visual acuity, and photophobia are highly consistent with this condition, which is directly related to the phenotypic features listed."
+    },
+    {
+      "disease_name": "Oguchi disease",
+      "disease_id": "OMIM:258100",
+      "score": 0.5,
+      "explanation": "Oguchi disease presents with night blindness and delayed dark adaptation, which could align with the patient's difficulty adjusting to luminance changes and reduced visual acuity, though photophobia is less commonly reported."
+    },
+    {
+      "disease_name": "Achromatopsia",
+      "disease_id": "OMIM:216900",
+      "score": 0.333,
+      "explanation": "Achromatopsia includes symptoms like photophobia and reduced visual acuity, but typically also involves color blindness, which is not mentioned in the patient's features."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa",
+      "disease_id": "OMIM:268000",
+      "score": 0.25,
+      "explanation": "Retinitis pigmentosa can cause reduced visual acuity and photophobia, but it usually progresses to night blindness and peripheral vision loss, which are not noted in the patient's symptoms."
+    }
+  ]
+}

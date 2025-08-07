@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Camurati-Engelmann Disease",
+      "disease_id": "OMIM:131300",
+      "score": 1.0,
+      "explanation": "The patient's features, including cortical thickening of long bones, hyperostosis, narrowing of the medullary canal, and bone pain, are highly consistent with Camurati-Engelmann Disease, a rare genetic disorder characterized by progressive diaphyseal dysplasia."
+    },
+    {
+      "disease_name": "Hyperostosis Corticalis Generalisata",
+      "disease_id": "OMIM:239100",
+      "score": 0.5,
+      "explanation": "This condition, also known as Van Buchem disease, shares features like hyperostosis, cortical thickening, and narrowing of the medullary canal with the patient's presentation, though it typically lacks hypocalcemia and proptosis."
+    },
+    {
+      "disease_name": "Paget's Disease of Bone",
+      "disease_id": "OMIM:602080",
+      "score": 0.333,
+      "explanation": "Paget's disease can present with elevated alkaline phosphatase, bone pain, and cortical thickening, but it usually occurs in older individuals and lacks features like hypocalcemia and proptosis."
+    },
+    {
+      "disease_name": "Fibrous Dysplasia/McCune-Albright Syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.25,
+      "explanation": "This syndrome can present with bone pain and hyperostosis, but it typically includes caf\u00e9-au-lait spots and endocrine abnormalities, which are not mentioned in the patient's features."
+    },
+    {
+      "disease_name": "Osteopetrosis",
+      "disease_id": "OMIM:607634",
+      "score": 0.2,
+      "explanation": "Osteopetrosis can cause cortical thickening and narrowing of the medullary canal, but it usually presents with fractures and anemia, which are not noted in this patient."
+    }
+  ]
+}

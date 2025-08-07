@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial Partial Lipodystrophy, Dunnigan Type",
+      "disease_id": "OMIM:151660",
+      "score": 1.0,
+      "explanation": "This patient exhibits classic features of familial partial lipodystrophy, including loss of subcutaneous adipose tissue in limbs and trunk, lipodystrophy, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and type II diabetes mellitus. Dunnigan type is the most common form and fits the phenotype well."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy, Type 1 (Berardinelli-Seip Syndrome)",
+      "disease_id": "OMIM:608594",
+      "score": 0.5,
+      "explanation": "Congenital generalized lipodystrophy also presents with lipodystrophy, hypertriglyceridemia, and hepatic steatosis. However, the loss of adipose tissue is usually more severe and generalized, which may not fully match this patient's phenotype."
+    },
+    {
+      "disease_name": "Familial Partial Lipodystrophy, Kobberling Type",
+      "disease_id": "OMIM:608600",
+      "score": 0.33,
+      "explanation": "Kobberling type lipodystrophy primarily affects the limbs, which aligns with this patient's loss of subcutaneous adipose tissue in limbs. However, it typically spares the face and trunk, which may not fully explain this patient's truncal involvement."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia with Type A Lipodystrophy",
+      "disease_id": "OMIM:248370",
+      "score": 0.25,
+      "explanation": "This condition includes lipodystrophy and metabolic abnormalities similar to this patient's presentation. However, it typically also involves skeletal abnormalities which are not mentioned in this case."
+    },
+    {
+      "disease_name": "SHORT Syndrome",
+      "disease_id": "OMIM:269880",
+      "score": 0.2,
+      "explanation": "SHORT syndrome can include lipodystrophy and diabetes, but typically presents with additional features like short stature and ocular abnormalities that aren't mentioned here."
+    }
+  ]
+}

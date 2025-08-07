@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 1.0,
+      "explanation": "Angelman syndrome is characterized by developmental delay, speech impairment, movement or balance disorder (ataxia), and behavioral uniqueness. The presence of truncal ataxia, delayed speech and language development, and global developmental delay are highly suggestive of this condition."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett syndrome is a neurodevelopmental disorder that primarily affects girls, featuring developmental regression, loss of purposeful hand skills, and motor abnormalities. The patient's global developmental delay, hypotonia, and delayed speech development are consistent with early stages of Rett syndrome."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.333,
+      "explanation": "Spinocerebellar ataxia type 2 is a neurodegenerative disorder characterized by progressive ataxia and other neurological symptoms. The patient's truncal ataxia and developmental delay could be early signs of this condition, though typically onset is later in life."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Joubert syndrome is a rare genetic disorder characterized by abnormal brain development leading to ataxia, hypotonia, and developmental delay. The patient's truncal ataxia, hypotonia, and global developmental delay are consistent with features of Joubert syndrome."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "Dravet syndrome is a severe form of epilepsy characterized by seizures and developmental delays. The EEG with occipital slowing and global developmental delay could suggest this condition, though other features like ataxia are less typical."
+    }
+  ]
+}

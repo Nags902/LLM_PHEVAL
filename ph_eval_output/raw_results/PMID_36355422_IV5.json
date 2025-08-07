@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Usher Syndrome Type 1",
+      "disease_id": "OMIM:276900",
+      "score": 1.0,
+      "explanation": "Usher Syndrome Type 1 is characterized by congenital sensorineural hearing impairment and is a common cause of deaf-blindness."
+    },
+    {
+      "disease_name": "Waardenburg Syndrome Type 1",
+      "disease_id": "OMIM:193500",
+      "score": 0.5,
+      "explanation": "Waardenburg Syndrome Type 1 includes sensorineural hearing loss as a key feature, along with pigmentation abnormalities."
+    },
+    {
+      "disease_name": "Pendred Syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.333,
+      "explanation": "Pendred Syndrome is associated with sensorineural hearing impairment and often includes thyroid dysfunction."
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "disease_id": "OMIM:301050",
+      "score": 0.25,
+      "explanation": "Alport Syndrome can present with sensorineural hearing loss, typically alongside kidney disease."
+    },
+    {
+      "disease_name": "Branchiootorenal Syndrome 1",
+      "disease_id": "OMIM:113650",
+      "score": 0.2,
+      "explanation": "Branchiootorenal Syndrome 1 includes sensorineural hearing impairment and may involve branchial and renal anomalies."
+    }
+  ]
+}

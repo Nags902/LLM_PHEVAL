@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "PCDH19-related epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 1.0,
+      "explanation": "The patient's features, including focal seizures, intellectual disability, and autistic behavior, are highly consistent with PCDH19-related epilepsy, which often presents with seizures and developmental delays."
+    },
+    {
+      "disease_name": "ARX-related X-linked lissencephaly with abnormal genitalia",
+      "disease_id": "OMIM:300215",
+      "score": 0.5,
+      "explanation": "The presence of gray matter heterotopia, seizures, and developmental delay aligns with ARX-related disorders, though the patient lacks some typical features like lissencephaly."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.333,
+      "explanation": "The patient's seizures, developmental delay, and autistic behavior are seen in CDKL5 deficiency disorder, but the absence of early infantile epileptic encephalopathy may lower its likelihood."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.25,
+      "explanation": "The patient's features, such as seizures, developmental delay, and motor stereotypies, overlap with FOXG1 syndrome, though cortical atrophy is less commonly reported."
+    },
+    {
+      "disease_name": "MECP2 duplication syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.2,
+      "explanation": "The patient's intellectual disability, seizures, and autistic behavior are consistent with MECP2 duplication syndrome, but the absence of recurrent infections or hypotonia may reduce its likelihood."
+    }
+  ]
+}

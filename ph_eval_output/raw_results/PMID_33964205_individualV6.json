@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Waardenburg Syndrome Type 1",
+      "disease_id": "OMIM:193500",
+      "score": 1.0,
+      "explanation": "Waardenburg Syndrome Type 1 is characterized by sensorineural hearing impairment and delayed speech and language development, which are present in the patient."
+    },
+    {
+      "disease_name": "Waardenburg Syndrome Type 2",
+      "disease_id": "OMIM:193510",
+      "score": 0.5,
+      "explanation": "Waardenburg Syndrome Type 2 also includes sensorineural hearing impairment and can present with delayed speech and language development, though it is less common than Type 1."
+    },
+    {
+      "disease_name": "Branchiootorenal Syndrome 1",
+      "disease_id": "OMIM:113650",
+      "score": 0.333,
+      "explanation": "Branchiootorenal Syndrome 1 can present with sensorineural hearing impairment and delayed speech and language development, though it often includes additional features not noted in this patient."
+    },
+    {
+      "disease_name": "Pendred Syndrome",
+      "disease_id": "OMIM:274600",
+      "score": 0.25,
+      "explanation": "Pendred Syndrome is associated with sensorineural hearing impairment and may include delayed speech and language development, though it typically also involves thyroid abnormalities."
+    },
+    {
+      "disease_name": "Usher Syndrome Type 1",
+      "disease_id": "OMIM:276900",
+      "score": 0.2,
+      "explanation": "Usher Syndrome Type 1 includes sensorineural hearing impairment and delayed speech and language development, but it also typically involves retinitis pigmentosa, which is not mentioned here."
+    }
+  ]
+}

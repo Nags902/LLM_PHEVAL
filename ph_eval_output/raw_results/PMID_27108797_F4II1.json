@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Gillespie syndrome is characterized by aniridia, cerebellar ataxia, and intellectual disability, which aligns with the patient's features of aniridia, ataxia, cerebellar atrophy, and delayed motor milestones."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.5,
+      "explanation": "WAGR syndrome includes aniridia and developmental delay, but typically does not include cerebellar atrophy or ataxia, making it less likely but still possible given the aniridia and hypotonia."
+    },
+    {
+      "disease_name": "Marinesco-Sj\u00f6gren syndrome",
+      "disease_id": "OMIM:248800",
+      "score": 0.333,
+      "explanation": "Marinesco-Sj\u00f6gren syndrome features cerebellar ataxia, hypotonia, and nystagmus, but aniridia is not a typical feature, which reduces its likelihood."
+    },
+    {
+      "disease_name": "Joubert syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.25,
+      "explanation": "Joubert syndrome includes cerebellar atrophy, ataxia, and hypotonia, but aniridia is not a common feature, making it less likely."
+    },
+    {
+      "disease_name": "PURA-related neurodevelopmental disorder",
+      "disease_id": "OMIM:616158",
+      "score": 0.2,
+      "explanation": "PURA-related disorders include hypotonia, developmental delay, and poor head control, but aniridia and cerebellar atrophy are not typical, reducing its likelihood."
+    }
+  ]
+}

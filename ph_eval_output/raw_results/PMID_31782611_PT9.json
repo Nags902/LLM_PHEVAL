@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that primarily affects females and is characterized by microcephaly, delayed motor and speech development, and intellectual disability, which matches the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome is associated with developmental delays, speech impairment, and intellectual disability, though microcephaly is less commonly reported."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.333,
+      "explanation": "This syndrome involves intellectual disability, delayed speech, and motor development, but microcephaly is not a consistent feature."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "This syndrome includes microcephaly and intellectual disability, but other features like congenital anomalies are more prominent."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Characterized by microcephaly, developmental delay, and intellectual disability, but also includes distinctive facial features and limb anomalies not mentioned here."
+    }
+  ]
+}

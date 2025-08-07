@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia, Autosomal Recessive 1",
+      "disease_id": "OMIM:606002",
+      "score": 1.0,
+      "explanation": "The patient presents with ataxia and hypotonia, which are hallmark features of autosomal recessive spinocerebellar ataxias. The presence of dystonia and strabismus further supports this diagnosis."
+    },
+    {
+      "disease_name": "Dystonia 11, Myoclonic",
+      "disease_id": "OMIM:159900",
+      "score": 0.5,
+      "explanation": "The patient's dystonia is a prominent feature, and myoclonic dystonia can present with additional symptoms like ataxia and hypotonia, though strabismus is less commonly associated."
+    },
+    {
+      "disease_name": "Ataxia with Oculomotor Apraxia Type 1",
+      "disease_id": "OMIM:208920",
+      "score": 0.333,
+      "explanation": "This condition is characterized by ataxia and oculomotor apraxia, which can sometimes present as strabismus. Hypotonia and dystonia are less common but can occur."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.25,
+      "explanation": "This leukodystrophy can present with ataxia, hypotonia, and dystonia. Strabismus is also a possible feature, though less specific to this disease."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease Type C",
+      "disease_id": "OMIM:257220",
+      "score": 0.2,
+      "explanation": "This lysosomal storage disorder can present with ataxia, dystonia, and hypotonia. Strabismus is less common but has been reported in some cases."
+    }
+  ]
+}

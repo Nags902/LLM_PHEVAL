@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary Spastic Paraplegia with Optic Atrophy and Neuropathy",
+      "disease_id": "OMIM:610244",
+      "score": 1.0,
+      "explanation": "This disease matches many of the patient's features, including spastic paraparesis, optic atrophy, sensorimotor neuropathy, and cognitive impairment."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.5,
+      "explanation": "The patient's ataxia, cerebellar atrophy, and cognitive impairment are consistent with this disease, though other features like optic atrophy are less commonly associated."
+    },
+    {
+      "disease_name": "Leber Hereditary Optic Neuropathy",
+      "disease_id": "OMIM:535000",
+      "score": 0.333,
+      "explanation": "The patient's optic atrophy and progressive visual loss are hallmark features, but other symptoms like spastic paraparesis are not typically associated."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes",
+      "disease_id": "OMIM:540000",
+      "score": 0.25,
+      "explanation": "Increased CSF lactate and cognitive impairment are present, but other features like spastic paraparesis and optic atrophy are less common."
+    },
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.2,
+      "explanation": "Ataxia, sensorimotor neuropathy, and optic atrophy are seen in this disease, but spastic paraparesis is less typical."
+    }
+  ]
+}

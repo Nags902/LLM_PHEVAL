@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome 1",
+      "disease_id": "OMIM:225750",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by severe neurological features including brain atrophy, spasticity, and seizures, which align with the patient's symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome often presents with severe intellectual disability, seizures, and motor dysfunction, though it is more common in females."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.333,
+      "explanation": "Angelman Syndrome includes severe intellectual disability, seizures, and motor abnormalities, but typically lacks brain atrophy."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.25,
+      "explanation": "This condition can present with seizures and intellectual disability, but the presence of hypomyelination and brain atrophy is less common."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Leigh Syndrome involves neurodegenerative symptoms including seizures and brain atrophy, but typically manifests in infancy with lactic acidosis."
+    }
+  ]
+}

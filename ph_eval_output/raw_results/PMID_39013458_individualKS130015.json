@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Prader-Willi Syndrome is characterized by hypotonia, global developmental delay, intellectual disability, and overweight/obesity, which are all present in the patient. Self-mutilation and chronic constipation are also commonly observed in this syndrome."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Bardet-Biedl Syndrome can present with intellectual disability, global developmental delay, and obesity. While hypotonia and chronic constipation are less common, they have been reported in some cases. Self-mutilation is not typical but may occur due to behavioral issues."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Smith-Magenis Syndrome includes intellectual disability, global developmental delay, hypotonia, and self-injurious behaviors. Overweight and chronic constipation are less commonly reported but may be present in some individuals."
+    },
+    {
+      "disease_name": "Cohen Syndrome",
+      "disease_id": "OMIM:216550",
+      "score": 0.25,
+      "explanation": "Cohen Syndrome features intellectual disability, global developmental delay, and hypotonia. Overweight and chronic constipation are less common, and self-mutilation is not typically associated with this syndrome."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Alstr\u00f6m Syndrome includes obesity and intellectual disability, but global developmental delay, hypotonia, chronic constipation, and self-mutilation are not hallmark features of this condition."
+    }
+  ]
+}

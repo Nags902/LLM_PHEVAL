@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Killian Syndrome",
+      "disease_id": "OMIM:601803",
+      "score": 1.0,
+      "explanation": "Pallister-Killian Syndrome is characterized by intellectual disability, seizures, orofacial cleft, and hypoplasia of the corpus callosum, which are prominent in this patient's phenotype. Additional features like thick eyebrows, wide nose, and low-set ears also align with this syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan Syndrome can present with intellectual disability, seizures, and low-set ears. However, the patient's orofacial cleft and hypoplasia of the corpus callosum are less commonly associated with Noonan Syndrome, making it a less likely but still possible diagnosis."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "Smith-Lemli-Opitz Syndrome includes features like intellectual disability, seizures, and orofacial cleft. However, the patient's thick eyebrows and wide nose are less typical, making this a lower-ranked possibility."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome can present with intellectual disability, seizures, and hypoplasia of the corpus callosum. The patient's orofacial cleft and thick eyebrows are less common in this syndrome, but it remains a potential diagnosis."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi Syndrome includes features like intellectual disability, broad philtrum, and thick eyebrows. However, the patient's seizures and orofacial cleft are less typical, making this a less likely diagnosis."
+    }
+  ]
+}

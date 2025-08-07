@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "Marfan syndrome is a connective tissue disorder that commonly presents with mitral regurgitation, scoliosis, tall stature, and dural ectasia, all of which are present in this patient. The downslanted palpebral fissures and exotropia can also be associated with Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome is another connective tissue disorder that shares features with Marfan syndrome, including mitral regurgitation, scoliosis, tall stature, and dural ectasia. The presence of downslanted palpebral fissures and exotropia may also be seen in some subtypes of Loeys-Dietz syndrome."
+    },
+    {
+      "disease_name": "Homocystinuria",
+      "disease_id": "OMIM:236200",
+      "score": 0.333,
+      "explanation": "Homocystinuria can present with tall stature, scoliosis, and exotropia. Although mitral regurgitation and dural ectasia are less common, they have been reported in some cases. The downslanted palpebral fissures are not typical but may occur."
+    },
+    {
+      "disease_name": "Ehlers-Danlos syndrome, vascular type",
+      "disease_id": "OMIM:130050",
+      "score": 0.25,
+      "explanation": "Ehlers-Danlos syndrome, vascular type, can present with mitral regurgitation and dural ectasia. Scoliosis and tall stature are less common but possible. The facial features and exotropia are not typical but may be present in some cases."
+    },
+    {
+      "disease_name": "Stickler syndrome",
+      "disease_id": "OMIM:108300",
+      "score": 0.2,
+      "explanation": "Stickler syndrome can present with mitral regurgitation, scoliosis, and exotropia. Tall stature and dural ectasia are less common, and the downslanted palpebral fissures are a notable feature of this syndrome."
+    }
+  ]
+}

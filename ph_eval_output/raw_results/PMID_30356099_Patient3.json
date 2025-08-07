@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2",
+      "disease_id": "OMIM:277470",
+      "score": 1.0,
+      "explanation": "Pontocerebellar hypoplasia type 2 is characterized by cerebral atrophy, thin corpus callosum, epileptic spasms, and global developmental delay, which are all present in the patient's phenotype."
+    },
+    {
+      "disease_name": "MECP2-Related Disorders (Rett Syndrome)",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "MECP2-related disorders, including Rett syndrome, often present with EEG abnormalities, global developmental delay, and hypokinesia, which are seen in this patient."
+    },
+    {
+      "disease_name": "ARX-Related Disorders (X-Linked Lissencephaly with Abnormal Genitalia)",
+      "disease_id": "OMIM:300215",
+      "score": 0.333,
+      "explanation": "ARX-related disorders can present with epileptic encephalopathy, thin corpus callosum, and global developmental delay, matching some of the patient's features."
+    },
+    {
+      "disease_name": "STXBP1-Related Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.25,
+      "explanation": "STXBP1-related encephalopathy often includes epileptic spasms, EEG abnormalities, and global developmental delay, which are consistent with the patient's symptoms."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "Tuberous sclerosis complex can present with epileptic spasms and EEG abnormalities, though other features like cerebral atrophy are less common."
+    }
+  ]
+}

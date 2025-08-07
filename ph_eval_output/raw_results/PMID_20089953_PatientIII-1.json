@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteogenesis Imperfecta, Type I",
+      "disease_id": "OMIM:166200",
+      "score": 1.0,
+      "explanation": "The patient's recurrent fractures, osteopenia, and diaphyseal undertubulation are hallmark features of Osteogenesis Imperfecta. The delayed gross motor development and pes planus can also be associated with this condition."
+    },
+    {
+      "disease_name": "Osteoporosis-Pseudoglioma Syndrome",
+      "disease_id": "OMIM:259770",
+      "score": 0.5,
+      "explanation": "This syndrome is characterized by osteopenia, recurrent fractures, and proptosis, which align with the patient's features. The narrow chest and delayed motor development are also consistent."
+    },
+    {
+      "disease_name": "Marshall-Smith Syndrome",
+      "disease_id": "OMIM:602535",
+      "score": 0.333,
+      "explanation": "Although less common, this syndrome includes proptosis, narrow chest, and delayed motor development. The osteopenia and recurrent fractures are less typical but possible."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.25,
+      "explanation": "This syndrome can present with delayed motor development, pes planus, and flat occiput. The osteopenia and recurrent fractures are less common but have been reported."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome can present with narrow chest and delayed motor development. The other features like osteopenia and recurrent fractures are less typical but possible in some subtypes."
+    }
+  ]
+}

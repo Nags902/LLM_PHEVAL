@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "Infantile spasms, hypsarrhythmia, and developmental delay are hallmark features of CDKL5 Deficiency Disorder. The presence of focal seizures and EEG abnormalities further support this diagnosis."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 mutations are associated with early-onset epileptic encephalopathy, infantile spasms, and developmental delay. The EEG findings and hypotonia are consistent with this disorder."
+    },
+    {
+      "disease_name": "KCNQ2 Encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.333,
+      "explanation": "KCNQ2-related encephalopathy often presents with neonatal or infantile seizures, including focal seizures and hypsarrhythmia. The developmental delay and hypotonia are also common features."
+    },
+    {
+      "disease_name": "PCDH19-Related Epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19 mutations can cause early-onset seizures, including infantile spasms and focal seizures. The EEG abnormalities and developmental delay are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "ARX-Related Encephalopathy",
+      "disease_id": "OMIM:300382",
+      "score": 0.2,
+      "explanation": "ARX mutations are associated with X-linked infantile spasms, developmental delay, and hypotonia. The EEG findings and seizure types align with this disorder."
+    }
+  ]
+}

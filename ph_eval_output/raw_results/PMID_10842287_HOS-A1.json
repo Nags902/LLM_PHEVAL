@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Holt-Oram Syndrome is characterized by congenital heart defects (such as atrial septal defect) and upper limb abnormalities (including absent thumb and phocomelia), which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius (TAR) Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.5,
+      "explanation": "TAR Syndrome typically presents with absent thumbs and upper limb anomalies, but atrial septal defect is less common. The absence of thrombocytopenia in the patient's features lowers its rank."
+    },
+    {
+      "disease_name": "Roberts Syndrome",
+      "disease_id": "OMIM:268300",
+      "score": 0.333,
+      "explanation": "Roberts Syndrome includes phocomelia and other limb abnormalities, but atrial septal defect is not a hallmark feature, making it less likely than Holt-Oram Syndrome."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.25,
+      "explanation": "Fanconi Anemia can present with thumb anomalies and congenital heart defects, but phocomelia is rare. The absence of hematologic abnormalities in the patient's features lowers its rank."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.2,
+      "explanation": "VACTERL Association includes limb anomalies and congenital heart defects, but the combination of features in this patient is more specific to Holt-Oram Syndrome."
+    }
+  ]
+}

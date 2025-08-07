@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria Type 1",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "The patient presents with glutaric aciduria, elevated urine 3-hydroxyglutaric level, acute encephalopathy, and macrocephaly, which are hallmark features of Glutaric Aciduria Type 1. The presence of dystonia, seizures, and subdural hemorrhage further supports this diagnosis."
+    },
+    {
+      "disease_name": "Glutaric Aciduria Type 2",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Although less likely than Type 1, Glutaric Aciduria Type 2 can also present with elevated urine 3-hydroxyglutaric level and encephalopathy. However, the absence of other metabolic features makes this less probable."
+    },
+    {
+      "disease_name": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)",
+      "disease_id": "OMIM:540000",
+      "score": 0.333,
+      "explanation": "MELAS can present with seizures, encephalopathy, and dystonia, but the lack of lactic acidosis and stroke-like episodes makes this less likely."
+    },
+    {
+      "disease_name": "Succinic Semialdehyde Dehydrogenase Deficiency",
+      "disease_id": "OMIM:271980",
+      "score": 0.25,
+      "explanation": "This condition can present with seizures, dystonia, and encephalopathy, but the absence of elevated gamma-hydroxybutyric acid (GHB) in urine makes this less likely."
+    },
+    {
+      "disease_name": "Canavan Disease",
+      "disease_id": "OMIM:271900",
+      "score": 0.2,
+      "explanation": "Canavan Disease can present with macrocephaly, seizures, and encephalopathy, but the absence of white matter changes on imaging and the presence of glutaric aciduria make this less likely."
+    }
+  ]
+}

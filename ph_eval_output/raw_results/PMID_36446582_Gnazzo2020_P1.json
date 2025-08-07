@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG syndrome is characterized by intellectual disability, global developmental delay, macrodontia, long philtrum, and hypertelorism, which are all present in the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.5,
+      "explanation": "Coffin-Lowry syndrome includes intellectual disability, global developmental delay, delayed speech and language development, and abnormality of the hand, which match some of the patient's features."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome can present with intellectual disability, hypertelorism, and bulbous nose, though it lacks some of the other features seen in this patient."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Williams syndrome includes intellectual disability, delayed speech and language development, and feeding difficulties, but lacks other features like macrodontia and long philtrum."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.2,
+      "explanation": "Rubinstein-Taybi syndrome features intellectual disability, global developmental delay, and hypertelorism, but other key features like macrodontia are not typically associated."
+    }
+  ]
+}

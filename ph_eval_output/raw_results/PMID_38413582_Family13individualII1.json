@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "The patient exhibits classic signs of Duchenne Muscular Dystrophy including proximal muscle weakness, Gowers sign, calf muscle pseudohypertrophy, highly elevated creatine kinase, and motor delay."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Similar to Duchenne but with a milder phenotype, the patient's symptoms could also align with Becker Muscular Dystrophy, though the severity suggests Duchenne is more likely."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy",
+      "disease_id": "OMIM:Multiple subtypes (e.g., OMIM:253600, OMIM:608099)",
+      "score": 0.333,
+      "explanation": "The patient's proximal and distal muscle weakness, elevated CK, and myopathic EMG could suggest a form of Limb-Girdle Muscular Dystrophy, though the presence of Gowers sign and calf pseudohypertrophy is more typical of Duchenne or Becker."
+    },
+    {
+      "disease_name": "Spinal Muscular Atrophy with Respiratory Distress (SMARD1)",
+      "disease_id": "OMIM:604320",
+      "score": 0.25,
+      "explanation": "The respiratory insufficiency and muscle weakness could indicate SMARD1, but the highly elevated CK and calf pseudohypertrophy are less typical."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy",
+      "disease_id": "OMIM:310300",
+      "score": 0.2,
+      "explanation": "The patient's muscle weakness and respiratory insufficiency could fit, but the lack of joint contractures and the presence of calf pseudohypertrophy make this less likely."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Polyendocrinopathy Syndrome Type 1",
+      "disease_id": "OMIM:240300",
+      "score": 1.0,
+      "explanation": "Chronic oral candidiasis is a hallmark feature of this syndrome, often presenting as one of the first symptoms."
+    },
+    {
+      "disease_name": "Severe Combined Immunodeficiency",
+      "disease_id": "OMIM:601457",
+      "score": 0.5,
+      "explanation": "Chronic oral candidiasis can occur due to impaired T-cell immunity, which is a common feature in SCID."
+    },
+    {
+      "disease_name": "Hyper-IgE Syndrome",
+      "disease_id": "OMIM:147060",
+      "score": 0.333,
+      "explanation": "Recurrent fungal infections, including oral candidiasis, are common in this immunodeficiency disorder."
+    },
+    {
+      "disease_name": "Chronic Mucocutaneous Candidiasis",
+      "disease_id": "OMIM:114580",
+      "score": 0.25,
+      "explanation": "This condition is characterized by persistent or recurrent infections of the skin, nails, and mucous membranes with Candida species, including oral candidiasis."
+    },
+    {
+      "disease_name": "DiGeorge Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.2,
+      "explanation": "Though less common, chronic oral candidiasis can occur due to T-cell deficiency associated with this syndrome."
+    }
+  ]
+}

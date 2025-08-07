@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that primarily affects females, but can also occur in males. It is characterized by delayed speech and language development, global developmental delay, and delayed ability to walk. Although not a primary feature, abnormalities of the dentition can also occur."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome is a genetic disorder that causes developmental delay, speech impairment, and movement or balance issues. Delayed ability to walk is common, and dental abnormalities can also be present."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "Williams Syndrome is a developmental disorder that can cause delayed speech and language development, global developmental delay, and delayed ability to walk. Dental abnormalities are also a common feature of this syndrome."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Down Syndrome is a chromosomal disorder associated with developmental delays, including delayed speech and language development and delayed ability to walk. Dental abnormalities are also frequently observed."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Prader-Willi Syndrome is a genetic disorder that can cause global developmental delay, delayed speech and language development, and delayed ability to walk. Dental abnormalities may also be present, though they are less commonly reported."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fibrodysplasia Ossificans Progressiva",
+      "disease_id": "OMIM:135100",
+      "score": 1.0,
+      "explanation": "Subcutaneous ossification is a hallmark feature of this disease, and intellectual disability can occasionally be present. Elevated parathyroid hormone levels may occur due to secondary hyperparathyroidism from calcium metabolism disturbances."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 0.5,
+      "explanation": "Elevated circulating parathyroid hormone level is a key feature due to resistance to PTH. Intellectual disability is common, and subcutaneous ossifications can occur as part of Albright hereditary osteodystrophy."
+    },
+    {
+      "disease_name": "Progressive Osseous Heteroplasia",
+      "disease_id": "OMIM:166350",
+      "score": 0.333,
+      "explanation": "Characterized by subcutaneous ossification, and while intellectual disability is not typically a feature, it can rarely occur. Elevated PTH levels are not a common feature but could be secondary."
+    },
+    {
+      "disease_name": "Albright Hereditary Osteodystrophy",
+      "disease_id": "OMIM:103580",
+      "score": 0.25,
+      "explanation": "Intellectual disability and subcutaneous ossifications are features. Elevated PTH levels can be present due to pseudohypoparathyroidism."
+    },
+    {
+      "disease_name": "Hyperparathyroidism-Jaw Tumor Syndrome",
+      "disease_id": "OMIM:145001",
+      "score": 0.2,
+      "explanation": "Elevated PTH levels are a primary feature. Subcutaneous ossifications and intellectual disability are not typical but could be secondary manifestations."
+    }
+  ]
+}

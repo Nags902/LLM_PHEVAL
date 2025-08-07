@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome is characterized by tall stature, macrocephaly, and a high forehead, which are all present in the patient. Obesity can also be a feature in some cases."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome shares features such as tall stature, macrocephaly, and a high forehead with the patient's phenotype. Obesity is less common but can occur."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann Syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.333,
+      "explanation": "Beckwith-Wiedemann Syndrome can present with tall stature and macrocephaly. However, obesity and high forehead are less typical features."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X Syndrome can include macrocephaly and tall stature in some cases, but obesity and high forehead are not hallmark features."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel Syndrome Type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.2,
+      "explanation": "This syndrome can present with tall stature, macrocephaly, and obesity. A high forehead is less commonly reported but possible."
+    }
+  ]
+}

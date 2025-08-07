@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "CDKL5 Deficiency Disorder is a rare genetic disorder that presents with early-onset seizures, infantile spasms, and severe developmental delay, which aligns well with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "STXBP1-Related Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1-Related Encephalopathy is characterized by epileptic encephalopathy, infantile spasms, and severe intellectual disability, matching several of the patient's symptoms."
+    },
+    {
+      "disease_name": "ARX-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "ARX mutations are associated with X-linked infantile spasms, hypsarrhythmia, and severe intellectual disability, which are present in the patient."
+    },
+    {
+      "disease_name": "PCDH19-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19 mutations can cause early-onset epilepsy, including infantile spasms and developmental delay, though typically seen in females, it is still a consideration."
+    },
+    {
+      "disease_name": "KCNQ2-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.2,
+      "explanation": "KCNQ2 mutations are known to cause neonatal or infantile-onset epileptic encephalopathy with burst suppression on EEG, which matches some of the patient's features."
+    },
+    {
+      "disease_name": "SCN2A-Related Disorders",
+      "disease_id": "OMIM:613721",
+      "score": 0.166,
+      "explanation": "SCN2A mutations can lead to severe epileptic encephalopathy with infantile spasms and developmental delay, though the phenotype can vary widely."
+    },
+    {
+      "disease_name": "FOXG1 Syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.142,
+      "explanation": "FOXG1 Syndrome presents with severe intellectual disability, epilepsy, and developmental delay, but may not fully account for the seizure types seen in this patient."
+    },
+    {
+      "disease_name": "GRIN2B-Related Neurodevelopmental Disorder",
+      "disease_id": "OMIM:613970",
+      "score": 0.125,
+      "explanation": "GRIN2B mutations are associated with intellectual disability and epilepsy, though the specific seizure types may not fully align with the patient's presentation."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.111,
+      "explanation": "MECP2 Duplication Syndrome can cause severe intellectual disability and epilepsy, but it is less commonly associated with infantile spasms."
+    },
+    {
+      "disease_name": "SYNGAP1-Related Intellectual Disability",
+      "disease_id": "OMIM:612621",
+      "score": 0.1,
+      "explanation": "SYNGAP1 mutations are linked to intellectual disability and epilepsy, but the specific EEG and seizure features may not fully match the patient's condition."
+    }
+  ]
+}

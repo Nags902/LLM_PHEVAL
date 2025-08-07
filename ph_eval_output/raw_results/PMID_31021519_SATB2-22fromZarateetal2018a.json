@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 1.0,
+      "explanation": "Coffin-Lowry Syndrome is characterized by intellectual disability, global developmental delay, growth delay, feeding difficulties in infancy, and dental abnormalities, which match the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.5,
+      "explanation": "Williams Syndrome can present with intellectual disability, developmental delay, growth delay, and dental abnormalities, though it is less likely to present with reduced bone mineral density."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.333,
+      "explanation": "Prader-Willi Syndrome is associated with feeding difficulties in infancy, intellectual disability, and growth delay, but other features like dental abnormalities and reduced bone mineral density are less common."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta",
+      "disease_id": "OMIM:166200",
+      "score": 0.25,
+      "explanation": "Osteogenesis Imperfecta is primarily known for reduced bone mineral density and growth delay, but intellectual disability and dental abnormalities can also occur in some subtypes."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett Syndrome can present with global developmental delay, intellectual disability, and growth delay, but feeding difficulties and dental abnormalities are less prominent features."
+    }
+  ]
+}

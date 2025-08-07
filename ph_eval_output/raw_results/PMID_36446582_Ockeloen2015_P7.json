@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG syndrome is characterized by macrodontia, hand abnormalities, short stature, and delayed skeletal maturation, which closely match the patient's features."
+    },
+    {
+      "disease_name": "Robinow syndrome",
+      "disease_id": "OMIM:180700",
+      "score": 0.5,
+      "explanation": "Robinow syndrome can present with short stature, hand abnormalities, and delayed skeletal maturation, though macrodontia is less commonly reported."
+    },
+    {
+      "disease_name": "Coffin-Lowry syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.333,
+      "explanation": "Coffin-Lowry syndrome includes short stature and delayed skeletal maturation, but hand abnormalities and macrodontia are less prominent features."
+    },
+    {
+      "disease_name": "Weaver syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.25,
+      "explanation": "Weaver syndrome can present with advanced skeletal maturation, but some cases may show delayed maturation, short stature, and hand abnormalities."
+    }
+  ]
+}

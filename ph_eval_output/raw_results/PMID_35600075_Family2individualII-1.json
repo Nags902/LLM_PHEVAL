@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Generalized epilepsy with febrile seizures plus type 1",
+      "disease_id": "OMIM:604233",
+      "score": 1.0,
+      "explanation": "This disease is characterized by febrile seizures that can occur beyond the typical age range, making it a strong candidate given the patient's history of febrile seizures."
+    },
+    {
+      "disease_name": "Dravet syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Dravet syndrome often begins with febrile seizures in infancy and can progress to other types of seizures, though it is typically more severe than the patient's presentation."
+    },
+    {
+      "disease_name": "Familial febrile seizures 1",
+      "disease_id": "OMIM:121210",
+      "score": 0.333,
+      "explanation": "This condition is a common cause of febrile seizures in children, though it usually resolves by age 6, which may not fully explain the patient's history."
+    },
+    {
+      "disease_name": "PCDH19-related epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "This X-linked disorder can present with febrile seizures but often includes other seizure types and developmental delays, which are not mentioned in the patient's history."
+    }
+  ]
+}

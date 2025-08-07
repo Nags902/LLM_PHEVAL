@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria Type 1",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "The patient exhibits elevated urine 3-hydroxyglutaric level, glutaric aciduria, and elevated circulating glutarylcarnitine concentration, which are hallmark features of Glutaric Aciduria Type 1. The presence of cerebral atrophy, macrocephaly, subdural hemorrhage, and developmental regression further supports this diagnosis."
+    },
+    {
+      "disease_name": "Glutaric Aciduria Type 2",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Glutaric Aciduria Type 2 also presents with glutaric aciduria and elevated glutarylcarnitine, but typically includes additional metabolic disturbances. The absence of similar reference cases and the specific phenotypic features make this less likely than Type 1."
+    },
+    {
+      "disease_name": "Mitochondrial Trifunctional Protein Deficiency",
+      "disease_id": "OMIM:609015",
+      "score": 0.33,
+      "explanation": "This condition can present with similar metabolic abnormalities and neurological symptoms, but it is less specific to the patient's features compared to Glutaric Aciduria Type 1."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.25,
+      "explanation": "This disorder shares some metabolic features with the patient's presentation, but the absence of key symptoms like cardiomyopathy or myopathy makes it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Cerebral Organic Aciduria",
+      "disease_id": "OMIM:243910",
+      "score": 0.2,
+      "explanation": "This is a broader category that includes some of the patient's symptoms, but the specific metabolic markers point more strongly towards Glutaric Aciduria Type 1."
+    }
+  ]
+}

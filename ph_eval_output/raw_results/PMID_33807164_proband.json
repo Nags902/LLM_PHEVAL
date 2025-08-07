@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ehlers-Danlos syndrome, classical type",
+      "disease_id": "OMIM:130000",
+      "score": 1.0,
+      "explanation": "The patient exhibits several features consistent with Ehlers-Danlos syndrome, including joint hypermobility, cutis laxa, thin skin, bruising susceptibility, and bladder diverticulum. These are hallmark signs of connective tissue disorders like EDS."
+    },
+    {
+      "disease_name": "Loeys-Dietz syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares features such as joint hypermobility, inguinal hernia, and congenital diaphragmatic hernia with the patient's phenotype. The presence of a long face and high anterior hairline also aligns with this syndrome."
+    },
+    {
+      "disease_name": "Cutis laxa, autosomal dominant",
+      "disease_id": "OMIM:123700",
+      "score": 0.333,
+      "explanation": "The patient's cutis laxa, thin skin, and bruising susceptibility are strongly indicative of this condition. The additional features of joint hypermobility and hernia further support this diagnosis."
+    },
+    {
+      "disease_name": "Williams-Beuren syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "Although not a perfect match, Williams-Beuren syndrome can present with some overlapping features such as long philtrum, dental malocclusion, and hypotonia. However, the absence of cardiovascular anomalies makes this less likely."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan syndrome can present with telecanthus, downturned corners of the mouth, and joint hypermobility. However, the absence of cardiac defects and short stature reduces the likelihood."
+    }
+  ]
+}

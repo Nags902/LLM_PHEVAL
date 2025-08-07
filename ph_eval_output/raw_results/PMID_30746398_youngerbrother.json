@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2 (SCA2)",
+      "disease_id": "OMIM:183090",
+      "score": 1.0,
+      "explanation": "SCA2 is characterized by cerebellar atrophy, parkinsonism, rigidity, bradykinesia, hyperreflexia, and Babinski sign, which are all present in the patient. The stooped posture and positive Romberg sign further support this diagnosis."
+    },
+    {
+      "disease_name": "Multiple System Atrophy, Parkinsonian Type (MSA-P)",
+      "disease_id": "OMIM:146500",
+      "score": 0.5,
+      "explanation": "MSA-P presents with parkinsonism, rigidity, bradykinesia, and cerebellar atrophy. The presence of hyperreflexia and Babinski sign can also be seen in some cases, though it is less common than in SCA2."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia with Cerebellar Ataxia (SPG7)",
+      "disease_id": "OMIM:607259",
+      "score": 0.333,
+      "explanation": "SPG7 can present with cerebellar atrophy, hyperreflexia, Babinski sign, and parkinsonism. However, the parkinsonism and rigidity are less prominent compared to SCA2 or MSA-P."
+    },
+    {
+      "disease_name": "Dentatorubral-Pallidoluysian Atrophy (DRPLA)",
+      "disease_id": "OMIM:125370",
+      "score": 0.25,
+      "explanation": "DRPLA can present with cerebellar atrophy, hyperreflexia, and Babinski sign. Parkinsonism and rigidity may occur but are less common. The patient's age is somewhat atypical for DRPLA."
+    },
+    {
+      "disease_name": "Kufor-Rakeb Syndrome (PARK9)",
+      "disease_id": "OMIM:606693",
+      "score": 0.2,
+      "explanation": "PARK9 is a rare form of juvenile-onset parkinsonism with hyperreflexia and Babinski sign. Cerebellar atrophy is not a typical feature, but the other symptoms align somewhat with the patient's presentation."
+    }
+  ]
+}

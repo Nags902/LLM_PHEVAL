@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Van der Woude syndrome 1",
+      "disease_id": "OMIM:119300",
+      "score": 1.0,
+      "explanation": "Van der Woude syndrome is a common cause of cleft lip and palate and is associated with intellectual disability in some cases."
+    },
+    {
+      "disease_name": "22q11.2 deletion syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.5,
+      "explanation": "22q11.2 deletion syndrome often presents with cleft palate and developmental delay, including intellectual disability."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.333,
+      "explanation": "CHARGE syndrome can include cleft palate and global developmental delay, though it typically has additional features not mentioned here."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz syndrome includes intellectual disability and developmental delay, with occasional cleft palate."
+    },
+    {
+      "disease_name": "Stickler syndrome type 1",
+      "disease_id": "OMIM:108300",
+      "score": 0.2,
+      "explanation": "Stickler syndrome often involves cleft palate but typically does not include intellectual disability, making it a less likely match."
+    }
+  ]
+}

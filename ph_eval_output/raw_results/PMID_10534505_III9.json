@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial Mediterranean Fever",
+      "disease_id": "OMIM:249100",
+      "score": 1.0,
+      "explanation": "Familial Mediterranean Fever is a hereditary autoinflammatory disorder that often presents with renal and hepatic amyloidosis, which aligns with the patient's symptoms of renal insufficiency, hepatic amyloidosis, and renal amyloidosis."
+    },
+    {
+      "disease_name": "AA Amyloidosis",
+      "disease_id": "OMIM:104750",
+      "score": 0.5,
+      "explanation": "AA Amyloidosis is a secondary form of amyloidosis that can result from chronic inflammatory conditions, leading to renal and hepatic amyloidosis, which matches the patient's symptoms."
+    },
+    {
+      "disease_name": "AL Amyloidosis",
+      "disease_id": "OMIM:254500",
+      "score": 0.333,
+      "explanation": "AL Amyloidosis is a primary form of amyloidosis caused by the deposition of immunoglobulin light chains, often affecting the kidneys and liver, consistent with the patient's renal and hepatic amyloidosis."
+    },
+    {
+      "disease_name": "TTR Amyloidosis",
+      "disease_id": "OMIM:105210",
+      "score": 0.25,
+      "explanation": "TTR Amyloidosis involves the deposition of transthyretin amyloid fibrils and can lead to renal and hepatic amyloidosis, though it is less common than other forms of amyloidosis."
+    },
+    {
+      "disease_name": "Dialysis-Related Amyloidosis",
+      "disease_id": "OMIM:610978",
+      "score": 0.2,
+      "explanation": "Dialysis-Related Amyloidosis occurs in patients with long-term renal failure and can lead to systemic amyloid deposition, including in the liver and kidneys, though the patient's age may make this less likely."
+    }
+  ]
+}

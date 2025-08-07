@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is a common genetic disorder that matches many of the patient's features, including short stature, developmental delay, hypotonia, and distinctive facial features like deeply set eyes and brachycephaly."
+    },
+    {
+      "disease_name": "3-M Syndrome",
+      "disease_id": "OMIM:273750",
+      "score": 0.5,
+      "explanation": "3-M Syndrome is characterized by short stature, brachycephaly, and developmental delay, which align with the patient's symptoms, though hypotonia and deeply set eyes are less commonly associated."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.333,
+      "explanation": "Coffin-Siris Syndrome presents with developmental delay, hypotonia, and short stature, but the facial features may vary. The patient's deeply set eyes and brachycephaly could be consistent with this syndrome."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.25,
+      "explanation": "Prader-Willi Syndrome is known for hypotonia and developmental delay, but short stature and the specific facial features are less prominent, making it a less likely match."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz Syndrome includes developmental delay and hypotonia, with possible brachycephaly, but the other features are less commonly observed, reducing its likelihood."
+    }
+  ]
+}

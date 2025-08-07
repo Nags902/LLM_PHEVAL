@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Opitz G/BBB Syndrome, Type I",
+      "disease_id": "OMIM:300000",
+      "score": 1.0,
+      "explanation": "Hypertelorism and orofacial cleft are hallmark features of Opitz G/BBB Syndrome, and sleep abnormalities can also be present due to craniofacial abnormalities."
+    },
+    {
+      "disease_name": "Van der Woude Syndrome 1",
+      "disease_id": "OMIM:119300",
+      "score": 0.5,
+      "explanation": "Van der Woude Syndrome is characterized by orofacial clefts and can sometimes present with hypertelorism, though sleep abnormalities are less commonly reported."
+    },
+    {
+      "disease_name": "Craniofrontonasal Syndrome",
+      "disease_id": "OMIM:304110",
+      "score": 0.333,
+      "explanation": "This syndrome includes hypertelorism and orofacial clefts, but sleep abnormalities are not a primary feature."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146510",
+      "score": 0.25,
+      "explanation": "Pallister-Hall Syndrome can present with hypertelorism and orofacial clefts, but sleep abnormalities are rare and usually not a primary concern."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome can include hypertelorism and sometimes sleep abnormalities, but orofacial clefts are less common."
+    }
+  ]
+}

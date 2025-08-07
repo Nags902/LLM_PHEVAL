@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG syndrome is characterized by intellectual disability, global developmental delay, macrodontia, thick eyebrows, long philtrum, delayed speech and language development, hypertelorism, and bulbous nose, which matches all the phenotypic features of the patient."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Coffin-Siris syndrome presents with intellectual disability, global developmental delay, delayed speech and language development, hypertelorism, and thick eyebrows. Although macrodontia and bulbous nose are less common, the other features are a strong match."
+    },
+    {
+      "disease_name": "Noonan syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan syndrome can present with intellectual disability, global developmental delay, hypertelorism, and thick eyebrows. However, macrodontia and bulbous nose are not typical features, making it a less likely match."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi syndrome includes intellectual disability, global developmental delay, hypertelorism, and thick eyebrows. The absence of broad thumbs and toes and the presence of macrodontia and bulbous nose make it a less likely diagnosis."
+    },
+    {
+      "disease_name": "Williams syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.2,
+      "explanation": "Williams syndrome can present with intellectual disability, global developmental delay, and delayed speech and language development. However, the facial features typically include a short philtrum and stellate iris pattern, which are not mentioned here, making it a less likely match."
+    }
+  ]
+}

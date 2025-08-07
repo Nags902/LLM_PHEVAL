@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607594",
+      "score": 1.0,
+      "explanation": "The patient's features, including decreased IgA and IgM, B lymphocytopenia, and decreased class-switched memory B cells, are highly indicative of Common Variable Immunodeficiency (CVID)."
+    },
+    {
+      "disease_name": "Autoimmune Lymphoproliferative Syndrome (ALPS)",
+      "disease_id": "OMIM:601859",
+      "score": 0.5,
+      "explanation": "ALPS can present with decreased CD4:CD8 ratio and thrombocytopenia, though it is less likely to explain the B cell abnormalities seen in this patient."
+    },
+    {
+      "disease_name": "Hyper IgM Syndrome",
+      "disease_id": "OMIM:308230",
+      "score": 0.333,
+      "explanation": "Hyper IgM Syndrome can present with decreased IgA and IgM, but typically involves elevated IgM, which is not seen here. However, it is still a consideration due to the B cell abnormalities."
+    },
+    {
+      "disease_name": "Wiskott-Aldrich Syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.25,
+      "explanation": "Wiskott-Aldrich Syndrome can present with thrombocytopenia and immune dysregulation, but the B cell abnormalities are less typical."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.2,
+      "explanation": "Ataxia-Telangiectasia can present with decreased IgA and IgM, but the other features like ataxia and telangiectasia are not mentioned here."
+    }
+  ]
+}

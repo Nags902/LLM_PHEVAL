@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by microcephaly, hypotonia, high palate, and feeding difficulties, which are present in the patient. Additionally, features like hip dysplasia and seizures are also seen in this condition."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "This syndrome includes features such as high palate, protruding ears, and highly arched eyebrows, which match the patient's phenotype. However, some features like holoprosencephaly are not typically associated with this condition."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.333,
+      "explanation": "CHARGE syndrome can present with high palate, hypotonia, and feeding difficulties. However, the patient's holoprosencephaly and hypotelorism are less commonly associated with this syndrome."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.25,
+      "explanation": "Noonan Syndrome can present with high palate, hypotonia, and feeding difficulties. However, the patient's holoprosencephaly and microcephaly are not typical features of this syndrome."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "This syndrome includes features such as high palate, long palpebral fissures, and sparse lateral eyebrows. However, the patient's holoprosencephaly and hypotelorism are not commonly seen in this condition."
+    }
+  ]
+}

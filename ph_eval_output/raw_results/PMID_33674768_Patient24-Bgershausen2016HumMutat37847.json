@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Simpson-Golabi-Behmel syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by intellectual disability, neonatal hypoglycemia, feeding difficulties, prominent fingertip pads, intrauterine growth retardation, and abnormal facial shape, which match several of the patient's features."
+    },
+    {
+      "disease_name": "Noonan syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.5,
+      "explanation": "Noonan syndrome can present with intellectual disability, feeding difficulties, clinodactyly, and narrow palate, though some features like horseshoe kidney are less common."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "This syndrome includes intellectual disability, feeding difficulties, and abnormal facial shape, but lacks some of the other features like neonatal hypoglycemia and horseshoe kidney."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.25,
+      "explanation": "While this syndrome includes neonatal hypoglycemia and abnormal facial shape, it typically involves overgrowth rather than intrauterine growth retardation and does not commonly include horseshoe kidney or clinodactyly."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.2,
+      "explanation": "CHARGE syndrome can include feeding difficulties, intellectual disability, and abnormal facial shape, but other features like horseshoe kidney and prominent fingertip pads are not typical."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 1.0,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that primarily affects females but can occur in males. It is characterized by microcephaly, absent speech, intellectual disability, and sometimes short stature. Although polymicrogyria and thin corpus callosum are not classic features, they have been reported in some cases."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1B",
+      "disease_id": "OMIM:614678",
+      "score": 0.5,
+      "explanation": "Pontocerebellar Hypoplasia Type 1B is a severe neurodegenerative disorder characterized by microcephaly, intellectual disability, absent speech, and thin corpus callosum. Polymicrogyria has been reported in some cases, and short stature can be a feature."
+    },
+    {
+      "disease_name": "Microcephaly with Simplified Gyral Pattern",
+      "disease_id": "OMIM:603802",
+      "score": 0.333,
+      "explanation": "This condition is characterized by microcephaly, intellectual disability, and simplified gyral pattern (which can sometimes resemble polymicrogyria). Thin corpus callosum and absent speech are common features, and short stature can also occur."
+    },
+    {
+      "disease_name": "Periventricular Nodular Heterotopia 1",
+      "disease_id": "OMIM:300049",
+      "score": 0.25,
+      "explanation": "Periventricular Nodular Heterotopia is a neuronal migration disorder that can present with polymicrogyria, intellectual disability, and thin corpus callosum. Microcephaly and absent speech are less common but possible features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.2,
+      "explanation": "Smith-Lemli-Opitz Syndrome is a metabolic disorder characterized by microcephaly, intellectual disability, absent speech, and short stature. Polymicrogyria and thin corpus callosum are rare but have been reported in some cases."
+    }
+  ]
+}

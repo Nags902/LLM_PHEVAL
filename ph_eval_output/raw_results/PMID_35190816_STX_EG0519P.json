@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar ataxia, autosomal recessive 8",
+      "disease_id": "OMIM:610743",
+      "score": 1.0,
+      "explanation": "The patient presents with truncal ataxia, dysmetria, gait ataxia, limb ataxia, and broad-based gait, which are hallmark features of spinocerebellar ataxia. The presence of intellectual disability and global developmental delay further supports this diagnosis."
+    },
+    {
+      "disease_name": "Joubert syndrome 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert syndrome is characterized by hypotonia, ataxia, intellectual disability, and developmental delay. The absence of speech and truncal ataxia are also consistent with this syndrome."
+    },
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.333,
+      "explanation": "Ataxia-telangiectasia presents with ataxia, tremors, and intellectual disability. The patient's symptoms align with this disease, although telangiectasias are not mentioned."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman syndrome is associated with intellectual disability, absent speech, and ataxia. However, the lack of characteristic happy demeanor and seizures makes this less likely."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.2,
+      "explanation": "Rett syndrome can present with intellectual disability, absent speech, and tremors. However, the absence of regression and hand-wringing movements reduces the likelihood."
+    }
+  ]
+}

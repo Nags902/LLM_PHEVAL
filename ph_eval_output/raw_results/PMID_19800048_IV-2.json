@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by postaxial polydactyly (both hand and foot), and can include other features such as congenital heart defects and hydrometrocolpos, though intellectual disability and recurrent infections are less commonly reported. However, the polydactyly matches well."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.5,
+      "explanation": "Bardet-Biedl Syndrome often includes postaxial polydactyly and intellectual disability. Recurrent infections are not a hallmark but can occur due to immune system involvement. The combination of polydactyly and intellectual disability makes this a plausible candidate."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.333,
+      "explanation": "This syndrome can present with intellectual disability and polydactyly, though the polydactyly is typically preaxial. Recurrent infections are not a primary feature, but the overlap in some symptoms warrants consideration."
+    },
+    {
+      "disease_name": "Oral-Facial-Digital Syndrome Type VI",
+      "disease_id": "OMIM:277170",
+      "score": 0.25,
+      "explanation": "This syndrome includes polydactyly and intellectual disability, though recurrent infections are not typically associated. The phenotypic overlap with polydactyly and intellectual disability supports its inclusion in the list."
+    },
+    {
+      "disease_name": "Jeune Syndrome",
+      "disease_id": "OMIM:208500",
+      "score": 0.2,
+      "explanation": "Jeune Syndrome can present with polydactyly and recurrent infections due to respiratory complications. Intellectual disability is less common, but the combination of polydactyly and infections makes it a possible candidate."
+    }
+  ]
+}

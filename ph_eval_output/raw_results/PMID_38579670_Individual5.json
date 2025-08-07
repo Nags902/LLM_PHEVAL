@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypomyelination with atrophy of the basal ganglia and cerebellum (H-ABC)",
+      "disease_id": "OMIM:612438",
+      "score": 1.0,
+      "explanation": "This disease is characterized by CNS hypomyelination, hypotonia, and developmental delay, which are key features in the patient's phenotype."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.5,
+      "explanation": "This disease involves CNS hypomyelination and developmental delay, though seizures are less commonly reported."
+    },
+    {
+      "disease_name": "Early infantile epileptic encephalopathy (EIEE)",
+      "disease_id": "OMIM:308350",
+      "score": 0.333,
+      "explanation": "This condition is marked by epileptic encephalopathy and developmental delay, but hypomyelination is not a typical feature."
+    },
+    {
+      "disease_name": "Rett syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Rett syndrome can present with developmental delay and seizures, but hypotonia and hypomyelination are less common."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.2,
+      "explanation": "Angelman syndrome includes developmental delay and seizures, but CNS hypomyelination is not typically associated."
+    }
+  ]
+}

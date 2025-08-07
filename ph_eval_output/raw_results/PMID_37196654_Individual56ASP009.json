@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 1.0,
+      "explanation": "Phelan-McDermid Syndrome is characterized by delayed speech and language development, autistic behavior, and seizures, which are all present in the patient. Additionally, ADHD and strabismus can be associated with this condition."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome often presents with delayed speech, seizures, and autistic behaviors. While depression and ADHD are less common, the core features align well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett Syndrome is associated with delayed speech, autistic behavior, and seizures. Although more common in females, atypical cases in males can present with similar features."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X Syndrome includes delayed speech, ADHD, autistic behavior, and seizures. The patient's symptoms are consistent with this condition, though strabismus and depression are less commonly reported."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Smith-Magenis Syndrome features delayed speech, ADHD, and autistic behaviors. Seizures and strabismus can also occur, though depression is not a hallmark feature."
+    }
+  ]
+}

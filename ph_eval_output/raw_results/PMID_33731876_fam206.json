@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is a leading genetic cause of autism and intellectual disability, making it highly relevant given the patient's autism phenotype."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.5,
+      "explanation": "Rett Syndrome is a neurodevelopmental disorder that predominantly affects females and includes autism-like features, though it often involves regression and motor abnormalities."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:601728",
+      "score": 0.333,
+      "explanation": "PTEN mutations are associated with autism spectrum disorders and macrocephaly, though additional features may be present."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.25,
+      "explanation": "Angelman Syndrome includes developmental delay and autism-like features, but typically also involves seizures and a happy demeanor."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.2,
+      "explanation": "Phelan-McDermid Syndrome is a genetic disorder often associated with autism, though it also includes hypotonia and absent or delayed speech."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.166,
+      "explanation": "Tuberous Sclerosis Complex can present with autism and seizures, though it also involves skin abnormalities and tumors."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.142,
+      "explanation": "Smith-Lemli-Opitz Syndrome includes autism and intellectual disability, but also involves distinctive facial features and congenital anomalies."
+    },
+    {
+      "disease_name": "ADNP Syndrome",
+      "disease_id": "OMIM:615873",
+      "score": 0.125,
+      "explanation": "ADNP Syndrome is a rare genetic disorder associated with autism and intellectual disability, though it may also include distinctive facial features."
+    },
+    {
+      "disease_name": "SHANK3-Related Disorders",
+      "disease_id": "OMIM:606230",
+      "score": 0.111,
+      "explanation": "SHANK3 mutations are linked to autism and intellectual disability, though the phenotype can vary widely."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.1,
+      "explanation": "MECP2 Duplication Syndrome includes autism and intellectual disability, though it primarily affects males and involves motor dysfunction."
+    }
+  ]
+}

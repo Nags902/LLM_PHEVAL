@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 1 (AOA1)",
+      "disease_id": "OMIM:208920",
+      "score": 1.0,
+      "explanation": "AOA1 is characterized by ataxia, hyporeflexia, supranuclear gaze palsy, dysarthria, and hypoalbuminemia, which match the patient's features. Athetosis is less common but can occur in some cases."
+    },
+    {
+      "disease_name": "Ataxia with oculomotor apraxia type 2 (AOA2)",
+      "disease_id": "OMIM:606002",
+      "score": 0.5,
+      "explanation": "AOA2 also presents with ataxia, hyporeflexia, and dysarthria. Supranuclear gaze palsy and hypoalbuminemia are less common, but the phenotype overlaps with the patient's features."
+    },
+    {
+      "disease_name": "Niemann-Pick disease type C (NPC)",
+      "disease_id": "OMIM:257220",
+      "score": 0.333,
+      "explanation": "NPC can present with ataxia, supranuclear gaze palsy, dysarthria, and hyporeflexia. Athetosis and hypoalbuminemia are less typical but possible in advanced cases."
+    },
+    {
+      "disease_name": "Spinocerebellar ataxia type 1 (SCA1)",
+      "disease_id": "OMIM:164400",
+      "score": 0.25,
+      "explanation": "SCA1 commonly includes ataxia, dysarthria, and hyporeflexia. Supranuclear gaze palsy and athetosis are rare but reported. Hypoalbuminemia is not typical."
+    },
+    {
+      "disease_name": "Friedreich ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.2,
+      "explanation": "Friedreich ataxia features ataxia, hyporeflexia, and dysarthria. Supranuclear gaze palsy and athetosis are uncommon, and hypoalbuminemia is not a typical feature."
+    }
+  ]
+}

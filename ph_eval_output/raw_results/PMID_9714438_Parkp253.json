@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly (Beals Syndrome)",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "The patient's features, including arachnodactyly, camptodactyly of fingers and toes, elbow contractures, crumpled ears, and scoliosis, are highly consistent with Congenital Contractural Arachnodactyly. Aortic root aneurysm and mitral valve prolapse can also be associated with this condition."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan Syndrome shares features such as arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse with the patient's phenotype. However, the presence of crumpled ears and contractures is more indicative of Beals Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome",
+      "disease_id": "OMIM:609192",
+      "score": 0.333,
+      "explanation": "Loeys-Dietz Syndrome can present with aortic root aneurysm and skeletal features like scoliosis and arachnodactyly. However, the presence of crumpled ears and contractures is less typical for this syndrome."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.25,
+      "explanation": "This syndrome includes features such as arachnodactyly, camptodactyly, scoliosis, and mitral valve prolapse, but crumpled ears and contractures are less commonly reported."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Kyphoscoliotic Type",
+      "disease_id": "OMIM:225400",
+      "score": 0.2,
+      "explanation": "This type of Ehlers-Danlos Syndrome can present with scoliosis and mitral valve prolapse, but arachnodactyly and contractures are less prominent features."
+    }
+  ]
+}

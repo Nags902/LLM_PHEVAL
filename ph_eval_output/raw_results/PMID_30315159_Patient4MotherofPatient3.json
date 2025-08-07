@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "The patient's phenotypic features such as synophrys, deeply set eyes, telecanthus, and thrombocytopenia are commonly associated with Noonan Syndrome. The presence of developmental delay and facial dysmorphism further supports this diagnosis."
+    },
+    {
+      "disease_name": "Noonan Syndrome 2",
+      "disease_id": "OMIM:605275",
+      "score": 0.5,
+      "explanation": "Similar to Noonan Syndrome 1, this subtype also presents with facial dysmorphism, thrombocytopenia, and developmental delay. The specific genetic mutation differentiates it from Noonan Syndrome 1."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "The patient's features like broad eyebrows, wide mouth, and developmental delay are seen in Rubinstein-Taybi Syndrome. However, the thrombocytopenia and platelet abnormalities are less typical."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "This syndrome can present with synophrys, thin upper lip, and developmental delay. The thrombocytopenia is less common but has been reported in some cases."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:605130",
+      "score": 0.2,
+      "explanation": "Features such as synophrys, deeply set eyes, and developmental delay are consistent with this syndrome. However, the platelet abnormalities are not a hallmark of this condition."
+    }
+  ]
+}

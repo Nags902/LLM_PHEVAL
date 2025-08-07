@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay (ARSACS)",
+      "disease_id": "OMIM:270550",
+      "score": 1.0,
+      "explanation": "The patient's symptoms of spastic ataxia, gait imbalance, upper and lower limb spasticity, dysmetria, and cerebellar vermis atrophy are highly consistent with ARSACS, a rare neurodegenerative disorder."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1 (SCA1)",
+      "disease_id": "OMIM:164400",
+      "score": 0.5,
+      "explanation": "SCA1 presents with ataxia, dysarthria, spasticity, and cerebellar atrophy, which align with the patient's symptoms, though dysmetria and muscle weakness are less prominent."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2 (SCA2)",
+      "disease_id": "OMIM:183090",
+      "score": 0.333,
+      "explanation": "SCA2 can present with ataxia, dysarthria, and cerebellar atrophy, but spasticity is less common, making it a less likely match compared to ARSACS or SCA1."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia with Cerebellar Ataxia (SPG7)",
+      "disease_id": "OMIM:607259",
+      "score": 0.25,
+      "explanation": "SPG7 can cause spastic ataxia and cerebellar atrophy, but the combination of symptoms is less typical than for ARSACS or SCA1."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome (CAMRQ)",
+      "disease_id": "OMIM:224050",
+      "score": 0.2,
+      "explanation": "CAMRQ includes cerebellar ataxia and dysarthria, but spasticity and muscle weakness are less common, making it a less likely diagnosis."
+    }
+  ]
+}

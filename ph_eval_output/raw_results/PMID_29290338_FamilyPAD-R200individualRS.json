@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "The patient exhibits multiple hallmark features of Neurofibromatosis type 1, including neurofibromas, axillary and inguinal freckling, multiple cafe-au-lait spots, and Lisch nodules."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While Neurofibromatosis type 2 is less likely given the absence of vestibular schwannomas, it is still a consideration due to the presence of neurofibromas and cafe-au-lait spots, though these are less common in NF2."
+    },
+    {
+      "disease_name": "Legius syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.333,
+      "explanation": "Legius syndrome shares features like cafe-au-lait spots and axillary freckling with Neurofibromatosis type 1, but typically lacks neurofibromas and Lisch nodules, making it a less likely diagnosis here."
+    },
+    {
+      "disease_name": "Noonan syndrome with multiple lentigines",
+      "disease_id": "OMIM:151100",
+      "score": 0.25,
+      "explanation": "This syndrome can present with cafe-au-lait spots and freckling, but the presence of neurofibromas and Lisch nodules is more indicative of Neurofibromatosis type 1."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:174800",
+      "score": 0.2,
+      "explanation": "McCune-Albright syndrome can present with cafe-au-lait spots, but the other features like neurofibromas and Lisch nodules are not typical, making it a less likely diagnosis."
+    }
+  ]
+}

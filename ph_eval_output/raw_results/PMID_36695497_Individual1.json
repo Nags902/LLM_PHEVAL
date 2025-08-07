@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE Syndrome is a well-known condition associated with colobomas (iris, optic disc, and chorioretinal), microphthalmia, and strabismus, which are all present in the patient. Nystagmus can also be a feature of this syndrome."
+    },
+    {
+      "disease_name": "Cat-Eye Syndrome",
+      "disease_id": "OMIM:115470",
+      "score": 0.5,
+      "explanation": "Cat-Eye Syndrome is characterized by coloboma of the iris, chorioretinal coloboma, and strabismus, which match the patient's features. Microphthalmia and nystagmus are less common but can occur."
+    },
+    {
+      "disease_name": "PAX6-Related Coloboma",
+      "disease_id": "OMIM:120430",
+      "score": 0.333,
+      "explanation": "Mutations in the PAX6 gene can lead to various eye abnormalities including iris coloboma, optic disc coloboma, and microphthalmia. Nystagmus and strabismus are also possible features."
+    },
+    {
+      "disease_name": "Microphthalmia, Syndromic 3",
+      "disease_id": "OMIM:206900",
+      "score": 0.25,
+      "explanation": "This syndrome includes microphthalmia and coloboma as primary features. Nystagmus and strabismus are secondary features that can be present."
+    },
+    {
+      "disease_name": "Walker-Warburg Syndrome",
+      "disease_id": "OMIM:236670",
+      "score": 0.2,
+      "explanation": "Walker-Warburg Syndrome can present with microphthalmia and coloboma, though it is more severe and typically includes other neurological and muscular abnormalities. The patient's features could represent a milder form."
+    }
+  ]
+}

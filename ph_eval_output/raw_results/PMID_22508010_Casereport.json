@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial neurogastrointestinal encephalopathy syndrome",
+      "disease_id": "OMIM:603041",
+      "score": 1.0,
+      "explanation": "This condition is characterized by peripheral neuropathy, leukoencephalopathy, hepatic steatosis, and multiple mitochondrial DNA deletions, which align well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, axonal, type 2A2",
+      "disease_id": "OMIM:609260",
+      "score": 0.5,
+      "explanation": "This subtype of Charcot-Marie-Tooth disease presents with distal muscle weakness, atrophy, and peripheral neuropathy, similar to the patient's features, though it lacks the hepatic and mitochondrial aspects."
+    },
+    {
+      "disease_name": "Autosomal dominant optic atrophy plus syndrome",
+      "disease_id": "OMIM:125250",
+      "score": 0.333,
+      "explanation": "This syndrome can include peripheral neuropathy and white matter abnormalities, but it typically involves optic atrophy, which is not mentioned in the patient's features."
+    },
+    {
+      "disease_name": "Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract",
+      "disease_id": "OMIM:612674",
+      "score": 0.25,
+      "explanation": "This condition includes peripheral neuropathy and could potentially involve other neurological symptoms, but the patient's hepatic and mitochondrial findings are not typical."
+    },
+    {
+      "disease_name": "Hereditary sensory and autonomic neuropathy type 1",
+      "disease_id": "OMIM:162400",
+      "score": 0.2,
+      "explanation": "This condition involves impaired distal sensation and peripheral neuropathy, but it does not typically include hepatic steatosis or mitochondrial DNA deletions."
+    }
+  ]
+}

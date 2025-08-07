@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt Disease is a common form of inherited juvenile macular degeneration, characterized by reduced visual acuity, macular atrophy, and often nystagmus."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 1",
+      "disease_id": "OMIM:600624",
+      "score": 0.5,
+      "explanation": "Cone-Rod Dystrophy is a retinal disorder that can present with nystagmus, reduced visual acuity, and macular atrophy, particularly in early-onset cases."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 2",
+      "disease_id": "OMIM:204100",
+      "score": 0.333,
+      "explanation": "Leber Congenital Amaurosis is a severe retinal dystrophy that often presents in infancy with nystagmus, reduced visual acuity, and macular atrophy."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome 1",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl Syndrome is a ciliopathy that can include retinal dystrophy leading to reduced visual acuity and macular atrophy, though nystagmus is less common."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.2,
+      "explanation": "Alstr\u00f6m Syndrome is a rare disorder that includes cone-rod dystrophy, leading to reduced visual acuity and macular atrophy, with nystagmus sometimes present."
+    }
+  ]
+}

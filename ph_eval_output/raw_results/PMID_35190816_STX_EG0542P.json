@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "STXBP1-related encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 1.0,
+      "explanation": "STXBP1 mutations are associated with early-onset epileptic encephalopathy, infantile spasms, and hypsarrhythmia, which are prominent features in this patient."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 mutations often present with infantile spasms, hypsarrhythmia, and developmental delay, aligning with the patient's symptoms."
+    },
+    {
+      "disease_name": "ARX-related encephalopathy",
+      "disease_id": "OMIM:300382",
+      "score": 0.333,
+      "explanation": "ARX mutations can cause infantile spasms, hypsarrhythmia, and global developmental delay, which are consistent with the patient's phenotype."
+    },
+    {
+      "disease_name": "PCDH19-related epilepsy",
+      "disease_id": "OMIM:300088",
+      "score": 0.25,
+      "explanation": "PCDH19 mutations are associated with early-onset seizures, including focal seizures and developmental delay, though hypsarrhythmia is less common."
+    },
+    {
+      "disease_name": "SCN1A-related disorders (Dravet syndrome)",
+      "disease_id": "OMIM:607208",
+      "score": 0.2,
+      "explanation": "SCN1A mutations can present with various seizure types, including focal and generalized seizures, though infantile spasms and hypsarrhythmia are less typical."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613454",
+      "score": 0.166,
+      "explanation": "FOXG1 mutations are associated with developmental delay, seizures, and relative macrocephaly, though hypsarrhythmia is not a hallmark feature."
+    },
+    {
+      "disease_name": "MECP2-related disorders (Rett syndrome)",
+      "disease_id": "OMIM:312750",
+      "score": 0.142,
+      "explanation": "MECP2 mutations can cause developmental delay and seizures, but infantile spasms and hypsarrhythmia are less common."
+    },
+    {
+      "disease_name": "Tuberous sclerosis complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.125,
+      "explanation": "Tuberous sclerosis can present with infantile spasms and hypsarrhythmia, but other features like cortical tubers are typically present, which are not mentioned here."
+    },
+    {
+      "disease_name": "Angelman syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.111,
+      "explanation": "Angelman syndrome can include seizures and developmental delay, but infantile spasms and hypsarrhythmia are less common."
+    },
+    {
+      "disease_name": "GRIN2A-related disorders",
+      "disease_id": "OMIM:613971",
+      "score": 0.1,
+      "explanation": "GRIN2A mutations can cause epilepsy and developmental delay, though infantile spasms and hypsarrhythmia are not typical."
+    }
+  ]
+}

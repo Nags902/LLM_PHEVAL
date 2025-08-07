@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is a genetic disorder that often presents with colobomas, microphthalmia, cranial nerve anomalies leading to conductive hearing loss, and facial clefts, which align with the patient's features."
+    },
+    {
+      "disease_name": "Oculo-auriculo-vertebral spectrum (OAVS)",
+      "disease_id": "OMIM:164210",
+      "score": 0.5,
+      "explanation": "OAVS includes features such as colobomas, microphthalmia, conductive hearing loss, and facial clefts, which are present in the patient, though aplasia cutis congenita is less commonly associated."
+    },
+    {
+      "disease_name": "Goltz-Gorlin syndrome (Focal dermal hypoplasia)",
+      "disease_id": "OMIM:305600",
+      "score": 0.333,
+      "explanation": "Goltz-Gorlin syndrome can present with aplasia cutis congenita, colobomas, and microphthalmia, but other features like conductive hearing loss and facial clefts are less typical."
+    },
+    {
+      "disease_name": "Branchio-oculo-facial syndrome",
+      "disease_id": "OMIM:113620",
+      "score": 0.25,
+      "explanation": "This syndrome includes branchial, ocular, and facial anomalies such as colobomas and pseudocleft lip, but aplasia cutis congenita and conductive hearing loss are not commonly reported."
+    },
+    {
+      "disease_name": "Cat-eye syndrome",
+      "disease_id": "OMIM:115470",
+      "score": 0.2,
+      "explanation": "Cat-eye syndrome is characterized by colobomas, microphthalmia, and sometimes facial clefts, but aplasia cutis congenita and conductive hearing loss are rare in this condition."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is characterized by hypertelorism, ptosis, short stature, and intellectual disability, which are present in the patient. The additional features of brachydactyly, camptodactyly, and joint hypermobility can also be seen in some subtypes."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.5,
+      "explanation": "Aarskog-Scott Syndrome includes hypertelorism, shawl scrotum, brachydactyly, and syndactyly, which match the patient's features. However, intellectual disability and short stature are less consistently present."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "Rubinstein-Taybi Syndrome presents with intellectual disability, short stature, and brachydactyly. The patient's hypertelorism and ptosis can also be seen, but syndactyly and joint hypermobility are less common."
+    },
+    {
+      "disease_name": "Coffin-Lowry Syndrome",
+      "disease_id": "OMIM:303600",
+      "score": 0.25,
+      "explanation": "Coffin-Lowry Syndrome includes intellectual disability, short stature, and joint hypermobility. The patient's hypertelorism and brachydactyly can also be present, but ptosis and syndactyly are less typical."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Prader-Willi Syndrome is associated with intellectual disability and short stature. The patient's brachydactyly and joint hypermobility can sometimes be seen, but other features like hypertelorism and ptosis are not typical."
+    }
+  ]
+}
