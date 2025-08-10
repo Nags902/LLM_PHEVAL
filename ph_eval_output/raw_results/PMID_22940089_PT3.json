@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest candidate as it classically presents with a combination of cardinal features matching the patient's phenotype, including progressive retinal dystrophy (leading to nyctalopia and reduced visual acuity), postaxial polydactyly, and obesity. Astigmatism and ptosis are also commonly associated ocular features. The patient's age (15 years) is consistent with the typical presentation and progression of this condition."
+    },
+    {
+      "disease_name": "Carpenter Syndrome",
+      "disease_id": "OMIM:201000",
+      "score": 0.5,
+      "explanation": "Carpenter Syndrome is considered a less likely but possible candidate. It is characterized by a combination of obesity and postaxial polydactyly, which are key features present in the patient. While specific retinal dystrophy leading to nyctalopia is not a primary feature, general reduced visual acuity and astigmatism can occur. However, the absence of other defining features like craniosynostosis and syndactyly in the patient makes it a less probable diagnosis compared to Bardet-Biedl Syndrome."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 1.0,
+      "explanation": "This classic form of Emery-Dreifuss Muscular Dystrophy (EDMD) perfectly aligns with the patient's comprehensive set of symptoms. Key features such as early contractures (Achilles tendon, spinal rigidity leading to stiff neck), humeroperoneal weakness (consistent with scapuloperoneal amyotrophy and proximal upper limb weakness), and significant cardiac involvement (arrhythmia) are hallmarks of EDMD. Gait disturbance and difficulty climbing stairs are common consequences of the muscle weakness and contractures."
+    },
+    {
+      "disease_name": "Emery-Dreifuss Muscular Dystrophy 2, Autosomal Dominant",
+      "disease_id": "OMIM:181350",
+      "score": 0.5,
+      "explanation": "Caused by mutations in the LMNA gene, this autosomal dominant form of EDMD presents with a highly similar clinical picture to the X-linked type. It is characterized by progressive muscle weakness (often humeroperoneal, matching scapuloperoneal amyotrophy and proximal upper limb weakness), joint contractures (including Achilles tendon and spinal rigidity/stiff neck), and significant cardiac conduction defects leading to arrhythmias. This makes it an exceptionally strong candidate."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy Type 1B",
+      "disease_id": "OMIM:604929",
+      "score": 0.3333333333333333,
+      "explanation": "Limb-Girdle Muscular Dystrophy Type 1B (LGMD1B) is also caused by mutations in the LMNA gene and falls within the spectrum of laminopathies, sharing considerable clinical overlap with EDMD. It is characterized by progressive proximal muscle weakness (explaining difficulty climbing stairs and proximal upper limb weakness), contractures (including Achilles), and a high prevalence of cardiac conduction abnormalities and arrhythmias. Spinal rigidity, while not universally defining, can be present in some cases, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Myofibrillar Myopathy 1, Desmin-related",
+      "disease_id": "OMIM:601419",
+      "score": 0.25,
+      "explanation": "Myofibrillar myopathies, particularly those linked to desmin mutations (desminopathy), are characterized by progressive skeletal muscle weakness (often proximal and distal), contractures (Achilles tendon contracture is common), and significant cardiac involvement, including arrhythmias and cardiomyopathy. While the specific patterns of scapuloperoneal amyotrophy and prominent spinal rigidity might be less consistently emphasized than in EDMD, the overall constellation of muscle weakness, contractures, and cardiac issues makes this a relevant potential diagnosis."
+    }
+  ]
+}

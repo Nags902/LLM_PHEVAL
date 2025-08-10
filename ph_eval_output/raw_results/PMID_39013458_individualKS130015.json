@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 1.0,
+      "explanation": "Prader-Willi Syndrome is an excellent fit for the patient's reported phenotypic features. The constellation of intellectual disability, global developmental delay, early hypotonia (which is a hallmark of PWS in infancy), progressing to overweight/obesity (consistent with the patient's age of 4 years), chronic constipation, and specific self-injurious behaviors (such as skin picking) are all highly characteristic of this syndrome."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.5,
+      "explanation": "Smith-Magenis Syndrome shares several key features with the patient's presentation, including intellectual disability, global developmental delay, hypotonia (especially in infancy), and distinct behavioral challenges that often involve self-injurious behaviors (such as head banging or self-hitting). While obesity is not as central as in PWS, it can occur, and gastrointestinal issues like constipation are also reported. This makes it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.3333333333333333,
+      "explanation": "Lesch-Nyhan Syndrome is characterized by severe intellectual disability, global developmental delay, and, most notably, profound compulsive self-mutilation. Hypotonia can be present in early life, though it typically progresses to dystonia and choreoathetosis, which are not mentioned here. While the self-mutilation is a very strong match, the absence of other core LNS features like hyperuricemia or severe motor dysfunction, and overweight not being a primary feature, makes it a less comprehensive fit than Prader-Willi Syndrome, but still a relevant consideration due to the prominent self-mutilation."
+    }
+  ]
+}

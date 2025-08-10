@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Adrenal Hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency",
+      "disease_id": "OMIM:201810",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as it provides a strong explanation for the majority of the patient's endocrine profile. It causes primary adrenal insufficiency (decreased circulating cortisol, increased circulating ACTH) due to impaired synthesis of cortisol. In females, 3-beta-hydroxysteroid dehydrogenase deficiency leads to decreased synthesis of active androgens (explaining decreased serum testosterone) and accumulation of precursors like DHEA and androstenedione, which can be aromatized to estrogens, resulting in increased serum estradiol. The increased circulating prolactin concentration is not a direct primary feature of this condition but can be a secondary stress response or a co-occurring finding, and its presence does not rule out this diagnosis given the strong fit for the adrenal and gonadal steroid abnormalities."
+    },
+    {
+      "disease_name": "Adrenocortical Carcinoma, Feminizing Type",
+      "disease_id": "OMIM:103000",
+      "score": 0.5,
+      "explanation": "A feminizing adrenocortical carcinoma could explain the increased serum estradiol and potentially decreased serum testosterone concentration due to the tumor's production of estrogens and potential suppression of androgen synthesis. While typically these tumors lead to hormonal excess, a large destructive tumor could theoretically lead to primary adrenal insufficiency (decreased cortisol, increased ACTH) by replacing normal adrenal tissue. However, this is a less common presentation. The increased circulating prolactin concentration is not directly explained by a feminizing adrenal tumor, making this a less comprehensive explanation than HSD3B2 deficiency."
+    }
+  ]
+}

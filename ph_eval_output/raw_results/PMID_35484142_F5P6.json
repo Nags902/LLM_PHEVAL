@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Generalized Myasthenia Gravis",
+      "disease_id": "OMIM:254200",
+      "score": 1.0,
+      "explanation": "This is the most highly suspected diagnosis due to the classic constellation of symptoms, including ptosis, ophthalmoplegia, dysphagia, respiratory insufficiency, and asthenia. These are hallmark features of generalized myasthenia gravis, an autoimmune disorder affecting the neuromuscular junction, where weakness is typically fluctuating and fatigable. The patient's age (12 years) is consistent with juvenile-onset Myasthenia Gravis."
+    },
+    {
+      "disease_name": "Congenital Myasthenic Syndrome",
+      "disease_id": "OMIM:608930",
+      "score": 0.5,
+      "explanation": "This group of genetic disorders affects the neuromuscular junction, causing clinical features highly similar to autoimmune myasthenia gravis, such as ptosis, ophthalmoplegia, dysphagia, and respiratory weakness. While often presenting in infancy or early childhood, some forms can have a later or more insidious onset, making it a strong differential diagnosis at 12 years of age, especially if serological tests for autoimmune myasthenia gravis are negative."
+    },
+    {
+      "disease_name": "Kearns-Sayre Syndrome",
+      "disease_id": "OMIM:530000",
+      "score": 0.33,
+      "explanation": "Kearns-Sayre Syndrome is a mitochondrial disorder characterized by chronic progressive external ophthalmoplegia (CPEO), which encompasses ptosis and ophthalmoplegia. It also commonly involves generalized muscle weakness leading to asthenia, dysphagia, and potentially respiratory insufficiency. The typical onset of symptoms is before 20 years of age, fitting the patient's age, making it a plausible diagnosis given the prominent ocular and systemic muscle involvement."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome, Myopathic Type 1",
+      "disease_id": "OMIM:603041",
+      "score": 0.25,
+      "explanation": "This is a severe form of mitochondrial disorder caused by defects in mitochondrial DNA synthesis or maintenance, specifically involving the TK2 gene (Myopathic Type 1). It often presents in childhood with progressive muscle weakness (asthenia), which can affect the respiratory muscles leading to respiratory insufficiency and involve the oculopharyngeal muscles, causing ptosis, ophthalmoplegia, and dysphagia. This aligns well with the patient's broad set of neuromuscular symptoms."
+    }
+  ]
+}

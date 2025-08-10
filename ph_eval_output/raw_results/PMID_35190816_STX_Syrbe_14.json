@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This disorder is a strong candidate given the patient's female gender and the classic presentation of early-onset intractable seizures (including infantile spasms and focal seizures), hypsarrhythmia, severe global developmental delay, absent speech, and inability to walk. These features are highly characteristic of CDKL5 deficiency disorder."
+    },
+    {
+      "disease_name": "STXBP1-related encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1-related encephalopathy is a common genetic cause of early-onset epileptic encephalopathy. The phenotypic features of infantile spasms, focal motor seizures, EEG with focal epileptiform discharges, global developmental delay, and severe motor and speech impairment are highly consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 0.33,
+      "explanation": "Tuberous Sclerosis Complex is a leading cause of symptomatic infantile spasms and associated global developmental delay. The presence of focal motor seizures and focal epileptiform discharges on EEG aligns well with the presence of cortical tubers, which are characteristic brain lesions in TSC."
+    },
+    {
+      "disease_name": "KCNQ2-related encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "KCNQ2-related encephalopathy is a recognized cause of early-onset epileptic encephalopathy. The patient's presentation with infantile spasms, focal seizures, hypsarrhythmia, and profound global developmental delay, including absent speech and inability to walk, is highly consistent with this severe neurological disorder."
+    },
+    {
+      "disease_name": "SCN2A-related encephalopathy",
+      "disease_id": "OMIM:612621",
+      "score": 0.2,
+      "explanation": "Severe SCN2A-related encephalopathy manifests with early-onset seizures, which can include infantile spasms and focal seizures, leading to significant global developmental delay. The EEG findings and severe motor/speech deficits are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "GNAO1-related encephalopathy",
+      "disease_id": "OMIM:617215",
+      "score": 0.166,
+      "explanation": "GNAO1-related encephalopathy presents as an early-onset epileptic encephalopathy with a broad spectrum of seizure types, often including infantile spasms, and severe developmental delay. The associated neurological deficits match the patient's severe motor and speech impairment."
+    },
+    {
+      "disease_name": "DNM1-related encephalopathy",
+      "disease_id": "OMIM:616346",
+      "score": 0.142,
+      "explanation": "DNM1-related encephalopathy is characterized by severe early-onset epileptic encephalopathy, with prominent and often intractable seizures, including infantile spasms, and profound global developmental delay leading to significant motor and speech impairment."
+    },
+    {
+      "disease_name": "Pyridoxine-dependent epilepsy",
+      "disease_id": "OMIM:266100",
+      "score": 0.125,
+      "explanation": "Pyridoxine-dependent epilepsy is a treatable metabolic cause of severe early-onset epilepsy, including infantile spasms, and global developmental delay. It is crucial to consider this diagnosis due to the potential for significant improvement with pyridoxine supplementation."
+    },
+    {
+      "disease_name": "Non-ketotic hyperglycinemia",
+      "disease_id": "OMIM:605899",
+      "score": 0.111,
+      "explanation": "Non-ketotic hyperglycinemia is a severe metabolic disorder that typically presents in infancy with intractable seizures, including infantile spasms, profound developmental arrest/delay, and hypotonia. These features align with the patient's severe neurological phenotype."
+    },
+    {
+      "disease_name": "Glucose Transporter Type 1 Deficiency Syndrome",
+      "disease_id": "OMIM:606777",
+      "score": 0.1,
+      "explanation": "Glucose Transporter Type 1 Deficiency Syndrome can cause early-onset epilepsy, including infantile spasms, global developmental delay, and movement disorders. It is a treatable condition with a ketogenic diet, making it an important consideration for patients with this presentation."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "This syndrome is an exceptionally strong match, characterized by the classic triad of congenital aniridia, cerebellar ataxia, and intellectual disability. All major neurological and ocular features described (Aniridia, Ataxia, Delayed ability to sit/stand, Gait disturbance, Generalized hypotonia, Cerebellar atrophy, Nystagmus, Slurred speech, Poor head control, Hypoplasia of the iris) are perfectly consistent with Gillespie syndrome. While 'Short fourth metatarsal' is not a typical feature, it may represent phenotypic variability or a less common associated finding, given the otherwise excellent fit for the core features. Both autosomal recessive (OMIM:206700) and autosomal dominant (OMIM:613768) forms exist, sharing core phenotypic features."
+    },
+    {
+      "disease_name": "Aniridia (PAX6-related)",
+      "disease_id": "OMIM:106210",
+      "score": 0.5,
+      "explanation": "Mutations in the PAX6 gene are the most common cause of aniridia. Beyond ocular defects, PAX6 mutations can lead to a spectrum of central nervous system anomalies, including intellectual disability, cerebellar hypoplasia/atrophy, and neurological manifestations such as ataxia and nystagmus. This broad category encompasses cases where aniridia is accompanied by significant neurological deficits, fitting most of the patient's described features, making it a strong candidate. The 'Short fourth metatarsal' remains an atypical finding for this as well."
+    },
+    {
+      "disease_name": "WAGR syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.333,
+      "explanation": "WAGR syndrome is caused by a deletion on chromosome 11p13, involving PAX6 and WT1. Aniridia is a hallmark feature, and intellectual disability and developmental delays (including hypotonia, poor head control, delayed milestones) are very common. Neurological issues, including ataxia and nystagmus, have been reported in some cases due to the PAX6 deletion, and structural brain anomalies are possible. However, prominent cerebellar atrophy as a primary feature is less consistently reported compared to Gillespie syndrome or specific PAX6-related CNS malformations. The patient does not present with Wilms tumor or genitourinary anomalies, but these can have variable expressivity or later onset. The 'Short fourth metatarsal' is not a known feature of WAGR syndrome."
+    }
+  ]
+}

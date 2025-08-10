@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous Sclerosis Complex",
+      "disease_id": "OMIM:191100",
+      "score": 1.0,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is a multisystem genetic disorder that commonly presents with intellectual disability (HP:0001249), seizures (HP:0007334), and neuropsychiatric manifestations including aggressive behavior (HP:0000718) and delayed speech and language development (HP:0000750) as part of TSC-Associated Neuropsychiatric Disorders (TAND). Seizures are a hallmark feature and can be focal, generalizing secondarily, fitting the described bilateral tonic-clonic seizure with focal onset. TSC is genetically heterogeneous, primarily caused by mutations in either TSC1 (OMIM:191100) or TSC2 (OMIM:613254)."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.5,
+      "explanation": "Dravet Syndrome is a severe epileptic encephalopathy characterized by multiple seizure types, including focal and generalized tonic-clonic seizures (HP:0007334), often starting in infancy. Patients typically experience intellectual disability (HP:0001249), delayed speech and language development (HP:0000750), and significant behavioral problems including hyperactivity and aggressive behavior (HP:0000718). It is most commonly caused by mutations in the SCN1A gene."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.33,
+      "explanation": "Smith-Magenis Syndrome (SMS) is a neurodevelopmental disorder characterized by intellectual disability (HP:0001249), delayed speech and language development (HP:0000750), distinctive facial features, sleep disturbances, and a characteristic behavioral phenotype that frequently includes self-injurious behaviors and aggressive outbursts (HP:0000718). Seizures are present in a significant proportion of individuals with SMS, and can include tonic-clonic types."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X Syndrome (FXS) is the most common inherited cause of intellectual disability (HP:0001249), presenting with delayed speech and language development (HP:0000750). Behavioral challenges, including anxiety, ADHD-like features, and occasional aggressive behavior (HP:0000718), particularly when frustrated, are common. Seizures can occur in a subset of patients (around 10-20%) and may include focal or generalized tonic-clonic types."
+    },
+    {
+      "disease_name": "Chromosome 15q11.2-q13.1 Duplication Syndrome",
+      "disease_id": "OMIM:608636",
+      "score": 0.2,
+      "explanation": "Individuals with chromosome 15q11.2-q13.1 duplication syndrome often present with intellectual disability (HP:0001249), severe speech and language delay (HP:0000750), and autism spectrum disorder. Epilepsy is highly prevalent, with various seizure types including focal and generalized tonic-clonic (HP:0007334), often being intractable. Behavioral issues, including aggressive behavior (HP:0000718) and hyperactivity, are frequently reported."
+    }
+  ]
+}

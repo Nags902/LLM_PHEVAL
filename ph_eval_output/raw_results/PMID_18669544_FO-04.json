@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome Type 1",
+      "disease_id": "OMIM:600374",
+      "score": 1.0,
+      "explanation": "This specific genetic subtype of Bardet-Biedl Syndrome is a primary candidate as it classically presents with all the patient's phenotypic features: retinal dystrophy (leading to myopia, reduced visual acuity, and nyctalopia), intellectual disability, and obesity. It is one of the most common causes of BBS."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome Type 10",
+      "disease_id": "OMIM:610148",
+      "score": 0.9,
+      "explanation": "Bardet-Biedl Syndrome Type 10 is another highly prevalent genetic subtype within the BBS spectrum. It phenotypically mirrors BBS Type 1, presenting with retinal dystrophy (myopia, reduced visual acuity, nyctalopia), intellectual disability, and obesity, making it an equally strong fit for the patient's symptoms. Specific genetic testing would be required to differentiate it from other BBS types."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome Type 2",
+      "disease_id": "OMIM:606151",
+      "score": 0.8,
+      "explanation": "As with other types of Bardet-Biedl Syndrome, BBS Type 2 consistently manifests with rod-cone dystrophy (explaining myopia, reduced visual acuity, and nyctalopia), intellectual disability, and obesity. These core features are all present in the patient's clinical profile, supporting its high ranking among potential causative diseases."
+    },
+    {
+      "disease_name": "Alstr\u00f6m Syndrome",
+      "disease_id": "OMIM:203800",
+      "score": 0.5,
+      "explanation": "Alstr\u00f6m Syndrome is a strong differential diagnosis due to the presence of early-onset retinal dystrophy (cone-rod type, leading to similar visual symptoms) and progressive obesity. While intellectual disability is less consistently reported compared to Bardet-Biedl Syndrome, learning difficulties or mild cognitive impairment can occur in a subset of patients, making it a plausible fit."
+    },
+    {
+      "disease_name": "Joubert Syndrome Type 1",
+      "disease_id": "OMIM:213300",
+      "score": 0.33,
+      "explanation": "Joubert Syndrome and related disorders are a group of ciliopathies that can present with a wide range of features. Some forms include retinal dystrophy, intellectual disability, and obesity, which overlap with the patient's symptoms. While the 'molar tooth sign' on brain imaging is characteristic, it's not universally present or required for consideration."
+    },
+    {
+      "disease_name": "Laurence-Moon Syndrome",
+      "disease_id": "OMIM:245100",
+      "score": 0.25,
+      "explanation": "Historically linked to Bardet-Biedl Syndrome, Laurence-Moon Syndrome shares key features such as retinal dystrophy, intellectual disability, and obesity. It is often distinguished by the absence of polydactyly (not reported for the patient) and the presence of spastic paraplegia (not reported), making it a less comprehensive but still possible explanation."
+    },
+    {
+      "disease_name": "Prader-Willi Syndrome",
+      "disease_id": "OMIM:176270",
+      "score": 0.2,
+      "explanation": "Prader-Willi Syndrome is characterized by significant intellectual disability and severe obesity (due to hyperphagia) typically developing after infancy. While these two features are prominent in the patient, the primary and significant retinal dystrophy (myopia, reduced visual acuity, nyctalopia) is not a typical or major component of Prader-Willi Syndrome, lowering its likelihood compared to the other conditions."
+    }
+  ]
+}

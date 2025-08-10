@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Alport Syndrome, X-Linked",
+      "disease_id": "OMIM:301050",
+      "score": 1.0,
+      "explanation": "Alport Syndrome is a leading genetic cause of progressive chronic kidney disease (CKD) and proteinuria. While classical features include hematuria, hearing loss, and ocular abnormalities, kidney involvement with proteinuria progressing to CKD is universal. In females, who are typically carriers of X-linked Alport Syndrome (caused by mutations in COL4A5), symptoms can be variable, often with later onset of significant proteinuria and progressive kidney dysfunction, fitting the patient's age and gender."
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.5,
+      "explanation": "Fabry disease is an X-linked lysosomal storage disorder caused by deficiency of alpha-galactosidase A. Kidney involvement is a prominent and progressive feature, characterized by proteinuria (often nephrotic range) and leading to CKD. In female carriers, symptoms can be highly variable and often present later in life, sometimes with kidney disease being the predominant or initial manifestation, making it a strong candidate for this patient's presentation."
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis 2",
+      "disease_id": "OMIM:613616",
+      "score": 0.33,
+      "explanation": "Genetic forms of Focal Segmental Glomerulosclerosis (FSGS) are a significant cause of inherited kidney disease, directly leading to proteinuria and progressive CKD. FSGS2, caused by mutations in the NPHS2 gene, is one of the most common genetic forms of steroid-resistant nephrotic syndrome/FSGS and is a direct cause of the reported phenotypic features."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) is the most common inherited kidney disorder, typically presenting in adulthood. While characterized by bilateral renal cysts and hypertension, progressive CKD and proteinuria are common features as the disease advances. The patient's age (34) and the presence of CKD and proteinuria are highly consistent with ADPKD, particularly Type 1 (PKD1 gene) which is more common and often leads to earlier onset of ESRD."
+    },
+    {
+      "disease_name": "Dent Disease 1",
+      "disease_id": "OMIM:300009",
+      "score": 0.2,
+      "explanation": "Dent Disease 1 is an X-linked renal tubular disorder primarily affecting males, characterized by proximal tubulopathy, hypercalciuria, nephrocalcinosis, and progressive kidney disease. Female carriers, however, can also manifest significant renal features, including proteinuria (often low molecular weight, but can lead to CKD) and nephrocalcinosis, making it a plausible, albeit rarer, cause for the patient's symptoms."
+    }
+  ]
+}

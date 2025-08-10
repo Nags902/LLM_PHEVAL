@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A",
+      "disease_id": "OMIM:612389",
+      "score": 1.0,
+      "explanation": "Pontocerebellar Hypoplasia Type 2A (PCH2A) due to TSEN54 mutations is a strong candidate, as it is characterized by severe global developmental delay, progressive microcephaly, and seizures. Hypoplasia of the corpus callosum is a frequently observed associated brain anomaly. While edema is not a primary feature, the strong match with the core neurological phenotypes makes this a highly likely diagnosis."
+    },
+    {
+      "disease_name": "Cortical Dysgenesis, Absent Corpus Callosum, And Seizures (due to TUBA1A mutation)",
+      "disease_id": "OMIM:614532",
+      "score": 0.5,
+      "explanation": "Tubulinopathies, particularly those caused by mutations in TUBA1A, frequently present with a severe spectrum of brain malformations including cortical dysgenesis, significant abnormalities of the corpus callosum (ranging from hypoplasia to agenesis), progressive microcephaly, severe global developmental delay, and intractable seizures. Edema is not a characteristic feature, but the neurological overlap is substantial."
+    },
+    {
+      "disease_name": "Congenital Disorders of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.33,
+      "explanation": "Congenital Disorders of Glycosylation Type Ia (PMM2-CDG) is the most common CDG type and often presents with global developmental delay, seizures, and cerebellar hypoplasia. Progressive microcephaly can be present, and various brain structural anomalies are reported in CDGs. Edema, though not universally present, can be a feature in some CDG types due to systemic involvement like protein-losing enteropathy, making it a plausible consideration."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.25,
+      "explanation": "Zellweger syndrome, the most severe form of Peroxisome Biogenesis Disorders, is characterized by profound global developmental delay, progressive microcephaly, severe hypotonia, and intractable seizures. Brain imaging commonly reveals corpus callosum hypoplasia and other malformations. While edema is not a primary neurological feature, it can occur as a non-specific sign in severely affected infants with multi-organ dysfunction."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Complex Deficiency",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Pyruvate Dehydrogenase Complex Deficiency (PDHCD) is a mitochondrial disorder known for severe global developmental delay, lactic acidosis, intractable seizures, and progressive neurological deterioration. Brain imaging often shows progressive microcephaly, corpus callosum dysgenesis/hypoplasia, and brain atrophy. Edema is not a specific characteristic, but the severe neurological manifestations align well with the patient's presentation."
+    }
+  ]
+}

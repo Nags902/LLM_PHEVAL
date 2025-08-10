@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is a strong candidate as all three phenotypic features are highly characteristic. Hypertelorism and orofacial clefting (especially cleft palate and choanal atresia) are common craniofacial manifestations, and significant sleep abnormalities, particularly sleep apnea (both obstructive and central), are frequently observed due to airway anomalies and/or brainstem dysfunction."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome, X-linked",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Opitz G/BBB syndrome is characterized by a prominent hypertelorism and a high incidence of orofacial clefting, including cleft lip/palate and laryngeal clefts. While sleep abnormality is not a primary diagnostic criterion, it is a significant secondary complication due to common airway malformations (e.g., laryngeal clefts) that can lead to obstructive sleep apnea."
+    },
+    {
+      "disease_name": "Opitz G/BBB syndrome, autosomal dominant",
+      "disease_id": "OMIM:611219",
+      "score": 0.5,
+      "explanation": "Similar to the X-linked form, the autosomal dominant Opitz G/BBB syndrome also features prominent hypertelorism and a high incidence of orofacial clefting. Sleep abnormalities can arise as a secondary effect of airway anomalies, making it a relevant consideration given the patient's phenotype."
+    },
+    {
+      "disease_name": "Apert syndrome",
+      "disease_id": "OMIM:101200",
+      "score": 0.33,
+      "explanation": "Apert syndrome is characterized by craniosynostosis leading to hypertelorism and midface hypoplasia, which often includes cleft palate. Obstructive sleep apnea is a well-documented and common complication arising from the severe craniofacial anomalies, fitting all three observed features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.25,
+      "explanation": "While hypertelorism is less distinct in Smith-Lemli-Opitz syndrome compared to other candidates, orofacial clefting (cleft palate) is common, and profound sleep abnormalities, including reversed sleep-wake cycles and severe insomnia, are highly characteristic and often the most challenging aspect of this syndrome, strongly supporting its inclusion."
+    }
+  ]
+}

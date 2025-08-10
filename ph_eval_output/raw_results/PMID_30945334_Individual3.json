@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "This is a strong candidate given the extensive overlap with the patient's phenotype. PMM2-CDG is characterized by global developmental delay, intellectual disability, seizures, spasticity (including spastic diplegia), cerebral atrophy, and thin corpus callosum. Short stature is also a common feature. While failure to thrive is often seen in infancy, obesity has been reported in older individuals with PMM2-CDG. The facial features (prominent nasal bridge, thin upper lip vermilion) are also compatible, though not pathognomonic."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome (POLG-related)",
+      "disease_id": "OMIM:203700",
+      "score": 0.5,
+      "explanation": "Alpers-Huttenlocher Syndrome, a severe mitochondrial encephalopathy, is a strong match for the profound neurological symptoms including global developmental delay, intellectual disability, intractable seizures, spastic diplegia, inability to walk, and significant brain imaging findings of cerebral atrophy. Short stature is also commonly observed. The primary discrepancy is the presence of obesity, which is not a typical feature of this syndrome, although it could be a secondary consequence of severe immobility or an unrelated finding."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase complex deficiency (e.g., PDHA1-related)",
+      "disease_id": "OMIM:312170",
+      "score": 0.333,
+      "explanation": "Pyruvate dehydrogenase complex deficiency (PDCD) presents with severe neurological manifestations including global developmental delay, intellectual disability, seizures, and spasticity. Brain imaging often reveals cerebral atrophy and hypoplasia or thinning of the corpus callosum. Short stature can also be present. While lactic acidosis is a key biochemical finding (not provided here), the clinical neurological and brain imaging features align well. Obesity is not a characteristic feature of PDCD."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 2A (TSEN54-related)",
+      "disease_id": "OMIM:277470",
+      "score": 0.25,
+      "explanation": "Pontocerebellar hypoplasia type 2A is characterized by severe global developmental delay, intellectual disability, inability to walk, seizures, and spasticity. Brain imaging typically shows severe cerebellar hypoplasia, but cerebral atrophy and thin corpus callosum are also common. Short stature is a frequent finding. However, this condition often presents with microcephaly (not listed in the patient's features), and obesity is not a typical part of its phenotype."
+    }
+  ]
+}

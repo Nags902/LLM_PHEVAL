@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "PMM2-CDG (Congenital Disorder of Glycosylation, Type Ia)",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "This disorder shows an exceptional fit with nearly all reported phenotypic features. It classically presents with a severe neurodevelopmental encephalopathy, including infantile spasms, global developmental delay, severe intellectual disability, and absent speech. The cerebellar involvement (intention tremor, poor coordination, broad-based gait) is a hallmark. Furthermore, PMM2-CDG is known to be associated with microcephaly, gastroesophageal reflux, strabismus, moderate sensorineural hearing impairment, and precocious puberty in females, making it the most comprehensive match for this patient's complex phenotype."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder, which predominantly affects females, is a strong candidate due to the presence of early-onset seizures (including infantile spasms), severe intellectual disability, global developmental delay, motor stereotypies, microcephaly, and strabismus. While it accounts for many neurological symptoms, the specific features of precocious puberty and sensorineural hearing impairment are not typically associated with this disorder, and specific cerebellar signs like intention tremor are less characteristic than generalized motor dysfunction."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.333,
+      "explanation": "Rett Syndrome, primarily affecting females, aligns with several key features including severe intellectual disability, global developmental delay (often with regression), absent speech, characteristic motor stereotypy (hand movements), acquired microcephaly, and gait abnormalities (poor coordination, broad-based gait). Seizures, including infantile spasms, can occur. However, sensorineural hearing impairment and precocious puberty are not typical features of Rett Syndrome, and the characteristic regression phase is a defining aspect not explicitly detailed here."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "STXBP1 Encephalopathy is a well-recognized cause of severe developmental and epileptic encephalopathy, fitting well with infantile spasms, other seizure types, severe intellectual disability, global developmental delay, microcephaly, and various movement disorders including tremor and poor coordination. While it covers a significant portion of the neurological phenotype, it does not typically include sensorineural hearing impairment or precocious puberty as part of its core clinical presentation."
+    }
+  ]
+}

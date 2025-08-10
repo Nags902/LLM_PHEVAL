@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric Aciduria, Type I",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "This disease perfectly aligns with all the key phenotypic features provided, including the pathognomonic biochemical markers: elevated urine 3-hydroxyglutaric level, glutaric aciduria, and elevated circulating glutarylcarnitine concentration. The clinical findings of macrocephaly, cerebral atrophy, developmental regression, and even subdural hemorrhage (a known complication due to brain atrophy and vascular fragility) are highly consistent with Glutaric Aciduria Type I (GA1)."
+    },
+    {
+      "disease_name": "Multiple Acyl-CoA Dehydrogenase Deficiency (Glutaric Aciduria Type II)",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "While the specific biochemical profile (especially the elevated 3-hydroxyglutaric acid) is more characteristic of Glutaric Aciduria Type I, Multiple Acyl-CoA Dehydrogenase Deficiency (MADD), also known as Glutaric Aciduria Type II, is a broader group of disorders that can present with glutaric aciduria. MADD can cause severe neurological manifestations, developmental regression, and brain abnormalities, placing it as a differential diagnosis, albeit less likely given the specific metabolite profile provided."
+    }
+  ]
+}

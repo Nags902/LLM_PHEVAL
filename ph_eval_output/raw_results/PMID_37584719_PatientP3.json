@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "IPEX Syndrome (Immunodysregulation, Polyendocrinopathy, Enteropathy, X-linked)",
+      "disease_id": "OMIM:304790",
+      "score": 1.0,
+      "explanation": "IPEX syndrome is a severe X-linked disorder characterized by early-onset immune dysregulation. Key features often include severe autoimmune enteropathy leading to chronic diarrhea and various autoimmune manifestations, including autoimmune hemolytic anemia, which directly match the patient's presentation. Although predominantly affecting males, affected females due to skewed X-inactivation or other genetic mechanisms are well-documented."
+    },
+    {
+      "disease_name": "LRBA deficiency (Lipopolysaccharide-responsive and beige-like anchor protein deficiency)",
+      "disease_id": "OMIM:614778",
+      "score": 0.5,
+      "explanation": "LRBA deficiency is an autosomal recessive primary immunodeficiency characterized by immune dysregulation, auto-inflammatory features, and autoimmunity. It commonly presents with severe autoimmune enteropathy (chronic diarrhea) and autoimmune cytopenias, including autoimmune hemolytic anemia, closely mirroring the patient's symptoms. It is often considered in the differential diagnosis for IPEX-like syndromes."
+    },
+    {
+      "disease_name": "CTLA4 haploinsufficiency (Cytotoxic T-Lymphocyte Antigen 4 haploinsufficiency)",
+      "disease_id": "OMIM:616120",
+      "score": 0.3333,
+      "explanation": "CTLA4 haploinsufficiency is an autosomal dominant disorder causing a wide spectrum of immune dysregulation, including hypogammaglobulinemia, lymphoproliferation, and multi-organ autoimmunity. Autoimmune enteropathy presenting as chronic diarrhea and autoimmune cytopenias, particularly autoimmune hemolytic anemia, are prominent features of this condition, making it a strong candidate."
+    }
+  ]
+}

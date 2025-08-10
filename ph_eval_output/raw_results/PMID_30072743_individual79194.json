@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cone-rod dystrophy 2",
+      "disease_id": "OMIM:600977",
+      "score": 1.0,
+      "explanation": "This diagnosis is highly probable because Cone-rod dystrophy (CRD) is a group of inherited retinal degenerations that often present with bull's eye maculopathy, peripheral retinal atrophy, reduced visual acuity, and nystagmus. Cone-rod dystrophy 2, specifically caused by mutations in the ABCA4 gene, is a common form that can manifest with all the described phenotypic features, including a spectrum of macular abnormalities from flecks to bull's eye atrophy, and progressive peripheral involvement."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy 3",
+      "disease_id": "OMIM:604104",
+      "score": 0.5,
+      "explanation": "Mutations in the GUCY2D gene are a well-established cause of severe, early-onset cone-rod dystrophy, often characterized by nystagmus, profound reduction in visual acuity, and a typical bull's eye maculopathy. The presence of peripheral retinal atrophy further supports a widespread retinal degeneration, making this disease a strong candidate that aligns well with all presented clinical features."
+    },
+    {
+      "disease_name": "Stargardt disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.33,
+      "explanation": "Stargardt disease 1, also caused by ABCA4 mutations, is primarily a macular dystrophy. While the classic presentation involves pisciform flecks and macular atrophy, ABCA4-related retinopathies are highly variable, and bull's eye maculopathy is a recognized pattern of atrophy that can occur. In advanced stages, Stargardt disease can progress to involve the peripheral retina, causing peripheral atrophy, and lead to significant visual impairment and nystagmus, creating overlap with cone-rod dystrophies."
+    },
+    {
+      "disease_name": "Retinitis Pigmentosa 3, X-linked",
+      "disease_id": "OMIM:312610",
+      "score": 0.25,
+      "explanation": "While Retinitis Pigmentosa (RP) typically affects rod photoreceptors first, leading to night blindness and peripheral vision loss, severe forms, particularly X-linked RP3 caused by RPGR mutations, can involve cones earlier and more significantly. This can result in early central vision loss, nystagmus, and profound visual acuity reduction, along with the expected peripheral retinal atrophy. Although bull's eye maculopathy is not a classic hallmark of RP, severe macular degeneration can occur and mimic such appearances, placing it as a differential diagnosis for a widespread retinal degeneration."
+    }
+  ]
+}

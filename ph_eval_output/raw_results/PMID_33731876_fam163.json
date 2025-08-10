@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "SYNGAP1-related intellectual disability",
+      "disease_id": "OMIM:612621",
+      "score": 1.0,
+      "explanation": "This condition is strongly associated with the core features of intellectual disability (often moderate to severe), autism spectrum disorder, and epilepsy, including generalized tonic-clonic seizures. The triad of symptoms aligns very well."
+    },
+    {
+      "disease_name": "ADNP syndrome",
+      "disease_id": "OMIM:615873",
+      "score": 0.5,
+      "explanation": "ADNP syndrome frequently presents with intellectual disability (ranging from mild to severe), autism spectrum disorder, and a high prevalence of seizures, including tonic-clonic types, making it a strong candidate."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 11",
+      "disease_id": "OMIM:613721",
+      "score": 0.3333333333333333,
+      "explanation": "Caused by mutations in SCN2A, this disorder is characterized by early-onset, often intractable seizures (including bilateral tonic-clonic), significant intellectual disability, and frequently features of autism spectrum disorder, aligning well with the patient's presentation."
+    },
+    {
+      "disease_name": "Phelan-McDermid syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "Phelan-McDermid syndrome is characterized by intellectual disability (typically moderate to severe), prominent autism spectrum disorder features, and a significant percentage of affected individuals also experience seizures, including tonic-clonic types."
+    },
+    {
+      "disease_name": "Pitt-Hopkins syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Pitt-Hopkins syndrome commonly presents with moderate to severe intellectual disability, distinctive facial features (not listed but typical), and a high incidence of autism spectrum disorder and various seizure types, including generalized tonic-clonic seizures."
+    },
+    {
+      "disease_name": "GRIN2B-related neurodevelopmental disorder",
+      "disease_id": "OMIM:611029",
+      "score": 0.16666666666666666,
+      "explanation": "Mutations in GRIN2B are associated with a spectrum of neurodevelopmental disorders, frequently including intellectual disability of variable severity (often moderate), autism spectrum disorder, and epilepsy with diverse seizure types such as tonic-clonic."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.14285714285714285,
+      "explanation": "Fragile X syndrome is the most common inherited cause of intellectual disability (often moderate in males) and is highly associated with autism spectrum disorder. Epilepsy, including tonic-clonic seizures, occurs in a notable minority of affected individuals."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome, also known as cerebral gigantism, is highly characterized by the combination of tall stature, macrocephaly, and a high forehead. Obesity can also be a feature, particularly in childhood and adolescence. This syndrome aligns very well with all the patient's reported phenotypic features."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome is another overgrowth syndrome that shares significant phenotypic overlap with Sotos Syndrome. Key features include tall stature, macrocephaly, and characteristic facial features often including a broad or high forehead. Obesity can also be observed. It is a strong differential diagnosis for Sotos Syndrome."
+    },
+    {
+      "disease_name": "Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.333,
+      "explanation": "Bannayan-Riley-Ruvalcaba Syndrome (BRRS) is characterized by macrocephaly and often includes obesity and tall stature, fitting several of the patient's features. While other classic features like lipomas or hamartomatous polyps are not listed, the core anthropometric findings are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome",
+      "disease_id": "OMIM:601728",
+      "score": 0.25,
+      "explanation": "PTEN Hamartoma Tumor Syndrome (PHTS) is an umbrella term that includes Bannayan-Riley-Ruvalcaba Syndrome, caused by mutations in the PTEN gene. It is characterized by macrocephaly and an increased risk of benign and malignant tumors, often with features like obesity and sometimes increased stature. Given the strong fit with BRRS, PHTS is also a relevant broader consideration."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel Syndrome Type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.2,
+      "explanation": "Simpson-Golabi-Behmel Syndrome Type 1 is an X-linked overgrowth syndrome associated with macrocephaly, tall stature, and can present with obesity. While often associated with more pronounced coarse facial features and visceral anomalies not detailed here, the primary growth parameters align."
+    }
+  ]
+}

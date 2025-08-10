@@ -1,0 +1,70 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "CDKL5 Deficiency Disorder is a primary genetic cause of early-onset epileptic encephalopathy, with infantile spasms and hypsarrhythmia being hallmark features. It commonly presents with severe global developmental delay, profound intellectual disability, encephalopathy, generalized hypotonia, and various seizure types including focal tonic and myoclonic seizures, perfectly matching the patient's phenotype."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.5,
+      "explanation": "Tuberous Sclerosis Complex is one of the most frequent identifiable causes of infantile spasms (West Syndrome) and epileptic encephalopathy. Patients often exhibit global developmental delay, various seizure types (including focal tonic and myoclonic seizures), and encephalopathy. Although no other specific features of TSC are mentioned, it remains a highly probable underlying cause given the seizure profile."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "Similar to TSC1, mutations in TSC2 are a very common cause of Tuberous Sclerosis Complex, leading to a high incidence of infantile spasms, hypsarrhythmia, other seizure types, developmental delay, and encephalopathy. It represents a significant etiology for the presented symptoms."
+    },
+    {
+      "disease_name": "STXBP1-related encephalopathy with or without dystonia",
+      "disease_id": "OMIM:612164",
+      "score": 0.3333333333333333,
+      "explanation": "STXBP1 encephalopathy is a well-recognized severe early-onset epileptic encephalopathy characterized by global developmental delay, intellectual disability, hypotonia, and intractable seizures, including infantile spasms and various other seizure types like focal tonic and myoclonic seizures. Encephalopathy and abnormal EEG findings are consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 7",
+      "disease_id": "OMIM:613977",
+      "score": 0.25,
+      "explanation": "KCNQ2 mutations are a significant cause of early-onset epileptic encephalopathy. While some forms present with benign neonatal seizures, severe variants involve profound developmental delay, intractable seizures (including infantile spasms), hypsarrhythmia, hypotonia, and encephalopathy, aligning well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Lissencephaly, X-linked, 2",
+      "disease_id": "OMIM:300215",
+      "score": 0.2,
+      "explanation": "ARX-related disorders, particularly Lissencephaly, X-linked, 2 (XLAG), are severe X-linked conditions leading to profound global developmental delay, intractable seizures (including infantile spasms and other types), hypsarrhythmia, severe encephalopathy, and often hypotonia. This highly fits the severe neurological presentation, although specific brain imaging details are not provided."
+    },
+    {
+      "disease_name": "Intellectual disability, autosomal dominant 5",
+      "disease_id": "OMIM:603384",
+      "score": 0.16666666666666666,
+      "explanation": "SYNGAP1 is an increasingly recognized cause of intellectual disability with associated epilepsy. Patients often present with global developmental delay, hypotonia, and various seizure types, including infantile spasms, focal tonic, and myoclonic seizures, fitting the patient's comprehensive neurological profile."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 11",
+      "disease_id": "OMIM:612165",
+      "score": 0.14285714285714285,
+      "explanation": "SCN2A mutations can cause a broad spectrum of epilepsy phenotypes, including severe early-onset epileptic encephalopathy. This often presents with global developmental delay, intractable seizures (including infantile spasms), and hypotonia, consistent with the patient's features."
+    },
+    {
+      "disease_name": "Epilepsy, female-restricted, with or without intellectual disability",
+      "disease_id": "OMIM:300088",
+      "score": 0.125,
+      "explanation": "PCDH19-related epilepsy, although classically female-restricted, can affect males with atypical presentations or mosaicism, or be a consideration for a female patient. This condition is characterized by early-onset seizures (including infantile spasms, focal tonic, and myoclonic types), intellectual disability, and developmental delay, consistent with an epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 19",
+      "disease_id": "OMIM:616346",
+      "score": 0.1111111111111111,
+      "explanation": "Mutations in GABRA1 are associated with severe early-onset epileptic encephalopathies, presenting with global developmental delay, intractable seizures (including infantile spasms and other types), hypsarrhythmia, encephalopathy, and hypotonia, all of which align with the patient's symptoms."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 20",
+      "disease_id": "OMIM:616347",
+      "score": 0.1,
+      "explanation": "DNM1 is another gene associated with severe early-onset epileptic encephalopathy. Patients typically experience global developmental delay, intractable seizures (including infantile spasms), hypotonia, and encephalopathy, aligning with the described phenotypic features."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "TUBA1A-related cortical dysplasia and complex brain malformations",
+      "disease_id": "OMIM:612667",
+      "score": 1.0,
+      "explanation": "Mutations in TUBA1A are a leading cause of tubulinopathy-related cortical malformations, which characteristically include microcephaly, polymicrogyria, thin or absent corpus callosum, and severe intellectual disability with absent speech. Short stature is also a reported feature, making this an excellent match for the patient's comprehensive phenotype."
+    },
+    {
+      "disease_name": "TUBB3-related encephalopathy with complex cortical malformations (e.g., as seen in CFEOM3A spectrum)",
+      "disease_id": "OMIM:600638",
+      "score": 0.5,
+      "explanation": "Similar to TUBA1A, mutations in TUBB3 (another tubulin gene) result in a spectrum of brain malformations, often presenting with microcephaly, polymicrogyria, callosal hypoplasia, and intellectual disability. While classically associated with ophthalmoplegia (CFEOM), many patients have a broader neurodevelopmental encephalopathy that closely fits this presentation, including absent speech and short stature."
+    },
+    {
+      "disease_name": "Microcephaly 2, primary, with or without cortical malformations (WDR62-related)",
+      "disease_id": "OMIM:613523",
+      "score": 0.333,
+      "explanation": "Mutations in WDR62 are a common cause of severe primary microcephaly that is frequently accompanied by significant cortical malformations, including polymicrogyria and abnormalities of the corpus callosum. Intellectual disability, absent speech, and short stature are also characteristic features, making this a strong candidate for the patient's condition."
+    },
+    {
+      "disease_name": "Intellectual disability, X-linked, with or without agenesis of the corpus callosum and abnormal genitalia (ARX-related)",
+      "disease_id": "OMIM:300382",
+      "score": 0.25,
+      "explanation": "Given the patient's gender (1, often indicating male), mutations in ARX can cause X-linked intellectual disability accompanied by severe brain malformations. These often include microcephaly, polymicrogyria (frequently posterior predominant), and partial or complete agenesis of the corpus callosum. Absent speech and short stature are also consistent features of this broad phenotypic spectrum."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This disease is a strong candidate as it classically presents with obesity, intellectual disability, and short metacarpals (brachydactyly type E), which perfectly matches the patient's phenotypic features. It represents the full spectrum of Albright Hereditary Osteodystrophy with hormone resistance."
+    },
+    {
+      "disease_name": "Pseudopseudohypoparathyroidism",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "Pseudopseudohypoparathyroidism (PPHP) is a form of Albright Hereditary Osteodystrophy that shares the characteristic physical findings of obesity, intellectual disability, and short metacarpals (brachydactyly type E), but without the associated hormone resistance seen in Pseudohypoparathyroidism Type 1A. It is caused by mutations in the same gene (GNAS) as PHP1A."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.33,
+      "explanation": "Patients with Down Syndrome commonly present with intellectual disability. While obesity can occur, and hand anomalies such as brachydactyly (e.g., of the fifth digit) and short broad hands are frequent, the specific 'short metacarpal' feature (HP:0010049) is less uniquely defining than in Albright Hereditary Osteodystrophy, but it remains a plausible differential given the combination of features."
+    }
+  ]
+}

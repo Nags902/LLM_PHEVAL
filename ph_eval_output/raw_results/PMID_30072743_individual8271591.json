@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 1.0,
+      "explanation": "Stargardt disease is the most common inherited macular dystrophy. It is characterized by progressive central vision loss (reduced visual acuity) due to macular atrophy, often with an onset in childhood or adolescence. Nystagmus can be a prominent feature, especially in early-onset cases with significant visual impairment. This subtype is caused by mutations in the ABCA4 gene."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 6",
+      "disease_id": "OMIM:601777",
+      "score": 0.5,
+      "explanation": "Cone-rod dystrophies are a group of inherited retinal disorders primarily affecting cone photoreceptors, leading to central vision loss (reduced visual acuity), photophobia, and often nystagmus. Macular atrophy is a common finding as the disease progresses. This specific subtype is also caused by mutations in the ABCA4 gene, highlighting the phenotypic and genetic overlap with Stargardt disease, which can present as a cone-rod dystrophy."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 2",
+      "disease_id": "OMIM:204100",
+      "score": 0.3333,
+      "explanation": "Leber Congenital Amaurosis (LCA) is a group of severe, early-onset retinal dystrophies presenting with profound vision loss (reduced visual acuity) and nystagmus typically from infancy. While LCA involves widespread retinal degeneration, macular atrophy is a significant component of the overall retinal damage, contributing to the severe central vision impairment. This subtype is caused by mutations in the RPE65 gene."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 10",
+      "disease_id": "OMIM:610142",
+      "score": 0.25,
+      "explanation": "Similar to LCA2, Leber Congenital Amaurosis 10 is a severe, early-onset retinal dystrophy characterized by profound visual impairment (reduced visual acuity) and nystagmus from infancy. Macular atrophy and generalized retinal degeneration are expected findings. This subtype is caused by mutations in the CEP290 gene, making it a strong candidate for the patient's symptoms."
+    },
+    {
+      "disease_name": "Best Vitelliform Macular Dystrophy 1",
+      "disease_id": "OMIM:153700",
+      "score": 0.2,
+      "explanation": "Best Vitelliform Macular Dystrophy is a primary maculopathy characterized by the accumulation of lipofuscin-like material beneath the retinal pigment epithelium, leading to distinctive 'egg-yolk' lesions. While initial stages might not present with atrophy, the disease often progresses to significant macular atrophy, leading to reduced visual acuity. Nystagmus can develop, especially in severe or early-onset cases with poor central vision."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy 2",
+      "disease_id": "OMIM:180020",
+      "score": 0.1667,
+      "explanation": "This is another subtype of cone-rod dystrophy caused by mutations in the GUCY2D gene. Similar to other cone-rod dystrophies, it leads to progressive central vision loss (reduced visual acuity) and often nystagmus due to primary cone involvement and subsequent macular atrophy. It is a distinct genetic cause contributing to a similar phenotype."
+    }
+  ]
+}

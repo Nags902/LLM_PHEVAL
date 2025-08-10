@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome 2",
+      "disease_id": "OMIM:614609",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to a strong match with multiple key features. Coffin-Siris Syndrome, particularly ARID1B-related (type 2), is characterized by intellectual disability, prominent fingertip pads (a highly characteristic feature), intrauterine growth retardation, feeding difficulties, abnormal facial shape, narrow palate, and clinodactyly. Horseshoe kidney is also a recognized renal anomaly in a significant subset of patients. While neonatal hypoglycemia is not a classic hallmark, it can occur in severe cases, especially in the context of significant feeding difficulties and poor growth."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome (specifically KMT2D-related, type 1) is a very strong alternative diagnosis. It shares many features, including intellectual disability, prominent fingertip pads (often described as 'fetal fingertip pads'), feeding difficulties, abnormal facial shape, narrow palate, clinodactyly, and horseshoe kidney. Intrauterine growth retardation can occur but is less consistently severe than in Coffin-Siris Syndrome. Similar to Coffin-Siris, neonatal hypoglycemia is not a primary diagnostic criterion, but could be present in some individuals."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333333333333333,
+      "explanation": "Cornelia de Lange Syndrome (NIPBL-related, type 1) is a plausible diagnosis, fitting several key features. It is characterized by severe intrauterine growth retardation, intellectual disability, feeding difficulties, characteristic facial features, clinodactyly, and often a narrow palate. Prominent fingertip pads can also be observed (often described as thickened pads or increased digital arch patterns). While horseshoe kidney and neonatal hypoglycemia are not core features, renal anomalies can occur, and hypoglycemia might be present due to severe growth restriction or feeding issues."
+    }
+  ]
+}

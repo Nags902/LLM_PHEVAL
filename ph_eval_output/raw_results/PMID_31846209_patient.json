@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Trisomy 13 (Patau Syndrome)",
+      "disease_id": "OMIM:190470",
+      "score": 1.0,
+      "explanation": "Trisomy 13 is a very strong candidate due to the consistent presence of severe brain malformations including holoprosencephaly (specifically lobar), microcephaly, hypotelorism, seizures, hypotonia, feeding difficulties, and increased susceptibility to infections (bronchiolitis). Many of the listed facial features such as high palate, protruding ear, depressed nasal tip, and macrotia are commonly observed. While some specific features like long palpebral fissures, eversion of the lateral third of lower eyelids, highly arched eyebrow, and sparse lateral eyebrow are less classically described, the overall severe and variable dysmorphic pattern of Trisomy 13 can encompass these complex findings."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome (SLOS)",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "SLOS is a metabolic disorder frequently associated with central nervous system malformations, including variable forms of holoprosencephaly (lobar), microcephaly, hypotelorism, seizures, and hypotonia. Other matching features include feeding difficulties, high palate, depressed nasal tip (often broad nasal bridge with anteverted nares), and increased susceptibility to infections (bronchiolitis). While specific findings like protruding ears, long palpebral fissures, eversion of the lateral third of lower eyelids, highly arched/sparse eyebrows, prominent fingertip pads, and hip dysplasia are not universally cardinal, SLOS presents with a broad and variable spectrum of dysmorphic features that could include these findings."
+    },
+    {
+      "disease_name": "Holoprosencephaly, syndromic",
+      "disease_id": "OMIM:236100",
+      "score": 0.333,
+      "explanation": "This category represents a collection of single-gene disorders where holoprosencephaly is a primary feature. Mutations in genes such as ZIC2 (HPE5), SHH (HPE1), SIX3 (HPE3), and TGIF1 (HPE4) are known to cause a spectrum of holoprosencephaly and associated syndromic features. This directly explains the core findings of lobar holoprosencephaly, microcephaly, hypotelorism, seizures, hypotonia, and feeding difficulties. The diverse facial anomalies and other features like prominent fingertip pads, hip dysplasia, and bronchiolitis can be present depending on the specific genetic etiology, though a precise match for all minor dysmorphisms may vary across individual gene defects."
+    }
+  ]
+}

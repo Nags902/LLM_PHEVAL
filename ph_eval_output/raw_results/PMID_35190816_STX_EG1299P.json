@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation Type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG, the most common type of CDG, frequently presents with a constellation of symptoms including global developmental delay, truncal ataxia, generalized hypotonia, strabismus, and delayed speech and language development. Encephalopathy and seizures are common, which would account for EEG abnormalities like occipital slowing."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh syndrome is a severe progressive neurodegenerative disorder, often of mitochondrial origin, characterized by psychomotor delay or regression, hypotonia, truncal ataxia, and various neurological symptoms including ophthalmologic abnormalities like strabismus. EEG abnormalities, including generalized or focal slowing (such as occipital slowing), are very common due to encephalopathic changes."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.3333333333333333,
+      "explanation": "Joubert Syndrome is a ciliopathy primarily characterized by the 'molar tooth sign' on brain MRI. Clinically, it presents with hallmark features of hypotonia, truncal ataxia (due to cerebellar vermis hypoplasia), global developmental delay, delayed speech, and oculomotor abnormalities including strabismus. While occipital slowing isn't pathognomonic, generalized EEG abnormalities are common due to widespread brain dysfunction."
+    },
+    {
+      "disease_name": "Rett Syndrome",
+      "disease_id": "OMIM:312750",
+      "score": 0.25,
+      "explanation": "Given the patient's gender (female), Rett syndrome is a strong consideration. It is characterized by initial normal development followed by regression of acquired skills, leading to global developmental delay and delayed speech. Early hypotonia, followed by spasticity and motor difficulties including truncal ataxia and apraxia, are classic. Strabismus is a common ocular feature, and EEG abnormalities, including slowing, are very frequent and evolve with the disease."
+    },
+    {
+      "disease_name": "Glutaric Aciduria Type 1",
+      "disease_id": "OMIM:231670",
+      "score": 0.2,
+      "explanation": "Glutaric Aciduria Type 1 is an inborn error of metabolism that can cause macrocephaly and developmental delay. Patients are particularly vulnerable to acute encephalopathic crises, often triggered by intercurrent illness, leading to chronic neurological damage presenting with dystonia, hypotonia, and intellectual disability. Ataxia can be part of the complex movement disorder, and EEG abnormalities are possible during acute crises or due to chronic brain injury, including diffuse slowing."
+    }
+  ]
+}

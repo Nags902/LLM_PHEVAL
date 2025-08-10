@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:147790",
+      "score": 1.0,
+      "explanation": "KBG Syndrome is highly consistent with the patient's phenotypic features. It is characterized by intellectual disability, global developmental delay, distinctive facial features including hypertelorism, long philtrum, and a prominent/bulbous nasal tip, and dental anomalies such as macrodontia (especially of the upper central incisors) which is a hallmark feature. Hand abnormalities (e.g., brachydactyly, clinodactyly) and feeding difficulties are also commonly reported."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:614607",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome presents with significant overlap, including intellectual disability, global developmental delay, delayed speech, feeding difficulties, and characteristic facial features such as hypertelorism, long philtrum, and a broad/bulbous nose. Abnormality of the hand, particularly hypoplasia or aplasia of the fifth digit/nail, is a classic feature. While many features align, macrodontia is not typically a hallmark of Coffin-Siris Syndrome, although general dental anomalies can occur."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser Syndrome",
+      "disease_id": "OMIM:610121",
+      "score": 0.333,
+      "explanation": "Nicolaides-Baraitser Syndrome shares several key features, including intellectual disability, global developmental delay, delayed speech, feeding difficulties, and characteristic facial features such as hypertelorism, prominent forehead, broad nasal bridge, and a long philtrum. Hand abnormalities like brachydactyly are also common. However, macrodontia is not a characteristic feature of this syndrome, making it a less precise fit compared to KBG Syndrome, but still a plausible consideration given the overlap in other features."
+    }
+  ]
+}

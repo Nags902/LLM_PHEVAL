@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "UMOD-Related Kidney Disease (Familial Juvenile Hyperuricemic Nephropathy / Medullary Cystic Kidney Disease Type 2)",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This group of disorders, caused by mutations in the UMOD gene, is characterized by early-onset hyperuricemia and progressive chronic kidney disease, often with associated proteinuria. It precisely matches the presented clinical features in an 8-year-old."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.5,
+      "explanation": "Glycogen Storage Disease Type Ia is a metabolic disorder associated with severe hyperuricemia, proteinuria, and progressive chronic kidney disease as major complications due to impaired purine metabolism and renal handling. While other systemic symptoms are typical, the renal and metabolic features strongly align."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ib",
+      "disease_id": "OMIM:613714",
+      "score": 0.3333333333333333,
+      "explanation": "Similar to GSD Ia, Glycogen Storage Disease Type Ib also presents with hyperuricemia, proteinuria, and progressive chronic kidney disease, stemming from the same metabolic pathway dysfunction impacting kidney function."
+    },
+    {
+      "disease_name": "Dent Disease 1",
+      "disease_id": "OMIM:300009",
+      "score": 0.25,
+      "explanation": "Dent disease 1 is an X-linked tubulopathy characterized by low molecular weight proteinuria, hypercalciuria, nephrolithiasis, and progressive chronic kidney disease. Hyperuricemia is a common associated finding due to altered renal tubular transport. Affected females can present with the disease."
+    },
+    {
+      "disease_name": "Dent Disease 2",
+      "disease_id": "OMIM:300555",
+      "score": 0.2,
+      "explanation": "Dent disease 2 has a similar clinical presentation to Dent disease 1, including proteinuria, progressive chronic kidney disease, and can feature hyperuricemia, although it is caused by mutations in a different gene (OCRL). Affected females can present with the disease."
+    },
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 0.16666666666666666,
+      "explanation": "This severe X-linked disorder is characterized by profound hyperuricemia due to HPRT1 deficiency, leading to severe uric acid nephropathy, kidney stones, and progressive chronic kidney disease with proteinuria. While neurological features are prominent, the renal manifestations perfectly fit the provided HPO terms. Symptomatic females are rare but possible."
+    },
+    {
+      "disease_name": "Adenine Phosphoribosyltransferase Deficiency",
+      "disease_id": "OMIM:102600",
+      "score": 0.14285714285714285,
+      "explanation": "This metabolic disorder leads to the overproduction and excretion of 2,8-dihydroxyadenine, causing crystal nephropathy, kidney stones, and progressive chronic kidney disease. Hyperuricemia can also be present due to purine metabolism abnormalities or secondary to kidney damage, making it a relevant consideration for the combination of symptoms."
+    }
+  ]
+}

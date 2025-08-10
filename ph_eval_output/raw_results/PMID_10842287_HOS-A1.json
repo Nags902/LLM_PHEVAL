@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "Holt-Oram syndrome is classically characterized by a combination of upper limb malformations and congenital heart defects. The presence of Atrial Septal Defect (HP:0001631) is a very common cardiac anomaly in this syndrome. Upper limb anomalies, ranging from subtle carpal bone abnormalities to severe radial aplasia, including Absent Thumb (HP:0009777) and, in its most severe presentations, Upper Limb Phocomelia (HP:0009813), are hallmark features. This strong match across all three phenotypic features makes it the most likely diagnosis."
+    },
+    {
+      "disease_name": "Roberts syndrome",
+      "disease_id": "OMIM:268300",
+      "score": 0.5,
+      "explanation": "Roberts syndrome is a severe autosomal recessive disorder primarily characterized by tetraphocomelia, with Upper Limb Phocomelia (HP:0009813) being a prominent feature. This severe limb reduction inherently includes anomalies like Absent Thumb (HP:0009777). Congenital heart defects, including Atrial Septal Defect (HP:0001631), are also reported in a significant proportion of affected individuals. Its strong association with profound phocomelia makes it a strong candidate, although the specific combination of ASD and absent thumb is more consistently seen with Holt-Oram."
+    },
+    {
+      "disease_name": "Fanconi anemia, complementation group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.33,
+      "explanation": "Fanconi Anemia is a genetic disorder associated with various congenital anomalies, including radial ray defects such as Absent Thumb (HP:0009777) and other skeletal abnormalities. Congenital heart defects, including Atrial Septal Defect (HP:0001631), can also be present. While severe limb reduction can occur, true Upper Limb Phocomelia (HP:0009813) is less characteristic compared to Holt-Oram or Roberts syndrome. The absence of mention of other common Fanconi features like bone marrow failure or characteristic skin pigmentation also places it lower in the differential."
+    }
+  ]
+}

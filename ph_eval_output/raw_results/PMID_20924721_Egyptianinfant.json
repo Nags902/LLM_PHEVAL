@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fryns Syndrome",
+      "disease_id": "OMIM:229850",
+      "score": 1.0,
+      "explanation": "Fryns syndrome aligns remarkably well with the patient's phenotype. Key features such as depressed nasal bridge, long philtrum, flat face, short neck, short nose, deeply set eyes, talipes equinovarus, and camptodactyly are all characteristic of this syndrome. Crucially, 'cleft ala nasi' (or hypoplastic nasal alae) is a known but less common feature that is strongly indicative, making this the most comprehensive match among the listed HPO terms."
+    },
+    {
+      "disease_name": "Orofacial-digital syndrome type I",
+      "disease_id": "OMIM:311200",
+      "score": 0.5,
+      "explanation": "Orofacial-digital syndrome type I (OFDS1) is a strong candidate due to the presence of 'cleft ala nasi' (often described as hypoplasia of nasal alae) and 'camptodactyly', which are common features. Many of the other facial dysmorphisms (depressed nasal bridge, long philtrum, flat face, short nose, deeply set eyes) can also be present. However, 'talipes equinovarus' and 'overlapping toe' are not typical features of OFDS1, and the classic oral anomalies (e.g., cleft lip/palate, tongue lobulation) are not specified in the patient's data, making it a slightly less complete fit than Fryns syndrome."
+    },
+    {
+      "disease_name": "Trisomy 18",
+      "disease_id": "OMIM:189400",
+      "score": 0.3333,
+      "explanation": "Trisomy 18 presents with numerous features seen in the patient, including depressed nasal bridge, flat face, short neck, short nose, deeply set eyes, talipes equinovarus (often rocker-bottom feet), overlapping toes (fingers are more classic but toes can be affected), and camptodactyly. This covers a broad range of the patient's symptoms. However, 'cleft ala nasi' is not a characteristic feature of Trisomy 18, which is a significant distinguishing point. Additionally, while survival to 1 year 4 months is possible, patients with Trisomy 18 often have more severe systemic anomalies not explicitly mentioned and a very high early mortality rate."
+    }
+  ]
+}

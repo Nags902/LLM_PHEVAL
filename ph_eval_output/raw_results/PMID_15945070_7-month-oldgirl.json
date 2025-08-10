@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ALG1-CDG (Congenital Disorder of Glycosylation Type If)",
+      "disease_id": "OMIM:608540",
+      "score": 1.0,
+      "explanation": "This disease, caused by mutations in the ALG1 gene, is a severe N-linked Congenital Disorder of Glycosylation (CDG) characterized by a Type I transferrin isoform profile. It comprehensively explains the patient's severe phenotype, including *fetal pericardial effusion* (often presenting as hydrops fetalis), severe neurological involvement such as *seizures*, *cerebral atrophy*, *cerebellar atrophy*, and *hypotonia*. *Polycystic kidney dysplasia* is also a reported feature in ALG1-CDG. *Failure to thrive* and *hypoalbuminemia* are common systemic manifestations of severe CDG, and *esotropia* can be part of the neurological picture."
+    },
+    {
+      "disease_name": "DPAGT1-CDG (Congenital Disorder of Glycosylation Type Ii)",
+      "disease_id": "OMIM:608323",
+      "score": 0.5,
+      "explanation": "DPAGT1-CDG is another severe N-linked Congenital Disorder of Glycosylation that presents with a Type I transferrin isoform profile. Similar to ALG1-CDG, it is often associated with *hydrops fetalis* (*fetal pericardial effusion*), severe and progressive neurological dysfunction including *seizures*, *cerebral atrophy*, *cerebellar atrophy*, and *hypotonia*. Renal anomalies, including cysts, have been reported, fitting *polycystic kidney dysplasia*. *Failure to thrive* and *hypoalbuminemia* are also consistent, making it a strong candidate."
+    },
+    {
+      "disease_name": "ALG2-CDG (Congenital Disorder of Glycosylation Type Ig)",
+      "disease_id": "OMIM:607906",
+      "score": 0.333,
+      "explanation": "ALG2-CDG is an N-linked Congenital Disorder of Glycosylation with a Type I transferrin isoform profile. It is known to cause severe neurological manifestations, including *seizures*, *hypotonia*, and brain atrophy, similar to the patient's *cerebellar atrophy* and *cerebral atrophy*. Notably, *renal cysts* and *dysplasia* have been reported in ALG2-CDG, which aligns with *polycystic kidney dysplasia*. While *fetal pericardial effusion* is less consistently highlighted compared to ALG1-CDG or DPAGT1-CDG, it's possible in severe multi-system CDG."
+    },
+    {
+      "disease_name": "PMM2-CDG (Congenital Disorder of Glycosylation Type Ia)",
+      "disease_id": "OMIM:212065",
+      "score": 0.25,
+      "explanation": "PMM2-CDG is the most common N-linked Congenital Disorder of Glycosylation, characterized by a Type I transferrin isoform profile. It classically presents with *cerebellar atrophy/hypoplasia*, *hypotonia*, *seizures*, *esotropia*, *failure to thrive*, and *hypoalbuminemia*. While *fetal pericardial effusion* and *polycystic kidney dysplasia* are less typical prominent features, severe or atypical forms of PMM2-CDG can involve a broader range of organs, including renal and cardiac manifestations, making it a crucial differential given its prevalence among CDGs."
+    }
+  ]
+}

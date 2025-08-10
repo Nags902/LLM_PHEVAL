@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "KBG Syndrome is a strong candidate as it commonly presents with all the listed phenotypic features: macrodontia (particularly enlarged upper central incisors), various hand abnormalities (e.g., brachydactyly, clinodactyly of the 5th finger, short metacarpals/phalanges), short stature, and delayed skeletal maturation."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.5,
+      "explanation": "Sotos Syndrome 1 is considered due to the presence of macrodontia and various hand abnormalities (e.g., large hands, long slender fingers) which are characteristic features. While typically associated with overgrowth in childhood, adult height can be within the normal range or mildly reduced, accounting for short stature. However, the most common finding in Sotos Syndrome is advanced skeletal maturation, which contradicts the patient's delayed skeletal maturation. Despite this, variability exists, and other strong matches make it a plausible secondary consideration."
+    }
+  ]
+}

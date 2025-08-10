@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leigh syndrome, due to SURF1 deficiency",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "This is a strong candidate given the constellation of severe infantile onset neurological regression (motor regression, hypotonia, feeding difficulties, respiratory failure), characteristic brain abnormalities on MRI (abnormal diffusion weighted cerebral MRI, abnormality of the internal capsule, abnormal cerebral cortex morphology), nystagmus, brisk reflexes, and crucially, increased CSF lactate. SURF1 deficiency is one of the most common nuclear gene causes of classical Leigh syndrome, which perfectly matches this clinical picture."
+    },
+    {
+      "disease_name": "Leigh syndrome, due to MT-ATP6 deficiency",
+      "disease_id": "OMIM:516060",
+      "score": 0.5,
+      "explanation": "Similar to SURF1 deficiency, MT-ATP6 mutations are a common cause of Leigh syndrome, a progressive neurodegenerative disorder typically presenting in infancy or early childhood. The patient's presentation with psychomotor regression, hypotonia, feeding and respiratory difficulties, nystagmus, and brain lesions consistent with Leigh syndrome (including internal capsule involvement and diffusion abnormalities), along with elevated CSF lactate, aligns very well with this diagnosis."
+    },
+    {
+      "disease_name": "Mitochondrial DNA depletion syndrome 4A, encephalomyopathic type, with or without hepatopathy",
+      "disease_id": "OMIM:605658",
+      "score": 0.333,
+      "explanation": "This syndrome, often caused by mutations in the POLG gene, can present in infancy with a severe encephalomyopathic phenotype including profound hypotonia, motor regression, respiratory failure, and increased CSF lactate. Brain MRI can show white matter abnormalities and atrophy, consistent with the reported abnormal diffusion and cerebral cortex morphology. This is a severe mitochondrial disorder fitting the progressive and multi-systemic neurological decline."
+    },
+    {
+      "disease_name": "Pyruvate dehydrogenase E1-alpha deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "Pyruvate dehydrogenase complex deficiency (PDCD), particularly the X-linked E1-alpha subunit deficiency, is a significant cause of severe congenital lactic acidosis and neurological dysfunction in infants. Key features include hypotonia, motor delay or regression, feeding difficulties, respiratory issues, nystagmus, and characteristic brain abnormalities (e.g., global atrophy, lesions in the basal ganglia and brainstem) which could manifest as abnormal cerebral MRI morphology, potentially including diffusion changes and internal capsule involvement."
+    }
+  ]
+}

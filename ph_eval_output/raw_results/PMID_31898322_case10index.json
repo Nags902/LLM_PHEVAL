@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "This diagnosis aligns strongly with the combination of tall stature, mitral regurgitation, scoliosis, and particularly dural ectasia, which are hallmark features of Marfan syndrome. While downslanted palpebral fissures are less typical for classic Marfan, phenotypic variability exists, and the other core features are highly indicative."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in TGFBR1."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in TGFBR2."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 3",
+      "disease_id": "OMIM:613793",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in SMAD3."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in TGFB2."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in TGFB3."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 6",
+      "disease_id": "OMIM:616654",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz syndrome shares significant clinical overlap with Marfan syndrome, including tall stature, scoliosis, mitral regurgitation, and dural ectasia. The presence of downslanted palpebral fissures is consistent with the variable facial features often seen in Loeys-Dietz syndrome, making it a strong differential. This specific type is caused by mutations in SMAD2."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:186550",
+      "score": 0.33,
+      "explanation": "Shprintzen-Goldberg syndrome is a marfanoid craniosynostosis syndrome that presents with a significant overlap of features including tall stature, scoliosis, mitral regurgitation, dural ectasia, and downslanted palpebral fissures. While often associated with developmental delay and craniosynostosis (not listed), it remains a valid differential diagnosis."
+    }
+  ]
+}

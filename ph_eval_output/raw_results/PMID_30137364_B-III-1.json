@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "22q11.2 Deletion Syndrome (DiGeorge Syndrome; Velocardiofacial Syndrome)",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "This syndrome is the most likely diagnosis as it classically presents with the triad of hypoparathyroidism, thymic aplasia/hypoplasia, and subsequent T lymphocytopenia, along with characteristic facial features and congenital heart defects (though not specified in the provided data). All three listed phenotypic features are hallmark components of 22q11.2 Deletion Syndrome, also known as DiGeorge Syndrome or Velocardiofacial Syndrome."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is a complex congenital anomaly syndrome that can involve defects of structures derived from the pharyngeal arches, similar to 22q11.2 deletion syndrome. While less common and typically not as severe as in DiGeorge Syndrome, hypoparathyroidism and immune deficiencies (including T-cell abnormalities due to thymic defects) have been reported in some patients with CHARGE syndrome. It is considered as a potential, albeit less specific, differential given the overlap in affected organ systems and the presence of both endocrine and immune issues."
+    }
+  ]
+}

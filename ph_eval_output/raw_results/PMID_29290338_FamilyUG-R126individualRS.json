@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "All three listed phenotypic features \u2013 plexiform neurofibroma, freckling, and multiple cafe-au-lait spots \u2013 are classic diagnostic criteria for Neurofibromatosis Type 1 (NF1). The presence of a plexiform neurofibroma is particularly specific and, combined with the pigmentary changes, makes NF1 the highly probable and primary diagnosis."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611490",
+      "score": 0.5,
+      "explanation": "Legius Syndrome is considered in the differential diagnosis of Neurofibromatosis Type 1 as it can present with multiple cafe-au-lait spots and freckling. However, it is strongly disfavored by the presence of a plexiform neurofibroma, which is a characteristic feature of NF1 and is typically absent in Legius Syndrome. It is included due to partial phenotypic overlap but is highly unlikely given the complete clinical picture."
+    }
+  ]
+}

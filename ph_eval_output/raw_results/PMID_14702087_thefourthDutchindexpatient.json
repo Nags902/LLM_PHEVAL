@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Achromatopsia",
+      "disease_id": "OMIM:216900",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as all provided phenotypic features are hallmark symptoms of Achromatopsia. These include severe reduction in visual acuity, photophobia, and especially difficulty adjusting to changes in luminance due to non-functional cones. Bradyopsia (impaired visual processing) is also a recognized feature. Achromatopsia encompasses several genetic subtypes (e.g., CNGA3-related, CNGB3-related, GNAT2-related) which share this common clinical presentation."
+    },
+    {
+      "disease_name": "Cone-rod dystrophy",
+      "disease_id": "OMIM:606409",
+      "score": 0.5,
+      "explanation": "Cone-rod dystrophy is a strong differential diagnosis. It is characterized by initial dysfunction and degeneration of cone photoreceptors, followed by rod involvement. This leads to symptoms such as reduced visual acuity, photophobia, and difficulty with light adaptation, similar to achromatopsia. Bradyopsia can also be observed. The key distinguishing feature not captured by the provided data is its progressive nature, unlike the typically stationary achromatopsia."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis",
+      "disease_id": "OMIM:204000",
+      "score": 0.3333333333333333,
+      "explanation": "Leber Congenital Amaurosis (LCA) is a severe, early-onset retinal dystrophy that can present with profound reduced visual acuity and photophobia, which overlap with the patient's symptoms. While difficulty adjusting to changes in luminance and bradyopsia can occur due to widespread photoreceptor dysfunction, LCA typically involves more severe and earlier visual impairment compared to the presentation implied by the isolated symptoms."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Polyglandular Syndrome Type 2",
+      "disease_id": "OMIM:269200",
+      "score": 1.0,
+      "explanation": "This syndrome commonly involves primary adrenal insufficiency (Addison's disease), explaining the increased ACTH due to lack of cortisol feedback and decreased adrenal androgen production (contributing to decreased testosterone). It also frequently includes primary hypothyroidism, which can cause hyperprolactinemia due to increased TRH stimulating prolactin release."
+    },
+    {
+      "disease_name": "Multiple Endocrine Neoplasia Type 1",
+      "disease_id": "OMIM:131100",
+      "score": 0.5,
+      "explanation": "Patients with MEN1 can develop multiple pituitary adenomas, including ACTH-secreting tumors (explaining increased ACTH) and prolactinomas (explaining increased prolactin). Decreased testosterone could be secondary to the overall endocrine dysfunction or tumor-related gonadotropin suppression from large pituitary masses."
+    },
+    {
+      "disease_name": "Pituitary ACTH-secreting Adenoma",
+      "disease_id": "OMIM:117700",
+      "score": 0.333,
+      "explanation": "An ACTH-secreting pituitary adenoma (Cushing's disease) directly causes increased circulating ACTH. Hyperprolactinemia could occur if the tumor is large enough to cause stalk compression. Decreased testosterone could be a consequence of the severe hypercortisolism leading to central hypogonadism."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 1, X-linked",
+      "disease_id": "OMIM:310300",
+      "score": 1.0,
+      "explanation": "This X-linked form, caused by mutations in EMD, provides the strongest match for the comprehensive phenotype, including early-onset contractures (Achilles, elbow, spinal rigidity/stiff neck), progressive muscle weakness (scapuloperoneal amyotrophy, proximal upper limbs, waddling gait, loss of ambulation), significant cardiac involvement (ventricular arrhythmia, abnormal left ventricular function), and elevated creatine kinase."
+    },
+    {
+      "disease_name": "Emery-Dreifuss muscular dystrophy 2, autosomal dominant",
+      "disease_id": "OMIM:181350",
+      "score": 0.5,
+      "explanation": "Caused by mutations in LMNA, this autosomal dominant form shares nearly identical clinical features with the X-linked EDMD, including contractures, progressive muscle weakness, prominent cardiac dysfunction, and elevated CK, making it an equally strong candidate differing primarily by inheritance pattern."
+    },
+    {
+      "disease_name": "FHL1-related myopathy",
+      "disease_id": "OMIM:300524",
+      "score": 0.33,
+      "explanation": "FHL1-related myopathy is an X-linked disorder that often presents with a very similar phenotype to EDMD, characterized by severe contractures (including Achilles, elbow, and axial rigidity), scapuloperoneal weakness, elevated CK, and significant cardiac involvement, aligning well with all presented features."
+    },
+    {
+      "disease_name": "Myofibrillar myopathy, filamin C-related",
+      "disease_id": "OMIM:617066",
+      "score": 0.25,
+      "explanation": "Filamin C-related myofibrillar myopathy is a strong contender as it typically presents with adult-onset progressive muscle weakness (distal and/or proximal), prominent cardiac involvement (cardiomyopathy, arrhythmias), contractures, and axial muscle involvement (spinal rigidity), fitting the overall clinical picture."
+    },
+    {
+      "disease_name": "Limb-girdle muscular dystrophy type 2J, autosomal recessive",
+      "disease_id": "OMIM:608920",
+      "score": 0.2,
+      "explanation": "Caused by mutations in the TTN gene, this form of LGMD can present with a broad spectrum of features including progressive muscle weakness (often limb-girdle or scapuloperoneal), significant cardiac involvement (cardiomyopathy, arrhythmias), contractures, and elevated CK, making it a relevant differential diagnosis."
+    }
+  ]
+}

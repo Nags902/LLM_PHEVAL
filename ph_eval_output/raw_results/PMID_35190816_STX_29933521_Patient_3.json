@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 1.0,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is one of the most common and well-recognized genetic causes of epileptic spasms (infantile spasms), often presenting as the initial symptom. Mutations in TSC2 are responsible for approximately 70-80% of TSC cases and are generally associated with a more severe neurological phenotype, including a higher incidence and severity of seizures compared to TSC1."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.5,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is a significant genetic cause of epileptic spasms. While less common than TSC2 mutations, TSC1 mutations also lead to the same syndrome and can cause epileptic spasms, often with a milder neurological presentation compared to TSC2."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.3333333333333333,
+      "explanation": "STXBP1 encephalopathy is a well-recognized and frequent cause of early infantile epileptic encephalopathy, with epileptic spasms being a prominent and common seizure type in affected individuals."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.25,
+      "explanation": "CDKL5 Deficiency Disorder is a severe neurodevelopmental disorder characterized by early-onset intractable seizures, including epileptic spasms, which are a defining feature typically emerging in infancy or early childhood."
+    },
+    {
+      "disease_name": "KCNQ2-related epilepsy",
+      "disease_id": "OMIM:614328",
+      "score": 0.2,
+      "explanation": "Mutations in KCNQ2 are a common cause of neonatal-onset epileptic encephalopathy. While various seizure types can occur, epileptic spasms are observed in a significant proportion of affected individuals, often refractory to treatment."
+    },
+    {
+      "disease_name": "Lissencephaly, X-linked, with abnormal genitalia (ARX-related disorders)",
+      "disease_id": "OMIM:300215",
+      "score": 0.16666666666666666,
+      "explanation": "Mutations in the ARX gene are a significant cause of X-linked intellectual disability and early-onset epilepsy, with infantile spasms (also known as West Syndrome or X-linked infantile spasms syndrome) being a prominent feature in the spectrum of ARX-related disorders, particularly in males."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.14285714285714285,
+      "explanation": "While Dravet Syndrome is classically characterized by prolonged febrile seizures and myoclonic seizures, epileptic spasms can occur in some individuals, particularly in more severe phenotypes or at certain stages of the disease progression."
+    },
+    {
+      "disease_name": "Epilepsy, early infantile, 9, X-linked (PCDH19-related epilepsy)",
+      "disease_id": "OMIM:300088",
+      "score": 0.125,
+      "explanation": "PCDH19-related epilepsy primarily affects females (and rarely males in specific circumstances) and is characterized by clusters of seizures, often triggered by fever, with epileptic spasms being a common seizure type observed in this disorder."
+    }
+  ]
+}

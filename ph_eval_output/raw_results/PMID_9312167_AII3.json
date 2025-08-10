@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Distal renal tubular acidosis, type 1, autosomal dominant",
+      "disease_id": "OMIM:179880",
+      "score": 1.0,
+      "explanation": "This condition perfectly matches all the provided phenotypic features, including distal renal tubular acidosis, alkaline urine, hypokalemia, nephrocalcinosis, nephrolithiasis, and impaired renal concentrating ability. It is a common form of primary dRTA, often caused by mutations in SLC4A1."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis, type 1, autosomal recessive, without deafness",
+      "disease_id": "OMIM:611539",
+      "score": 0.5,
+      "explanation": "This autosomal recessive form of dRTA, typically caused by mutations in ATP6V0A4, also presents with all the described renal and electrolyte abnormalities, including nephrocalcinosis and nephrolithiasis. As no sensorineural hearing loss is mentioned, this is a highly plausible candidate."
+    },
+    {
+      "disease_name": "Distal renal tubular acidosis, type 1, autosomal recessive, with deafness",
+      "disease_id": "OMIM:267300",
+      "score": 0.3333333333333333,
+      "explanation": "While commonly associated with sensorineural hearing loss (due to mutations in ATP6V1B1), the core renal manifestations of this autosomal recessive dRTA are identical to the patient's presentation, including distal renal tubular acidosis, alkaline urine, hypokalemia, nephrocalcinosis, and nephrolithiasis. Without information explicitly ruling out hearing loss, it remains a strong possibility."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ARX-related intellectual disability, syndromic",
+      "disease_id": "OMIM:300215",
+      "score": 1.0,
+      "explanation": "This group of X-linked disorders, caused by mutations in the ARX gene, frequently presents with severe intellectual disability, early-onset epileptic encephalopathy including infantile spasms and hypsarrhythmia, and various brain malformations that can include hypomyelination or other white matter abnormalities. Autism spectrum features and hypotonia are also commonly reported, aligning well with the patient's comprehensive phenotype."
+    },
+    {
+      "disease_name": "4H syndrome (Hypomyelination, Hypodontia, Hypogonadotropic hypogonadism)",
+      "disease_id": "OMIM:607694",
+      "score": 0.5,
+      "explanation": "4H syndrome is a prominent hypomyelinating leukodystrophy characterized by severe intellectual disability and hypotonia. While hypodontia and hypogonadotropic hypogonadism are hallmark features (not provided in patient data), infantile spasms and other seizures are reported in a significant subset of affected individuals. The core features of CNS hypomyelination, severe intellectual disability, and seizure activity are a strong match."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res syndrome",
+      "disease_id": "OMIM:225750",
+      "score": 0.333,
+      "explanation": "Aicardi-Gouti\u00e8res syndrome (AGS) is an inflammatory encephalopathy often presenting in infancy with progressive neurological dysfunction, severe intellectual disability, and white matter abnormalities (leukodystrophy) which can manifest as hypomyelination. Infantile spasms and hypsarrhythmia are common, along with hypotonia and the development of autism features. Although brain calcifications are a classic feature of AGS, their absence in the given data does not rule out the diagnosis."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.25,
+      "explanation": "Pelizaeus-Merzbacher disease (PMD) is a classic X-linked hypomyelinating leukodystrophy characterized by profound CNS hypomyelination, leading to severe intellectual disability and hypotonia. While nystagmus and spasticity are more prominent features, severe neurological impairment can lead to complex seizure types, though infantile spasms are less typical. The core of severe hypomyelination, intellectual disability, and hypotonia fits well."
+    },
+    {
+      "disease_name": "Progressive encephalopathy with oedema, hypsarrhythmia, and optic atrophy (PEHO syndrome)",
+      "disease_id": "OMIM:260565",
+      "score": 0.2,
+      "explanation": "PEHO syndrome is a severe progressive encephalopathy with prominent features including profound intellectual disability, severe hypotonia, and crucially, early-onset epileptic encephalopathy with hypsarrhythmia and infantile spasms. While not primarily classified as a hypomyelinating disorder, white matter changes can be present, and it strongly matches the severe neurological and seizure phenotype presented."
+    }
+  ]
+}

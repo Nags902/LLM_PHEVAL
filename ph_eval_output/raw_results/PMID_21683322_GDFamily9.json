@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mucolipidosis type II (I-cell disease)",
+      "disease_id": "OMIM:252500",
+      "score": 1.0,
+      "explanation": "This disease presents with a phenotype highly consistent with the patient's features, including severe short stature, marked limitation of joint mobility, dysostosis multiplex (explaining short palm and foot), and significant cardiac valvular disease (mitral and tricuspid stenosis). Coarse facial features, hypertelorism, full cheeks, short nose, and a long philtrum are also characteristic. Respiratory insufficiency is a common complication. While 'smooth philtrum' and 'thin upper lip vermilion' are less typical for classic coarse features, the overall severe and multi-system involvement strongly points to Mucolipidosis type II."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I Hurler Syndrome",
+      "disease_id": "OMIM:252800",
+      "score": 0.5,
+      "explanation": "Hurler syndrome is a classic lysosomal storage disorder that matches a wide range of the patient's severe features, including severe short stature, progressive limitation of joint mobility, dysostosis multiplex (short palm/foot), and significant cardiac valvular disease (mitral and tricuspid stenosis). The presence of hypertelorism, full cheeks, short nose, and long philtrum aligns with the coarse facial features. Respiratory insufficiency is a known complication. Similar to Mucolipidosis type II, 'smooth philtrum' and 'thin upper lip vermilion' are somewhat less typical but do not rule out this diagnosis given the strong concordance of other severe features."
+    },
+    {
+      "disease_name": "GM1 Gangliosidosis Type I",
+      "disease_id": "OMIM:230500",
+      "score": 0.333,
+      "explanation": "GM1 Gangliosidosis Type I is another severe lysosomal storage disorder that highly resembles Hurler syndrome and Mucolipidosis type II. It presents with severe short stature, dysostosis multiplex (short palm/foot), coarse facial features (including hypertelorism, full cheeks, short nose), and progressive cardiac involvement with valvular thickening and stenosis, making mitral and tricuspid stenosis highly plausible. Joint limitation is also a prominent feature. Respiratory insufficiency is commonly observed. The overall pattern of severe multi-system involvement is a strong match."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type VI (Maroteaux-Lamy Syndrome)",
+      "disease_id": "OMIM:253200",
+      "score": 0.25,
+      "explanation": "Maroteaux-Lamy syndrome shares many somatic features with Hurler syndrome, including severe short stature, progressive joint stiffness, skeletal dysmorphism (dysostosis multiplex with short palm/foot), and significant cardiac valvular disease (mitral and tricuspid stenosis). Facial features are coarse, typically with hypertelorism, short nose, and full cheeks. Respiratory insufficiency can also occur. This is a strong candidate, especially if intellectual development is spared (not provided in patient information), as its somatic phenotype is very similar to Hurler. Minor facial feature discrepancies are similar to other storage disorders."
+    }
+  ]
+}

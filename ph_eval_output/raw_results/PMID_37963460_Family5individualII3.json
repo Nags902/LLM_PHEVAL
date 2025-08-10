@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "1p36 Deletion Syndrome",
+      "disease_id": "OMIM:607872",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong match for many features, including global developmental delay, moderate intellectual disability, hypotonia, short stature, feeding difficulties, and a distinctive combination of facial dysmorphisms (low-set ears, protruding ear, short philtrum, depressed nasal bridge, hypertelorism). Crucially, hypoplasia of the corpus callosum is a common neuroimaging finding, and behavioral issues like hyperactivity, motor stereotypies, and autistic behavior are frequently observed."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.5,
+      "explanation": "Kleefstra syndrome presents with significant overlap, including global developmental delay, moderate intellectual disability, hypotonia, feeding difficulties, short stature, and characteristic facial features (short philtrum, depressed nasal bridge, prominent ears, sometimes hypertelorism). Behavioral phenotypes such as autistic behavior, hyperactivity, and sleep-wake cycle disturbance are common. While corpus callosum hypoplasia is not a defining feature, other brain anomalies can occur."
+    },
+    {
+      "disease_name": "Koolen-de Vries Syndrome",
+      "disease_id": "OMIM:610444",
+      "score": 0.33,
+      "explanation": "This syndrome aligns well with global developmental delay, intellectual disability (typically mild-moderate), hypotonia, feeding difficulties, short stature, and several facial features such as prominent ears, high palate, short philtrum, and depressed nasal bridge. Autistic behavior, hyperactivity, and sleep disturbances can also be present. While hypoplasia of the corpus callosum is not a common finding, overall neurodevelopmental and dysmorphic features fit well."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:614607",
+      "score": 0.25,
+      "explanation": "Coffin-Siris syndrome shares several key features, including global developmental delay, moderate intellectual disability, hypotonia, short stature, and feeding difficulties. Notably, hypoplasia of the corpus callosum is a recognized brain anomaly in this syndrome. Overlapping facial features include depressed nasal bridge and broad/short philtrum. Hyperactivity, motor stereotypies, and autistic behavior are also frequently reported."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.2,
+      "explanation": "Cornelia de Lange syndrome presents with global developmental delay, moderate to severe intellectual disability, severe short stature, and profound feeding difficulties. Many facial features match, including a short philtrum, depressed nasal bridge, high palate, and low-set/abnormal ears. Hypoplasia of the corpus callosum can also be observed. Behavioral issues such as hyperactivity and motor stereotypies are common, though the fine hair and lack of other classic features like synophrys are less typical."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.166,
+      "explanation": "Smith-Magenis syndrome is a strong consideration given the global developmental delay, moderate intellectual disability, hypotonia in infancy, short stature, feeding difficulties, and a highly characteristic behavioral profile including hyperactivity, motor stereotypies, autistic behavior, and especially the distinct sleep-wake cycle disturbance. Matching facial features include protruding ears, short philtrum, depressed nasal bridge, and high palate. While corpus callosum hypoplasia is less typical, other brain anomalies can occur."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.142,
+      "explanation": "PMM2-CDG is a metabolic disorder that can present with global developmental delay, intellectual disability, hypotonia, feeding difficulties, and short stature. Brain imaging often shows cerebellar hypoplasia, and other structural anomalies like corpus callosum hypoplasia can occur. Some dysmorphic features such as low-set/large ears, high palate, short philtrum, depressed nasal bridge, and hypertelorism can be seen, providing some overlap with the patient's phenotype."
+    }
+  ]
+}

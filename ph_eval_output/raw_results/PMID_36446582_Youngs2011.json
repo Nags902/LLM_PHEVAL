@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "ATR-X syndrome",
+      "disease_id": "OMIM:301040",
+      "score": 1.0,
+      "explanation": "ATR-X syndrome presents with a strong overlap of the patient's features, including intellectual disability, global developmental delay, autistic behavior, ADHD, microcephaly, short stature, motor and speech delay, and recurrent otitis media. Crucially, the characteristic 'triangular face' along with microcephaly is a highly specific feature of this syndrome, making it the most likely candidate."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange syndrome is a leading candidate given the presence of intellectual disability, global developmental delay, autistic behavior, ADHD, short stature, microcephaly, anteverted nares, and a high incidence of recurrent otitis media. While a 'triangular face' is not a classic hallmark, significant facial dysmorphism is central to CdLS, and this diagnosis covers many other key features observed in the patient."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Rubinstein-Taybi syndrome aligns with intellectual disability, global developmental delay, short stature, microcephaly, and neurobehavioral issues like autistic behavior and ADHD. Anteverted nares can be present in this syndrome. While a triangular face is not typically described, the overall pattern of intellectual disability, global developmental delay, short stature, and microcephaly makes it a strong consideration."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.25,
+      "explanation": "CHARGE syndrome features intellectual disability, global developmental delay, short stature, microcephaly, autistic behavior, ADHD, and a high frequency of recurrent otitis media. Although the patient's data does not explicitly mention all core CHARGE anomalies (Coloboma, Heart defects, Atresia choanae, Genital anomalies, specific Ear anomalies like vestibular dysfunction), the significant overlap in growth, neurodevelopmental, and ear-related features makes it a possible diagnosis, especially in individuals with an atypical or milder presentation of the full spectrum of CHARGE features."
+    }
+  ]
+}

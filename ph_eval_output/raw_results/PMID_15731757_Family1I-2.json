@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "Loeys-Dietz Syndrome (due to TGFBR1 mutation) is highly ranked as it characteristically presents with aortic root aneurysm, patent ductus arteriosus, and a range of skeletal abnormalities including genu valgum, providing an excellent match for all reported phenotypic features."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (due to TGFBR2 mutation) is a strong candidate given its association with aortic root aneurysm, patent ductus arteriosus, and diverse skeletal features such as genu valgum, aligning well with the patient's presentation."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 3",
+      "disease_id": "OMIM:613793",
+      "score": 0.3333333333333333,
+      "explanation": "Loeys-Dietz Syndrome (due to SMAD3 mutation) presents with similar cardiovascular features including aortic root aneurysm and patent ductus arteriosus, along with skeletal manifestations like genu valgum, making it a highly relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome (due to TGFB2 mutation) is considered a strong possibility, characterized by aortic root aneurysm, patent ductus arteriosus, and various skeletal anomalies including genu valgum, which collectively fit the patient's phenotype."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.2,
+      "explanation": "Loeys-Dietz Syndrome (due to TGFB3 mutation) is a plausible diagnosis, often involving aortic root aneurysm, patent ductus arteriosus, and skeletal findings such as genu valgum, consistent with the patient's clinical picture."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome, Type 6",
+      "disease_id": "OMIM:618456",
+      "score": 0.16666666666666666,
+      "explanation": "Loeys-Dietz Syndrome (due to SMAD2 mutation) is a relevant differential, as it can manifest with aortic root aneurysm, patent ductus arteriosus, and skeletal issues including genu valgum, supporting its consideration."
+    },
+    {
+      "disease_name": "Multisystemic Smooth Muscle Dysfunction Syndrome",
+      "disease_id": "OMIM:611789",
+      "score": 0.14285714285714285,
+      "explanation": "This syndrome (caused by ACTA2 mutations) is a strong candidate due to its characteristic presentation with early-onset aortic root aneurysm and patent ductus arteriosus. While genu valgum is not a primary feature, ACTA2-related disorders can involve diverse multisystemic manifestations, and the cardiovascular match is compelling."
+    },
+    {
+      "disease_name": "Arterial Tortuosity Syndrome",
+      "disease_id": "OMIM:208540",
+      "score": 0.125,
+      "explanation": "Arterial Tortuosity Syndrome is characterized by generalized arterial tortuosity, often leading to aneurysms/dissections (including aortic root), and a very high prevalence of patent ductus arteriosus. Joint laxity and other skeletal anomalies are common, which could encompass genu valgum."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.1111111111111111,
+      "explanation": "Marfan Syndrome is a primary consideration given the cardinal feature of aortic root aneurysm/dilation. While patent ductus arteriosus is less common than in other listed syndromes, it can occur. Skeletal features are prominent, though genu valgum is less typical than other deformities like pectus excavatum or scoliosis."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182240",
+      "score": 0.1,
+      "explanation": "Shprintzen-Goldberg Syndrome shares phenotypic overlap with Loeys-Dietz and Marfan syndromes, presenting with aortic root dilation/aneurysm and congenital heart defects such as patent ductus arteriosus. Skeletal anomalies, including joint laxity and deformities like genu valgum, are also characteristic features."
+    }
+  ]
+}

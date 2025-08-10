@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Homocystinuria, CBS-Deficient Type",
+      "disease_id": "OMIM:236200",
+      "score": 1.0,
+      "explanation": "This condition is the classical form of homocystinuria and perfectly matches all presented phenotypic features: hyperhomocystinemia (the defining biochemical marker), intellectual disability, and Marfanoid habitus characterized by disproportionate tall stature and arachnodactyly. Onset and presentation are consistent with the patient's age and gender."
+    },
+    {
+      "disease_name": "Methylmalonic aciduria and homocystinuria, cblC type",
+      "disease_id": "OMIM:277400",
+      "score": 0.5,
+      "explanation": "While this disorder causes hyperhomocystinemia and intellectual disability, it typically does not present with the characteristic Marfanoid habitus (arachnodactyly or disproportionate tall stature) seen in the patient. It is considered due to the presence of hyperhomocystinemia and neurological involvement, but is less likely than CBS deficiency given the full clinical picture."
+    },
+    {
+      "disease_name": "Methylenetetrahydrofolate Reductase Deficiency",
+      "disease_id": "OMIM:236250",
+      "score": 0.3333333333333333,
+      "explanation": "This deficiency leads to hyperhomocystinemia and can cause intellectual disability and other neurological symptoms. However, similar to cblC type, the characteristic Marfanoid habitus with arachnodactyly and disproportionate tall stature is generally absent, making it a less fitting diagnosis than CBS deficiency based on the complete phenotype."
+    }
+  ]
+}

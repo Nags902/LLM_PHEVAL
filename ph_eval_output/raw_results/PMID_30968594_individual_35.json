@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+      "disease_id": "OMIM:201910",
+      "score": 1.0,
+      "explanation": "This is the most common form of congenital adrenal hyperplasia, characterized by impaired cortisol synthesis leading to elevated ACTH (causing generalized skin hyperpigmentation) and adrenal androgen excess (leading to clitoral hypertrophy in females)."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency",
+      "disease_id": "OMIM:202110",
+      "score": 0.5,
+      "explanation": "The second most common form of congenital adrenal hyperplasia, also causing adrenal androgen excess (leading to clitoral hypertrophy) and impaired cortisol production with subsequent elevated ACTH (causing skin hyperpigmentation)."
+    },
+    {
+      "disease_name": "McCune-Albright syndrome",
+      "disease_id": "OMIM:103470",
+      "score": 0.333,
+      "explanation": "McCune-Albright syndrome can manifest with precocious puberty, including clitoral hypertrophy due to gonadal involvement, and distinctive hyperpigmented caf\u00e9-au-lait skin spots."
+    },
+    {
+      "disease_name": "Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase type 2 deficiency",
+      "disease_id": "OMIM:201810",
+      "score": 0.25,
+      "explanation": "This rarer form of congenital adrenal hyperplasia can present with varying degrees of virilization in females, including clitoral hypertrophy, and adrenal insufficiency leading to increased ACTH and hyperpigmentation."
+    },
+    {
+      "disease_name": "Cytochrome P450 oxidoreductase deficiency",
+      "disease_id": "OMIM:124018",
+      "score": 0.2,
+      "explanation": "POR deficiency can result in disordered steroidogenesis, causing ambiguous genitalia, including clitoral hypertrophy, in females. While hyperpigmentation is not a primary feature, it can occur in some cases due to associated adrenal dysfunction or hormonal imbalances."
+    }
+  ]
+}

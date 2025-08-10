@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability, often presenting with mild to severe intellectual disability, significant delayed speech and language development, and a very high prevalence of Attention Deficit Hyperactivity Disorder (ADHD) with hyperactivity and attention deficits. The patient's age (P9Y) and gender (2, typically male, who are more severely affected) align perfectly with the classic neurodevelopmental presentation of this syndrome."
+    },
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 0.5,
+      "explanation": "22q11.2 Deletion Syndrome (also known as DiGeorge Syndrome or Velocardiofacial Syndrome) is a highly variable condition. Intellectual disability (ranging from mild to moderate), significant speech and language delays, and a substantially increased risk for neurodevelopmental and psychiatric conditions, including ADHD and autism spectrum disorder, are well-documented features. These core symptoms in the patient fit well with the neurodevelopmental profile of this syndrome, even in the absence of other common physical findings."
+    },
+    {
+      "disease_name": "Williams Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.333,
+      "explanation": "Individuals with Williams Syndrome typically present with mild to moderate intellectual disability. Despite often being verbally fluent in later childhood, significant expressive and receptive language delays are common in early development. Attention Deficit Hyperactivity Disorder (ADHD) is a very frequent comorbidity, characterized by significant attention deficits and hyperactivity, making it a strong candidate."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.25,
+      "explanation": "Smith-Magenis Syndrome is characterized by intellectual disability (typically mild to moderate), significant speech and language delays, and a complex behavioral phenotype. This behavioral profile often includes self-injurious behaviors, sleep disturbances, impulsivity, and symptoms consistent with ADHD, aligning with the patient's reported features."
+    },
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.2,
+      "explanation": "While primarily known for skin and nervous system manifestations (e.g., caf\u00e9-au-lait spots, neurofibromas), Neurofibromatosis Type 1 is also strongly associated with neurodevelopmental challenges. These include learning disabilities, mild intellectual disability, and a very high prevalence of Attention Deficit Hyperactivity Disorder (ADHD). The patient's intellectual disability, speech delay (as part of general developmental delay), and ADHD are consistent with the neurodevelopmental aspects of NF1."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.167,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is a genetic disorder affecting multiple organ systems, with significant neurological involvement. Intellectual disability and a wide spectrum of neurodevelopmental and neuropsychiatric issues, including ADHD and autism spectrum disorder (collectively known as TAND - TSC-Associated Neuropsychiatric Disorders), are common. Speech and language delays are also frequently observed, particularly in individuals with intellectual disability secondary to TSC. TSC2 mutations generally lead to more severe presentations compared to TSC1."
+    }
+  ]
+}

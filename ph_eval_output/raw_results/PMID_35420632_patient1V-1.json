@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 2 (TERT-related)",
+      "disease_id": "OMIM:613134",
+      "score": 1.0,
+      "explanation": "This diagnosis is highly consistent with the patient's presentation. Short telomere length is the defining feature, and the multi-organ involvement including severe progressive pulmonary fibrosis (UIP pattern), significant liver disease (nodular regenerative hyperplasia, portal hypertension, hepatic failure), and thrombocytopenia are classic manifestations of a telomere biology disorder. Mutations in the TERT gene are a common cause of adult-onset telomeropathy presenting with this specific constellation of lung and liver disease."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1 (TERC-related)",
+      "disease_id": "OMIM:613135",
+      "score": 0.5,
+      "explanation": "Similar to TERT-related Dyskeratosis Congenita, mutations in the TERC gene also lead to telomere shortening and a wide spectrum of telomeropathy features. The patient's severe pulmonary fibrosis and chronic liver disease with portal hypertension are well-documented manifestations of TERC-related telomeropathy, making this a very strong alternative or co-occurring genetic cause that should be investigated."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Recessive (RTEL1-related)",
+      "disease_id": "OMIM:613130",
+      "score": 0.33,
+      "explanation": "RTEL1 is another crucial gene involved in telomere maintenance, and its mutations can cause a severe form of telomeropathy with variable inheritance patterns (autosomal recessive or dominant). RTEL1-related telomeropathy is known to cause significant pulmonary fibrosis and bone marrow failure (contributing to thrombocytopenia), which align well with the patient's symptoms. This represents another highly plausible genetic etiology within the broad spectrum of telomere biology disorders."
+    }
+  ]
+}

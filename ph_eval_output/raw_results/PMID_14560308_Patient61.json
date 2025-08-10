@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 1.0,
+      "explanation": "This syndrome presents an exceptionally strong match with all of the patient's reported phenotypic features, including the hallmark shawl scrotum, characteristic facial dysmorphology (hypertelorism, ptosis), short stature, intellectual disability, and the specific combination of limb anomalies (brachydactyly, camptodactyly, joint hypermobility, syndactyly)."
+    },
+    {
+      "disease_name": "Opitz G/BBB Syndrome, X-linked",
+      "disease_id": "OMIM:300000",
+      "score": 0.5,
+      "explanation": "Opitz G/BBB Syndrome shares several key features with the patient, notably hypertelorism, intellectual disability, and genitourinary anomalies including shawl scrotum. However, it does not typically account for the specific and prominent pattern of limb anomalies (brachydactyly, camptodactyly, joint hypermobility, syndactyly) or consistent short stature as seen in the patient."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome shares overlapping features such as hypertelorism, ptosis, short stature, and intellectual disability. While some limb anomalies can occur, the characteristic shawl scrotum is not a typical feature of Noonan Syndrome, and the specific combination of digital anomalies (brachydactyly, camptodactyly, syndactyly) is less consistently reported compared to Aarskog-Scott Syndrome."
+    }
+  ]
+}

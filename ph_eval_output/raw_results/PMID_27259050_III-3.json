@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dyskeratosis Congenita, Autosomal Dominant 1",
+      "disease_id": "OMIM:601669",
+      "score": 1.0,
+      "explanation": "This disease is a strong candidate as it classically presents with progressive bone marrow failure, characterized by hypocellularity, pancytopenia, anemia, neutropenia, and thrombocytopenia, aligning perfectly with the patient's hematologic findings (HP:0005528, HP:0001875, HP:0001903, HP:0001876, HP:0001873, HP:0000979). Furthermore, significant neurological manifestations, including cerebellar atrophy, ataxia, dysarthria, spasticity, and leukoencephalopathy, are increasingly recognized in Dyskeratosis Congenita, which align well with the patient's unsteady gait (HP:0002317), nystagmus (HP:0000639), dysarthria (HP:0001260), dysmetria (HP:0001310), ankle clonus (HP:0011448), and Babinski sign (HP:0003487). While many subtypes exist, those caused by TERT mutations (as in AD1) can have adult onset."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.5,
+      "explanation": "Ataxia-Telangiectasia is an excellent match for the patient's progressive neurological features, including severe cerebellar ataxia (unsteady gait, dysarthria, dysmetria, nystagmus) and pyramidal signs (ankle clonus, Babinski sign). While classic primary bone marrow failure with hypocellularity and pancytopenia is not the hallmark hematologic feature, patients commonly experience immunodeficiency (lymphopenia, susceptibility to infections) and have a significantly increased predisposition to lymphoreticular malignancies, which can secondarily affect blood counts and bone marrow, making it a plausible consideration given the strong neurological concordance."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 0.3333333333333333,
+      "explanation": "Fanconi Anemia is a well-known inherited bone marrow failure syndrome characterized by progressive pancytopenia and bone marrow hypocellularity, which aligns perfectly with the patient's hematologic findings. While often associated with congenital anomalies and typically diagnosed in childhood, adult-onset forms are recognized. Although prominent cerebellar ataxia and pyramidal signs are not the most common neurological features, some patients can develop neurological complications such as developmental delay, microcephaly, or less commonly, features that might overlap with ataxia, making it a potential diagnosis, especially given the severe bone marrow picture."
+    }
+  ]
+}

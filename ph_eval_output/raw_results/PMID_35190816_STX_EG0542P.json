@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 1.0,
+      "explanation": "This X-linked syndrome is a strong candidate given the comprehensive fit with the patient's presentation, including severe global developmental delay, infantile axial hypotonia, intractable seizures (including infantile spasms, focal, and generalized types), multifocal epileptiform discharges, and relative macrocephaly. These features are highly characteristic of MECP2 Duplication Syndrome, particularly in males."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder is a leading cause of early infantile epileptic encephalopathy (often presenting as West Syndrome with infantile spasms and hypsarrhythmia), profound global developmental delay, and hypotonia. While microcephaly is sometimes noted, head circumference can be normal or relatively large, making it a strong fit for the overall neurological phenotype."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.3333333333333333,
+      "explanation": "STXBP1-related encephalopathy is a well-recognized cause of early-onset epileptic encephalopathy with diverse seizure types (including infantile spasms), severe global developmental delay, and hypotonia. Relative macrocephaly has been reported in a subset of patients, further supporting its consideration in this case."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.25,
+      "explanation": "Tuberous Sclerosis Complex (TSC1/TSC2) is a common identifiable cause of infantile spasms, other seizure types, and global developmental delay. Macrocephaly can be observed due to brain lesions (e.g., subependymal giant cell astrocytomas) or hydrocephalus. Despite the absence of other classic TSC features, its prevalence as an etiology for this seizure type warrants its high ranking."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 1",
+      "disease_id": "OMIM:191100",
+      "score": 0.2,
+      "explanation": "Tuberous Sclerosis Complex (TSC1/TSC2) is a common identifiable cause of infantile spasms, other seizure types, and global developmental delay. Macrocephaly can be observed due to brain lesions (e.g., subependymal giant cell astrocytomas) or hydrocephalus. Despite the absence of other classic TSC features, its prevalence as an etiology for this seizure type warrants its high ranking."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome, including Bannayan-Riley-Ruvalcaba Syndrome",
+      "disease_id": "OMIM:153480",
+      "score": 0.16666666666666666,
+      "explanation": "Macrocephaly is a hallmark feature of PTEN Hamartoma Tumor Syndrome. Patients often present with global developmental delay and hypotonia. While infantile spasms are not typically the primary seizure presentation, seizures can occur in some individuals. The prominent macrocephaly alongside developmental issues makes it a relevant differential."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Short QT Syndrome 1",
+      "disease_id": "OMIM:609620",
+      "score": 1.0,
+      "explanation": "This is the most likely causative disease. The presence of both paroxysmal atrial fibrillation (HP:0004757) and a significantly shortened QT interval (HP:0012232) are hallmark features of Short QT Syndrome. Short QT Syndrome 1, caused by gain-of-function mutations in KCNH2, is one of the most common genetic forms of this condition and directly explains the observed phenotype in an 8-year-old patient."
+    },
+    {
+      "disease_name": "Short QT Syndrome 2",
+      "disease_id": "OMIM:609621",
+      "score": 0.5,
+      "explanation": "This is another highly relevant form of Short QT Syndrome. Mutations in KCNQ1 can also lead to a gain-of-function in the cardiac potassium channel, resulting in a shortened QT interval and predisposition to atrial and ventricular arrhythmias, including paroxysmal atrial fibrillation, making it a strong candidate based on the presented phenotypic features."
+    },
+    {
+      "disease_name": "Short QT Syndrome 3",
+      "disease_id": "OMIM:609622",
+      "score": 0.333,
+      "explanation": "Short QT Syndrome 3, caused by mutations in KCNJ2, is another recognized genetic subtype of Short QT Syndrome. It presents with the characteristic shortened QT interval and increased risk of arrhythmias, including atrial fibrillation, making it a plausible diagnosis given the patient's symptoms."
+    },
+    {
+      "disease_name": "Short QT Syndrome 4",
+      "disease_id": "OMIM:612100",
+      "score": 0.25,
+      "explanation": "This subtype of Short QT Syndrome is caused by mutations in CACNA1C, which encodes a cardiac calcium channel subunit. Loss-of-function mutations can lead to a shortened QT interval and susceptibility to arrhythmias like paroxysmal atrial fibrillation, aligning with the patient's clinical presentation."
+    },
+    {
+      "disease_name": "Short QT Syndrome 5",
+      "disease_id": "OMIM:612101",
+      "score": 0.2,
+      "explanation": "Short QT Syndrome 5 involves mutations in CACNB2, another calcium channel subunit. Similar to other SQTS forms, it results in a shortened QT interval and an increased risk of atrial fibrillation and other cardiac arrhythmias, making it a relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Short QT Syndrome 6",
+      "disease_id": "OMIM:613627",
+      "score": 0.166,
+      "explanation": "This subtype is caused by gain-of-function mutations in SCN5A, a gene encoding a cardiac sodium channel. These mutations can lead to a persistent sodium current that shortens the cardiac action potential duration and thus the QT interval, predisposing to arrhythmias including atrial fibrillation. While less common, it remains a possible genetic cause for the observed phenotype."
+    }
+  ]
+}

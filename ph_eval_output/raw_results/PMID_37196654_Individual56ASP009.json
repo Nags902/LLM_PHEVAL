@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 1.0,
+      "explanation": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome) is a strong candidate given its consistent association with severe delayed speech and language development, prominent autistic behavior, and frequently reported Attention Deficit Hyperactivity Disorder (ADHD). Strabismus is a common ocular feature, and seizures occur in a significant proportion of affected individuals. Psychiatric manifestations, including depression, are also recognized."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.5,
+      "explanation": "Fragile X Syndrome is a leading cause of inherited neurodevelopmental disorders, characterized by significant delayed speech and language development, high rates of ADHD, and a substantial comorbidity with autistic behavior. Seizures are reported in 10-20% of cases, and strabismus can also be present. Depression and anxiety are common psychiatric comorbidities in adulthood."
+    },
+    {
+      "disease_name": "ADNP Syndrome",
+      "disease_id": "OMIM:616140",
+      "score": 0.3333333333333333,
+      "explanation": "ADNP Syndrome (Pitt-Hopkins-like Syndrome 5) is strongly associated with global developmental delay, including severe speech and language impairment, and a high prevalence of autistic behavior and ADHD. Seizures are reported in a significant percentage of individuals, and strabismus is a common ocular finding. Psychiatric issues, including mood disorders, are recognized."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome, particularly Type 1 (caused by ARID1B mutations), frequently presents with global developmental delay, significant delayed speech and language development, and common features of autistic behavior and ADHD. Strabismus is a recurrent finding, and seizures are reported in a notable proportion of patients, fitting the overall phenotypic profile."
+    },
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 0.2,
+      "explanation": "Neurofibromatosis Type 1 is associated with a high prevalence of ADHD and an increased risk of autistic behavior, alongside potential speech delay. Seizures and strabismus (often due to optic pathway gliomas or other neurological involvement) can occur. Individuals with NF1 also have a recognized higher incidence of depression and anxiety, aligning with the patient's psychiatric symptom."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.16666666666666666,
+      "explanation": "MECP2 Duplication Syndrome, which primarily affects males, is characterized by severe global developmental delay, including profound speech and language impairment, and often severe, early-onset epilepsy. Autistic features are common, and strabismus can also be present. While ADHD and typical depression may be less emphasized due to the severity of intellectual disability, behavioral dysregulation is common."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.14285714285714285,
+      "explanation": "CDKL5 Deficiency Disorder is characterized by severe developmental delay, profound speech impairment, and early-onset, often intractable epilepsy. Autistic features and strabismus are frequently observed. While it strongly accounts for the seizures, speech delay, and autistic features, ADHD and depression are less typical primary manifestations compared to other candidates."
+    }
+  ]
+}

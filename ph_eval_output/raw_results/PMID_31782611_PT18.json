@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lowe Syndrome",
+      "disease_id": "OMIM:309000",
+      "score": 1.0,
+      "explanation": "This X-linked disorder aligns well with all presented features including astigmatism (common ocular finding), ventriculomegaly, and prominent global developmental delays (gross motor and speech). Symptomatic females are known."
+    },
+    {
+      "disease_name": "L1 Syndrome",
+      "disease_id": "OMIM:307000",
+      "score": 0.5,
+      "explanation": "A strong candidate due to its defining features of severe ventriculomegaly (often hydrocephalus) and global developmental delays. While astigmatism is not a primary hallmark, other ocular anomalies and visual impairment can be present."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.333,
+      "explanation": "Characterized by severe global developmental delays (motor and speech), and often macrocephaly with associated ventriculomegaly. Ocular issues like strabismus are reported, making astigmatism a plausible co-occurrence. Symptomatic females are known."
+    },
+    {
+      "disease_name": "Sanfilippo Syndrome Type A",
+      "disease_id": "OMIM:252900",
+      "score": 0.25,
+      "explanation": "A lysosomal storage disorder known for progressive developmental delays (including motor and speech) and central nervous system involvement leading to hydrocephalus/ventriculomegaly. While astigmatism is not a hallmark, general ocular changes may occur."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "A severe peroxisome biogenesis disorder presenting with significant hypotonia and developmental delay (motor and speech), brain malformations (including ventriculomegaly), and various ocular abnormalities which could encompass astigmatism."
+    }
+  ]
+}

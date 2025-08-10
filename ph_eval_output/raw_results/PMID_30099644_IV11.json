@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Retinitis Pigmentosa (e.g., Autosomal Recessive Type 1)",
+      "disease_id": "OMIM:268000",
+      "score": 1.0,
+      "explanation": "This is a highly probable diagnosis given the constellation of reduced visual acuity, retinal pigment epithelial mottling (a sign of RPE dysfunction and degeneration), and an abnormal electroretinogram. These are hallmarks of progressive photoreceptor and RPE degeneration characteristic of Retinitis Pigmentosa. RP encompasses a heterogeneous group of disorders with various genetic causes, all leading to progressive vision loss and severe ERG abnormalities, making it the most fitting primary diagnosis."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy (e.g., Type 1)",
+      "disease_id": "OMIM:600977",
+      "score": 0.5,
+      "explanation": "Cone-rod dystrophies are progressive inherited retinal disorders affecting both cones and rods, often with a more prominent initial impact on central vision. They share the key features of reduced visual acuity, retinal pigment epithelial changes (which can include mottling), and an abnormal electroretinogram. The precise ERG pattern would help differentiate from Retinitis Pigmentosa, but based on the provided HPO terms, it remains a very strong differential diagnosis."
+    },
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.33,
+      "explanation": "Stargardt disease is the most common form of inherited macular dystrophy, characterized by progressive loss of central vision due to photoreceptor and retinal pigment epithelial dysfunction. Retinal pigment epithelial mottling is a common finding due to lipofuscin accumulation. While the electroretinogram can be normal in early stages, advanced forms or those with more generalized retinal involvement can lead to an abnormal ERG, making it a plausible diagnosis, especially if the mottling is primarily macular."
+    },
+    {
+      "disease_name": "Choroideremia",
+      "disease_id": "OMIM:303100",
+      "score": 0.25,
+      "explanation": "Choroideremia is an X-linked progressive chorioretinal dystrophy primarily affecting males. It is characterized by progressive night blindness and peripheral vision loss leading to central vision loss, involving degeneration of the choroid, retinal pigment epithelium, and photoreceptors. The patient's age and gender are consistent, and the features of reduced visual acuity, RPE involvement (mottling can precede overt atrophy), and a severely abnormal electroretinogram align well with this condition."
+    },
+    {
+      "disease_name": "Gyrate Atrophy of the Choroid and Retina",
+      "disease_id": "OMIM:258870",
+      "score": 0.2,
+      "explanation": "This is a rare autosomal recessive metabolic disorder causing progressive chorioretinal degeneration due to ornithine aminotransferase deficiency. It presents with progressive night blindness and visual field constriction, leading to central vision loss. The fundus exhibits characteristic scalloped areas of chorioretinal atrophy, which includes RPE changes. A severely abnormal electroretinogram is a consistent finding, making it a differential diagnosis, though its rarity places it lower on the list."
+    }
+  ]
+}

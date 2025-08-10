@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Jacobsen Syndrome",
+      "disease_id": "OMIM:147791",
+      "score": 1.0,
+      "explanation": "Jacobsen Syndrome, caused by a terminal deletion of chromosome 11q, provides an excellent fit for the patient's multifaceted presentation. It characteristically includes Paris-Trousseau syndrome, which accounts for the prominent thrombocytopenia, platelet anisocytosis, and increased mean platelet volume. Many craniofacial features align well, such as deeply set eyes, telecanthus, thin upper lip vermilion, and bulbous nose. While upslanting palpebral fissures and mandibular prognathia are less universally typical, synophrys and mild global developmental delay are consistent features reported in Jacobsen Syndrome, making it the most comprehensive match."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) is a strong candidate due to the striking and highly specific craniofacial features, particularly cardinal synophrys, broad/horizontal eyebrows, deeply set eyes, thin upper lip vermilion, and the presence of mild global developmental delay. However, the specific macrothrombocytopenia (platelet anisocytosis, increased mean platelet volume) is not a typical characteristic of CdLS, and mandibular prognathia is less common. CdLS1, caused by NIPBL mutations, is the most common and classic form."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 2",
+      "disease_id": "OMIM:300040",
+      "score": 0.33,
+      "explanation": "Similar to CdLS1, CdLS2 (caused by SMC1A mutations) also presents with characteristic facial features including synophrys, broad eyebrows, deep-set eyes, and developmental delay, making it a plausible consideration. The main discrepancies remain the specific hematological findings (macrothrombocytopenia) and mandibular prognathia, which are not typical for this subtype either. It is included to demonstrate consideration of different genetic subtypes of CdLS, as their clinical phenotypes can significantly overlap."
+    },
+    {
+      "disease_name": "Fechtner Syndrome",
+      "disease_id": "OMIM:153650",
+      "score": 0.25,
+      "explanation": "Fechtner Syndrome is an MYH9-related disorder primarily characterized by macrothrombocytopenia, which perfectly matches the patient's thrombocytopenia, platelet anisocytosis, and increased mean platelet volume. However, this syndrome does not typically present with the extensive craniofacial dysmorphism (including synophrys) or the global developmental delay observed in the patient, making it a less comprehensive fit despite the strong hematological match. Other MYH9-related diseases like Sebastian Platelet Syndrome would have similar fit/mismatch profiles."
+    }
+  ]
+}

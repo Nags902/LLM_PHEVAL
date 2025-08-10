@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Axillary and inguinal freckling (Crowe's sign) is a highly specific diagnostic criterion for Neurofibromatosis type 1, often appearing in childhood or adolescence. Given 'freckling' as the sole reported feature, this condition is a strong candidate despite the absence of other common manifestations like caf\u00e9-au-lait macules or neurofibromas, which might develop later or be unreported."
+    },
+    {
+      "disease_name": "LEOPARD syndrome 1 (Noonan syndrome with multiple lentigines)",
+      "disease_id": "OMIM:151100",
+      "score": 0.5,
+      "explanation": "Multiple lentigines, often described as freckle-like pigmented spots across the body, are a cardinal feature of LEOPARD syndrome (Lentigines, ECG conduction abnormalities, Ocular hypertelorism, Pulmonary stenosis, Abnormal genitalia, Retarded growth, Deafness). While other systemic features are not reported, the prominence of lentigines makes this a strong candidate. LEOPARD syndrome 1 is caused by PTPN11 mutations and is considered a subtype of Noonan Syndrome."
+    },
+    {
+      "disease_name": "Peutz-Jeghers syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.333,
+      "explanation": "Peutz-Jeghers syndrome is characterized by distinctive mucocutaneous pigmentation, specifically dark brown to blue-black macules resembling freckles, most commonly found around the mouth (perioral), on the buccal mucosa, and on the hands and feet. These typically appear in childhood or adolescence, aligning with the patient's age. The presence of 'freckling' is a very characteristic feature of this syndrome."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, complementation group A",
+      "disease_id": "OMIM:278700",
+      "score": 0.25,
+      "explanation": "Xeroderma Pigmentosum (XP) is a group of genetic disorders characterized by extreme sensitivity to UV light, leading to severe sunburns, blistering, and early development of extensive freckling and irregular pigmentation in sun-exposed areas. This prominent and atypical 'freckling' often appears in childhood or early adolescence, making XP a plausible, albeit severe, consideration."
+    },
+    {
+      "disease_name": "Dyskeratosis Congenita, X-linked",
+      "disease_id": "OMIM:305000",
+      "score": 0.2,
+      "explanation": "Reticulated hyperpigmentation, often described as a 'lace-like' or 'freckle-like' pattern, is a classic skin manifestation of Dyskeratosis Congenita, along with nail dystrophy and oral leukoplakia. While not as specific as the freckling seen in NF1 or Peutz-Jeghers, it represents a recognized form of abnormal pigmentation that could be described as freckling. This condition typically manifests in childhood or adolescence."
+    }
+  ]
+}

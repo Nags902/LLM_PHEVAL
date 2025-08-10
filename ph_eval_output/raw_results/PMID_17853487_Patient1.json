@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Meckel-Gruber Syndrome",
+      "disease_id": "OMIM:249000",
+      "score": 1.0,
+      "explanation": "This syndrome is the most likely candidate due to the classic combination of postaxial polydactyly and neural tube defects (NTDs), which aligns perfectly with the patient's lumbosacral meningocele and Chiari type II malformation. Microcephaly and talipes equinovarus are also frequently observed features in Meckel-Gruber Syndrome, a lethal ciliopathy. The presence of Chiari II strongly indicates an underlying neural tube defect."
+    },
+    {
+      "disease_name": "Trisomy 13",
+      "disease_id": "OMIM:190470",
+      "score": 0.5,
+      "explanation": "Trisomy 13 (Patau Syndrome) is a severe chromosomal disorder that shares significant phenotypic overlap. Key features observed in this patient, such as microcephaly, postaxial polydactyly, and talipes equinovarus, are common in Trisomy 13. While not a defining feature, neural tube defects like spina bifida (which can present as meningocele) and associated CNS malformations (including Chiari malformations) can occur."
+    },
+    {
+      "disease_name": "Hydrolethalus Syndrome",
+      "disease_id": "OMIM:236680",
+      "score": 0.333,
+      "explanation": "Hydrolethalus Syndrome is a severe, often lethal, autosomal recessive disorder characterized by multiple congenital anomalies, including severe central nervous system malformations (like hydrocephalus and encephalocele, which are types of NTDs), polydactyly (both preaxial and postaxial), and talipes equinovarus. The presence of lumbosacral meningocele and Chiari type II malformation fits within the spectrum of NTDs seen in this syndrome, and microcephaly can also be present in association with brain anomalies."
+    }
+  ]
+}

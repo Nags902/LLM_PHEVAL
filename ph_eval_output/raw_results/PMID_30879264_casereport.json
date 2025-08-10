@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "CHARGE syndrome is the most fitting diagnosis as it accounts for a large majority of the patient's phenotypic features. Key overlapping features include cleft palate, sensorineural hearing impairment, global developmental delay, short stature, hypotonia (axial and appendicular), feeding difficulties, recurrent infections (otitis media and respiratory), and a significant cluster of the observed craniofacial anomalies (short philtrum, wide mouth, hypertelorism, epicanthus, ptosis, depressed nasal bridge, broad nasal tip, midface retrusion). Crucially, Dandy-Walker malformation and hypoplasia of the brainstem are well-documented central nervous system anomalies in CHARGE syndrome. Autistic behavior and seizures are also common comorbidities. The extensive and specific symptom overlap makes this the top candidate."
+    },
+    {
+      "disease_name": "Kabuki syndrome type 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki syndrome presents with many distinctive facial features highly consistent with the patient's profile, including highly arched eyebrow, epicanthus, depressed nasal bridge, broad nasal tip, pear-shaped nose, wide mouth, short philtrum, thin upper lip vermilion, exaggerated cupid's bow, pointed chin, and midface retrusion. Other overlapping features include global developmental delay, short stature, hypotonia, feeding difficulties, recurrent otitis media, autistic behavior, seizures, inguinal hernia, and cleft palate. While brainstem hypoplasia and Dandy-Walker malformation are not typical primary features, other CNS anomalies can occur. Sensorineural hearing impairment is less common than conductive in Kabuki syndrome but can be present. The strong match of numerous specific craniofacial features makes it a very strong second candidate."
+    },
+    {
+      "disease_name": "Kabuki syndrome type 2",
+      "disease_id": "OMIM:300862",
+      "score": 0.5,
+      "explanation": "Kabuki syndrome type 2 (X-linked) shares the same clinical presentation as type 1, caused by a different gene (KDM6A). Therefore, the explanation for Kabuki syndrome type 1 equally applies here. The high degree of overlap in specific craniofacial features, developmental delay, hypotonia, and systemic issues remains very compelling."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.3333333333333333,
+      "explanation": "Smith-Lemli-Opitz syndrome (SLOS) shares several key features with the patient, including many craniofacial dysmorphisms (short philtrum, thin upper lip, cleft palate, broad nasal bridge, ptosis, epicanthus), global developmental delay, intellectual disability, hypotonia, autistic behavior, feeding difficulties, short stature, and recurrent infections. However, the presence of Dandy-Walker malformation and brainstem hypoplasia is less commonly a primary feature of SLOS, and the classic 2-3 toe syndactyly, a hallmark of SLOS, is not mentioned in the patient's phenotype."
+    }
+  ]
+}

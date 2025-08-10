@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial Disease, Infantile Multisystemic Type (e.g., Leigh Syndrome Spectrum)",
+      "disease_id": "OMIM:256000",
+      "score": 1.0,
+      "explanation": "This disease category provides the most comprehensive explanation for the patient's severe, early-onset, multisystemic presentation. It accounts for the combination of myopathic abnormalities, peripheral neuropathy, hypertrophic cardiomyopathy, respiratory failure requiring assisted ventilation, profound metabolic acidosis, and central nervous system involvement including nystagmus and limb dystonia, all of which are characteristic features of various mitochondrial disorders, particularly those within the Leigh Syndrome spectrum or severe respiratory chain complex deficiencies affecting multiple organs."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type II, Infantile-onset type (Pompe Disease)",
+      "disease_id": "OMIM:232300",
+      "score": 0.5,
+      "explanation": "Infantile-onset Pompe disease is a strong candidate due to the classic triad of severe hypotonia, hypertrophic cardiomyopathy, and respiratory failure requiring assisted ventilation, along with myopathic abnormalities on EMG. While peripheral neuropathy and primary metabolic acidosis are less typical primary features, the severe cardiac and muscular involvement aligns very well with the patient's presentation."
+    },
+    {
+      "disease_name": "Carnitine-Acylcarnitine Translocase Deficiency (CACTD)",
+      "disease_id": "OMIM:212138",
+      "score": 0.333,
+      "explanation": "CACTD is a severe fatty acid oxidation disorder that typically presents in the neonatal period or early infancy with profound metabolic acidosis (often hypoketotic hypoglycemia, but lactic acidosis can occur), hypertrophic cardiomyopathy, hypotonia, muscle weakness, and respiratory distress. Peripheral neuropathy has also been reported in severe cases, making it a plausible fit for the patient's symptoms."
+    },
+    {
+      "disease_name": "Barth Syndrome",
+      "disease_id": "OMIM:302060",
+      "score": 0.25,
+      "explanation": "Barth Syndrome, an X-linked disorder, is characterized by hypertrophic cardiomyopathy, skeletal myopathy, hypotonia, and often metabolic acidosis. While primarily affecting males, females can be symptomatic due to skewed X-inactivation. The core cardiac and muscular features are a strong match, though peripheral neuropathy, nystagmus, dystonia, and abnormal facial shape are not primary features of this condition."
+    }
+  ]
+}

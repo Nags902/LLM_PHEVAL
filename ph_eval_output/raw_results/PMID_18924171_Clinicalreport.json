@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial complex IV deficiency, nuclear type 5",
+      "disease_id": "OMIM:604377",
+      "score": 1.0,
+      "explanation": "This severe mitochondrial disorder, often caused by SCO2 mutations, presents neonatally with profound hypotonia, muscle weakness, respiratory failure requiring ventilation, vocal cord paralysis, seizures, and characteristic severe hypertrophic cardiomyopathy. It also explains the central nervous system abnormalities including abnormal brainstem, periventricular white matter, and corpus callosum morphology, making it an excellent fit for the described multi-system involvement."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.5,
+      "explanation": "Leigh syndrome is a severe, progressive neurometabolic disorder, often of mitochondrial origin, characterized by typical brainstem and basal ganglia lesions, which can lead to profound hypotonia, muscle weakness, respiratory failure, vocal cord paralysis, inspiratory stridor, and seizures. Abnormal brainstem, white matter, and corpus callosum morphology are common. While hypertrophic cardiomyopathy is not universal, it is a significant feature in several genetic subtypes of Leigh syndrome (e.g., SURF1, SCO2), making it a strong general candidate."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type II, Infantile-Onset (Pompe Disease)",
+      "disease_id": "OMIM:232300",
+      "score": 0.33,
+      "explanation": "Infantile-onset Pompe disease is a well-known cause of severe hypotonia, muscle weakness, areflexia, inspiratory stridor, respiratory failure, and profound hypertrophic cardiomyopathy in neonates. Vocal cord paralysis can also occur. While primary structural brain malformations like abnormal corpus callosum or white matter are not classic features, severe neurological dysfunction and secondary brain changes can be present due to the generalized metabolic derangement and severe multi-organ failure, making it a highly relevant differential."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase E1-alpha Deficiency",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "This severe X-linked metabolic disorder can present in the neonatal period with profound lactic acidosis, severe encephalopathy, hypotonia, seizures, and respiratory failure. It is particularly known for characteristic brain malformations including abnormal corpus callosum morphology (agenesis/dysgenesis), abnormal periventricular white matter morphology, and brainstem involvement. While hypertrophic cardiomyopathy is less common than in primary mitochondrial respiratory chain disorders, it has been reported, and the strong overlap of neurological and systemic features makes it a significant consideration."
+    },
+    {
+      "disease_name": "Zellweger Syndrome",
+      "disease_id": "OMIM:214100",
+      "score": 0.2,
+      "explanation": "Zellweger syndrome, the most severe form of peroxisome biogenesis disorders, is characterized by profound neonatal hypotonia, muscle weakness, seizures, respiratory difficulties, and distinct brain malformations including abnormal corpus callosum and periventricular white matter morphology, and brainstem abnormalities. While it explains many neurological features well, the prominent hypertrophic cardiomyopathy is less characteristic of this disorder compared to mitochondrial diseases, and other typical systemic features (e.g., liver dysfunction, renal cysts, skeletal anomalies) are not listed in the provided phenotype."
+    }
+  ]
+}

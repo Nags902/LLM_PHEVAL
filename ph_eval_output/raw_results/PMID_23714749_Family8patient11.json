@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 3, Hepatoencephalomyopathic type, due to DGUOK deficiency",
+      "disease_id": "OMIM:256810",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it directly matches the key phenotypic feature of 'Depletion of mitochondrial DNA in liver' (HP:0006581). It typically presents in infancy with severe liver failure (explaining jaundice and abnormality of the coagulation cascade), hypotonia, and feeding difficulties, all consistent with the patient's symptoms."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6, Hepatocerebral type, due to MPV17 deficiency",
+      "disease_id": "OMIM:612075",
+      "score": 0.5,
+      "explanation": "Similar to DGUOK deficiency, MPV17 deficiency is a well-established cause of hepatic mitochondrial DNA depletion syndrome. Its clinical presentation is highly consistent with the patient's symptoms, including infantile onset liver failure (jaundice, coagulopathy), hypotonia, and feeding difficulties."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome (POLG-related mitochondrial disease)",
+      "disease_id": "OMIM:203700",
+      "score": 0.33,
+      "explanation": "Alpers-Huttenlocher Syndrome, caused by mutations in POLG, is a severe progressive encephalopathy often accompanied by liver failure in infancy. While primarily known for neurological involvement, severe liver disease with mitochondrial DNA depletion can be a prominent feature, explaining jaundice, coagulopathy, and hypotonia."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 10, Myopathy, Encephalopathy, Lactic Acidosis, and Hepatic Failure type, due to TRMU deficiency",
+      "disease_id": "OMIM:613047",
+      "score": 0.25,
+      "explanation": "TRMU deficiency is a rarer cause of mitochondrial DNA depletion syndrome that can present with severe multisystem involvement, including prominent hepatic failure in infancy. This directly explains the liver-related symptoms (jaundice, coagulation abnormality) and is consistent with the presence of mitochondrial DNA depletion in the liver and hypotonia."
+    }
+  ]
+}

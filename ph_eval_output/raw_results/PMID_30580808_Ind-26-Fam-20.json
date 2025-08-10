@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:600008",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest match due to the confluence of key phenotypic features. It classically presents with intellectual disability, developmental delay, hypotonia, seizures, and often autistic features. The facial dysmorphism including low-set ears, microtia, and especially the combination of sparse scalp hair with generalized hypertrichosis, are highly characteristic. An everted lower lip vermilion is also commonly observed. Growth deficiency (decreased body weight) is also a frequent finding."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) shares many neurological and growth features with the patient, including intellectual disability, global developmental delay, hypotonia, seizures, autistic behavior, and decreased body weight. Ear anomalies (low-set ears, microtia) are also common. While prominent hypertrichosis is a hallmark of CdLS, sparse scalp hair is generally not typical (patients often have abundant, coarse hair including synophrys). The thin upper lip vermilion could align with the classic 'thin downturned upper lip' of CdLS, but an everted lower lip is less characteristic. Despite the hair mismatch, the strong correlation with many other core features makes it a good secondary candidate."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.333,
+      "explanation": "Mowat-Wilson Syndrome is characterized by severe intellectual disability, developmental delay, seizures, hypotonia, and often autistic features. The facial dysmorphism frequently includes an everted lower lip vermilion, low-set ears, and prominent columella, aligning well with several of the patient's features. Decreased body weight due to feeding difficulties is also common. However, the specific hair anomalies (sparse scalp hair and hypertrichosis) are not characteristic features of Mowat-Wilson Syndrome, which is a significant distinguishing factor."
+    }
+  ]
+}

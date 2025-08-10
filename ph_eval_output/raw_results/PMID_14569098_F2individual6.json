@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Uromodulin-associated kidney disease",
+      "disease_id": "OMIM:605073",
+      "score": 1.0,
+      "explanation": "This condition, also known as Familial Juvenile Hyperuricemic Nephropathy (FJHN) or Medullary Cystic Kidney Disease Type 1 (MCKD1), is characterized by early-onset hyperuricemia and gout, progressive tubulointerstitial kidney disease leading to chronic kidney disease, and often small renal cysts. The combination of gout, renal cysts, and chronic kidney disease fits this diagnosis very well."
+    },
+    {
+      "disease_name": "HNF1B-associated kidney disease",
+      "disease_id": "OMIM:137920",
+      "score": 0.5,
+      "explanation": "HNF1B-associated kidney disease (also known as Renal Cysts and Diabetes Syndrome, RCAD, or MODY5) is a strong candidate as it frequently presents with renal cysts, chronic kidney disease due to tubulointerstitial disease, and a predisposition to hyperuricemia and gout. The patient's phenotypic features align closely with this condition."
+    },
+    {
+      "disease_name": "Medullary Cystic Kidney Disease Type 2",
+      "disease_id": "OMIM:605080",
+      "score": 0.33,
+      "explanation": "Caused by mutations in the REN gene, Medullary Cystic Kidney Disease Type 2 (MCKD2) is characterized by progressive chronic kidney disease, significant renal interstitial fibrosis, and a prominent association with hyperuricemia and gout. Renal cysts are also a feature, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease Type 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "ADPKD1 is the most common inherited kidney disease, characterized by numerous renal cysts, progressive chronic kidney disease, and eventual renal interstitial fibrosis. Gout can occur as a complication due to impaired uric acid excretion in the context of advancing kidney dysfunction, making it a plausible diagnosis given the prominent renal cysts and CKD."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease Type 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.25,
+      "explanation": "ADPKD2 is a variant of Autosomal Dominant Polycystic Kidney Disease, typically presenting with similar features to Type 1 but often with a later onset and slower progression of renal disease. It is characterized by renal cysts, chronic kidney disease, and renal interstitial fibrosis, with gout being a potential complication."
+    }
+  ]
+}

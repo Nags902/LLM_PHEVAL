@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Joubert Syndrome and related disorders",
+      "disease_id": "OMIM:213300",
+      "score": 1.0,
+      "explanation": "This group of ciliopathies is strongly associated with core features observed: rod-cone dystrophy, intellectual disability, delayed speech and walking, short stature, and importantly, Chiari malformation (often secondary to cerebellar vermis hypoplasia or other brain malformations characteristic of Joubert Syndrome). While the specific facial features and brachydactyly can be variable, the significant overlap in neurological, ocular, and growth aspects makes it the most fitting primary candidate."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I, Hurler Syndrome (MPS IH/S)",
+      "disease_id": "OMIM:607014",
+      "score": 0.5,
+      "explanation": "MPS I, particularly the Hurler and Hurler-Scheie forms, aligns well with several key features: rod-cone dystrophy (retinal degeneration), intellectual disability, delayed development, short stature, and Chiari malformation (due to hydrocephalus and skeletal involvement). Brachydactyly is also consistent with the dysostosis multiplex seen in MPS. While facial features are typically described as 'coarse', some described traits like frontal bossing, micrognathia, and low-set ears could be present within this broader description. The patient's age (P23Y) suggests an attenuated form (Hurler-Scheie or Scheie) rather than the severe Hurler, yet the significant intellectual disability points towards the Hurler or Hurler-Scheie end of the spectrum."
+    },
+    {
+      "disease_name": "Cole-Carpenter Syndrome (Osteogenesis Imperfecta Type XII)",
+      "disease_id": "OMIM:614744",
+      "score": 0.33,
+      "explanation": "Cole-Carpenter Syndrome is characterized by severe short stature, intellectual disability, distinctive craniofacial features including frontal bossing and micrognathia, and hydrocephalus often leading to Chiari malformation. Ocular findings can occur, though rod-cone dystrophy specifically is not a primary defining feature. The main discrepancy is the brachydactyly, as CCS is associated with bone fragility and deformities, not typically short digits."
+    },
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 0.25,
+      "explanation": "Bardet-Biedl Syndrome is a ciliopathy characterized by rod-cone dystrophy, intellectual disability/learning difficulties, and developmental delay. Short stature can occur. However, the most classic limb anomaly is polydactyly, not brachydactyly, and Chiari malformation is not a typical feature. The specific combination of facial dysmorphism is also less characteristic of BBS, making it a less precise fit than the higher-ranked diseases."
+    }
+  ]
+}

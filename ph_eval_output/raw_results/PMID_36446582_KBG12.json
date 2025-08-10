@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 1 (NIPBL-related)",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "The patient's clinical presentation highly aligns with Cornelia de Lange Syndrome (CdLS), particularly type 1, which is the most common form. Key features such as intellectual disability, global developmental delay, short stature, intrauterine growth retardation, and distinct craniofacial features including synophrys, thick eyebrows, and low anterior hairline are cardinal signs of CdLS. Hand abnormalities are also frequently observed. While macrodontia is less commonly highlighted, dental anomalies are well-documented in CdLS, and macrodontia has been reported in some individuals. Behavioral issues like ADHD and sleep abnormalities further support this diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 2 (SMC1A-related)",
+      "disease_id": "OMIM:300040",
+      "score": 0.95,
+      "explanation": "This X-linked subtype of Cornelia de Lange Syndrome shares core phenotypic features with type 1, including intellectual disability, global developmental delay, characteristic facial features (synophrys, thick eyebrows, low anterior hairline), short stature, and hand abnormalities, all of which are present in the patient. Its inclusion reflects the genetic heterogeneity of CdLS, and it remains a strong candidate given the comprehensive CdLS phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 3 (SMC3-related)",
+      "disease_id": "OMIM:610759",
+      "score": 0.9,
+      "explanation": "Caused by mutations in SMC3, this subtype of Cornelia de Lange Syndrome presents with similar core features as other CdLS types, including intellectual disability, global developmental delay, growth restriction, and the distinctive facial features such as synophrys and thick eyebrows. This aligns well with the patient's observed phenotype and further supports CdLS as the most likely underlying condition."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 4 (RAD21-related)",
+      "disease_id": "OMIM:614701",
+      "score": 0.85,
+      "explanation": "As another genetic subtype of Cornelia de Lange Syndrome, type 4 (RAD21-related) exhibits the characteristic features observed in the patient, including global developmental delay, intellectual disability, short stature, and the specific facial gestalt with synophrys and thick eyebrows. This reinforces the consideration of CdLS as the primary diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 5 (HDAC8-related)",
+      "disease_id": "OMIM:300882",
+      "score": 0.8,
+      "explanation": "This X-linked form of Cornelia de Lange Syndrome (HDAC8-related) also manifests with the cardinal features seen in the patient, such as intellectual disability, global developmental delay, growth deficits, and facial dysmorphism including synophrys and thick eyebrows. It is a plausible genetic cause within the broader CdLS spectrum, especially considering the patient's male gender."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 6 (BRD4-related)",
+      "disease_id": "OMIM:619076",
+      "score": 0.75,
+      "explanation": "The most recently identified genetic cause for Cornelia de Lange Syndrome, BRD4-related CdLS, also manifests with the classic phenotype of developmental delay, intellectual disability, growth restriction, and characteristic facial features (synophrys, thick eyebrows). Its inclusion ensures a comprehensive consideration of known CdLS subtypes for this patient's presentation."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.5,
+      "explanation": "KBG syndrome is a strong second candidate given the presence of intellectual disability, global developmental delay, short stature, thick eyebrows, and hand abnormalities, along with ADHD and sleep abnormalities. Crucially, macrodontia is a highly characteristic feature of KBG syndrome, aligning strongly with the patient's phenotype. However, the prominent synophrys and intrauterine growth retardation, which are significant in this patient, are less consistently observed in KBG syndrome compared to Cornelia de Lange Syndrome."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1 (ARID1B-related)",
+      "disease_id": "OMIM:614607",
+      "score": 0.33,
+      "explanation": "Coffin-Siris Syndrome (CSS) shares several features with the patient, including intellectual disability, global developmental delay, short stature, and abnormalities of the hands (typically hypoplastic fifth digit/nails). Thick eyebrows and occasional synophrys can be present. While intrauterine growth retardation is possible, macrodontia is not a typical feature of CSS. Given the overall phenotypic profile, it remains a differential diagnosis due to shared neurodevelopmental and some dysmorphic features, particularly the hand anomalies."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 2 (SMARCA4-related)",
+      "disease_id": "OMIM:614589",
+      "score": 0.32,
+      "explanation": "This subtype of Coffin-Siris Syndrome, caused by SMARCA4 mutations, presents with a similar broad phenotype including intellectual disability, developmental delay, and often hypoplastic nails/phalanges. While some facial features overlap with the patient's, the absence of consistently strong synophrys and macrodontia as typical features makes it a less likely primary diagnosis but still a part of the differential for developmental delay and hand anomalies."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 3 (SMARCB1-related)",
+      "disease_id": "OMIM:614608",
+      "score": 0.31,
+      "explanation": "SMARCB1-related Coffin-Siris Syndrome shares core features like intellectual disability, global developmental delay, and digital anomalies with the patient. Although certain facial features like thick eyebrows may be present, the distinctive combination of synophrys, low anterior hairline, and macrodontia is not typically prominent in this syndrome, making it a secondary differential diagnosis."
+    }
+  ]
+}

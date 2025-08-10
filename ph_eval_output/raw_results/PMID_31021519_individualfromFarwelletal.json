@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "22q11.2 Deletion Syndrome",
+      "disease_id": "OMIM:188400",
+      "score": 1.0,
+      "explanation": "22q11.2 Deletion Syndrome (also known as Velo-cardio-facial syndrome, OMIM:188400) is highly associated with cleft palate or velopharyngeal insufficiency, which is present in a large majority of affected individuals. Global developmental delay and intellectual disability are also very common and significant features of this condition, making it a strong candidate for the patient's presentation."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.5,
+      "explanation": "Kabuki Syndrome 1 is primarily characterized by global developmental delay and intellectual disability, which are consistent with the patient's features. Cleft palate is a recognized, although less frequent (10-20%), craniofacial anomaly associated with this syndrome."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.3333,
+      "explanation": "CHARGE syndrome consistently presents with global developmental delay and intellectual disability. While other features are typically prominent, cleft palate can occur in individuals with CHARGE syndrome, making it a plausible differential diagnosis given the combination of developmental and palatal anomalies."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270000",
+      "score": 0.25,
+      "explanation": "Smith-Lemli-Opitz Syndrome is an autosomal recessive disorder characterized by global developmental delay and intellectual disability. Cleft palate is an associated craniofacial anomaly that can be seen in patients with this condition."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2",
+      "disease_id": "OMIM:300294",
+      "score": 0.2,
+      "explanation": "Similar to Kabuki Syndrome 1, Kabuki Syndrome 2 (caused by mutations in KDM6A) presents with global developmental delay and intellectual disability as core features. Cleft palate is also an associated finding in some affected individuals, warranting its inclusion as a potential diagnosis."
+    }
+  ]
+}

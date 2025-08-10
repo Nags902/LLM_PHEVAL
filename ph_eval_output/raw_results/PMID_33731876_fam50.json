@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "GNAO1-related neurodevelopmental disorder",
+      "disease_id": "OMIM:616339",
+      "score": 1.0,
+      "explanation": "This disorder is characterized by a severe early-onset epileptic encephalopathy, often including infantile spasms (hypsarrhythmia) and a broad range of seizure types. It is strongly associated with severe intellectual disability, hypotonia, and prominent involuntary movements, particularly choreoathetosis and dystonia. Continuous spike and waves during slow sleep (CSWS) has also been reported, making it an excellent fit for the patient's comprehensive phenotype."
+    },
+    {
+      "disease_name": "STXBP1 encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy is a common cause of early-onset epileptic encephalopathy, frequently presenting with infantile spasms (hypsarrhythmia) and evolving into various intractable seizure types. Patients typically have severe intellectual disability, hypotonia, and often develop movement disorders, including choreoathetosis and dystonia. The EEG pattern of continuous spike and waves during slow sleep can also be observed, aligning well with the patient's features."
+    },
+    {
+      "disease_name": "FOXG1 syndrome",
+      "disease_id": "OMIM:613459",
+      "score": 0.333,
+      "explanation": "FOXG1 syndrome is a severe neurodevelopmental disorder characterized by early-onset epileptic encephalopathy, often with infantile spasms (hypsarrhythmia), severe intellectual disability, and hypotonia. A prominent feature is the presence of dyskinetic or choreoathetotic movements. While continuous spike and waves during slow sleep is not a universal feature, the overall severe and complex epileptic presentation combined with the specific movement disorder and profound developmental impairment strongly supports this diagnosis."
+    },
+    {
+      "disease_name": "Alternating Hemiplegia of Childhood 1",
+      "disease_id": "OMIM:610048",
+      "score": 0.25,
+      "explanation": "Alternating Hemiplegia of Childhood (AHC) is caused by mutations in ATP1A3 and is characterized by episodic hemiplegia, dystonia, and choreoathetosis, which directly aligns with the patient's choreoathetosis. Epilepsy, including infantile spasms (hypsarrhythmia), is common, as is intellectual disability. Continuous spike and waves during slow sleep has also been reported in patients with AHC, making it a strong candidate for the constellation of symptoms."
+    },
+    {
+      "disease_name": "CDKL5 deficiency disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.2,
+      "explanation": "CDKL5 deficiency disorder is a severe X-linked neurodevelopmental disorder known for very early-onset refractory seizures, frequently presenting as infantile spasms with hypsarrhythmia. Patients invariably have severe intellectual disability and often hypotonia. Continuous spike and waves during slow sleep is a recognized EEG pattern in some cases. While choreoathetosis is not as uniformly prominent as in the top-ranked disorders, dyskinetic features or stereotypies can occur, and the epileptic encephalopathy profile is a very strong match."
+    }
+  ]
+}

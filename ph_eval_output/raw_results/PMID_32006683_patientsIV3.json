@@ -1,0 +1,58 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182170",
+      "score": 1.0,
+      "explanation": "This syndrome presents a highly concordant clinical picture. It accounts for the combination of tall stature, arachnodactyly, joint hypermobility, pectus excavatum, and scoliosis (Marfanoid habitus). Crucially, it explains the accelerated skeletal maturation, which differentiates it from classic Marfan syndrome. The specific craniofacial features, including downslanted palpebral fissures, telecanthus, ptosis, long/narrow face, high palate, macrotia, and dental crowding, are highly characteristic of SGS. Furthermore, the widespread connective tissue fragility leading to multiple hernias (inguinal, congenital diaphragmatic), rectal prolapse, volvulus, and various diverticula (colonic, gastric, bladder) is a well-known feature of this syndrome. High myopia and astigmatism are also consistent."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 3",
+      "disease_id": "OMIM:613795",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 4",
+      "disease_id": "OMIM:614481",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome 6",
+      "disease_id": "OMIM:616892",
+      "score": 0.5,
+      "explanation": "Loeys-Dietz Syndrome (all types) shares significant overlap with Shprintzen-Goldberg Syndrome, encompassing the Marfanoid habitus (tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis) and a high propensity for severe connective tissue fragility affecting hollow organs, which explains the extensive list of hernias, diverticula, volvulus, rectal prolapse, and congenital diaphragmatic hernia. Many craniofacial features like downslanted palpebral fissures, telecanthus, ptosis, long face, high palate, high myopia, and astigmatism are also common. However, accelerated skeletal maturation is less typical, and macrotia is not as consistently described compared to Shprintzen-Goldberg Syndrome."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.333,
+      "explanation": "Marfan Syndrome accounts for many core Marfanoid features observed, including tall stature, arachnodactyly, joint hypermobility, pectus excavatum, scoliosis, high myopia, long/narrow face, and high palate. However, the presence of accelerated skeletal maturation is atypical for Marfan syndrome (bone age is usually normal or delayed). Additionally, the specific combination of downslanted palpebral fissures, ectropion, telecanthus, ptosis, macrotia, and narrow uvula is less commonly seen. While GI/GU connective tissue issues can occur, the widespread and severe fragility indicated by multiple diverticula, volvulus, and diaphragmatic hernia is more pronounced than typically seen in classic Marfan syndrome."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type",
+      "disease_id": "OMIM:130050",
+      "score": 0.25,
+      "explanation": "Vascular Ehlers-Danlos Syndrome (vEDS) is characterized by extreme fragility of blood vessels and hollow organs, which strongly explains the extensive list of hernias (inguinal, diaphragmatic), rectal prolapse, volvulus, and various diverticula (colonic, gastric, bladder). Joint hypermobility is also a feature. However, vEDS typically does not present with tall stature, arachnodactyly, accelerated skeletal maturation, or the specific constellation of craniofacial dysmorphism (downslanted palpebral fissures, ectropion, telecanthus, ptosis, macrotia, narrow uvula) observed in this patient. Other Ehlers-Danlos types are even less fitting for the overall comprehensive phenotype."
+    }
+  ]
+}

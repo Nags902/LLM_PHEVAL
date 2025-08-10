@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome type 1",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong fit, characterized by global developmental delay, speech and language delay, delayed motor milestones including walking, and very common, characteristic dental abnormalities such as widely spaced teeth, hypodontia, and malocclusion. It is caused by mutations in the KMT2D gene."
+    },
+    {
+      "disease_name": "Kabuki Syndrome type 2",
+      "disease_id": "OMIM:300862",
+      "score": 0.5,
+      "explanation": "Similar to Kabuki Syndrome type 1 in its core phenotypic features including global developmental delay, speech and motor delays, and dental anomalies. This type is X-linked (caused by KDM6A mutations), which is consistent with the male gender of the patient."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome (ARID1B-related)",
+      "disease_id": "OMIM:614566",
+      "score": 0.3333333333333333,
+      "explanation": "Coffin-Siris Syndrome frequently presents with global developmental delay, significant speech and motor delays, and recurrent dental abnormalities such as hypoplastic or widely spaced teeth, and hypodontia. While the characteristic fifth digit anomalies are not listed, the core features align well. ARID1B is the most common genetic cause."
+    },
+    {
+      "disease_name": "Williams-Beuren Syndrome",
+      "disease_id": "OMIM:194050",
+      "score": 0.25,
+      "explanation": "This syndrome is characterized by mild to moderate global developmental delay, often with language and motor delays, and distinctive craniofacial features that include highly prevalent dental anomalies such as small teeth (microdontia), hypodontia, and malocclusion. The combination of developmental and dental issues is highly relevant."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.2,
+      "explanation": "This X-linked disorder aligns well with the patient's male gender and presents with mild to moderate intellectual disability/global developmental delay, delayed speech, and various dental anomalies, including hypodontia, malocclusion, and delayed eruption."
+    },
+    {
+      "disease_name": "Sotos Syndrome",
+      "disease_id": "OMIM:117550",
+      "score": 0.16666666666666666,
+      "explanation": "Sotos Syndrome is primarily known for overgrowth and developmental delay, but it also frequently includes speech delay and dental anomalies such as premature tooth eruption or macrodontia. While overgrowth is not explicitly listed, the other features make it a plausible differential diagnosis."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type II (Hunter Syndrome)",
+      "disease_id": "OMIM:309900",
+      "score": 0.14285714285714285,
+      "explanation": "Hunter Syndrome is an X-linked lysosomal storage disorder affecting males. It causes progressive global developmental delay, speech difficulties, and can lead to characteristic dental abnormalities like thickened gums, widely spaced teeth, and abnormal tooth shape, especially as the condition progresses. Other systemic features common by age 3 are not listed, but initial presentation might focus on developmental delays."
+    }
+  ]
+}

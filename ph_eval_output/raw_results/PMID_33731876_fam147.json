@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Focal Epilepsy, Familial, With Variable Foci, 1; FFEVF1",
+      "disease_id": "OMIM:615386",
+      "score": 1.0,
+      "explanation": "This is a genetic epilepsy syndrome primarily characterized by focal-onset seizures, often presenting with variable seizure semiologies and foci. Mutations in DEPDC5 are a common cause, making it a direct and highly relevant match for the sole phenotypic feature."
+    },
+    {
+      "disease_name": "Epilepsy, Focal, With Auditory Features; EFA",
+      "disease_id": "OMIM:600511",
+      "score": 0.5,
+      "explanation": "Also known as Autosomal Dominant Lateral Temporal Lobe Epilepsy (ADLTE), this genetic epilepsy specifically manifests with focal-onset seizures, often characterized by auditory or aphasic symptoms. This directly aligns with the reported focal-onset seizure phenotype."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2; TSC2",
+      "disease_id": "OMIM:613254",
+      "score": 0.33,
+      "explanation": "Focal-onset seizures are a very common and often the initial neurological manifestation of Tuberous Sclerosis Complex, arising from cortical tubers. Even in the absence of other reported features, TSC is a significant cause of focal epilepsy in rare disease diagnostics."
+    },
+    {
+      "disease_name": "Epilepsy, Nocturnal Frontal Lobe, Autosomal Dominant, 1; ENFL1",
+      "disease_id": "OMIM:600513",
+      "score": 0.25,
+      "explanation": "This is a specific form of genetic focal epilepsy primarily characterized by focal seizures, often occurring during sleep. It directly matches the given phenotypic feature of focal-onset seizure as a distinct type of focal epilepsy."
+    },
+    {
+      "disease_name": "Epilepsy, Female-Limited, With Mental Retardation Or Not; EFMR",
+      "disease_id": "OMIM:300088",
+      "score": 0.2,
+      "explanation": "Also known as PCDH19-related epilepsy, this X-linked disorder predominantly affects females and is characterized by early-onset seizures, with focal-onset seizures being a common presentation, often in clusters."
+    },
+    {
+      "disease_name": "Epilepsy, Benign Familial Neonatal, 1; BFNE1",
+      "disease_id": "OMIM:602232",
+      "score": 0.166,
+      "explanation": "Mutations in KCNQ2 (BFNE1) cause a spectrum of epilepsies, including benign familial neonatal seizures (which can have focal manifestations) and more severe epileptic encephalopathies where focal-onset seizures are a common feature."
+    },
+    {
+      "disease_name": "Epilepsy, Generalized, With Febrile Seizures, Plus, Type 1; GEFS+1",
+      "disease_id": "OMIM:604233",
+      "score": 0.142,
+      "explanation": "SCN1A mutations are associated with a spectrum of epilepsies, including Generalized Epilepsy with Febrile Seizures Plus (GEFS+), where focal-onset seizures can occur in addition to other seizure types, especially in milder phenotypes."
+    }
+  ]
+}

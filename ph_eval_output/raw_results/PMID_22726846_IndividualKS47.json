@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 1.0,
+      "explanation": "This condition is a strong candidate due to the significant overlap with multiple key phenotypic features. The patient exhibits intellectual disability, global developmental delay, upslanted palpebral fissures, midface retrusion, and protruding tongue, all of which are classic hallmarks of Down Syndrome. High myopia and visual impairment are also common ocular findings. While choroid plexus villous hypertrophy causing hydrocephalus is not a typical defining feature, hydrocephalus itself can occur in Down Syndrome due to various reasons, and it's plausible for this specific cause to be a rare or under-documented association. The comprehensive match of the majority of the features outweighs this single atypical finding for initial consideration."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.5,
+      "explanation": "Aicardi Syndrome aligns well with several critical features, including intellectual disability, global developmental delay, visual impairment (often due to chorioretinal lacunae), and hydrocephalus. While 'villous hypertrophy of choroid plexus' is not a primary diagnostic criterion, choroid plexus cysts and papillomas have been reported in Aicardi Syndrome, suggesting a potential underlying mechanism for hydrocephalus that could be consistent with this finding. The main discrepancies are the less specific match for the described facial features and the absence of other hallmark features like infantile spasms and agenesis of the corpus callosum in the provided data."
+    },
+    {
+      "disease_name": "L1 Syndrome",
+      "disease_id": "OMIM:307000",
+      "score": 0.3333333333333333,
+      "explanation": "L1 Syndrome (L1CAM-related hydrocephalus) is a strong consideration given the presence of hydrocephalus and intellectual disability/global developmental delay, which are core features of this X-linked condition. Visual impairment can also be associated. However, the specific cause of hydrocephalus (villous hypertrophy of choroid plexus) is not a typical mechanism described for L1CAM, nor are the characteristic facial features like upslanted palpebral fissures, midface retrusion, and protruding tongue, or high myopia. Additionally, hallmark features of L1 Syndrome such as adducted thumbs are not mentioned."
+    }
+  ]
+}

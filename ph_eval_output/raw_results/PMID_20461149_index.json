@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fryns Syndrome",
+      "disease_id": "OMIM:229850",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong match, characterized by aplasia cutis congenita, severe ocular anomalies (microphthalmia, iris and retinal coloboma, cataracts, and consequent ultra-low vision), and cleft lip (which can manifest as a median pseudocleft). Conductive hearing impairment and nasolacrimal duct obstruction are also consistent with the broad spectrum of malformations seen in Fryns syndrome. While many cases are lethal in infancy, survival into childhood/adulthood with a severe phenotype is possible."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is an excellent match for the severe ocular features (microphthalmia, iris/retinal coloboma, cataract, ultra-low vision, nasolacrimal duct obstruction) and conductive hearing impairment, which are core diagnostic criteria. However, aplasia cutis congenita and median pseudocleft lip are not typical features of CHARGE syndrome, significantly reducing its overall fit, although cleft lip/palate can occur in some cases."
+    },
+    {
+      "disease_name": "Adams-Oliver Syndrome 1",
+      "disease_id": "OMIM:100300",
+      "score": 0.3333333333333333,
+      "explanation": "Adams-Oliver Syndrome is primarily characterized by aplasia cutis congenita, which is a key feature in the patient. While ocular anomalies such as microphthalmia, coloboma, and cataract can occur, they are less consistent and severe than in Fryns or CHARGE syndromes. Median pseudocleft lip and specific conductive hearing impairment are not typical features of Adams-Oliver syndrome, making it a less comprehensive fit despite the strong match for aplasia cutis congenita. We are listing the specific subtypes to address the prompt's request."
+    },
+    {
+      "disease_name": "Adams-Oliver Syndrome 2",
+      "disease_id": "OMIM:614219",
+      "score": 0.3333333333333333,
+      "explanation": "Adams-Oliver Syndrome is primarily characterized by aplasia cutis congenita, which is a key feature in the patient. While ocular anomalies such as microphthalmia, coloboma, and cataract can occur, they are less consistent and severe than in Fryns or CHARGE syndromes. Median pseudocleft lip and specific conductive hearing impairment are not typical features of Adams-Oliver syndrome, making it a less comprehensive fit despite the strong match for aplasia cutis congenita. We are listing the specific subtypes to address the prompt's request."
+    },
+    {
+      "disease_name": "Adams-Oliver Syndrome 3",
+      "disease_id": "OMIM:616028",
+      "score": 0.3333333333333333,
+      "explanation": "Adams-Oliver Syndrome is primarily characterized by aplasia cutis congenita, which is a key feature in the patient. While ocular anomalies such as microphthalmia, coloboma, and cataract can occur, they are less consistent and severe than in Fryns or CHARGE syndromes. Median pseudocleft lip and specific conductive hearing impairment are not typical features of Adams-Oliver syndrome, making it a less comprehensive fit despite the strong match for aplasia cutis congenita. We are listing the specific subtypes to address the prompt's request."
+    },
+    {
+      "disease_name": "Adams-Oliver Syndrome 4",
+      "disease_id": "OMIM:617195",
+      "score": 0.3333333333333333,
+      "explanation": "Adams-Oliver Syndrome is primarily characterized by aplasia cutis congenita, which is a key feature in the patient. While ocular anomalies such as microphthalmia, coloboma, and cataract can occur, they are less consistent and severe than in Fryns or CHARGE syndromes. Median pseudocleft lip and specific conductive hearing impairment are not typical features of Adams-Oliver syndrome, making it a less comprehensive fit despite the strong match for aplasia cutis congenita. We are listing the specific subtypes to address the prompt's request."
+    },
+    {
+      "disease_name": "Adams-Oliver Syndrome 5",
+      "disease_id": "OMIM:617931",
+      "score": 0.3333333333333333,
+      "explanation": "Adams-Oliver Syndrome is primarily characterized by aplasia cutis congenita, which is a key feature in the patient. While ocular anomalies such as microphthalmia, coloboma, and cataract can occur, they are less consistent and severe than in Fryns or CHARGE syndromes. Median pseudocleft lip and specific conductive hearing impairment are not typical features of Adams-Oliver syndrome, making it a less comprehensive fit despite the strong match for aplasia cutis congenita. We are listing the specific subtypes to address the prompt's request."
+    }
+  ]
+}

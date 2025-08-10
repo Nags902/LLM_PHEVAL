@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type A",
+      "disease_id": "OMIM:248370",
+      "score": 1.0,
+      "explanation": "This syndrome, caused by LMNA gene mutations, provides the most comprehensive explanation for the patient's diverse symptoms. It characteristically features lipodystrophy (reduced subcutaneous adipose tissue, prominent superficial blood vessels), progeroid traits (short stature, failure to thrive, alopecia, mottled pigmentation), and craniofacial anomalies (micrognathia, proptosis, high palate). Crucially, LMNA-related disorders are strongly associated with cardiac conduction defects, including prolonged QT interval, and skeletal abnormalities like reduced bone mineral density. The specific dental anomalies (delayed eruption of teeth, shark teeth) also align well with the syndrome's description of dental crowding and abnormal tooth development."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type B",
+      "disease_id": "OMIM:608612",
+      "score": 0.5,
+      "explanation": "Mandibuloacral Dysplasia Type B, caused by ZMPSTE24 gene mutations, presents with a very similar phenotype to Type A, including severe lipodystrophy, progeroid features, mandibular hypoplasia (micrognathia), and acral osteolysis. Many of the patient's craniofacial, growth, and body composition features are consistent. While LMNA mutations are more classically linked to primary cardiac conduction defects, some forms of MAD, including Type B, can involve cardiac abnormalities. It remains a strong candidate given the broad phenotypic overlap."
+    },
+    {
+      "disease_name": "Hutchinson-Gilford Progeria Syndrome",
+      "disease_id": "OMIM:176670",
+      "score": 0.3333,
+      "explanation": "Hutchinson-Gilford Progeria Syndrome shares significant overlap with the patient's progeroid features, such as severe lipodystrophy, short stature, alopecia, prominent scalp veins, micrognathia, and proptosis (due to shallow orbits). Dental anomalies like delayed eruption are also common. However, the primary cardiac pathology in HGPS is accelerated atherosclerosis leading to heart failure, and prolonged QT interval is not a typical or defining diagnostic feature, making it a slightly less precise fit for the full constellation of symptoms, especially the specific cardiac finding."
+    },
+    {
+      "disease_name": "Familial Partial Lipodystrophy, Type 2",
+      "disease_id": "OMIM:151660",
+      "score": 0.25,
+      "explanation": "This is another LMNA-related disorder characterized by partial lipodystrophy, metabolic complications (e.g., insulin resistance), and a propensity for cardiac conduction abnormalities, including prolonged QT interval, which matches a key finding. While it explains the cardiac and lipodystrophy aspects, the generalized nature of the patient's lipodystrophy (implied by 'reduced subcutaneous adipose tissue'), and the extensive and specific constellation of progeroid, craniofacial, and dental anomalies (proptosis, shark teeth, ankyloglossia) are more comprehensively explained by Mandibuloacral Dysplasia."
+    },
+    {
+      "disease_name": "Long QT Syndrome, Type 1",
+      "disease_id": "OMIM:192500",
+      "score": 0.2,
+      "explanation": "While the patient's prolonged QT interval is a critical finding and the hallmark of Long QT Syndromes, these are primarily cardiac channelopathies. They do not account for the extensive and specific multi-system involvement observed in the patient, particularly the distinct lipodystrophy, progeroid features, craniofacial dysmorphism, or dental anomalies. Therefore, an isolated Long QT Syndrome is unlikely as the primary underlying diagnosis, though it highlights a key component of a broader syndromic diagnosis like Mandibuloacral Dysplasia."
+    }
+  ]
+}

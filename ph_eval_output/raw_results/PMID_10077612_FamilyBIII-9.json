@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "This syndrome is classically characterized by the combination of radial ray limb malformations (including hypoplasia of the radius and abnormal carpal morphology) and congenital heart defects (including atrial septal defects and cardiac conduction abnormalities), perfectly matching all presented phenotypic features."
+    },
+    {
+      "disease_name": "Townes-Brocks Syndrome",
+      "disease_id": "OMIM:107480",
+      "score": 0.5,
+      "explanation": "Townes-Brocks Syndrome presents with a spectrum of anomalies including limb malformations (often involving thumbs and radial ray, consistent with radial hypoplasia and carpal abnormalities) and congenital heart defects (such as atrial septal defects and conduction abnormalities). While imperforate anus is a classic feature, its absence does not exclude the diagnosis given the strong limb and cardiac overlap."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Type A",
+      "disease_id": "OMIM:227650",
+      "score": 0.33,
+      "explanation": "Fanconi Anemia is a genetic disorder primarily associated with bone marrow failure, but it can also manifest with radial ray defects (e.g., hypoplastic thumbs, absent radii) and various congenital anomalies, including heart defects (such as ASD). While the limb and cardiac features are present, other defining features of Fanconi Anemia (like hematological issues or characteristic skin pigmentation) are not mentioned, making it a less specific fit than Holt-Oram Syndrome but still a possibility."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:192350",
+      "score": 0.25,
+      "explanation": "VACTERL association describes a non-random co-occurrence of congenital malformations involving multiple organ systems, including Vertebral, Anorectal, Cardiac, Tracheo-Esophageal, Renal, and Limb anomalies. The presence of both cardiac defects (atrial septal defect, conduction abnormality) and radial ray limb defects (hypoplasia of radius, abnormal carpal morphology) aligns with two major components of this association, making it a potential, albeit broader, diagnostic consideration."
+    }
+  ]
+}

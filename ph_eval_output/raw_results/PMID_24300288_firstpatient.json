@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mucolipidosis II Alpha/Beta",
+      "disease_id": "OMIM:252500",
+      "score": 1.0,
+      "explanation": "This patient's constellation of severe skeletal dysplasia (including beaking of vertebral bodies, platyspondyly, short metacarpals/metatarsals, hypoplastic iliac wing, flat acetabular roof, genu valgum, lumbar hyperlordosis, scoliosis, rhizomelia), coarse facial features (coarse facies, short neck, wide mouth, smooth philtrum), profound intellectual disability, and absent speech is highly characteristic of Mucolipidosis II Alpha/Beta (I-cell disease). This condition closely phenocopies Hurler syndrome (MPS IH) but is often more severe in its skeletal manifestations at a younger age. The presence of 'fine hair' is a somewhat atypical feature for typical mucopolysaccharidoses but may be more consistent or less contradictory in Mucolipidosis II than in classical MPS I, and does not rule out this strong candidate."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I, Hurler Syndrome",
+      "disease_id": "OMIM:607014",
+      "score": 0.5,
+      "explanation": "Hurler Syndrome is a strong candidate given the extensive and progressive dysostosis multiplex (beaking of vertebral bodies, platyspondyly, short metacarpals/metatarsals, hypoplastic iliac wing, flat acetabular roof, genu valgum, lumbar hyperlordosis, scoliosis, rhizomelia), prominent coarse facial features (coarse facies, short neck, wide mouth, thick oral frenulum), severe intellectual disability, and absent speech. These features collectively form the classic presentation of Hurler syndrome. The 'fine hair' is the primary atypical feature, as patients with Hurler syndrome often exhibit coarse hair or hirsutism, but other features align very well."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type II, Severe Form (Hunter Syndrome)",
+      "disease_id": "OMIM:309900",
+      "score": 0.3333333333333333,
+      "explanation": "Hunter Syndrome, particularly the severe form, shares many phenotypic overlaps with Hurler syndrome and Mucolipidosis II, including dysostosis multiplex (beaking, platyspondyly, short bones, hip abnormalities), coarse facial features, short stature, waddling gait, intellectual disability, and absent speech. As an X-linked disorder, it is a significant consideration. Similar to MPS I, the 'fine hair' is an unusual finding, but the overall clinical picture remains highly suggestive of a lysosomal storage disorder."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type VII (Sly Syndrome)",
+      "disease_id": "OMIM:253220",
+      "score": 0.25,
+      "explanation": "Sly Syndrome is another lysosomal storage disorder that presents with a wide spectrum of clinical features, including dysostosis multiplex (platyspondyly, beaking, skeletal deformities), coarse facial features, intellectual disability, and short stature. The specific combination of skeletal, facial, and neurological findings aligns with the general characteristics of severe MPS types. While less common than MPS I or II, it is a plausible diagnosis within the spectrum of lysosomal storage disorders causing this phenotype."
+    }
+  ]
+}

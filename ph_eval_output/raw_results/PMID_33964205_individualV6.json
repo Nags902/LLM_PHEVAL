@@ -1,0 +1,76 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Usher Syndrome",
+      "disease_id": "Various, see subtypes",
+      "score": 1.0,
+      "explanation": "Usher Syndrome is a leading cause of combined sensorineural hearing impairment and progressive vision loss (retinitis pigmentosa). Profound sensorineural hearing impairment is typically congenital or early-onset, directly leading to delayed speech and language development if not addressed through early intervention. The multiple genetic subtypes (Type 1, 2, and 3) cover a wide spectrum of SNHL severity and onset, making it a highly probable diagnosis for a patient presenting with these two key features."
+    },
+    {
+      "disease_name": "Usher syndrome, type 1B",
+      "disease_id": "OMIM:276900",
+      "score": 1.0,
+      "explanation": "A subtype of Usher Syndrome, caused by mutations in MYO7A, typically presents with profound congenital SNHL, vestibular dysfunction, and prepubertal onset retinitis pigmentosa. Delayed speech is a direct consequence of the early and severe hearing loss."
+    },
+    {
+      "disease_name": "Usher syndrome, type 2A",
+      "disease_id": "OMIM:276901",
+      "score": 1.0,
+      "explanation": "A subtype of Usher Syndrome, caused by mutations in USH2A, presenting with moderate to severe SNHL (often congenital or early-onset), intact vestibular function, and later-onset retinitis pigmentosa. Delayed speech is a direct consequence of the hearing impairment."
+    },
+    {
+      "disease_name": "Usher syndrome, type 3A",
+      "disease_id": "OMIM:276902",
+      "score": 1.0,
+      "explanation": "A subtype of Usher Syndrome, caused by mutations in CLRN1, characterized by progressive SNHL, variable vestibular dysfunction, and later-onset retinitis pigmentosa. The progressive nature of SNHL contributes to speech and language difficulties."
+    },
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome is a complex genetic syndrome where sensorineural hearing impairment is highly prevalent and often severe, frequently involving specific inner ear malformations. Global developmental delay, including significant speech and language delay, is also a core feature of the syndrome due to both the hearing loss and central nervous system involvement, making the co-occurrence of these two phenotypes highly likely."
+    },
+    {
+      "disease_name": "Pendred syndrome",
+      "disease_id": "OMIM:226200",
+      "score": 0.33,
+      "explanation": "Pendred syndrome is characterized by congenital or early-onset sensorineural hearing impairment (often severe to profound) and, typically, euthyroid goiter which may develop later in life. The delayed speech and language development is a direct consequence of the significant hearing loss."
+    },
+    {
+      "disease_name": "Perrault syndrome",
+      "disease_id": "Various, see subtypes",
+      "score": 0.25,
+      "explanation": "Perrault syndrome is defined by sensorineural hearing impairment and ovarian dysfunction (primary ovarian insufficiency or dysgenesis) in females. Given the patient's gender, this condition is particularly relevant. Delayed speech and language development is a direct consequence of the sensorineural hearing loss."
+    },
+    {
+      "disease_name": "Perrault syndrome 1",
+      "disease_id": "OMIM:233400",
+      "score": 0.25,
+      "explanation": "A subtype of Perrault syndrome caused by mutations in HSD17B4, characterized by SNHL and primary ovarian insufficiency in affected females. Delayed speech and language development results from the hearing loss."
+    },
+    {
+      "disease_name": "Perrault syndrome 3",
+      "disease_id": "OMIM:613916",
+      "score": 0.25,
+      "explanation": "A subtype of Perrault syndrome caused by mutations in LARS2, also presenting with SNHL and primary ovarian insufficiency in females. Delayed speech and language development is a consequence of the hearing loss."
+    },
+    {
+      "disease_name": "Mitochondrial Deafness and Syndromes",
+      "disease_id": "Various, see subtypes",
+      "score": 0.2,
+      "explanation": "Various mitochondrial conditions can cause sensorineural hearing impairment, either as an isolated feature or as part of a broader syndromic presentation. Many mitochondrial disorders also involve global developmental delay and neurological issues, leading to significant speech and language impairment in addition to the SNHL."
+    },
+    {
+      "disease_name": "Deafness, mitochondrial, MT-RNR1-related",
+      "disease_id": "OMIM:500008",
+      "score": 0.2,
+      "explanation": "This specific mitochondrial condition (often m.1555A>G mutation) causes non-syndromic or aminoglycoside-induced sensorineural hearing loss. Profound hearing loss leads directly to delayed speech and language development."
+    },
+    {
+      "disease_name": "MELAS syndrome",
+      "disease_id": "OMIM:540000",
+      "score": 0.2,
+      "explanation": "MELAS (Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes) is a progressive neurodegenerative disorder that commonly includes sensorineural hearing impairment and significant developmental delay, contributing to delayed speech and language development."
+    }
+  ]
+}

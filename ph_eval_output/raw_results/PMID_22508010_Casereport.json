@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia, Mitochondrial, with Epilepsy and Neuropathy",
+      "disease_id": "OMIM:607459",
+      "score": 1.0,
+      "explanation": "This severe mitochondrial disorder, caused by mutations in the *POLG* gene, aligns exceptionally well with the patient's presentation. It is characterized by multiple mitochondrial DNA deletions, peripheral axonal neuropathy, and hyperintensity of cerebral white matter (leukoencephalopathy), which are all key features. The hepatic involvement (steatosis, hepatomegaly) is also consistent with the broad spectrum of *POLG*-related disorders. While epilepsy is a typical feature, the strong concordance of other major symptoms makes this a top candidate."
+    },
+    {
+      "disease_name": "Mitochondrial NeuroGastroIntestinal Encephalomyopathy",
+      "disease_id": "OMIM:603046",
+      "score": 0.5,
+      "explanation": "MNGIE, caused by *TYMP* gene mutations, is a well-established cause of multiple mitochondrial DNA deletions due to impaired mtDNA maintenance. Its classic presentation includes peripheral neuropathy and leukoencephalopathy (consistent with cerebral white matter hyperintensities), both prominent in this patient. The patient's age and chronic neurological findings are highly consistent, although the characteristic gastrointestinal symptoms were not explicitly reported."
+    },
+    {
+      "disease_name": "Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant 2",
+      "disease_id": "OMIM:609286",
+      "score": 0.333,
+      "explanation": "This syndrome, caused by mutations in the *C10orf2* gene (encoding Twinkle helicase), is a common cause of multiple mitochondrial DNA deletions. It typically presents with myopathy and peripheral neuropathy, with central nervous system involvement, including white matter changes, also known to occur. The direct link to multiple mitochondrial DNA deletions and the broad neurological features make it a strong candidate, despite no explicit mention of ophthalmoplegia in the patient's features."
+    },
+    {
+      "disease_name": "Autosomal Recessive Progressive External Ophthalmoplegia 1",
+      "disease_id": "OMIM:258470",
+      "score": 0.25,
+      "explanation": "Also a *POLG*-related disorder, AR-PEO1 is another strong candidate due to its broad phenotypic overlap. It frequently involves progressive external ophthalmoplegia (not explicitly listed but common in such syndromes), myopathy, peripheral neuropathy, and CNS manifestations such as leukoencephalopathy and cerebellar ataxia, alongside systemic features like liver involvement. This diagnosis directly links to the presence of multiple mitochondrial DNA deletions and encompasses many of the patient's key findings."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 8, with Ataxia and Neuropathy",
+      "disease_id": "OMIM:613075",
+      "score": 0.2,
+      "explanation": "Caused by mutations in the *RRM2B* gene, this syndrome is characterized by progressive external ophthalmoplegia, peripheral neuropathy, and ataxia, along with the defining presence of multiple mitochondrial DNA deletions. The alignment with the patient's neurological symptoms and the definitive molecular finding makes this a relevant and plausible candidate, although specific hepatic involvement is less typically a primary feature."
+    }
+  ]
+}

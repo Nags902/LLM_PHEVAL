@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "Bardet-Biedl Syndrome is a ciliopathy characterized by severe intellectual disability and postaxial polydactyly (both hand and foot), which are strong matches for the patient's phenotypic features. While not a primary immunodeficiency, recurrent infections are reported in some patients, possibly due to general health issues, obesity, or subtle immune dysfunction associated with the syndrome. This makes it the strongest candidate given the combination of features."
+    },
+    {
+      "disease_name": "Smith-Lemli-Opitz Syndrome",
+      "disease_id": "OMIM:270400",
+      "score": 0.5,
+      "explanation": "Smith-Lemli-Opitz Syndrome is a metabolic disorder that features severe intellectual disability and recurrent infections, both of which are prominent in this patient. Recurrent infections are a well-documented consequence of the impaired cholesterol synthesis. While polydactyly can occur, syndactyly of toes 2-3 is more characteristic of SLOS, making the fit for the specific 'postaxial hand polydactyly' and 'postaxial foot polydactyly' less precise compared to Bardet-Biedl Syndrome. However, it remains a strong candidate due to the severe ID and recurrent infections."
+    }
+  ]
+}

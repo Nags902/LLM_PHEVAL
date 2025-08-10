@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Microcephaly, primary, autosomal recessive, 1",
+      "disease_id": "OMIM:251200",
+      "score": 1.0,
+      "explanation": "This disease is a genetically heterogeneous neurodevelopmental disorder characterized by severe microcephaly at birth or in early infancy, often accompanied by severe intellectual disability and global developmental delay, including delayed gross motor and speech milestones. It directly matches all the patient's presented phenotypic features: Microcephaly, Delayed gross motor development, Delayed speech and language development, and Intellectual disability."
+    },
+    {
+      "disease_name": "Seckel syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 0.5,
+      "explanation": "Seckel syndrome is a group of rare genetic disorders characterized by severe primordial dwarfism, severe microcephaly, and intellectual disability. Patients typically present with significant global developmental delay, including delayed gross motor and speech development, making it a very strong candidate that aligns well with all the provided features."
+    },
+    {
+      "disease_name": "Alpha-thalassemia mental retardation, X-linked",
+      "disease_id": "OMIM:300063",
+      "score": 0.33,
+      "explanation": "ATR-X syndrome is characterized by severe intellectual disability, microcephaly, characteristic facial features (though not listed), and profound global developmental delay encompassing both motor and speech milestones. Its X-linked inheritance pattern is consistent with the patient's gender (1, typically male)."
+    },
+    {
+      "disease_name": "Cornelia de Lange syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange syndrome is a developmental disorder characterized by intellectual disability, growth retardation, microcephaly, and distinct facial features. Global developmental delay, manifesting as delayed gross motor and speech development, is a hallmark of this condition, matching the patient's profile."
+    },
+    {
+      "disease_name": "Fragile X syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.2,
+      "explanation": "Fragile X syndrome is the most common inherited cause of intellectual disability. Patients commonly present with developmental delays, including delayed speech and language development and delayed gross motor milestones. While microcephaly is not a universal finding, it can be present, and the overall neurodevelopmental profile fits the patient's symptoms. Its X-linked inheritance is also consistent with the patient's gender."
+    }
+  ]
+}

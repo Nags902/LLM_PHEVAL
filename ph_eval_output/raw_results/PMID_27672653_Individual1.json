@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric aciduria type 1",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the strong constellation of features. The presence of 'Elevated urine 3-hydroxyglutaric level' and 'Glutaric aciduria' are the highly specific biochemical hallmarks of Glutaric Aciduria Type 1. The accompanying neurological symptoms including 'Acute encephalopathy', 'Dystonia', 'Inability to walk', 'Absent speech', 'Seizure', and 'Irritability' are classic presentations, often exacerbated during metabolic crises. 'Macrocephaly' and 'Enlarged sylvian cistern' are also highly characteristic imaging and clinical findings. While 'Subdural hemorrhage' is less typical, it can occur in severe cases, potentially due to brain atrophy or vascular fragility."
+    },
+    {
+      "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Also known as Glutaric Aciduria Type 2, this condition is considered a distant second due to the presence of 'Glutaric aciduria' and 'Acute encephalopathy'. However, it is significantly less likely because the specific finding of 'Elevated urine 3-hydroxyglutaric level' is not a primary diagnostic marker for MADD; this metabolite is characteristic of GA1. Additionally, other key features like 'Enlarged sylvian cistern' and 'Macrocephaly' are not typical of MADD, which often presents with a broader spectrum of symptoms including hypoglycemia, acidosis, liver dysfunction, and myopathy/cardiomyopathy, which are not mentioned in the patient's phenotype."
+    }
+  ]
+}

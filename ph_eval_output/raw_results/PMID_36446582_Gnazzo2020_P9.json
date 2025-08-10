@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis as it aligns very well with all the provided phenotypic features. Sotos Syndrome is characterized by intellectual disability, global developmental delay, delayed speech, and a distinctive facial appearance including macrodontia, thick eyebrows, long philtrum, hypertelorism, and a prominent/bulbous nose."
+    },
+    {
+      "disease_name": "Simpson-Golabi-Behmel Syndrome type 1",
+      "disease_id": "OMIM:312870",
+      "score": 0.5,
+      "explanation": "Simpson-Golabi-Behmel Syndrome is a strong candidate due to significant overlap in features such as intellectual disability, global developmental delay, macrodontia, hypertelorism, and coarse facial features that can include thick eyebrows and a prominent/bulbous nose. The long philtrum can be present, though it's less consistently described as a cardinal feature compared to Sotos syndrome."
+    },
+    {
+      "disease_name": "Kabuki Syndrome type 1",
+      "disease_id": "OMIM:147920",
+      "score": 0.33,
+      "explanation": "Kabuki Syndrome shares several features including intellectual disability, global developmental delay, delayed speech, thick eyebrows (prominent and arched are characteristic), long philtrum, and hypertelorism. However, macrodontia is not a typical feature, and the nose is usually described as having a short columella and depressed tip, rather than being bulbous."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome type 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome presents with intellectual disability, global developmental delay, delayed speech, thick eyebrows (often synophrys), and a long philtrum. While these features align, the patient's macrodontia is not a typical finding, and the characteristic nose in CdLS is usually small and upturned, which is a notable mismatch for a bulbous nose."
+    }
+  ]
+}

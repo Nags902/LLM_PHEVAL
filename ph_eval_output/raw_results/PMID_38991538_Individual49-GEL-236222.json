@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "1p36 Deletion Syndrome",
+      "disease_id": "OMIM:607872",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong candidate, encompassing severe intellectual disability, global developmental delay, microcephaly, seizures, and short stature, all prominent features in the patient. Brain anomalies, including cavum septum pellucidum, are frequently reported in 1p36 deletion syndrome. While characteristic facial features include deep-set eyes and a pointed chin, a prominent metopic ridge and high forehead can also be observed, aligning well with the patient's description. Gastroesophageal reflux is also a known associated feature, further supporting this diagnosis."
+    },
+    {
+      "disease_name": "Microcephaly 10 with or without chorioretinopathy, lymphedema, or intellectual disability (KIF11-related)",
+      "disease_id": "OMIM:613160",
+      "score": 0.5,
+      "explanation": "KIF11-related microcephaly is a strong contender due to the core features of microcephaly, intellectual disability, global developmental delay, and seizures, all present in the patient. Notably, descriptions of individuals with KIF11 mutations often include a prominent forehead and metopic ridging, which directly match the patient's high forehead and prominent metopic ridge. Short stature and gastroesophageal reflux can also be present. While cavum septum pellucidum is not a defining feature, various structural brain anomalies can occur in this disorder, making its presence plausible."
+    },
+    {
+      "disease_name": "Wolf-Hirschhorn Syndrome",
+      "disease_id": "OMIM:194190",
+      "score": 0.33,
+      "explanation": "Wolf-Hirschhorn Syndrome, caused by a deletion on 4p, is characterized by severe developmental delay, intellectual disability, microcephaly, seizures, and growth retardation (short stature), all observed in the patient. The classic 'Greek warrior helmet' facies includes a prominent glabella and high forehead, which aligns with the patient's prominent metopic ridge and high forehead. Gastroesophageal reflux is also reported. While a short philtrum is typical, a tented philtrum might be a less common presentation. Other brain anomalies are common, but a cavum septum pellucidum is not a specifically highlighted finding."
+    }
+  ]
+}

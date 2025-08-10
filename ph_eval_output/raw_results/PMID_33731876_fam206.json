@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability and the leading monogenic cause of autism spectrum disorder (ASD). A high percentage of individuals with FXS meet the diagnostic criteria for ASD, making it a primary consideration when autism is the sole presenting feature."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.5,
+      "explanation": "Tuberous Sclerosis Complex (TSC) is a neurodevelopmental disorder strongly associated with autism spectrum disorder, affecting up to 50% of individuals. Mutations in TSC2 are generally linked to a higher frequency and often more severe manifestation of autism compared to TSC1 mutations, making it a highly relevant candidate."
+    },
+    {
+      "disease_name": "Chromosome 15q11.2-q13.1 Duplication Syndrome, Isodicentric",
+      "disease_id": "OMIM:608636",
+      "score": 0.333,
+      "explanation": "Duplication of the 15q11.2-q13.1 region, particularly the isodicentric form, is one of the most common recurrent genomic disorders causing autism spectrum disorder, often accompanied by intellectual disability and epilepsy. It is a well-established genetic cause of ASD."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome (Cowden Syndrome type)",
+      "disease_id": "OMIM:158350",
+      "score": 0.25,
+      "explanation": "PTEN Hamartoma Tumor Syndrome, which includes Cowden Syndrome, is associated with a significantly increased risk of autism spectrum disorder, particularly in individuals with macrocephaly. Mutations in PTEN are increasingly recognized as a cause of syndromic autism."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300673",
+      "score": 0.2,
+      "explanation": "MECP2 Duplication Syndrome primarily affects males and is characterized by severe intellectual disability, recurrent infections, epilepsy, and prominent features of autism spectrum disorder, often with regression. Given that gender is not specified, this is a relevant consideration for severe forms of ASD."
+    }
+  ]
+}

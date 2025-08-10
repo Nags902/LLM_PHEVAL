@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "18q Deletion Syndrome",
+      "disease_id": "OMIM:601808",
+      "score": 1.0,
+      "explanation": "This syndrome is the most comprehensive fit for the patient's presentation. It frequently includes severe intellectual disability, short stature (often due to growth hormone deficiency), brain atrophy, cerebellar atrophy, and crucially, CNS hypomyelination due to the deletion of the MBP gene on 18q. Seizures, including various types and epileptic encephalopathies like infantile spasms with hypsarrhythmia, are commonly reported. Precocious puberty, while not universal, has been documented in individuals with 18q deletions, aligning with the patient's endocrine features. Hemiparesis and spasticity are also consistent with the diffuse neurological involvement."
+    },
+    {
+      "disease_name": "Hypomyelination with Atrophy of the Basal Ganglia and Cerebellum (H-ABC)",
+      "disease_id": "OMIM:612403",
+      "score": 0.5,
+      "explanation": "H-ABC, caused by mutations in TUBB4A, is an excellent match for the core neurological features: CNS hypomyelination, brain atrophy, cerebellar atrophy, severe intellectual disability, spasticity, and the presence of seizures. However, the unique non-neurological features of precocious puberty and short stature are not characteristic of H-ABC, which lowers its rank compared to 18q deletion syndrome."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.33,
+      "explanation": "MECP2 Duplication Syndrome is a severe X-linked neurodevelopmental disorder that typically presents in males with profound intellectual disability, severe epilepsy (often including infantile spasms and tonic-clonic seizures), spasticity, and brain atrophy. While it matches many of the severe neurological features, CNS hypomyelination is not a primary or hallmark finding, and the associated endocrine features of precocious puberty and short stature are not characteristic of this syndrome."
+    },
+    {
+      "disease_name": "Leukoencephalopathy with Vanishing White Matter",
+      "disease_id": "OMIM:603896",
+      "score": 0.25,
+      "explanation": "Vanishing White Matter Disease (VWMD) is a progressive leukodystrophy characterized by chronic neurological deterioration with episodes of rapid decline following minor head trauma or stress. Key features include CNS hypomyelination/white matter loss, brain atrophy, cerebellar atrophy, spasticity, intellectual disability, and seizures. While it aligns well with many neurological and imaging findings, it does not typically present with precocious puberty or prominent short stature, which are significant features in this patient."
+    },
+    {
+      "disease_name": "Multiple Sulfatase Deficiency",
+      "disease_id": "OMIM:272200",
+      "score": 0.2,
+      "explanation": "Multiple Sulfatase Deficiency (MSD) is a rare lysosomal storage disorder that combines features of several sulfatase deficiencies, leading to progressive neurodegeneration. It can present with severe intellectual disability, seizures, spasticity, and central nervous system white matter changes resembling hypomyelination or demyelination, along with brain atrophy. Short stature can be present, but precocious puberty is not a typical feature of MSD, and the specific pattern of epileptic encephalopathy (infantile spasms, hypsarrhythmia) might be less consistently observed as the primary seizure type compared to other conditions listed."
+    }
+  ]
+}

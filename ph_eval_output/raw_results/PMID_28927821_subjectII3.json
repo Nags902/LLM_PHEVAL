@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:607890",
+      "score": 1.0,
+      "explanation": "This diagnosis strongly aligns with all presented features: B lymphocytopenia, impaired class-switched memory B cells, hypogammaglobulinemia (low IgA, low IgM), decreased specific antibody responses, and recurrent sinusitis. CVID is a highly heterogeneous primary immunodeficiency often diagnosed in adolescence or adulthood, characterized by defective B cell maturation and antibody production."
+    },
+    {
+      "disease_name": "X-linked Agammaglobulinemia",
+      "disease_id": "OMIM:300755",
+      "score": 0.5,
+      "explanation": "XLA involves severe B lymphocytopenia and profound hypogammaglobulinemia (including IgA and IgM deficiency), leading to recurrent infections like sinusitis and impaired vaccine responses. While typically presenting in early childhood with near-absent B cells, 'B lymphocytopenia' might encompass very low B cell numbers, and delayed diagnosis or milder variants are possible, especially given the presumed male gender."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency 3 (due to TNFRSF13B deficiency)",
+      "disease_id": "OMIM:604975",
+      "score": 0.333,
+      "explanation": "Deficiency in TNFRSF13B (TACI) is a common genetic cause of CVID, characterized by impaired B cell development and differentiation, leading to hypogammaglobulinemia, impaired class-switched memory B cells, and increased susceptibility to infections. This specific genetic subtype directly explains the key B cell and antibody defects observed."
+    },
+    {
+      "disease_name": "Immunodeficiency, Common Variable, 7 (due to CD19 deficiency)",
+      "disease_id": "OMIM:613470",
+      "score": 0.25,
+      "explanation": "Deficiency of CD19, a key B cell co-receptor, leads to marked B lymphocytopenia and severe hypogammaglobulinemia. This would explain recurrent infections, low IgA and IgM, and impaired specific antibody responses. The 'decreased proportion of class-switched memory B cells' would be a direct consequence of the profound reduction in B cell numbers and functional impairment."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Seckel Syndrome 1",
+      "disease_id": "OMIM:210600",
+      "score": 1.0,
+      "explanation": "Seckel Syndrome 1 (ATR-related) is a classic form of primordial dwarfism characterized by severe pre- and postnatal growth restriction (short stature), marked microcephaly, and intellectual disability, perfectly aligning with all the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Seckel Syndrome 2",
+      "disease_id": "OMIM:606789",
+      "score": 0.5,
+      "explanation": "Seckel Syndrome 2 (RBBP8-related) similarly presents with the core features of short stature, microcephaly, and intellectual disability, making it a highly relevant differential diagnosis given the patient's phenotype."
+    },
+    {
+      "disease_name": "Majewski Osteodysplastic Primordial Dwarfism Type II (MOPD II)",
+      "disease_id": "OMIM:210720",
+      "score": 0.333,
+      "explanation": "MOPD II is a well-defined syndrome of extreme primordial dwarfism, precisely characterized by severe short stature, marked microcephaly, and intellectual disability, which are the defining features of this patient."
+    },
+    {
+      "disease_name": "Meier-Gorlin Syndrome 1",
+      "disease_id": "OMIM:613800",
+      "score": 0.25,
+      "explanation": "Meier-Gorlin Syndrome 1 (ORC1-related) is a primordial dwarfism syndrome often presenting with short stature, microcephaly, and intellectual disability, along with characteristic microtia, making it a strong candidate for the patient's symptoms."
+    },
+    {
+      "disease_name": "Meier-Gorlin Syndrome 4",
+      "disease_id": "OMIM:613803",
+      "score": 0.2,
+      "explanation": "Meier-Gorlin Syndrome 4 (CDT1-related) shares the core features of short stature, microcephaly, and intellectual disability observed in the patient, supporting its inclusion as a likely causative disease."
+    },
+    {
+      "disease_name": "Cockayne Syndrome Type B",
+      "disease_id": "OMIM:133540",
+      "score": 0.166,
+      "explanation": "Cockayne Syndrome Type B (ERCC6-related) is characterized by progressive neurological dysfunction, short stature, microcephaly, and intellectual disability, fitting the patient's primary phenotypic features."
+    },
+    {
+      "disease_name": "Dubowitz Syndrome",
+      "disease_id": "OMIM:223370",
+      "score": 0.142,
+      "explanation": "Dubowitz Syndrome typically involves short stature, microcephaly, and intellectual disability, along with other variable features, making it a relevant consideration for the patient's clinical presentation."
+    }
+  ]
+}

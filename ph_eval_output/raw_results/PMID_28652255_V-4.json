@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Abetalipoproteinemia",
+      "disease_id": "OMIM:200720",
+      "score": 1.0,
+      "explanation": "This disease is the most likely candidate as it comprehensively explains the patient's constellation of symptoms. Abetalipoproteinemia leads to severe malabsorption of fat-soluble vitamins (especially vitamin E), causing progressive neurological degeneration. This perfectly accounts for the ataxia, hyporeflexia (due to peripheral neuropathy), dysarthria, and extrapyramidal features like athetosis. Ocular involvement, including ophthalmoplegia, can manifest as supranuclear gaze palsy. Crucially, the severe malabsorption and resulting malnutrition directly lead to hypoalbuminemia, making this a highly cohesive diagnosis."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease, Type C1",
+      "disease_id": "OMIM:607625",
+      "score": 0.5,
+      "explanation": "Niemann-Pick Disease Type C1 is a strong second candidate, primarily due to the classic neurological triad of progressive ataxia, dysarthria, and a hallmark vertical supranuclear gaze palsy. Athetosis and dystonia are also common neurological features. While hepatosplenomegaly and liver involvement are frequent in NPC, hypoalbuminemia is not a direct or primary metabolic consequence. However, it could potentially occur in cases with significant liver dysfunction or systemic involvement, making it a plausible, albeit less direct, fit for this specific systemic symptom."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease, Type C2",
+      "disease_id": "OMIM:607880",
+      "score": 0.3333333333333333,
+      "explanation": "Similar to Niemann-Pick Disease Type C1, Type C2 shares the characteristic neurological features including ataxia, dysarthria, a prominent vertical supranuclear gaze palsy, and athetosis/dystonia. The distinction between NPC1 and NPC2 often requires specific genetic testing. The explanation for its fit and the less direct link to hypoalbuminemia remains consistent with Niemann-Pick Disease Type C1."
+    },
+    {
+      "disease_name": "Wilson Disease",
+      "disease_id": "OMIM:277900",
+      "score": 0.25,
+      "explanation": "Wilson disease is a plausible consideration due to its common neurological manifestations, which include ataxia, dysarthria, and prominent extrapyramidal symptoms such as dystonia and athetosis. Hypoalbuminemia is also a frequent finding resulting from chronic liver disease (cirrhosis or failure) caused by copper accumulation. However, supranuclear gaze palsy is not a typical or classic feature of Wilson disease, although other oculomotor abnormalities can occur. This makes it a slightly less precise fit for that specific phenotypic element compared to Abetalipoproteinemia and Niemann-Pick Disease Type C."
+    }
+  ]
+}

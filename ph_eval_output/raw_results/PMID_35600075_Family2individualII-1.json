@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Genetic Epilepsy with Febrile Seizures Plus, Type 1",
+      "disease_id": "OMIM:604233",
+      "score": 1.0,
+      "explanation": "Febrile seizures are a hallmark initial feature of Genetic Epilepsy with Febrile Seizures Plus (GEFS+), a spectrum of genetic epilepsies. Given that only a historical febrile seizure is reported, a milder manifestation within this spectrum, often associated with the SCN1A gene, is a plausible genetic cause."
+    },
+    {
+      "disease_name": "Benign Familial Infantile Seizures Type 1",
+      "disease_id": "OMIM:601764",
+      "score": 0.5,
+      "explanation": "Benign Familial Infantile Seizures (BFIS) are characterized by seizures, often febrile, beginning in infancy (typically 3-12 months) and are generally benign and self-limiting. This condition aligns well with the isolated historical report of a febrile seizure without other ongoing neurological issues."
+    },
+    {
+      "disease_name": "Dravet Syndrome",
+      "disease_id": "OMIM:607208",
+      "score": 0.333,
+      "explanation": "Dravet Syndrome characteristically begins with prolonged or recurrent febrile seizures in the specified age range (typically within the first year of life). While it typically progresses to more severe seizure types and developmental delay, the initial presentation of febrile seizures makes it a relevant differential, especially given the SCN1A genetic overlap with GEFS+."
+    }
+  ]
+}

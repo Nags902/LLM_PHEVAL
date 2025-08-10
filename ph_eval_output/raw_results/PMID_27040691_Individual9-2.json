@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mucolipidosis II Alpha/Beta",
+      "disease_id": "OMIM:252500",
+      "score": 1.0,
+      "explanation": "This condition is a very strong match, characterized by severe early-onset presentation with coarse facial features, global developmental delay including absent speech and motor delay, hypotonia, marked hirsutism, and skeletal abnormalities (dysostosis multiplex, which can include reduced rib count like 11 pairs of ribs). The specific facial features such as long philtrum, tented upper lip vermilion, and epicanthus are also highly consistent with the progressive coarse appearance."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type I, Hurler Syndrome",
+      "disease_id": "OMIM:607014",
+      "score": 0.5,
+      "explanation": "Hurler syndrome (the severe form of MPS I) aligns very well with all the provided features. It classically presents with coarse facial features, severe global developmental delay (leading to absent speech and motor delay), hypotonia, and hirsutism. Skeletal changes (dysostosis multiplex) are prominent and can encompass various rib anomalies including a reduced number of rib pairs. Epicanthus, long philtrum, and tented upper lip vermilion are also consistent with the overall facial dysmorphology."
+    },
+    {
+      "disease_name": "GM1 Gangliosidosis, Type I (Infantile)",
+      "disease_id": "OMIM:230500",
+      "score": 0.3333333333333333,
+      "explanation": "Infantile GM1 Gangliosidosis is another strong candidate that shares significant phenotypic overlap with Hurler syndrome and Mucolipidosis II. Key features include coarse facial features, severe global developmental delay (affecting speech and motor skills), hypotonia, and common hirsutism. Dysostosis multiplex is characteristic, which can lead to specific rib anomalies such as 11 pairs of ribs. The described facial features also fit the progressive coarse appearance."
+    },
+    {
+      "disease_name": "Fucosidosis",
+      "disease_id": "OMIM:230000",
+      "score": 0.25,
+      "explanation": "Fucosidosis is a lysosomal storage disorder presenting with progressive neurological deterioration, coarse facial features, global developmental delay, hypotonia, and notably, prominent hirsutism. Dysostosis multiplex, which can include rib anomalies like 11 pairs, is also observed. The specific facial features (long philtrum, tented upper lip, epicanthus) align with the overall coarse phenotype."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type II (Hunter Syndrome)",
+      "disease_id": "OMIM:309900",
+      "score": 0.2,
+      "explanation": "Hunter Syndrome shares many features with other mucopolysaccharidoses, including coarse facial features, global developmental delay (which can include absent speech and motor delay), hypotonia, and hirsutism. Dysostosis multiplex with associated rib abnormalities is a common skeletal finding. While very similar to MPS I, the severe cognitive regression described here is slightly more characteristic of Hurler Syndrome or Mucolipidosis II in early childhood, placing Hunter Syndrome slightly lower."
+    },
+    {
+      "disease_name": "Alpha-Mannosidosis",
+      "disease_id": "OMIM:248500",
+      "score": 0.16666666666666666,
+      "explanation": "Alpha-Mannosidosis is a lysosomal storage disorder that presents with coarse facial features, global developmental delay, hypotonia, and skeletal abnormalities (dysostosis multiplex, making 11 pairs of ribs a possibility). However, hirsutism is not as consistently or prominently featured in Alpha-Mannosidosis compared to the higher-ranked conditions, making it a slightly less precise fit for all given features."
+    }
+  ]
+}

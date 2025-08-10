@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "This patient presents with a classic constellation of features highly diagnostic of Neurofibromatosis Type 1. The presence of multiple cafe-au-lait spots, axillary and inguinal freckling (Crowe's sign), plexiform neurofibroma, and glioma are all major diagnostic criteria and common manifestations of NF1. Scoliosis is also a frequently observed skeletal complication. This robust combination of findings makes NF1 the overwhelmingly most likely diagnosis."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius Syndrome (also known as NF1-like syndrome) is considered due to shared pigmentary features such as multiple cafe-au-lait spots and axillary/inguinal freckling. However, a key distinguishing factor is the typical *absence* of neurofibromas (especially plexiform neurofibromas) and gliomas in Legius Syndrome. Since these are prominent features in the patient's presentation, Legius Syndrome is a much less likely diagnosis compared to NF1, but serves as an important differential in the context of pigmentary findings."
+    },
+    {
+      "disease_name": "Constitutional Mismatch Repair Deficiency Syndrome, PMS2-related",
+      "disease_id": "OMIM:609312",
+      "score": 0.333,
+      "explanation": "Constitutional Mismatch Repair Deficiency (CMMRD) syndromes can present with multiple cafe-au-lait spots and an increased risk of various cancers, including brain tumors (glioma). This overlaps with some of the patient's features. However, CMMRD typically lacks plexiform neurofibromas and axillary/inguinal freckling. The specific and extensive combination of all listed features points much more strongly towards Neurofibromatosis Type 1, making CMMRD a distant and less probable diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong fit due to the presence of multiple highly characteristic features including synophrys, depressed nasal bridge, anteverted nares, deep-set eyes, and full cheeks, coupled with significant developmental delays (speech and motor), feeding difficulties, drooling, strabismus, hypermetropia, and anxiety. While 'square face' and maternal diabetes are less typical, the overall constellation of features is highly suggestive. Cornelia de Lange Syndrome is genetically heterogeneous, with mutations in NIPBL (most common), SMC1A, SMC3, RAD21, BRD4, ANKRD11, and HDAC8 genes."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome aligns well with the patient's presentation, especially the combination of developmental delays (speech and motor), deeply set eyes, depressed nasal bridge, and synophrys (often described as thick eyebrows that may meet). Other matching features include feeding difficulties, drooling, anxiety, strabismus, and hypermetropia. While classic fifth digit anomalies are not reported, the craniofacial and neurodevelopmental phenotype is highly consistent. This syndrome is genetically heterogeneous, with mutations in ARID1B (most common), SMARCA4, SMARCB1, SMARCE1, ARID1A, DPF2, PHF6, SMARCC2, and SOX11 genes."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.333,
+      "explanation": "Smith-Magenis Syndrome is a strong candidate, characterized by global developmental delays (speech and motor), distinctive facial features including deep-set eyes and synophrys, strabismus, hypermetropia, feeding difficulties, and drooling. Behavioral issues like anxiety are very typical for this syndrome. Depressed nasal bridge and anteverted nares can also be part of the facial gestalt. The 'square face' feature is less specific to this syndrome, and maternal diabetes is not an associated feature. Smith-Magenis Syndrome is caused by a deletion or mutation of the RAI1 gene."
+    },
+    {
+      "disease_name": "Beckwith-Wiedemann Syndrome",
+      "disease_id": "OMIM:130650",
+      "score": 0.25,
+      "explanation": "Beckwith-Wiedemann Syndrome is included due to the explicit mention of 'maternal diabetes', which is a known risk factor or associated feature, particularly gestational diabetes. While the core phenotypic features of BWS often include overgrowth, macroglossia, and omphalocele (not listed here), some overlapping features like full cheeks, feeding difficulties, and drooling can be present. However, the specific dysmorphic features (synophrys, deep-set eyes, depressed nasal bridge, anteverted nares) and significant developmental delays as presented are not typical for primary BWS, placing it lower in the ranking based on overall phenotypic match."
+    },
+    {
+      "disease_name": "Noonan Syndrome",
+      "disease_id": "OMIM:163950",
+      "score": 0.2,
+      "explanation": "Noonan Syndrome presents with developmental delays (speech and motor), feeding difficulties, strabismus, hypermetropia, and full cheeks, all of which are present in the patient. However, the patient's specific facial features such as synophrys, deeply set eyes, depressed nasal bridge, anteverted nares, and square face are not characteristic of Noonan Syndrome's typical facial gestalt. Maternal diabetes is not an associated feature. Noonan Syndrome is genetically heterogeneous, with various subtypes caused by mutations in genes such as PTPN11 (NS1, OMIM:163950), SOS1 (NS2, OMIM:610163), RAF1 (NS3, OMIM:610164), RIT1 (NS4, OMIM:613706), NRAS (NS5, OMIM:611553), and others, reflecting a Rasopathy spectrum."
+    }
+  ]
+}

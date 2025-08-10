@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "Plexiform neurofibromas are a highly specific and characteristic diagnostic feature of Neurofibromatosis type 1 (NF1). They are present in a significant majority of affected individuals, often from birth or early childhood, and their presence is one of the cardinal diagnostic criteria for NF1."
+    },
+    {
+      "disease_name": "Neurofibromatosis, Type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "While Neurofibromatosis type 2 (NF2) is a related genetic disorder primarily characterized by bilateral vestibular schwannomas, it can involve other peripheral nerve sheath tumors. However, plexiform neurofibromas are not a typical feature of NF2 and are far more indicative of NF1, making this a very low probability differential."
+    },
+    {
+      "disease_name": "Schwannomatosis 1, SMARCB1-Related",
+      "disease_id": "OMIM:615670",
+      "score": 0.33,
+      "explanation": "Schwannomatosis is characterized by multiple non-vestibular schwannomas. Although plexiform neurofibromas are pathologically distinct from schwannomas, both are classified as peripheral nerve sheath tumors. This is considered a remote possibility only if the 'plexiform neurofibroma' diagnosis was atypical or if considering the broader category of nerve-related tumors, despite the low likelihood."
+    },
+    {
+      "disease_name": "Schwannomatosis 2, LZTR1-Related",
+      "disease_id": "OMIM:615671",
+      "score": 0.25,
+      "explanation": "Similar to other forms of schwannomatosis, this condition involves multiple non-vestibular schwannomas. The specific presence of a 'plexiform neurofibroma' makes this diagnosis highly unlikely, as it is a distinct pathological entity from schwannomas. It is included as a very distant differential within the spectrum of peripheral nerve sheath tumors due to the instruction to provide multiple potential diseases."
+    }
+  ]
+}

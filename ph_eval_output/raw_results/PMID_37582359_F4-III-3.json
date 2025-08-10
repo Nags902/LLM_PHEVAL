@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Osteopetrosis, Autosomal Recessive 1",
+      "disease_id": "OMIM:259700",
+      "score": 1.0,
+      "explanation": "This patient's severe skeletal sclerosis, including thickened calvaria, thickened long bone cortices, increased bone mineral density, flared metaphysis, coarse metaphyseal trabecularization, and particularly the characteristic 'sandwich appearance of vertebral bodies', are hallmark features of autosomal recessive osteopetrosis. Global developmental delay, hip dysplasia, hypertelorism, depressed nasal bridge, and relative macrocephaly are also consistent features of severe forms due to diffuse bone overgrowth, potential hydrocephalus, and neurological complications."
+    },
+    {
+      "disease_name": "Osteopetrosis, Autosomal Recessive 2",
+      "disease_id": "OMIM:259720",
+      "score": 0.5,
+      "explanation": "Similar to Osteopetrosis AR1, this form (often due to CLCN7 mutations) presents with profound, diffuse osteosclerosis affecting the calvaria, long bones, and vertebrae with the distinctive 'sandwich appearance'. Associated features like global developmental delay, hip dysplasia, and facial dysmorphism are frequently observed in this severe condition, making it a highly probable diagnosis."
+    },
+    {
+      "disease_name": "Pycnodysostosis",
+      "disease_id": "OMIM:265800",
+      "score": 0.3333333333333333,
+      "explanation": "Pycnodysostosis (CTSK-related) is a strong candidate given the combination of increased bone mineral density, thickened calvaria, depressed nasal bridge, hip dysplasia, and metaphyseal abnormalities (flared metaphysis, coarse trabecularization). While 'sandwich appearance' is less emphasized as a hallmark, diffuse vertebral sclerosis can occur. Global developmental delay and relative macrocephaly can also be features."
+    },
+    {
+      "disease_name": "Osteopetrosis, Autosomal Recessive 7",
+      "disease_id": "OMIM:614381",
+      "score": 0.25,
+      "explanation": "This specific subtype of autosomal recessive osteopetrosis (ATP6V0A2-related) typically presents with bone sclerosis, short stature, and frequently intellectual disability or global developmental delay, making the developmental feature particularly well-matched here. The severe bone features like thickened calvaria, 'sandwich vertebrae', and increased bone density are consistent."
+    },
+    {
+      "disease_name": "Craniodiaphyseal Dysplasia, Autosomal Dominant",
+      "disease_id": "OMIM:122860",
+      "score": 0.2,
+      "explanation": "Craniodiaphyseal dysplasia is characterized by progressive hyperostosis and sclerosis of the skull (thickened calvaria, relative macrocephaly, hypertelorism, depressed nasal bridge) and cortical thickening of long bones, leading to increased bone mineral density. Global developmental delay is common due to cranial nerve compression and increased intracranial pressure. The widespread sclerosis could potentially lead to a 'sandwich appearance' of vertebrae."
+    },
+    {
+      "disease_name": "Dysosteosclerosis",
+      "disease_id": "OMIM:224300",
+      "score": 0.16666666666666666,
+      "explanation": "Dysosteosclerosis is a rare sclerosing bone dysplasia presenting with diffuse osteosclerosis, platyspondyly (which can contribute to a 'sandwich appearance' of vertebral bodies), thickened calvaria, and often intellectual disability/global developmental delay. Increased bone mineral density, hip dysplasia, and thickened long bone cortices are consistent findings."
+    },
+    {
+      "disease_name": "Osteopetrosis, Autosomal Recessive 3",
+      "disease_id": "OMIM:611292",
+      "score": 0.14285714285714285,
+      "explanation": "Another severe form of autosomal recessive osteopetrosis (OSTM1-related) that fully encompasses the patient's comprehensive set of bone sclerosis phenotypes, including the characteristic 'sandwich appearance' of vertebrae, thickened calvaria and long bones, and increased bone mineral density. Global developmental delay and other dysmorphic features are consistent with the progressive nature of the disease."
+    }
+  ]
+}

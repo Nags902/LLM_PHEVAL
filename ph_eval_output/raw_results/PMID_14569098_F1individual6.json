@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Familial Juvenile Hyperuricemic Nephropathy Type 1 (UMOD-Related)",
+      "disease_id": "OMIM:162000",
+      "score": 1.0,
+      "explanation": "This autosomal dominant disorder (also known as Medullary Cystic Kidney Disease Type 1) is characterized by hyperuricemia and gout, often starting in adolescence or early adulthood, followed by progressive tubulointerstitial kidney disease leading to end-stage renal disease. The patient's age (P63Y) and the co-occurrence of gout and Stage 5 CKD are highly consistent with this diagnosis."
+    },
+    {
+      "disease_name": "Partial Hypoxanthine-Guanine Phosphoribosyltransferase Deficiency (Kelley-Seegmiller Syndrome)",
+      "disease_id": "OMIM:300322",
+      "score": 0.5,
+      "explanation": "This X-linked disorder results from a partial deficiency of the HGPRT enzyme, leading to severe hyperuricemia, gout, and kidney disease (including nephrolithiasis and progressive gouty nephropathy eventually causing CKD). Unlike classic Lesch-Nyhan Syndrome, severe neurological symptoms are typically absent, and the onset of symptoms, including end-stage renal disease, can occur later in life, making it a strong candidate for an older male patient with this phenotype."
+    },
+    {
+      "disease_name": "Familial Juvenile Hyperuricemic Nephropathy Type 2 (REN-Related)",
+      "disease_id": "OMIM:609886",
+      "score": 0.333,
+      "explanation": "Similar to FJHN type 1, this autosomal dominant disorder (also known as Medullary Cystic Kidney Disease Type 2) causes hyperuricemia, gout, and progressive chronic kidney disease leading to end-stage renal disease. It presents with a very similar clinical picture to UMOD-related FJHN, fitting the patient's symptoms and age, although it is generally less common than the UMOD-related form."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease Type 1",
+      "disease_id": "OMIM:173900",
+      "score": 0.25,
+      "explanation": "ADPKD1 is the most common inherited kidney disease and a leading cause of end-stage renal disease in adults, consistent with the patient's age. While primarily characterized by renal cysts, gout and hyperuricemia are common complications in ADPKD patients due to impaired renal uric acid excretion, especially as kidney function declines towards Stage 5 CKD."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease Type 2",
+      "disease_id": "OMIM:613095",
+      "score": 0.2,
+      "explanation": "Similar to ADPKD1, ADPKD2 also causes progressive kidney failure leading to end-stage renal disease, though it tends to have a milder phenotype and later onset of renal failure. Hyperuricemia and gout are known comorbidities in ADPKD as kidney function deteriorates, making it a plausible, albeit less specific, cause for the presented symptoms."
+    }
+  ]
+}

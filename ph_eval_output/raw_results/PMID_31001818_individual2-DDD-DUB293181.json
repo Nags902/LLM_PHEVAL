@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome 1 (NSD1-related) is a strong candidate given the combination of macrocephaly, tall stature, mild intellectual disability, motor delay, and prominent supraorbital ridges. Autism, ADHD, sleep disturbances, and seizures are frequently reported neurodevelopmental features in this syndrome. Ventriculomegaly can also be observed."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome (EZH2-related) shares significant phenotypic overlap with Sotos Syndrome, presenting with macrocephaly, tall stature, intellectual disability (often mild to moderate), motor delay, and characteristic facial features including prominent supraorbital ridges. Neurodevelopmental issues such as autism and seizures are also reported, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "PTEN Hamartoma Tumor Syndrome 1",
+      "disease_id": "OMIM:601728",
+      "score": 0.33,
+      "explanation": "PTEN Hamartoma Tumor Syndrome (including conditions like Bannayan-Riley-Ruvalcaba Syndrome) is a leading genetic cause of macrocephaly and is strongly associated with autism spectrum disorder and intellectual disability. Seizures and motor delay are common. While tall stature and prominent supraorbital ridges are less classic features compared to overgrowth syndromes, the core triad of macrocephaly, autism, and intellectual disability fits very well."
+    },
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 0.25,
+      "explanation": "Fragile X Syndrome is a common genetic cause of intellectual disability and autism, frequently presenting with macrocephaly in early childhood, ADHD, motor delay, and seizures. While it explains many of the neurodevelopmental features, it is less typical for prominent tall stature, significant ventriculomegaly, or prominent supraorbital ridges, which makes it a slightly less comprehensive fit for all listed phenotypes compared to the top candidates."
+    }
+  ]
+}

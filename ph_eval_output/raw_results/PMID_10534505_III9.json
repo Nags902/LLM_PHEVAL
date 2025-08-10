@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Amyloidosis, Primary Systemic",
+      "disease_id": "OMIM:105200",
+      "score": 1.0,
+      "explanation": "This is the most common type of systemic amyloidosis (AL amyloidosis), which frequently leads to deposition of amyloid protein in the kidneys and liver, directly causing renal amyloidosis, hepatic amyloidosis, and subsequent renal insufficiency. Anemia is a common associated feature, often due to chronic disease, renal failure, or underlying plasma cell dyscrasia."
+    },
+    {
+      "disease_name": "Familial Mediterranean Fever",
+      "disease_id": "OMIM:249100",
+      "score": 0.5,
+      "explanation": "Familial Mediterranean Fever (FMF) is a common monogenic autoinflammatory disorder that often leads to secondary (AA) amyloidosis. The chronic inflammation in FMF can cause amyloid A protein deposition in organs like the kidneys and liver, resulting in renal amyloidosis, hepatic amyloidosis, renal insufficiency, and anemia."
+    },
+    {
+      "disease_name": "Amyloidosis, Transthyretin Type",
+      "disease_id": "OMIM:104900",
+      "score": 0.33,
+      "explanation": "Hereditary transthyretin (ATTR) amyloidosis is an autosomal dominant disorder caused by mutations in the TTR gene. While often associated with neuropathy and cardiomyopathy, it can also cause significant amyloid deposition in the kidneys and liver, leading to renal amyloidosis, hepatic amyloidosis, renal insufficiency, and anemia."
+    },
+    {
+      "disease_name": "Amyloidosis, Fibrinogen Alpha Chain Type",
+      "disease_id": "OMIM:105410",
+      "score": 0.25,
+      "explanation": "This is a hereditary form of systemic amyloidosis primarily characterized by progressive renal amyloidosis and renal insufficiency due to fibrinogen alpha chain amyloid deposition. Hepatic involvement (hepatic amyloidosis) can also occur, though it is often less prominent than the renal disease. Anemia is a common sequela of chronic kidney disease."
+    }
+  ]
+}

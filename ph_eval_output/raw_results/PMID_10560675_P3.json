@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Primary Ciliary Dyskinesia 1",
+      "disease_id": "OMIM:608644",
+      "score": 1.0,
+      "explanation": "This is a common genetic form of Primary Ciliary Dyskinesia (PCD) that directly causes impaired mucociliary clearance throughout the respiratory tract. This perfectly explains all listed symptoms: chronic sinusitis, chronic bronchitis, chronic rhinitis, and nasal polyposis, due to chronic infections and inflammation from retained mucus."
+    },
+    {
+      "disease_name": "Cystic Fibrosis",
+      "disease_id": "OMIM:219700",
+      "score": 0.5,
+      "explanation": "Cystic Fibrosis is a genetic disorder leading to dysfunctional chloride channels, resulting in thick, sticky mucus. This mucus obstructs airways in both upper and lower respiratory tracts, causing chronic infections, inflammation, and structural changes consistent with chronic sinusitis, chronic bronchitis, chronic rhinitis, and nasal polyposis."
+    },
+    {
+      "disease_name": "Primary Ciliary Dyskinesia 2",
+      "disease_id": "OMIM:610852",
+      "score": 0.333,
+      "explanation": "Another significant genetic subtype of Primary Ciliary Dyskinesia (PCD), sharing the same underlying mechanism of impaired mucociliary clearance as PCD1, and thus comprehensively explaining all the presented chronic respiratory symptoms including sinusitis, bronchitis, rhinitis, and nasal polyposis."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:240500",
+      "score": 0.25,
+      "explanation": "CVID is a primary immunodeficiency characterized by impaired antibody production, leading to recurrent and chronic bacterial infections, particularly in the respiratory tract. This persistent infection and inflammation can cause chronic sinusitis, chronic bronchitis, and chronic rhinitis. Nasal polyposis can develop secondary to severe chronic inflammation."
+    },
+    {
+      "disease_name": "Primary Ciliary Dyskinesia, X-linked",
+      "disease_id": "OMIM:300057",
+      "score": 0.2,
+      "explanation": "This X-linked form of Primary Ciliary Dyskinesia (PCD) is caused by mutations in the RPGR gene, leading to ciliary dysfunction. Like other PCD subtypes, it directly causes the chronic respiratory symptoms of sinusitis, bronchitis, rhinitis, and nasal polyposis due to impaired mucociliary clearance and recurrent infections."
+    },
+    {
+      "disease_name": "Eosinophilic Granulomatosis with Polyangiitis",
+      "disease_id": "OMIM:607567",
+      "score": 0.166,
+      "explanation": "Formerly known as Churg-Strauss syndrome, EGPA is a rare autoimmune vasculitis that frequently presents with severe asthma, chronic rhinosinusitis with nasal polyposis, and pulmonary infiltrates, which can manifest as chronic bronchitis-like symptoms. It fits the upper respiratory features particularly well."
+    }
+  ]
+}

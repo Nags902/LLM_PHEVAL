@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 1 (VRK1-related)",
+      "disease_id": "OMIM:607596",
+      "score": 1.0,
+      "explanation": "This subtype of Pontocerebellar Hypoplasia (PCH) is a strong candidate given the profound global developmental delay, severe hypotonia, intellectual disability, and absent speech. The prominent cerebellar features including truncal ataxia, gait ataxia, limb ataxia, dysmetria, tremor, and broad-based gait are hallmarks of PCH, which involves hypoplasia of the pons and cerebellum. Torticollis can also be observed as part of the neurological picture."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2A (TSEN54-related)",
+      "disease_id": "OMIM:603930",
+      "score": 1.0,
+      "explanation": "PCH type 2A is another very common and severe form of PCH that fits the patient's presentation exceptionally well. It is characterized by profound global developmental delay, severe intellectual disability, hypotonia, absent speech, and a spectrum of cerebellar signs, including truncal, gait, and limb ataxia, dysmetria, tremor, and broad-based gait. The overall severe early-onset neurodevelopmental picture with prominent cerebellar dysfunction aligns perfectly."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.5,
+      "explanation": "PMM2-CDG is the most common subtype of Congenital Disorders of Glycosylation and is a leading cause of early-onset ataxia with developmental delay. Key features include hypotonia, cerebellar ataxia (truncal, gait, limb), dysmetria, tremor, intellectual disability, and global developmental delay. Absent speech is common due to severe developmental impairment, and torticollis has also been reported."
+    },
+    {
+      "disease_name": "Joubert Syndrome Type 1 (AHI1-related)",
+      "disease_id": "OMIM:609583",
+      "score": 0.333,
+      "explanation": "Joubert Syndrome and related disorders are characterized by cerebellar vermis hypoplasia (leading to ataxia), hypotonia, global developmental delay, and intellectual disability. Absent speech is a common feature in affected individuals. The presence of truncal, gait, and limb ataxia, dysmetria, and broad-based gait strongly supports this diagnosis. Torticollis can occur due to associated abnormal eye movements or dystonia."
+    },
+    {
+      "disease_name": "Ataxia-Telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 0.25,
+      "explanation": "Ataxia-Telangiectasia is a progressive neurodegenerative disorder with key features including progressive cerebellar ataxia (truncal, gait, limb), dysmetria, tremor, and intellectual disability. While typically manifesting with ataxia in early childhood, the global developmental delay and absent speech could represent an early or severe presentation. Hypotonia is also common in early stages."
+    },
+    {
+      "disease_name": "Leigh Syndrome (SURF1-related)",
+      "disease_id": "OMIM:256000",
+      "score": 0.2,
+      "explanation": "Leigh Syndrome, a severe mitochondrial encephalomyopathy, often presents in infancy or early childhood with psychomotor delay or regression, hypotonia, and features such as ataxia, dysmetria, and tremor. Global developmental delay, intellectual disability, and absent speech are common. Torticollis can also be a feature as part of the broader neurological dysfunction. SURF1 is one of the most common genetic causes."
+    }
+  ]
+}

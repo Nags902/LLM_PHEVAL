@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth Disease, Axonal Type 2",
+      "disease_id": "OMIM:600882",
+      "score": 1.0,
+      "explanation": "This group of inherited peripheral neuropathies is the most consistent match. The patient's motor axonal neuropathy, lower limb amyotrophy, weakness, unsteady gait, frequent falls, and impaired vibratory sensation are all classic features. CMT2 is characterized by primary axonal degeneration and encompasses numerous genetic subtypes (e.g., MFN2, GJB1, NEFL, GARS, SORD), which typically manifest with distal dominant weakness and sensory loss starting in the lower limbs."
+    },
+    {
+      "disease_name": "Distal Hereditary Motor Neuropathy",
+      "disease_id": "OMIM:182960",
+      "score": 0.5,
+      "explanation": "Distal Hereditary Motor Neuropathy (dHMN) is a group of inherited disorders primarily affecting motor neurons, leading to distal motor axonal neuropathy, lower limb weakness, and amyotrophy, which aligns well with the patient's core motor symptoms. While classically pure motor, some forms can present with mild sensory involvement, which could account for the impaired vibratory sensation."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia 17 (Silver Syndrome)",
+      "disease_id": "OMIM:607941",
+      "score": 0.333,
+      "explanation": "While primarily characterized by spasticity, certain forms of hereditary spastic paraplegia, such as SPG17 (Silver Syndrome) caused by mutations in BSCL2, frequently present with prominent distal muscle wasting, weakness, and an axonal peripheral neuropathy, in addition to gait disturbances. This broadens the differential while still explaining the core features of lower limb involvement and neuropathy."
+    },
+    {
+      "disease_name": "Friedreich Ataxia",
+      "disease_id": "OMIM:229300",
+      "score": 0.25,
+      "explanation": "Friedreich Ataxia is an autosomal recessive neurodegenerative disorder characterized by progressive ataxia, dysarthria, and, importantly, a prominent sensory neuropathy that leads to impaired vibratory sensation and contributes to unsteady gait and falls. While primary motor axonal neuropathy is not the hallmark, motor weakness and amyotrophy can also be present, making it a plausible differential given the sensory loss and gait issues, especially with adult onset presentations."
+    }
+  ]
+}

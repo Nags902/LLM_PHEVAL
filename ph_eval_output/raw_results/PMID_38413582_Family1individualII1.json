@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. The patient's age and gender (P9Y, male), coupled with the classic constellation of progressive proximal muscle weakness (difficulty climbing stairs, Gowers sign), calf muscle pseudohypertrophy, highly elevated creatine kinase, myopathic EMG findings, increased endomysial connective tissue on biopsy, motor delay, unsteady gait, scoliosis, and limb joint contractures, are all highly characteristic of Duchenne Muscular Dystrophy. While pain insensitivity is not a typical feature of DMD, the overwhelming fit of the other core symptoms strongly supports this diagnosis as the primary cause of the myopathy. It could be an unusual concomitant finding or require further investigation."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Becker Muscular Dystrophy is caused by mutations in the same gene as Duchenne Muscular Dystrophy (DMD gene) but typically presents with a milder phenotype and later onset or slower progression. Many of the symptoms, including muscle weakness (proximal/distal/axial), difficulty climbing stairs, Gowers sign, calf pseudohypertrophy, highly elevated CK, myopathic EMG, and muscle pathology (increased endomysial connective tissue), overlap significantly with DMD. Given the patient's age and the severity of symptoms described, BMD is a strong differential, representing a less severe end of the dystrophinopathy spectrum. As with DMD, pain insensitivity is not a common feature."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy type 2D (Alpha-Sarcoglycanopathy)",
+      "disease_id": "OMIM:600119",
+      "score": 0.333,
+      "explanation": "Limb-girdle muscular dystrophies (LGMDs) are a heterogeneous group of genetic disorders characterized by progressive weakness affecting proximal muscles, though distal and axial weakness can also be present. LGMD type 2D, specifically, is a common recessive form that can clinically mimic Duchenne or Becker Muscular Dystrophy, often presenting with calf pseudohypertrophy, highly elevated creatine kinase, Gowers sign, and similar muscle biopsy findings (endomysial connective tissue increase and myopathic changes). The overall pattern of muscle weakness and associated features aligns well with many LGMD subtypes, making this group a strong contender. Pain insensitivity is not a typical feature for LGMDs."
+    }
+  ]
+}

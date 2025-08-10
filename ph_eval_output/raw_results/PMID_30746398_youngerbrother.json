@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple System Atrophy",
+      "disease_id": "OMIM:159400",
+      "score": 1.0,
+      "explanation": "This disease presents with a classic combination of parkinsonism (rigidity, bradykinesia, stooped posture), cerebellar signs (atrophy, positive Romberg), and pyramidal signs (hyperreflexia, Babinski), which are hallmarks of Multiple System Atrophy (MSA), particularly mixed MSA-P (parkinsonian type) and MSA-C (cerebellar type) phenotypes."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3",
+      "disease_id": "OMIM:109150",
+      "score": 0.5,
+      "explanation": "Spinocerebellar Ataxia Type 3 (SCA3), also known as Machado-Joseph Disease, is a common and highly variable polyglutamine disorder. It frequently causes a progressive combination of cerebellar ataxia, parkinsonism, and pyramidal signs, fitting the patient's multifaceted neurological presentation very well."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.333,
+      "explanation": "Spinocerebellar Ataxia Type 2 (SCA2) is another strong candidate that often presents with prominent parkinsonism (bradykinesia, rigidity), cerebellar ataxia (leading to positive Romberg and cerebellar atrophy), and pyramidal signs (hyperreflexia, Babinski), making it a close fit for this complex phenotype."
+    },
+    {
+      "disease_name": "Dentatorubral-pallidoluysian Atrophy",
+      "disease_id": "OMIM:125370",
+      "score": 0.25,
+      "explanation": "Dentatorubral-pallidoluysian Atrophy (DRPLA) is a trinucleotide repeat disorder known for multi-system neurodegeneration. It commonly presents with cerebellar ataxia, parkinsonism, and pyramidal signs, along with other features like myoclonus, aligning with the patient's broad symptom profile."
+    },
+    {
+      "disease_name": "Progressive Supranuclear Palsy 1",
+      "disease_id": "OMIM:601104",
+      "score": 0.2,
+      "explanation": "While primarily associated with atypical parkinsonism and oculomotor dysfunction, Progressive Supranuclear Palsy (PSP) consistently features parkinsonism (rigidity, bradykinesia, stooped posture) and prominent pyramidal signs (hyperreflexia, Babinski). Although cerebellar atrophy is less typical as a primary feature, it can occur in some variants, making it a plausible, albeit less direct, consideration."
+    }
+  ]
+}

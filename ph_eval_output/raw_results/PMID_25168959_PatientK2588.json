@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome (ARID1B-related)",
+      "disease_id": "OMIM:617067",
+      "score": 1.0,
+      "explanation": "This syndrome aligns remarkably well with the patient's comprehensive phenotypic features. Key overlapping characteristics include global developmental delay, intellectual disability, microcephaly, short stature, feeding difficulties, umbilical hernia, and a distinctive set of craniofacial features such as thick eyebrows, long eyelashes, depressed nasal bridge, long philtrum, thin upper lip, and a thick lower lip. Crucially, the presence of sparse scalp hair and abnormal corpus callosum morphology are highly consistent findings in Coffin-Siris Syndrome, particularly in cases linked to ARID1B mutations, which represents a common genetic cause for the syndrome and is strongly associated with brain anomalies."
+    },
+    {
+      "disease_name": "ADNP-related syndrome",
+      "disease_id": "OMIM:616366",
+      "score": 0.5,
+      "explanation": "ADNP-related syndrome is a strong second candidate due to significant overlap in phenotypic features. It commonly presents with global developmental delay, intellectual disability, microcephaly, short stature, feeding difficulties, sparse scalp hair, thick eyebrows, long eyelashes, long philtrum, and thin upper lip. Abnormal corpus callosum morphology and umbilical hernia are also reported in this condition. While sharing many similarities with Coffin-Siris syndrome, some facial features might be subtly different, but it remains a highly relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1 (NIPBL-related)",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) exhibits many features consistent with the patient's presentation, including short stature, intellectual disability, global developmental delay, microcephaly, feeding difficulties, depressed nasal bridge, long philtrum, thin upper lip, thick eyebrows, and long eyelashes. However, certain features are less typical for CdLS, such as the prominent 'sparse scalp hair' (CdLS often has normal or increased hair) and the 'thick lower lip vermilion' (lips are typically thin or normal in CdLS). While abnormal corpus callosum morphology can occur in CdLS, it is less consistently a primary feature compared to Coffin-Siris Syndrome. Other genetic types of CdLS (e.g., SMC1A, SMC3) also share a similar core phenotype."
+    }
+  ]
+}

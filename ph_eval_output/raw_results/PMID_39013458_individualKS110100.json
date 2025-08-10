@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 1.0,
+      "explanation": "This severe progressive neurodegenerative disorder, caused by POLG mutations, aligns well with key features including microcephaly, global developmental delay, intellectual disability, and particularly developmental regression. Feeding difficulties requiring tube feeding and chronic constipation are also common, and motor dysfunction can lead to contractures like talipes equinovarus."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2",
+      "disease_id": "OMIM:603932",
+      "score": 0.5,
+      "explanation": "This group of severe neurodevelopmental disorders frequently presents with microcephaly, profound global developmental delay, intellectual disability, and significant feeding difficulties often necessitating tube feeding. Talipes equinovarus is a very common feature due to severe motor dysfunction and contractures, and developmental regression or lack of progression can occur."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.333,
+      "explanation": "CDKL5 Deficiency Disorder is characterized by severe global developmental delay, intellectual disability, microcephaly, and often developmental regression. Profound feeding difficulties requiring tube feeding and chronic constipation are common. Motor impairments, including spasticity and dystonia, frequently lead to contractures such as talipes equinovarus. While often associated with early-onset epilepsy, the core neurological and physical features are a strong match."
+    },
+    {
+      "disease_name": "MECP2 Duplication Syndrome",
+      "disease_id": "OMIM:300260",
+      "score": 0.25,
+      "explanation": "This X-linked neurodevelopmental disorder primarily affects males and is a strong candidate given the patient's gender and symptoms. It typically involves severe intellectual disability, global developmental delay, microcephaly (often acquired), and can present with developmental regression. Chronic constipation and severe feeding difficulties requiring tube feeding are common, as are motor impairments (spasticity, hypotonia) which can lead to talipes equinovarus."
+    },
+    {
+      "disease_name": "Peroxisomal Biogenesis Disorders, Zellweger Syndrome Spectrum",
+      "disease_id": "OMIM:614859",
+      "score": 0.2,
+      "explanation": "The milder forms of Zellweger Syndrome Spectrum (e.g., Neonatal Adrenoleukodystrophy) can manifest with global developmental delay, intellectual disability, microcephaly, and developmental regression. Feeding difficulties requiring tube feeding are frequent, and hypotonia/spasticity can lead to motor anomalies like talipes equinovarus. Systemic involvement often includes gastrointestinal issues like constipation."
+    }
+  ]
+}

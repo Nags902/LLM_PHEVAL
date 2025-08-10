@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 3, Hepatocerebral Type (DGUOK-related)",
+      "disease_id": "OMIM:612075",
+      "score": 1.0,
+      "explanation": "This disorder presents with severe hepatocerebral disease in infancy, aligning perfectly with the patient's age (P7M), global developmental delay, developmental regression, CNS demyelination, cerebral edema, and failure to thrive. Crucially, it explains the combined decreased activity of mitochondrial complex I, complex IV, and the pyruvate dehydrogenase complex due to a global defect in mitochondrial DNA maintenance. The severe liver involvement is a key feature that can lead to cholestasis and subsequent cholelithiasis. Retinal degeneration and severe cardiac involvement (congestive heart failure, severely reduced left ventricular ejection fraction) are also reported features in severe forms of DGUOK deficiency."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6, Hepatocerebral Type (MPV17-related)",
+      "disease_id": "OMIM:612079",
+      "score": 0.5,
+      "explanation": "Clinically very similar to DGUOK-related MDDS, MPV17 deficiency also presents as a severe hepatocerebral mitochondrial DNA depletion syndrome in infancy. It accounts for the patient's global developmental delay, regression, neurological symptoms (apnea, CNS demyelination, cerebral edema), feeding difficulties, and failure to thrive. The multi-complex mitochondrial enzyme deficiencies (Complex I, Complex IV, and PDH) are consistent with mtDNA depletion. Severe liver involvement (often cholestatic liver disease) readily explains the presence of cholelithiasis, and cardiac involvement can also occur."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.33,
+      "explanation": "Leigh Syndrome is a severe, progressive neurodegenerative disorder of infancy or early childhood, fitting the patient's age (P7M) and core neurological features (global developmental delay, developmental regression, CNS demyelination, cerebral edema, apnea). The presence of decreased activity in mitochondrial complex I, complex IV, and the pyruvate dehydrogenase complex are all common underlying defects in various genetic forms of Leigh syndrome. Cardiac involvement (CHF, reduced LVEF) is also a known feature. While cholelithiasis and retinal degeneration are less typical for all forms of Leigh syndrome, the overall neurological and mitochondrial profile strongly aligns."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase E1-alpha Deficiency (PDHA1-related)",
+      "disease_id": "OMIM:312170",
+      "score": 0.25,
+      "explanation": "This X-linked disorder directly explains the decreased activity of the pyruvate dehydrogenase complex and accounts for many of the neurological and developmental features, including global developmental delay, developmental regression, cerebral edema, CNS demyelination, and feeding difficulties, with an early onset in a male infant. Cardiac involvement can also be present. However, it does not fully explain the co-occurring decreased activity of mitochondrial complex I and complex IV, nor are cholelithiasis or retinal degeneration typical primary features of isolated PDH deficiency. It is considered as a specific enzyme deficiency is noted, but likely part of a broader mitochondrial disorder in this patient."
+    }
+  ]
+}

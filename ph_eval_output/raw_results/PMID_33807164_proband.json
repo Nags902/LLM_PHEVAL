@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Recessive Cutis Laxa Type 1A (FBLN5-related)",
+      "disease_id": "OMIM:219150",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis due to the strong match with core features including generalized cutis laxa, prominent joint hypermobility and hypotonia, failure to thrive, and severe systemic connective tissue fragility manifesting as inguinal hernia, congenital diaphragmatic hernia, and bladder diverticulum. The skin findings (dermal translucency, thin skin, bruising susceptibility, blepharochalasis) and facial dysmorphism (long face, narrow face, downturned corners of mouth, long philtrum, telecanthus) are also highly consistent with this diagnosis."
+    },
+    {
+      "disease_name": "X-linked Cutis Laxa (ATP7A-related); Occipital Horn Syndrome",
+      "disease_id": "OMIM:304150",
+      "score": 0.5,
+      "explanation": "This condition, caused by ATP7A mutations, is a strong contender given the presence of cutis laxa, joint hypermobility, hypotonia, and specifically the bladder diverticulum and inguinal hernia. While congenital diaphragmatic hernia is less commonly associated, the overall pattern of severe connective tissue weakness aligns well. The patient is female, and while X-linked, severe presentations can occur due to skewed X-inactivation or de novo mutations."
+    },
+    {
+      "disease_name": "Autosomal Recessive Cutis Laxa Type 2A (ATP6V0A2-related)",
+      "disease_id": "OMIM:612916",
+      "score": 0.3333333333333333,
+      "explanation": "ARCL Type 2A presents with generalized cutis laxa, hypotonia, joint laxity, and can include features such as hernias, failure to thrive, and variable facial dysmorphism. While often associated with progeroid features and developmental delay (not explicitly listed here), the core skin and musculoskeletal findings, along with internal organ involvement, make it a plausible candidate in the differential diagnosis."
+    },
+    {
+      "disease_name": "Autosomal Recessive Cutis Laxa Type 2B (PYCR1-related); De Barsy Syndrome",
+      "disease_id": "OMIM:614438",
+      "score": 0.25,
+      "explanation": "This syndrome, also known as De Barsy Syndrome, features cutis laxa, hypotonia, and joint hypermobility, which are prominent in the patient. While intellectual disability and cataracts are common additional features, the significant overlap in skin and joint manifestations, along with the potential for hernias and growth failure, warrants its inclusion as a potential diagnosis within the cutis laxa spectrum."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Musculocontractural Type 1 (CHST14-related)",
+      "disease_id": "OMIM:601776",
+      "score": 0.2,
+      "explanation": "Although the primary skin feature is listed as 'cutis laxa' rather than just hyperextensibility, this type of Ehlers-Danlos Syndrome features severe generalized connective tissue fragility, including hypotonia, joint hypermobility, thin/translucent skin with easy bruising, and a high incidence of multiple hernias, notably congenital diaphragmatic hernia, inguinal hernia, and bladder diverticula. The overall pattern of systemic connective tissue weakness makes it a strong differential despite the specific skin description."
+    }
+  ]
+}

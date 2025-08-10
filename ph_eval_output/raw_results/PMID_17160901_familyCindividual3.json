@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome with Multiple Lentigines (PTPN11-related)",
+      "disease_id": "OMIM:151100",
+      "score": 1.0,
+      "explanation": "Freckling, specifically widespread lentigines, is a hallmark phenotypic feature of Noonan Syndrome with Multiple Lentigines (formerly LEOPARD Syndrome). These freckle-like spots are often a prominent and early sign of the condition."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type I",
+      "disease_id": "OMIM:162200",
+      "score": 0.5,
+      "explanation": "Neurofibromatosis type 1 is characterized by specific types of freckling (axillary and inguinal freckling, known as Crowe's sign) as a key diagnostic criterion. While general freckling can also occur, these localized freckles are highly suggestive of the condition."
+    },
+    {
+      "disease_name": "Carney Complex, type 1",
+      "disease_id": "OMIM:160980",
+      "score": 0.3333333333333333,
+      "explanation": "Carney Complex is characterized by various pigmented lesions, including freckle-like spots (lentigines) on the face, neck, trunk, and mucosa, along with other features such as myxomas and endocrine overactivity."
+    },
+    {
+      "disease_name": "Peutz-Jeghers Syndrome",
+      "disease_id": "OMIM:175200",
+      "score": 0.25,
+      "explanation": "Peutz-Jeghers Syndrome is distinguished by characteristic mucocutaneous pigmentation, presenting as dark brown or black macules that resemble freckles, particularly around the mouth (perioral) and on the buccal mucosa."
+    },
+    {
+      "disease_name": "Xeroderma Pigmentosum, complementation group C",
+      "disease_id": "OMIM:278720",
+      "score": 0.2,
+      "explanation": "Xeroderma Pigmentosum is characterized by extreme sensitivity to sunlight, leading to early and extensive freckle-like pigmentation in sun-exposed areas. While often accompanied by severe photosensitivity and skin cancers, freckling is a prominent skin manifestation."
+    }
+  ]
+}

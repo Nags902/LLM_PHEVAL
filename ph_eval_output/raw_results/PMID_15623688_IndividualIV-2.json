@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "PMM2-CDG (CDG-Ia) is a strong candidate as its core features include global developmental delay, intellectual disability, delayed speech and language development, and cerebellar hypoplasia leading to ataxia and delayed ability to walk. The patient's age and phenotypic profile align well with the common presentation of this disorder."
+    },
+    {
+      "disease_name": "Joubert Syndrome 1",
+      "disease_id": "OMIM:608629",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome is characterized by a distinctive brain malformation leading to hypotonia, ataxia, global developmental delay, and variable intellectual disability and speech delay. The prominent gait ataxia and global developmental delay make this a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Guanidinoacetate Methyltransferase Deficiency",
+      "disease_id": "OMIM:601240",
+      "score": 0.3333333333333333,
+      "explanation": "GAMT deficiency, a treatable creatine deficiency syndrome, typically presents with global developmental delay, severe intellectual disability, and profound speech delay. While gait ataxia is not always the primary motor feature, motor delay and coordination issues are common, fitting the overall neurodevelopmental picture."
+    },
+    {
+      "disease_name": "Creatine Transporter Deficiency, X-Linked",
+      "disease_id": "OMIM:300037",
+      "score": 0.25,
+      "explanation": "SLC6A8 deficiency (Creatine Transporter Deficiency) is an X-linked disorder primarily affecting males. It is characterized by intellectual disability, significant speech delay, and global developmental delay. While gait ataxia may not be as prominent as in the top two choices, motor delays and ataxia have been reported in affected individuals, making it a relevant consideration for a male patient."
+    }
+  ]
+}

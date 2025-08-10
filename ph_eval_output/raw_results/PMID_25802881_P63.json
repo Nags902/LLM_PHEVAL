@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This condition is a classic manifestation of Albright's Hereditary Osteodystrophy (AHO), which perfectly matches all three provided phenotypic features: obesity (HP:0001513), short metacarpals (HP:0010049, as part of brachydactyly type E), and intellectual disability (HP:0001249). It typically involves resistance to parathyroid hormone."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1C",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "Similar to Type 1A, Pseudohypoparathyroidism Type 1C also presents with the full spectrum of Albright's Hereditary Osteodystrophy features, including obesity (HP:0001513), short metacarpals (HP:0010049), and intellectual disability (HP:0001249). This type differs primarily in its molecular basis and can sometimes present without parathyroid hormone resistance (as seen in pseudopseudohypoparathyroidism, which is phenotypically similar)."
+    },
+    {
+      "disease_name": "Down Syndrome",
+      "disease_id": "OMIM:190685",
+      "score": 0.3333333333333333,
+      "explanation": "Individuals with Down Syndrome commonly exhibit intellectual disability (HP:0001249), and can develop obesity (HP:0001513) in later childhood or adulthood. Brachydactyly, which includes short metacarpals (HP:0010049), is also a frequently observed skeletal feature in this syndrome."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie Syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent fit, characterized by the classic triad of congenital aniridia/iris hypoplasia, cerebellar ataxia, and intellectual disability. The foveal hypoplasia and visual impairment are direct consequences of the ocular malformation. Hypotonia, developmental delays (delayed sitting, inability to walk, speech delay), and cerebellar atrophy/hypoplasia are also hallmark features."
+    },
+    {
+      "disease_name": "CHARGE Syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 0.5,
+      "explanation": "CHARGE syndrome features Coloboma (often iris, leading to hypoplasia), Cerebellar hypoplasia, and various neurological deficits including intellectual disability, hypotonia, and developmental delays. Visual impairment is common due to ocular anomalies. While other major features like heart defects or choanal atresia are not listed, the strong overlap in specific ocular and cerebellar findings makes this a high-ranking candidate."
+    },
+    {
+      "disease_name": "Joubert Syndrome",
+      "disease_id": "OMIM:213300",
+      "score": 0.3333,
+      "explanation": "Joubert Syndrome is a group of ciliopathies characterized by the 'molar tooth sign' (cerebellar vermis hypoplasia/dysplasia with abnormal brainstem), ataxia, hypotonia, and developmental delays (including speech and motor delays, inability to walk). Intellectual disability and visual impairment (e.g., retinal dystrophy) are common. While iris/foveal hypoplasia are less classical core features, ocular involvement is broad in ciliopathies, and the strong cerebellar and developmental phenotype aligns well."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia Type 2 (TSEN54-related)",
+      "disease_id": "OMIM:603126",
+      "score": 0.25,
+      "explanation": "Pontocerebellar hypoplasia (PCH) is a group of severe neurodevelopmental disorders defined by hypoplasia and/or atrophy of the cerebellum and pons. This aligns perfectly with the cerebellar atrophy and hypoplasia, ataxia, hypotonia, severe developmental delays (delayed sitting, inability to walk, speech delay), and intellectual disability. While specific iris/foveal hypoplasia are not hallmark features of PCH, general visual impairment can be present (e.g., due to optic atrophy). TSEN54-related PCH2 is a common subtype."
+    },
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.2,
+      "explanation": "Congenital Disorders of Glycosylation (CDG) are a heterogeneous group of metabolic disorders. PMM2-CDG (CDG-Ia) is the most common subtype and frequently presents with cerebellar hypoplasia/atrophy, ataxia, hypotonia, intellectual disability, and developmental delays. Ocular involvement can be varied, including visual impairment, though specific iris/foveal hypoplasia are not consistently reported hallmark features. The constellation of neurological and developmental features makes CDG a relevant differential."
+    }
+  ]
+}

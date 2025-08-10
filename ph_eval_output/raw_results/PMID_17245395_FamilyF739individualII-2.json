@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lesch-Nyhan Syndrome",
+      "disease_id": "OMIM:300322",
+      "score": 1.0,
+      "explanation": "Hyperuricemia is a hallmark and often the earliest biochemical manifestation of Lesch-Nyhan Syndrome, caused by severe deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT). While the classic form includes severe neurological dysfunction, milder allelic variants (e.g., Kelley-Seegmiller syndrome) primarily manifest with hyperuricemia, gout, and kidney stones, making it a strong candidate based solely on the reported symptom at this age."
+    },
+    {
+      "disease_name": "Uromodulin-associated kidney disease",
+      "disease_id": "OMIM:162000",
+      "score": 0.5,
+      "explanation": "This autosomal dominant progressive kidney disease (formerly familial juvenile hyperuricemic nephropathy type 1) is frequently characterized by early-onset hyperuricemia and gout, often appearing in adolescence or early adulthood, preceding significant renal decline. Hyperuricemia can be the initial presenting feature."
+    },
+    {
+      "disease_name": "Phosphoribosylpyrophosphate Synthetase Superactivity, X-linked",
+      "disease_id": "OMIM:300661",
+      "score": 0.3333333333333333,
+      "explanation": "Gain-of-function mutations in PRPS1 lead to increased production of purines, resulting in severe hyperuricemia, gout, and nephrolithiasis. This condition presents similarly to HGPRT deficiency and is a direct cause of purine overproduction, fitting the patient's age and single symptom."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ia",
+      "disease_id": "OMIM:232200",
+      "score": 0.25,
+      "explanation": "Hyperuricemia is a common and persistent metabolic complication in Glycogen Storage Disease Type Ia (Von Gierke disease), resulting from increased purine turnover and impaired renal uric acid excretion secondary to lactic acidosis. While other features like hypoglycemia are prominent, hyperuricemia can lead to gout and nephrolithiasis, warranting investigation at this age."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome (ARID1B-related)",
+      "disease_id": "OMIM:614606",
+      "score": 1.0,
+      "explanation": "This syndrome presents with a strong match to the patient's phenotype, including microcephaly, intellectual disability, global developmental delay, feeding difficulties, chronic constipation, delayed motor and speech milestones, sleep abnormalities, hypertonia, recurrent infections, and distinctively, long eyelashes. ARID1B is the most common genetic cause of Coffin-Siris Syndrome, encompassing these features well."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome Type 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.5,
+      "explanation": "Rubinstein-Taybi syndrome is a strong differential, characterized by intellectual disability, global developmental delay, feeding difficulties, chronic constipation, recurrent infections, and prominent long eyelashes. While microcephaly is less consistently observed and hypertonia is less typical than hypotonia, the overall constellation of neurodevelopmental and gastrointestinal issues, coupled with long eyelashes and recurrent infections, makes it a very relevant candidate."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome Type 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.33,
+      "explanation": "Cornelia de Lange Syndrome (caused by NIPBL mutations in Type 1) shares numerous key features with the patient's presentation, including microcephaly, intellectual disability, global developmental delay, feeding difficulties, chronic constipation, delayed milestones, recurrent infections, and characteristic prominent long eyelashes. The presence of these core features makes it a significant differential, despite the absence of information on classic limb or more specific facial anomalies."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:615110",
+      "score": 0.25,
+      "explanation": "Wiedemann-Steiner syndrome aligns with several features, including intellectual disability, developmental delay, feeding difficulties, hypertonia, and prominent long eyelashes. However, microcephaly is not a typical feature, and recurrent infections are less commonly reported as a primary finding compared to the higher-ranked syndromes, making it a slightly less precise fit."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.2,
+      "explanation": "Pitt-Hopkins syndrome is characterized by intellectual disability, global developmental delay, feeding difficulties, chronic constipation, and distinctive sleep abnormalities (often respiratory dysregulation). While microcephaly and hypertonia can be present, the absence of prominent long eyelashes and recurrent infections as a primary feature makes it a less likely candidate compared to diseases that encompass these specific dysmorphic and immunological findings."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aromatic L-amino acid decarboxylase deficiency",
+      "disease_id": "OMIM:608643",
+      "score": 1.0,
+      "explanation": "This disorder is a strong candidate as it frequently presents in infancy or early childhood with hypotonia, generalized dystonia (often including oculogyric crises which directly relate to strabismus/abnormal eye movements), and ataxia. Developmental delay is also a common feature."
+    },
+    {
+      "disease_name": "Tyrosine Hydroxylase deficiency",
+      "disease_id": "OMIM:606012",
+      "score": 0.5,
+      "explanation": "Clinically very similar to AADC deficiency, this disorder also commonly presents with hypotonia, progressive dystonia (often including oculogyric crises which can manifest as strabismus), and ataxia. It is an important differential diagnosis due to the overlapping symptoms of biogenic amine synthesis disorders."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.333,
+      "explanation": "Leigh Syndrome is a severe, progressive neurodegenerative disorder often with onset in infancy or early childhood. It commonly features psychomotor regression, hypotonia, ataxia, dystonia, and ophthalmological signs such as strabismus or ophthalmoplegia due to characteristic brainstem and basal ganglia lesions. Many genetic causes underlie this syndrome."
+    },
+    {
+      "disease_name": "Niemann-Pick Disease, Type C1",
+      "disease_id": "OMIM:257220",
+      "score": 0.25,
+      "explanation": "This lysosomal storage disorder frequently presents in childhood with progressive neurological symptoms including ataxia, dystonia, and the hallmark vertical supranuclear gaze palsy, which severely impairs voluntary eye movements and can manifest as strabismus. Hypotonia can also be present as part of the neurological decline."
+    },
+    {
+      "disease_name": "Pontocerebellar Hypoplasia, Type 2",
+      "disease_id": "OMIM:612389",
+      "score": 0.2,
+      "explanation": "This group of severe neurodevelopmental disorders is characterized by an abnormally small cerebellum and brainstem. Key features include severe hypotonia, global developmental delay, ataxia, dystonia/dyskinesia, and commonly ophthalmological issues like strabismus, often linked to the extent of central nervous system involvement."
+    }
+  ]
+}

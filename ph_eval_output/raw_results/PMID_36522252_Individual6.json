@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Disorder of Glycosylation, Type Ia",
+      "disease_id": "OMIM:212065",
+      "score": 1.0,
+      "explanation": "This is the most common type of CDG and shows significant overlap with the patient's phenotype. Key features matching include profound intellectual disability, global developmental delay, generalized hypotonia, absent speech, motor delay, seizures, hyporeflexia, and tube feeding due to feeding difficulties. Crucially, dyslipidemia, including hypercholesterolemia and hypertriglyceridemia, is a well-known feature of CDG. High palate and hirsutism are also reported in CDG, further supporting this diagnosis. Decreased fetal movement and cerebral visual impairment can also be present."
+    },
+    {
+      "disease_name": "Desmosterolosis",
+      "disease_id": "OMIM:600295",
+      "score": 0.5,
+      "explanation": "Desmosterolosis is a disorder of cholesterol biosynthesis, leading to accumulation of desmosterol and often hypercholesterolemia, which directly matches one of the key metabolic findings. The neurological presentation of profound intellectual disability, global developmental delay, hypotonia, and seizures is highly consistent. Dysmorphic features, including high palate, can also be present. While hirsutism, tented upper lip, and highly arched eyebrows are less specific features for Desmosterolosis, the combination of severe neurodevelopmental impairment and hypercholesterolemia makes it a strong contender."
+    },
+    {
+      "disease_name": "Peroxisome Biogenesis Disorder, Zellweger Syndrome Type",
+      "disease_id": "OMIM:600153",
+      "score": 0.33,
+      "explanation": "Zellweger Syndrome is the most severe end of the Peroxisome Biogenesis Disorder (PBD) spectrum. It is characterized by a profound neurodevelopmental phenotype including global developmental delay, profound intellectual disability, severe hypotonia, seizures, absent speech, and very commonly, cerebral visual impairment. Decreased fetal movement and significant feeding difficulties requiring tube feeding are also typical. While the primary biochemical hallmark is elevated very long-chain fatty acids, secondary dyslipidemia, including hypercholesterolemia and hypertriglyceridemia, can occur due to liver dysfunction. However, hirsutism and the specific facial dysmorphism (tented upper lip, highly arched eyebrow) are less characteristic of this syndrome compared to CDG."
+    }
+  ]
+}

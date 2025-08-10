@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This disease is characterized by Albright's Hereditary Osteodystrophy (AHO), which includes subcutaneous ossification (osteoma cutis), intellectual disability, and resistance to parathyroid hormone leading to elevated circulating parathyroid hormone levels. All three listed phenotypic features are primary manifestations of PHP1A."
+    },
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1C",
+      "disease_id": "OMIM:612463",
+      "score": 0.5,
+      "explanation": "Pseudohypoparathyroidism Type 1C presents with clinical features highly similar to PHP1A, including Albright's Hereditary Osteodystrophy (with subcutaneous ossification), intellectual disability, and PTH resistance causing elevated parathyroid hormone. It is caused by GNAS mutations, like PHP1A, but with distinct molecular findings."
+    },
+    {
+      "disease_name": "Acrodysostosis 1",
+      "disease_id": "OMIM:101800",
+      "score": 0.333,
+      "explanation": "Acrodysostosis 1 is characterized by skeletal abnormalities (including brachydactyly), intellectual disability, and often multihormone resistance, including resistance to PTH (leading to elevated PTH levels). Ectopic ossification or calcification can also be observed in these patients, making it a strong candidate for all three listed features."
+    },
+    {
+      "disease_name": "Acrodysostosis 2",
+      "disease_id": "OMIM:614613",
+      "score": 0.25,
+      "explanation": "Similar to Acrodysostosis 1, Acrodysostosis 2 presents with intellectual disability, skeletal dysplasia, and frequently features of multihormone resistance, including PTH resistance (elevated PTH). Ectopic ossification/calcification has been reported, aligning with the patient's subcutaneous ossification. It is a distinct genetic subtype that phenotypically converges on the listed features."
+    }
+  ]
+}

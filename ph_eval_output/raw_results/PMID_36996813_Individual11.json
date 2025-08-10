@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "COL4A1-related cerebrovascular disease",
+      "disease_id": "OMIM:612719",
+      "score": 1.0,
+      "explanation": "This group of disorders, caused by mutations in COL4A1 (and related COL4A2), is highly associated with a spectrum of cerebrovascular pathologies including intracranial hemorrhage (often prenatal or neonatal), cerebral calcifications, and hydrocephalus or porencephaly. The combination of all key features (cerebral hemorrhage, calcification, and hydrocephalus/ventricular dilatation) is a hallmark of this condition, making it the most likely candidate."
+    },
+    {
+      "disease_name": "Cerebroretinal microangiopathy with calcifications and cysts (CRMCC) / Labrune Syndrome",
+      "disease_id": "OMIM:614561",
+      "score": 0.5,
+      "explanation": "CRMCC, caused by mutations in CTC1, is characterized by extensive cerebral calcifications (particularly in the deep white matter) and cysts. Hydrocephalus and cerebral hemorrhage are well-documented clinical manifestations, fitting multiple features of the patient's presentation. Its strong association with calcifications makes it a high-ranking candidate."
+    },
+    {
+      "disease_name": "Cerebral Cavernous Malformation (CCM1, CCM2, CCM3)",
+      "disease_id": "OMIM:603284",
+      "score": 0.33,
+      "explanation": "Cerebral cavernous malformations are vascular lesions prone to recurrent hemorrhage, which directly accounts for the 'cerebral hemorrhage' feature. Older lesions or repeated hemorrhages can lead to local cerebral calcifications, and significant hemorrhage can cause obstructive or communicating hydrocephalus. While calcification and hydrocephalus are often secondary to hemorrhage, the core features align well."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome (AGS1-AGS9)",
+      "disease_id": "OMIM:225750",
+      "score": 0.25,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome is a severe inflammatory encephalopathy primarily characterized by prominent cerebral calcifications (especially in the basal ganglia and white matter) and progressive neurological dysfunction, often including hydrocephalus or brain atrophy. While cerebral hemorrhage is not a typical primary feature, the strong presence of calcifications and hydrocephalus warrants its inclusion as a significant differential diagnosis for this phenotype."
+    }
+  ]
+}

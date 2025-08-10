@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Gillespie Syndrome",
+      "disease_id": "OMIM:206700",
+      "score": 1.0,
+      "explanation": "Gillespie Syndrome is a rare genetic disorder characterized by the specific triad of partial aniridia, cerebellar ataxia, and intellectual disability. The patient's reported phenotypic features of Aniridia and Ataxia are the two hallmark signs of this syndrome, making it the most highly probable diagnosis."
+    },
+    {
+      "disease_name": "Aniridia, Congenital",
+      "disease_id": "OMIM:106210",
+      "score": 0.5,
+      "explanation": "Congenital aniridia is a primary feature of the patient's presentation. While isolated aniridia, typically caused by mutations in the PAX6 gene, does not commonly include ataxia, severe PAX6 haploinsufficiency or contiguous gene deletions that involve PAX6 can rarely lead to broader neurological phenotypes including cerebellar abnormalities and ataxia. Gillespie Syndrome itself can be considered a distinct clinical entity with aniridia as a core feature."
+    },
+    {
+      "disease_name": "WAGR Syndrome",
+      "disease_id": "OMIM:194072",
+      "score": 0.33,
+      "explanation": "WAGR syndrome is defined by a deletion on chromosome 11p13, which includes the PAX6 gene, thus causing aniridia, a key feature in the patient. While Wilms tumor, genitourinary anomalies, and intellectual disability are core features, ataxia is not typically considered a standard component. However, due to the nature of a microdeletion syndrome, a wider spectrum of neurological manifestations can occasionally occur, though ataxia is not a specific or common finding in WAGR syndrome."
+    }
+  ]
+}

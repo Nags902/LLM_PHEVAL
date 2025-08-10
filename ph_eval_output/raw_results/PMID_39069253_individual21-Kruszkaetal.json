@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong match, characterized by global developmental delay, severe speech and language impairment, motor delay, and autistic behaviors. The distinctive facial features frequently include a broad/deep philtrum, highly arched eyebrows, and a 'tent-shaped' or exaggerated cupid's bow, which aligns well with the patient's features. Hearing impairment is also reported in many cases. The combination of these specific craniofacial features with the neurodevelopmental profile makes it the most likely candidate."
+    },
+    {
+      "disease_name": "Kleefstra Syndrome 1",
+      "disease_id": "OMIM:610253",
+      "score": 0.5,
+      "explanation": "Kleefstra Syndrome (primarily due to EHMT1 variants) presents with significant overlap, including global developmental delay, intellectual disability, delayed speech and motor milestones, and often autistic-like behaviors. Characteristic facial features include highly arched eyebrows, a short and broad philtrum, and a prominent cupid's bow or 'tent-shaped' mouth. Hearing impairment is also a common finding. The prominent metopic ridge can be less typical, but frontal bossing may occur, making it a close second."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Rubinstein-Taybi Syndrome (most commonly caused by CREBBP variants) is well-known for intellectual disability, global developmental delay, and a distinctive facial appearance. Key facial features that align with the patient include highly arched eyebrows, a broad philtrum, and a prominent cupid's bow. Delayed speech, motor delay, and autistic behaviors are also frequently observed. Hearing impairment can be present. While a prominent metopic ridge is not a cardinal feature, frontal bossing is sometimes seen, and overall facial dysmorphism is variable."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:600003",
+      "score": 0.25,
+      "explanation": "Coffin-Siris Syndrome (ARID1B-related being a common form) is characterized by developmental delay, intellectual disability, and often autistic behaviors. The facial features often include thick eyebrows, a broad nose, full lips with a 'tented' upper lip (consistent with exaggerated cupid's bow), and a broad philtrum. Hearing impairment is also a known feature. Although the classic aplasia/hypoplasia of the fifth digit is not mentioned, the significant overlap in neurodevelopmental and craniofacial features makes it a strong consideration."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.2,
+      "explanation": "Smith-Magenis Syndrome presents with global developmental delay, intellectual disability, significant speech and motor delays, and a distinct behavioral phenotype that often includes autistic features and self-injurious behaviors. Hearing impairment is common. While characteristic facial features are present (e.g., broad nasal bridge, deep-set eyes, tented upper lip), the specific combination of 'prominent metopic ridge,' 'broad philtrum,' and 'highly arched eyebrow' may not be as consistently or typically described compared to the top-ranked syndromes, but overall phenotypic overlap warrants its inclusion."
+    }
+  ]
+}

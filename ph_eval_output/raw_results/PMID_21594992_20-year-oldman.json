@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 1.0,
+      "explanation": "This patient presents with a highly specific constellation of connective tissue features characteristic of Marfan Syndrome, including ectopia lentis, arachnodactyly, hyperextensibility of finger joints, pectus excavatum, high myopia, high palate, and pes planus. Several craniofacial features (retrognathia, downslanted palpebral fissures, prominent nasal bridge, narrow nose, proptosis) also align with the Marfanoid habitus. While generalized lipodystrophy and progeroid facial appearance are not typical features, severe infantile or neonatal Marfan Syndrome can lead to profound failure to thrive and marked cachexia, which might be clinically described as reduced subcutaneous adipose tissue and a progeroid appearance due to extreme thinness. This possibility accounts for the highest number of highly specific and otherwise rare features."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type A (LMNA-related)",
+      "disease_id": "OMIM:248370",
+      "score": 0.5,
+      "explanation": "Mandibuloacral Dysplasia (MAD) is a strong candidate for explaining the core features of generalized lipodystrophy, reduced subcutaneous adipose tissue, and a progeroid facial appearance, along with retrognathia, intrauterine growth retardation, failure to thrive, and feeding difficulties. These metabolic and progeroid aspects are defining for MAD. However, this disorder typically lacks the specific and prominent connective tissue findings such as ectopia lentis, arachnodactyly, pectus excavatum, high myopia, and significant joint hyperextensibility (often presenting with joint contractures or stiffness rather than laxity). Despite these discrepancies, the severe primary lipodystrophy and progeria are compelling features."
+    },
+    {
+      "disease_name": "Mandibuloacral Dysplasia, Type B (ZMPSTE24-related)",
+      "disease_id": "OMIM:610129",
+      "score": 0.5,
+      "explanation": "Similar to Type A, Mandibuloacral Dysplasia Type B is also a strong candidate due to its characteristic presentation of generalized lipodystrophy, reduced subcutaneous adipose tissue, and a progeroid facial appearance. It shares other features like retrognathia, IUGR, failure to thrive, and feeding difficulties. The caveats regarding the absence of ectopia lentis, arachnodactyly, pectus excavatum, high myopia, and joint hyperextensibility are the same as for Type A. Both types of MAD are considered due to their shared core phenotype."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome (various types)",
+      "disease_id": "OMIM:609192",
+      "score": 0.33,
+      "explanation": "Loeys-Dietz Syndrome (LDS) shares significant overlap with Marfan Syndrome regarding connective tissue manifestations and craniofacial dysmorphism. This includes joint hyperextensibility, arachnodactyly (less common but present), pectus excavatum, high palate, and specific craniofacial features like downslanted palpebral fissures, retrognathia, prominent nasal bridge, relative macrocephaly, and proptosis. Ectopia lentis, while less common than in Marfan, can occur in some LDS types (e.g., SMAD3-related, OMIM:613795). However, similar to Marfan, LDS does not typically explain the generalized lipodystrophy or progeroid appearance, but its overall phenotypic breadth makes it a plausible, albeit incomplete, match for many of the patient's features. (Common types include LDS1-OMIM:609192, LDS2-OMIM:610168)."
+    }
+  ]
+}

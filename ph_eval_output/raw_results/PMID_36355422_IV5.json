@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Deafness, Autosomal Recessive 1A",
+      "disease_id": "OMIM:220290",
+      "score": 1.0,
+      "explanation": "This condition, primarily caused by mutations in the GJB2 gene, is the most common genetic cause of non-syndromic sensorineural hearing impairment worldwide. While often congenital or early-onset, the severity and progression can vary, making it a highly likely diagnosis for isolated SNHL in a young adult."
+    },
+    {
+      "disease_name": "Neurofibromatosis type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.5,
+      "explanation": "Neurofibromatosis type 2 is characterized by the development of bilateral vestibular schwannomas, which typically cause progressive sensorineural hearing loss in young adults. Given the patient's age (P24Y) and the isolated presentation of SNHL, this condition is a strong consideration, as other potential findings may be subtle or not yet reported."
+    },
+    {
+      "disease_name": "Deafness, Autosomal Recessive 4",
+      "disease_id": "OMIM:600791",
+      "score": 0.3333333333333333,
+      "explanation": "Mutations in the SLC26A4 gene are the second most common cause of non-syndromic recessive sensorineural hearing loss, often associated with an enlarged vestibular aqueduct. While it can be part of Pendred Syndrome, it frequently presents as isolated SNHL, making it a significant candidate after GJB2-related deafness."
+    },
+    {
+      "disease_name": "Alport Syndrome, X-linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.25,
+      "explanation": "X-linked Alport Syndrome is a progressive genetic disorder primarily affecting the kidneys, but also frequently causing progressive sensorineural hearing loss. The hearing loss typically develops in late childhood or young adulthood, making it a relevant consideration for a 24-year-old with SNHL, even if renal features are not yet overtly reported."
+    },
+    {
+      "disease_name": "Deafness, Non-Syndromic Sensorineural, Mitochondrial",
+      "disease_id": "OMIM:500008",
+      "score": 0.2,
+      "explanation": "Specific mitochondrial DNA mutations, such as A1555G in MT-RNR1, are a known cause of isolated sensorineural hearing loss. This type of hearing loss can be inherited maternally, has variable age of onset (including young adulthood), and can be influenced by environmental factors like aminoglycoside exposure."
+    }
+  ]
+}

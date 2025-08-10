@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "Highly consistent with the patient's presentation, especially the combination of intellectual disability, global developmental delay, short stature, and distinctive facial features including thick eyebrows, hypertelorism, and most notably, macrodontia (particularly of the upper central incisors). Hand abnormalities such as short metacarpals are also characteristic."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:135900",
+      "score": 0.5,
+      "explanation": "A strong differential diagnosis due to the combination of intellectual disability, global developmental delay, short stature, coarse facial features (often including thick eyebrows and hypertelorism), and characteristic hand abnormalities (frequently hypoplastic fifth digits/nails, fitting general 'abnormality of the hand'). While macrodontia is not a defining hallmark, other dental anomalies are common and could encompass it. This specific subtype is linked to mutations in ARID1B, the most common genetic cause."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.33,
+      "explanation": "Shares several key features including intellectual disability, global developmental delay, short stature, and characteristic facial features such as thick eyebrows and hypertelorism. The 'abnormality of the hand' aligns well with the classic broad thumbs and great toes seen in this syndrome. While macrodontia is not a typical feature, dental anomalies are common. This specific subtype is linked to mutations in CREBBP, the most common genetic cause."
+    },
+    {
+      "disease_name": "Borjeson-Forssman-Lehmann Syndrome",
+      "disease_id": "OMIM:301900",
+      "score": 0.25,
+      "explanation": "This X-linked syndrome shares intellectual disability, global developmental delay, short stature, prominent supraorbital ridges, and thick eyebrows. Hand abnormalities (broad/short hands) and dental anomalies (which could include macrodontia) can also occur. Hypertelorism may be present."
+    }
+  ]
+}

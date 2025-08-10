@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 1.0,
+      "explanation": "Smith-Magenis Syndrome is a strong candidate as it frequently presents with all the listed phenotypic features: hypotonia in infancy, global developmental delay, short stature (which can be variable), brachycephaly, and distinctive facial features often including deeply set eyes and a prominent forehead. The combination of these specific dysmorphic features with developmental and growth delays makes it a highly relevant match."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Cornelia de Lange Syndrome (CdLS) is characterized by global developmental delay, severe prenatal and postnatal growth deficiency leading to short stature, and hypotonia. The distinctive facial features, while encompassing synophrys and long eyelashes, can also include brachycephaly and an appearance of deeply set eyes due to the overall facial gestalt. This makes CdLS 1 (the most common form) a strong differential diagnosis."
+    },
+    {
+      "disease_name": "COFS syndrome 1",
+      "disease_id": "OMIM:216550",
+      "score": 0.33,
+      "explanation": "Cerebro-oculo-facio-skeletal (COFS) syndrome type 1, an autosomal recessive disorder, is a severe neurodegenerative condition that fits all the reported phenotypic features. It is characterized by severe global developmental delay, hypotonia, severe growth failure (leading to short stature), deeply set eyes (often associated with microphthalmia), and brachycephaly (or microcephaly). While often more severe, phenotypically, it aligns well with the presented symptoms."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome (RTS) typically presents with global developmental delay, short stature, and hypotonia in infancy. Deeply set eyes are a recognized facial feature in RTS. While microcephaly is often noted, brachycephaly can also occur. The presence of broad thumbs and toes is a classic feature of RTS, which is not mentioned but would be a key differentiator in further assessment."
+    }
+  ]
+}

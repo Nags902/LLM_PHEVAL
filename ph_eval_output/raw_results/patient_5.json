@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Glutaric aciduria type 1",
+      "disease_id": "OMIM:231670",
+      "score": 1.0,
+      "explanation": "This disease is the most fitting diagnosis as it perfectly matches all listed phenotypic features, including macrocephaly, cerebral atrophy (especially frontotemporal), dystonia, and the defining biochemical marker of glutaric aciduria. Subdural hemorrhage is a recognized complication due to the underlying cerebral atrophy and macrocephaly."
+    },
+    {
+      "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+      "disease_id": "OMIM:231680",
+      "score": 0.5,
+      "explanation": "Also known as Glutaric Aciduria Type 2, this disorder is characterized by glutaric aciduria due to deficiencies in fatty acid oxidation. While it presents with metabolic and neurological symptoms, the specific constellation of pronounced macrocephaly, cerebral atrophy with characteristic patterns, and prominent dystonia is less typical than in Glutaric Aciduria Type 1. However, it remains a strong differential given the explicit glutaric aciduria."
+    },
+    {
+      "disease_name": "L-2-hydroxyglutaric aciduria",
+      "disease_id": "OMIM:236792",
+      "score": 0.33,
+      "explanation": "This is a rare organic aciduria that shares several neurological features with the patient, including progressive leukoencephalopathy leading to cerebral atrophy, and can present with macrocephaly and dystonia. Although its primary biochemical marker is L-2-hydroxyglutaric acid rather than glutaric acid, it involves a related metabolic pathway, and the clinical overlap makes it a plausible, albeit less likely, differential diagnosis."
+    }
+  ]
+}

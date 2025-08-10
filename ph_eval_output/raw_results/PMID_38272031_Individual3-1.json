@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adult-onset Vitelliform Macular Dystrophy",
+      "disease_id": "OMIM:608161",
+      "score": 1.0,
+      "explanation": "This diagnosis precisely fits the patient's age (P57Y) and the core symptom of macular dystrophy. Adult-onset vitelliform macular dystrophy typically manifests in adulthood with progressive vision loss and is commonly associated with mutations in genes such as BEST1 or PRPH2."
+    },
+    {
+      "disease_name": "Stargardt Disease 1",
+      "disease_id": "OMIM:248200",
+      "score": 0.5,
+      "explanation": "Stargardt disease is the most common inherited macular dystrophy. While often juvenile-onset, a significant proportion of cases can present or be diagnosed in adulthood, making it a strong candidate for an individual at P57Y. It causes progressive vision loss due to photoreceptor and RPE dysfunction, primarily associated with mutations in the ABCA4 gene."
+    },
+    {
+      "disease_name": "Central Areolar Choroidal Dystrophy",
+      "disease_id": "OMIM:215500",
+      "score": 0.333,
+      "explanation": "Central Areolar Choroidal Dystrophy is a progressive macular dystrophy that typically presents in middle age (matching P57Y) with a gradual decline in central vision. It involves atrophy of the retinal pigment epithelium and choriocapillaris in the central macula, often linked to mutations in the GUCY2D gene."
+    },
+    {
+      "disease_name": "Cone-Rod Dystrophy",
+      "disease_id": "OMIM:120970",
+      "score": 0.25,
+      "explanation": "Cone-rod dystrophy is a heterogeneous group of inherited retinal dystrophies characterized by primary dysfunction of cone photoreceptors followed by rod involvement. Macular involvement and reduced visual acuity are prominent features, and many genetic forms can have an adult onset, making it a plausible diagnosis for this patient."
+    },
+    {
+      "disease_name": "Pattern Dystrophy of the Retinal Pigment Epithelium",
+      "disease_id": "OMIM:608975",
+      "score": 0.2,
+      "explanation": "This is a group of inherited macular dystrophies characterized by various patterns of pigmentary changes in the retinal pigment epithelium. Onset typically occurs in middle age, consistent with the patient's age, and leads to reduced visual acuity due to macular dysfunction. Many types are associated with mutations in the PRPH2 gene."
+    }
+  ]
+}

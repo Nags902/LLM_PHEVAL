@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Kabuki Syndrome 1 (KMT2D-related)",
+      "disease_id": "OMIM:147920",
+      "score": 1.0,
+      "explanation": "This syndrome offers an excellent overall match for the patient's phenotypic features. Key characteristics such as intellectual disability, seizures, hypoplasia of the corpus callosum, orofacial cleft, clinodactyly, and a specific combination of facial dysmorphisms including thick eyebrows, wide nose, thick nasal alae, broad philtrum, and thin upper lip vermilion are all highly consistent with Kabuki Syndrome 1. Ear anomalies (low-set, posteriorly rotated ears) are also commonly observed."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 2 (KDM6A-related)",
+      "disease_id": "OMIM:300867",
+      "score": 0.5,
+      "explanation": "Genetically distinct from Kabuki Syndrome 1, this subtype presents with a highly similar clinical picture. The patient's constellation of neurological, craniofacial, and skeletal features aligns very well with the documented phenotype of Kabuki Syndrome 2, making it a strong differential diagnosis alongside Kabuki Syndrome 1."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1 (ARID1B-related)",
+      "disease_id": "OMIM:614606",
+      "score": 0.3333,
+      "explanation": "Coffin-Siris Syndrome is a strong candidate given the presence of intellectual disability, seizures, hypoplasia of the corpus callosum, clinodactyly, and the possibility of orofacial cleft. The 'thick eyebrow' feature is a classic hallmark of this syndrome, and many of the other facial dysmorphisms (wide nose, thick nasal alae, broad philtrum) are also compatible. While classically associated with prominent or full lips, the 'thin upper lip vermilion' might represent phenotypic variability."
+    },
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 0.25,
+      "explanation": "Mowat-Wilson Syndrome presents with a significant overlap in key features, including intellectual disability, seizures, hypoplasia of the corpus callosum, and orofacial cleft. Several facial features, such as wide nose, thick nasal alae, broad philtrum, low-set and posteriorly rotated ears, are also consistent. While Hirschsprung disease is a common feature not mentioned in the patient's data, its absence does not rule out the diagnosis, and the strong neurological and craniofacial match warrants its inclusion in the differential."
+    }
+  ]
+}

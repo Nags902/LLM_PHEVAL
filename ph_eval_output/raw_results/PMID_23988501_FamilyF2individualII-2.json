@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease 1",
+      "disease_id": "OMIM:173900",
+      "score": 1.0,
+      "explanation": "This is the most common inherited cause of chronic kidney disease, frequently leading to end-stage renal disease in adulthood (median age around 50-60 years), which aligns perfectly with the patient's age of 49 years. It often presents as isolated kidney failure without other reported features initially."
+    },
+    {
+      "disease_name": "Autosomal Dominant Polycystic Kidney Disease 2",
+      "disease_id": "OMIM:613612",
+      "score": 0.5,
+      "explanation": "Similar to ADPKD1, this is another common genetic cause of chronic kidney disease, also leading to end-stage renal disease in adulthood. While often having a slightly later onset compared to ADPKD1, the patient's age is still highly consistent."
+    },
+    {
+      "disease_name": "Alport Syndrome, X-Linked",
+      "disease_id": "OMIM:301050",
+      "score": 0.333,
+      "explanation": "A significant inherited cause of progressive glomerulonephritis, X-linked Alport Syndrome commonly leads to end-stage renal disease in males during early to middle adulthood (often in their 20s-40s), which aligns with the patient's age and gender. Other associated features like hearing loss or ocular defects may be subtle or not yet reported."
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "disease_id": "OMIM:301500",
+      "score": 0.25,
+      "explanation": "An X-linked lysosomal storage disorder where progressive renal disease leading to end-stage renal disease is a prominent and common manifestation in adult males, typically occurring in their 30s to 50s. While it is a multisystem disorder, kidney failure can be the presenting or predominant symptom."
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis 2, Autosomal Recessive",
+      "disease_id": "OMIM:600995",
+      "score": 0.2,
+      "explanation": "Genetic forms of focal segmental glomerulosclerosis are a significant cause of progressive kidney disease leading to end-stage renal disease in adulthood. NPHS2-related FSGS is a relatively common genetic cause, often presenting with an isolated renal phenotype (steroid-resistant nephrotic syndrome progressing to ESRD) without other syndromic features."
+    },
+    {
+      "disease_name": "Uromodulin-Associated Kidney Disease",
+      "disease_id": "OMIM:605749",
+      "score": 0.167,
+      "explanation": "This is an inherited tubulointerstitial kidney disease characterized by progressive renal dysfunction, often leading to end-stage renal disease in adulthood (typically in the 3rd to 7th decades of life). It primarily affects the kidneys without other prominent systemic features, making it a plausible diagnosis given the sole reported phenotype."
+    }
+  ]
+}

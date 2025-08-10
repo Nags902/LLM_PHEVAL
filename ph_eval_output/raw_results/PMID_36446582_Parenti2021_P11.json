@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong candidate due to the classic combination of intellectual disability, global developmental delay, microcephaly, distinctive craniofacial features including synophrys, thick eyebrows, long philtrum, anteverted nares, and bulbous nose, along with hand abnormalities and feeding difficulties. These features are highly characteristic of Cornelia de Lange Syndrome, particularly the NIPBL-related type (OMIM:122470), which accounts for the majority of cases. Other genetic subtypes (e.g., SMC1A, SMC3, RAD21, HDAC8, ANKRD11, BRD4) also present with similar phenotypes."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:614609",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome shares significant phenotypic overlap with Cornelia de Lange Syndrome, making it a close second. Key features such as intellectual disability, global developmental delay, microcephaly, coarse facial features (including thick eyebrows, synophrys, and broad/anteverted nares), and abnormalities of the hands (e.g., hypoplastic fifth digit nails) are highly consistent with the patient's presentation. The ARID1B gene (OMIM:614609) is the most common cause of CSS, but it is also genetically heterogeneous."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome",
+      "disease_id": "OMIM:180849",
+      "score": 0.3333333333333333,
+      "explanation": "Rubinstein-Taybi Syndrome is a plausible differential diagnosis, as it features intellectual disability, developmental delay, thick eyebrows, long philtrum, and a bulbous nose. Abnormality of the hand (classically broad thumbs and great toes) is also a hallmark. While synophrys is less consistently present and microcephaly is not as typical as in CdLS or CSS (patients can have normal or even macrocephaly), the overall constellation of neurodevelopmental and facial features still makes it a consideration. The most common genetic cause is CREBBP (OMIM:180849)."
+    },
+    {
+      "disease_name": "Smith-Magenis Syndrome",
+      "disease_id": "OMIM:182290",
+      "score": 0.25,
+      "explanation": "Smith-Magenis Syndrome presents with intellectual disability, global developmental delay, motor delay, delayed speech, and some overlapping craniofacial features such as anteverted nares and a broad/bulbous nose. While synophrys and thick eyebrows are less characteristic than in CdLS or CSS, and microcephaly is not a predominant feature, the neurodevelopmental profile and certain dysmorphic features warrant its inclusion in the differential. The syndrome is caused by deletions or mutations in the RAI1 gene (OMIM:182290)."
+    }
+  ]
+}

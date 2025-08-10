@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Duchenne Muscular Dystrophy",
+      "disease_id": "OMIM:310200",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis. All listed phenotypic features, including onset at P5Y in a male, progressive proximal and distal muscle weakness, highly elevated creatine kinase (CK), calf muscle pseudohypertrophy, Gowers sign, hyperlordosis, motor delay, unsteady gait, myopathic abnormalities on EMG, and respiratory insufficiency, are classic and highly characteristic of Duchenne Muscular Dystrophy (DMD). DMD is an X-linked disorder, primarily affecting males, with a typical presentation in early childhood."
+    },
+    {
+      "disease_name": "Becker Muscular Dystrophy",
+      "disease_id": "OMIM:300376",
+      "score": 0.5,
+      "explanation": "Becker Muscular Dystrophy (BMD) is an allelic, milder form of Duchenne Muscular Dystrophy, caused by mutations in the same DMD gene. It shares many overlapping clinical features such as muscle weakness (proximal and distal), elevated creatine kinase, and myopathic changes. While typically having a later onset and slower progression, presentation in childhood with similar, though often less severe, symptoms is possible, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Type R3 (Alpha-sarcoglycanopathy)",
+      "disease_id": "OMIM:600119",
+      "score": 0.333,
+      "explanation": "Limb-Girdle Muscular Dystrophy Type R3 (LGMD R3), caused by mutations in the SGCA gene, is an autosomal recessive disorder that can closely mimic Duchenne Muscular Dystrophy. It often presents in childhood with prominent proximal muscle weakness, calf muscle pseudohypertrophy, Gowers sign, and very high creatine kinase levels, along with potential respiratory involvement and hyperlordosis."
+    },
+    {
+      "disease_name": "Limb-Girdle Muscular Dystrophy, Type R1 (Calpainopathy)",
+      "disease_id": "OMIM:253600",
+      "score": 0.25,
+      "explanation": "Limb-Girdle Muscular Dystrophy Type R1 (LGMD R1), caused by mutations in the CAPN3 gene, is one of the most common LGMDs. It is an autosomal recessive disorder that typically presents with progressive proximal muscle weakness in childhood or adolescence. While calf pseudohypertrophy is less consistently observed than in sarcoglycanopathies, Gowers sign and elevated CK levels are frequently present, aligning with several patient features."
+    },
+    {
+      "disease_name": "Congenital Muscular Dystrophy, FKRP-related (LGMD R12)",
+      "disease_id": "OMIM:606612",
+      "score": 0.2,
+      "explanation": "FKRP-related muscular dystrophies encompass a wide spectrum from severe congenital forms to milder Limb-Girdle Muscular Dystrophy (LGMD R12) phenotypes. They are autosomal recessive disorders that can present in childhood with muscle weakness (both proximal and distal), elevated creatine kinase, and sometimes calf muscle pseudohypertrophy, Gowers sign, and respiratory involvement, which aligns with several of the patient's features."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "COL4A1-related brain small vessel disease",
+      "disease_id": "OMIM:612075",
+      "score": 1.0,
+      "explanation": "This group of disorders caused by mutations in COL4A1 (and sometimes COL4A2) directly explains the combination of cerebral hemorrhage, porencephalic cysts (resulting from hemorrhage or ischemia), abnormal CNS myelination (leukoencephalopathy), hydrocephalus, and thinning of the corpus callosum. Basal ganglia calcifications can also be associated, though less universally prominent than in some other conditions. The vascular fragility is central to the observed brain injury."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome",
+      "disease_id": "OMIM:225750",
+      "score": 0.5,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a strong candidate, particularly due to the prominent basal ganglia calcification, abnormal CNS myelination (leukodystrophy), hydrocephalus, and gliosis, which are hallmark features. While cerebral hemorrhage and porencephaly are not primary defining features, severe inflammatory brain injury and stroke-like episodes characteristic of AGS can lead to such destructive lesions."
+    },
+    {
+      "disease_name": "Congenital Cytomegalovirus infection",
+      "disease_id": "OMIM:136760",
+      "score": 0.33,
+      "explanation": "Congenital Cytomegalovirus (CMV) infection is a well-established cause of multiple central nervous system abnormalities, including hydrocephalus, intracranial calcifications (often basal ganglia and periventricular), porencephaly, gliosis, and abnormal white matter development/myelination. Cerebral hemorrhage can occur due to vasculitis or coagulopathy in severe cases. This infectious etiology closely mimics many of the observed phenotypic features."
+    },
+    {
+      "disease_name": "COATS Plus Syndrome",
+      "disease_id": "OMIM:612163",
+      "score": 0.25,
+      "explanation": "COATS Plus Syndrome is characterized by intracranial calcifications (including basal ganglia), brain cysts (which can be porencephalic-like), and leukoencephalopathy (abnormal CNS myelination). Hydrocephalus can also be present. While cerebral hemorrhage is not explicitly a primary feature, the underlying microangiopathy could predispose to vascular events, and the combination of calcifications, cysts, and white matter changes is a significant overlap."
+    }
+  ]
+}

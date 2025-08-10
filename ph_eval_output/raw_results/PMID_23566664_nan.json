@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hajdu-Cheney Syndrome",
+      "disease_id": "OMIM:102500",
+      "score": 1.0,
+      "explanation": "This syndrome is an excellent fit due to the highly specific combination of progressive acro-osteolysis (matching 'osteolytic defects of the phalanges of the hand'), generalized osteoporosis ('osteoporosis of vertebrae'), vertebral compression fractures, and short stature. The characteristic craniofacial features, including micrognathia, and potentially coarse features like a 'flat face' and 'thick eyebrow', also align very well with the patient's phenotype. The patient's age (P57Y) is consistent with the progressive nature of HCS."
+    },
+    {
+      "disease_name": "Multicentric Carpotarsal Osteolysis",
+      "disease_id": "OMIM:166300",
+      "score": 0.5,
+      "explanation": "This group of disorders is primarily characterized by progressive osteolysis affecting the carpal and tarsal bones, and often extending to phalanges ('osteolytic defects of the phalanges of the hand'). Osteoporosis, short stature, and fractures are common secondary features, fitting the patient's skeletal profile. While typically associated with nephropathy in the most common form, the core osteolysis matches very strongly. The described facial features are less typical for MCTO compared to Hajdu-Cheney Syndrome, which lowers its ranking slightly."
+    },
+    {
+      "disease_name": "Gaucher Disease, Type 1",
+      "disease_id": "OMIM:230800",
+      "score": 0.33,
+      "explanation": "Gaucher Disease Type 1 is a lysosomal storage disorder that can significantly affect the skeletal system, causing osteoporosis ('osteoporosis of vertebrae'), osteopenia, bone crises, osteonecrosis, and pathological fractures (including 'vertebral compression fracture'), leading to short stature and bone pain ('low back pain'). This aligns with many of the patient's skeletal symptoms. However, the specific 'osteolytic defects of the phalanges of the hand' are less characteristic compared to Hajdu-Cheney Syndrome or Multicentric Carpotarsal Osteolysis, and the described facial dysmorphism (thick eyebrow, flat face, micrognathia, large earlobe) is not typical for Gaucher disease, which lowers its overall fit."
+    }
+  ]
+}

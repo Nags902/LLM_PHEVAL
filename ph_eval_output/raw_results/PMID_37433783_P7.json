@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris syndrome 1",
+      "disease_id": "OMIM:614607",
+      "score": 1.0,
+      "explanation": "This is a highly likely diagnosis. Prominent fingertip pads (HP:0001212) are a characteristic and often defining feature of Coffin-Siris syndrome, particularly in ARID1B-related cases. Other key features such as severe intellectual disability (HP:0001249), global developmental delays (HP:0002194, HP:0010862, HP:0000750), autistic features (HP:0000717), and specific craniofacial anomalies including thick eyebrows (HP:0000574), hypoplastic nasal bridge (HP:0005281), and midface retrusion (HP:0011800) are highly consistent with the clinical presentation. ARID1B is the most frequently mutated gene in Coffin-Siris syndrome."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser syndrome",
+      "disease_id": "OMIM:601358",
+      "score": 0.5,
+      "explanation": "Nicolaides-Baraitser syndrome shares significant clinical overlap with Coffin-Siris syndrome, making it a strong contender. Key features matching the patient's presentation include prominent fingertip pads (HP:0001212), severe intellectual disability (HP:0001249), global developmental delays (HP:0002194, HP:0010862, HP:0000750), autistic features (HP:0000717), and characteristic facial dysmorphism (often including thick eyebrows HP:0000574, hypoplastic nasal bridge HP:0005281, and midface retrusion HP:0011800). It is also a disorder of chromatin remodeling."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.333,
+      "explanation": "Many of the patient's features align with Rubinstein-Taybi syndrome. These include intellectual disability (HP:0001249), significant global developmental delays (HP:0002194, HP:0010862, HP:0000750, HP:0012434), autistic-like behaviors (HP:0000717), thick eyebrows (HP:0000574), and facial dysmorphism (including hypoplastic nasal bridge HP:0005281 and midface retrusion HP:0011800). While the hallmark digital feature is typically 'broad thumbs and toes', this can manifest as prominent fingertip pads (HP:0001212), making it a plausible diagnosis. This form is caused by mutations in the CREBBP gene."
+    },
+    {
+      "disease_name": "Coffin-Siris syndrome 4",
+      "disease_id": "OMIM:614610",
+      "score": 0.25,
+      "explanation": "This is another genetic subtype of Coffin-Siris syndrome caused by mutations in the ARID1A gene. It presents with a very similar clinical picture to ARID1B-related Coffin-Siris syndrome, encompassing prominent fingertip pads (HP:0001212), intellectual disability (HP:0001249), developmental delays, autism (HP:0000717), and characteristic facial features like thick eyebrows (HP:0000574), hypoplastic nasal bridge (HP:0005281), and midface retrusion (HP:0011800). It is a common cause of CSS and fits the patient's phenotype well."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi syndrome 2",
+      "disease_id": "OMIM:613684",
+      "score": 0.2,
+      "explanation": "This is the second known genetic cause of Rubinstein-Taybi syndrome, resulting from mutations in the EP300 gene. The clinical presentation is highly similar to Rubinstein-Taybi syndrome 1, including intellectual disability (HP:0001249), global developmental delays, autistic-like features (HP:0000717), distinctive facial features (thick eyebrows HP:0000574, hypoplastic nasal bridge HP:0005281, midface retrusion HP:0011800), and digital anomalies that can include prominent fingertip pads (HP:0001212). It should be considered in the differential diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 1",
+      "disease_id": "OMIM:225750",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 1 (TREX1-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 2",
+      "disease_id": "OMIM:610181",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 2 (RNASEH2B-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 3",
+      "disease_id": "OMIM:610329",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 3 (RNASEH2C-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 4",
+      "disease_id": "OMIM:610333",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 4 (RNASEH2A-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 5",
+      "disease_id": "OMIM:610330",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 5 (SAMHD1-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 6",
+      "disease_id": "OMIM:612952",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 6 (ADAR-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 7",
+      "disease_id": "OMIM:615013",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 7 (IFIH1-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 8",
+      "disease_id": "OMIM:619080",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 8 (LSm11-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Aicardi-Gouti\u00e8res Syndrome Type 9",
+      "disease_id": "OMIM:619561",
+      "score": 1.0,
+      "explanation": "Aicardi-Gouti\u00e8res Syndrome (AGS) is a severe inflammatory encephalopathy that frequently presents with early-onset epileptic encephalopathy, profound global developmental delay, hypotonia, and CNS hypomyelination, precisely matching the patient's phenotypic features. Type 9 (RNU7-1-related) is one of several genetic causes with a similar presentation."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher Disease",
+      "disease_id": "OMIM:312080",
+      "score": 0.5,
+      "explanation": "Pelizaeus-Merzbacher Disease (PMD) is a classic X-linked hypomyelinating leukodystrophy characterized by profound global developmental delay, hypotonia, and severe CNS hypomyelination. Seizures are a common feature, and can manifest as epileptic encephalopathy in severe forms."
+    },
+    {
+      "disease_name": "Pelizaeus-Merzbacher-like Disease 1",
+      "disease_id": "OMIM:610532",
+      "score": 0.5,
+      "explanation": "Pelizaeus-Merzbacher-like Disease 1 (PMLD1) is an autosomal recessive hypomyelinating leukodystrophy with a clinical presentation very similar to PMD, including profound global developmental delay, hypotonia, and CNS hypomyelination. Epileptic encephalopathy is also a recognized feature."
+    },
+    {
+      "disease_name": "Leukodystrophy, hypomyelinating, 7",
+      "disease_id": "OMIM:607694",
+      "score": 0.333,
+      "explanation": "Hypomyelinating Leukodystrophy 7 (POLR3A-related) is part of the 4H leukodystrophy spectrum, characterized by significant CNS hypomyelination, profound global developmental delay, and hypotonia. Seizures and epileptic encephalopathy are common neurological manifestations."
+    },
+    {
+      "disease_name": "Leukodystrophy, hypomyelinating, 8",
+      "disease_id": "OMIM:614381",
+      "score": 0.333,
+      "explanation": "Hypomyelinating Leukodystrophy 8 (POLR3B-related) is another disorder within the 4H leukodystrophy spectrum, sharing key features with HLD7 including CNS hypomyelination, profound global developmental delay, hypotonia, and a propensity for seizures and epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Leukodystrophy, hypomyelinating, 11",
+      "disease_id": "OMIM:616420",
+      "score": 0.333,
+      "explanation": "Hypomyelinating Leukodystrophy 11 (POLR1C-related) is part of the POLR3-related leukodystrophies, which are defined by CNS hypomyelination, profound developmental delay, hypotonia, and can include epileptic encephalopathy."
+    },
+    {
+      "disease_name": "Leukoencephalopathy with vanishing white matter",
+      "disease_id": "OMIM:603896",
+      "score": 0.25,
+      "explanation": "Vanishing White Matter Disease (VWMD) is a progressive leukoencephalopathy characterized by CNS hypomyelination, profound global developmental delay (often with regression), and hypotonia. Seizures, including epileptic encephalopathy, are common, especially in severe early-onset forms."
+    },
+    {
+      "disease_name": "Hypomyelination with atrophy of basal ganglia and cerebellum",
+      "disease_id": "OMIM:612349",
+      "score": 0.2,
+      "explanation": "Hypomyelination with atrophy of basal ganglia and cerebellum (H-ABC) is caused by TUBB4A mutations and presents with CNS hypomyelination, developmental delay, hypotonia, and often movement disorders. Seizures can occur and contribute to the neurological phenotype."
+    },
+    {
+      "disease_name": "Multiple Sulfatase Deficiency",
+      "disease_id": "OMIM:272200",
+      "score": 0.166,
+      "explanation": "Multiple Sulfatase Deficiency (MSD) is a lysosomal storage disorder that can cause severe neurodegeneration, developmental delay/regression, hypotonia, seizures (including refractory epilepsy), and white matter abnormalities, which can include hypomyelination or dysmyelination."
+    }
+  ]
+}

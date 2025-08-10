@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 3 (DGUOK Deficiency)",
+      "disease_id": "OMIM:251880",
+      "score": 1.0,
+      "explanation": "This disease, a hepatocerebral form of mtDNA depletion syndrome, is a strong candidate. It characteristically presents in infancy with severe liver failure leading to coagulopathy, along with profound hypotonia, global developmental delay, lactic acidosis, and hypoglycemia, all matching the patient's phenotype."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome 6 (MPV17 Deficiency)",
+      "disease_id": "OMIM:612075",
+      "score": 0.5,
+      "explanation": "Similar to DGUOK deficiency, MPV17 deficiency is another hepatocerebral form of mtDNA depletion syndrome that explains the constellation of liver dysfunction (causing coagulopathy), increased circulating lactate, hypoglycemia, global developmental delay, and hypotonia observed in the patient."
+    },
+    {
+      "disease_name": "Carnitine Palmitoyltransferase II Deficiency, Neonatal Severe Form",
+      "disease_id": "OMIM:600650",
+      "score": 0.333,
+      "explanation": "The severe neonatal form of CPT2 deficiency is a highly relevant diagnosis. It typically presents with profound hypotonia, severe hepatomegaly with liver failure (explaining the abnormality of the coagulation cascade), cardiomyopathy, hypoglycemia, and lactic acidosis, aligning well with the patient's symptoms."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ia (Von Gierke Disease Type Ia)",
+      "disease_id": "OMIM:232200",
+      "score": 0.25,
+      "explanation": "GSD Ia is a classic cause of severe fasting hypoglycemia and lactic acidosis due to impaired glucose release from the liver. Prominent liver involvement can lead to abnormalities of the coagulation cascade. Global developmental delay and hypotonia can occur secondary to chronic metabolic derangements."
+    },
+    {
+      "disease_name": "Glycogen Storage Disease Type Ib (Von Gierke Disease Type Ib)",
+      "disease_id": "OMIM:613742",
+      "score": 0.2,
+      "explanation": "Similar to GSD Ia, GSD Ib presents with severe fasting hypoglycemia and lactic acidosis. Liver dysfunction is a key feature which can lead to abnormalities of the coagulation cascade, fitting the patient's metabolic and hepatic profile."
+    },
+    {
+      "disease_name": "Propionic Acidemia, PCCA-related",
+      "disease_id": "OMIM:606054",
+      "score": 0.167,
+      "explanation": "Propionic Acidemia is a severe organic acidemia characterized by recurrent metabolic crises, often presenting with lactic acidosis, hypoglycemia, global developmental delay, and hypotonia. Coagulopathy can be a complication due to severe liver dysfunction or bone marrow suppression during acute decompensations."
+    },
+    {
+      "disease_name": "Propionic Acidemia, PCCB-related",
+      "disease_id": "OMIM:232050",
+      "score": 0.143,
+      "explanation": "Similar to PCCA-related Propionic Acidemia, PCCB deficiency causes a severe organic acidemia with metabolic crises, lactic acidosis, hypoglycemia, developmental delay, and hypotonia. Liver involvement or bone marrow issues can also lead to secondary coagulation abnormalities."
+    }
+  ]
+}

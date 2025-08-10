@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder (Epileptic encephalopathy, early infantile, 2)",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This X-linked disorder is a strong candidate given the patient's female gender and the hallmark presence of early-onset epileptic encephalopathy, severe global developmental delay, intellectual disability, generalized hypotonia, and autistic features. Irritability and self-injurious behaviors are also frequently reported, making it an excellent match for the described phenotype."
+    },
+    {
+      "disease_name": "STXBP1-related Encephalopathy (Epileptic encephalopathy, early infantile, 4)",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "STXBP1-related encephalopathy is characterized by early-onset epileptic encephalopathy, severe global developmental delay, severe intellectual disability, and generalized hypotonia. Autistic features and irritability are commonly observed, and self-injurious behavior can occur in the context of severe neurodevelopmental impairment. Focal aware seizures are consistent with this diagnosis, presenting a very strong overlap with the patient's features."
+    },
+    {
+      "disease_name": "SYNGAP1-related Intellectual Disability (Intellectual disability, autosomal dominant, 5)",
+      "disease_id": "OMIM:612621",
+      "score": 0.3333333333333333,
+      "explanation": "SYNGAP1-related intellectual disability is a highly relevant candidate due to the combination of global developmental delay, moderate to severe intellectual disability, epilepsy (often evolving into epileptic encephalopathy), generalized hypotonia, and prominent autistic features. Behavioral challenges including irritability and self-injurious behavior are also frequently reported in affected individuals."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome / SHANK3-related)",
+      "disease_id": "OMIM:606232",
+      "score": 0.25,
+      "explanation": "This syndrome is a strong contender, particularly due to the prominent combination of severe intellectual disability, global developmental delay, significant autistic features, generalized hypotonia, and hallmark self-injurious behavior. While epileptic encephalopathy is not a primary defining feature, seizures are common and can be refractory, potentially mimicking aspects of an epileptic encephalopathy in some severe cases."
+    },
+    {
+      "disease_name": "SCN2A-related Disorders (Epileptic encephalopathy, early infantile, 11)",
+      "disease_id": "OMIM:607311",
+      "score": 0.2,
+      "explanation": "Mutations in SCN2A can cause a wide spectrum of epilepsy, including severe early-onset epileptic encephalopathy, often accompanied by severe global developmental delay, intellectual disability, and generalized hypotonia. Autistic features and irritability are frequently seen in the more severe phenotypes, and focal aware seizures are consistent with the disease spectrum. Self-injurious behavior can also be present in the context of severe neurodevelopmental impairment."
+    }
+  ]
+}

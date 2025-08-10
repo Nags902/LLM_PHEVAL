@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group A",
+      "disease_id": "OMIM:227650",
+      "score": 1.0,
+      "explanation": "This is the most common subtype of Fanconi Anemia and perfectly matches all the patient's features. The progressive pancytopenia (anemia, thrombocytopenia, neutropenia), short stature, cafe-au-lait spots, and especially the radial ray anomalies (absent thumb, absent radius) are classic features. The presence of chromosomal breakage induced by crosslinking agents is the pathognomonic diagnostic hallmark of Fanconi Anemia, making this the overwhelmingly most likely diagnosis."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group C",
+      "disease_id": "OMIM:613101",
+      "score": 0.5,
+      "explanation": "This is another common subtype of Fanconi Anemia. Patients with FANCC mutations present with a phenotype highly similar to FANCA, including bone marrow failure, congenital malformations (such as radial ray defects), skin abnormalities (cafe-au-lait spots), and the characteristic cellular hypersensitivity to DNA crosslinking agents. Without specific genetic testing, it is phenotypically indistinguishable from other FA subtypes."
+    },
+    {
+      "disease_name": "Fanconi Anemia, Complementation Group G",
+      "disease_id": "OMIM:600901",
+      "score": 0.33,
+      "explanation": "Mutations in the FANCG gene cause Fanconi Anemia with a clinical presentation consistent with the patient's data. Core features such as progressive bone marrow failure, short stature, cafe-au-lait spots, and radial ray abnormalities are present, along with the diagnostic chromosomal instability in response to DNA crosslinking agents. Like other FA subtypes, the precise diagnosis requires molecular confirmation."
+    },
+    {
+      "disease_name": "Thrombocytopenia-absent radius syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.25,
+      "explanation": "This syndrome shares two significant features with the patient: thrombocytopenia and radial aplasia (absent radius, absent thumb). However, it primarily involves megakaryocytic hypoplasia leading to thrombocytopenia, not generalized pancytopenia. Crucially, TAR syndrome does not typically feature cafe-au-lait spots or, most importantly, chromosomal breakage induced by crosslinking agents. It is included as a less likely differential diagnosis due to the overlapping limb and hematological features, but the absence of the key diagnostic marker makes it highly improbable."
+    }
+  ]
+}

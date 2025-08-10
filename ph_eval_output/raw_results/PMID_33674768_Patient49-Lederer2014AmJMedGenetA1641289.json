@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 1.0,
+      "explanation": "Noonan Syndrome is a highly relevant candidate as it frequently presents with both distinctive facial features (often described as 'Noonan facies') and skeletal anomalies, including clinodactyly. As a RASopathy, it encompasses a spectrum of severity, and various genetic subtypes are known to cause the condition."
+    },
+    {
+      "disease_name": "Down Syndrome (Trisomy 21)",
+      "disease_id": "OMIM:190685",
+      "score": 0.5,
+      "explanation": "Down Syndrome is a common chromosomal disorder characterized by a constellation of features including distinctive facial appearance (e.g., upslanting palpebral fissures, epicanthal folds) and frequently, clinodactyly of the fifth finger (often due to hypoplasia of the middle phalanx)."
+    },
+    {
+      "disease_name": "Aarskog-Scott Syndrome",
+      "disease_id": "OMIM:305400",
+      "score": 0.3333,
+      "explanation": "Aarskog-Scott Syndrome is characterized by facial dysmorphism (e.g., hypertelorism, broad philtrum, prominent forehead) and skeletal anomalies, including clinodactyly, particularly of the fifth digit. Both phenotypic features are highly characteristic of this X-linked disorder."
+    },
+    {
+      "disease_name": "Rubinstein-Taybi Syndrome 1",
+      "disease_id": "OMIM:180849",
+      "score": 0.25,
+      "explanation": "Rubinstein-Taybi Syndrome is a strong candidate as it is classically defined by broad thumbs and great toes (which can include clinodactyly or angular deviation of digits) and a distinctive facial appearance (e.g., prominent nose, grimacing smile, microcephaly). It is primarily caused by variants in the CREBBP gene."
+    }
+  ]
+}

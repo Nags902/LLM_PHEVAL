@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hereditary Spastic Paraplegia, type 3A",
+      "disease_id": "OMIM:604904",
+      "score": 1.0,
+      "explanation": "This condition, caused by mutations in the ATL1 gene, is a strong candidate as it can manifest as both pure and complex Hereditary Spastic Paraplegia (explaining spasticity, hyperactive deep tendon reflexes, and frequent falls). Crucially, ATL1 mutations are also a known cause of Hereditary Sensory and Autonomic Neuropathy type 1A (HSAN1A), which directly accounts for the peripheral axonal neuropathy and the severe sensory loss leading to acral ulceration, perfectly matching the complex phenotype."
+    },
+    {
+      "disease_name": "Hereditary Spastic Paraplegia, type 30",
+      "disease_id": "OMIM:610357",
+      "score": 0.5,
+      "explanation": "Caused by mutations in the KIF1A gene, SPG30 is a complex form of hereditary spastic paraplegia characterized by prominent spasticity, hyperactive reflexes, and peripheral neuropathy. KIF1A mutations are also associated with Hereditary Sensory and Autonomic Neuropathy type 2B (HSAN2B), which typically presents with severe sensory deficits and acral mutilation/ulceration, thus encompassing all of the patient's observed features."
+    },
+    {
+      "disease_name": "Hereditary Sensory and Autonomic Neuropathy, type I",
+      "disease_id": "OMIM:162230",
+      "score": 0.33,
+      "explanation": "This group of disorders is defined by progressive sensory loss and often leads to acral ulceration and mutilation due to impaired pain sensation and trophic changes. While typically presenting as a primary sensory neuropathy, some subtypes (e.g., HSAN1A, linked to ATL1 mutations as mentioned above) can also manifest with significant motor involvement, including spasticity and hyperactive reflexes, providing a good match for the overall clinical picture."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease, axonal, type 2D",
+      "disease_id": "OMIM:601472",
+      "score": 0.25,
+      "explanation": "This subtype of Charcot-Marie-Tooth disease, caused by GARS1 mutations, is characterized by peripheral axonal neuropathy. Unlike many other CMT types, CMT2D is known to frequently include prominent upper motor neuron signs such as spasticity and hyperactive deep tendon reflexes. While acral ulceration is not a primary feature, it could occur in severe cases due to significant sensory loss and neglect of injuries, making it a plausible but less direct fit for all symptoms compared to the top candidates."
+    }
+  ]
+}

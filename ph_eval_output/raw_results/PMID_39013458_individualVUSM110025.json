@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome",
+      "disease_id": "OMIM:614609",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong candidate as its core features align well with the patient's presentation, including global developmental delay, short stature, microcephaly, and neurobehavioral issues such as compulsive behaviors and anxiety. Coffin-Siris Syndrome is a genetically heterogeneous disorder, often involving genes within the BAF chromatin remodeling complex, which are critical for neurodevelopment."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser Syndrome",
+      "disease_id": "OMIM:610127",
+      "score": 0.5,
+      "explanation": "Nicolaides-Baraitser Syndrome presents with a significant overlap of features, including global developmental delay, short stature, microcephaly (often progressive), and a behavioral phenotype that can involve anxiety and features of autism spectrum disorder. It shares molecular pathways with Coffin-Siris Syndrome, making it a very close differential diagnosis."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.3333333333333333,
+      "explanation": "Cornelia de Lange Syndrome, particularly the classic type 1, is characterized by global developmental delay, short stature, and microcephaly. The behavioral phenotype commonly includes anxiety and compulsive behaviors, as well as features of autism spectrum disorder. While typically associated with distinct facial features and limb anomalies not mentioned in the patient's data, the neurodevelopmental and behavioral profile strongly aligns with the reported symptoms."
+    }
+  ]
+}

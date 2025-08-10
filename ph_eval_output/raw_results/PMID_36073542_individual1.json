@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This is the top candidate due to a strong match with multiple highly characteristic phenotypic features, especially the specific craniofacial dysmorphism (synophrys, deeply set eyes, uplifted earlobe, posterior helix pit) and tapered fingers. The presence of global developmental delay, intellectual disability, hypotonia, autistic behavior, self-injurious behavior, seizures, and gastrointestinal issues like chronic constipation further supports this diagnosis. While brain imaging findings such as cerebral atrophy, ventriculomegaly, thin corpus callosum, and hydrocephalus are reported in CdLS, their prominence can vary."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder is a strong contender, particularly given the patient's gender, developmental regression, severe global developmental delay, intellectual disability, focal impaired awareness seizures (often refractory), hypotonia, autistic behavior, and self-injurious behavior. The prominent brain imaging abnormalities including cerebral atrophy, ventriculomegaly, thin corpus callosum, and hydrocephalus are very characteristic of this disorder. While specific dysmorphic features like synophrys are not typical, deeply set eyes can be present."
+    },
+    {
+      "disease_name": "Zellweger Syndrome Spectrum",
+      "disease_id": "OMIM:214100",
+      "score": 0.33,
+      "explanation": "Zellweger Syndrome Spectrum disorders are considered due to the severe progressive neurological phenotype including developmental regression, hypotonia, seizures, global developmental delay, and intellectual disability. The significant brain imaging abnormalities, such as cerebral atrophy, ventriculomegaly, thin corpus callosum, and hydrocephalus, are highly consistent with this group of peroxisome biogenesis disorders. While specific dysmorphic features like synophrys and deeply set eyes are not primary hallmarks, general dysmorphism and multi-system involvement are common."
+    }
+  ]
+}

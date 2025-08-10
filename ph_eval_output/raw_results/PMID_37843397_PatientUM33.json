@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy Type 1",
+      "disease_id": "OMIM:608595",
+      "score": 1.0,
+      "explanation": "This disease perfectly matches the patient's comprehensive phenotype. Congenital Generalized Lipodystrophy (CGL), particularly Type 1 (due to AGPAT2 mutations), is characterized by a severe, near-total absence of subcutaneous adipose tissue (generalized lipodystrophy), leading to profound insulin resistance, early-onset Type 2 diabetes mellitus, severe hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and recurrent pancreatitis, all of which are primary features in the patient's presentation. The age of 21 years is consistent with the progression of metabolic complications in CGL."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy Type 2",
+      "disease_id": "OMIM:269700",
+      "score": 0.5,
+      "explanation": "CGL Type 2 (due to BSCL2 mutations) is the other most common and severe form of Congenital Generalized Lipodystrophy. It shares nearly identical clinical features with CGL Type 1, including generalized absence of adipose tissue, severe insulin resistance, Type 2 diabetes, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and pancreatitis. Without genetic testing, it is clinically indistinguishable from CGL1, making it an equally strong candidate for the patient's constellation of symptoms."
+    },
+    {
+      "disease_name": "Acquired Generalized Lipodystrophy (Lawrence Syndrome)",
+      "disease_id": "OMIM:608594",
+      "score": 0.333,
+      "explanation": "Acquired Generalized Lipodystrophy (AGL) presents with a phenotype remarkably similar to congenital forms, including extensive loss of subcutaneous adipose tissue, severe insulin resistance leading to Type 2 diabetes, dyslipidemia (hypertriglyceridemia, hypercholesterolemia), hepatic steatosis, and pancreatitis. While typically acquired and sometimes associated with autoimmune conditions, its metabolic complications can be severe by age 21, making it a crucial differential diagnosis in the absence of clear congenital onset information."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy Type 4",
+      "disease_id": "OMIM:613326",
+      "score": 0.25,
+      "explanation": "CGL Type 4, caused by PTRF mutations, is another genetic subtype of Congenital Generalized Lipodystrophy. It presents with the hallmark features of generalized lipodystrophy and severe metabolic complications, including insulin resistance, Type 2 diabetes, hyperlipidemia, hepatic steatosis, and susceptibility to pancreatitis. Although rarer than CGL1 and CGL2, its clinical presentation perfectly aligns with the patient's symptoms."
+    },
+    {
+      "disease_name": "Congenital Generalized Lipodystrophy Type 3",
+      "disease_id": "OMIM:612526",
+      "score": 0.2,
+      "explanation": "CGL Type 3 (due to CAV1 mutations) is a less common but phenotypically similar form of Congenital Generalized Lipodystrophy. Patients exhibit generalized adipose tissue deficiency and the full spectrum of metabolic complications seen in other CGL types, including severe insulin resistance, Type 2 diabetes, hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and increased risk of pancreatitis, making it a relevant consideration."
+    },
+    {
+      "disease_name": "Familial Partial Lipodystrophy Type 2 (Dunnigan type)",
+      "disease_id": "OMIM:151660",
+      "score": 0.166,
+      "explanation": "While typically classified as partial lipodystrophy, FPLD Type 2 (due to LMNA mutations) can present with significant and widespread loss of subcutaneous fat from the limbs and gluteal region, which in severe cases might be described as generalized. Crucially, it is strongly associated with severe metabolic complications such as Type 2 diabetes, marked hypertriglyceridemia, hypercholesterolemia, hepatic steatosis, and recurrent pancreatitis, all observed in the patient."
+    }
+  ]
+}

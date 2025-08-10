@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple Self-Healing Squamous Epithelioma, Ferguson-Smith type",
+      "disease_id": "OMIM:184750",
+      "score": 1.0,
+      "explanation": "This rare autosomal dominant disorder is directly characterized by the presence of multiple keratoacanthomas that undergo spontaneous regression, perfectly matching the 'self-healing squamous epithelioma' phenotype. It is the most specific and highly relevant diagnosis."
+    },
+    {
+      "disease_name": "Muir-Torre Syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.5,
+      "explanation": "Muir-Torre Syndrome is a variant of Lynch Syndrome characterized by the occurrence of sebaceous neoplasms and keratoacanthomas (a type of self-healing squamous epithelioma), often along with internal malignancies. Its strong association with keratoacanthomas makes it a significant differential diagnosis for the presented phenotype."
+    }
+  ]
+}

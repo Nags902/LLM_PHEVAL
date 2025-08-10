@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ohtahara Syndrome",
+      "disease_id": "OMIM:256720",
+      "score": 1.0,
+      "explanation": "This patient's clinical presentation, particularly the presence of 'EEG with burst suppression' (HP:0010851), alongside severe global developmental delay, intellectual disability, and various intractable seizures, strongly points to Ohtahara Syndrome. Ohtahara syndrome (also known as early infantile epileptic encephalopathy with suppression bursts, EIEE) is characterized by very early onset, often within the first 3 months of life, and the pathognomonic burst-suppression pattern on EEG. It frequently evolves into West Syndrome, explaining the presence of 'Infantile spasms' (HP:0012469) and 'Hypsarrhythmia' (HP:0002521) in this patient, which are core features of West Syndrome."
+    },
+    {
+      "disease_name": "West Syndrome",
+      "disease_id": "OMIM:308350",
+      "score": 0.5,
+      "explanation": "The explicit mention of 'Infantile spasms' (HP:0012469) and 'Hypsarrhythmia' (HP:0002521), combined with 'Global developmental delay' (HP:0001263) and 'Intellectual disability, severe' (HP:0010864), constitutes the classic triad of West Syndrome (infantile spasms syndrome). While 'EEG with burst suppression' is less typical for classical West Syndrome, severe forms or those evolving from Ohtahara Syndrome (as often occurs) can present with this feature. Many of the other seizure types and the designation of 'Epileptic encephalopathy' are also consistent with West Syndrome."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300203",
+      "score": 0.333,
+      "explanation": "CDKL5 Deficiency Disorder is a common genetic cause of early-onset epileptic encephalopathy characterized by severe intellectual disability, refractory seizures including infantile spasms and tonic seizures, and often hypsarrhythmia. The presence of burst suppression is also reported in some severe cases. This disorder comprehensively explains the patient's severe phenotype."
+    },
+    {
+      "disease_name": "KCNQ2-Related Epileptic Encephalopathy",
+      "disease_id": "OMIM:613952",
+      "score": 0.25,
+      "explanation": "KCNQ2-related epileptic encephalopathy is characterized by neonatal or early infantile-onset seizures, often tonic, and a prominent burst-suppression pattern on EEG, along with severe developmental delay and intellectual disability. While infantile spasms may not be the primary seizure type, they can occur, making this a strong candidate given the overall severe epileptic encephalopathy presentation."
+    },
+    {
+      "disease_name": "STXBP1-Related Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.2,
+      "explanation": "STXBP1-related encephalopathy is another common genetic cause of early-onset epileptic encephalopathy, which can present with a wide spectrum of seizure types, including tonic seizures, myoclonic seizures, and infantile spasms. Burst suppression and severe global developmental delay/intellectual disability are also common features, aligning well with the patient's profile."
+    }
+  ]
+}

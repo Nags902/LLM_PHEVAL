@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ij (DPAGT1-CDG)",
+      "disease_id": "OMIM:607990",
+      "score": 1.0,
+      "explanation": "This disease presents with a highly concordant set of features including microcephaly, cerebellar hypoplasia, intellectual disability, delayed motor and speech development, strabismus, and sensorineural hearing impairment, aligning remarkably well with all the patient's described phenotypic features."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 3",
+      "disease_id": "OMIM:608027",
+      "score": 0.5,
+      "explanation": "Key features of this disorder include microcephaly, severe intellectual disability, cerebellar hypoplasia, and sensorineural hearing impairment, all of which are explicitly present in the patient's phenotype. Global developmental delays are also characteristic."
+    },
+    {
+      "disease_name": "Congenital disorder of glycosylation, type Ia (PMM2-CDG)",
+      "disease_id": "OMIM:212065",
+      "score": 0.333,
+      "explanation": "PMM2-CDG is strongly associated with cerebellar hypoplasia/atrophy, intellectual disability, developmental delay, and strabismus. Sensorineural hearing impairment is also reported in a significant subset of patients. Microcephaly can be present but is more variable."
+    },
+    {
+      "disease_name": "Pontocerebellar hypoplasia type 10",
+      "disease_id": "OMIM:615881",
+      "score": 0.25,
+      "explanation": "Similar to PCH type 3, PCH type 10 is characterized by microcephaly, cerebellar hypoplasia, intellectual disability, and sensorineural hearing loss, making it a very strong candidate given the patient's specific presentation."
+    },
+    {
+      "disease_name": "Cerebro-oculo-facio-skeletal syndrome 1 (COFS syndrome 1)",
+      "disease_id": "OMIM:216400",
+      "score": 0.2,
+      "explanation": "COFS syndrome includes severe microcephaly, intellectual disability, global developmental delay, and frequently ocular anomalies (often leading to strabismus). Cerebellar hypoplasia and sensorineural hearing impairment can also occur, aligning with many of the patient's neuro-sensory features."
+    }
+  ]
+}

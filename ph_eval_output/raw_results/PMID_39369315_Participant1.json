@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Mowat-Wilson Syndrome",
+      "disease_id": "OMIM:235730",
+      "score": 1.0,
+      "explanation": "This patient's phenotype shows a strong and comprehensive match with Mowat-Wilson Syndrome. Key features include severe global developmental delay, intellectual disability, absent speech, progressive microcephaly, hypoplasia of the corpus callosum, autistic behavior, motor stereotypy, and a very distinctive set of facial features such as a triangular face, tented upper lip vermilion, tented philtrum, open mouth, drooling, bifid nasal tip, broad nasal tip, depressed nasal bridge, high forehead, epicanthus, blepharophimosis (often described as deep-set eyes with short palpebral fissures), facial hypotonia, high and narrow palate. The presence of Ventricular Septal Defect (VSD), strabismus, nystagmus, astigmatism, pes planus, gastroesophageal reflux, and gait disturbance further supports this diagnosis. While 'blue sclerae', 'thickened nuchal skin fold', 'thin nails', and 'small earlobe' are less typical for Mowat-Wilson Syndrome, the overwhelming number and specificity of other matching features, particularly the unique craniofacial and neurodevelopmental findings, strongly point to this condition."
+    },
+    {
+      "disease_name": "Pitt-Hopkins Syndrome",
+      "disease_id": "OMIM:610954",
+      "score": 0.5,
+      "explanation": "Pitt-Hopkins Syndrome is a strong second candidate due to significant overlap in the severe neurodevelopmental phenotype, including severe intellectual disability, global developmental delay, absent speech, motor delay, autistic behavior, motor stereotypy, drooling, gait disturbance, and gastroesophageal reflux. It also shares some characteristic facial features such as an open mouth, tented upper lip, prominent philtrum, broad nasal tip, depressed nasal bridge, and high forehead. Hypoplasia of the corpus callosum can also occur. However, features like a triangular face, blepharophimosis, and bifid nasal tip are less characteristic of Pitt-Hopkins Syndrome, and 'blue sclerae', 'thickened nuchal skin fold', and 'thin nails' are not typically associated."
+    },
+    {
+      "disease_name": "ZBTB18-related neurodevelopmental disorder (1q43-q44 deletion syndrome)",
+      "disease_id": "OMIM:612337",
+      "score": 0.33,
+      "explanation": "Deletions involving the 1q43-q44 region, particularly affecting the ZBTB18 gene, are associated with a severe neurodevelopmental phenotype that aligns with several of the patient's features. These include global developmental delay, intellectual disability, progressive microcephaly, and frequently, agenesis or hypoplasia of the corpus callosum. Cardiac defects like VSD can also be present, and some facial dysmorphism (e.g., broad forehead, epicanthus, depressed nasal bridge) may overlap. However, the highly specific craniofacial features such as tented upper lip vermilion, tented philtrum, bifid nasal tip, blepharophimosis, and triangular face are not as consistently observed or characteristic in 1q43-q44 deletion syndrome, and 'blue sclerae' is not a typical finding."
+    }
+  ]
+}

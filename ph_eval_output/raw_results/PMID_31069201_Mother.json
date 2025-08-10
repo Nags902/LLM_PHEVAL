@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Activated PI3K-delta Syndrome 1",
+      "disease_id": "OMIM:615513",
+      "score": 1.0,
+      "explanation": "This condition (APDS1, due to PIK3CD mutations) is a strong candidate as it frequently presents with hypogammaglobulinemia (including low IgA and IgM), B lymphocytopenia, decreased proportion of class-switched memory B cells, T cell abnormalities (including altered CD4:CD8 ratio), and immune dysregulation leading to cytopenias such as thrombocytopenia. The combination of severe B cell defects and thrombocytopenia is highly characteristic."
+    },
+    {
+      "disease_name": "Activated PI3K-delta Syndrome 2",
+      "disease_id": "OMIM:616010",
+      "score": 0.5,
+      "explanation": "Similar to APDS1, APDS2 (due to PIK3R1 mutations) also causes a primary immunodeficiency with features including hypogammaglobulinemia (low IgA and IgM), B cell defects (decreased proportion of class-switched memory B cells, B lymphocytopenia), T cell dysregulation, and cytopenias like thrombocytopenia. It shares the core phenotypic overlap with the patient's presentation."
+    },
+    {
+      "disease_name": "CTLA4 Haploinsufficiency",
+      "disease_id": "OMIM:616053",
+      "score": 0.333,
+      "explanation": "CTLA4 haploinsufficiency is a disorder of immune dysregulation characterized by hypogammaglobulinemia (often CVID-like, including low IgA and IgM), lymphoproliferation, and severe autoimmune manifestations, including cytopenias such as thrombocytopenia. B cell defects, decreased proportion of class-switched memory B cells, and T cell abnormalities (including altered CD4:CD8 ratios) are common features, aligning well with the patient's profile."
+    },
+    {
+      "disease_name": "LRBA Deficiency",
+      "disease_id": "OMIM:614778",
+      "score": 0.25,
+      "explanation": "LRBA deficiency is another immune dysregulation syndrome with significant overlap with CTLA4 haploinsufficiency. It presents with CVID-like hypogammaglobulinemia (including low IgA and IgM), autoimmune phenomena including thrombocytopenia, lymphoproliferation, and severe T and B cell defects, including decreased proportion of class-switched memory B cells and altered CD4:CD8 ratio. The comprehensive immune and hematologic features fit the patient's profile."
+    },
+    {
+      "disease_name": "Wiskott-Aldrich Syndrome",
+      "disease_id": "OMIM:301000",
+      "score": 0.2,
+      "explanation": "Wiskott-Aldrich Syndrome is characterized by eczema, recurrent infections, and classic microthrombocytopenia, which directly matches the patient's thrombocytopenia. Immunologically, it involves both T cell and B cell dysfunction, often with decreased IgM and impaired antibody responses, and decreased proportion of class-switched memory B cells. Altered CD4:CD8 ratio can also be present, making it a strong candidate."
+    },
+    {
+      "disease_name": "GATA2 Deficiency",
+      "disease_id": "OMIM:614165",
+      "score": 0.167,
+      "explanation": "GATA2 deficiency is a broad disorder that can cause various hematologic abnormalities, including B lymphocytopenia and thrombocytopenia, as well as hypogammaglobulinemia (affecting IgA and IgM). It also leads to immunodeficiency and susceptibility to specific infections, aligning with the patient's combined immune and hematologic features."
+    },
+    {
+      "disease_name": "Common Variable Immunodeficiency",
+      "disease_id": "OMIM:240500",
+      "score": 0.143,
+      "explanation": "While many of the specific genetic causes listed above fall under the CVID umbrella, CVID itself is a heterogeneous primary antibody deficiency characterized by hypogammaglobulinemia (including low IgA and IgM), impaired proportion of class-switched memory B cells, and susceptibility to infections. Autoimmune complications, including thrombocytopenia, and T cell abnormalities (altered CD4:CD8 ratio) are also common in CVID, making it a highly plausible diagnostic category."
+    }
+  ]
+}

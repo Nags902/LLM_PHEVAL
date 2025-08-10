@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Fragile X Syndrome",
+      "disease_id": "OMIM:300624",
+      "score": 1.0,
+      "explanation": "Fragile X Syndrome is the most common inherited cause of intellectual disability, and delayed speech and language development is a hallmark feature, often presenting early in life. These two phenotypic features are highly characteristic and consistently observed in affected individuals."
+    },
+    {
+      "disease_name": "Angelman Syndrome",
+      "disease_id": "OMIM:105830",
+      "score": 0.5,
+      "explanation": "Angelman Syndrome is characterized by severe intellectual disability and a specific communication impairment, including absent or minimal use of words, making delayed speech a prominent and defining feature. Developmental delay is typically noted in infancy."
+    },
+    {
+      "disease_name": "Phelan-McDermid Syndrome",
+      "disease_id": "OMIM:606232",
+      "score": 0.333,
+      "explanation": "Phelan-McDermid Syndrome (22q13.3 deletion syndrome) is frequently associated with moderate to severe intellectual disability and profound expressive language delay or absence of speech, making it a strong candidate based on the provided phenotypic features."
+    },
+    {
+      "disease_name": "Down Syndrome (Trisomy 21)",
+      "disease_id": "OMIM:190685",
+      "score": 0.25,
+      "explanation": "Down Syndrome is the most common chromosomal cause of intellectual disability, which is universally present and associated with significant speech and language delays. While other distinguishing phenotypic features are common, the two provided are core aspects of this syndrome."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.2,
+      "explanation": "Sotos Syndrome 1 is characterized by intellectual disability, often mild to moderate, and typically involves delayed speech and language development. Although overgrowth is a classic feature, the intellectual and speech deficits are significant developmental concerns often leading to diagnosis."
+    }
+  ]
+}

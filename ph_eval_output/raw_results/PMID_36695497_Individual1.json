@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CHARGE syndrome",
+      "disease_id": "OMIM:214800",
+      "score": 1.0,
+      "explanation": "The patient's constellation of ocular features, including microphthalmia, iris coloboma, optic disc coloboma, chorioretinal coloboma, nystagmus, and strabismus, is highly characteristic and a major diagnostic criterion for CHARGE syndrome. Although other systemic features are not provided, the specific combination of multiple types of coloboma and microphthalmia strongly points to this diagnosis."
+    },
+    {
+      "disease_name": "Microphthalmia, isolated, with coloboma 1 (SOX2-related)",
+      "disease_id": "OMIM:600781",
+      "score": 0.5,
+      "explanation": "This diagnosis precisely matches the patient's core ocular phenotype of isolated microphthalmia and multiple forms of coloboma. Mutations in SOX2 are a common genetic cause for severe microphthalmia and coloboma affecting various parts of the eye, directly explaining all reported features if the condition is truly isolated to the eyes."
+    },
+    {
+      "disease_name": "Anophthalmia/Microphthalmia (PAX6-related)",
+      "disease_id": "OMIM:607146",
+      "score": 0.333,
+      "explanation": "Mutations in PAX6 are a well-established cause of a broad spectrum of ocular anomalies, including microphthalmia, anophthalmia, and colobomas affecting the iris, optic nerve, and choroid/retina. The presence of nystagmus and strabismus is also consistent with the visual impairment caused by these malformations."
+    },
+    {
+      "disease_name": "Renal coloboma syndrome",
+      "disease_id": "OMIM:120330",
+      "score": 0.25,
+      "explanation": "While optic disc coloboma is a defining feature of renal coloboma syndrome, the patient also presents with prominent iris and chorioretinal coloboma along with microphthalmia, which are less consistently severe or present in this syndrome compared to the top-ranked conditions. Without information on renal anomalies, it is considered less likely but remains in the differential due to the presence of optic disc coloboma."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Ataxia-telangiectasia",
+      "disease_id": "OMIM:208900",
+      "score": 1.0,
+      "explanation": "This is the most likely diagnosis given the classic triad of progressive cerebellar ataxia (cerebellar atrophy, nystagmus, dysmetria, ankle clonus), combined immunodeficiency (decreased IgM, IgG, IgA, recurrent infections), and hematologic abnormalities including myelodysplasia, pancytopenia, neutropenia, thrombocytopenia, and increased MCV. Macrocytosis is a common finding, and bone marrow dysfunction leading to myelodysplasia/pancytopenia can occur in A-T."
+    },
+    {
+      "disease_name": "DNA Ligase IV Deficiency",
+      "disease_id": "OMIM:606593",
+      "score": 0.5,
+      "explanation": "DNA Ligase IV deficiency is a severe combined immunodeficiency characterized by myelodysplasia, pancytopenia, and hypogammaglobulinemia, all matching the patient's hematologic and immunologic features. While cerebellar atrophy is not as universally highlighted as the primary neurological feature compared to Ataxia-telangiectasia, neurological abnormalities including cerebellar findings and neurodegeneration can occur, making it a strong contender."
+    },
+    {
+      "disease_name": "Cernunnos-XLF Deficiency",
+      "disease_id": "OMIM:611291",
+      "score": 0.333,
+      "explanation": "Similar to DNA Ligase IV Deficiency, Cernunnos-XLF deficiency is a DNA repair disorder leading to severe combined immunodeficiency with hypogammaglobulinemia and significant bone marrow failure/myelodysplasia and pancytopenia. While specific progressive cerebellar atrophy is less consistently reported as a defining feature, general neurodevelopmental delay and microcephaly are common, making it a plausible differential given the overlapping pathophysiology with LIG4 and Ataxia-telangiectasia."
+    }
+  ]
+}

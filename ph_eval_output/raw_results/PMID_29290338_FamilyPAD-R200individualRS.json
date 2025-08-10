@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, Type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "This patient presents with a classic and highly specific constellation of features diagnostic for Neurofibromatosis type 1 (NF1). The presence of neurofibromas, multiple cafe-au-lait spots, axillary and inguinal freckling (Crowe's sign), and Lisch nodules collectively fulfill the diagnostic criteria for NF1, making it the most likely causative disease."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611431",
+      "score": 0.5,
+      "explanation": "Legius syndrome is considered a differential diagnosis for Neurofibromatosis type 1, as it can present with multiple cafe-au-lait spots and axillary/inguinal freckling. However, Legius syndrome typically lacks neurofibromas and Lisch nodules, both of which are present in this patient. Therefore, while relevant due to some overlapping skin features, it is a significantly less likely diagnosis compared to NF1."
+    }
+  ]
+}

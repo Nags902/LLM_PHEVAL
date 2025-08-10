@@ -1,0 +1,40 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Holt-Oram Syndrome",
+      "disease_id": "OMIM:142900",
+      "score": 1.0,
+      "explanation": "This syndrome is the quintessential 'heart-hand syndrome,' directly linking congenital heart defects (especially septal defects like secundum atrial septal defect, muscular ventricular septal defect, and perimembranous ventricular septal defect, with complete atrioventricular canal defect also reported) with characteristic upper limb radial ray malformations, including absent thumb, absent radius, and ulnar deviation of the thumb. This combination is highly specific to Holt-Oram Syndrome."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227645",
+      "score": 0.5,
+      "explanation": "Fanconi Anemia is a strong candidate given the combination of prominent radial ray defects (absent thumb and absent radius) and significant congenital heart anomalies. Various septal defects and complete atrioventricular canal defect are commonly observed in this multisystem disorder, making it a very good fit for the patient's phenotype."
+    },
+    {
+      "disease_name": "VACTERL Association",
+      "disease_id": "OMIM:600322",
+      "score": 0.33,
+      "explanation": "VACTERL is an acronym for a non-random association of birth defects that includes Vertebral, Anorectal, Cardiac, Tracheoesophageal, Renal, and Limb (specifically Radial ray) abnormalities. The patient's features perfectly match the 'C' (Cardiac defects, including multiple septal defects and AV canal) and 'R' (Radial ray defects, including absent thumb and absent radius) components of this association. It is often a diagnosis of exclusion when a specific single-gene syndrome isn't identified."
+    },
+    {
+      "disease_name": "Baller-Gerold Syndrome",
+      "disease_id": "OMIM:218600",
+      "score": 0.25,
+      "explanation": "Baller-Gerold syndrome is characterized by craniosynostosis (not mentioned in this patient but a primary feature) and prominent radial ray defects (absent thumb, absent radius, ulnar deviation), with variable cardiac anomalies (VSDs and other defects can occur). The presence of the limb and cardiac defects makes it a possible, though less precise, fit if craniosynostosis is truly absent."
+    },
+    {
+      "disease_name": "Feingold Syndrome Type 1",
+      "disease_id": "OMIM:164280",
+      "score": 0.2,
+      "explanation": "Feingold syndrome typically features cardiac defects (including VSDs and ASDs) and digital anomalies. While thumb hypoplasia and brachymesophalangy are common, complete absence of the thumb and radius, as seen in this patient, is less characteristic or common than in other higher-ranked syndromes."
+    },
+    {
+      "disease_name": "Thrombocytopenia-Absent Radius Syndrome",
+      "disease_id": "OMIM:274000",
+      "score": 0.17,
+      "explanation": "While this syndrome involves absent radii, a key diagnostic criterion that distinguishes it from other radial ray defects is the *presence* of the thumb, often with hypoplasia. The patient's phenotype explicitly states 'absent thumb,' which contradicts this defining feature of TAR. Additionally, thrombocytopenia, a hallmark of TAR, is not mentioned."
+    }
+  ]
+}

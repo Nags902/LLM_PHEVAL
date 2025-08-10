@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Stiff Skin Syndrome",
+      "disease_id": "OMIM:184900",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by progressive thickening and hardening of the skin leading to restricted joint mobility, particularly affecting the knees, elbows, and shoulders. This directly matches the patient's most specific and prominent phenotypic features: stiff skin, knee contracture, elbow contracture, and limited shoulder flexion. Camptodactyly is also consistent with generalized contractures."
+    },
+    {
+      "disease_name": "Geleophysic Dysplasia Type 2",
+      "disease_id": "OMIM:614185",
+      "score": 0.5,
+      "explanation": "This is an FBN1-related disorder that classically presents with stiff skin, progressive joint contractures (including knees, elbows, and fingers leading to camptodactyly), and often short stature. While short stature is not listed, the core features of stiff skin and multiple contractures are highly consistent, and Myopia can be seen in FBN1-related conditions."
+    },
+    {
+      "disease_name": "Geleophysic Dysplasia Type 1",
+      "disease_id": "OMIM:231050",
+      "score": 0.333,
+      "explanation": "Phenotypically very similar to Geleophysic Dysplasia Type 2, with key features including stiff skin and generalized joint contractures. Although caused by mutations in a different gene (ADAMTSL2), the clinical presentation of stiff skin and multiple contractures makes it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Acromicric Dysplasia",
+      "disease_id": "OMIM:102370",
+      "score": 0.25,
+      "explanation": "Another FBN1-related disorder, often considered a milder form of Geleophysic Dysplasia. It shares the prominent features of stiff skin and joint limitations (contractures) that are present in the patient's phenotype, along with typically short stature."
+    },
+    {
+      "disease_name": "Bethlem Myopathy",
+      "disease_id": "OMIM:158810",
+      "score": 0.2,
+      "explanation": "This collagen VI-related myopathy is characterized by early-onset joint contractures, particularly affecting the elbows, ankles, and fingers (camptodactyly). While 'stiff skin' is not its primary diagnostic criterion, the presence of multiple significant contractures and camptodactyly makes it a relevant differential for conditions with generalized joint stiffness and limited mobility."
+    }
+  ]
+}

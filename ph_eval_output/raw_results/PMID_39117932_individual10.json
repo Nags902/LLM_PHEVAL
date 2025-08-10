@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 1",
+      "disease_id": "OMIM:609322",
+      "score": 1.0,
+      "explanation": "Atypical teratoid/rhabdoid tumor (AT/RT) is a hallmark feature of Rhabdoid Tumor Predisposition Syndrome 1 (RTPS1), which is caused by germline mutations in the SMARCB1 gene. This is the most common genetic predisposition to AT/RT, especially in young children like the patient (P3Y)."
+    },
+    {
+      "disease_name": "Rhabdoid Tumor Predisposition Syndrome 2",
+      "disease_id": "OMIM:615034",
+      "score": 0.5,
+      "explanation": "Atypical teratoid/rhabdoid tumor (AT/RT) can also be associated with Rhabdoid Tumor Predisposition Syndrome 2 (RTPS2), which is caused by germline mutations in the SMARCA4 gene. While less common than RTPS1, it is a recognized genetic predisposition for AT/RT."
+    }
+  ]
+}

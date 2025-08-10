@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Hypophosphatasia, Childhood",
+      "disease_id": "OMIM:241510",
+      "score": 1.0,
+      "explanation": "This condition is a primary candidate as it presents with a constellation of symptoms that perfectly match the patient's profile. These include severe impairment of bone mineralization leading to reduced bone mineral density, characteristic dental anomalies (e.g., premature tooth loss, dental hypoplasia), significant growth delay, feeding difficulties, global developmental delay, and intellectual disability. These features are typical for childhood forms of hypophosphatasia that manifest with more systemic involvement, aligning well with the patient's age (P14Y) and comprehensive phenotypic presentation."
+    },
+    {
+      "disease_name": "Osteogenesis Imperfecta, Type III",
+      "disease_id": "OMIM:259420",
+      "score": 0.5,
+      "explanation": "This severe form of osteogenesis imperfecta is characterized by extreme bone fragility, recurrent fractures, and thus significantly reduced bone mineral density, severe growth delay, and often dentinogenesis imperfecta (dental abnormality). Feeding difficulties due to severe skeletal deformities and delayed ability to walk are common. While intellectual disability and global developmental delay are not primary features of all OI types, they can be significant in Type III due to secondary neurological complications like hydrocephalus or basilar invagination, making it a strong contender for the patient's presentation."
+    },
+    {
+      "disease_name": "X-linked Hypophosphatemic Rickets",
+      "disease_id": "OMIM:307800",
+      "score": 0.33,
+      "explanation": "X-linked Hypophosphatemic Rickets causes bone demineralization (rickets/osteomalacia) leading to reduced bone mineral density, growth delay, and characteristic dental abnormalities such as dental abscesses and enamel defects. Feeding difficulties and delayed walking are commonly observed. While severe intellectual disability is not a hallmark feature, learning difficulties and some degree of developmental delay can be observed, especially if the condition is inadequately managed. The patient's male gender (Gender: 1) also aligns with the X-linked inheritance pattern of this disorder."
+    }
+  ]
+}

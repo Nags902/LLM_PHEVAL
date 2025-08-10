@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2S",
+      "disease_id": "OMIM:613287",
+      "score": 1.0,
+      "explanation": "This condition, caused by IGHMBP2 mutations, is a highly congruent match. It presents as a severe, early-onset, progressive motor and sensory axonal neuropathy, often with prominent bulbar weakness (facial weakness, dysarthria, ptosis), facial-lingual fasciculations, and distal limb amyotrophy, leading to loss of ambulation. Pes cavus and absent Achilles reflexes are also characteristic. The overlap of motor neuron disease features (fasciculations) and sensorimotor neuropathy fits the patient's profile exceptionally well."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2N",
+      "disease_id": "OMIM:616280",
+      "score": 0.5,
+      "explanation": "Caused by AARS1 mutations, CMT2N is characterized by severe, early-onset, progressive motor-predominant axonal neuropathy. Key features like facial weakness, dysarthria, and significant motor impairment (including delayed gross motor development, frequent falls, loss of ambulation, distal amyotrophy, steppage gait, absent Achilles reflex) are consistent. Sensory involvement (impaired vibratory sensation) is also noted, making it a strong candidate despite fasciculations being less frequently emphasized."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2K",
+      "disease_id": "OMIM:607678",
+      "score": 0.333,
+      "explanation": "CMT2K, resulting from GDAP1 mutations, is associated with a severe axonal or demyelinating sensorimotor neuropathy (patient has axonal). It often presents with early onset, significant motor involvement (weakness, loss of ambulation, frequent falls, steppage gait), distal amyotrophy, pes cavus, and absent reflexes. Bulbar involvement, including vocal cord paralysis, is reported in some cases, which supports the facial weakness, ptosis, and dysarthria. Fasciculations are less consistently described but the overall severe axonal neuropathy with bulbar features is a good fit."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2D",
+      "disease_id": "OMIM:601097",
+      "score": 0.25,
+      "explanation": "CMT2D, caused by GARS1 mutations, can present as a severe axonal sensorimotor neuropathy with prominent distal weakness and atrophy, leading to gait disturbances and falls. Fasciculations, particularly in the hands but also elsewhere, and bulbar weakness (dysarthria, vocal cord paralysis) are reported. Pes cavus and absent reflexes are also common. The combination of motor and sensory axonal neuropathy with bulbar involvement and fasciculations makes it a plausible candidate."
+    },
+    {
+      "disease_name": "Charcot-Marie-Tooth disease type 2A",
+      "disease_id": "OMIM:609260",
+      "score": 0.2,
+      "explanation": "CMT2A, caused by MFN2 mutations, is one of the most common and often severe forms of axonal Charcot-Marie-Tooth disease. It accounts for many core features such as motor axonal neuropathy, sensory impairment, distal weakness and atrophy, pes cavus, and absent Achilles reflexes. While the prominent facial-lingual fasciculations, ptosis, and strabismus are less typical hallmarks of all CMT2A cases, the highly variable and often severe phenotype of MFN2-related neuropathy means these features can occur, particularly in severe or early-onset forms. Given its prevalence and broad spectrum, it remains a consideration."
+    }
+  ]
+}

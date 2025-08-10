@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pseudohypoparathyroidism Type 1A",
+      "disease_id": "OMIM:103580",
+      "score": 1.0,
+      "explanation": "This condition, often manifesting as Albright hereditary osteodystrophy (AHO), is a classic cause of short stature, intellectual disability, and characteristic brachydactyly, particularly affecting the 4th and 5th metacarpals, aligning perfectly with the patient's phenotypic features."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1",
+      "disease_id": "OMIM:614566",
+      "score": 0.5,
+      "explanation": "Coffin-Siris Syndrome (including types 1, 2, 3, 4, 5, 6 due to mutations in ARID1B, SMARCB1, SMARCA4, ARID1A, SMARCC2, and DPF2 respectively) is consistently associated with intellectual disability, short stature, and distinctive facial features. Brachydactyly and hypoplastic nails, often affecting the 5th digit, are common skeletal findings, which can involve short metacarpals."
+    },
+    {
+      "disease_name": "Floating-Harbor Syndrome",
+      "disease_id": "OMIM:136100",
+      "score": 0.333,
+      "explanation": "Floating-Harbor Syndrome is characterized by prominent short stature, moderate to severe intellectual disability, and delayed bone age. Skeletal anomalies include short distal phalanges and occasionally short metacarpals, making it a strong candidate based on the presented phenotype."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome (including types 1, 2, 3, 4, 5 due to mutations in NIPBL, SMC1A, SMC3, RAD21, and HDAC8 respectively) commonly presents with intellectual disability and short stature. Limb anomalies, including various forms of brachydactyly and overall limb shortening, can manifest as short metacarpals."
+    },
+    {
+      "disease_name": "Turner Syndrome",
+      "disease_id": "OMIM:300069",
+      "score": 0.2,
+      "explanation": "Turner Syndrome is a strong candidate for short stature and a classically short 4th metacarpal (Archibald's sign). However, global intellectual disability is not a characteristic feature, although learning disabilities are common. Given the explicit mention of 'intellectual disability,' this disease is ranked lower but still considered due to the other two prominent features."
+    }
+  ]
+}

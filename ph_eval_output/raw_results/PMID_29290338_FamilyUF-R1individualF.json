@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Neurofibromatosis, type 1",
+      "disease_id": "OMIM:162200",
+      "score": 1.0,
+      "explanation": "This patient's phenotypic features, including plexiform neurofibroma, spinal neurofibroma, multiple cafe-au-lait spots, and scoliosis, are classic diagnostic criteria and common manifestations of Neurofibromatosis type 1. Plexiform neurofibromas are highly characteristic of NF1 and strongly support this diagnosis."
+    },
+    {
+      "disease_name": "Legius Syndrome",
+      "disease_id": "OMIM:611490",
+      "score": 0.5,
+      "explanation": "Legius syndrome is considered in the differential diagnosis of Neurofibromatosis type 1 due to the presence of multiple cafe-au-lait spots. However, the defining feature of Legius syndrome is the absence of neurofibromas (particularly plexiform and cutaneous neurofibromas), making it a highly unlikely diagnosis given the patient's clear presence of plexiform and spinal neurofibromas."
+    },
+    {
+      "disease_name": "Neurofibromatosis, type 2",
+      "disease_id": "OMIM:101000",
+      "score": 0.33,
+      "explanation": "While Neurofibromatosis type 2 can involve spinal tumors (typically schwannomas or ependymomas) and occasionally cafe-au-lait spots, the presence of plexiform neurofibroma and multiple typical neurofibromas is not characteristic of NF2. NF2 is primarily defined by bilateral vestibular schwannomas and other non-neurofibroma tumors of the nervous system."
+    }
+  ]
+}

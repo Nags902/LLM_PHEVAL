@@ -1,0 +1,58 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Congenital Contractural Arachnodactyly",
+      "disease_id": "OMIM:121050",
+      "score": 1.0,
+      "explanation": "This syndrome is a strong fit due to the highly characteristic combination of arachnodactyly, multiple congenital joint contractures (camptodactyly of finger and toe, elbow contracture), scoliosis, and the hallmark crumpled ear. Mitral valve prolapse can also occur. While aortic root aneurysm is less common than in other Marfanoid syndromes, its presence does not entirely rule out the diagnosis, especially given the strong match with other highly specific features."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.5,
+      "explanation": "Shprintzen-Goldberg Syndrome presents with a Marfanoid habitus (arachnodactyly, scoliosis), aortic root aneurysm, and prominent joint contractures (camptodactyly, elbow contracture), making it an excellent match for the musculoskeletal and cardiovascular features. While a crumpled ear is not a typical hallmark, general dysmorphism can occur, and the strong fit with the other major features makes this a high-ranking differential."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.3333333333333333,
+      "explanation": "Marfan Syndrome is a classic consideration given the presence of arachnodactyly, scoliosis, aortic root aneurysm, and mitral valve prolapse, which are core features. However, the patient's presentation with multiple significant joint contractures (camptodactyly of finger and toe, elbow contracture) is less typical than joint laxity seen in Marfan syndrome, and crumpled ear is not a characteristic feature. Nonetheless, the core cardiovascular and skeletal findings necessitate its inclusion as a high-ranking differential."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1",
+      "disease_id": "OMIM:609192",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 2",
+      "disease_id": "OMIM:610168",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 3",
+      "disease_id": "OMIM:613793",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 4",
+      "disease_id": "OMIM:614816",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 5",
+      "disease_id": "OMIM:615582",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 6",
+      "disease_id": "OMIM:617804",
+      "score": 0.25,
+      "explanation": "Loeys-Dietz Syndrome, similar to Marfan Syndrome, involves arachnodactyly, scoliosis, aortic root aneurysm (often more aggressive), and mitral valve prolapse. While joint laxity is more common than contractures, and crumpled ear is not a specific feature, the severe arterial involvement makes it a critical differential diagnosis for the cardiovascular findings."
+    }
+  ]
+}

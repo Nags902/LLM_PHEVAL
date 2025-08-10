@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 1.0,
+      "explanation": "Sotos Syndrome 1 is an overgrowth syndrome that aligns exceptionally well with the patient's comprehensive set of features. Key manifestations include tall stature, intellectual disability, global developmental delay, and hypotonia. Furthermore, recurrent infections (especially respiratory and ear infections), chronic constipation (due to gastrointestinal dysmotility), and hypermetropia are frequently reported associated findings, making this the most fitting diagnosis."
+    },
+    {
+      "disease_name": "Weaver Syndrome",
+      "disease_id": "OMIM:277590",
+      "score": 0.5,
+      "explanation": "Weaver Syndrome is another overgrowth syndrome that shares significant phenotypic overlap with Sotos Syndrome. It is characterized by tall stature, intellectual disability, global developmental delay, and hypotonia. Recurrent infections and gastrointestinal issues, including constipation, are also reported in individuals with Weaver Syndrome, making it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Tatton-Brown-Rahman Syndrome",
+      "disease_id": "OMIM:616571",
+      "score": 0.3333333333333333,
+      "explanation": "Tatton-Brown-Rahman Syndrome is an overgrowth syndrome presenting with tall stature, intellectual disability, global developmental delay, and hypotonia. While the associations with recurrent infections, chronic constipation, and hypermetropia are not as consistently or prominently highlighted as in Sotos or Weaver syndromes, the core features of overgrowth with neurodevelopmental delay make it a plausible, albeit less specific, candidate for consideration."
+    }
+  ]
+}

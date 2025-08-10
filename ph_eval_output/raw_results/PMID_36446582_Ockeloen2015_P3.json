@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Simpson-Golabi-Behmel Syndrome Type 1",
+      "disease_id": "OMIM:312870",
+      "score": 1.0,
+      "explanation": "This X-linked syndrome frequently presents with intellectual disability, distinct macrodontia, and a wide range of hand abnormalities (such as broad hands, syndactyly, or polydactyly). Autistic behaviors are also commonly reported, making it a very strong match for all listed phenotypic features. Being male (Gender: 1) is consistent with this X-linked condition."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.5,
+      "explanation": "KBG Syndrome is highly characterized by intellectual disability, prominent macrodontia (especially large central incisors), and various hand anomalies, including brachydactyly and clinodactyly. Autistic features are also frequently observed in affected individuals, aligning well with the patient's phenotype."
+    },
+    {
+      "disease_name": "Sotos Syndrome 1",
+      "disease_id": "OMIM:117550",
+      "score": 0.3333333333333333,
+      "explanation": "Sotos Syndrome is a well-known cause of intellectual disability and often presents with macrodontia (large teeth, premature eruption) and large hands. Autistic-like behaviors are also commonly reported in individuals with this condition, fitting the described features."
+    }
+  ]
+}

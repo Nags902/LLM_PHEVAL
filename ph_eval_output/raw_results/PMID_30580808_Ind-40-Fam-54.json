@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Coffin-Siris Syndrome 2",
+      "disease_id": "OMIM:614607",
+      "score": 1.0,
+      "explanation": "This patient's constellation of features strongly aligns with Coffin-Siris Syndrome, particularly the *ARID1B*-related type (CSS2). Key overlapping features include thick eyebrows, long eyelashes, downslanted palpebral fissures, wide nose with anteverted nares and thick alae, short philtrum, thin upper lip vermilion, thick lower lip vermilion, wide mouth with downturned corners, brachydactyly, joint hypermobility, intellectual disability, moderate global developmental delay, and autistic behavior. The combination of thick lower lip and wide mouth, along with joint hypermobility, is particularly characteristic of CSS among the various intellectual disability syndromes with dysmorphic features."
+    },
+    {
+      "disease_name": "Nicolaides-Baraitser Syndrome",
+      "disease_id": "OMIM:601358",
+      "score": 0.5,
+      "explanation": "Nicolaides-Baraitser Syndrome (caused by *SMARCA2* mutations) shares significant phenotypic overlap with Coffin-Siris Syndrome, as both are BAF complex disorders. Many features match well, including thick eyebrows, long eyelashes, downslanted palpebral fissures, a broad/prominent nose (consistent with wide nose/anteverted nares), short philtrum, thin upper lip, downturned corners of mouth, brachydactyly, joint hypermobility, intellectual disability, global developmental delay, and autistic features. While the thick lower lip and wide mouth might be less characteristic than in CSS, the overall picture is very similar."
+    },
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 0.33,
+      "explanation": "KBG Syndrome (due to *ANKRD11* mutations) presents with several overlapping features. These include distinctive facial features like thick eyebrows, a broad nasal bridge (consistent with wide nose), short philtrum, thin upper lip, and a prominent lower lip (consistent with thick lower lip vermilion). Brachydactyly, joint hypermobility, intellectual disability, developmental delay, and autistic behavior are also common. Although macrodontia is a hallmark of KBG syndrome and is not listed, the overall facial and developmental phenotype strongly aligns."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 0.25,
+      "explanation": "Cornelia de Lange Syndrome (CdLS), particularly the classic NIPBL-related type (CdLS1), shares many features with the patient. These include thick eyebrows (often synophrys), long eyelashes, short philtrum, thin upper lip, downturned corners of mouth, brachydactyly, intellectual disability, and global developmental delay. Autistic behavior is also reported. However, the presence of a distinct thick lower lip vermilion, wide mouth, and pronounced joint hypermobility are less typical for classical CdLS, making it a less precise fit compared to the higher-ranked syndromes."
+    }
+  ]
+}

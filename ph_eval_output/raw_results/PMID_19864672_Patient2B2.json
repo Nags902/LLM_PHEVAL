@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy",
+      "disease_id": "OMIM:240300",
+      "score": 1.0,
+      "explanation": "Chronic mucocutaneous candidiasis (including oral candidiasis) is a cardinal and often the earliest manifestation of this autosomal recessive disorder, fitting the patient's age and sole reported symptom."
+    },
+    {
+      "disease_name": "Immunodeficiency 31B, Autosomal Dominant",
+      "disease_id": "OMIM:614168",
+      "score": 0.5,
+      "explanation": "Gain-of-function mutations in STAT1 are a well-recognized cause of chronic mucocutaneous candidiasis, often presenting primarily with recurrent candidal infections."
+    },
+    {
+      "disease_name": "Immunodeficiency 29",
+      "disease_id": "OMIM:614886",
+      "score": 0.3333,
+      "explanation": "Defects in the IL-17 receptor A chain severely impair host defense against Candida, leading directly to chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Immunodeficiency 30",
+      "disease_id": "OMIM:615701",
+      "score": 0.3333,
+      "explanation": "Similar to IL17RA deficiency, mutations in the IL-17 receptor C chain impair the IL-17 pathway, resulting in chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Combined Immunodeficiency 19",
+      "disease_id": "OMIM:616053",
+      "score": 0.3333,
+      "explanation": "RORC is a key transcription factor for Th17 cell development, crucial for anti-fungal immunity. Its deficiency leads to impaired Th17 responses and susceptibility to fungal infections, including chronic candidiasis."
+    },
+    {
+      "disease_name": "Hyper-IgE Syndrome 2, Autosomal Recessive",
+      "disease_id": "OMIM:617637",
+      "score": 0.3333,
+      "explanation": "TRAF3IP2 (ACT1) is an adaptor molecule in the IL-17 signaling pathway. Its deficiency leads to a form of hyper-IgE syndrome with prominent chronic mucocutaneous candidiasis due to impaired Th17 immunity."
+    },
+    {
+      "disease_name": "Candidiasis, Familial, 6",
+      "disease_id": "OMIM:613106",
+      "score": 0.25,
+      "explanation": "CLEC7A (Dectin-1) is a pattern recognition receptor critical for innate anti-fungal immunity. Its deficiency predisposes individuals to chronic mucocutaneous candidiasis."
+    },
+    {
+      "disease_name": "Immunodeficiency, Familial Fungal, 2",
+      "disease_id": "OMIM:611281",
+      "score": 0.2,
+      "explanation": "CARD9 is involved in signal transduction downstream of C-type lectin receptors, including Dectin-1, and is crucial for anti-fungal immunity. Its deficiency leads to susceptibility to deep-seated and mucocutaneous fungal infections, including Candida."
+    }
+  ]
+}

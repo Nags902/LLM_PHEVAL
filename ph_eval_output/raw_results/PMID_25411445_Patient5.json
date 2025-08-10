@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Zellweger Spectrum Disorder",
+      "disease_id": "OMIM:214100",
+      "score": 1.0,
+      "explanation": "This disorder encompasses a spectrum of peroxisomal biogenesis disorders, often presenting prenatally with increased nuchal translucency (HP:0010880). Postnatally, individuals typically exhibit severe hypotonia (HP:0008936) evolving into spasticity (HP:0001257) and rigidity (HP:0002063), global developmental delay (HP:0001263), intractable seizures including epileptic spasms (HP:0011097) and epileptic encephalopathy (HP:0200134), progressive cerebral atrophy (HP:0002059), and significant visual impairment due to retinal dysfunction (abnormal electroretinogram - HP:0000512). EEG abnormalities (HP:0002353), hypokinesia (HP:0002375), and hyperreflexia (HP:0001347) are also characteristic. The severe multi-system neurological involvement strongly matches the patient's phenotype."
+    },
+    {
+      "disease_name": "Alpers-Huttenlocher Syndrome",
+      "disease_id": "OMIM:203700",
+      "score": 0.5,
+      "explanation": "Alpers-Huttenlocher Syndrome, primarily caused by POLG mutations, is a severe mitochondrial encephalopathy characterized by intractable seizures (epileptic encephalopathy, epileptic spasms), global developmental delay with psychomotor regression, cerebral atrophy (HP:0002059), and progressive motor dysfunction including hypotonia (HP:0008936), spasticity (HP:0001257), and rigidity (HP:0002063). Retinal involvement (abnormal electroretinogram - HP:0000512) and sudden unexpected death in epilepsy (SUDEP - HP:0033258) are well-documented complications. While increased nuchal translucency is not a primary feature, the severe neurological decline and SUDEP risk are highly concordant."
+    },
+    {
+      "disease_name": "Mitochondrial DNA Depletion Syndrome, SUCLA2-related",
+      "disease_id": "OMIM:612076",
+      "score": 0.333,
+      "explanation": "SUCLA2-related encephalomyopathy is a severe mitochondrial DNA depletion syndrome known for early-onset hypotonia (HP:0008936), global developmental delay (HP:0001263), progressive neurodegeneration with cerebral atrophy (HP:0002059), and intractable seizures (HP:0011097, HP:0200134, HP:0002353). Motor symptoms can include spasticity (HP:0001257), rigidity (HP:0002063), and hypokinesia (HP:0002375). Retinal involvement (HP:0000512) and SUDEP (HP:0033258) are reported in severe mitochondrial disorders. Increased nuchal translucency (HP:0010880) can be observed in various severe genetic syndromes including some mitochondrial disorders."
+    },
+    {
+      "disease_name": "GM2 Gangliosidosis, Sandhoff Type",
+      "disease_id": "OMIM:268800",
+      "score": 0.25,
+      "explanation": "Sandhoff disease is a lysosomal storage disorder characterized by progressive neurodegeneration. Patients typically present with early hypotonia (HP:0008936) followed by rapid psychomotor regression (HP:0001263), intractable seizures (HP:0011097, HP:0200134), progressive spasticity (HP:0001257), rigidity (HP:0002063), and cerebral atrophy (HP:0002059). Retinal degeneration leading to an abnormal electroretinogram (HP:0000512) is a common feature. While increased nuchal translucency (HP:0010880) is not universal, it has been reported as a prenatal finding in some lysosomal storage disorders. SUDEP (HP:0033258) can occur in patients with severe intractable epilepsy."
+    },
+    {
+      "disease_name": "SPTAN1-related Encephalopathy",
+      "disease_id": "OMIM:613401",
+      "score": 0.2,
+      "explanation": "SPTAN1-related encephalopathy is a severe developmental and epileptic encephalopathy characterized by early-onset seizures (HP:0011097, HP:0200134, HP:0002353), profound global developmental delay (HP:0001263), microcephaly, cerebral atrophy (HP:0002059), and a complex motor phenotype including hypotonia (HP:0008936) progressing to spasticity (HP:0001257) and rigidity (HP:0002063), and hypokinesia (HP:0002375). Optic atrophy is a common feature, which would result in an abnormal electroretinogram (HP:0000512). While increased nuchal translucency (HP:0010880) is not a primary feature, the strong concordance with the complex neurological and ocular findings, including SUDEP (HP:0033258) risk, makes it a significant candidate."
+    }
+  ]
+}

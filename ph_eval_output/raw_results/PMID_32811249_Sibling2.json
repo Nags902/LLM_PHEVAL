@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Bardet-Biedl Syndrome (various subtypes)",
+      "disease_id": "OMIM:209900",
+      "score": 1.0,
+      "explanation": "This is the most highly suspected diagnosis as all listed phenotypic features are characteristic of Bardet-Biedl Syndrome. The patient presents with postaxial polydactyly, various digital anomalies (brachydactyly, clinodactyly of the 5th finger), progressive rod-cone dystrophy (manifesting as reduced visual acuity and nyctalopia), and mild intellectual disability. These are classic components of this genetically heterogeneous ciliopathy, which encompasses many distinct genetic subtypes."
+    },
+    {
+      "disease_name": "Joubert Syndrome and Related Disorders (various subtypes)",
+      "disease_id": "OMIM:213300",
+      "score": 0.5,
+      "explanation": "Joubert Syndrome and related disorders are a group of ciliopathies that frequently present with retinal dystrophy (leading to visual impairment like nyctalopia and reduced visual acuity) and intellectual disability. Polydactyly, especially postaxial, can also be a variable feature in some subtypes (e.g., those caused by mutations in genes like CEP290 or TMEM67, which can also cause BBS). While the hallmark 'molar tooth sign' on brain imaging is not reported, the overlap in ocular and neurological features, combined with polydactyly, makes it a strong differential diagnosis."
+    },
+    {
+      "disease_name": "Oral-Facial-Digital Syndrome Type II (Mohr Syndrome)",
+      "disease_id": "OMIM:252100",
+      "score": 0.3333333333333333,
+      "explanation": "Oral-Facial-Digital Syndrome Type II features prominent digital anomalies, including postaxial polydactyly, brachydactyly, and clinodactyly, along with intellectual disability. These skeletal and neurological features align well with the patient's presentation. However, typical oral findings are not mentioned, and significant visual impairment (nyctalopia/reduced visual acuity) is not a common or core feature of this syndrome, making it a less probable diagnosis compared to the ciliopathies primarily affecting vision."
+    }
+  ]
+}

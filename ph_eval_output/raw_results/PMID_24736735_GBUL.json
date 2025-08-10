@@ -1,0 +1,16 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146580",
+      "score": 1.0,
+      "explanation": "This syndrome is the strongest candidate due to the classic triad of hypothalamic hamartoma, postaxial polydactyly, and anal atresia (imperforate anus). The highly specific skeletal findings of Y-shaped metacarpals and Y-shaped metatarsals, along with shortening of all distal phalanges and nail dysplasia, are consistent with the known skeletal anomalies reported in PHS, which result from GLI3 gene mutations. Growth delay and intellectual disability are also commonly associated features of this syndrome."
+    },
+    {
+      "disease_name": "McKusick-Kaufman Syndrome",
+      "disease_id": "OMIM:236700",
+      "score": 0.5,
+      "explanation": "McKusick-Kaufman Syndrome is considered a distant second due to the presence of postaxial polydactyly and reported, though less common, association with anal atresia. However, the cardinal features of hypothalamic hamartoma and the characteristic Y-shaped metacarpals/metatarsals are not typically found in this syndrome. Intellectual disability and growth delay are also not primary features of MKKS."
+    }
+  ]
+}

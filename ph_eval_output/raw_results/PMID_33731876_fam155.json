@@ -1,0 +1,64 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5 Deficiency Disorder",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This disorder is a leading cause of early infantile epileptic encephalopathy, frequently presenting with infantile spasms, severe intellectual disability, and various seizure types including focal tonic and generalized myoclonic. Cerebral atrophy and EEG burst suppression are common features, strongly matching the patient's phenotype."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy",
+      "disease_id": "OMIM:612164",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy is a well-recognized cause of severe early infantile epileptic encephalopathy, often characterized by infantile spasms, severe intellectual disability, and a spectrum of seizure types. EEG abnormalities, including burst suppression, and cerebral atrophy can occur, aligning well with the patient's presentation."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.3333333333333333,
+      "explanation": "Mutations in KCNQ2 are a significant cause of early infantile epileptic encephalopathy, particularly Ohtahara syndrome, which is defined by burst suppression on EEG. Patients typically exhibit neonatal-onset seizures or infantile spasms, profound intellectual disability, and can present with cerebral atrophy."
+    },
+    {
+      "disease_name": "SCN2A-related early infantile epileptic encephalopathy",
+      "disease_id": "OMIM:613721",
+      "score": 0.25,
+      "explanation": "SCN2A mutations can cause severe early infantile epileptic encephalopathy phenotypes, including Ohtahara syndrome. Key features such as infantile spasms, burst suppression EEG, severe intellectual disability, and various seizure types, along with cerebral atrophy, are frequently observed in this disorder."
+    },
+    {
+      "disease_name": "Nonketotic Hyperglycinemia (GLDC deficiency)",
+      "disease_id": "OMIM:605900",
+      "score": 0.2,
+      "explanation": "Nonketotic Hyperglycinemia is a metabolic disorder that often presents in the neonatal period with profound encephalopathy, intractable seizures, severe intellectual disability, and a characteristic burst suppression EEG pattern. Cerebral atrophy is a common neuroimaging finding, making it a strong metabolic differential."
+    },
+    {
+      "disease_name": "ARX-related intellectual disability, severe, with or without brain malformations",
+      "disease_id": "OMIM:300215",
+      "score": 0.16666666666666666,
+      "explanation": "ARX mutations in males can lead to severe X-linked intellectual disability with intractable epilepsy, including infantile spasms and Ohtahara syndrome (with burst suppression). Brain malformations like lissencephaly or cerebral atrophy are common, fitting the patient's features well, especially if male."
+    },
+    {
+      "disease_name": "KCNT1-related epileptic encephalopathy",
+      "disease_id": "OMIM:615049",
+      "score": 0.14285714285714285,
+      "explanation": "While often associated with Epilepsy of Infancy with Migrating Focal Seizures, KCNT1 mutations can also cause other severe early infantile epileptic encephalopathies, including phenotypes resembling Ohtahara syndrome with burst suppression, infantile spasms, and severe intellectual disability."
+    },
+    {
+      "disease_name": "GNAO1-related developmental encephalopathy",
+      "disease_id": "OMIM:616339",
+      "score": 0.125,
+      "explanation": "GNAO1-related encephalopathy typically presents with early-onset epileptic encephalopathy, severe intellectual disability, and often movement disorders. Seizures can include infantile spasms and tonic seizures, and brain abnormalities such as cerebral atrophy and burst suppression EEG can be part of the spectrum."
+    },
+    {
+      "disease_name": "DNM1-related epileptic encephalopathy",
+      "disease_id": "OMIM:616346",
+      "score": 0.1111111111111111,
+      "explanation": "Mutations in DNM1 are a cause of severe early infantile epileptic encephalopathy, characterized by diverse seizure types including infantile spasms, and severe intellectual disability. Cerebral atrophy and EEG patterns such as multifocal discharges or burst suppression can be seen."
+    },
+    {
+      "disease_name": "Tuberous Sclerosis Complex 2",
+      "disease_id": "OMIM:613254",
+      "score": 0.1,
+      "explanation": "Tuberous Sclerosis Complex is a common cause of infantile spasms and intellectual disability, often presenting as an epileptic encephalopathy with multifocal epileptiform discharges. While burst suppression is less typical as a primary feature, the overall severe epilepsy phenotype with structural brain changes (cortical tubers leading to atrophy/dysgenesis) makes it a relevant differential."
+    }
+  ]
+}

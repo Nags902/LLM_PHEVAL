@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Multiple self-healing squamous epithelioma",
+      "disease_id": "OMIM:132800",
+      "score": 1.0,
+      "explanation": "This disease, also known as Ferguson-Smith disease, is precisely characterized by the recurrent appearance of keratoacanthoma-like lesions that spontaneously grow and then regress, often leaving a scar. The term 'self-healing squamous epithelioma' is the pathognomonic feature of this autosomal dominant disorder."
+    },
+    {
+      "disease_name": "Generalized eruptive keratoacanthoma",
+      "disease_id": "OMIM:149300",
+      "score": 0.5,
+      "explanation": "Also known as Grzybowski Syndrome, this condition presents with hundreds to thousands of small, eruptive keratoacanthomas, many of which also undergo spontaneous regression. It shares the 'self-healing' characteristic with Multiple Self-Healing Squamous Epithelioma and is sometimes considered a variant or part of the same spectrum of self-healing cutaneous tumors."
+    },
+    {
+      "disease_name": "Muir-Torre syndrome",
+      "disease_id": "OMIM:158320",
+      "score": 0.33,
+      "explanation": "Muir-Torre syndrome is a genodermatosis characterized by the presence of sebaceous neoplasms (adenomas, epitheliomas, carcinomas) and keratoacanthomas, often in association with internal malignancies. Keratoacanthomas in Muir-Torre syndrome can sometimes undergo spontaneous regression, aligning with the 'self-healing' aspect of the provided phenotype. However, without other features such as sebaceous tumors or internal malignancies, it is less specific than the primary self-healing epithelioma syndromes."
+    }
+  ]
+}

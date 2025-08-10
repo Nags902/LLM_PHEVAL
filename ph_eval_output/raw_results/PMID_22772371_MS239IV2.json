@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 2 (LDS2)",
+      "disease_id": "OMIM:610168",
+      "score": 1.0,
+      "explanation": "This patient's profile, particularly the combination of aortic root aneurysm and widespread arterial tortuosity, is highly characteristic of Loeys-Dietz Syndrome. Other features such as tall stature, arachnodactyly, dural ectasia, mitral valve prolapse, and various skeletal abnormalities (high palate, abnormal sternum, spondylolisthesis, pes planus, protrusio acetabuli) are consistently observed in LDS. Type 2, caused by TGFBR2 mutations, is a common and severe form."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 1 (LDS1)",
+      "disease_id": "OMIM:609192",
+      "score": 1.0,
+      "explanation": "Similar to LDS2, this type caused by TGFBR1 mutations also presents with a constellation of features including aortic root aneurysm, arterial tortuosity, marfanoid habitus (tall stature, arachnodactyly), dural ectasia, and various skeletal and connective tissue findings, making it a very strong candidate. The presence of arterial tortuosity strongly favors LDS over classic Marfan syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 4 (LDS4)",
+      "disease_id": "OMIM:614816",
+      "score": 1.0,
+      "explanation": "Caused by TGFB2 mutations, LDS4 shares the core vascular and skeletal features, including aortic root aneurysm, arterial tortuosity, and marfanoid habitus, making it a highly relevant differential diagnosis. The patient's presentation aligns well with the broad spectrum of Loeys-Dietz Syndrome."
+    },
+    {
+      "disease_name": "Loeys-Dietz Syndrome Type 3 (LDS3)",
+      "disease_id": "OMIM:613795",
+      "score": 1.0,
+      "explanation": "This type, associated with SMAD3 mutations (also known as Aneurysms-Osteoarthritis Syndrome), includes arterial aneurysms and dissections, arterial tortuosity, and skeletal features consistent with a connective tissue disorder. While often featuring early-onset osteoarthritis, the vascular and marfanoid features align well with the patient's presentation."
+    },
+    {
+      "disease_name": "Marfan Syndrome",
+      "disease_id": "OMIM:154700",
+      "score": 0.5,
+      "explanation": "Marfan Syndrome is a classic connective tissue disorder that explains a vast majority of the patient's symptoms, including tall stature, arachnodactyly, aortic root aneurysm, mitral valve prolapse, dural ectasia, abnormal sternum, high palate, spondylolisthesis, pes planus, striae distensae, and protrusio acetabuli. While arterial tortuosity can be present, it is a less prominent or widespread feature compared to Loeys-Dietz Syndrome, which is why it is ranked slightly lower."
+    },
+    {
+      "disease_name": "Shprintzen-Goldberg Syndrome",
+      "disease_id": "OMIM:182212",
+      "score": 0.33,
+      "explanation": "Shprintzen-Goldberg Syndrome shares significant phenotypic overlap with Marfan and Loeys-Dietz syndromes, including marfanoid habitus (tall stature, arachnodactyly), aortic root dilatation/aneurysm, dural ectasia, and skeletal abnormalities. It is a valid differential, though classic presentations often include intellectual disability and distinctive craniofacial features not explicitly mentioned in this patient's data."
+    },
+    {
+      "disease_name": "Ehlers-Danlos Syndrome, Vascular Type (vEDS)",
+      "disease_id": "OMIM:122700",
+      "score": 0.25,
+      "explanation": "Vascular Ehlers-Danlos Syndrome is characterized by extreme arterial fragility leading to aneurysms and ruptures, and can involve the aorta. However, the prominent aortic root aneurysm combined with the specific constellation of skeletal features (arachnodactyly, tall stature, dural ectasia, abnormal sternum) is more typical of Marfan or Loeys-Dietz syndromes. While arterial issues are central, the overall phenotypic fit is less strong than for the top ranked diseases."
+    },
+    {
+      "disease_name": "Arterial Tortuosity Syndrome",
+      "disease_id": "OMIM:208500",
+      "score": 0.2,
+      "explanation": "This syndrome is primarily defined by widespread arterial tortuosity, which is a key feature in this patient. However, the comprehensive marfanoid habitus, significant aortic root aneurysm, dural ectasia, and specific skeletal findings are more broadly encompassing in Loeys-Dietz or Marfan syndromes. While relevant for arterial tortuosity, it is less likely to explain the full phenotypic spectrum compared to the higher-ranked diseases."
+    }
+  ]
+}

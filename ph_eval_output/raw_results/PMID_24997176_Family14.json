@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Leber Congenital Amaurosis 1",
+      "disease_id": "OMIM:204000",
+      "score": 1.0,
+      "explanation": "This is a primary candidate for severe, early-onset visual impairment. It typically presents with profound low visual acuity from infancy (P2Y), nystagmus, and often hypermetropia. Eye poking is a classic self-stimulatory behavior observed in children with profound congenital vision loss, making this an excellent fit for all described features."
+    },
+    {
+      "disease_name": "Leber Congenital Amaurosis 10",
+      "disease_id": "OMIM:610142",
+      "score": 0.5,
+      "explanation": "Similar to other LCA subtypes, LCA10 (caused by CEP290 mutations) presents with profound congenital visual loss, nystagmus, and frequently hypermetropia. The very low visual acuity often leads to compensatory behaviors like eye poking. It represents a common and distinct genetic cause of LCA."
+    },
+    {
+      "disease_name": "Achromatopsia 2",
+      "disease_id": "OMIM:262300",
+      "score": 0.33,
+      "explanation": "Achromatopsia is a congenital disorder characterized by severe reduction in visual acuity, nystagmus, and photophobia. Hypermetropia is commonly associated. The profound visual impairment would lead to the observed eye poking behavior. This condition aligns well with all presented ocular phenotypes."
+    },
+    {
+      "disease_name": "Oculocutaneous Albinism Type IA",
+      "disease_id": "OMIM:203100",
+      "score": 0.25,
+      "explanation": "Albinism is characterized by congenital nystagmus, reduced visual acuity (often severe), and foveal hypoplasia. Hypermetropia is a common refractive error. Eye poking is frequently seen in children with severe visual impairment due to albinism. While hypopigmentation is not mentioned, the ocular features are highly consistent."
+    },
+    {
+      "disease_name": "Ocular Albinism Type 1",
+      "disease_id": "OMIM:300500",
+      "score": 0.2,
+      "explanation": "Similar to oculocutaneous albinism, ocular albinism presents with nystagmus, significant reduction in visual acuity due to foveal hypoplasia, and often hypermetropia. This severe visual deficit leads to behaviors such as eye poking. This X-linked condition predominantly affects males and matches the observed ocular symptoms."
+    }
+  ]
+}

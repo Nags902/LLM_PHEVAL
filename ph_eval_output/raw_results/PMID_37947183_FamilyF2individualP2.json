@@ -1,0 +1,52 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Dravet Syndrome (SCN1A-related severe myoclonic epilepsy of infancy)",
+      "disease_id": "OMIM:607208",
+      "score": 1.0,
+      "explanation": "This syndrome is characterized by early-onset intractable seizures, including myoclonic seizures and prolonged febrile seizures often leading to status epilepticus. Global developmental delay, hypotonia, and motor coordination issues are prominent features, strongly matching the patient's presentation."
+    },
+    {
+      "disease_name": "CDKL5 Deficiency Disorder (Epileptic Encephalopathy, Early Infantile, 2)",
+      "disease_id": "OMIM:300672",
+      "score": 0.5,
+      "explanation": "CDKL5 Deficiency Disorder typically presents with very early-onset intractable seizures (often epileptic spasms or tonic-clonic seizures, frequently leading to status epilepticus), severe global developmental delay, profound hypotonia, and often features like nystagmus and specific movement abnormalities, making it a strong candidate."
+    },
+    {
+      "disease_name": "STXBP1 Encephalopathy (Epileptic Encephalopathy, Early Infantile, 4)",
+      "disease_id": "OMIM:613721",
+      "score": 0.3333333333333333,
+      "explanation": "STXBP1 encephalopathy is a severe early-onset epileptic encephalopathy with profound global developmental delay, hypotonia, and various seizure types including myoclonic seizures and often status epilepticus. Nystagmus can also be observed."
+    },
+    {
+      "disease_name": "KCNQ2-related epileptic encephalopathy",
+      "disease_id": "OMIM:613720",
+      "score": 0.25,
+      "explanation": "While KCNQ2 mutations can cause benign neonatal seizures, they are also a significant cause of severe early-onset epileptic encephalopathy, characterized by intractable seizures (including status epilepticus), global developmental delay, and hypotonia, aligning well with the patient's symptoms."
+    },
+    {
+      "disease_name": "SCN2A-related epileptic encephalopathy (Epileptic Encephalopathy, Early Infantile, 11)",
+      "disease_id": "OMIM:607292",
+      "score": 0.2,
+      "explanation": "SCN2A mutations can cause a spectrum of epilepsies, including severe early-onset epileptic encephalopathy with intractable seizures (status epilepticus, myoclonus), profound global developmental delay, and hypotonia, matching the patient's severe neurological phenotype."
+    },
+    {
+      "disease_name": "Infantile Neuroaxonal Dystrophy (Neurodegeneration with Brain Iron Accumulation 2A)",
+      "disease_id": "OMIM:256600",
+      "score": 0.16666666666666666,
+      "explanation": "This is a progressive neurodegenerative disorder of infancy characterized by psychomotor regression, hypotonia evolving to spasticity, seizures (including myoclonus), and nystagmus. While primarily degenerative, it explains the global delay, hypotonia, and some seizure activity."
+    },
+    {
+      "disease_name": "Leigh Syndrome",
+      "disease_id": "OMIM:256000",
+      "score": 0.14285714285714285,
+      "explanation": "Leigh Syndrome is a severe mitochondrial encephalopathy that often presents in infancy with developmental delay or regression, hypotonia, and various neurological symptoms including seizures (which can be myoclonic or involve status epilepticus) and nystagmus."
+    },
+    {
+      "disease_name": "GM1 Gangliosidosis, Type 1 (Infantile)",
+      "disease_id": "OMIM:230500",
+      "score": 0.125,
+      "explanation": "The infantile form of GM1 gangliosidosis is a severe lysosomal storage disorder characterized by early developmental regression, hypotonia, myoclonic seizures, and often other neurological signs. Status epilepticus can occur in advanced stages."
+    }
+  ]
+}

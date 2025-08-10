@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Adenosine deaminase overproduction",
+      "disease_id": "OMIM:102720",
+      "score": 1.0,
+      "explanation": "The presence of elevated red cell adenosine deaminase activity is the defining biochemical hallmark of this rare syndrome, which also causes chronic hemolytic anemia (consistent with the patient's anemia and increased mean corpuscular volume). While the colon cancer and small thenar eminence are atypical features not typically associated with adenosine deaminase overproduction, the highly specific enzyme finding makes this the most likely primary diagnosis, with the other findings potentially representing co-occurring unrelated conditions or a very rare, complex presentation not yet fully characterized."
+    },
+    {
+      "disease_name": "Fanconi Anemia",
+      "disease_id": "OMIM:227650",
+      "score": 0.5,
+      "explanation": "Fanconi Anemia is a strong candidate given the combination of progressive bone marrow failure (leading to macrocytic anemia and increased mean corpuscular volume), congenital abnormalities (such as radial ray defects, which can include small thenar eminence), and a significantly increased risk of various cancers, including solid tumors like colon cancer. However, this condition does not explain the very specific finding of elevated red cell adenosine deaminase activity, which is not associated with Fanconi Anemia."
+    },
+    {
+      "disease_name": "Diamond-Blackfan Anemia",
+      "disease_id": "OMIM:105650",
+      "score": 0.33,
+      "explanation": "Diamond-Blackfan anemia is a congenital pure red cell aplasia characterized by macrocytic anemia and often presenting with physical anomalies, including upper limb defects such as those affecting the thenar eminence. There is also an increased risk of malignancy. However, the association with colon cancer is less pronounced than in Fanconi anemia, and crucially, this condition does not explain the elevated red cell adenosine deaminase activity; in some forms, red cell ADA activity may even be decreased."
+    }
+  ]
+}

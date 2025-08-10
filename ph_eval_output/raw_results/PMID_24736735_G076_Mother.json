@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Greig Cephalopolysyndactyly Syndrome",
+      "disease_id": "OMIM:175700",
+      "score": 1.0,
+      "explanation": "This syndrome is classically defined by the combination of preaxial polydactyly (often affecting hands and/or feet) and cutaneous syndactyly, typically involving fingers 3-4 and/or toes 2-3. Both listed phenotypic features are primary diagnostic criteria for this condition."
+    },
+    {
+      "disease_name": "Acrocallosal Syndrome",
+      "disease_id": "OMIM:200990",
+      "score": 0.5,
+      "explanation": "Acrocallosal Syndrome is characterized by a distinctive constellation of features including agenesis of the corpus callosum, intellectual disability, and characteristic limb anomalies such as preaxial polydactyly and syndactyly. While central nervous system findings are paramount, the presence of both syndactyly and preaxial foot polydactyly makes it a strong candidate based solely on the provided limb phenotypes. Acrocallosal Syndrome type 2 (OMIM:613867) is specifically caused by mutations in the GLI3 gene, similar to Greig Cephalopolysyndactyly Syndrome, highlighting the phenotypic overlap in digital anomalies."
+    },
+    {
+      "disease_name": "Pallister-Hall Syndrome",
+      "disease_id": "OMIM:146580",
+      "score": 0.3333333333333333,
+      "explanation": "Pallister-Hall Syndrome is a GLI3-related ciliopathy that can present with polydactyly and syndactyly. Although often associated with postaxial or mesoaxial polydactyly, preaxial polydactyly can occur. The overlapping genetic etiology with Greig Cephalopolysyndactyly Syndrome and Acrocallosal Syndrome supports its consideration, despite the absence of other hallmark features like hypothalamic hamartoma or imperforate anus in the provided patient data."
+    }
+  ]
+}

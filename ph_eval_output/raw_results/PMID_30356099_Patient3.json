@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "STXBP1-related encephalopathy",
+      "disease_id": "OMIM:613567",
+      "score": 1.0,
+      "explanation": "This disease is an excellent match, presenting with early-onset epileptic encephalopathy (including epileptic spasms), severe global developmental delay, and often hypokinesia. Neuroimaging frequently reveals cerebral atrophy and a thin corpus callosum, consistent with the patient's findings."
+    },
+    {
+      "disease_name": "Pyruvate Dehydrogenase Complex Deficiency, X-linked (PDHA1-related)",
+      "disease_id": "OMIM:312170",
+      "score": 0.5,
+      "explanation": "Pyruvate dehydrogenase complex deficiency is a metabolic disorder that can manifest in infancy with severe neurological dysfunction, including profound global developmental delay, seizures (often intractable, including spasms), hypotonia or hypokinesia, and characteristic brain abnormalities such as cerebral atrophy and corpus callosum hypoplasia/thinning."
+    },
+    {
+      "disease_name": "Zellweger Syndrome, Type 1 (PEX1-related)",
+      "disease_id": "OMIM:214100",
+      "score": 0.33,
+      "explanation": "As the most severe end of the Zellweger Syndrome Spectrum, this peroxisomal biogenesis disorder presents in infancy with profound global developmental delay, severe hypotonia (leading to hypokinesia), intractable seizures (including spasms), and significant brain abnormalities like cerebral atrophy and corpus callosum dysgenesis/thinning."
+    },
+    {
+      "disease_name": "Infantile Neuroaxonal Dystrophy (PLA2G6-associated)",
+      "disease_id": "OMIM:256600",
+      "score": 0.25,
+      "explanation": "Infantile Neuroaxonal Dystrophy is a progressive neurodegenerative disorder of infancy characterized by developmental regression (global developmental delay), movement disorders (including hypokinesia), and frequently seizures. Brain imaging typically shows cerebellar atrophy, but cerebral atrophy and sometimes thinning of the corpus callosum can also be observed."
+    },
+    {
+      "disease_name": "Aicardi Syndrome",
+      "disease_id": "OMIM:304050",
+      "score": 0.2,
+      "explanation": "Aicardi Syndrome is classically defined by the triad of agenesis of the corpus callosum, infantile spasms, and chorioretinal lacunae, all leading to severe global developmental delay. While corpus callosum agenesis is more common, a thin corpus callosum is on the spectrum. Cerebral atrophy can be a secondary finding. Although primarily affecting females, rare cases in males (e.g., XXY karyotype or mosaicism) have been reported, making it a less likely but still possible consideration given the strong neuroimaging and seizure profile."
+    }
+  ]
+}

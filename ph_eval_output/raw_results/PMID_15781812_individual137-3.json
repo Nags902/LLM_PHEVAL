@@ -1,0 +1,46 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Lafora Disease, EPM2A-related",
+      "disease_id": "OMIM:254780",
+      "score": 1.0,
+      "explanation": "This is a prime candidate for progressive myoclonic epilepsy (PME), characterized by rapidly progressive dementia, prominent myoclonus, and various seizure types, including generalized tonic-clonic and myoclonic seizures. The patient's age and overall progressive neurological deterioration fit perfectly."
+    },
+    {
+      "disease_name": "Lafora Disease, NHLRC1-related",
+      "disease_id": "OMIM:607876",
+      "score": 0.5,
+      "explanation": "Genetically distinct but clinically very similar to EPM2A-related Lafora disease, this form also presents with the classic triad of progressive myoclonus, generalized seizures, and rapidly progressive dementia. It is another highly probable cause given the patient's symptoms."
+    },
+    {
+      "disease_name": "Unverricht-Lundborg Disease",
+      "disease_id": "OMIM:254800",
+      "score": 0.3333333333333333,
+      "explanation": "A common and severe form of progressive myoclonic epilepsy (PME) characterized by stimulus-sensitive myoclonus, generalized tonic-clonic seizures, ataxia (gait disturbance), and progressive neurological deterioration, including cognitive decline and dementia. This aligns well with the patient's age and comprehensive symptom profile."
+    },
+    {
+      "disease_name": "Neuronal Ceroid Lipofuscinosis 8",
+      "disease_id": "OMIM:600143",
+      "score": 0.25,
+      "explanation": "This type of neuronal ceroid lipofuscinosis (NCL) typically presents in adolescence with progressive epilepsy (including myoclonic and tonic-clonic seizures), intellectual deterioration, and motor regression, which strongly aligns with the patient's dementia, gait disturbance, and progressive neurologic decline."
+    },
+    {
+      "disease_name": "Myoclonic Epilepsy with Ragged Red Fibers",
+      "disease_id": "OMIM:545000",
+      "score": 0.2,
+      "explanation": "A mitochondrial encephalomyopathy characterized by myoclonus, generalized seizures (including bilateral tonic-clonic), ataxia (gait disturbance), and progressive neurological decline including dementia. This constellation of symptoms fits the patient's presentation very well."
+    },
+    {
+      "disease_name": "Dentatorubral-Pallidoluysian Atrophy",
+      "disease_id": "OMIM:125370",
+      "score": 0.16666666666666666,
+      "explanation": "An inherited trinucleotide repeat disorder that can manifest with a combination of myoclonus, epilepsy, ataxia (gait disturbance), and progressive dementia, often with a variable age of onset spanning into adulthood. This broad clinical spectrum makes it a relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Sialidosis Type 1",
+      "disease_id": "OMIM:256500",
+      "score": 0.14285714285714285,
+      "explanation": "A lysosomal storage disorder that typically presents in adolescence or adulthood with progressive myoclonus, ataxia (gait disturbance), generalized seizures, and progressive cognitive decline/dementia. While the characteristic cherry-red spot is not mentioned, the core neurological features are consistent."
+    }
+  ]
+}

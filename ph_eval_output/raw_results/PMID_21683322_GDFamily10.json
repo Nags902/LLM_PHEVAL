@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1",
+      "disease_id": "OMIM:122470",
+      "score": 1.0,
+      "explanation": "This syndrome shows a strong overlap with many of the patient's phenotypic features. Key matches include long philtrum, smooth philtrum, thin upper lip vermilion, hypertelorism, short nose, moderately short stature, short palm, short foot, and limitation of joint mobility (due to contractures). While 'full cheeks' is less classic, the overall constellation of highly specific facial features combined with the skeletal and joint findings makes this a highly probable diagnosis."
+    },
+    {
+      "disease_name": "Fetal Alcohol Syndrome",
+      "disease_id": "OMIM:106820",
+      "score": 0.5,
+      "explanation": "Fetal Alcohol Syndrome (FAS) is a strong candidate for the highly specific facial triad of smooth philtrum, thin upper lip vermilion, and often a relatively long philtrum. Short stature is also a common feature. However, FAS typically presents with short palpebral fissures (not hypertelorism), and critically, 'limitation of joint mobility' and specific 'short palm'/'short foot' due to intrinsic skeletal issues are not characteristic features, which lowers its ranking compared to CdLS."
+    },
+    {
+      "disease_name": "Mucopolysaccharidosis Type VI (Maroteaux-Lamy Syndrome)",
+      "disease_id": "OMIM:253200",
+      "score": 0.3333333333333333,
+      "explanation": "Mucopolysaccharidosis Type VI is a lysosomal storage disorder that causes progressive coarse facial features, short stature, limitation of joint mobility (a hallmark), and skeletal abnormalities including dysostosis multiplex, which can manifest as short palms and feet. Hypertelorism, full cheeks, and a short nose can be consistent with coarse features. However, the specific features of 'long philtrum,' 'smooth philtrum,' and 'thin upper lip vermilion' are generally not typical for MPS VI, where lips tend to be thickened and the philtrum flattened but not necessarily smooth and long."
+    }
+  ]
+}

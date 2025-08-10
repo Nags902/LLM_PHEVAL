@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 3",
+      "disease_id": "OMIM:109150",
+      "score": 1.0,
+      "explanation": "Spinocerebellar Ataxia Type 3 (Machado-Joseph Disease) is the most common autosomal dominant ataxia worldwide. It typically presents in adulthood (P33Y fits well) with progressive cerebellar ataxia (unsteady gait) and a wide range of other neurological symptoms, including prominent nystagmus and other oculomotor dysfunction. Its high prevalence and phenotypic match make it a strong primary candidate."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 2",
+      "disease_id": "OMIM:183090",
+      "score": 0.5,
+      "explanation": "Spinocerebellar Ataxia Type 2 is another common autosomal dominant ataxia with typical adult onset. Its clinical features frequently include progressive cerebellar ataxia (unsteady gait) and oculomotor abnormalities such as slow saccadic eye movements, which can present as or with nystagmus."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 1",
+      "disease_id": "OMIM:164400",
+      "score": 0.333,
+      "explanation": "Spinocerebellar Ataxia Type 1 is an autosomal dominant neurodegenerative disorder that typically manifests in adulthood. It is characterized by progressive cerebellar ataxia (unsteady gait), dysarthria, and eye movement abnormalities including nystagmus, making it a relevant differential diagnosis."
+    },
+    {
+      "disease_name": "Spinocerebellar Ataxia Type 6",
+      "disease_id": "OMIM:183086",
+      "score": 0.25,
+      "explanation": "Spinocerebellar Ataxia Type 6 is known for causing a relatively pure cerebellar syndrome, presenting with slowly progressive gait ataxia (unsteady gait) and dysarthria. Nystagmus, particularly downbeat nystagmus, is a very common and often prominent feature, fitting the patient's reported symptoms, typically with later adult onset."
+    },
+    {
+      "disease_name": "Cerebellar Ataxia, Neuropathy, Vestibular Areflexia Syndrome",
+      "disease_id": "OMIM:614560",
+      "score": 0.2,
+      "explanation": "CANVAS is a late-onset, slowly progressive disorder characterized by cerebellar ataxia (unsteady gait), bilateral vestibulopathy (leading to imbalance and often nystagmus or oscillopsia), and sensory neuropathy. It presents in adulthood and aligns well with both key phenotypic features provided."
+    }
+  ]
+}

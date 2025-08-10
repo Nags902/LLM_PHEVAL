@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "CDKL5-related epileptic encephalopathy",
+      "disease_id": "OMIM:300672",
+      "score": 1.0,
+      "explanation": "This is a very strong candidate. CDKL5 Deficiency Disorder is a well-established cause of early-onset epileptic encephalopathy with severe global developmental delay. Infantile spasms and hypsarrhythmia are very common features, frequently evolving into other intractable seizure types, including tonic seizures. While Continuous Spike and Waves during Slow Sleep (CSWS) is not a defining feature, complex and atypical EEG patterns are characteristic, and CSWS-like features have been reported within the broad spectrum of the disease's epilepsy phenotypes."
+    },
+    {
+      "disease_name": "Epileptic encephalopathy, early infantile, 4, STXBP1-related",
+      "disease_id": "OMIM:613721",
+      "score": 0.5,
+      "explanation": "STXBP1 encephalopathy is another common and severe early-onset epileptic encephalopathy. It is characterized by profound global developmental delay, and a wide spectrum of seizures including infantile spasms and tonic seizures. Hypsarrhythmia is frequently observed. Similar to CDKL5, the EEG can be highly abnormal and complex, with some reports indicating the presence of CSWS-like patterns, making it a strong match for the patient's combined presentation."
+    },
+    {
+      "disease_name": "Epilepsy, rolandic, with intellectual disability and speech dyspraxia, GRIN2A-related",
+      "disease_id": "OMIM:616139",
+      "score": 0.33,
+      "explanation": "GRIN2A mutations are a significant cause of various epilepsies, prominently including epilepsy with continuous spike and waves during slow sleep (CSWS) and Landau-Kleffner syndrome. While infantile spasms and hypsarrhythmia are not classical primary features, GRIN2A-related disorders encompass a broad spectrum of epileptic encephalopathies with global developmental delay and diverse seizure types, including focal tonic seizures. If the patient's infantile spasms preceded the development of CSWS, this etiology is highly relevant."
+    },
+    {
+      "disease_name": "Lissencephaly, X-linked, with abnormal genitalia, ARX-related",
+      "disease_id": "OMIM:300483",
+      "score": 0.25,
+      "explanation": "ARX gene mutations cause a spectrum of severe X-linked neurodevelopmental disorders, including early infantile epileptic encephalopathies such as Ohtahara syndrome and West syndrome, which are characterized by severe global developmental delay, intractable seizures (including infantile spasms and focal tonic seizures), and hypsarrhythmia. While CSWS is not a hallmark, the severe and complex nature of the epilepsy often involves diffuse EEG abnormalities that could encompass such features. It remains a strong candidate, especially if the patient is male."
+    },
+    {
+      "disease_name": "Intellectual disability, autosomal recessive 19, SPTAN1-related",
+      "disease_id": "OMIM:617933",
+      "score": 0.2,
+      "explanation": "SPTAN1-related encephalopathy is characterized by early-onset epileptic encephalopathy, severe global developmental delay, and often includes infantile spasms and hypsarrhythmia. Other seizure types, including tonic seizures, are common. Although specific reports of CSWS are less prevalent compared to some other genes, the overall severe and progressive nature of the epileptic encephalopathy with a broad range of EEG abnormalities makes it a plausible candidate for the patient's complex neurological profile."
+    }
+  ]
+}

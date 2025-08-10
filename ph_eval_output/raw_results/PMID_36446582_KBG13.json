@@ -1,0 +1,34 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "KBG Syndrome",
+      "disease_id": "OMIM:148050",
+      "score": 1.0,
+      "explanation": "This syndrome is the most likely candidate due to the remarkable congruence with multiple distinctive phenotypic features, especially the rare combination of macrodontia (a hallmark feature), triangular face, and thick eyebrows. Other strongly matching features include intellectual disability, global developmental delay, short stature, intrauterine growth retardation, motor delay, attention deficit hyperactivity disorder, recurrent otitis media, and feeding difficulties. While microcephaly and a long philtrum are less consistently reported or can be variable, the high concordance with multiple specific and less common features makes it the strongest match."
+    },
+    {
+      "disease_name": "Cornelia de Lange Syndrome 1 (NIPBL-related)",
+      "disease_id": "OMIM:122470",
+      "score": 0.5,
+      "explanation": "Many features align well with Cornelia de Lange Syndrome, including intellectual disability, global developmental delay, short stature, intrauterine growth retardation, motor delay, microcephaly, thick eyebrows (often synophrys), long philtrum, recurrent otitis media, and feeding difficulties. However, macrodontia and a distinctly triangular face are not typical for CdLS. Other CdLS subtypes (e.g., SMC1A, SMC3, RAD21, HDAC8, ANKRD11 related) share similar features."
+    },
+    {
+      "disease_name": "Coffin-Siris Syndrome 1 (ARID1B-related)",
+      "disease_id": "OMIM:135900",
+      "score": 0.33,
+      "explanation": "This syndrome presents with several matching features such as intellectual disability, global developmental delay, short stature, microcephaly, thick eyebrows, motor delay, recurrent otitis media, and feeding difficulties. However, macrodontia, triangular face, and a distinctly long philtrum are not considered classic features, although facial variability occurs across the many CSS subtypes (e.g., ARID1A, SMARCB1, SMARCA4, SMARCE1, ARID2, DPF2, SMARCA2, SMARCD1, SOX4, SOX11, SOX6, SMARCC2 related)."
+    },
+    {
+      "disease_name": "Kabuki Syndrome 1 (KMT2D-related)",
+      "disease_id": "OMIM:147920",
+      "score": 0.25,
+      "explanation": "Kabuki Syndrome shares several overlapping features including intellectual disability, global developmental delay, short stature, motor delay, microcephaly (variable), long philtrum, recurrent otitis media, and feeding difficulties. Thick eyebrows can also be present (often arched). However, macrodontia and a triangular face are not characteristic of Kabuki syndrome. Kabuki Syndrome 2 (KDM6A-related) shares similar features."
+    },
+    {
+      "disease_name": "Wiedemann-Steiner Syndrome",
+      "disease_id": "OMIM:615779",
+      "score": 0.2,
+      "explanation": "This syndrome is characterized by intellectual disability, developmental delay, short stature, thick eyebrows, and feeding difficulties. While some features like a variable long philtrum and microcephaly can be present, it does not typically include macrodontia, triangular face, or severe intrauterine growth retardation, making it a less precise fit for the full phenotypic spectrum."
+    }
+  ]
+}

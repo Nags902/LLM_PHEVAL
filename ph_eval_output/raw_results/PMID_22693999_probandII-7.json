@@ -1,0 +1,22 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Light Chain Amyloidosis (AL Amyloidosis)",
+      "disease_id": "OMIM:105270",
+      "score": 1.0,
+      "explanation": "AL amyloidosis is the most common form of systemic amyloidosis in adults and frequently presents with amyloidosis of peripheral nerves (neuropathy) and significant gastrointestinal involvement, manifesting as both chronic diarrhea and chronic constipation due to amyloid deposition in the enteric nervous system and gut wall. The patient's age (P62Y) and gender are highly consistent with the typical presentation of AL amyloidosis."
+    },
+    {
+      "disease_name": "Hereditary Transthyretin Amyloidosis (hATTR Amyloidosis)",
+      "disease_id": "OMIM:105210",
+      "score": 0.5,
+      "explanation": "hATTR amyloidosis, also known as Familial Amyloid Polyneuropathy, is a classic cause of progressive sensorimotor and autonomic neuropathy, leading to amyloidosis of peripheral nerves. Gastrointestinal symptoms such as chronic diarrhea and chronic constipation, resulting from autonomic dysfunction and direct amyloid deposition, are very common and often prominent features. The patient's age is within the typical range for onset of many hATTR variants."
+    },
+    {
+      "disease_name": "Wild-type Transthyretin Amyloidosis (ATTRwt Amyloidosis)",
+      "disease_id": "OMIM:105210",
+      "score": 0.3333333333333333,
+      "explanation": "ATTRwt amyloidosis typically affects older individuals, predominantly men, making the patient's age (P62Y) and gender highly relevant. While primarily known for cardiac involvement, ATTRwt can also cause amyloidosis of peripheral nerves and gastrointestinal symptoms (diarrhea, constipation), although these manifestations are generally less severe or pronounced compared to hATTR or AL amyloidosis, especially early in the disease course."
+    }
+  ]
+}

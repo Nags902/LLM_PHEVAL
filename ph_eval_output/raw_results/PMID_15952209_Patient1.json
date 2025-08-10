@@ -1,0 +1,28 @@
+{
+  "ranked_diseases": [
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Dominant",
+      "disease_id": "OMIM:180700",
+      "score": 1.0,
+      "explanation": "This patient's phenotypic profile strongly aligns with Robinow Syndrome. Key matching features include mesomelia, brachydactyly, broad thumb, the characteristic 'fetal face' (frontal bossing, hypertelorism, short nose, anteverted nares, long philtrum, triangular mouth), micropenis, and short stature. Joint hypermobility can be present. While symphalangism affecting the 5th finger is less classically emphasized in all descriptions of Robinow Syndrome, other digital anomalies are common, and the overall constellation of features is highly suggestive. Autosomal dominant forms are typically caused by mutations in WNT5A or DVL1."
+    },
+    {
+      "disease_name": "Robinow Syndrome, Autosomal Recessive",
+      "disease_id": "OMIM:268310",
+      "score": 0.9,
+      "explanation": "Similar to the autosomal dominant form, autosomal recessive Robinow Syndrome (often due to ROR2 mutations) also presents with profound mesomelia, brachydactyly, broad thumbs, distinct facial dysmorphism ('fetal face'), micropenis, and short stature. The AR form may present with more severe skeletal involvement and is a very strong candidate given the overall phenotypic overlap. An additional recently identified AR form is caused by NXN mutations (OMIM:619077), sharing similar features."
+    },
+    {
+      "disease_name": "Acrodysostosis 1 with or without hormone resistance",
+      "disease_id": "OMIM:101800",
+      "score": 0.5,
+      "explanation": "Acrodysostosis is considered due to the presence of brachydactyly, short stature, frontal bossing, hypertelorism, short nose, and potentially broad thumbs and small nails. Joint hypermobility can also be seen. However, this syndrome does not typically feature mesomelia, symphalangism, a long philtrum, triangular mouth, or micropenis as prominent characteristics, making it a less precise fit than Robinow Syndrome. Other types, Acrodysostosis 2 (OMIM:619095) and Acrodysostosis 3 (OMIM:619217), share similar core features related to limb and facial anomalies."
+    },
+    {
+      "disease_name": "Noonan Syndrome 1",
+      "disease_id": "OMIM:163950",
+      "score": 0.333,
+      "explanation": "Noonan Syndrome, especially type 1 (PTPN11-related), shares some features such as short stature, hypertelorism, and general facial dysmorphism that can include a short nose and long philtrum, and joint hypermobility. Brachydactyly can occur. However, the specific features of mesomelia, broad thumb, symphalangism, frontal bossing, triangular mouth, and micropenis are not typical hallmark features of Noonan Syndrome, making it a less likely but still a possible broad differential due to overlapping general dysmorphic features and short stature."
+    }
+  ]
+}
