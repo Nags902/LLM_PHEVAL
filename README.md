@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # LLM_PHEVAL: A Retrieval-Augmented LLM pipeline for rare-disease diagnosis
 
 LLM_PHEVAL is a research pipeline for phenotype-driven rare-disease diagnosis.
@@ -5,12 +8,9 @@ It combines retrieval-augmented generation (RAG) with large language models (LLM
 
 The project is built on top of the PhEval benchmarking framework and provides a plugin runner to evaluate LLM-based diagnostic strategies against curated phenopacket data. 
 
-# Docs
+## Installation
 
-https://nags902.github.io/LLM_PIPELINE_PHEVAL/
-
-# Installation
-Prerequisites
+### Prerequisites
 
 Python 3.10+
 
@@ -20,7 +20,7 @@ API keys – supports OpenAI, Anthropic, and Google Gemini.
 
 At minimum, set GEMINI_API_KEY for Gemini queries.
 
-Steps
+### Steps
 
 Clone the repo and install dependencies:
 
@@ -56,7 +56,7 @@ Then run:
 python src/llm_pipeline_pheval/prepare/RAG_embedd&index.py
 ```
 
-# Usage
+## Usage
 
 Running through PhEval
 
@@ -94,32 +94,32 @@ Evaluation metrics and PR/ROC/rank curves will be available under ph_eval_output
 To add your own phenopackets upload to : LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
 
 
-# Configuration Files
+## Configuration Files
 
 config.yaml – controls PhEval options (gene/variant analysis disabled; disease analysis enabled).
 
 benchmarking_config.yaml – defines benchmark runs and plot customisation (PR, ROC, rank curves).
 
-Troubleshooting & FAQ
+## Troubleshooting & FAQ
 
-Phenopackets directory not found – ensure JSONs are in src/llm_pipeline_pheval/run/Phenopackets.
+- **Phenopackets directory not found** → ensure JSONs are in `src/llm_pipeline_pheval/run/Phenopackets`.
 
-GEMINI_API_KEY not set – export your API key before running.
+- **API key not set** → export `GEMINI_API_KEY` before running.
 
-“No json… block found” – make sure the LLM prompt enforces fenced JSON output.
+- **“No json… block found”** – make sure the LLM prompt enforces fenced JSON output. Prompt template can be found at : LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/prompt_template.j2
 
-Missing ranked_diseases field – outputs must include disease_name, disease_id, score.
+- **Missing ranked_diseases field** – outputs must include disease_name, disease_id, score.
 
-# Contributing
+## Contributing
 
 Contributions are welcome!
 See CONTRIBUTING.md for guidelines.
 
-# License
+## License
 
 MIT License – see LICENSE.
 
-# Acknowledgements
+## Acknowledgements
 
 Developed and maintained by Nagasharan Seemakurti.
 
