@@ -1,12 +1,13 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-# LLM_PHEVAL: A Retrieval-Augmented LLM pipeline for rare-disease diagnosis
+# LLM_PHEVAL: A Retrieval-Augmented LLM Pipeline for Rare-Disease Diagnosis
 
-LLM_PHEVAL is a research pipeline for phenotype-driven rare-disease diagnosis.
-It combines retrieval-augmented generation (RAG) with large language models (LLMs) to process patient phenotypic data and generate ranked lists of candidate diseases.
+LLM_PHEVAL is a research pipeline developed as part of a Master’s project to evaluate the use of retrieval-augmented generation (RAG) combined with large language models (LLMs) for phenotype-driven rare-disease diagnosis. Rare diseases affect an estimated 3.5–5.9% of the global population, yet individual patients face diagnostic odysseys lasting years. Existing variant/gene prioritisation algorithms (VGPAs) such as Exomiser rely on structured phenotype matching but struggle with noisy or incomplete clinical data.
 
-The project is built on top of the PhEval benchmarking framework and provides a plugin runner to evaluate LLM-based diagnostic strategies against curated phenopacket data. 
+This pipeline explores whether LLMs, when augmented with retrieved historical phenotypic cases, can generate accurate ranked lists of candidate diseases. It integrates with the PhEval benchmarking framework for systematic comparison against established diagnostic tools.
+
+General overview of pipeline: `Phenopacket → RAG retrieval → LLM inference → JSON output → PhEval evaluation`
 
 ## Installation
 
@@ -56,7 +57,7 @@ Then run:
 python src/llm_pipeline_pheval/prepare/RAG_embedd&index.py
 ```
 
-## Usage
+## Running Pipeline 
 
 Running through PhEval
 
