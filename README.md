@@ -49,7 +49,7 @@ For quick tests, use extractor.py to copy the first 200 packets.
 
 (Optional if database did not download or if you want to upload your own GA4GH compliant phenopackets to the index) Build the FAISS index:
 
-Upload your own Phenopacket to : /LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/prepare/ALL_PHENOPACKETS_8K
+Upload your own Phenopacket to : `LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/prepare/ALL_PHENOPACKETS_8K`
 
 Then run:
 ```bash
@@ -91,7 +91,7 @@ post_process – converts JSON to Parquet, then produces PhEval disease result t
 
 Evaluation metrics and PR/ROC/rank curves will be available under ph_eval_output.
 
-To add your own phenopackets upload to : LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+To add your own phenopackets upload to `LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets`
 
 
 ## Configuration Files
@@ -106,7 +106,7 @@ benchmarking_config.yaml – defines benchmark runs and plot customisation (PR, 
 
 - **API key not set** → export `GEMINI_API_KEY` before running.
 
-- **“No json… block found”** – make sure the LLM prompt enforces fenced JSON output. Prompt template can be found at : LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/prompt_template.j2
+- **“No json… block found”** – make sure the LLM prompt enforces fenced JSON output. Prompt template can be found at : `LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/prompt_template.j2`
 
 - **Missing ranked_diseases field** – outputs must include disease_name, disease_id, score.
 
