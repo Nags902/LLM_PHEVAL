@@ -1,0 +1,11 @@
+comparison,model1,model2,statistic,p_value,significance,median_diff,mean_diff,cohens_d,n_cases,model1_median_rr,model2_median_rr,better_model
+Claude-Opus-4 vs GPT-4o,Claude-Opus-4,GPT-4o,86.5,4.26838247797025e-05,***,1.0,0.10275595238095231,0.2123297036326599,200,1.0,0.0,Claude-Opus-4
+Claude-Opus-4 vs Gemini-2.5-Flash,Claude-Opus-4,Gemini-2.5-Flash,189.5,5.018027328320795e-08,***,1.0,0.17900595238095235,0.37832587798858613,200,1.0,0.0,Claude-Opus-4
+DeepSeek-R1 vs Claude-Opus-4,DeepSeek-R1,Claude-Opus-4,262.5,0.543563018225497,ns,0.0,-0.013005952380952368,-0.026979050968064057,200,1.0,1.0,Claude-Opus-4
+DeepSeek-R1 vs GPT-4o,DeepSeek-R1,GPT-4o,97.0,0.0003655582892544573,***,1.0,0.08974999999999994,0.18422252342251355,200,1.0,0.0,DeepSeek-R1
+DeepSeek-R1 vs Gemini-2.5-Flash,DeepSeek-R1,Gemini-2.5-Flash,204.5,4.5418811452768105e-07,***,1.0,0.16599999999999998,0.34840028321387423,200,1.0,0.0,DeepSeek-R1
+Exomiser vs Claude-Opus-4,Exomiser,Claude-Opus-4,0.0,1.3277856072805188e-19,***,0.0,0.43516071428571435,1.2853067048487423,200,1.0,1.0,Claude-Opus-4
+Exomiser vs DeepSeek-R1,Exomiser,DeepSeek-R1,0.0,1.8214021553580858e-20,***,0.0,0.4481666666666667,1.3059339599843929,200,1.0,1.0,DeepSeek-R1
+Exomiser vs GPT-4o,Exomiser,GPT-4o,0.0,1.8764558243019362e-24,***,1.0,0.5379166666666666,1.5555803238353334,200,1.0,0.0,Exomiser
+Exomiser vs Gemini-2.5-Flash,Exomiser,Gemini-2.5-Flash,0.0,1.642521178663943e-27,***,1.0,0.6141666666666667,1.8581541103766435,200,1.0,0.0,Exomiser
+GPT-4o vs Gemini-2.5-Flash,GPT-4o,Gemini-2.5-Flash,249.0,0.0031286328144580614,**,0.0,0.07625000000000004,0.1594005598479351,200,0.0,0.0,Gemini-2.5-Flash

@@ -1,11 +1,44 @@
-# benchmark_name: llm_rag_deepseek_benchmark
+####RAG#######
+# benchmark_name: LLMs_RAG_Benchmark
 # runs:
-#   - run_identifier: llm_rag_deepseek_v0
-#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK/
+#   - run_identifier: Exomiser
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/Exomiser_files/
 #     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
-#     gene_analysis: false
-#     variant_analysis: false
-#     disease_analysis: true
+#     gene_analysis: False
+#     variant_analysis: False
+#     disease_analysis: True
+#     threshold:
+#     score_order: descending
+#   - run_identifier: DeepSeek-R1
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK_RAG/
+#     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+#     gene_analysis: False
+#     variant_analysis: False
+#     disease_analysis: True
+#     threshold:
+#     score_order: descending
+#   - run_identifier: Claude-Opus-4
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/CLAUDE_RAG/
+#     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+#     gene_analysis: False
+#     variant_analysis: False
+#     disease_analysis: True
+#     threshold:
+#     score_order: descending
+#   - run_identifier: GPT-4o
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI_RAG/
+#     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+#     gene_analysis: False
+#     variant_analysis: False
+#     disease_analysis: True
+#     threshold:
+#     score_order: descending
+#   - run_identifier: Gemini-2.5-Flash
+#     results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/GEMINI_RAG/
+#     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+#     gene_analysis: False
+#     variant_analysis: False
+#     disease_analysis: True
 #     threshold:
 #     score_order: descending
 # plot_customisation:
@@ -16,7 +49,7 @@
 #     precision_recall_title: 
 #   disease_plots:
 #     plot_type: bar_cumulative
-#     rank_plot_title: 
+#     rank_plot_title:
 #     roc_curve_title: 
 #     precision_recall_title: 
 #   variant_plots:
@@ -24,12 +57,40 @@
 #     rank_plot_title: 
 #     roc_curve_title: 
 #     precision_recall_title: 
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-benchmark_name: LLMs_RAG_Benchmark
+
+
+
+
+
+
+
+
+
+
+
+
+## no rag 
+benchmark_name: 22EXOMISER_VS_LLMS_RAG_Benchmark
 runs:
+  - run_identifier: Exomiser
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/Exomiser_files/pheval_disease_results/
+    phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+    gene_analysis: False
+    variant_analysis: False
+    disease_analysis: True
+    threshold:
+    score_order: descending
+  - run_identifier: Claude-Opus-4
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/CLAUDE_NO_RAG/
+    phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+    gene_analysis: False
+    variant_analysis: False
+    disease_analysis: True
+    threshold:
+    score_order: descending
   - run_identifier: DeepSeek-R1
-    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK/
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/DEEPSEEK_NO_RAG/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
     gene_analysis: False
     variant_analysis: False
@@ -37,7 +98,7 @@ runs:
     threshold:
     score_order: descending
   - run_identifier: GPT-4o
-    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI/
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI_NO_RAG/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
     gene_analysis: False
     variant_analysis: False
@@ -45,13 +106,53 @@ runs:
     threshold:
     score_order: descending
   - run_identifier: Gemini-2.5-Flash
-    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/pheval_disease_results/
+    results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/GEMINI_NO_RAG/
     phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
     gene_analysis: False
     variant_analysis: False
     disease_analysis: True
     threshold:
     score_order: descending
+  # - run_identifier: DEEPSEEK-R1_RAG_MONDO
+  #   results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/deepseekRAW_TO_Converted_parquet/
+  #   phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+  #   gene_analysis: False
+  #   variant_analysis: False
+  #   disease_analysis: True
+  #   threshold:
+  #   score_order: descending
+  # - run_identifier: GPT-4o_NO_RAG
+  #   results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI_NO_RAG/
+  #   phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+  #   gene_analysis: False
+  #   variant_analysis: False
+  #   disease_analysis: True
+  #   threshold:
+  #   score_order: descending
+  # - run_identifier: GPT-4o_RAG
+  #   results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/OPENAI_RAG/
+  #   phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+  #   gene_analysis: False
+  #   variant_analysis: False
+  #   disease_analysis: True
+  #   threshold:
+  #   score_order: descending
+  # - run_identifier: Gemini-2.5-Flash_NO_RAG
+  #   results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/GEMINI_NO_RAG/
+  #   phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+  #   gene_analysis: False
+  #   variant_analysis: False
+  #   disease_analysis: True
+  #   threshold:
+  #   score_order: descending
+  # - run_identifier: Gemini-2.5-Flash_RAG
+  #   results_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/ph_eval_output/GEMINI_RAG/
+  #   phenopacket_dir: /root/LLM_PIPELINE/LLM_PIPELINE_PHEVAL/src/llm_pipeline_pheval/run/Phenopackets
+  #   gene_analysis: False
+  #   variant_analysis: False
+  #   disease_analysis: True
+  #   threshold:
+  #   score_order: descending
 plot_customisation:
   gene_plots:
     plot_type: bar_cumulative

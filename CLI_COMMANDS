@@ -1,0 +1,9 @@
+poetry install
+
+to run pheval runner use this in the terminal : pheval run   -i .   -t src/llm_pipeline_pheval/run   -r runnerphevalllm   -o ph_eval_output
+
+put all data phenopackets into: src/llm_pipeline_pheval/run/Phenopackets
+
+runner is located in src/llm_pipeline_pheval
+
+benchmarker pheval-utils benchmark --run-yaml benchmarking_config.yaml
